@@ -1,0 +1,275 @@
+#,Title,JPja,USen
+1,"""0003""",撮影する,Capture
+2,"""0004""",やめる,Quit
+3,"""0005""",ズーム,Zoom
+4,"""0006""",アルバム,Album
+5,"""0007""",自分を写す,Self-Portrait
+6,"""0008""",景色を写す,Landscape Shot
+7,"""0010""",削除する,Delete
+8,"""0011""",保存する,Save
+9,"""0012""",新種を図鑑に登録します,Image added to Hyrule Compendium.
+10,"""0013""",図鑑の画像を差し替えますか？,Replace image in Hyrule Compendium?
+11,"""0014""",いまのまま,Keep Old Picture
+12,"""0015""",差し替える,Replace Picture
+13,Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_00,"a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+","a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+"
+14,Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_01,"
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+","
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+"
+15,Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_00,"
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+"
+16,Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_01,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+"
+17,Pa_ScanningLine_00-T_DecoD_00,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+18,Pa_ScanningLine_00-T_DecoU_00,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+19,Pa_SystemWindow_00-T_TextAlbum_00,アルバムに保存しますか？,Save in album?
+20,T_Full_00,空き容量不足,Your album is full.
+21,T_Guide_00,アルバムを開く,Open Album
+22,T_Zoom_00,Zoom,Zoom

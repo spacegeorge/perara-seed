@@ -1,0 +1,64 @@
+#,Title,JPja,USen
+1,"""0000""",水面に氷柱を作り出す,Create a pillar of ice from a water surface.
+2,"""0001""","作り出した氷柱はとても固く溶ける事もない
+水辺での足場や障害物として利用ができる
+作った氷柱に もう一度使う事で破壊もできる","Builds ice pillars that are very stable. These pillars can be
+used as stepping stonesor as obstacles. Use Cryonis on
+an ice pillar to breakit."
+3,"""0002""",FifthItem,FifthItem
+4,"""0003""",見えている景色を瞬時に絵にする,Instantly render a visible image into a picture.
+5,"""0004""","写し撮られた絵はアルバムに保存される
+ハイラル図鑑と連動しており 
+新種であれば自動で登録されていく便利機能付き","Pictures created are saved in the album. It has a useful
+feature that connects to the Hyrule Compendium and
+automatically registers pictures of new entries."
+6,"""0005""",SixthItem,SixthItem
+7,"""0006""",amiiboをかざすと冒険に役立つものが出現する,Use an amiibo to summon something useful.
+8,"""0007""","その時何が出てくるかは運任せ
+同じamiiboは一日に1回しか使う事ができない","You never know what's going to come through when you
+use it. Some amiibo can only be used once a day."
+9,"""0008""",SeventhItem,SeventhItem
+10,"""0009""",金属製の物を磁力で動かす,Manipulate metallic objects using magnetism.
+11,"""0010""","発射される磁力を当てる事で金属製の物をつかむ
+磁力でつかんだ物は持ち上げて自由に動かす事ができる","Grab on to metallic objects using the magnetic energy that
+pours forth from the Magnesis rune. Objects held in the magnetic
+snare can be lifted up and moved freely."
+12,"""0011""",ThirdItem,ThirdItem
+13,"""0012""",遠隔操作で起爆できる,A bomb that can be detonated remotely.
+14,"""0013""","爆風で魔物にダメージを与えたり物を破壊する事ができる
+丸型と四角型があるので状況に応じて使い分けられる","The force of the blast can be used to damagemonsters or
+destroy objects. There are both round and cube bombs,
+so use whichever best fits the situation."
+15,"""0014""",遠隔操作で起爆できる,A bomb that can be detonated remotely.
+16,"""0015""","強化されて爆風の威力が上がり再使用までの時間が短くなった
+爆風で魔物にダメージを与えたり物を破壊する事ができる
+丸型と四角型があるので状況に応じて使い分けられる","Powered-up bombs now have a stronger blast and
+recharge faster. The force of the blast can""damage
+monsters or destroy objects. There are round and cube
+bombs, so use whichever best fits the situation."
+17,"""0016""",FirstItem,FirstItem
+18,"""0017""",SecondItem,SecondItem
+19,"""0018""",物体の時間を止める,Stop the flow of time for an object.
+20,"""0019""","時間を止めた対象に衝撃を与えると動く力を溜める事ができる
+溜められた力は動き出した時に一気に解放されるので
+うまく使えば巨大な物を動かす事もできる","Stops an object in time while storing itskinetic energy.
+The stored energy will act upon the object when the flow
+of time resumes. Making good use of the stored energy
+can move even the largest of objects."
+21,"""0020""",物体の時間を止める,Stop the flow of time for an object.
+22,"""0021""","強化されて邪悪な者の時も止める事ができるようになった
+時間を止めた対象に衝撃を与えると動く力を溜める事ができる
+溜められた力をうまく使えば巨大な物を動かす事もできる","This powered-up Stasis rune can now time-stop evil creatures.
+Stopped objects storekinetic energy. The stored energy will act
+upon the object when the flow of time resumes. Making good use
+of the stored energy can move even the largest of objects."
+23,"""0022""",FourthItem,FourthItem
+24,"""0023""","適切なアイテムが入手されていません
+現在は使用する事ができません","You do not have the required
+item, so you cannot use this now."
+25,"""0024""",マスターバイク零式を呼び出す,Summon Master Cycle Zero
+26,"""0025""","素材をタンクに入れる事で エネルギーに換えて走る事ができる
+自由に呼び出す事ができるが一部の地域には対応していない","Insert materials into the tank to convert them into fuel.
+You can freely call upon this item, but summoning it
+will not work in certain areas."
+27,"""0026""",EighthItem,EighthItem

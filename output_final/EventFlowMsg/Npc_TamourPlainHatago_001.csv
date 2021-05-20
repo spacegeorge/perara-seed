@@ -1,0 +1,112 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes.
+2,"""0002""",ここって？,What is this place?
+3,"""0003""",あなたは？,Who are you?
+4,"""0004""",特に何も…,Nothing...
+5,"""0006""",不審者って？,Someone suspicious?
+6,talk00,おはようございます,Good morning.
+7,talk01,こんにちは,Good day.
+8,talk02,こんばんは,Good evening.
+9,talk03,あっ…,Ah...
+10,talk04,えっと…,Umm...
+11,talk05,お客さん…ですよね？,You're a customer...right?
+12,talk06,ならいいんです,"OK, good."
+13,talk07,い…いやっ…,No...
+14,talk08,そんな格好…やめてください,That outfit... Please don't.
+15,talk09,"うっ…馬を…""下りてください！
+
+あ…ごめんなさい
+ヒツジ達がびっくりしますので…","Argh! Please...get off that horse!
+
+
+*ahem* I'm sorry. I'm just worried you'll
+scare the sheep."
+16,talk10,"ヒツジ達がびっくりしますので
+近くで馬に乗るのは止めてくださいね","You'll scare the sheep, so please stop
+riding your horse around here!"
+17,talk12,私に何か ご用ですか？,Do you need something?
+18,talk13,また…,Again...
+19,talk14,さよなら,Bye.
+20,talk15,"わたっ…私？！
+
+いきなりそんな事聞かれても
+心の準備が…","Me?!
+
+
+You can't just ask me out of the blue
+like that... I'm not mentally prepared
+for this!"
+21,talk16,ミナッカレ馬宿です,This is the South Akkala Stable.
+22,talk17,"よく「ヒツジ宿の間違いじゃないの？」
+って言われるんですけど
+私が馬育てるの下手だからって…
+ヒツジばっか産まれちゃって…
+でも それって失礼じゃないですか？！
+
+…
+
+……
+
+あっ…ごめんなさい！
+
+また私ったら…","People usually say stuff like,
+\""Isn't this more of a sheep stable
+than a horse stable?\""
+I may be bad at raising horses,
+but I can't help the fact that we've
+had a lot of sheep births here!
+Who cares anyway? What's so wrong
+about that?!
+
+...
+
+
+...
+
+
+*ahem* I'm sorry.
+
+
+It seems I've done it again..."
+23,talk18,"もう 「ミナッカレ羊宿」とでも
+呼んでくれたらいいんです…","I really don't care if you start calling this
+place the Akkala Sheep Stable. Really.
+See. If. I. Care."
+24,talk19,"なんでもマモノショップという店の店主で
+夜にだけ出没するらしいんです","They say he's the owner of something
+called the Fang and Bone. It only
+appears at night, or so they say."
+25,talk20,"すーー…はーー…
+
+私は カイファです
+
+ちょ…長女です""後は…","*inhale* *exhale*
+
+
+Hi. I'm Kaifa.
+
+
+I'm the eldest daughter.
+And..."
+26,talk21,ご…ごめんなさい,I'm...I'm sorry.
+27,talk22,あなたも お気を付けくださいね,Be careful out there.
+28,talk23,私達もそうした方が いいのかしら…,"We should probably do that, too..."
+29,talk24,"だから北にあるヒガッカレ馬宿では
+兵士さんを雇ってるみたいです","It seems the East Akkala Stable up north
+is hiring soldiers for protection because
+of the rumors about Kilton."
+30,talk25,私達…父以外は全員女なので心細くて,"Other than Father, it's just women here.
+I don't feel as secure as I'd like to..."
+31,talk26,他に何か用ですか？,Do you need anything else?
+32,talk27,"最近 ここから北のドクロ池に
+キルトンと名乗る不審者が出るって噂で…","There's a rumor that a suspicious person
+named Kilton appears at Skull Lake,
+just north of here."
+33,talk28,"最近全国各地に
+キルトンと名乗る不審者が出るって噂で…","Lately a suspicious person named
+Kilton has been showing up in
+various regions across the land."
+34,talk29,朝から憂鬱な天気…,"What depressing weather we're having,
+and so early in the day..."
+35,talk30,今日もずっと雨かしら…,I wonder if it's gonna rain all day...
+36,talk31,この雨で ヒツジ達が…,This rain... My poor sheep...

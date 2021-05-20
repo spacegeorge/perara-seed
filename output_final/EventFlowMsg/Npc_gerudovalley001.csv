@@ -1,0 +1,48 @@
+#,Title,JPja,USen
+1,"""0000""",ブツ持ってきました,Here you go.
+2,"""0001""",ブツはないです,I don't have enough.
+3,"""0008""",取引します,I have more.
+4,"""0009""",やめておきます,That's all I have.
+5,Talk_0001,"やっぱり また来たな…
+
+馬宿をやってると
+色んな客がくるんでな
+取引してくれそうな客かどうかは
+見ただけでわかるんだよ
+…で例のブツは
+持ってきてくれたのかい？","I knew you'd be back. Run a stable as
+long as I have and you can tell which
+folks will be repeat customers.
+So did you bring me the stuff?"
+6,Talk_02,ゴー…… ゴー……,Zzzz... Zzzz...
+7,Talk_06,よぉ…,Hey...
+8,Talk_20,"へへっ いつも助かるよ…
+
+でも もういいのかい？
+
+あんちゃん…
+あんた まだブツ持ってんじゃないのかい？","Heh, I knew you'd be good for it. Is this
+all you brought, though?You're not...holding out on me, are you?"
+9,Talk_21,"へへつ
+
+長年馬宿やって色んな客を見て来たからな
+
+俺に隠し事しようたって
+そうはいかないぜ
+さぁ見せてみな
+","Heh heh. If there's one thing I've learned
+after running this stable all these years,
+it's how to read people.
+There's no point in trying to keep
+anything from me. Go ahead and show
+me what you've got."
+10,Talk_22,"俺の取引単位は55からだ…
+少ない数じゃないし まぁ仕方ないな
+取引は相場のおよそ倍…
+
+へへっ 
+俺はいつでもここで待ってるぜ","I will only take them in bulk, in units
+of 55 each. That's a good number, eh?
+
+Take your time getting some. 
+I'll be waiting here, heh heh."

@@ -1,0 +1,241 @@
+#,Title,JPja,USen
+1,"""0000""",極上ケモノ肉っス,Have some meat!
+2,"""0001""",ここは？,This place?
+3,"""0002""",近くの狩場は？,Hunting area?
+4,"""0003""",いいっスよ,Sure.
+5,"""0004""",やっぱり やめるっス,"Eh, never mind."
+6,"""1000""",元気ないね,You sound tired.
+7,"""1001""",さようなら,Bye.
+8,"""1002""",大変っスね,Sounds rough.
+9,"""2000""",いいっスよ,Sure thing.
+10,"""2001""",気のせいっス,No meat here.
+11,"""2002""",あなたは？,You are?
+12,"""2003""",ここは？,This place?
+13,"""2004""",極上ケモノ肉？,Raw gourmet meat?
+14,Answer00,"ありやーっス
+…って極上ケモノ肉持ってないじゃないスか？
+期待して損したっス…
+また生の極上ケモノ肉 が入ったらお願いっス","Thanks! Hey, wait a tick... You don't have
+any raw gourmet meat!
+
+You got my hopes up for nothing...
+Not cool, man. Talk to me when you
+actually have some raw gourmet meat."
+15,Answer01,"ありやーっス
+…って極上ケモノ肉焼いちゃったんスか？
+オレ…極上ケモノ肉は生が好きなんスよ
+焼いたのは要らないっス","Thanks! ...But you went and cooked your
+raw gourmet meat!
+
+That's criminal, man. The only way to
+eat raw gourmet meat...is raw!
+
+Get that cooked stuff out of my face."
+16,Answer02,"ありやーっス
+お礼は また100ルピーでいいっスか？","Thanks!
+Is 100 rupees still good?"
+17,Answer03,"お客さんのおかげで少し元気出たっスよ
+また生の極上ケモノ肉 が入ったらお願いっス","Thanks to you, I'm feeling better.
+If you get ahold of more
+raw gourmet meat, come see me."
+18,Answer04,"これだけもらえたら今日は もう十分っス
+
+生の極上ケモノ肉 が手に入ったら
+また明日以降に お願いっス","This is more than enough for today.
+
+
+If you get ahold of more
+raw gourmet meat, come see
+me tomorrow."
+19,Answer05,そりゃ ないっス…,No... Really?
+20,Answer06,"平原外れの馬宿…っス
+何もない田舎っスけど オレ頑張るっス
+ここから北に行くとハイラル丘陵で
+リトの村に行きたい場合も そっちっス
+南西に進めばゲルド砂漠方面なんスけど
+魔物が多いんで気を付けた方がいいっスよ","This is the Outskirt Stable. As you can
+see, we're way out in the boonies.
+
+North of here is Hyrule Ridge. That's
+the best way to get to Rito Village.
+
+Gerudo Desert is to the southwest, but
+there are a bunch of monsters out there,
+so be careful."
+21,Answer07,"ハイラル丘陵の手前にあるサトリ山あたりで
+たまーに動物が大量発生するらしいんスよ
+あの山には ヌシがいるらしいんスけど…
+食ったら どんな味がするんスかね？","There's this area just in front of
+Hyrule Ridge near Satori Mountain that's
+teeming with animal life every so often.
+I hear the Lord of the Mountain makes
+its home around there. I wonder what its
+meat tastes like..."
+22,Ask00,えっと…何かご用っスか,Um... Can I help you?
+23,Ask01,他に何か あるっスか,Anything...else?
+24,Challenge00,"らっ… しゃいませー…
+
+あー…狩りたて生の極上ケモノ肉…
+久しぶりに食いてーっス…","Heyyyyyyyy...
+We-welcome...
+
+Ahh...what I wouldn't do for some
+fresh-caught raw gourmet meat..."
+25,Challenge01,"あー…狩りたて生の極上ケモノ肉…
+久しぶりに食いてーっス…","Ahh...what I wouldn't do for some
+fresh-caught raw gourmet meat..."
+26,Challenge02,"あれ…？ このにおい…
+
+もしかして生の極上ケモノ肉…
+持ってたりするんスか…？
+あの… もちろんタダでとは言わないんで
+よかったら オレに お肉を分けて欲しいっス…","Oh! That meaty aroma!
+
+
+You don't happen to have any
+raw gourmet meat on you, do you?
+
+I'm no freeloader, of course. I'll pay you
+well if you split it with me."
+27,Challenge03,"あれ…？ このにおい…
+
+もしかして生の極上ケモノ肉…
+焼いちゃったんスか…？
+オレ…極上ケモノ肉は生が好きなんス…
+あー…残念っス…","Oh... That aroma...
+
+
+It has that tinge of raw gourmet meat,
+but...cooked?
+
+Aww, man. I like my raw gourmet meat
+rare and juicy!"
+28,Challenge04,"あれ…？ このにおい…
+
+もしかして
+ケモノ肉持ってたりするんスか…？
+オレ…並とか上じゃなくて
+極上ケモノ肉 しかも生が好きなんスよね…","Oh... That aroma...
+
+
+You definitely have meat on you, but I'm
+really craving raw gourmet meat,
+not regular or even prime meat.
+And it's gotta be raw! I'm kind of a weird
+meat snob like that..."
+29,Challenge05,"いいんスか？！
+
+じゃあ…遠慮なく 1つもらうっス
+お礼は…奮発して100ルピーっス","For real?!
+
+
+Well, you don't have to tell me twice!
+I'll take one! Does 100 rupees work for
+you?"
+30,Challenge06,"あー…肉食いた過ぎて
+幻覚のにおいがしてきたっス…","Ahh... I want to eat meat so bad I'm
+starting to hallucinate smells..."
+31,Challenge07,"お客さんのおかげで少し元気出たっスよ
+何とか頑張ってみようと思うっス
+また生の極上ケモノ肉手に入ったらお願いっス","Thanks to you, I'm starting to feel better
+about this job. I'm going to really work
+my hardest.
+If you get ahold of any more
+raw gourmet meat, hook me up!"
+32,ChallengeAnswer00,"この馬宿の見習いっス…
+
+いつかは自分の馬宿を持ちたいんスけど…
+それまで働けるかは分からないっス…","I'm the stable apprentice here...
+
+
+I want my own stable one day, but I'm
+not sure I can handle working here
+until then..."
+33,ChallengeAnswer01,"平原外れの馬宿… っス…
+ご覧の通り何もない田舎っス…
+ここから北に行くとハイラル丘陵で…
+リトの村に行きたい場合も そっちっス…
+南西に進めばゲルド砂漠方面なんスけど…
+魔物が多いんで危ないっスよ…","This is the Outskirt Stable. As you can
+see, we're out in the boonies...
+
+Hyrule Ridge is north of here. That's the
+quickest way to get to Rito Village.
+
+Gerudo Desert is southwest of here, but
+there are some really nasty monsters on
+the way..."
+34,ChallengeAnswer02,"お客さんも好きっスか…？
+骨の周りのところが最高なんスよね…
+ハイラル丘陵の手前にあるサトリ山あたりで
+狩りが できたらいいんスけど…
+あそこ… あんまり動物いないんスよ
+たまーに大量発生するらしいんスけど…
+まぁ… それ以前に昼も夜も働きっぱなしで
+とても狩りになんて行けないっス…","Are you into it too? The stuff next to the
+bone is the BEST!
+
+If only I could take a break and go to
+the Satori Mountain area just in front of
+Hyrule Ridge to go hunting...
+Usually there aren't a lot of animals out
+there, but every so often a migration hits
+and it's teeming with animal life.
+But I'm never off the clock, so I can't
+go myself..."
+35,ChallengeAsk00,えっと…何かご用っスか…,"Um, can I help you?"
+36,ChallengeAsk01,他に何か あるっスか…,Anything...else?
+37,FirstGoodBye00,あり… やっしたー…,Thanks...for coming by...
+38,FirstTalk00,らっ… しゃいませー…,"Heyyyyyy...
+We-welcome..."
+39,FirstTalk01,"あー…分かるっスか…？
+
+オレ…馬が好きで…
+馬宿協会に就職したんスね…
+配属されたのが こんな田舎なのは
+我慢できるんスけど…
+昼も夜も働きっぱなしで
+もう ふらふらっスよ…","Is it that obvious...
+
+
+I'm...into horses...
+So I got a job with the stable association,
+which is great and all, but...
+They dispatched me here in
+the middle of nowhere, which I can
+handle...
+But they have me working around the
+clock. I feel so hazy all the time..."
+40,FirstTalk02,"せめて肉でも食えたらいいんスけど…
+この馬宿の飯ときたら野菜ばっかりなんスよ…
+あー…狩りたて生の極上ケモノ肉…
+久しぶりに食いてーっス…","If only I could eat some meat for energy.
+But the stable meals are vegetarian for
+the most part.
+Ah, what I wouldn't do for some
+fresh-caught raw gourmet meat..."
+41,FirstTalk03,"あー…
+もうちょっとだけ いいスか…
+まぁ…
+とにかく つらいんスよ…","Ah, come on... You have time for this,
+don't you?
+
+Things have been pretty rough out here."
+42,GoodBye00,ありやっしたー！,Thanks!
+43,GoodBye01,"ありやっしたー！
+休憩してるの内緒っスよ","Thanks!
+Don't tell anyone I'm taking a break, OK?"
+44,Near00,らっしゃいませー,Welcome!
+45,Near01,ふぅ…,Phew...
+46,NearChallenge00,はぁ…,Hah...
+47,RunRain00,雨っス,Rain...
+48,Talk00,"お客さんのおかげで少し元気出たっスよ
+また生の極上ケモノ肉 が入ったらお願いっス","Thanks to you, I'm feeling better. 
+If you get ahold of some
+raw gourmet meat, come see me."
+49,Talk01,"…ちょっと休憩してるんス
+店長には内緒っスよ","...I'm just on a little break here.
+Don't tell my boss."
+50,Talk02,"ここじゃ びしょぬれになるっスよ
+馬宿の中へ どうぞっス","You'll get soaked outside. C'mon inside
+the stable."

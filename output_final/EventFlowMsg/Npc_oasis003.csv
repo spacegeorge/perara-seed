@@ -1,0 +1,166 @@
+#,Title,JPja,USen
+1,Quest_finish_01,"どうした？ 
+この街の事がまだ心配か？
+それとも この街が居心地良すぎて
+出たくなくなったか
+どちらにしても…
+お前は この街を出ていかねばならぬ身
+それは お前が一番よく知っておろう…
+
+……ただ
+
+すべてが終わった時
+またこの街に立ち寄ってくれたならば…
+皆も喜ぶと思うがな","What's wrong? 
+Are you still worried about the safety
+of this town?
+Or have you grown so comfortable here
+that you can't imagine leaving?
+
+Whatever the case may be,
+you're needed elsewhere. You must
+eventually leave. You know this.
+That being said... When it's all over, if
+you were to drop back by here...
+I think we'd all be pleased to see you."
+2,Quest_finish_02,"あまり玉座を離れていては
+またビューラに叱られてしまうからな","If I stray too far from the throne room,
+I'll be on the receiving end of another
+of Buliara's lectures."
+3,Quest_finish_03,"パトリシアちゃんは
+先代…母様からのプレゼントなんだ
+最初で最後となってしまったが…","Patricia was a present from the former...
+from my mother.
+
+She turned out to be my first and last gift
+from her..."
+4,Quest_finish_04,"パトリシアちゃんには不思議な力があってな
+
+フルーツを食べさせると
+色々お告げをしてくれるんだ
+その言葉はパトリシアちゃんと
+真に心が通った者しかわからぬがな","Patricia has a mysterious power...
+
+
+If you feed some fruit to her, she will
+deliver divine messages.
+
+But the messages can only be
+understood by those who are able to
+truly communicate with her."
+5,Quest_finish_05,"毎朝 パトリシアちゃんと
+語り合うのが日課なのだ
+今まで神獣の事があって
+なかなか足を運べんかったがな","It's normally part of my morning routine
+to have a chat with Patricia before I
+start my day...
+But with the Divine Beast causing so
+much havoc, I haven't had much time
+until now to come visit her."
+6,Quest_finish_06,"ふぅ…族長としての役目は
+今日はもう終わりだ
+ナボリスがまだ暴れていた頃は
+寝室でゆっくりする時間もなかったが
+お前のお陰で
+今は自分の時間がとれるようになった
+感謝しているぞ","Phew... I think that's everything I needed
+to do as chief today.
+
+When the Divine Beast was still causing
+havoc everywhere, I didn't have much
+time at all to relax.
+Thanks to you, I now have time to catch
+my breath. I'm really grateful."
+7,Quest_finish_07,"ス…スナザラシ人形などで
+喜んではおらんぞ
+わらわはそんな子供ではないからな！
+
+わらわは忙しいのだ！
+
+それにいくらお前とはいえ
+こんな時間に ヴァーイの寝室にくるのは
+さすがにアレではないか…","Wh-what?! The sand-seal stuffed
+animals? Don't worry about them! Just...
+Just ignore them, OK?
+Besides, town hero or no, you shouldn't
+just come wandering into someone's
+room at this time of night!"
+8,Quest_finish_08,"なんだ…寝るところがないのか？
+
+さすがにわらわのベッドを
+貸すわけにはいかんからな
+宿屋にでもいって休むんだな
+
+兵士達の話では
+宿屋のアローマのエステは格別らしいぞ
+わらわはもう限界じゃ
+サヴォーク…","What? You don't have a place to stay?
+Well, you can't stay here!
+
+There's a perfectly fine hotel in town.
+The soldiers speak highly of some kind
+of rejuvenating experience there.
+I can barely keep my eyes open right
+now... Sav'orq..."
+9,Quest_finish_09,…モフモフ,Mother...
+10,Quest_finish_10,"おお
+また来てくれたか
+しかし すまんな
+今は忙しくてな
+そうゆっくりもしておれんのだ","Well, well, you're back.
+
+
+However, I'm sorry, but I'm quite busy
+right at this moment.
+
+I don't have the time to catch up."
+11,Quest_finish_11,"せっかく来てもらったのに悪いが
+今は忙しくてな","Sorry that you took the time to come
+here, but I'm busy right at this moment."
+12,Raimei_CK_001,"ふふっ
+良く似合っておるではないか
+大きさも まるで誂えたように
+ピッタリだな
+しかし みておけ
+今のわらわには まだ少し大きいが
+あともう少し時間が経てば
+その兜が似合うヴァーイになるはずだ
+その時には その兜は
+返してもらうからな
+だから…
+ウルボザ様の敵を倒したら…
+それを返しに必ず戻ってくるんだぞ！","Heh, it looks good on you...
+It really is a perfect fit, almost like it was
+made for you.
+But look... Right now it may be a bit too
+big for me, but it won't be long before
+I can wear that helmet properly, too.
+When that time comes, I'll need you to
+return the helmet to me, of course!
+
+So you can take the helmet now, and
+once you've defeated Urbosa's
+enemies...
+you'd better bring that helmet back here!"
+13,TerrorArrow,遊んでほしいのか？,Is this some game?
+14,TerrorBomb,それは何だ？,What's this?!
+15,TerrorExplosion,熱さには慣れておるわ,I'm used to the heat.
+16,TerrorFire,子供じみたことを…,So childish...
+17,TerrorSword,鎮まらんか,Calm down!
+18,hello,サヴォッタ,Sav'otta.
+19,hello_00,サヴァーク,Sav'aaq.
+20,hello_01,サヴァサーバ,Sav'saaba.
+21,mother,"母様もウルボザ様も形は成さずとも
+魂は わらわ達と共にある
+お前をこの街に導いたのもきっと…
+
+ふふ…縁とは不思議なものよの","My mother may not be here in the flesh,
+but her soul is with me...always.
+
+I have no doubt she led you here...
+
+
+Ha! Fate works in mysterious ways."
+22,near000,何して遊ぼっか？,What should we play?
+23,near001,…ザラシ,...Seal.
+24,near002,母様…,Mother...

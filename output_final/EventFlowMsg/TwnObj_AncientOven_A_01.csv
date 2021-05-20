@@ -1,0 +1,28 @@
+#,Title,JPja,USen
+1,"""0002""",変換する,Make exchange.
+2,"""0003""",別のにする,Change exchange.
+3,near00,ウゴイテマスヨー,*zzzzzzrt*
+4,near01,ソザイ ヲ イレテネ,Materials required.
+5,near02,イジョウ ナシ,Systems green.
+6,near03,エイギョウ チュウ,Optimal conditions.
+7,talk00,イラシャイマセワレ,"Hello, *zzzt*, FamiliarNameMissing!
+Welcome!"
+8,talk01,"素材 ト ルピー ヲ入レテ クダサイ
+古代 ノ装備ニ変換シ マス","Insert materials and rupees.
+Receive ancient equipment in exchange."
+9,talk02,"マイド オーキニ
+マタキテヤワレ","Thanks for your time. Come
+again, *bwop*, FamiliarNameMissing!"
+10,talk03, ニ変換 スルンヤナ？,Exchange for ?
+11,talk04,"変換中…ブリブリブー
+変換中…ブリブリブー","Exchanging... *beeeeeep beep*
+Exchanging... *beeeeeep beep*"
+12,talk05,デケタ デー！次 イコケー,"Results available.
+*bweep* "
+13,talk06,素材足リテヘン ヤンケ！,"Insufficient materials available
+for exchange."
+14,talk07,金足リテヘン ヤンケ！,"Insufficient rupees available
+for exchange."
+15,talk08,イッパイスギテ持タレヘン ガナ！,No room in inventory.
+16,talk09,エエデー,OK.
+17,talk10,マイド！,"Hey hey, *beep*, FamiliarNameMissing!"

@@ -1,0 +1,132 @@
+#,Title,JPja,USen
+1,"""0000""",させちゃう,Sure did!
+2,"""0001""",どうかな…,Just passing through.
+3,Talk_000,"…お兄ちゃん だあれ？
+旅人さん？ふうん……
+お兄ちゃん お空にいる鳥のオバケ
+おとなしくさせちゃうの？","Who are you? Some kind of traveler?
+
+
+Did you come to make that big bird up in
+the sky stop bothering us?"
+4,Talk_001,"ダメ～～！
+
+そしたら キールの言うとおり
+お歌の練習 しなくちゃいけなくなるじゃない！
+…そりゃ ハーツおじさん ケガしちゃったから
+モモちゃんが かわいそうだけど…
+お歌の練習は ゼッタイに
+やりたくないんだもんね！","Nooo!
+
+
+If everything goes back to normal, Kheel
+will make me go to singing practice.
+
+I mean...I feel bad that Molli's dad, Mr. Harth, got
+hurt, but...
+
+But I definitely know I don't want
+to practice singing!"
+5,Talk_002,"うーん… お兄ちゃんは
+テバおじさんみたいに強そうじゃないから…
+きっと鳥のオバケのところへ行っても
+コテンパンに やられちゃうよ！
+みんなが村で じっとしてたら
+きっといつかオバケもどっか行っちゃうよ～！
+…どっかいっちゃったら お歌の練習
+しなくちゃいけないのかな…うう…","Well...you don't look as strong as Teba.
+
+
+If you try to fight that bird monster,
+you'll probably lose!
+
+Oh! Maybe if everyone in the village
+plays dead, the monster will leave.
+
+But then I'll have to go to singing practice. Ugh..."
+6,Talk_003,"鳥のオバケが ずっといたら
+練習しなくていいのにな…
+あっ！今のママに言っちゃ
+ダメだからね！","That bird monster isn't ALL bad. At least I don't
+have to go to singing practice.
+
+Don't tell Mom I said that!"
+7,Talk_030,すぴ…,Zzz...
+8,Talk_100,"あっ！ お兄ちゃん！
+えへへ ちゃんと練習してるよ！
+お兄ちゃんが キールのとこへ
+行ってくれてなかったら…
+あたし ずーっと
+ワガママなままだったかも…
+…お兄ちゃん ありがとう！
+もうワガママ言わないからね！","Hey, check it out. I'm practicing my
+singing! 
+
+You know, if you didn't go to Kheel,
+I never would have realized how much I
+actually like to sing.
+But thanks to you, I'm having a blast!"
+9,Talk_101,"ここで練習すれば山しか聞いてないから
+恥ずかしくないもんね～！","I love singing here! Only the mountains
+are listening!"
+10,Talk_110,村のホコラで練習だよ～！,I'm going to go sing at the village shrine!
+11,Talk_111,"ゾクチョーさまに うまくなってきたって
+ほめられちゃった～
+サーモンムニエル食べて
+明日もがんばるぞー！","The elder said he likes the way I sing!
+
+
+I'm gonna go eat some salmon meunière
+and practice some more tomorrow!"
+12,Talk_200,"あっ！ お兄ちゃん！
+パパと一緒に ちゃんと練習してるよ！
+パパに兄弟岩のホコラのこと教えてあげたら
+お兄ちゃんのお話も聞かせてくれたよ！
+ホコラって いっぱいあるんだね！
+何人兄弟なのかな～？
+全部みつけられたら ほめてあげるね！","Oh, hey! I've been practicing with my
+dad!
+
+When I told him about the Warbler's Nest
+shrine, he told me about the history of
+the ancient shrines!
+I wonder how many shrines there are in
+the world. Do you think you can find
+them all?
+How about this? If you find all of them,
+I'll give you something special!"
+13,Talk_201,"ホコラって いっぱいあるんだね！
+ホコラを全部みつけたら ほめてあげるね～！","So I guess there are lots of shrines out
+there! If you find all of them, I'll
+congratulate you!"
+14,Talk_210,村のホコラで練習だよ～！,"On my way to go practice at the village
+shrine!"
+15,Talk_220,"ゾクチョーさまに前よりずっと
+お歌が良くなったって ほめられちゃった～
+サーモンムニエル食べて
+明日もがんばるぞー！","The elder said he likes the way I sing!
+
+
+I'm gonna go eat some salmon meunière.
+I can practice more tomorrow!"
+16,Talk_300,"あれっ… お兄ちゃん…
+なんだかすごく かっこよくなったような…
+わー！ もしかして
+ホコラ全部 みつけたんだねー！
+すごいすごーーい！
+ほめてあげるね！
+えらいえらーい！
+よしよーし！
+はい！ ほめほめ終わり！","Wow...you look different somehow...
+Cooler...
+
+WHOA! You found all of the shrines!
+
+
+CONGRATULATIONS! GOOD BOY!
+
+
+OK. Hope you liked the congratulations!"
+17,Talk_301,"どしたの？ お兄ちゃん…
+お腹すいた顔してるよ…？","What's wrong? You kind of look like
+you're hungry?"

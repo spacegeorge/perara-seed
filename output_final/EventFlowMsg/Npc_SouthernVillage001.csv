@@ -1,0 +1,38 @@
+#,Title,JPja,USen
+1,"""0000""",普通のベッド,"Normal bed, please."
+2,"""0001""",ふかふかベッド,Fluffy bed for me!
+3,"""0002""",朝まで,Until morning.
+4,"""0003""",昼まで,Until noon.
+5,"""0004""",夜まで,Until night.
+6,"""0005""",やっぱりやめる,Never mind.
+7,"""0007""",やめる,Never mind.
+8,Near00,いらっしゃ～い,Welcome!
+9,Talk01,"いらっしゃい！
+お泊りかいさ～？
+お客さん長旅でおつかれだろう","Welcome!
+You must be tired from your long trip.
+Do you want to stay?"
+10,Talk02,"それでは どうぞ
+ゆっくり休んでいくわいさ～",All right then. Go get some rest!
+11,Talk03,"そうかい…
+またの機会に泊まっていくわいさ～！","I see...
+Come stay with us some other
+time, then!"
+12,Talk04,"お客さん ルピーが足りないわいさ…
+また来るさ～","Sir, you don't have enough rupees...
+Come back when you do."
+13,Talk05,"ぐっすり眠れたかいね～？
+
+泊まってくれた お客さんは
+桟橋に停めてある筏を自由に使っていいわいさ
+また来るさ～","Did you sleep well?
+
+
+As a little treat for staying with us,
+please feel free to use the raft at the
+dock. Come again!"
+14,Talk06,いつまで お休みになるさ～ね？,How long would you like to rest?
+15,Talk07,"普通のベッドなら20ルピー
+ふかふかベッドなら40ルピーさ～","A normal bed would be 20 rupees. If you
+want to soothe your body and soul, I can
+offer you the fluffy bed for 40 rupees."

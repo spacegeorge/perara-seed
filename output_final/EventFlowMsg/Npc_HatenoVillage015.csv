@@ -1,0 +1,118 @@
+#,Title,JPja,USen
+1,"""0000""",旅の者です,I'm a traveler.
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",ここって？,Where am I?
+4,"""0003""",案内して！,Show me around!
+5,near00,！！,...Whuh!
+6,near01,ふぁぁ…,*yawn...*
+7,near02,…ンだよ,Whatcha want?
+8,talk00,だ…誰だっ？！怪しいヤツめ！,"Who are you?! Be on your way, you...
+suspicious man!"
+9,talk02,"あれ？その青い炎""見た事あるぜ？
+
+確かプルアの婆さんが
+自分の家まで よく運んでたような…","Huh? I've seen that blue flame before.
+
+
+I'd see that old woman Purah carrying it
+up to her place all the time..."
+10,talk03,"その青い炎""プルアの婆さんのだろ？
+俺との無駄話はいいから早く届けてやんなよ","That blue flame is for Purah, right?
+Then stop wasting time chatting with me
+and deliver it! Quickly."
+11,talk04,"あれ？その青い炎""見た事あるぜ？
+
+確か研究所の所長さんが
+自分の家まで よく運んでたような…","Huh? I've seen that blue flame before.
+
+
+I used to see the director of the 
+research facility carrying it up the hill
+all the time."
+12,talk05,"その青い炎…""所長さんのだろ？
+俺との無駄話はいいから早く届けてやんなよ","That blue flame is for the director, right?
+Then stop yapping with me and deliver it
+quickly!"
+13,talk07,"もう行っていいぜ
+旅の途中で寄ったんだろ？
+だいたいのモンならよろず屋でそろうだろうし
+宿屋なら奥にあるからよ","You're free to go. We're just a waypoint
+on your winding road, huh? 
+
+Ah, the life of a traveler. Well, you can
+get most things you need at the general
+store, and the inn is just back there."
+14,talk08,ふぁぁぁ…眠ぃ,Phwaaa... So sleepy.
+15,talk09,まだ俺に用か？,You still need something?
+16,talk10,あ？お前か…,"Wha? Oh, it's you..."
+17,talk11,はいよ,"Go on, then."
+18,talk12,"ヤだよ！
+俺は見張り番だ！ ヒマじゃねえんだ！
+……
+
+怒ったりして悪かった
+
+この村は平和だから たしかに俺はヒマだ
+
+でも ヒマ人イコール案内上手だと思ったら
+大間違いだぜ…
+ソテツっていう恰幅のいいオヤジを探してみな
+案内したくて ウズウズしてるはずだ","Not likely! I'm on guard duty, Buster!
+Serious business! No time for tours!
+
+Grumble...
+
+
+Sorry for the yelling...and the grumbling.
+
+
+This village is pretty peaceful, so it's not
+like guard duty is all that harrowing.
+
+But you're GRAVELY mistaken if you 
+think people with free time are itching to
+give village tours.
+Try looking for a burly old guy called
+Seldon. He'll probably fall all over
+himself to show you around."
+19,talk13,"ここは緑と染物の町 ハテノ村だ
+
+村なのに町ってヘンだったか…まあいいや
+
+野菜がうまくて空気もうまくて…
+あとはえーと… いろいろだ
+旅の人は金を使ってくれるから
+村の衆は おおむね大歓迎！
+…だけど","This is the town of greenery and dyes, 
+Hateno Village.
+
+Can a place be a village AND a town? Anyway...
+
+
+The vegetables taste good. The air smells
+good... What else... All kinds of points
+of interest I'm forgetting...
+Travelers tend to spend their money
+here, so that's good! Yeah! The village
+folk welcome THAT with open arms!
+But..."
+20,talk15,"だ…誰だっ？！
+こんな時間に怪しすぎるぞ！","Who... Who are you?! I demand answers!
+If you're up this late, you're probably
+up to no good!"
+21,talk16,待て待て待て！,"Wait, wait, wait!"
+22,talk17,"…ん？
+
+よく見たら俺たちと同じ
+ハイリア人じゃねえか","Hrm? 
+
+
+You certainly do appear to be a Hylian
+like the rest of us..."
+23,talk18,"ハイリア人に悪いやつは あんまりいねえ
+騒ぎ立てて悪かった…","Hylians are generally good folk, so...
+Sorry for getting all worked up..."
+24,talk19,"村の一番奥の建物には近づくな
+小うるさい婆さんが居るからな","A little advice? Don't go near the place
+up the hill in the rear of the village.
+There's a yappy old woman there."

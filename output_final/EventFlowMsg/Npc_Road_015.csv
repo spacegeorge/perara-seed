@@ -1,0 +1,262 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I'm buying.
+2,"""0001""",売る,I'm selling.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,Deal.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,ロ…ロバは大丈夫だったかいさ？,My donkey... Is it OK?
+11,Atacked01,こんな時は じっとしてるに限るのさ…,It's best to stay still in times like this...
+12,Com_Talk_00,どれを売ってくれんかいさ？,What will you sell me?
+13,Com_Talk_01,"を売ってくれるのか？
+ルピーになるけど いいかいさ？",That'll be  rupees.
+14,Com_Talk_02,"ありがとさん
+他にも何かあるかいさ？",Thanks. Anything else?
+15,Com_Talk_02b,ありがとさん！,Thanks!
+16,Com_Talk_02c,いやー ありがとさん！,"Well, thank ya very much!"
+17,Com_Talk_02d,いやいや ありがとさん！,Well now. Thank ya!
+18,Com_Talk_04,そりゃ残念なのさ,That's really too bad.
+19,Com_Talk_05,何でも買い取るさ～,I'm always lookin' for a deal.
+20,Com_Talk_05b,おら何だって買い取るさ～,I'll buy pretty much anything.
+21,Com_Talk_05c,おらに何か売ってくれんかいさ,How 'bout selling me something?
+22,Com_Talk_05d,いい値で買い取るさ～,I'll buy wares for a good price.
+23,Com_Talk_06,どれを買ってくれんかいさ？,What're you buying?
+24,Com_Talk_07,いや…それは品切れさぁ,Sorry... We're fresh out of that one.
+25,Com_Talk_08,"ルピーが足りないよ
+また今度来るのさ～","You don't have enough rupees.
+Get that sorted and come back."
+26,Com_Talk_09,"ポーチがいっぱいみたいだよ
+売るか捨てるかして空きを作ってくるのさ～","Looks like your inventory is full.
+You should sell or toss some things."
+27,Com_Talk_10,を買うかいさ？,"We have a deal, then?"
+28,Com_Talk_11,ありがとさん！,Thank ya!
+29,Com_Talk_11b,ありがとさんね！,Thanks so much!
+30,Com_Talk_11c,いやどうも ありがとさん！,Why thank you!
+31,Com_Talk_11d,いやいや どうも！,Many thanks!
+32,Com_Talk_12,"ウオトリー村の魚や果物だ
+ゆっくり選んでいくのさ～","These fish and fruits come from
+Lurelin Village. Take your time looking."
+33,Com_Talk_13,"を売るのかいさ？
+いくつ売ってくれるのさ？",How many are you selling?
+34,Com_Talk_14,"を個…
+ルピーで売ってくれんかいさ？",I'll buy  of them for  rupees.
+35,Com_Talk_15,"それはちょっと買い取れないのさ
+悪いな…",Sorry. I can't buy that sort of thing...
+36,Com_Talk_16,服を売るなら脱いでからにするのさぁ,"I'll need you to remove that gear before
+I can buy it from you."
+37,Com_Talk_20,"こんな天気じゃ商売あがったりさ～
+貴重なマックスサザエを売ることにするさ！","With weather like this, it's time to break
+out the special goods! How about a
+hearty blueshell snail?!"
+38,Com_Talk_30,"が個で
+合計ルピーになるけど…いいかいさ？","You want ?
+That'll be  rupees."
+39,Com_Talk_31,"を買うのかいさ？
+いくつ要る？",How many do you want?
+40,Com_Talk_33,"をひとつ？
+それならルピー払うのさ～",That'll be  rupees.
+41,Com_Talk_34,"を あるだけ全部だね？
+個でルピーだけどいいかいさ？","All of 'em?
+That'll be  rupees for ."
+42,Com_Talk_35,"を個全部だね？
+合計ルピーで買い取るけどいいかいさ？","You're selling ?
+I'll give you  rupees."
+43,Com_Talk_36,"これで最後さ～
+いっぱい買ってくれて うれしいねぇ","That's the last of 'em!
+Pleasure doin' business."
+44,Com_Talk_37,"もう今日は売るものがないのさ～
+たくさん買ってくれてありがとな！
+品物リストだけでも見ていくかいさ？","I don't have anything else to sell ya,
+but you can browse my empty bag if you
+want."
+45,Com_Talk_56,"を1個で いいかいさ？
+それならルピーだけど…いいか？",That'll be  rupees. We got a deal?
+46,Failed00,ふぅ…こりゃもうダメかと思ったのさ～,"Phew... I really thought that was the
+end right there."
+47,Failed01,あだだだ…いだがっださぁ！,Aaaaagh... That hurt!
+48,GoodBye00,それじゃ またさ～,See you around.
+49,Guardian00,"ガーディアンには かなわねえさ！
+逃げるに限るのさ！","We don't stand a chance against a
+Guardian! All we can do is RUN!"
+50,MSG_Firo_00,"寄っといで寄っといで
+ウオトリー村の特産物を見てくのさ～
+寄っといで寄っといで
+魔物は寄って来ちゃダメさ～","C'mon over, folks! I've got quality goods
+straight from Lurelin Village.
+
+Swing on by and take a look!
+Unless you're a monster, that is!"
+51,MSG_Firo_00_1,"寄っといで寄っといで
+ウオトリー村の特産物を見てくのさ～","C'mon over, folks! I've got quality goods
+straight from Lurelin Village."
+52,MSG_Firo_01,"ウオトリー村の特産物を売り歩いてたら
+おら道案内が得意になったのさ
+ちなみにここから西に進めばハイリア湖…
+それに樹海フィンラスっちゅうのもあるさ～
+以上でちょっとした道案内おしまい！","I know these roads like the back of my
+eyelids. I've been walking the
+Lurelin Village trade route for years!
+Yup, just head west from here and you'll
+find Lake Hylia. And a nice little spot
+called Finra Woods too.
+That's your free geography lesson for
+the day."
+53,MSG_Firo_01_1,"ここから西に進めばハイリア湖…
+それに樹海フィンラスっちゅうのもあるさ～
+道案内は以上ここからが本業さ～","Just head west from here and you'll
+find Lake Hylia. And a nice little spot
+called Finra Woods too.
+That's your free geography lesson for
+the day. Now let's get on to business."
+54,MSG_Firo_02,"おらが特産物を仕入れるウオトリー村は
+素朴で じつにいいとこなのさ～
+あの村には 「宝箱当て」っちゅう
+懐かしい遊びも残っとるさね
+おしゃべりは以上ここからが本業さ～","I get my goods from Lurelin Village. It's
+a very simple, sleepy town.
+
+They play this traditional treasure-chest
+game of chance there. Takes me back to
+my childhood for some reason. 
+Anyhow, that's enough small talk.
+Let's get down to business."
+55,MSG_Firo_02_1,"ウオトリー村は じつにいいとこなのさ～
+あの村には 『宝箱当て』っちゅう
+懐かしい遊びも残っとるさね
+おしゃべりは以上ここからが本業さ～","Lurelin Village is a very simple, sleepy
+town.
+
+They play this traditional treasure-chest
+game of chance there. Takes me back to
+my childhood for some reason. 
+Anyhow, that's enough small talk.
+Let's get down to business."
+56,MSG_Firo_03,"寄っといで寄っといで
+ウオトリー村の特産物を見てくのさ～
+寄っといで寄っといで
+新鮮な魚に南国の果物だよ","Come take a look at my goods! They
+come directly from the famous
+Lurelin Village.
+Who can resist fresh fish and fruit from
+southern Hyrule?!"
+57,MSG_Firo_03_1,"寄っといで寄っといで
+新鮮な魚に南国の果物だよ","No one can resist fresh fish and fruits
+from southern Hyrule!"
+58,MSG_Firo_04,"おらこのウオトリー村では
+物を仕入れるついでに運試しもしてるのさ～
+宝箱当て…あんたも ぜひ
+…と雑談はこのくらいにして","Not only do I buy my goods from
+Lurelin Village, I also train my
+luck there.
+They have a game of chance involving
+treasure chests. It's a good way to strike
+it rich if you're feelin' lucky..."
+59,MSG_Firo_04_1,"この村では""運試しができるのさ～
+宝箱当て…あんたも ぜひ
+…と雑談はこのくらいにして","You could try your luck on the treasure-
+chest game in this village, but buying my
+wares is a better bet."
+60,Near00,魚はウオトリーに限る,Think fish. Think Lurelin!
+61,Near01,寄っといでー,Come on over!
+62,Near02,見てってくんろー,Have a look-see!
+63,Near03,ウオトリーの果物～,Fruits from Lurelin!
+64,Near04,おらは濡れても…,What's a little rain?
+65,Rest_00,"おらが売ってるウオトリー村の魚と果物は
+つい自分で食っちまうほど うめえのさ～","The fish and fruits I get from
+Lurelin Village are so fresh that I
+sometimes can't help eating them myself."
+66,Rest_01,"今日は晴れると思ったがまあ…
+雨なら雨で いい骨休めになるさ～","I thought it was going to be clear skies
+today. Must be a sign. I think I'll rest
+these weary bones."
+67,Rest_02,"おらは濡れても何てえこたないが
+ロバが雨を嫌がるさね…","I don't mind the rain at all, but my poor
+donkey really hates all them droplets."
+68,RetMSG_Firo_00,"ウオトリー村で仕入れた特産物を
+おらこうして売り歩いているだけど…
+高原の馬宿の辺りは
+魔物がおっかなくてつい早足になるのさ～
+…と無駄話はこのくらいにして","I spend so much time traveling around
+Hyrule selling goods from Lurelin Village,
+I could be a tour guide!
+A lot of nosy monsters hang around
+Highland Stable. Best to avoid the area
+if you can.
+Anyway, let's get down to business."
+69,RetMSG_Firo_00_1,"高原の馬宿の辺りは
+魔物がおっかなくてつい早足になるのさ
+…と無駄話はこのくらいにして","The area around Highland Stable is full
+of nosy monsters. It's best to avoid
+the area when you can.
+Anyway, let's get down to business."
+70,RetMSG_Firo_01,"ウオトリー村の特産物を
+あちこち売り歩く毎日だけど…
+地図を持たずにフィローネの森に入って
+迷ったときは…おら泣きたくなったのさ～
+ま…おらの話はこのくらいにして","I spend a lot of time walking the trade
+routes, peddling wares from
+Lurelin Village.
+But when I wandered into Faron Woods
+without a map and got lost...
+I tell ya—I just about lost my mind.
+But enough about me..."
+71,RetMSG_Firo_01_1,"地図を持たずにフィローネの森に入って
+迷ったときは…おら泣きたくなったのさ～
+ま…おらの話はこのくらいにして","When I wandered into Faron Woods
+without a map and got lost...
+I tell ya—I just about lost my mind.
+But enough about me..."
+72,RetMSG_Firo_02,"寄っといで寄っといで
+レイクサイド馬宿のお客さんも寄っといで
+ウオトリー村の新鮮な魚や南国の果物…
+見てってくれんかいさ","Attention, Lakeside Stable folks!
+Yes, I'm talking to you!
+
+Come get an incredible deal on fresh fish
+and tropical fruit from Lurelin Village!"
+73,RetMSG_Firo_02_1,"ウオトリー村の新鮮な魚や南国の果物…
+見てってくれんかいさ","Come get an incredible deal on fresh fish
+and tropical fruit from Lurelin Village!
+Take a good look, now!"
+74,RetMSG_Firo_03,"このロバの背中にはウオトリー村の
+とれたての魚と もぎたての果物…
+それに お客さんから
+もらいたてのルピーが積んであるのさ～","The rear end of this here donkey is home
+to the freshest fish and fruit this side of
+Lurelin Village.
+You'll also find a fat pile of rupees from
+my satisfied customers!"
+75,RetMSG_Firo_03_1,"このロバを失ったら
+おら途方にくれるのさ…","If I lost my donkey, I don't know if I
+could go on..."
+76,RetMSG_Firo_04,"ウオトリー村で魚や果物は仕入れたし
+宝箱当ても楽しんだし…
+高原の馬宿方面に
+おら行商の旅に出かけるさ～","I got the fish and fruits I needed from
+Lurelin Village, and I won big at that
+treasure-chest game.
+Time for me to mosey on to
+Highland Stable to peddle my wares.
+But before that..."
+77,RetMSG_Firo_04_1,"仕入れも済んだし""宝箱当ても楽しんだし…
+おら""行商の旅に出かけるさ～","I got what I needed, and I had a lot of 
+fun with that treasure-chest game.
+
+Time for me to head out and peddle my
+wares. But before that..."
+78,SavedLv1_00,助かったよ！ ロバも無事なのさ～！,You really saved my donkey there!
+79,SavedLv1_01,…あんたのほうは大丈夫かいさ？,...How about you? Are you all right?
+80,SavedLv2_00,"いやー""命拾いしたわいさー！",Phew! I barely made it out!
+81,SavedLv2_01,なんとか助かったさ～,Saved at the last minute!
+82,SavedLv3_00,"大丈夫かい～？
+怪我していないかいさ～？","You all right? You're not hurt, are you?"
+83,SavedLv3_01,あんたたいしたもんさ～！,You really are amazing!
+84,Talk01,"…えー さてさておらの売り物はロバの上！
+ゆっくり選んでちょうだいさ！","My donkey's back is packed with
+top-choice merchandise, so take
+your time browsing the goods!"
+85,Talk02,他に何かあるかいさ？,Something else you need?
+86,Thanks00,これは お礼さ～,Here's a little thank-you.

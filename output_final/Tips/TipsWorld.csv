@@ -1,0 +1,68 @@
+#,Title,JPja,USen
+1,Bonfire_00,"ひまをつぶす時間を進めたい時は たき火にあたるとよい。
+朝・昼・夜まで ひまをつぶすことができる。","Time FliesIf you ever want to advance time, seek out a cozy campfire.
+There, you can pass the time until morning, noon, or night."
+2,Bonfire_01,"たき火の作り方薪の束に火をつければ たき火を作ることができる。 
+たいまつや火打ち石を使って火をつけるとよい。","Making a CampfireTo start a campfire, simply set some wood ablaze. You can use
+a torch or some flint to do just that."
+3,Bonfire_02,"ひまをつぶす夜は敵が多く探索には多くの危険が伴う。
+ハートが少ない時は たき火で朝までひまをつぶすとよい。","Time FliesMonsters thrive at nighttime—as do other things that can make
+adventuring dangerous. If you're low on hearts at night, find a
+campfire and lay low until morning."
+4,Gimmick_00,"冷たい水冷たい水に浸かると急激に体温を奪われてダメージを受ける。
+料理や防具では緩和できない。","Cold WaterSwimming in cold water will lower your body heat and cause you to
+take damage. Cooked food and special garb won't help you."
+5,Gimmick_01,"温泉世界に点在する きれいな色の温泉。
+ゆったりと浸かっていれば ハートを回復させることができる。","Hot SpringsThese lush, thermal baths are found throughout the world.
+You can relax in them for a while to replenish your hearts."
+6,Gimmick_02,"怨念の沼厄災ガノンの怨念で汚れた水が溜まっているとされる毒沼。
+触れるとダメージを受けてしまう。","Pools of MalicePoisonous bogs formed by water that was sullied during the
+Great Calamity. Coming into contact with one will hurt you."
+7,Gimmick_03,"底なし沼足を踏み入れると体が沈み込んでしまう泥沼。
+深みにはまると泳ぐこともできずに溺れてしまう。","Bottomless BogA quagmire that will draw you in... Sink in too deeply, and you'll be
+unable to escape."
+8,Gimmick_04,"イカダ帆のついたイカダは風を受けて進む。
+コログのうちわがあれば自分で風を吹かせて動かすこともできる。","RaftsRafts with sails can move when pushed by the wind. Or you can get
+them moving yourself if you have a Korok leaf."
+9,Knowledge_00,"冒険の心得行先に迷ったら高いところに登って大地を見回してみるとよい。
+を押し込んで望遠鏡を使えば より遠くまで見ることができる。","Finding Your WayIf you get lost, try climbing to higher ground and looking around.
+Press to pull out your scope so you can see even farther."
+10,Knowledge_01,"古代炉古代シーカー族が作ったという青い炎を灯すエネルギー炉。 
+1万年以上の昔から燃え続けているらしい。","Ancient FurnacesThese energy furnaces glow with a blue flame. They are said to be
+creations of the ancient Sheikah race. It may be true, as they've
+been burning for 10,000 years."
+11,Knowledge_02,"燃やす木箱など木製の物や草は燃えやすい。
+たいまつで火を点ければ燃やすことができる。","Setting FiresWooden objects and dry grass catch fire easily. Be careful around
+such things while holding a lit torch."
+12,Knowledge_03,燃やす枯れ草は とても燃えやすく延焼してどんどん燃え広がる。,"Burning ThingsDry grass catches fire especially easily, and that fire spreads quickly."
+13,Knowledge_04,"上昇気流炎が集まると上昇気流が発生する。
+パラセールを開けば気流に乗って飛び上がることもできる。","UpdraftsWhen fire spreads, it creates an updraft. You can use the paraglider
+to catch that updraft and ride it high into the sky."
+14,Knowledge_05,"女神ならざるものこの世界の果ての片隅に
+女神像以外にも器の交換を行える存在が息をひそめているらしい。","Granters of BoonsAt the far reaches of the continent, there is a being
+that trades in Heart Containers and Stamina Vessels."
+15,Knowledge_06,"女神像古くからハイラル全土で信仰されている女神を模した像。
+克服の証 4つと引き換えに がんばりの器かハートの器をもらうことができる。","Goddess StatuesThese ancient monuments depict the Goddess worshipped in Hyrule
+since time out of mind. You can trade four Spirit Orbs to one for 
+a Stamina Vessel or a Heart Container."
+16,Temperature_00,"気温の変化気温は場所や時間によって変化する。
+今居る場所の気温の変化には常に注意が必要だ。","Temperature ChangesThe temperature will change depending on your location and the time
+of day. It's a good idea to pay close attention to fluctuations in
+temperature when you're out roaming."
+17,Temperature_01,"暑さ対策日中の砂漠は強い日差しでハートが減少してしまう。 
+日陰や水の中で涼んだり防具で暑さ対策が必要だ。","Beat the HeatThe strong rays of the sun during a desert day will inflict damage if
+you're unprepared. You'll need to spend time in the shade or water
+or equip special armor specially made for high temperatures."
+18,Temperature_02,"寒さをしのぐ気温の低い場所でも たき火のそばでは体を温めることができる。
+火の点いたたいまつでも同様に寒さをしのぐことができる。","Surviving the ColdEven in frigid climates, the heat of a campfire can keep you warm.
+Holding a lit torch is another good way to stave off the cold."
+19,Time_00,夜の恵み夜にしか見ることができない夜行性の虫もいる。,"The Joys of NightSome animals and insects only come out when it's dark. Keep an eye
+out for them!"
+20,Time_01,夜の魔物スタルと名の付くガイコツの敵は夜になると湧き出てくる。,"Nighttime MonstersWhen night falls, skeletal Stal monsters will emerge from the ground.
+Stay vigilant!"
+21,Weather_00,"落雷ハイラルの雷は金属製の物に落ち易い性質がある。
+雷鳴が聞こえたら金属製の装備は外した方がよい。","Lightning StrikesLightning has a tendency to strike anything metallic. Whenever you
+hear thunder, it's a good idea to remove any metallic equipment
+before you get fried."
+22,Weather_01,雨の恵み雨が好きな生き物もいれば雨の日にしか生えない植物もある。,"The Joys of RainSome animals love playing in the rain, and there are certain plants
+that only bloom during rainstorms. Keep an eye out for them!"

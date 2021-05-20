@@ -1,0 +1,229 @@
+#,Title,JPja,USen
+1,"""0000""",ゲルド族です,I'm Gerudo!
+2,"""0001""",中に入ってもいい？,Can I go in?
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",監視所？,Lookout post?
+5,"""0004""",サボーク！,Sav'ork!
+6,Near_Raimei_001,よく似合ってるな,That looks good on you...
+7,Talk_20,"今日はハイリア人が良く来る日だな
+
+ここはゲルド族の族長様が
+いらっしゃる場所だ
+我々は不審者が入らないよう警備中だ
+あまり話しかけるんじゃない！","There sure are a lot of Hylians coming by
+today.
+
+This is the home of the chief of the
+Gerudo. It is my duty to make sure that
+no one suspicious enters.
+Do not distract me from my job!"
+8,Talk_21,"背が低い！！
+
+髪が黄色い！！
+
+腹筋が足りない！！！
+
+それでゲルド族を名乗ろうなどと
+片腹痛いわ！","You're short!
+
+
+Your hair is the wrong color!!
+
+
+And I can't even see your abs!!!
+
+
+It is absolutely ridiculous for you to claim
+that you're Gerudo. All evidence says
+otherwise."
+9,Talk_22,"忙しい！
+
+緊急事態！！
+
+関係者以外立ち入り禁止！！！
+
+と言いたいところだが
+我らの族長様は優しいお方でな
+訪ねくる者は阻むなと言われている
+入りたいなら好きにするんだな
+しかし もし族長様に失礼があった時は…","We're busy!
+
+
+It's an emergency!!
+
+
+Authorized personnel only!!!
+
+
+...That's what I would say if I had my
+way, but the chief is a kind person.
+She's told me to allow visitors.
+If you want to go inside, be my guest.
+But if you say even one rude thing to
+the chief..."
+10,Talk_23,"中に入るのは自由だが
+族長様に失礼があったら…","You are free to go inside, but if you are
+rude to the chief..."
+11,Talk_25,この槍が黙ってないからな！,"You and my spear will have a very
+personal conversation!"
+12,Talk_26,"雷鳴の兜が盗まれてしまったのは
+我ら警備兵の失態
+本音を言うと今はゲルド族以外
+誰も宮殿には入れたくないのだがな…","Allowing the Thunder Helm to be stolen
+was a failure shared by everyone tasked
+with guarding this town.
+If I'm being honest, I'd prefer to ban all
+but Gerudo from the palace for the
+moment..."
+13,Talk_27,"今は厳戒態勢中だ！
+
+本音を言うと今はゲルド族以外
+誰も宮殿には入れたくないのだがな…","Security is really tight lately!
+I'd rather there only be Gerudo in the
+palace right now, if I could make it so..."
+14,Talk_28,"ナボリスが鎮まり 
+ここからの景観もすっかり変わってしまった
+変わったというより
+元に戻っただけなんだがな
+ハイリア人は小さく力もないと思っていたが
+なかなかやるじゃないか…","Now that Naboris has calmed, it seems
+like the desert is different... I suppose it
+is, actually. It's back to normal now.
+I thought that Hylians were a small, weak
+little people, but you're not so bad..."
+15,Talk_29,"背が低い！！
+
+髪が黄色い！！
+
+腹筋が足りない！！！
+
+……しかし
+
+…世のヴォーイは ギャップに弱いと聞く
+その華奢なボディに秘められた力…
+お前…モテヴァーイというやつだな！","You're short!
+
+
+You're blond!!
+
+
+And I can't even see your abs!!!
+
+
+Though... I can imagine that those traits
+might be considered appealing in the
+outside world...
+In some eyes, you'd be considered an
+attractive vai, then."
+16,Talk_30,"もちろん！
+
+いつでも！！
+
+ウエルカム！！！
+
+だ！
+
+お前はもう我らの仲間も同然
+我々は お前をいつでも歓迎するぞ！","Of course!
+
+
+Anytime!!
+
+
+You're welcome!!!
+
+
+Naturally, you are already one of us! You
+are welcome here anytime!"
+17,Talk_32,"さよならではない！
+
+お前はもう我らの仲間同然
+仲間なら「サヴォーク」だ！","Not \""good-bye\""!
+
+
+You're among friends here. It's
+sav'orq!"
+18,Talk_33,サヴァーク,Sav'aaq.
+19,Talk_34,サヴォッタ,Sav'otta.
+20,Talk_35,サヴァサーバ,Sav'saaba.
+21,Talk_36,"このミツバというヴァーイと言い…
+お前と言い…
+今日は ハイリア人が良く来る日だな…","First that vai, Traysi, and now you...
+There sure are a lot of Hylians coming
+around today."
+22,Talk_37,"監視所ならこの街の南東門から
+行くといいだろう
+詳しいことは そこの兵士に聞くがいい","It's best to head to the lookout post
+through the southeastern gate.
+
+Ask the guard there for directions."
+23,Talk_38,"族長様だったら
+監視所にお出かけになられた
+雷鳴の兜が我らの手に戻り まずは一安心だが
+
+まだまだ気は抜けぬ
+ゲルド族の誇りにかけ
+もう二度とこのような失態がないようにせねば！","The chief has left for the lookout post.
+
+
+We can breathe a little easier now that
+we have the Thunder Helm back, but we
+can't let our guard down again.
+For the good of Gerudo pride, we must
+make sure that such an embarrassment
+never, ever happens again!"
+24,Talk_39,"族長様お一人で監視所に向かわれたようだが
+大丈夫だろうか…
+まぁ族長様に手出ししようとする
+不届き者がいようものなら","The chief left on her own, but I wonder
+if she'll be all right.
+
+If I meet anyone flouting the rule of law..."
+25,Talk_40,このツィーザの槍のサビにするだけだがな,"They'll have a sudden meeting with the
+sharp end of my spear."
+26,Talk_41,"それにしても…
+人は見かけによらないものだな","I suppose you could say...
+It would be a mistake to judge people
+on appearances alone."
+27,Talk_42,"「サボーク」ではない！
+
+「サヴォーク！」だ！
+お前はもう我らの仲間同然なのだ
+「ヴォ」の発音ぐらい しっかりせんか！","It's not \""sav'ork\""!
+
+
+You're a friend to the Gerudo now, and
+it's \""sav'orq\"" among friends!
+
+You just need to work on your
+pronunciation a little bit!"
+28,Talk_43,"ナボリスが鎮まり 
+ここからの景観もすっかり変わってしまった
+変わったというより
+元に戻っただけなんだがな
+ハイリア人は小さく力もないと思っていたが
+なかなかやるじゃないか…","Now that Naboris has been appeased,
+the desert seems different... I suppose
+it is, actually. It's back to normal now.
+I thought that Hylians were a small, weak
+little people, but you're not so bad..."
+29,Talk_44,"それにしても…
+人は見かけによらないものだな","I suppose you could say...
+It would be a mistake to judge people
+on appearances alone."
+30,Talk_45,"族長様は お前に任せたと言っていたが
+監視所から お戻りになられてからずっと
+ため息ばかりついておられる
+
+お前の事がよほど心配だったらしいな
+
+さっ早く中へ
+
+お前の元気な姿を見れば
+族長様も安心されることだろう","The chief said she'd leave everything to
+you, but ever since she returned, I could
+tell something was wrong.
+She was clearly worried about you.
+You should hurry to her at once.
+I'm sure she'll be relieved to see you."
+31,Talk_46,待ちわびていたぞ！,We've been waiting for you!

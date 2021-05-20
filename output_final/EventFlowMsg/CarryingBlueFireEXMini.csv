@@ -1,0 +1,507 @@
+#,Title,JPja,USen
+1,"""0002""",覚えてない,I don't remember.
+2,"""0003""",覚えて…ます,I remember...
+3,"""0004""",お願いします！,"Yes, please!"
+4,"""0005""",もう一度,Once more?
+5,"""0006""",結構です,"No, thanks."
+6,"""0007""",思ってた,I did.
+7,"""0008""",思ってない,I did not.
+8,"""0009""",古代炉って？,Ancient furnace?
+9,"""0010""",気を付ける事は？,Got any pointers?
+10,"""0011""",あなたは？,And you are?
+11,"""0012""",何でもない,Nope.
+12,"""0013""",チェッキー！,SNAAAP!
+13,"""0014""",チェッキー…,Snap?
+14,"""0015""",やめときます…,Nah...
+15,"""0016""",……,...
+16,"""0017""",子供…,Aren't you a child?
+17,"""0019""",撮れました！,I took one!
+18,"""0020""",ウツシエって？,Camera?
+19,"""0021""",ちょっと待って,One moment.
+20,"""0022""",そうですが…,"That's true, but..."
+21,"""0023""",その通り,Precisely.
+22,"""0026""",写し絵って？,Pic?
+23,near00,バレたか…,Don't spill the beans!
+24,near01,むふん…,Hmph...
+25,near02,撮って～♪,♪Take my picture!♪ 
+26,near03,よろしくネ,I'm countin' on ya!
+27,near04,…,...
+28,talk00,"ねえ リンクぅ
+回生の眠りって夢とか見るの？
+100年前の印象と些かも変わらぬけれど
+その後の調子は どうかナ？
+でもこうして五体満足で
+ここまで来れてることが健康な証拠だネ！
+…ん？リンクったら なんかおかしいぞ？
+
+まさか アタシのこと
+覚えてないってことは…","Anywaaay. Linky! Do you remember
+any dreams from your time in the
+Slumber of Restoration?
+You don't look like you've changed a bit
+in the last 100 years, but SOMETHING
+must have happened in all that time!
+Well, no matter! I'm just happy you're
+still in one piece.
+
+...Linky? What's with that look?
+You do still remember me, right?"
+29,talk01,"…ハイこの話題おしまい！
+本題に戻りま～す！","Anyway. Enough about that!
+Back to the topic at hand!"
+30,talk02,"えー？！
+
+ショックすぎて プルア立ち直れないかも！","Really?! Well! I'm so shocked I don't
+know if I'll ever be able to recover
+from this!"
+31,talk03,"おいおい…言葉詰まってんじゃん
+","Hmm... I heard the hesitation in
+your voice."
+32,talk04,"100年前""厄災ガノンにやられたアンタを
+回生の祠まで連れてってあげたのに？
+そして傷ついたアンタを
+回生の眠りに就かせてあげたのにィ？
+それなのに まさか…","Even though, 100 years ago, I took you
+to the Shrine of Resurrection after
+Calamity Ganon fatally wounded you...
+Even though I was the one who put you
+safely into the Slumber of Restoration...
+
+Despite all that, you still don't
+remember me?"
+33,talk05,"キャハハ！ びっくりした？
+
+ここの所長は シモンじゃなくって
+アタシなのでしたー！","Hey! Heeeey! Are you surprised?!
+
+
+The director of this laboratory is
+NOT Symin. It's ME!"
+34,talk06,ここ重要なトコだから よーく聞いて？,"This is the really important bit,
+so listen up!"
+35,talk07,"フムフム…予想どおりじゃな
+
+回生の眠りは 100年経過時点で
+記憶が欠落することがあるらしい…メモメモ","Hmm... As expected.
+
+
+After 100 years in the Slumber of Restoration,
+subject...has...lost...all...memories. Noted!"
+36,talk08,"100年の時を超え！
+
+再び力を溜めつつある厄災ガノンを倒し！
+
+我らがゼルダ姫を救い出す！
+
+そんな気概が もしもアンタにあるのなら
+このプルア！
+シーカーストーンに欠けてる基本アイテムを
+復活させてあげちゃうけどォ？","Here you are, after 100 years! 
+
+
+Here to defeat Calamity Ganon,
+who is growing in strength with
+every passing moment!
+And to rescue our beloved Princess
+Zelda! That is, if you've got the
+courage to try.
+And to help the one true hero, I, the one
+and only Purah, will restore the basic
+functions missing from the Sheikah Slate!
+Aaaand what do you say to thaaaat?"
+37,talk09,そうくると思ったしー！,I knew you'd say that!
+38,talk10,"フムフム… なるほどなるほど
+
+回生の眠りから覚醒後
+言葉を理解する能力が低下する…メモメモ","Hmmm... I see, I see.
+
+
+Post-Slumber of Restoration, the subject's verbal
+comprehension skills have...somewhat...atrophied.
+Noted!"
+39,talk11,…あっそ！,"Oh, REALLY?"
+40,talk12,"フムフム…回生の眠りから覚醒した者は
+ヘソまがりな回答をする傾向が あるらしい…メモメモ","Hmmm... Post Slumber of Restoration, subject
+has a tendency to give...uncomfortable...
+responses...to questions. Noted!"
+41,talk13,もしも気が変わったらまた声かけてネ,"Well, if you change your mind...
+You know where to find me."
+42,talk14,"んじゃ早速お使いのほうお願いネ
+
+……？
+
+何 その顔？ 
+
+シーカーストーン…
+タダで直してもらえるとでも思ったかナ？","All right, then. First I need you to 
+run an errand for me.
+
+...
+
+
+What's with that look on your face?
+
+
+You didn't think I'd fix your Sheikah Slate
+for free, did you?"
+43,talk15,"え？""名前じゃなくて？
+まさか年齢のこととか？
+あのねリンク…うら若き乙女に
+年齢を聞くもんじゃないのヨ
+ときどき古い言葉が出ちゃう事や
+上の日記帳の事なんかも乙女に聞いちゃダメ！","Hm? You weren't asking about my name?
+
+
+Oh, I get it. You want to know my age,
+don't you?
+
+Well, Linky, I must say... It's not polite
+to ask a young maiden such as myself
+her age!
+And also don't ask me why I know so
+many ancient terms! And ALSO don't
+ask about my diary upstairs!"
+44,talk16,んじゃ青い炎のほう よろしくネ！,"OK then. I'm counting on you for that
+blue flame!"
+45,talk17,"リンク ありがとう！
+ちょっとホラそこ見てみ？","Linky, thank you so much! Now then,
+take a look over there!"
+46,talk18,何度も言わせないでほしいんだけど…,"I'd rather not have to repeat myself
+over and over..."
+47,talk19,ちょい！ また失敗？,Huh. So you failed...again?
+48,talk20,"フムフム…""回生の眠り明けは
+自分に都合のいい思い込みが見受けられる…メモメモ","Hmmm... Post Slumber of Restoration,
+subject is plagued by...presumptuous...
+tendencies. Noted!"
+49,talk21,"うむ""最近の若者にしては
+いい心がけじゃの
+…ていうか そっちも100歳超えてるのか","Hmm. You're pretty considerate for a
+young person.
+
+But then...I suppose that's because
+you're actually over 100 years old!"
+50,talk22,"んじゃ お使いについて説明するネ！ 
+
+この研究所の外壁に
+火のついてないかまどあるよネ？","Let me explain what this errand entails.
+
+
+You know the unlit furnace on the wall
+just outside this laboratory?"
+51,talk23,はい じゃやりなお～し！,"Okaaay then. Well, you'll just have to
+start over!"
+52,talk24,"回生の眠り明けの実例って
+アンタが初めてなんだよネ","This is the first documented case
+of someone waking up from the
+Slumber of Restoration!"
+53,talk25,"クサヨシさん家の裏の高台にあるのが
+古代炉だヨ
+この研究所を出て左に歩いて
+崖っぷちまで歩いたら…
+シーカーストーンの望遠鏡で見てみて！
+
+青い炎が見えたら それが古代炉だから","You'll find the ancient furnace on the
+high ground behind Reede's house.
+
+As soon as you leave this laboratory,
+head left until you're at the cliff's edge.
+Then make use of your scope!
+You'll see a blue flame. That's the
+ancient furnace."
+54,talk26,何か用？,"Ummm, can I help you?"
+55,talk27,"青い炎っていっても やっぱ火は火だし
+水に濡れたら消えちゃうからネ
+帰りは念のため村のしょく台に火をつけながら
+緩い斜面を選んで歩いて帰って来てネ","Blue flame makes it sound fancy, but it's
+really just the same as a regular flame.
+If it gets wet, that's that.
+It'll help to light the village lanterns
+you'll see on your way back here and
+to avoid steep inclines."
+56,talk28,プルアじゃ！,I'm Purah!
+57,talk29,"古代炉から青い炎もらってくるんだったら
+たいまつが便利かもネ
+この家の入口ら辺にあったはずだし
+勝手に持ってっていいヨ","When bringing back the blue flame from
+the ancient furnace, you may find it
+helpful to use a torch.
+There should be one at the entrance of
+this house. Feel free to use it."
+58,talk30,"勇導石が反応しはじめたでしょ！
+これは神秘などではなくて必然なのですヨ！
+むふん… アタシの勇導石ちゃん
+研究者の血が さわぎますなー","The Guidance Stone must be starting
+to react! There's nothing mysterious
+about it—this is pure science!
+Heh... My sweet little Guidance Stone...
+you sure know how to make this old
+researcher's heart flutter!"
+59,talk31,"そんじゃ元気よく「チェッキー！」
+よろしく！","Give me a nice SNAP! Go on, no time to
+be shy about it!"
+60,talk32,"うーん…若干ノリが悪いけど
+まあ いっか","Hmm... That was pretty weak.
+But that's OK."
+61,talk33,ムフフ…来たネ…,Heh heh... Here it comes...
+62,talk34,"でっきあっがり～！
+どう？ちゃんと直ってる？","Aaaand...it's done! So?! Is it all fixed
+up now?"
+63,talk35,"……
+
+んああ！アタシか！
+
+…ごめんなさい取り乱しました
+わざとじゃないヨ","...
+
+
+Huh? Oh, I guess that's my cue!
+
+
+Sorry, I kind of lost it there. It wasn't
+on purpose."
+64,talk36,"……
+
+そ…そういえば美少女だけじゃなくて
+古い景色の写し絵もアルバムに入ってたよネ？
+昔 よくゼルダ姫が
+ウツシエを使ってたのは知ってるけど…
+ねえ リンク…
+
+ゼルダ姫の お付きの騎士だったなら
+姫の撮影場所に同行してたってことでしょ？
+…あ そっか
+アンタ記憶をなくしてたんだっけ
+でも ちょっと待って！
+
+考えてみたら古い景色の写し絵って
+アンタの記憶をたどる手がかりになるかも！
+インパに相談してみたら いいと思う！
+ゼルダ姫の事なら アタシより詳しいはずだし！","Hmmm...
+
+
+Ah, it's not just a pretty girl in these
+images. Yes, there are also some old
+landscape photos stored in the album.
+I knew Princess Zelda had made frequent
+use of the Camera feature, but this...
+
+Hey, Linky! It dawns on me that you were
+Princess Zelda's appointed knight, which
+means...
+there's a strong possibility that you
+accompanied her to all of the places
+where these pictures were taken.
+Oh...right. The \""lost memory\"" thing
+could prove troublesome.
+
+But don't lose hope! It just means these
+pictures could be the missing piece
+to help restore your lost memories!
+If my hunch is correct, I suggest you
+check in with Impa. She knows more
+about Princess Zelda than even I do!"
+65,talk37,"あのさ…""上手く撮れてないんだけど？","You know... That's not a very good
+effort, now is it?"
+66,talk38,"どうどう？
+ウツシエで アタシの写し絵""撮れそ？","How's the picture taking going?
+Did you get a cute pic of me
+with the Camera?"
+67,talk39,いい塩梅！,Nice one!
+68,talk40,"……
+
+あっ…ついでに お願い思い出しちゃった
+
+インパに会った後でいいから
+古代素材を回収してきてほしいのネ
+んでアタシかアッカレ古代研究所の
+ロベリーに届けてくれたらウレシイ！
+…アタシがウレシイだけじゃ何だから
+古代素材と交換で""いい事してあげる！","...
+
+
+Oh, yeah! There's just one more thing
+I need from you!
+
+You don't have to worry about this until
+after you see Impa, but I want you to
+bring me back some ancient materials!
+Bring them either to me or to Robbie at
+the Akkala Ancient Tech Lab.
+
+As if my joy weren't enough, if you
+bring us ancient materials, we'll give
+you something good as a reward."
+69,talk42,"古代炉から青い炎を持って来て
+そのかまどに火をつけてくれない？","Could you please bring the blue flame
+from the ancient furnace in town?
+Oh, and also use it to light our furnace?"
+70,talk44,"そしたら この勇導石ちゃんが動いて
+欠けてる基本アイテムが復活する って段取りヨ
+…若い娘が段取り なんて言葉を使うだろうか？
+まいっか","This sweet little Guidance Stone will start
+working once you do that, allowing us to
+restore your missing runes!
+Huh... I wonder if young women these days still say
+things like \""sweet\"" and \""little.\"" Ah, well. I suppose
+it doesn't matter anyway."
+71,talk45,"しからばシーカーストーンの基本アイテム
+さっさと復活させちゃおうネ！","Well then... Let's go ahead and restore
+those Sheikah Slate runes for you!"
+72,talk46,んじゃ よろしく～！,All right! Let's do this!
+73,talk47,チェキチェキ♪,Snappity snap!
+74,talk48,"ウツシエハイラル図鑑アルバム…
+うんうんだいじょぶっぽいネ！","Camera, Hyrule Compendium, album...
+Yep, looks good!"
+75,talk49,"ウツシエハイラル図鑑アルバムに
+シーカーセンサー…うん だいじょぶっぽい！","Camera, Hyrule Compendium, album, and
+the Sheikah Sensor... Yep, looks good!"
+76,talk50,"試しに その復活したウツシエで
+アタシの写し絵""撮ってみてみて！","Take a picture of me with the Camera!
+Oh, and don't forget to lemme see it!"
+77,talk51,"あーかたじけない
+唐突なメモメモは アタシの悪い癖なのネ
+逆にそっちから何か質問は？","Oh, sooooorry... I have a bad habit of
+taking notes rather abruptly like that.
+It's a charming quirk, isn't it?
+Anyhoo... Do you have any questions
+for me?"
+78,talk52,"失敬な！
+
+あっ失敬な ってことはないか…
+
+実は実験に失敗しちゃってさ
+失敗っていうか…ある意味成功っていうか…
+真実は上の日記帳に書き残してあるけど…
+恥ずかしいから読んではならぬヨ！","How very rude!
+
+
+Hm, or perhaps it's not rude at all...
+I suppose that's actually a rather
+logical conclusion to jump to.
+The truth is, I look this way because of
+a failed experiment.
+
+Well, I say \""failed,\"" but...in some ways,
+it was a success. I documented the full
+affair in my diary upstairs.
+BUT! The whole thing is embarrassing,
+so I insist you refrain from reading it!"
+79,talk53,"あでも…
+今は雨降ってるから厳しいかも…","Oh, but...it's raining now, so I guess
+you can't."
+80,talk54,"今日は宿屋にでも泊まって
+天気が回復したら お願いネ！","It might be best to rest at an inn and
+wait for the rain to stop. Once it does,
+I'm counting on you!"
+81,talk55,"晴れてからでいいので
+青い炎 よろしくネ！","It's fine to wait for the rain to stop,
+but I'll be counting on you for that
+blue flame when it does!"
+82,talk56,"はいほいー♪慌てなくてもオッケー
+その代わり カワイイの一発頼むヨ","It's fine, really. No need to stress.
+Just make sure you take a cute one
+of me! And soon!"
+83,talk57,"昔 ゼルダ姫も使ってた
+シーカーストーンの基本アイテムの1つだヨ","It's one of the Sheikah Slate runes, silly.
+Princess Zelda used it long ago."
+84,talk58,"使い方はリモコンバクダンとかと同じ
+チャッと構えて パシャッ！そんな感じ！","Use it the same way as Remote Bombs
+and the like. Just equip it and SNAP!
+Just like that!"
+85,talk59,"使い方はアイスメーカーとかと同じ
+チャッと構えて パシャッ！カンタン カンタン","Use it the same way as Cryonis and
+the like. Just equip it and SNAP!
+Just like that!"
+86,talk60,"使い方はビタロックとかと同じ
+チャッと構えて パシャッ！と やっちゃってヨ","Use it the same way as Stasis and
+the like. Just equip it and SNAP!
+Just like that!"
+87,talk61,"使い方はマグネキャッチとかと同じ
+チャッと構えて パシャッ！っとネ！","Use it as you would Magnesis and
+the like. Just equip it and SNAP!
+Just like that!"
+88,talk62,えーっと どれどれ…,"Hmmm, lessee here... Which one is it..."
+89,talk63,"イヤ～ン楽しみィ！
+見せて見せて～","Oooh, I can't wait to see it!
+Lemme see, lemme see!"
+90,talk64,今度はちゃんと撮れた？,Did you get a good one this time?
+91,talk65,"ズームもできることだし
+いっちょカワイイやつ撮ってみて！","You can also use the zoom function if
+you want. Just make sure I look cute!"
+92,talk66,"ハテノ古代研究所を
+ワープポイントに設定しました","Hateno Ancient Tech Lab is now
+set as a travel gate."
+93,talk67,他に質問は？,Do you have any other questions?
+94,talk68,おー！来たね リンク！,"Whaaaaa—?! Linky?!
+Is it really you?"
+95,talk69,チェッキー♪,Snappity... SNAP!
+96,talk70,"いや こんな事をしている場合ではないな…
+
+勇導石が動き出したのはリンクの仕業か
+確認せねば…
+リンクぅひょっとしてアンタが
+外のかまどに青い炎つけてくれたのかナ？
+説明も聞かずに古代炉から青い炎を運ぶとは
+なかなかやりおる…
+おっと自己紹介が遅れちゃった
+
+アタシが ハテノ古代研究所
+所長のプルアだヨ♪","No, no, no! Now is not the time for this...
+
+
+The Guidance Stone is suddenly working again,
+and now Linky has arrived...
+
+Hmmm... Say, Linky! Did you, by any
+chance, happen to light the furnace
+with a blue flame?
+If you figured out how to do that without
+being told... You must've come out of the
+Slumber of Restoration in good shape!
+Oh! Yes, I forgot to introduce myself.
+
+
+I am the Hateno Ancient Tech Lab's
+distinguished director... ♪Purah!♪"
+97,talk71,"あー かたじけない…
+まだ状況飲み込めてないって感じ？
+じゃ単刀直入に言っちゃうネ？
+
+アンタ…インパのヤツからシーカーストーン
+修理するよう言われたんでしょ？
+オッケー♪それ後で直したげるから
+今度はこっちから質問ターイム！","My apologies, Linky. It seems you have
+yet to fully grasp the specifics of the
+situation at hand.
+I'll just speak bluntly, how about?
+
+
+You were instructed by Impa to come
+here to have your Sheikah Slate
+repaired, correct?
+♪Called it!♪ And we'll get to that,
+but first I have some questions!"
+98,talk72,"あー…思わず自分で自分が
+ここの所長だって事を バラしちゃった…","Ah, yes. It seems I spilled the beans all
+by myself about my role as the true
+director of this place."
+99,talk73,"それにしても シモンのヤツ
+すぐアタシが所長って事 バラすんだもんなー",Symin can't keep a secret for anything...
+100,talk74,"撮ると言っても対象をちゃんと
+真ん中に入れないと ダメだかんネ！","When you take a picture, you must be
+sure to center the subject. Got it?"
+101,talk75,"写し絵ってのは
+ウツシエで撮った絵のことヨ
+撮った動物や素材の写し絵は
+自動でハイラル図鑑に登録されるから
+いろんなモノ バンバン撮ってみるといいヨ！","A picture is an image that is a perfect
+likeness of its subject. All you need
+to create one is a Camera.
+Pictures of animals and objects will
+be automatically registered in the
+Hyrule Compendium.
+In other words, you should basically
+go and take pictures of anything
+and everything!"
+102,talk76,じゃ早速なんだけどォ…,"So I know this is sudden, but hear
+me out."

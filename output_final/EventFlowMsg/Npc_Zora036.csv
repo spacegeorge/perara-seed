@@ -1,0 +1,128 @@
+#,Title,JPja,USen
+1,"""0000""",いいよ,Surely.
+2,"""0001""",今はちょっと…,Not now...
+3,"""0002""",はい,Yes.
+4,"""0003""",いいえ,No.
+5,near00,うーむ…,Hmm...
+6,talk00,よぅ,Hiya!
+7,talk01,いよぅ！,Hey!
+8,talk02,ああ…,Hmm...
+9,talk04,"今はとにかく王の間に向かってくれ
+
+そしてドレファン王の話を聞いてくれないか？","For now, you should head to the
+throne room.
+
+Please, won't you listen to what
+King Dorephan has to say?"
+10,talk05,おっ？おお！お前はダルブル橋の…！,"Oh? Oh! You're the guy from
+Inogo Bridge!"
+11,talk06,"おっ？おお！ハイリア人！
+偶然にしては でき過ぎだ！","Oh? Oh! A Hylian! This is much too
+coincidental to be a coincidence!"
+12,talk07,どうした ハイリア人！,"What's wrong, Hylian?"
+13,talk08,"まさかルッタを止めるの
+手伝ってくれるのか？","Don't tell me you're planning on helping
+us stop Ruta?"
+14,talk09,"ここに居るって事は
+あれからシド王子に会ったのだな？","The fact that you're here must mean
+you've met with Prince Sidon."
+15,talk10,だったら帰れよ…,I see. Then get out of here.
+16,talk11,"シド王子から聞いてるぞ！
+
+お前がルッタ討伐に協力してくれる
+ハイリア人なんだろ？
+だったら今すぐ王の間に向かい
+ドレファン王に謁見してくれ！","I heard all about it from Prince Sidon!
+
+
+You're the Hylian! The one helping us
+with Ruta, right?
+
+If so, hurry on to the throne room.
+I'd like you to speak with
+King Dorephan right away."
+17,talk12,"よーし…だったらやってみてよ！
+
+里を救ってくれたお前なら朝魚前だろ？
+それじゃあ頼んだよ！","OK... In that case, give it a try!
+
+
+For he who saved the domain,
+this should be a piece of fish cake.
+Go on, I'm counting on you!"
+18,talk13,"ラルス池のヒノックス退治では
+先を越されてしまったな","Ya know, you beat me to the punch
+with that Hinox by Ralis Pond."
+19,talk14,"ヒノックスの様な巨人は
+いつなんどき襲ってくるか分からん
+アタシも もっと強くならねば…","You never know when a giant like that
+Hinox will go on the attack. I need to 
+get stronger..."
+20,talk15,"今ゾーラの里では ちょうど
+そなたのようなハイリア人を募集しておったのだ
+よければ王の間に向かってくれないか？
+そして王の話を聞いて差し上げてくれ","Right now, Zora's Domain is
+recruiting Hylians.
+
+If you don't mind, may I ask you to go
+to the throne room? Please...listen to
+what the king has to say."
+21,talk16,おぉ？ハイリア人か！,Oh?! Hylian!
+22,talk17,"そうこなくっちゃな！
+
+アタシらは電気の矢""触れないから
+頼んだよ！","That's the spirit!
+
+
+We can't touch shock arrows ourselves,
+so we're really counting on you!"
+23,talk18,"ルッタを止めるの
+手伝ってくれるんだろ？","You will help us stop Ruta...
+Won't you?"
+24,talk19,"それより見たか？""空を！
+久しぶりの晴れ間だ！
+ルッタの放水が ついに止まったんだな！","Did you see it? The sky! It's finally sunny
+again! Ruta's water assault has stopped!"
+25,talk20,"ヒノックスの件では先を越されてしまったな
+
+アタシも強くなりたいな","I guess you beat me to dealing with
+that Hinox.
+
+I...really want to get stronger."
+26,talk22,アタシなら相変わらずだ,I'm the same as usual!
+27,talk26,"ハイリア人っ！ ルッタを鎮めちまうなんて…
+お前 すごいヤツだったんだな！
+だったら これはできるか？","Hylian! To think that you were able to
+appease Ruta... You turned out to be
+a pretty incredible guy!
+In fact, I wonder if you can do this, too..."
+28,talk27,ンだよーシケてんなー…,What?! Don't be such a downer...
+29,talk29,やってみる気になったか？,Would you like to give it a try now?
+30,talk30,ラルス池のヒノックス討伐！,Exterminate the Hinox by Ralis Pond!
+31,talk33,ラルス池なら ここから南西だ,Ralis Pond is southwest of here.
+32,talk34,"実はあのヒノックス""以前に挑んだんだけど
+見事に返り討ちに あっちゃって…","The truth is...I challenged that Hinox
+once before. It managed to completely
+turn the tables on me."
+33,talk35,"やっぱ里を救った英傑は違うな…
+
+じゃ これ受け取ってくれ
+せめてもの礼だ","I knew it... The Champion who saved the
+domain is in a whole other league!
+
+Please, take this. Consider it a small
+token of my immense gratitude."
+34,talk36,"どうやって倒してやろうか悩んでたんだが
+お前が倒してくれるなら それに越した事は無い
+では頼んだぞ！","I was worried about whether I'd be able
+to fell that giant beast. But I think it's for
+the best if you defeat it for me!
+So...yes. I'll leave it to you!"
+35,talk37,"ん…この臭い もしや
+ラルス池のヒノックス""倒したのか？","Hm... That stench... Did you perhaps...
+defeat that Hinox by Ralis Pond?"
+36,talk38,なっ…本気にしてたのか？と…とにかく ありがとう,"Whaaaat?! You really did?!
+
+
+I just... I can't... Wow!
+Th-thank you. Really!"

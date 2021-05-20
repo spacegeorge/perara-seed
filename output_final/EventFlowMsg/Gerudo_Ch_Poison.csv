@@ -1,0 +1,469 @@
+#,Title,JPja,USen
+1,"""0000""",どうして？,Why not?
+2,"""0001""",そっとしておく,I'll leave you alone...
+3,"""0002""",実は…,Actually...
+4,"""0003""",わかった,Got it.
+5,"""0004""",それはちょっと…,I don't know...
+6,"""0005""",どこにあるの？,Where are they?
+7,"""0006""",探しに行きます,I'll go look for some.
+8,"""0007""",持ってきたよ,Berry delivery!
+9,"""0008""",ゴミ… まだあるけど？,STILL with the rinds?
+10,"""0009""",イチゴは？,So...the wildberries?
+11,"""0010""",さよなら,Good-bye.
+12,Cariban_Talk00,"何よアンタ？
+そんなに見られてちゃ食べづらいじゃない！
+あっち行きなさいよ！","What's with you? How am I supposed to
+enjoy eating with you staring at me?
+Buzz off."
+13,Cariban_Talk01,"だから！ そんなに見られてちゃ
+食べづらいって言ってるでしょ？
+あっち行きなさいってば！","I mean it! I can't eat with your
+judgmental eyes on me!
+
+Go away!"
+14,Near00,ムシャムシャ…,*chomp...chomp*
+15,Near01,やったー！,I did it!
+16,Talk01,"ゴミのことなんて
+考えてなかったけど
+まさか私の食べカスが
+そんなことになっていたなんて…
+でも その子には悪いと思うけど
+イチゴ10個を持ってきてくれない限りは
+食べるのは止めらんないわ","I haven't been thinking about trash at all.
+Who can think while in a melon trance?
+
+I just can't believe the rinds I'm tossing
+are such a problem... It's all organic
+material, right?
+Well, anyway, I feel bad about the little
+vai, but I'm going to need at least 
+10 wildberries if you want me to stop."
+17,Talk02,"何よアンタ？
+そんなに見られてちゃ食べづらいじゃない！
+あっち行きなさいよ！","What's with you? How can I enjoy my
+snack with you staring at me, huh?!
+Buzz off!"
+18,Talk03,"あま～い！！
+
+これがイチゴかぁ
+
+美味しい上にゴミも出ない！
+最高のフルーツだわ！","SWEEEETNESS!
+
+
+So that's a wildberry...
+
+
+It's delicious! And no rind to toss!
+What a magical fruit!"
+19,Talk04,えっ？ ホントに？,Huh? Really?
+20,Talk06,"でも… その子には悪いことしちゃったね
+
+自分の欲が満たされたら
+自分がどれだけひどい事してたのか気づいたよ…
+ちょっと ゴミ片づけてくる！
+
+アンタには世話になったね
+サークサーク！","But...now I feel bad for the little vai.
+
+
+Now that my craving's been satisfied,
+I realize just how horribly selfish I've
+been... Shame on me.
+I'm going to go help clean up the trash!
+
+
+I've really caused a lot of trouble...but
+now I'm going to make it right!
+Sarqso!"
+21,Talk07,"えっ？ ゴミ？？
+
+小さなヴァーイが困ってる？","What? Garbage?!
+
+
+A small vai is having trouble?"
+22,Talk08,"きゅ…急にそんなこと言われても…
+私が何しようと自由じゃない！","Oh, sure, you spring this on me out of
+nowhere and expect me to change MY
+lifestyle. Well, no. I do what I want!"
+23,Talk09,"そ… そんな目で見ないでよ！
+
+わかった！
+わかったわよ！！
+でもその代り 1つお願いがあるの
+
+私…一度でいいから
+イチゴが食べたいのよね
+イチゴ持ってきてくれるなら
+メロン食べるの我慢してあげてもいいよ","Aww... Don't look at me like that!
+
+
+Fine! FINE! I get it!
+
+
+But I need something from you in return.
+Altruism is for suckers.
+
+Just once...I'd like to eat a wildberry.
+
+
+You bring me a wildberry, and I can hold
+off on eating so many melons."
+24,Talk10,"イチゴはゲルド高地の降雪地帯に
+生えてるんだけど
+険しい場所も多いし
+なかなか採れない希少な果物だから
+市場にも出回らないのよね…
+
+あっ
+
+ちなみに1個とかじゃ
+お話にならないからね…
+そうね…
+
+10個はないとね～","Wildberries grow in the snowy areas of
+the Gerudo Highlands.
+
+It's a dangerous region, so the fruit is
+kind of rare and hardly ever shows up at
+market...
+Ah. 
+
+
+Now that I think on it, there's barely a
+point if you only bring me one...
+
+Let's see...
+
+
+Yes, I'll need at least 10..."
+25,Talk11,"はぁ～？
+
+私の楽しみを1つ奪うんだから
+別の楽しみを与えてもらうのは当たり前でしょ？
+イチゴはゲルド高地の降雪地帯に生えてるわよ！
+
+ちなみに1個とかじゃ許さないからね！
+せめて10個は持ってきなさいよね！
+さっ もういいでしょ？
+さっさと行きなさいよ！！","Whaah?
+
+
+How can you ask me to forgo my one
+great pleasure in life without offering a
+replacement? It's common sense.
+Now, wildberries grow in the snows of
+the Gerudo Highlands!
+
+And I'm not talking about just one!
+That's wildberries, plural! I'll need at
+least 10 if we're going to do this!
+You got it? Good. Now scram!"
+26,Talk12,"まさか私の食べカスが
+そんなことになっていたなんて…
+でもここでコッソリとメロンを食べるのが
+私の唯一の楽しみなの
+そのヴァーイには悪いけど
+イチゴ10個""持ってきてくれない限りは
+食べるのは止めらんないわ","I can't believe the rinds I've been tossing
+are such a problem... They're organic!
+
+And secretly eating melons here is my
+one guilty pleasure.
+
+I feel bad about that little vai, but I'm
+going to need at least 10 wildberries if
+you want me to stop."
+27,Talk13,"イチゴはゲルド高地の降雪地帯に
+生えてるんだけど
+あの辺りは険しい場所が多いから
+なかなか市場にも出回らないのよね","Wildberries grow in the snows of the
+Gerudo Highlands.
+
+It's a dangerous region, so the fruit is
+kind of rare and hardly ever shows up at
+market..."
+28,Talk14,"ゲルド高地までけっこう距離あるし
+スナザラシをレンタルするのがいいかもね～
+早く食べたいし…","The Gerudo Highlands are pretty far.
+You'll probably want to rent a sand seal.
+
+And I want to eat sooner rather than later..."
+29,Talk16,"ん？
+
+1… 2… 3… 4…
+
+ちょっと足りないじゃない！
+数ごまかすって どういう神経してんのよ！
+約束は10個だったはずよね？
+私10個まとめてじゃないと受け取らないから！","Huh?
+
+
+One... Two... Three... Four...
+
+
+Wait! This isn't even enough! 
+What kind of berry scam are you trying
+to pull here?
+Our bargain was for 10, right?
+You bring me 10 at once or no deal!"
+30,Talk18,"だから！ そんなに見られてちゃ
+食べづらいって言ってるでしょ？
+あっち行きなさいってば！","I mean it! I can't enjoy this snack with
+someone staring at me!
+
+Go away!"
+31,Talk19,サヴォッタ！,Sav'otta!
+32,Talk20,サヴァーク！,Sav'aaq!
+33,Talk21,サヴァサーバ！,Sav'saaba!
+34,Talk22,"いや～ あんたには世話になったね
+
+あの後 ゴミだらけの水場と
+泣いているヴァーイをみて
+私も心を入れ替えたんだ
+
+もうゴミのポイ捨てはやめるよ！","Oh, my, I sure caused a lot of trouble for
+you, didn't I?
+
+After I saw that water trough completely
+filled with trash and that poor little vai
+crying for her lost orchard...
+I had a change of heart.
+
+
+I'll never litter again!"
+35,Talk23,"いちいちゴミ箱に捨てるのって
+面倒だしさ
+まとめて後で捨てるよ","Hey, don't judge. It'd be a pain to toss
+these a rind at a time.
+
+I'll just collect a bunch of them and
+throw them away all at once later."
+36,Talk24,"なに その顔！
+
+ポイ捨てはやめたし！
+これだって ちゃんと捨てるからいいじゃない！","Why are you looking at me like that?!
+
+
+I stopped littering! I'm going to throw
+these away later, all right? Calm down!"
+37,Talk25,"あのイチゴは迷惑かけたお礼に
+あの小さなヴァーイにあげたんだ
+憧れだったイチゴを食べられただけでも
+大満足だし後悔はないよ
+それにやっぱり私は
+ヒンヤリメロンが好きみたい
+果物屋さんに売ってたから
+また買っちゃった","I gave those wildberries to the little vai
+to apologize for causing her so much
+trouble with my rinds.
+I was completely satisfied with being able
+to try a single wildberry after wondering
+about it for so long. No regrets.
+Besides, I guess I prefer hydromelons to
+anything, and I always will.
+
+They were being sold at the fruit shop,
+so I bought some more."
+38,Talk26,サヴォーク！,Sav'orq!
+39,Talk27,"高い所からみんなを見下ろしながら食べる
+ヒンヤリメロンもよかったけど
+こうやって通りを往来する人を見ながら
+食べるのも なかなか良いもんだね","Eating hydromelons while looking down
+on everyone from a high place was nice
+and all, but...
+Eating while watching people coming
+and going down the path here is pretty
+nice, too!"
+40,Talk28,"これさえあれば他の食べ物は
+もういらないかも！","If I have these, I might just give up on 
+other fruit entirely!"
+41,oasis016_Near00,うう… どうして…,Unnh... Why...
+42,oasis016_Talk00,"うう…
+ティクルね フルーツ畑を作るためにね
+ゴミを拾ったり…草を抜いたり…
+土を耕したり…
+ずっとお世話してきたんだ…
+
+なのに…
+なのに…
+ゴミが…
+
+ゴミがたくさん流れてきて
+水場が使えなくなっちゃったの
+お水が使えないと
+もう畑作れないよ～","*sniff*
+I wanted to plant an orchard, so...
+
+I picked up trash... I pulled the weeds...
+I tilled the ground...
+
+I did all the stuff you're supposed to do
+to make the soil happy...
+
+But... But...
+
+
+The trash...
+
+
+All this trash keeps getting washed down
+into the water trough, and now I can't
+use the water there anymore.
+And if I can't use the water anymore... 
+my orchard is doomed!"
+43,oasis016_Talk01,"早く畑を見に行かないと！
+もしかしたら ゴミがなくなってるかも！","I need to go see the orchard plot!
+Maybe there's no more garbage!"
+44,oasis016_Talk02,"もう ママんとこ帰らないと…
+
+明日になったらゴミ…
+なくなってるといいけど…","Time to go back to Mother...
+
+
+I hope the trash is all gone tomorrow..."
+45,oasis016_Talk03,…ティクルの畑… グスン…,...Dalia's orchard... *sniff...*
+46,oasis016_Talk07,"あのね知らないお姉ちゃんが
+ゴミ掃除を手伝ってくれてね！
+水場がすっかり元通りになったんだ！
+
+お姉ちゃんが 
+ゴミのことお話してくれたんでしょ？
+サークサーク！
+
+あっ そういえば お掃除のお姉ちゃんから
+ヒンヤリメロンもらったんだ！
+お姉ちゃんにもあげるね！
+ティクルの事心配してくれた お礼だよ！","Hey! You! Listen to this!
+Some other vai I've never met before
+helped me clean up the trash!
+And now the water trough is 
+completely back to normal!
+
+You told her about the trash, didn't you?
+Sarqso!
+
+Oh! I also got a hydromelon from the
+lady who cleaned it up! I'll share!
+
+It's a sarqso for caring about me!"
+47,oasis016_Talk09,"ティクル…
+もう畑…作れないのかな？",I...can't grow my orchard...ever?
+48,oasis016_Talk10,"ティクルね…
+あのお水を使って一生懸命畑作ってたの…
+でもゴミがたくさん流れてきて…
+
+拾っても拾っても どんどん流れてくるし…
+
+もう畑は諦めないといけないのかな…
+
+でも諦めたくないよ～","I...wanted to use that water and work
+really hard to plant a fruit orchard...
+
+But all this trash keeps flowing down...
+
+
+No matter how many times I scoop it out,
+there's always more...
+
+Sometimes I think I should just give up
+on the whole stupid thing...
+
+But I don't wanna give up..."
+49,oasis016_Talk11,"うわーん！！
+
+なんで水路からこんなにゴミが流れてくるの？
+
+なんで～！！！","WAHHHH!
+
+
+Why is so much trash flowing down the
+waterway?
+
+WHY?!"
+50,oasis016_Talk16,…イチゴ… たくさん…,...Wildberries...so many...
+51,oasis016_Talk17,"……
+
+あれ？
+
+なんだ お姉ちゃん
+ヒンヤリメロンもうたくさん持ってるんだね
+じゃあ そんなにいらないね","......
+
+
+Huh?
+
+
+Well, vai... You seem to have a lot of
+hydromelons already.
+
+You don't need any more..."
+52,oasis016_Talk19,"うう…
+
+ティクルね
+ここにフルーツの畑を作ろうと思ってね
+ゴミを拾ったり…草を抜いたり…
+土を耕したり…
+ずっとお世話してきたんだ…
+
+なのに…
+なのに…
+ゴミが…
+
+ゴミがたくさん流れてきて
+水場が使えなくなっちゃったの
+お水が使えないと
+もう畑作れないよ～","*sniff*
+
+
+I wanted to plant an orchard here...
+
+
+I picked up trash... I pulled the weeds...
+I tilled the ground...
+
+I did all the stuff you're supposed to do
+to make the earth happy...
+
+But... But...
+
+
+The trash...
+
+
+All this trash keeps getting washed down
+into the water trough, and now I can't
+use the water there anymore.
+And if I can't use the water anymore... 
+my orchard is doomed!"
+53,oasis016_Talk20,"あ…外国のお姉ちゃん…
+サヴォッタ…","Ah... Vai-from-out-of-town...
+Sav'otta..."
+54,oasis016_Talk21,"あ…外国のお姉ちゃん…
+サヴァーク…","Ah... Vai-from-out-of-town...
+Sav'aaq..."
+55,oasis016_Talk22,"あ…外国のお姉ちゃん…
+サヴァサーバ…","Ah... Vai-from-out-of-town...
+Sav'saaba..."
+56,oasis016_Talk23,"あっ外国のお姉ちゃん！
+サヴォッタ！！","Ah, vai-from-out-of-town!
+Sav'otta!"
+57,oasis016_Talk24,"あっ外国のお姉ちゃん！
+サヴァーク！！","Ah, vai-from-out-of-town!
+Sav'aaq!"
+58,oasis016_Talk25,"あっ外国のお姉ちゃん！
+サヴァサーバ！！","Ah, vai-from-out-of-town!
+Sav'saaba!"
+59,oasis016_Talk26,"そうそうお掃除のお姉ちゃんから
+イチゴも もらったんだ！
+だからね それを植えてね
+ティクルの畑をイチゴ畑にすることにしたんだ！
+お姉ちゃんならいつでも食べに来ていいよ！
+楽しみにしててね！","Oh, yeah, the lady who helped clean
+gave me some wildberries!
+
+So now my field is gonna be a
+wildberry patch!
+
+You can come eat the berries anytime
+you like! It'll be great!"

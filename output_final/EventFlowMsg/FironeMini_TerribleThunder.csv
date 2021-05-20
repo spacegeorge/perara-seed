@@ -1,0 +1,77 @@
+#,Title,JPja,USen
+1,"""0000""",まかせろ,Leave it to me!
+2,"""0001""",忙しい,I'm a bit busy...
+3,"""0002""",金属製のオノが,It was a metal axe.
+4,Near00,はぁ～,*sigh*
+5,Near01,ぶるぶる…,*shudder*
+6,Near02,うぅーん,Urrrmm...
+7,Near03,すやすや,Zzzz...
+8,Near05,降ってきたわね～,Looks like rain...
+9,Near06,ふぁ～,*yaaawn*
+10,talk00,"はぁ～ いやいや
+この馬宿ね よく雷が落ちるのよ
+毎日夕立がくるのが怖くて…
+なんで ここばっかり
+あなた もしよかったら
+原因を調べてもらえないかしら？","Oh dear, oh dear... Lightning strikes this
+stable so often, I get nervous whenever
+it rains even a little.
+I just don't understand why it strikes so
+often... Hey, it's a long shot, but if you
+have some time, could you find out why?"
+11,talk01,"はぁ～ あら あなた
+もしかして お願い聞きにきてくれたの？
+この馬宿に雷が落ちる原因を突き止めて！
+お願い！","Have you...have you decided to
+help me? Please figure out why lightning
+keeps hitting this stable! Please!"
+12,talk02,"はぁ～""夕方になるのが怖い…
+なんで ここにばかり雷が落ちるのかしら","*sigh* I get scared in the evening... 
+I wonder why the lightning seems to
+have it out for this place."
+13,talk04,"これで安心して
+暮らせるわ！",I can finally relax!
+14,talk05,うぅーん怖い…,Urrrm...run away...
+15,talk06,"あなた お願い！
+この雷を止めて！
+この馬宿に落ちる原因を調べて！","Please... Help! Stop the lightning!
+Please find out why it keeps striking
+this stable!"
+16,talk07,"キャーッ もう いや…
+怖い…
+早く原因を突き止めて お願い…","Aiiiiieeee! I just...can't...
+I'm so scared...
+Please find out why this is happening!"
+17,talk08,"キャーッ もう いや…
+怖い…
+この馬宿 なぜか よく雷が落ちるの
+毎日夕立がくるのが怖くて…
+ねえ お願い！
+あなた原因を調べてもらえないかしら？","Eeeeyah! I've had it... I can't handle this
+constant fear.
+
+Lightning strikes this stable really often, 
+so I get scared whenever it starts to
+rain...
+Please... Could you go try and find out
+why this keeps happening?"
+18,talk09,"ほんとう！ うれしい！
+お願いね","You will?! Really? I'm so happy!
+I'm counting on you."
+19,talk10,"そうなの…""仕方ないわね
+はぁ～","I see... Well, I guess it can't be helped.
+*sigh*"
+20,talk12,"えっ
+雷が落ちる原因突き止めてくれたの？","What? You found out what was drawing
+the lightning here?"
+21,talk13,"そうだったの！
+そこに雷が落ちていたのね
+あんな高いところに誰が刺したのかしら
+不思議ね…","Aha! Yeah, that's as good as a lightning
+rod, isn't it?
+
+I wonder if someone put it up there on
+purpose. How strange..."
+22,talk14,"調べてくれて ありがとう！
+これは わたしから せめてものお礼よ","Thanks for looking into it for me!
+Here's something for your trouble."

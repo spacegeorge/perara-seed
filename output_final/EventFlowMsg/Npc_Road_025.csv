@@ -1,0 +1,198 @@
+#,Title,JPja,USen
+1,Atacked00,しーっ…魔物に気づかれるぞ,Shhh... Do you want to get found out?
+2,Atacked01,こっちが聞きたい…どうしたらいい？,"I'm no warrior, so I'm leaving it up to
+you. What should we do?"
+3,Failed00,魔物に立ち向かおうとは俺は思わない…,"I don't have it in me to stand up to
+vicious monsters like that..."
+4,Failed01,命がいくつあっても足りないな…,"I've only got one life to live, you know.
+And losing that isn't exactly high on my
+list of priorities."
+5,Guardian00,今なら ガーディアンから逃げられそうだ…,"Now would be a good time to get away
+from any Guardians around..."
+6,MSG_Rane_00,"…北と南 どちらに馬を走らせるべきか？
+まあ俺なら無茶はしない
+冒険心を刺激する危険な北部地域はやめて
+南部にあるリバーサイド馬宿をめざすよ","I'm trying to decide whether to ride
+north or south. I guess it's all a matter
+of how much adventure I'm looking for...
+Things to the north can get pretty
+dangerous pretty fast, so I think I'll head
+for Riverside Stable in the south instead."
+7,MSG_Rane_00_1,"俺なら危険な北部地域はやめて
+南部にあるリバーサイド馬宿をめざすよ","I think I'll steer clear of the north for
+now. Riverside Stable down south is
+more my speed...and less stabby."
+8,MSG_Rane_01,"…ちょっとした知識が冒険の助けになる
+たとえば カエルやタニシ…
+どちらも雨の日に活動的になる生き物で
+どちらも薬のよい材料だと覚えておくべきだ","A little knowledge goes a long way when
+you're out on your own in the great and
+vast wilderness of Hyrule.
+Take frogs and snails, for example...
+They both come out on days when
+it's gonna rain.
+And they can both be used to make
+elixirs. That's worth remembering
+when you're out on the road."
+9,MSG_Rane_01_1,"カエルやタニシは雨の日に活動的になり
+薬のよい材料だと覚えておくべきだ","Frogs and snails come out when it's
+gonna rain. They make good elixirs,
+so you'll want to keep that in mind."
+10,MSG_Rane_02,"…勇気と蛮勇は ちがう
+真の冒険者はむしろ雷を恐れるもの
+落雷を防ぐため金属類は避けて
+木製品や布製品を いち早く身に着けるものだ","Being brave doesn't have to mean being
+reckless. A real adventurer knows to fear
+the lightning.
+If you don't want to get hit by lightning,
+you'll want to avoid gear made of metal.
+Swap out for wood or cloth gear, fast!"
+11,MSG_Rane_02_1,"落雷を防ぐためには金属類は避けて
+木製品や布製品を いち早く身に着けるものだ","If you don't want to get hit by lightning,
+you'll want to avoid gear made of metal.
+Swap out for wood or cloth gear, fast!"
+12,MSG_Rane_03,"雨の崖は時間の無駄…という
+ハイラルの古いコトワザがある
+雨の日は どうせ滑って登れないから
+崖登りに意地になるより平地を行くべきだ","Don't waste your time trying to climb
+cliffs in the rain. That's a bit of old
+Hyrule wisdom I'm sharing with you.
+Rainy days make the rock slippery and
+hard to climb, so it's best to forget about
+it for the day and stick to flat land."
+13,MSG_Rane_03_1,"雨の日は どうせ滑って登れないから
+崖登りに意地になるより平地を行くべきだ","Rainy days make the rock slippery and
+hard to climb, so it's best to forget about
+it for the day and stick to flat land."
+14,MSG_Rane_04,"…たまには こんな情報はどうだ？
+イーガ団幹部が大好物…それは…
+バナナ！","Want a little tidbit of info that might
+come in handy someday? OK, here we
+go... Hold on to your hat...
+You know what the leader of the Yiga
+Clan loves the most? You'll never guess.
+Bananas!"
+15,MSG_Rane_04_1,"イーガ団幹部が大好物…それは…
+バナナ！","You know what the leader of the Yiga
+Clan loves the most? You'll never guess.
+Bananas!"
+16,Near00,イヌは なつく…,I sure like dogs...
+17,Near01,チュチュの目を撃て…,Shoot Chuchus in the eye.
+18,Near02,草を刈ると妖精が…,"Cut grass, get fairies!"
+19,Near03,温泉でゆでタマゴ…,Mmm. Eggs in hot springs.
+20,Near04,雨といえば…,Where there's rain...
+21,Rest_00,"…知りたいなら いくらでも教えてやろう
+俺は情報の出し惜しみは しない主義だ
+魚は同じ名前の素材を投げ込むと突きにくる
+例えば ガンバリバスならガンバリダケ…","If you ever need any little tips and tricks
+for how to get through life, come see me.
+I'm not one to be stingy with information.
+For example: fish will come nibble at
+ingredients with similar properties when
+you throw them in the water.
+So if you toss, say, stamella shrooms
+into the water, staminoka bass will show
+up to feed on them."
+22,Rest_01,"…雨といえば？
+そう…雷の可能性だ
+自らへの落雷を防ぐためには
+身に着けた金属類を外すといい","You know what they say... Where there's
+rain, there's lightning. Shocking, isn't it?
+
+And if you don't want to get struck by
+lightning, you'd better remove any
+metallic equipment, pronto!"
+23,Rest_02,"…雨といえば？
+意外かもしれないが…買い物日和だ
+そのままでは客足が鈍るので
+とておきの品を売りに出すことが多いんだ","You know what they say... Where there's
+rain...there's also good shopping.
+OK, so maybe nobody says that.
+But it's true! With fewer customers
+around, merchants often pull out their
+special goods to attract more shoppers."
+24,RetMSG_Rane_00,"見たところ君は知恵も勇気もある冒険家
+…に憧れる向こう見ずな若者に思える
+ハイラル城に いつか潜入しようなどという
+危険すぎる野望さえ もっていそうだな…","Ah, a young and courageous adventurer
+approaches! That IS what you are, is it
+not? You have that look about you.
+I'd call it a bit of a roguish look, for that
+matter. Like you'd consider infiltrating
+Hyrule Castle at some point..."
+25,RetMSG_Rane_00_1,"君は ハイラル城に いつか潜入しようという
+危険すぎる野望さえ もっていそうだな…","You have a bit of a roguish look about
+you. Like someone who might consider
+infiltrating Hyrule Castle at some point..."
+26,RetMSG_Rane_01,"…目を見ればわかる
+あふれる好奇心を持て余しているな？
+ならば危険なハイラル城に潜入して
+王家のお宝を探すという無茶は どうだ？","I've seen that look before. That's the
+look of someone whose curiosity
+overwhelms his caution.
+If so, you might consider infiltrating the
+dangerous Hyrule Castle to seek out the
+lost treasures of the royal family..."
+27,RetMSG_Rane_01_1,"危険なハイラル城に潜入して
+王家のお宝を探す… やってみてはどうだ？","Why not infiltrate the dangerous
+Hyrule Castle to seek out the lost
+treasures of the royal family?"
+28,RetMSG_Rane_02,"…勇気はありそうだが教養はどうだ？
+例えば金属類に落ちやすいという雷の性質…
+知っていれば雨の日に金属は身につけないし
+逆に魔物には金属の武器を…と考えるはず","You've courage, sure—you'd need it to
+go out adventuring—but how about
+smarts? Here's a quick test.
+Lightning is more common on rainy days,
+right? That's not the test... But knowing
+this, you'd avoid metal gear in the rain.
+But what do you think might happen if
+you threw a metal weapon at a monster?
+Is that an electrifying concept or what?"
+29,RetMSG_Rane_02_1,"金属類に落ちやすいという雷の性質…
+
+知っていれば雨の日に金属は身につけないし
+逆に魔物には金属の武器を…と考えるはず","Lightning tends to strike metal objects
+more often... Knowing this might make
+you not equip metal gear on rainy days...
+But it might make you consider throwing
+a metal weapon at a monster at the
+perfect time... Maybe give it a shot."
+30,RetMSG_Rane_03,"…まさか やるべき事を
+見失ってはいないよな？
+虫捕ったり泳いだり城に潜入したり寝たり…
+やるべきことは星の数ほどあるぞ？","I've seen that look in your eyes before.
+You've lost sight of what's important in
+life, haven't you?
+Catching bugs, swimming, infiltrating the
+castle, sleeping... The possibilities are
+limitless, don't you think?"
+31,RetMSG_Rane_03_1,"虫捕ったり泳いだり城に潜入したり寝たり…
+やるべきことは星の数ほどあるぞ","Catching bugs, swimming, infiltrating the
+castle, sleeping... The possibilities are
+limitless, don't you think?"
+32,RetMSG_Rane_04,"客足が鈍る雨の日こそ逆に買い物日和だ
+…なぜだかわかるか？
+客寄せのために とっておきの品が
+並ぶことが多いからさ","Shopkeepers get fewer customers on
+rainy days, but that's sometimes the best
+time to go shopping. You know why?
+Because that's when they bring out their
+special goods. You never know what they
+keep on hand as an added incentive."
+33,RetMSG_Rane_04_1,"客足が鈍る雨の日こそ逆に買い物日和だ
+とっておきの品が並ぶことが多いからさ","Shopkeepers get fewer customers on
+rainy days, but that can be the best time
+to go shopping for those special items."
+34,SavedLv1_00,心配ないもう魔物は去ったはず,"No need to worry. Those monsters must
+be gone by now."
+35,SavedLv1_01,魔物の方も…こちらを怖がってるものだ,"Maybe those monsters were just as
+scared of us as we were of them..."
+36,SavedLv2_00,そうだな…今の撃退方法は正しいな,Sweet... I guess that takes care of that.
+37,SavedLv2_01,…ピンチは去ったと考えて よさそうだ,"...I'm gonna assume we're in the clear
+now and get back to what I was doing."
+38,SavedLv3_00,ここは君に礼を言っておこう…,I should really thank you.
+39,SavedLv3_01,さすがだな…礼を言うよ,You're really something. Thanks so much.
+40,Thanks00,"これは気持ちだ
+受け取ってくれ","Here, I want you to have this. It's just
+a small token of my appreciation."

@@ -1,0 +1,104 @@
+#,Title,JPja,USen
+1,"""0001""",売りに来た,Here to sell.
+2,"""0002""",ここって？,What do you sell?
+3,"""0003""",さようなら,Good-bye.
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,I'm buying.
+7,"""5503""",やっぱりやめる,"Actually, never mind."
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,"売りたい物を
+お選びになってくださいね～",Show me what you're selling.
+11,Com_Talk_01,"ですね～？
+ルピーでいいですか～？",How does  rupees sound?
+12,Com_Talk_02,ありがとうございます～,Thank you very much!
+13,Com_Talk_02b,まいどです～,Thanks so much!
+14,Com_Talk_02c,はい～確かに～,"OK, here you go!"
+15,Com_Talk_02d,はい～承りました～,OK!
+16,Com_Talk_04,あらぁ残念です～,"Oh, that's a shame."
+17,Com_Talk_05,他にも お買い取り しましょうか～？,"Any other items you'd like me to take
+off your hands?"
+18,Com_Talk_05b,他にも お売りになりますか～？,Anything else you want to sell?
+19,Com_Talk_05c,売りたい物を選んでくださいね～,Choose the items you want to sell!
+20,Com_Talk_05d,他のも お売りになりますか～？,Anything else you want to sell me?
+21,Com_Talk_11,まいど ありがとうございます～,Thanks. Come again!
+22,Com_Talk_11b,はいはい まいど～,"Yes, sir. Thank you!"
+23,Com_Talk_11c,ありがとうございます～,Thank you so much.
+24,Com_Talk_11d,まいど～他のもご覧ください～,"Thanks. Please take a look at our other
+items."
+25,Com_Talk_13,"を お売りで～？
+おいくつですか～？","That's what you're selling? All right,
+how many?"
+26,Com_Talk_14,"を個なら
+ルピーで ございます～","Ah, that's a quality item.
+And you want to sell  of them?
+I can give you  rupees."
+27,Com_Talk_15,それはウチでは買い取れないんです～,Sorry—not interested.
+28,Com_Talk_16,服は脱いでから お売りくださいませ～,"I can't buy the clothes off your back!
+That would be...inappropriate."
+29,Com_Talk_33,"を お1つで～
+それならルピーに なりますね～","Just one for you?
+I can offer you  rupees."
+30,Com_Talk_34,"を全部ですね～？
+個でルピーに なります～","All  of them? That will be
+ rupees."
+31,Com_Talk_35,"なら個全部で
+ルピーで買いとらせて いただきます～","I'll take the  you have for
+ rupees."
+32,Com_Talk_50,"ですね～？
+ルピーに なります～",That'll be  rupees.
+33,Com_Talk_51,"ですね～？
+おいくつですか～？",How many?
+34,Com_Talk_52,"が個で
+ルピーに なります～","Buying  of those'll cost you...
+ rupees. Is that OK?"
+35,Com_Talk_53,あらぁ残念です～,Aww. So close!
+36,Com_Talk_54,すいませんルピーが足りないみたいです～,"Sorry, but you don't have enough
+rupees."
+37,Com_Talk_55,"あらあらぁ ポーチがいっぱいですね～
+要らない物を整理して またお越しくださいね～","Your inventory is full. Get rid of some
+things and come back soon, OK?"
+38,Com_Talk_56,"なら
+お1つでルピーです～","Just one for you?
+That'll be  rupees!"
+39,near00,いらっしゃいま～せ～,Welcome!
+40,talk00,はぁいよろず屋ちゅん天堂にようこそ～,"Hello...and welcome to the Rito general
+store, the Slippery Falcon."
+41,talk01,"ここは護身用の道具から日々の食材まで
+なんでも揃う よろず屋ですよ～","We carry just about everything—from
+items for self-defense to everyday
+groceries."
+42,talk02,"よろず屋ちゅん天堂にようこそ～
+こんな時間までお疲れ様～","Welcome to the Slippery Falcon,
+the legendary Rito general store!
+You look beat! Working hard, eh?"
+43,talk03,"よろず屋ちゅん天堂にようこそ～
+こんな天気の中 お疲れ様～","Welcome to the Slippery Falcon! 
+Thanks for braving this weather to shop
+with us."
+44,talk04,さてさて私に御用でしょうか～？,Was there something you needed?
+45,talk05,はいはい～どれをお売りになりますか～？,Sure thing.
+46,talk07,まいど ご贔屓に～,Come back soon!
+47,talk08,今後とも ご贔屓に～,"You come back now, OK?"
+48,talk09,はぁいちゅん天堂でございま～す,Hey! Welcome to the Slippery Falcon!
+49,talk10,"当店の食材を使ったレシピなら
+入口のレシピ帳に書いてありますからね～","You can find recipes that use our
+featured ingredients in the
+book of recipes over there."
+50,talk11,"是非是非入口のレシピ帳を参考に
+当店で食材を お買い求めくださいませ～","By all means, please peruse the book of
+recipes there, and buy some of our fine
+ingredients!"
+51,talk15,"まいど ありがと～
+これにて売り切れです～","Thanks for your business. Looks like
+we're sold out!"
+52,talk16,"ありがとうございます～
+また入荷しておきますね～","Thank you very much. I'll have to order
+some more of those."
+53,talk17,"まいど ありがとうございます～
+在庫追加 しておきます～","Thank you! We'll make sure to stock up
+on that."
+54,talk18,"あら～在庫切れちゃいましたね～
+ありがとね～","Ooh, looks like we're all out.
+Well, thanks for the business!"

@@ -1,0 +1,686 @@
+#,Title,JPja,USen
+1,"""0000""",アイツ等？,The gang?
+2,"""0001""",伝説の剣？,Sword of legend?
+3,"""0002""",さよなら,See you around.
+4,"""0003""",実は…,So...
+5,FR01_Talk_01,"もうヤダよ～
+お願いタスケテ！！","I can't take it anymore!
+Please help me!"
+6,FR01_Talk_02,"もしかして…
+私助かったの？","Wait...
+Am I...saved?"
+7,FR01_Talk_03,"ゴマナは当てにならないし
+アナタが来てくれなかったら
+私どうなってたか…
+
+ありがとうね
+
+でも…
+旅って危険なのね…
+雑誌にはこんなこと書いてなかったのに…
+
+はぁ…何事も
+実際体験しないと わからないものなのね","Sesami is such a Cucco. If you hadn't
+come along... *shudder*
+
+Thanks so much.
+
+
+I had no idea traveling was so
+dangerous. There was nothing like this
+in the travel guidebook...
+I guess you can't assume to know
+anything until you experience it for
+yourself."
+8,FR01_Talk_04,"ゴマナですって？
+
+アイツ魔物が出た途端
+一目散に一人だけ逃げてったのよね
+女の子を置いて逃げるなんて
+酷いと思わない？
+アイツ絶対許さないんだから！
+
+ゲルドキャニオン馬宿だっけ？
+ちょっと文句言ってくる！","At least I'm safe now. No thanks to
+Sesami.
+
+As soon as the monsters showed up,
+he ran away as fast as he could and left
+us for dead.
+Who does that? Especially to a girl!
+
+
+He's at the Gerudo Canyon Stable?
+If he thinks I'm going to forgive him for
+this, he's got another thing coming!"
+9,FR01_Talk_05,"アナタが来てくれなかったら… って思ったら
+今でもゾッとしちゃうわ本当にありがとうね
+でも…旅って危険なのね…
+雑誌にはこんなこと書いてなかったのに…
+ホント何事も体験しないと
+わからないものよね
+でも お陰で私わかったの
+私には旅は向いてないって
+だから ここでちょっと休んだら
+私は お家に帰るつもりよ
+アナタは まだ旅を続けるんでしょ？
+強いし大丈夫だと思うけど気を付けてね","If you hadn't come along... *shudder*
+Thanks for saving me.
+
+I had no idea traveling was so
+dangerous. There was nothing like this
+in the travel guidebook...
+I guess you can't assume to know
+anything until you experience it for
+yourself.
+But at least I've figured out that traveling
+isn't my thing. I'm going to rest here
+awhile and then head back home.
+I get the feeling that going home isn't an
+option for you, so take care of yourself
+out there."
+10,FR02_Talk_01,"くっそ…
+ブタヤロー共が調子に乗りやがって…","Blasted monsters! Those pig-faced jerks
+are gonna get what they deserve!"
+11,FR02_Talk_02,"助けてくれて サンキューな
+いや ホント災難だったわ
+あ～ まだアチコチ痛いったらありゃしない
+ったく あのブタヤロー共め！","Thanks for the assist, pal. That could've
+been the end of me.
+
+Boy, I'm gonna be sore tomorrow.
+Filthy bottom-feeders..."
+12,FR02_Talk_03,"ゴマナのヤツに
+アタイの怒りをぶつけようと思ったんだけどさ
+アタイの顔見た途端
+泣きそうになってやんの…
+あいつは あいつで
+仲間が帰ってこないことが怖かったみたいだし
+しゃーないから
+許してやったよ","I was gonna yell at Sesami for leaving me
+to die, but as soon as he saw my face, he
+looked like he was gonna start sobbing...
+I can't be mad at him for being scared.
+That's just the way he is."
+13,FR02_Talk_04,"ゴマナだって？
+
+あいつ アタイを助けもせずに
+馬宿で のうのうとしてるなんて…
+アタイが受けた痛み
+あいつにも受けさせてやらないと！","So Sesami was kicking his feet up in the
+stable while I was being tortured by
+those sorry sacks?!
+Oh, I'm going to go give him a piece of
+my mind, all right. A piece of my fist too!"
+14,FR02_Talk_05,"ゴマナのヤツに
+アタイの怒りをぶつけようと思ったんだけどさ
+アタイの顔見た途端
+泣きそうになってやんの…
+しゃーないから
+許してやったけどさ
+アタイ… もう誰かの足かせになるような事は
+まっぴらゴメンだからさ
+旅は一旦ここで終わらせようと思うんだ
+
+アンタみたいに強くなって
+また出直すよ
+次に出会うことがあれば
+その時は アタイがアンタを守ってやるから
+楽しみにしといてくれよ","I was gonna yell at Sesami for leaving me
+to die, but as soon as he saw my face, he
+looked like he was gonna start sobbing...
+I can't be mad at him for being scared.
+That's just the way he is.
+
+Anyway, thanks for the help. If I ever get
+the chance to save you, I'll take it."
+15,FR03_Talk_01,"オレは死ぬのか…
+もうここで人生終わりなのか…
+うう… ゴマナ先輩ぐらい強かったら
+こんな奴ら ひとひねりなのに…","I guess this is where my story ends...
+Good-bye, Hyrule.
+
+If only Sesami was here. He'd save me
+for sure."
+16,FR03_Talk_02,"あれ…オレ…
+
+生きてる？
+生きてるよね？
+キミが魔物倒してくれたの？","Huh? I'm...
+
+
+I'm alive? But...the monsters...
+Did you get rid of them?"
+17,FR03_Talk_03,"ゴマナ先輩にさ
+
+「何で助けに来てくれなかったんですか？」って
+聞いたらさ
+伝説の剣がどうのこうのって話ばかりでさ
+ごまかしてばかりなんだ…
+ゴマナ先輩って…
+もしかして実は弱いんじゃないか…","I asked Sesami why he didn't come to
+save me.
+
+He spouted some garbage about the
+sword of legend in an attempt to dodge
+the conversation.
+I guess Sesami is just a big wuss..."
+18,FR03_Talk_04,"すっごいね！
+
+キミすっごいね！
+
+ゴマナ先輩の次ぐらいに
+強いんじゃない！","That's incredible!
+YOU'RE incredible!
+
+You might even be braver than Sesami!"
+19,FR03_Talk_05,"えっ… ゴマナ先輩
+馬宿にいるの？
+オレを助けに来てくれてるんじゃないの？
+
+武器がないから無理？
+
+え？何言ってんのさ？
+先輩は手刀の達人だし空手もすごいし…
+まさか…騙されてた？
+ちょ ちょっと先輩に確かめてくる！","Sesami...is waiting at the stable?
+He didn't come to save me?
+
+But he said he'd mastered the martial
+arts. Did he...lie to me about that?
+Nah...this must be a misunderstanding."
+20,FR03_Talk_06,"ゴマナ先輩にさ
+
+「何で助けに来てくれなかったんですか？」って
+聞いたらさ
+伝説の剣がどうのこうのって話ばかりでさ
+ごまかしてばかりなんだ…
+たぶんだけど… ゴマナ先輩って…
+実は弱虫なんじゃないか… って思うんだ
+でも一番弱虫だったのは先輩を頼ってばかりの
+自分だった事に気づいたんだ
+だから これからは誰も頼らず
+1人で進んでみることにしたよ
+そして誰かに頼られる存在に
+なれるよう頑張ってみるよ
+…キミみたいにね","I asked Sesami why he didn't come to
+save me.
+
+He spouted some garbage about the
+sword of legend in an attempt to dodge
+the conversation.
+I thought Sesami was a big wuss, but
+then I realized that I'm the wussiest of
+all.
+Instead of trying to help myself out of
+that mess, I cowered and waited for
+someone else to help me.
+That's why I've decided to split from the
+group. I need to stop relying on others
+to help me and help myself instead.
+And maybe once I learn to help myself,
+I'll be able to help others.
+Like you helped me."
+21,FR04_Talk_01,"こ…ここは危険だ…
+さ さ さ""下がってなさい…","It... It's dangerous here!
+G-g-g-get back!"
+22,FR04_Talk_02,"す素晴らしい身のこなし！
+オヌシ どこの流派だ？
+す すまない
+あまりの強さに興奮してしまったが
+拙者の名はヴェニー
+
+多少は武術の心得を持ち合わせているのだが
+仲間といる所不意をつかれてしまってな…
+しかも多勢に無勢という卑怯極まりない手口に
+二の足を踏んでおったのだ
+オヌシが通りかかってくれねば
+どうなっていたか…
+いやはや かたじけない…","Wh-what wonderful form!
+I've never seen anyone fight like that!
+
+My name is Oliff.
+
+
+I'm a decent fighter, but I was caught off
+guard while traveling with my friends...
+
+The monsters vastly outnumbered us, so
+I thought it unwise to challenge them.
+
+I hate to think what would've happened
+had you not shown up.
+
+By the Goddess, I'm grateful..."
+23,FR04_Talk_03,"ゴマナ殿のお顔をみたら
+安心したのか急に足が震えてきたよ
+拙者も まだまだ
+修行が足りないな
+それにしても オヌシの腕前…
+
+大厄災の折獅子奮迅の働きをされたという
+剣士様に匹敵するのではないか？
+ははっ
+100年近く前の伝説の話をしても仕方ないな
+とりあえず拙者はしばらく
+ここで休ませてもらうよ","I don't know if it's my relief at seeing
+Sesami's face again, but I feel a bit weak
+in the knees.
+It would seem that I still have much
+training to do.
+
+Especially if I ever hope to reach your
+level. I've never seen such
+swordsmanship!
+It was something straight from the tales
+of the legendary hero said to have saved
+Hyrule during the Great Calamity!
+Those dusty old legends are a hundred
+years old, but here you are in the flesh!
+A modern-day hero!
+*ahem...* Excuse me for prattling on.
+I'll take my leave now. Thank you again."
+24,FR04_Talk_04,"ゴマナ殿が？
+
+よかった
+ゴマナ殿はご無事なんだな？
+ゲルドキャニオン馬宿に
+拙者も急いで向かうことにするよ","Sesami is waiting for me?
+
+
+Ah, I'm glad to hear he's safe.
+I shall hurry off to the 
+Gerudo Canyon Stable where he waits."
+25,FR04_Talk_05,"オヌシの腕前…
+
+大厄災の折獅子奮迅の働きをされたという
+剣士様に匹敵するのではないか？
+ははっ
+100年近く前の伝説の話をしても仕方ないが
+拙者がまだ半人前ということは
+目の前の現実であり確固たる事実…
+拙者は一から修行をやり直すつもりだ
+
+この旅はここで終わるが
+オヌシに会えたこと感謝しているぞ","Your swordsmanship...
+
+
+It was something straight from the tales
+of the legendary hero said to have saved
+Hyrule during the Great Calamity!
+Those dusty old legends are a hundred
+years old, but here you are in the flesh!
+A modern-day hero!
+*ahem...* Excuse me for prattling on.
+I'll take my leave now. Thank you again."
+26,Npc_oasis004_100,"キミ…
+
+オレの仲間達見かけなかった？
+
+ヴェニー アマニ ナタネ パームって
+名前の4人の旅人なんだけど…","Hey, did you happen to see any of my
+friends?
+
+They're four travelers named
+Oliff, Flaxel, Canolo, and Palme..."
+27,Npc_oasis004_101,"ハイラルの森で主を待つっていう
+伝説の剣の話知らない？
+伝説と呼ばれてるぐらいだから
+きっとその剣 すっごい強いと思うんだよなぁ 
+それさえあれば
+魔物なんて怖くないんだろうけどさぁ
+そんなの あるわけないしなぁ…
+
+だからさぁ…
+
+もし彼らを見つけたら
+オレがここで待ってるって伝えてくれないか？
+みんなの名前は
+ヴェニー アマニ ナタネ パームっていうんだ
+見かけたら
+よろしくたのむよ","You don't know the legend of the 
+mythical sword that sleeps in the
+Great Hyrule Forest?
+Well, they don't just call any old sword
+\""legendary,\"" so it's gotta be really
+strong, y'know?
+Maybe a sword like that WOULD make me
+into a monster-slaying hero... But it's
+just a legend after all.
+Anyway, if you find my friends, could you
+let them know that Sesami is waiting for
+them here?
+Their names are Oliff, Flaxel, Canolo,
+and Palme. I owe you one."
+28,Npc_oasis004_102,"そりゃ…知らないよなぁ…
+
+オレはさ
+ソイツ等と一緒に旅していたんだけどよぉ
+ウメタケ台地の街道辺りで
+急に魔物が出てきてさぁ
+一心不乱に ここまで走ってきたんだ…
+
+でもよぉ…
+振り返ったらよぉ…
+みんな…
+みんな いなくなっていたんだ…
+まさか魔物に…
+
+いや みんなきっと無事なはずさ
+
+だから オレはここで
+みんなの帰りを待ってるんだよ
+キミも この辺りの街道で
+彼らを見つけたら
+ゴマナがここで待ってるって
+伝えてくれないか？","I don't know...
+
+
+We were all walking together when some
+monsters suddenly jumped us near the
+Koukot Plateau path.
+I took off running and didn't stop until I
+got here.
+
+I thought my friends were right behind
+me, but when I turned around, they were
+nowhere to be found.
+You don't think the monsters could
+have...
+
+No, they're fine. They'll be back any
+second now.
+
+Hey, if you happen to run into any of my
+friends on the road, please let them
+know Sesami is waiting for them here."
+29,Npc_oasis004_103,"仲間達の名前は
+ヴェニー アマニ ナタネ パームっていうんだ
+もし彼らを見つけたら
+オレがここで待ってるって伝えてくれないか？","My friends' names are Oliff, Flaxel,
+Canolo, and Palme.
+
+If you run into any of them, can you
+tell them that I'm waiting here?"
+30,Npc_oasis004_104,"やっぱりウメタケ台地の辺りで
+魔物に襲われちゃったのかなぁ…
+もちろん助けに行きたいんだけどさぁ
+
+オレ…
+武器とかも何にも持ってないしなぁ…
+伝説の剣でもあれば
+魔物なんて蹴散らせるんだけどさぁ","Maybe the monsters really DID get them
+at the Koukot Plateau.
+
+I wish I could save them, but I'm not
+much of a fighter.
+
+Not even the sword of legend could turn
+me into a monster slayer."
+31,Npc_oasis004_105,はぁ…,Hooooooh...
+32,Npc_oasis004_106,"おいおい聞いたぜぇ
+
+オレの仲間を魔物から
+助けてくれたの あんちゃんなんだってな
+すげーじゃねぇかよ！！
+
+なんでも狭い足場で
+魔物達を蹴散らしたとか
+オレも伝説の剣さえあれば
+一緒に戦ったんだけどなぁ","Hey, I heard what you did! You saved my
+friend from the monsters!
+
+I heard you gave those monsters a
+thorough beat down.
+
+If I had the sword of legend, maybe I
+could have helped."
+33,Npc_oasis004_107,"ハイラルの森で主を待つっていう
+伝説の剣の話知らない？
+伝説と呼ばれてるぐらいだから
+きっとその剣 すっごい強いと思うんだよなぁ 
+それさえあれば
+魔物なんて怖くないんだろうけどさぁ
+そんなの あるわけないしなぁ…","You don't know the legend of the 
+mythical sword that sleeps in the
+Great Hyrule Forest?
+Well, they don't just call any old sword
+\""legendary,\"" so it's gotta be really
+strong, y'know?
+A sword like that would turn me into a
+monster-slaying hero! But it's just a
+legend, after all."
+34,Npc_oasis004_108,"きっとさぁ
+
+他の仲間も
+魔物に襲われてると思うんだよなぁ
+もしさ…
+
+もし偶然他の仲間も見つけたら
+また助けてやってくれねぇかな？
+そんでもってさぁ
+オレがここで待ってる って伝えてほしいんだ
+見かけたら
+よろしくたのむよ","Monsters attacked my friends, and
+they're not all accounted for yet.
+
+I really appreciate what you've done so
+far, but do you think you could find all
+four of my friends?
+I can't thank you enough..."
+35,Npc_oasis004_109,"おいおい聞いたぜぇ
+
+みんなを魔物から
+助けてくれたの あんちゃんなんだってな
+すげーじゃねぇかよ！
+
+なんでも狭い足場で
+魔物達を蹴散らしたとか
+オレも伝説の剣さえあれば
+一緒に戦ったんだけどなぁ","Hey, I heard what you did! You saved
+my friends from the monsters!
+
+I heard you gave those monsters
+a thorough beat down.
+
+If I had the sword of legend, maybe
+I could have helped."
+36,Npc_oasis004_110,"おおっ！
+あんちゃん！！","Oh!
+Whoa!"
+37,Npc_oasis004_111,"まだ 4人全員は
+そろってないけどよぉ
+仲間の無事な姿を拝めて
+改めて仲間の大切さを実感してるんだよなぁ
+でも そう思えば思うほど
+戻って来てない仲間が より心配でさぁ…
+だから早くみんなを
+探しに行きたいところなんだけどさぁ
+オレ…
+魔物とか無理なんだよなぁ…
+せめて伝説の剣さえあれば
+まだ いけたかもしれないけどさぁ","All four of my friends still aren't back yet.
+
+
+It's weird, but not knowing if my friends
+are alive makes me really understand the
+power of friendship.
+The more I think about them in trouble,
+the more my heart aches.
+
+I would have tried to rescue everyone
+myself, but I just can’t deal with the
+monsters.
+Does that make me a coward?
+
+
+If only I had the sword of legend. Then
+maybe I could find the courage and
+strength to rescue them."
+38,Npc_oasis004_112,"なんだ…
+キミかぁ…
+まだ誰も戻って来てないんだよなぁ…","Oh, it's just you.
+Nobody's come back yet..."
+39,Npc_oasis004_113,"なんだ… あんちゃんかぁ
+ビックリさせんなよなぁ","Ah...it's just you.
+Maybe don't creep up on me like that
+when I'm sleeping."
+40,Npc_oasis004_114,"実を言うとさぁ… もうみんなダメなのかもって
+思ってたところもあったんだ
+でも まだ全員は揃ってないけどさぁ
+仲間の無事な姿をみたら
+みんな絶対無事なはず！ って
+思えるようになったんだよなぁ
+だから早く みんなを
+探しに行きたいところなんだけどさぁ
+オレ…
+魔物とか無理なんだよなぁ…
+せめて伝説の剣さえあれば
+まだ いけたかもしれないけどさぁ","To tell you the truth...I wasn't sure I'd
+ever see my friends again.
+
+But when I saw that one of them made it 
+back safely, it gave me hope that my
+other friends are safe too!
+I want to go look for them, but I just
+can't deal with the monsters.
+
+Maybe if I got my hands on the sword of
+legend, I'd be powerful enough to save
+them."
+41,Npc_oasis004_115,"ハイラルの森で主を待つっていう
+伝説の剣があるって噂なんだけどさぁ
+伝説と呼ばれてるぐらいだから
+きっとその剣 すっごい強いと思うんだよなぁ 
+それさえあればなぁ…
+オレだってなぁ…","You don't know the legend of the 
+mythical sword that sleeps in the
+Great Hyrule Forest?
+Well, they don't just call any old sword
+\""legendary,\"" so it's gotta be really
+strong, y'know?
+If I had a sword like that, maybe things
+would be different..."
+42,Npc_oasis004_116,"もしさ…
+
+もし偶然他の仲間も見つけたら
+また助けてやってくれねぇかな？
+そんでもってさぁ
+オレがここで待ってる って伝えてほしいんだ
+見かけたら
+よろしくたのむよ","I really appreciate what you've done so
+far, but do you think you could find all
+four of my friends?
+I owe you one."
+43,Npc_oasis004_117,"あんちゃんが みんなを助けてくれたんだろ？
+
+狭い足場で魔物達を蹴散らして
+まるで勇者様みたいだって みんなが言ってたぜ
+すげーじゃねぇか！","You saved them! I thought my friends
+were dead, but you brought them all
+back to me!
+I can't thank you enough.
+
+
+My friends said you were outnumbered,
+but you were still able to take those
+monsters down with style."
+44,Npc_oasis004_118,"結局全員
+あんちゃんに助けてもらっちゃったなぁ","So in the end, you're the hero who
+saved everyone."
+45,Npc_oasis004_119,"おお！ あんちゃん！
+アンタを待ってたんだよぉ","Oh, hey! I've been waiting for you."
+46,Npc_oasis004_120,"少なくてごめんなぁ
+みんなで出し合ったんだが
+なんせオレ等も旅の途中だからよぉ
+
+でもさぁ
+今回の事でさぁ
+仲間の大切さも よくわかったけどよぉ
+
+仲間がいる分
+危険も増えるってことがわかったんだ
+まずは仲間を守れる強さを
+みんなが持つべきだって話になったからさぁ
+オレ達は別々に行動することに決めたんだ
+やっぱり旅は安全第一だからよぉ！","Sorry it's so small. Everyone chipped in
+for it, but we're in the middle of
+traveling, y'know?
+In a way, I'm kind of glad all of this
+happened. It's helped me realize just
+how important friendship is.
+Opening up to others might make you
+more vulnerable, but it's also the only
+way to give your life any value.
+That said, caring for others is an
+emotional liability, so my friends and I
+have all decided to part ways.
+Not really sure what the takeaway is
+here..."
+47,Npc_oasis004_122,"みんなが揃った時には
+ちょっと感動しちまったぜ
+ありがとなぁ
+
+これは礼だ
+遠慮せず受け取ってくれよ","As soon as they all got back safely, a
+wave of emotion washed over me.
+Thank you. Thank you so much.
+I want you to have this."
+48,Npc_oasis004_Talk_100,"おっ！
+帰ってきたか！！",Oh! You came back!
+49,Npc_oasis004_Talk_101,"なんだよぉ
+アイツ等かと思ったじゃないかよぉ","Aww, never mind... I thought the gang
+had come back."
+50,Npc_oasis004_Talk_102,"オレの仲間達の事だよ…
+
+一緒に旅してたんだけどよぉ
+ウメタケ台地の街道辺りで
+急に魔物が出てきてさぁ
+
+一心不乱に ここまで走ってきたんだ…
+
+でもよぉ…
+振り返ったらよぉ…
+みんな…
+みんな いなくなっていたんだ…
+まさか魔物に…
+
+いや みんなきっと無事なはずさ
+
+だから オレはここで
+みんなの帰りを待ってるんだよ
+仲間達の名前は
+ヴェニー アマニ ナタネ パームっていうんだ
+キミもこの辺りの街道で
+彼らを見つけたら
+ゴマナがここで待ってるって
+伝えてくれないか？","My friends...
+
+
+We were all traveling together when
+some monsters suddenly jumped us
+near the Koukot Plateau path.
+I took off running as fast as I could and
+didn't stop until I got here.
+
+But when I turned around to check on
+my friends...they were nowhere to be
+found!
+You don't think the monsters could
+have...
+
+No, everyone's totally safe.
+They have to be.
+They'll be here any second.
+Hey, if you happen to run into any of my
+friends on the road, please let them
+know Sesami is waiting for them here.
+Their names are Oliff, Flaxel, Canolo,
+and Palme."
+51,near01,大丈夫かな…,My poor friends...
+52,near02,フガッ…,*snore*
+53,near03,おっ帰ってきた！,"Oh, you're back!"
+54,near04,か かかってこい…！,C-come at me!
+55,near05,お家に帰してよ～,I want to go home!
+56,near06,チッ！,BAH!
+57,near07,ゴマナせんぱ～い！,Sesami!

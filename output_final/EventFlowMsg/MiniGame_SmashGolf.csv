@@ -1,0 +1,169 @@
+#,Title,JPja,USen
+1,"""0001""",やってみる,I'm in!
+2,"""0002""",何それ？,What is that?
+3,"""0003""",やらない,I'm out.
+4,"""0005""",支払う,Pony up.
+5,"""0006""",やめておく,Back down.
+6,"""0013""",やめる,I give up.
+7,"""0014""",やめない,Me? Never!
+8,"""0020""",遊んでいく,It's time!
+9,"""0021""",遊ばない,I'm tapped out.
+10,AskGolf1,"ガンガンゴルフを知らないゴロか？
+1回やったらやみつきになるあの有名な遊びを！","Ya don't know Boom Bam Golf?!
+It's famous! No one who's played it
+even once can get enough!"
+11,AskGolf10,では！ ハズメよう！ガンガンゴルフ！！,"Say no more! It's time ta tee off!
+Boom Bam Golf is go!"
+12,AskGolf2,"まあ ワズがこの谷で考えた遊びだから
+知らなくて当たり前だゴロね！！","I invented it the other day rolling down
+the hill, so I'm the only one who's played
+it. And I love it ta smithereens!
+I guess it makes sense that ya haven't
+heard about it, come ta that."
+13,AskGolf3,"遊びの内容は簡単ゴロ！
+
+玉を打って この先に見える旗の下にある穴に
+入れる遊びだゴロ！
+打った回数が少ないほど高得点だゴロよ！
+御論より証拠！20ルピーで遊んでみるゴロ！","It couldn't be simpler ta play! Whack the
+ball and try to knock it inta the hole at
+that flag.
+The fewer tries it takes, the higher
+yer score! The best part? It only costs
+20 rupees ta play!"
+14,AskGolf4,"ハンマーのような両手持ちの武器で叩くと
+一撃で遠くまで飛ばせるが飛びすぎ注意ゴロ！
+剣など片手持ちの武器は飛距離を調整できるが
+一回に叩ける回数を考える必要があるゴロ！","Two-handed weapons like hammers can
+really send the ball flyin', but ya gotta
+take care not ta overdo it.
+Swords and one-handed weapons are
+better for short distances, but be careful
+ya don't break 'em playin' the game!"
+15,AskGolf5,"玉に ガン！ ガン！ ガン！ って力を溜めれば
+一気に遠くに飛ばす事だってできるゴロ！","Or ya can just go hog wild on the ball!
+The more power ya put inta yer swing,
+the further it goes flying! FOOOOORE!"
+16,AskGolf6,"旗までのコースから外れて玉が下に落ちたら
+1打ペナルティーになり手前から打ち直しだゴロ","If the ball rolls off the course, ya take
+a one-stroke penalty and have ta keep
+going from where ya hit it."
+17,AskGolf7,"ワズが打った打数を数えているから・・・
+20打以内に玉を穴に入れて欲しいゴロ！","I'll keep track of how many strokes it
+takes. Yer job is to get the ball in the
+hole in 20 strokes or less!"
+18,AskGolf8,"玉をどうやって打つかは アンダに任せるゴロ！
+1回で遠くまで飛ばせる方法を考えてみるゴロ！","How ya hit the ball is yer call. But the
+further ya can smash it with every smack,
+the better!"
+19,AskGolf9,"玉が少しでも動いたら…1打と計算するゴロ！
+ながながとした説明になったば以上だゴロ！
+どうだす？""遊んでいくゴロか？","If the ball moves even an inch, that
+counts as a stroke. Huh, I guess those
+rules ain't so simple after all. Whoops!
+So are ya in or are ya in?"
+20,AskOneMore,"おっ！ その顔は もっと遊んでいきたい！
+という顔だゴロね！もっと遊ぶゴロか？","Oh! Ya look like ya wanna go again! 
+Heck, who am I ta stop ya?"
+21,AskPay,では参加料として20ルピー頂くゴロよ？,"At least, once I get that 20 rupees for
+the greens fee. Browns fee? Ehh."
+22,AskPlay,"どうだす？力試しに ワズの主催する
+ガンガンゴルフやってみないゴロか？","Getting here must mean ya have the
+stones ta strut yer stuff in a round of...
+Boom Bam Golf! Well? Are ya in? "
+23,Cancel_End,またガンガンゴルフをよろしくだゴロ～！,"The Boom Bam Golf course is
+always open! See ya around!"
+24,Clear_00,ナイスイン！,NICE shot!
+25,Clear_1,お見事ゴロ！だば打数を計算するゴロ！,"Way to take a whack at it! Give me a
+second to figger out yer score."
+26,Clear_Excellent_1,"打？！ アンダ… すごいゴロ！
+ガンガンゴルフのプロになれるゴロ……","Ya got ?! Well, don't that beat all!
+Ya could be a pro Boom Bam Golfer!
+If there was a league...or other players..."
+27,Clear_Excellent_2,"いやぁ…ワズが出した打数…覚えていない…
+まさにあの打数と同じくらいの記録だゴロよ！","Whoa...I lost track of my stroke count.
+If I remember right, though, it was
+about the same as yers, give or take!"
+28,Clear_Excellent_3,"ガンガンゴルフの未来が開かれた感じゴロ！
+その先の記録を目指して さらに頑張るゴロ！","Yer the kinda player who's gonna make
+Boom Bam Golf hit the big time! Keep
+it up, and smash those high scores!"
+29,Clear_High_1,"今回の打数は…""打ゴロね！
+アンダ…なかなかたいした腕だゴロ！","Yer score was...! Yer gettin' ta be
+a real heavyweight, kid."
+30,Clear_High_2,"でも これで満足してちゃダメゴロよ！
+ガンガンゴルフの記録を目指し頑張るゴロ！","Don't go thinkin' ya got it all figgered
+out, now! Keep at it, and set the highest
+record ever in Boom Bam Golf!"
+31,Clear_Low_1,"今回の打数は…""打っゴロっすね…！
+ワズのガンガンゴルフは甘くないゴロよ！","Yer score was...?! Sheesh, kid.
+Boom Bam Golf ain't easy, but it
+ain't THAT hard!"
+32,Clear_Low_2,"アンダには期待してるゴロ～！記録を狙うには 
+1に練習 2に練習 3 4も練習 5に練習 だゴロ！","Aw, buddy. Well...don't give up, OK?
+Ya just need ta practice, practice, and
+then practice some more."
+33,Clear_Middle_1,"ん～今回は…""打だったゴロね！
+アンダならもう少しいけそうな感じがするゴロ？","Hrm... Ya got a  this time out.
+That ain't bad, but ya strike me as a
+guy who could do better."
+34,Clear_Middle_2,"コツさえ掴めば もっと良い記録が出せるゴロ！
+千里の道も1打から！ と言うゴロね！","Don't worry. The game takes some
+practice ta figger out. They say every
+journey starts with a single stroke!"
+35,GameTalk,"ん？ どうしたゴロ？
+やめたいゴロか？","Huh? Yer throwin' in the towel already?
+Say it ain't so!"
+36,Judge_OB,"ありゃ…コースから玉が外れてしまったゴロ？
+1打加えて""前の位置からやり直しになるゴロ！","Holy moly... Ya went off course, kid!
+That's one penalty stroke. And ya gotta
+pick up where ya left off before."
+37,Near00,ガンガンゴロー,BOOM-BAM!
+38,NoOneMore1,"残念ゴロ！
+
+でも ガンガンゴルフの楽しさは
+きっとわかってもらったと思うゴロ！","Whatta shame. But at least now ya've
+seen the majesty of Boom Bam Golf
+for yerself, right?"
+39,NoOneMore2,"ワズはここで コースの調整をしているから…
+遊びたくなったらいつでも来るといいゴロよ！","I'll be here fiddlin' with the course.
+We never close, in case yer ever itchin'
+ta play."
+40,NoRupee,"ルピーが足りないゴロね… 
+
+参加料を稼いだら また遊びに来るといいゴロ！
+待ってるゴロー！","Looks like ya don't have the stones
+after all...by which I mean rupees. Well,
+keep savin' up! We never close!"
+41,NotPlay,"そいつぁー""残念ゴロ！
+
+ワズはここにいるから
+やってみたくなったら いつでも来るゴロよ！","Aww, that ain't no fun. The course is
+always open, though. Yer welcome
+anytime!"
+42,OB_Cancell1,残念だけんども棄権とみなすゴロ～！,"Sorry, kid, but I hafta disqualify ya.
+Them's the rules!"
+43,OB_Cancell2,"やめたい時は一声かけて欲しかったゴロ…！
+また気が向いたら遊びに来てほしいゴロ！！","If ya wanted ta quit, ya shoulda said so!
+Come back when yer feelin' serious."
+44,OB_Warning1,"どこに行くつもりだゴロ？
+やめちゃうゴロか？","Where ya goin'? It ain't quittin' time
+already, is it?"
+45,OB_Warning2,"コースから大きく離れたら棄権とみなすゴロよ！
+棄権の場合でも参加料は戻ってこないゴロよ！","Go too far off course and I'll hafta call
+the game there. Ya won't get back yer
+entry fee, neither. So watch it!"
+46,PlayOK,ほいほい！ さっそく準備をするゴロ！,Rock on! I'll start setting up!
+47,RetrunGame,"いぇ～い！""ガンガンゴルフ！","Attaboy! True Boom Bam Golfers
+never say die!"
+48,StrokeOver,"ありゃ… これで20打ゴロ
+失格だ！戻ってくるゴロ！","Whatta sorry showing... That's 20
+strokes, pal. I'm cuttin' ya off there.
+Try again sometime, all right?"
+49,StrokeOver_Result,"20打以内に入れられないとは残念ゴロ…
+アンダには期待してたゴロがね…","Hate to see a guy go to 20 strokes.
+Just so's ya know, I was rootin' for ya."
+50,TalkFirst,"いやー！久々にこの谷で人さ出会ったゴロ！
+ワズに似て健康そのものの青年だゴロ！","Holy moly! A Hylian? Here?! Ya must
+be tough as iron ta survive the trip out
+this way!"

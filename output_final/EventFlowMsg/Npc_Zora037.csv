@@ -1,0 +1,115 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,"Yes, please."
+2,"""0001""",さようなら,Good-bye.
+3,"""0005""",ドレファン王って？,King Dorephan?
+4,"""0006""",女の人？,"You're female, right?"
+5,"""0007""",何歳？,How old are you?
+6,"""0009""",シド王子って？,Prince Sidon?
+7,talk00,ああ ハイリアの…,"Ah, a Hylian..."
+8,talk01,うむ ご苦労,"Well, hello there."
+9,talk02,"何やら父上と盛り上がってた様だが…
+まぁいい","It looks like Father was rather excited to
+speak with you... Oh, well."
+10,talk03,"お初にお目にかかる
+私の名は ドゥンマだ","I believe this is our first meeting, yes?
+My name is Dunma."
+11,talk04,悪いか？,"...My, how observant you are.
+Is there a problem?"
+12,talk05,"初対面の女性に それを聞くか…？
+
+100歳未満 とだけ答えておこう
+
+その証拠に
+語尾に「ゾラ」を つけてないだろう？","That is NOT an appropriate question to
+ask a lady you've just met!
+
+*sigh* Let's just say I'm less than
+100 years old. Can't you tell?
+
+I'm so much less formal than the elders...
+aren't I?"
+13,talk06,"とにかく今ゾーラの里は
+ハイリア人の戦士を探している
+詳しい事情は キングこと
+ドレファン王が話してくれるだろう","At any rate, right now Zora's Domain
+is looking for a Hylian warrior.
+
+For more detailed information, please go
+speak with King Dorephan in the back."
+14,talk07,"どうした？""私に用か？",What's wrong? Do you need something?
+15,talk08,ふむ,Hm.
+16,talk09,"ドレファン王の間なら
+あの大階段を上り切って更に上階だ
+くれぐれも粗相の無いようにな","To get to King Dorephan's throne room,
+go up that big staircase and then up
+one more floor.
+Take care to mind your manners!"
+17,talk10,"最近の話だが
+久しぶりに晴れ間が差し込んだんだ",Recently the weather has let up a bit.
+18,talk11,久しぶりに晴れた…,"It's been a while since we've seen the
+sun here..."
+19,talk13,"神獣 ヴァ・ルッタを鎮めてくれたのは
+お主だったか
+父上に聞けば お主…
+100年を生きた ハイリアの英傑様だとか
+流石は英傑様…
+今後のご武運を お祈りしております","So...you're the one who appeased the
+Divine Beast Vah Ruta!
+
+I heard from my father...that you're
+actually the same Hylian Champion
+from 100 years ago. Or something.
+I should have expected as much from the
+Hylian Champion... I will continue to pray
+for good fortune in the coming war."
+20,talk14,"お主只者ではなかったのだな…
+
+またいつでも
+このゾーラの里に来られるがよい","You are no ordinary man...
+
+
+You are always welcome here in
+Zora's Domain!"
+21,talk15,"ドレファン王はゾーラの里の最高権力者であり
+シド王子やミファー様の実の父君だ","King Dorephan is the regal ruler of
+Zora's Domain. He is also the father
+of Prince Sidon and Lady Mipha."
+22,talk16,"何度も言うが 100歳未満だ
+
+その証拠に
+語尾に「ゾラ」を つけてないだろう？","How many times do I have to tell you?!
+I'm less than 100 years old!
+
+You can tell, can't you?"
+23,talk17,"シド王子は ドレファン王のご子息
+
+王室の正当後継者 という身分にもかかわらず
+気さくなので若者に人気が高い
+しかし頭の固いご老人の中には
+彼の行動が理解できない者も居るようだな","Prince Sidon is King Dorephan's son.
+
+
+Despite his position as true successor 
+to the throne...he's very sociable.
+That makes him popular with the youth.
+However, there are those among the
+elders who do not comprehend why
+he behaves as he does."
+24,talk18,他に質問はあるか？,Do you have any more questions?
+25,talk19,ところで私に用か？,"By the way, did you need something
+from me?"
+26,talk20,ルッタが水を吐くのを止めたのだろうか？,"I wonder if Ruta has stopped spouting
+water everywhere..."
+27,talk21,"…ハイリア人か
+","A Hylian, eh?"
+28,talk22,君が シド王子が連れてきた ハイリア人か…,"Ah, so you're the Hylian that Prince
+Sidon brought..."
+29,talk23,"とにかく君は
+シド王子に呼ばれているのだろう？
+だったら早く ドレファン王の間に
+向かった方が いいんじゃないか？","At any rate, Prince Sidon summoned
+you here. Did he not? 
+
+If so, you should hurry to the
+throne room of King Dorephan.
+Don't you think?"

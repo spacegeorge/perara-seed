@@ -1,0 +1,22 @@
+#,Title,JPja,USen
+1,"""0000""",入る,Enter.
+2,"""0001""",やめる,Quit.
+3,Npc_DungeonPriest_talk000,"神獣を訪れし者よ
+女神ハイリアの名におき試練を与えよう","To the one who approaches this
+Divine Beast... In the name of the
+Goddess Hylia, I offer this trial."
+4,Npc_DungeonPriest_talk100,"メドーの証と引き換えに
+己の記憶の中へと進むがよい","In exchange for Medoh's Emblems...
+you will be granted the chance to
+tread through the realm of memories."
+5,Npc_DungeonPriest_talk101,"覚悟無き者には厳しき試練…
+己の記憶と侮る事なかれ","Those who lack determination will find
+this trial unforgiving.
+
+Do not take this place lightly, nor dismiss
+it as merely a world within your mind.
+The truth is much deeper than you know."
+6,Npc_DungeonPriest_talk200,"幻影に対峙する覚悟と共に
+記憶の中の神獣 ヴァ・メドーに入りますか？","Courageous hero... Dare you confront a
+realm of illusion and memory... Dare you
+enter theDivine Beast Vah Medoh?"

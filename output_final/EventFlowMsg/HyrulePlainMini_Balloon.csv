@@ -1,0 +1,72 @@
+#,Title,JPja,USen
+1,"""0000""",ひきうけた,Leave it to me.
+2,"""0001""",見せない,No.
+3,Near_00,風船…見たい…,Balloons. Floaty balloons.
+4,Near_01,お空の上には…,In the sky...
+5,Talk_0000,"スー… スー…""風船プカプカ… スー… スー…","Zzz...zzz...
+
+
+Balloons... Floaty, floaty...
+
+
+Zzz...zzz..."
+6,Talk_0001,"天気が悪いのに風船を持ってきてくれたの？
+雲を突き抜け風船はお空に舞い上がるのかしら","You brought me balloons even though
+the weather is bad?
+
+I wonder if the balloons will break
+through the clouds and soar in the
+clear skies."
+7,Talk_0002,"良い子はね！""良い子はね！""早寝が基本なのよ！
+今日はもう おねむの時間なの…""また明日ね！","Good kid, good kid! Goes to bed early!
+It's already sleepy time.
+See you tomorrow!"
+8,Talk_0003,"良い子はね！""良い子はね！""早起きが基本よ！
+お兄ちゃんにお願いがあるの！""着いてきてね！","Good kid! Good kid! Gets up early!
+I have a favor to ask you! Come with me!"
+9,Talk_0004,"私 ときどき夢に見るの…私達って遠い昔は
+お空の国に住んでいたんじゃないかな？って…","I sometimes see it in my dreams. 
+Do you think that a long time ago people
+used to live in the sky? I think so..."
+10,Talk_0005,"お兄ちゃん！""私ね たくさんの風船が一度に
+お空にふわーって舞い上がるのを見てみたいの！
+風船が大空高く舞い上がるのを見せてくれたら
+お礼に私がお空からもらった宝物をあげるわ！","Hey, mister! Just once in my life, I want
+to see balloons float right up into the
+sky!
+If you'll help me realize my balloon
+dream, I'll give you a treasure I got
+from the sky as thanks!"
+11,Talk_0006,"天気が悪くてお空が隠れちゃっているわね！
+でもお兄ちゃん！私のお話を聞いてね！","The weather's so bad you can't even
+see the sky! Hey, listen to me, mister!"
+12,Talk_0007,"ありがとう！！""良い子で良かった！！
+樽に風船をいくつか付けて高く舞い上げてね！","Thank you! Now put some balloons onto
+a barrel and make it float up high!"
+13,Talk_0009,雨の中風船を持ってきてくれたの？良い子ね！,"You brought me balloons in this rain?
+What a nice guy!"
+14,Talk_0010,"わーい！""風船を持ってきてくれたの？
+樽に風船をいくつか付けて高く舞い上げてね！","Yaaaaay! You brought me balloons!
+What a guy!
+
+You should tie those balloons on to that
+barrel and make it soar into the sky!"
+15,Talk_0012,"いつか私も風船で お空の国に行ってみたいわ！
+そして大きな鳥さんに乗るのが本当の夢よ！
+お兄ちゃんありがとう！ これ私が拾った
+お空からの宝物よ！""受け取ってね！","I want to visit the land in the sky by
+balloon. Then, I'm going to ride a really
+big bird. Yep, that's my dream!
+Thank you, mister! This is a treasure
+from the sky! Here, take it!"
+16,Talk_0013,"ふわぁー！""大空高く舞い上がる風船！
+雲の上の お空の国まで届いてねー！","Floaty! Balloons soaring high in the sky!
+Fly up and away to the land in the
+clouds!"
+17,Talk_0014,"ふわふわー…""私の夢は穴の開いた
+風船のように小さくしぼんじゃったわ…","Aww... You've popped the balloon of my
+dreams."
+18,Talk_0018,"樽はけっこう重いわよ！""高く上がらないときは
+風船が たくさんいるかもしれないわ！","The barrel is quite heavy! If you don't
+have at least a few balloons, it might be
+hard to make it soar into the sky..."

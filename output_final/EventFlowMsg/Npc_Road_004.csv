@@ -1,0 +1,294 @@
+#,Title,JPja,USen
+1,"""0000""",買う,Buy.
+2,"""0001""",売る,Sell.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,Buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,Sell all.
+10,Atacked00,"はぁ… はぁ…ぜぇ…ぜぇ…
+まいったな ほんと…","Haa... Hoo... Haa... Oof... This...
+This is rough... Seriously rough."
+11,Atacked01,"このままじゃ商売上がったりだ
+正義の味方でも現れないかなぁ…","I can't turn a profit like this... If only
+some righteous-defender type would
+show up..."
+12,Com_Talk_00,売ってくれるのって どれかなぁ？,What did you want to sell?
+13,Com_Talk_01,"えっと…かな？
+ルピーになるけど…","Let's see. I could give you...
+ rupees for that. Sound good?"
+14,Com_Talk_02,"ありがとう
+他にも何か あったりする？",Thanks! Anything else I can do for you?
+15,Com_Talk_02b,"どうもねありがとね
+他にもあれば買い取るけど…","Great! If there's anything else you want
+to sell, you let me know."
+16,Com_Talk_02c,"ありがとうね
+…で まだ買い取れるけど どうかな？","Thank you. Listen, I'm willing to buy
+more, if you want. What do you say?"
+17,Com_Talk_02d,"いやあ よかったよかった
+他にも売りたいものが もしあれば…","Aw, that's just great. Perfect. Is there...
+anything else you maybe wanted to sell?"
+18,Com_Talk_04,あらら… それは残念,"Oh, well... That's a shame."
+19,Com_Talk_05,何でも買い取るけど…,I'll buy whatever you've got.
+20,Com_Talk_05b,いろいろ買い取るけど…,I'll buy anything.
+21,Com_Talk_05c,何か売りたいものがあれば…,Anything you wanted to sell?
+22,Com_Talk_05d,何でも買い取るよ… ほんと…,"I'll buy anything. Like, ANYTHING."
+23,Com_Talk_06,どれを買いたいの？,What do you want to buy?
+24,Com_Talk_07,あ… それは今切らしてて…,"Oh, sorry... I'm fresh out of that..."
+25,Com_Talk_08,"えーっと…ルピーが…
+足りないみたいだけど…","Ummm... Boy, this is awkward...
+You don't have enough rupees..."
+26,Com_Talk_09,"あの…ポーチがいっぱいみたいだから
+中のものを売るか捨てるかしないと…","Er, your inventory seems to be full.
+You better sell something or maybe
+just toss out some junk."
+27,Com_Talk_10,…買う？,"Ah, found something you want to buy?"
+28,Com_Talk_11,ありがとうね,Thank you!
+29,Com_Talk_11b,ほんと ありがとう,"Thanks, really."
+30,Com_Talk_11c,ありがとうね ほんとに…,Thanks so much.
+31,Com_Talk_11d,ありがとうね…,"Thanks, as always."
+32,Com_Talk_12,"ゆっくり見てって
+別に急いでないから ほんと…","Take your time looking around. Being in
+a hurry never did any good for anyone."
+33,Com_Talk_13,"を売ってくれるの？
+いくつ売ってくれるの？","And how many of them were you
+interested in selling?"
+34,Com_Talk_14,"を個だと…
+合計ルピーになるけど いい？","Let's see... That should come to
+ rupees. Does that sound OK?"
+35,Com_Talk_15,それは うちでは買い取れないなぁ,"Oh, I'm sorry. I can't buy that."
+36,Com_Talk_16,売ってくれるのはいいけど着たままじゃ…,"Look, I'm happy to buy that off you,
+but...at least take it off first."
+37,Com_Talk_20,"天気が悪い時は ちょっとだけ安く売る…
+みんなに ナイショだよ？","Lots of folks sell their best stuff or cut
+you a deal when the weather's bad...
+Have you noticed that?"
+38,Com_Talk_30,"が個で えっと…
+ルピーかな…","Let's see... I guess that comes
+to  rupees..."
+39,Com_Talk_31,"を買いたいの？
+いくつ必要かな？",How many you need?
+40,Com_Talk_33,"をひとつだけ？
+じゃあルピーだよ…",Just the one? That'll be  rupees...
+41,Com_Talk_34,"を全部かい？
+それなら個でルピーだよ？","All of them? Huh. OK, that'll be
+ rupees. Does that sound all right?"
+42,Com_Talk_35,"を全部売るの？
+個だからルピーで買い取ろう",I'll buy all of them for  rupees.
+43,Com_Talk_36,"これで最後だよ
+いっぱい買ってくれて ありがとう","That's the last of them. Thanks for
+buying out my stock!"
+44,Com_Talk_37,"売るものが無いから閉店中だよ…
+仕入れる予定の品物だけでも見てくかい？","I don't have anything left to sell, so
+I'm calling it a day. If you want a sneak
+peek, I'll show you what I'm restocking."
+45,Com_Talk_56,"をひとつだけね
+じゃあルピーで…",Sure thing. That'll be  rupees...
+46,Failed00,"できれば もうちょっと早めに
+助けに来てくれたらって勝手ながら思うよ…","I don't mean to sound ungrateful, but
+you couldn't have come running to help
+me just a TEENSY bit sooner?"
+47,Failed01,いててて…ひどい目に遭ったよ…,"Ow, ow, ow, ow... I got roughed up 
+pretty bad."
+48,GoodBye00,また どこかで会ったりして…,"Who knows, maybe we'll meet again 
+someday. Or maybe not. Can't waste
+your time stressing about unknowns."
+49,Guardian00,"早く逃げたほうがいいよ
+ガーディアンに襲われたくなかったらね","You're going to want to run away now.
+Unless you WANT to be attacked by a
+Guardian."
+50,MSG_Futa_00,"さて双子馬宿でいっぱい売らないと…
+相棒と はるばるハテノ村から来たのでね
+…え？ひとりじゃないかって？
+ボクはいつだって耳の長い相棒といっしょだぜ
+それはそれとして…","I'm hoping to do a lot of business at
+Dueling Peaks Stable... Me and my buddy
+came all the way from Hateno Village!
+...Huh? Whaddaya mean, \""what buddy?\""
+You got donkey blindness or something?
+He's right here!"
+51,MSG_Futa_00_1,やっと双子馬宿に着きましたっと,Finally arrived at Dueling Peaks Stable...
+52,MSG_Futa_01,"ボクのロバが うらやましい？
+急ぐ旅なら馬だけど ボクにはロバがぴったりさ
+馬力とはちがう ロバ力っていうのがあって
+それは のんびりしつづける力なんだけど
+まあ それはいいとして…","Feeling a little donkey envy, huh? Horses
+are faster, sure, but donkeys are more
+my style.
+People talk about horsepower, but they
+forget about donkeypower. That's the
+power to stay chill and be good buds.
+But that's neither here nor there."
+53,MSG_Futa_01_1,"馬力ならぬロバ力ってのは
+のんびりしつづける力のことさ
+それは いいとして…","Let's see... I already talked about
+donkeypower..."
+54,MSG_Futa_02,"この先の橋を越えればカカリコ村だけど…
+
+あそこも野菜を育てているから
+ボクの商品は たいして売れないんだ…","Kakariko Village is just beyond that
+bridge up ahead...
+
+But they raise their own vegetables
+there, so they don't buy much of
+anything from me..."
+55,MSG_Futa_02_1,"カカリコ村では
+ボクの商品は あまり売れないからさ","Yeah, I just can't seem to sell anything in
+Kakariko Village. So...yeah."
+56,MSG_Futa_03,"…ちょっと聞いた話なんだけどさ
+
+ヤギのバターと…""タバンタ小麦と…
+あと何と何だったっけ…
+とにかく材料を組み合わせると
+すごく おいしい料理ができるんだってさ
+だからってわけじゃないけど…","...This is just something I heard, but...If you take goat butter...and 
+Tabantha wheat and...
+Wait, what was the other thing...
+Anyway, you combine all that stuff,
+and apparently it comes out real, real
+yummy.
+I mean, I like it. I'm not saying you have
+to give it a try or anything."
+57,MSG_Futa_03_1,"ヤギのバターとタバンタ小麦と何かと何か…
+おいしい料理のコツは素材の組み合わせだよ
+だからってわけじゃないけど…","If you want to make something really
+delicious, whip up some goat butter and
+Tabantha wheat!
+I mean, not that you HAVE to..."
+58,MSG_Futa_04,"ほんとハテノ村の食材は新鮮さが違うから
+行商する方も気合が入っちゃうよ！
+というわけで早速だけど…","The foodstuffs you get in Hateno Village
+are way fresher than anywhere else.
+The vendors there know it, too!
+And on that note..."
+59,MSG_Futa_04_1,ハテノ村の食材は必要ないかな？,"Do you need any ingredients from
+Hateno Village?"
+60,Near00,まだ眠い…,I'm not quite awake yet...
+61,Near01,えーっと…,Um... Uh...
+62,Near02,ロバくん…,My donkey...
+63,Near03,ふぁあ眠い…,Yaaaaawn... So sleepy...
+64,Near04,やっぱり降ってきた…,Rain! Typical...
+65,Rest_00,"売れる日もありゃ売れない日もある
+だけどボクにはロバがいる
+今のボクの詩に
+誰か曲をつけてくれないかな…","Sales pick up, and sales slow down,
+but I know my donkey will stick around.
+
+I wonder if I can find someone to set
+my poem to music..."
+66,Rest_01,"やまない雨はないっていうけど
+これが史上初の やまない雨だったりして…","They say no rain's so bad it never lets 
+up, but they also say there's a first time
+for everything..."
+67,Rest_02,"雨は雨で きらいじゃないんだ
+だって心置きなくのんびりできるからね","I don't mind the rain, really. It gives you
+a good excuse to stay put for a while."
+68,RetMSG_Futa_00,"ハテノ村で野菜を仕入れ双子馬宿で売って…
+そのルピーで肉を買って帰る…
+ボクの仕事が ハテノ村のみんなのお腹を
+いっぱいにしてるってことなのかな
+そういえばキミ…腹ペコだったりしない？","I grow vegetables in Hateno Village, sell
+'em at Dueling Peaks Stable...then I use
+the money to buy meat and head back.
+So I guess my job is to make sure folks in
+Hateno Village have full bellies?
+
+By the by...how's your belly?"
+69,RetMSG_Futa_00_1,"ハテノ村の野菜を双子馬宿で売り肉を買い帰る
+それがボクの仕事さ！てなわけで…","I sell vegetables I grow in Hateno Village
+at Dueling Peaks Stable, then I buy meat
+and head back. And on that note..."
+70,RetMSG_Futa_01,"ハテノ村で仕入れた
+バターと ミルクと タマゴはいかが？
+おいしい料理が作れるよ
+ボクの仕入れは まちがいないからね","You should try Hateno Village's signature
+dish. Get some goat butter, eggs, milk—
+cook 'em all up. Makes a nice meal!"
+71,RetMSG_Futa_01_1,ヤギのバターやその他ハテノ村の特産品だよー,"I've got goat butter and other specialties
+from Hateno Village."
+72,RetMSG_Futa_02,"わっ？！
+
+ああ…人か…よかった…
+驚かせてごめんよ
+ちょっと前にシェーラ湖の向こうで
+動く木のオバケを見て臆病になってたんだよね
+人とわかれば商売商売","Whoa there!
+
+
+Oh...it's just a normal person... What a
+relief! Sorry for freaking out like that.
+
+A little while back, just on the other side
+of Lake Siela, I got spooked bad by this
+weird tree ghost, so I'm a little jumpy.
+Anyway, seeing as how you're a nice,
+normal person and not a ghost, how
+about we do some business?"
+73,RetMSG_Futa_02_1,"シェーラ湖の向こうの木…
+目の錯覚かなぁ動いた気がしたんだけど
+まぁ それは置いておいて商売商売","Take a look at that tree on the other side
+of Lake Siela... Did it just move, or are
+my eyes playing tricks on me?
+Anyway, that's neither here nor there.
+It's time to get down to business."
+74,RetMSG_Futa_03,"もう少しでハテノ村だよ
+ボクの故郷さ
+新鮮な野菜と あったかい村人と
+妙な研究所…これが村の三大名物かな
+さてところで…","You're almost at my hometown,
+Hateno Village!
+
+They've got the freshest vegetables, the
+friendliest village folk, and a mysterious
+laboratory...
+Those are pretty much the village's
+three main tourist attractions. Anyway,
+speaking of vegetables..."
+75,RetMSG_Futa_03_1,"もう少しで ボクの故郷のハテノ村！
+到着前に ひと商売いいかな？","Pretty soon, I'll head back to my
+hometown, Hateno Village! Care to do
+a little business before I go?"
+76,RetMSG_Futa_04,"ああ久々の我が故郷…
+のんびりしたいけど そうもいかないんだ
+採れたての野菜を相棒に積んで
+新鮮なうちに双子馬宿へ売りに行くのさ
+だけどその前にキミ…","Ah, it's been a good, long while since I
+was back in my hometown... I'd love to
+just kick back, but I can't.
+I gotta load up my buddy with vegetables
+an' get 'em over to Dueling Peaks Stable,
+so I can sell 'em while they're fresh.
+But first...let's talk business."
+77,RetMSG_Futa_04_1,"ハテノ村に着いても双子馬宿へとんぼ返りさ
+その前に…","Soon as I arrive at Hateno Village,
+I have to turn around and head back
+to Dueling Peaks Stable. But first..."
+78,SavedLv1_00,"ああ怖かった～
+助けてくれてありがとうね ほんとに…","Wow, that was scary!
+Thanks for saving me."
+79,SavedLv1_01,"最初見たとき たぶん強いんだろうなって…
+思った通りで助かったよ","When I first got a look at you I was like,
+I bet he's strong... And I was right!"
+80,SavedLv2_00,"キミがいなかったら ボクはどうなってた？
+想像するのも怖い…ほんとありがとうね","What would have even happened to me
+if you hadn't come along? I don't want
+to think about it...
+Thank you, really."
+81,SavedLv2_01,"キミはもしかして名のある剣士？
+そう思いたくなるほど ほんと強い！","Say, are you some famous swordsman
+or something? Because if you're not,
+you should be!"
+82,SavedLv3_00,キミがいなかったら ボクは今ごろあの世です！,"I would definitely be dead if you hadn't
+come along!"
+83,SavedLv3_01,"ああ！生きてるって すばらしい！
+命の恩人であるキミに感謝のしるしを！","Oh, wow! It is SO great to be not dead
+right now! I owe you my life! I have to
+give you something in return!"
+84,Talk01,"何か買ってくれると ありがたいんだけど
+とりあえず品物を見るだけでも…","I'd love it if you bought something, but,
+I mean, I'm happy just to show you what
+I've got for sale. The rest is up to you!"
+85,Talk02,えっと… もういいのかな？,Um... Are you ready?
+86,Thanks00,せめてお礼させてね,"You deserve a reward. Here, take this."

@@ -1,0 +1,164 @@
+#,Title,JPja,USen
+1,Atacked00,"うーむ…
+まだ危険は去っちゃいませんね？","Something tells me...we aren't quite out
+of danger yet..."
+2,Atacked01,"うーむ…
+まだ魔物の気配が残ってますけど","I don't see any more monsters, but... 
+I can feel their eyes on me."
+3,Failed00,うーむ…あちこちが痛い…,"Huh? Where am I sore?
+...
+...Everywhere..."
+4,Failed01,うーむ…成す術なし！,"Oh, uh... There was nothing I could do!"
+5,Guardian00,"来るぞ来るぞ！
+ガーディアンが来るぞー！わー！","It's coming! A Guardian is coming!
+Run for your lives!"
+6,MSG_Orud_00,"うーむ…進むべきか戻るべきか
+悩める男 ダエトール…
+悩むべきか悩まぬべきか
+うーむ悩ましい…","Hmm... Should I keep going, or should I
+turn back? A troubling dilemma...
+
+But is it even worth being troubled by?
+Now that's troubling..."
+7,MSG_Orud_00_1,"今日も悩むダエトール…
+進むべきか戻るべきか…","My next big life decision... Should I keep
+moving forward, or should I turn back?"
+8,MSG_Orud_01,"うーむ…熱さに耐えるか退くか
+悩める男 ダエトール…
+熱による汗と冷や汗の両方タラタラです","Hmm... Should I try to withstand the
+heat, or should I not even bother?
+A troubling dilemma...
+No matter the temperature of the sweat,
+I'm going to be soaked either way."
+9,MSG_Orud_01_1,"今日も悩むダエトール…
+熱さに耐えるべきか退くか…","My next big life decision... 
+Can I take the heat, or should I
+get out of the kitchen?"
+10,MSG_Orud_02,"うーむ…ここで休むか休まず行くか
+悩める男 ダエトール…
+あのね…
+休んでるんじゃない悩んでるんだ","Hmm... Should I rest here, or should I
+try to find a better spot?
+A troubling dilemma...
+It's not like I'd be able to get any rest
+right now, anyway... Certainly not with
+all these troubles on my mind."
+11,MSG_Orud_02_1,"今日も悩むダエトール…
+休むべきか行くべきか…","My next big life decision... To rest,
+or not to rest?"
+12,MSG_Orud_03,"うーむ…火山に挑むか挑まぬか
+悩める男 ダエトール…
+もし見物客が大勢いれば
+調子に乗って挑んじゃうんだろうけどね","Hmm... Should I try to reach the volcano
+or take the easy way out and just not
+make the trip? A troubling dilemma...
+If there are a lot of tourists hanging
+around up there...there could be
+some good selling to be had."
+13,MSG_Orud_03_1,"今日も悩むダエトール…
+火山に挑むべきか挑まぬか…","My next big life decision...
+To challenge the volcano, or to simply...
+not?"
+14,MSG_Orud_04,"うーむ…地図を見ようか勘で行こうか
+悩める男 ダエトール…
+そうは言っても火山道…
+迷わず地図を見て迷わないようにしないとね！","Hmm... Should I check my map, or
+should I go by intuition like the original
+trailblazers? A troubling dilemma...
+Now that I think about it, this is a
+volcanic road. I'd better check my map."
+15,MSG_Orud_04_1,"今日も悩むダエトール…
+火山道を地図を見て進むべきか勘で行くか…","My next big life decision...
+Should I follow my instincts or follow
+my map?"
+16,Near00,どうするべきか…,Hmm... What should I do?
+17,Near01,これでいいのか…,Will I be OK like this?
+18,Near02,これでよかったのか…,Was that the right choice?
+19,Near03,寝るべきか…,Should I get some sleep?
+20,Near04,旅は中止か…,Maybe I should go home.
+21,Rest_00,"こんな世の中だから悩みも多くてね
+キリがないから ちょっと休憩してるんだ","There are so many troubling things in a
+bleak world such as this. They only seem
+to cease when I take a break."
+22,Rest_01,"雨だれの音を聴いているんだ
+ジャマしないでくれるかな","Listening to falling rain is the only thing
+in this world that isn't troubling to me.
+Could you come back when it's over?"
+23,Rest_02,"悩める男 ダエトール
+雨が似合う男 ダエトール
+どっちが モテるかな","A man whose brooding visage weighs
+heavy with countless troubled thoughts...
+or a man who looks dashing in the rain...
+I wonder which one the ladies prefer."
+24,RetMSG_Orud_00,"うーむ…冒険を続けるべきか諦めるべきか
+悩める男 ダエトール…
+1時間ほど休憩するっていう第三の選択肢も
+あるにはあるんですけどね","Hmm... Should I continue my adventure
+or quit while I'm ahead? 
+A troubling dilemma...
+But I guess there is a secret third option.
+I could take an hour-long nap."
+25,RetMSG_Orud_00_1,"今日も悩むダエトール…
+冒険を続けるべきか諦めるべきか…","My next big life decision...
+To continue my adventure, or to
+quit? Or to take a nap..."
+26,RetMSG_Orud_01,"うーむ…魔物に堂々と挑むか スタコラ逃げるか
+悩める男 ダエトール…
+そうだ！堂々と逃げればいいのだ！","Hmm... Should I bravely face these
+monsters, or should I run away as fast as
+I can? A troubling dilemma...
+I shall run away as fast as I can.
+But I shall do so bravely!"
+27,RetMSG_Orud_01_1,"今日も悩むダエトール…
+魔物と戦うべきか逃げるべきか…","My next big life decision...
+To boldly fight, or to boldly run?"
+28,RetMSG_Orud_02,"うーむ…燃えず薬を入手できるか できないか
+悩める男 ダエトール…
+…じつは燃えず薬が手に入らなくても
+ヒケシトカゲと魔物素材で ごにょごにょっと…","Hmm... Can I wrangle myself a
+fireproof elixir? A troubling dilemma...
+
+Even if I can't get a fireproof elixir,
+I guess I could always use a
+fireproof lizard and monster parts to..."
+29,RetMSG_Orud_02_1,"今日も悩むダエトール…
+燃えず薬を入手できるか できないか…","My next big life question...
+Is a fireproof elixir within my grasp?!"
+30,RetMSG_Orud_03,"うーむ…馬で進むか歩いてゆくか 
+悩める男 ダエトール…
+自分の足でゆくとしても
+さて右足から出すか左からか…なんちゃって","Hmm... Should I travel by horseback or
+continue on foot? A troubling dilemma...
+
+Moreover, if I continue on foot, do I start
+with my left foot or my right foot?
+A less troubling dilemma..."
+31,RetMSG_Orud_03_1,"今日も悩むダエトール…
+馬で進むか歩いて進むか…","My next big life decision... To save
+the horse, or to save my feet?"
+32,RetMSG_Orud_04,"うーむ…西に向かうか東をめざすか
+悩める男 ダエトール…
+まっボクは方向音痴だから
+西も東もよくわからないんだけどね！","Hmm... Should I head west or east?
+A troubling dilemma... Wait a moment...
+
+I just remembered I have no sense of
+direction, so it doesn't matter which
+way I go."
+33,RetMSG_Orud_04_1,"今日も悩むダエトール…
+西に向かうか東へ向かうか…","There's no decision to be made here.
+East or west—it's all the same to me!"
+34,SavedLv1_00,うーん…ただただ怖かったです,Phew... That was a terrifying dilemma!
+35,SavedLv1_01,うーん…冷や汗すごいです,"Ugh... I'm totally dripping with a cold
+sweat after that!"
+36,SavedLv2_00,うーん…まだドキドキしてる,"Phew... My heart's beating a mile
+a minute."
+37,SavedLv2_01,うーん…さっきの魔物が今夜の夢に出そう,"Brrrr... Those monsters are definitely
+going to make an appearance in my 
+dreams. Will you rock me to sleep?"
+38,SavedLv3_00,めちゃくちゃ恐ろしかったよー,"That was...
+So scary..."
+39,SavedLv3_01,ああ生きてるー！奇跡だー！,"Huh? I'm... I'm alive?!
+It's a miracle!"
+40,Thanks00,あ これ助けてくれたお礼ね,"Here, take this. For helping me out
+of that dilemma."

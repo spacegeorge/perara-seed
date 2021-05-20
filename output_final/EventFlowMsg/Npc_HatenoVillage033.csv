@@ -1,0 +1,166 @@
+#,Title,JPja,USen
+1,"""0000""",お使い中でーす,I'm helping!
+2,"""0001""",さようなら,Bye.
+3,"""0002""",言ったかも,"Yeah, I think you did."
+4,"""0003""",言ってないと思う,I don't think so.
+5,"""0004""",お疲れ様,Good work!
+6,talk00,"あれ？その青い炎…
+研究所の所長さんが運んでたような…","That blue flame... The lab director was
+carrying something like that before..."
+7,talk01,"それは感心ですね！
+
+そんながんばり屋さんに
+これ…あげたくなっちゃいました","Oh, really? Well look at you! Nice boys
+like you get a treat!"
+8,talk02,"でもプルアのお婆様のお家は
+こっちじゃないんです","But this isn't ol' Purah's house, I'm
+sorry to say."
+9,talk03,でも所長さんのお家は こっちじゃないんです,"But this isn't the director's house,
+I'm afraid."
+10,talk04,早く持って行ってあげた方が…,Shouldn't you...hurry?
+11,talk05,"その青い炎…
+早く研究所に届けて差し上げて","That blue flame... You should get it to
+the lab quickly."
+12,talk06,"ハテノ古代研究所は
+ここから一番遠い丘の上よ","Hateno Ancient Tech Lab is over at the
+top of the closest hill here."
+13,talk07,あらつれないお方…,Oh. You're not much for conversation...
+14,talk08,"い…いやっ…！人を呼びますよ？
+
+…
+
+……あ ゴメンナサイ
+私ったら…
+…
+
+……よく見るとイケメンですね
+
+……あっ！また私ったら
+
+いつもこんな調子だから
+主人によく怒られるんです…
+もう…あっちに行ってください
+
+…
+
+……","Hey! This is private property here! Don't
+make me call...uh...someone!
+
+...
+
+
+I'm sorry. That wasn't very nice of me
+at all... You're not a weirdo—I can tell.
+You're probably a great person to talk to.
+...Oh, no! There I go again, just talking
+with no purpose. I get carried away
+and just don't know when to quit.
+It really drives my husband crazy when
+I just can't find my point...
+
+I guess... Could you just go somewhere
+else, please?"
+15,talk09,"私…早くどこかに旅立ってくださいって
+言いましたよね？","I think I told you to leave, didn't I?"
+16,talk10,"ですよね？
+旅人は旅をしてこそ… ですものね？","I thought so. I'm sure I had a good
+reason... Or did I?"
+17,talk11,"言ってませんでしたっけ？
+そうかなぁ…","Oh, I didn't say that? Well, I meant to..."
+18,talk12,"あれ？ もしかして私
+自分で答え言っちゃってました？
+栄養満点だから
+いろいろな料理に使ってくださいね♪
+…
+
+…あーっ私ったら！
+またよろず屋さんに卸す予定のタマゴを…
+主人に怒られちゃいます…","Wait, did you answer the question,
+or did I?
+
+Well, you'll be happy with your purchase!
+It's chock-full of nutrients, so please
+use it in all sorts of cooking.
+...Oh, darn it. I just gave away that egg
+I was supposed to sell at the general
+store...again!
+I'm such a softy. I can't help it!
+
+
+It just doesn't seem right to make money
+off of it. But tell that to my husband!"
+19,talk13,"ウチで取れるトリのタマゴは栄養満点！
+いろんな料理にも使えますよ♪","Our bird eggs are chock-full of
+nutrients, and you can cook them with all
+sorts of different ingredients!"
+20,talk14,あら…,"Oh, hullo..."
+21,talk15,おはようございます,Mornin'.
+22,talk16,あっ…はい,"Oh...yes, hullo."
+23,talk17,こんばんは,Evenin'.
+24,talk19,"どうしても お庭掃除したいから
+晴れるまで待ってるんですよ","I have to clean the yard today, so I'm
+waiting for it to clear up a bit."
+25,talk20,疲れてないですよ？,But I'm not actually doing any work...
+26,talk21,今から寝るんです,I'm going to bed now.
+27,talk22,恥ずかしいから来ないでくださいね,"So that means...don't follow me.
+Obviously."
+28,talk23,"私…「来ないでください」
+って言いましたよね？","I said \""don't follow me,\"" didn't I?"
+29,talk24,スー…スー…,Zzz... Zzz...
+30,talk25,"トリのタマゴ…差し上げたいところなんですが
+気前よすぎるって主人に怒られたばかりで…
+イースト・ウィンドさんに卸してるんで
+後で行ってみてくださいね","I'd love to give you another bird egg...
+But then I'd have some explaining to do
+at home.
+We sell 'em to that shop East Wind,
+though. So look for them there."
+31,talk26,"今日も お掃除 お掃除…
+
+…
+
+……
+
+見てて楽しいですか？","Just more cleaning today...
+
+
+...
+
+
+...
+
+
+Can I help you with something?"
+32,talk27,"あの…
+
+旅の話でもお聞きすればいいんでしょうけど
+とくに質問も思い浮かばなくて…","Um...I don't really have anything to
+talk about, so... Maybe we're done here?"
+33,talk28,"そ…そんなに見つめないでください
+お互い不幸になりますので…",Don't you have somewhere better to be?
+34,talk29,"それよりも聞いて下さい
+
+不器用な私が養鶏所に嫁いだので
+朝食は毎朝 スクランブルエッグになったんです
+なぜなのか わかりますよね？
+
+答えは…タマゴをうまく割れないから！
+
+ピンポーン大正解♪
+正解したあなたには割れてないタマゴを♪","Oh! Everyone on the farm has gotten
+used to scrambled eggs for breakfast...
+Know why?
+Well, I married into this poultry farm a
+few years ago, but I still drop eggs like
+they're dipped in butter.
+So if you guessed that it's a rare thing
+for an egg to survive in my hands, you
+guessed right!
+Congratulations! For your winning guess,
+you get this egg I haven't smashed to
+pieces yet! Yay!"
+35,talk30,では これを…詫びタマゴです,Please enjoy this apology egg.
+36,talk31,"そうやって付け回して…
+年上の女性をからかわないの！","You seem to really like hanging around
+here for some reason, huh?"
+37,talk32,…あゴメンナサイ言い過ぎました…,I'm sorry for speaking so harshly...

@@ -1,0 +1,169 @@
+#,Title,JPja,USen
+1,Atacked00,どうどう…馬の興奮を抑えないと…,"Whoa... Whoa... Gotta calm my horse
+down somehow..."
+2,Atacked01,こんな時は無理をしないほうがいいな…,"OK, just stay calm... Find the calm
+place inside..."
+3,Failed00,俺はともかく馬のホレッソンが心配だ…,"Forget about me... I'm worried about my
+horse, Spinch..."
+4,Failed01,"くうぅ…""腕が少し痛むな…",Oof... Hurt my arm a little...
+5,Guardian00,こんな場所に長居は無用だぜ！,I'm not sticking around! No way!
+6,MSG_Firo_00,"いよう！俺はホレッソン！馬もホレッソン！
+俺たち ややこしいのさ！
+ホレッソンと ひとっ走り
+ウオトリー村まで行ってくるぜ！ ハイヨー！","Yee-haw! My name is Spinch! This is my
+horse, Spinch! That's right—same name!
+Is it confusing? I don't care!
+Spinch and I are taking a ride out
+to Lurelin Village! Hi-hooooo!"
+7,MSG_Firo_00_1,"ホレッソンと ひとっ走り
+ウオトリー村まで行ってくるぜ！ ハイヨー！","Spinch and I are taking a little gallop out
+to Lurelin Village!
+Heigh-hooooo!"
+8,MSG_Firo_01,"いよう！俺はホレッソン！馬もホレッソン！
+いつもコンビさ ホレッソンズ！
+知ってるか？フィローネ街道のはるか西…
+オブババ草地に巨大な馬がいるって話だぜ！","Yee-haw! The name's Spinch!
+The horse's name is Spinch!
+They call us the Spinches!
+Did you know... Way out west in the
+Taobab Grasslands, along the Faron
+Highroad, there's tell of a giant horse?"
+9,MSG_Firo_01_1,"知ってるか？フィローネ街道のはるか西…
+オブババ草地に巨大な馬がいるって話だぜ！","I heard that, way out west in the
+Taobab Grasslands, along the Faron
+Highroad, there's a giant horse roaming."
+10,MSG_Firo_02,"ハハハ！こいつ馬のくせに
+なかなかの情報通でね！
+ここを南に行くとある ハート型の池は
+恋愛成就で有名らしいって馬が言ってるぜ！","Hahaha! There, there! You're pretty well
+informed for a horse, you know!
+
+Spinch says that if you head south,
+you'll find a heart-shaped pond.
+Apparently that's where you find love!"
+11,MSG_Firo_02_1,"ここを南に行くと ハート型の池があって
+恋愛成就で有名らしいぜ！","South of here is a heart-shaped pond
+that is apparently a great place to find
+love!"
+12,MSG_Firo_03,"ヒーハー！ いいこと教えてやる！
+
+馬に乗りながら魔物を倒したけりゃ
+弓矢の練習をしておくことだな！","Yee-haw! Let me share a little Spinch
+wisdom with you!
+
+If you want to take down monsters while
+riding on horseback, you've got to really
+practice your archery skills!"
+13,MSG_Firo_03_1,"馬に乗りながら魔物を倒したけりゃ
+弓矢の練習をしておくことだな！","If you want to take down monsters while
+riding on horseback, you've got to really
+practice your archery skills!"
+14,MSG_Firo_04,"いよう！俺はホレッソン！馬もホレッソン！
+人馬一体とは俺たちのことさ！
+知ってるか？ウオトリー村の魚のうまさ！
+ホレッソンと ずっとここに住みたくなるぜ！","Yee-haw! Call me Spinch! 
+Call my horse Spinch too!
+
+Are we a man-horse? A horse-man?
+Where does one end and the other
+begin? It's a mystery for the ages!
+What isn't a mystery is Lurelin Village's
+really tasty fish! Kind of makes me and
+Spinch want to settle down here!"
+15,MSG_Firo_04_1,"知ってるか？ウオトリー村の魚のうまさ！
+ホレッソンと ずっとここに住みたくなるぜ！","Lurelin Village has some of the best,
+most tasty fish! Kind of makes me and
+Spinch want to settle down here!"
+16,Near00,俺はホレッソン…,My name is Spinch.
+17,Near01,馬もホレッソン…,My horse is Spinch.
+18,Near02,俺たちホレッソンズ…,We...are the Spinchs!
+19,Near03,ハハハ！,Hahaha!
+20,Near04,まいったぜ…,Ugh... Seriously?
+21,Rest_00,"巨大馬の話が耳から離れねえ…
+
+なんでも フィローネ街道を西に進んだ先…
+オブババ草地に巨大な馬がいるらしい","Everywhere I go, all I'm hearing about is 
+this giant horse...
+
+Everyone's saying if you take the Faron
+High Road out west, you'll find a giant
+horse in the Taobab Grassland."
+22,Rest_01,"俺はホレッソン！馬もホレッソン！
+おまえもホレッソンに改名しちゃいなよ！","I'm Spinch! My horse is also called
+Spinch! You should totally change
+your name to Spinch! It'd be great!"
+23,Rest_02,"俺はホレッソン！馬もホレッソン！
+どちらも雨は好きになれねえ…","I'm Spinch! My horse is also named
+Spinch! We both hate the rain."
+24,RetMSG_Firo_00,"いよう！俺はホレッソン！馬もホレッソン！
+俺たち ややこしいのさ！
+ところでアンタ巨大な馬の噂を聞いたかい？
+はるか西のオブババ草地に現れるって話だぜ！","Yee-haw! My name is Spinch! This is my
+horse, Spinch! That's right—same name!
+Is it confusing? I don't care!
+Have you heard the rumors about the 
+giant horse! They say it appears waaay
+out west, in the Taobab Grassland!"
+25,RetMSG_Firo_00_1,"アンタ巨大な馬の噂を聞いたかい？
+はるか西のオブババ草地に現れるって話だぜ！","Have you heard the rumors about the 
+giant horse?! They say it appears way
+out west in the Taobab Grassland!"
+26,RetMSG_Firo_01,"ヒーハー！いいこと教えてやる！
+
+首の辺りから馬に乗ると
+なんだか曲芸みたいで カッコいいゼ！","Yee-haw! Let me teach you something!
+
+
+You'll have to do a really sweet acrobatic
+move if you try to mount a horse from
+the front. So cool!"
+27,RetMSG_Firo_01_1,"首の辺りから馬に乗ると
+なんだか曲芸みたいで カッコいいゼ！","Have you done the really sweet acrobatic
+move where you try to mount a horse
+from the front? So cool!"
+28,RetMSG_Firo_02,"ハハハ！こいつは馬のくせに
+なかなかの情報通でね！
+西の方に広がるフィローネの森の奥深くに
+龍の形をした湖があるって馬が言ってるぜ！","Hahah! Whoa there!
+You're really well-informed for a horse!
+
+He's saying that deep in the woods of
+Faron, to the west, is a place sometimes
+called the Mouth of the Dragon."
+29,RetMSG_Firo_02_1,"西の方に広がるフィローネの森の奥深くに
+龍の形をした湖があるらしいぜ！","Deep in the woods of Faron, to the west,
+is a place sometimes called the Mouth
+of the Dragon..."
+30,RetMSG_Firo_03,"ヒーハー！いいこと教えてやる！
+
+馬によって大きさも体力も違う！
+自分に合った馬を所有馬にすることだ！","Yee-haw! Let me teach you something!
+
+
+Horses vary in size and strength! Find
+one that suits you and make it your own!"
+31,RetMSG_Firo_03_1,"馬によって大きさも体力も違う！
+自分に合った馬を所有馬にすることだ！","Horses vary in size and strength! Find
+one that suits you and make it your own!"
+32,RetMSG_Firo_04,"いよう！俺はホレッソン！馬もホレッソン！
+おまえもまさか ホレッソン？
+知ってるか？馬を走らせるときには
+体力をちゃんと見たうえで鞭を入れるんだぜ？","Yahoo! My name is Spinch! My horse 
+is also Spinch! Is your name Spinch,
+too? That'd be extra crazy...
+Here's a tip. Pay close attention to how
+much stamina your horse has when
+you're riding it really hard!"
+33,RetMSG_Firo_04_1,"知ってるか？馬を走らせるときには
+体力をちゃんと見たうえで鞭を入れるんだぜ？","Listen, you gotta pay close attention to
+how much stamina your horse has when
+you're riding it really hard!"
+34,SavedLv1_00,助かったよありがとうな！,Thanks! That was really close!
+35,SavedLv1_01,俺も無事！馬のホレッソンも無事だ,"I'm all right! My horse, Spinch, is
+all right too!"
+36,SavedLv2_00,あんたのおかげさありがとうな！,I can't thank you enough!
+37,SavedLv2_01,魔物めおぼえてやがれ…,"Damned monsters. Thinking they can just
+attack without a care..."
+38,SavedLv3_00,…そっちこそ大丈夫だったか？,Never mind about me—are you OK?
+39,SavedLv3_01,くたばるかと思ったぜ…,I thought I was a goner for sure...
+40,Thanks00,礼を渡さないとな,Oh! I should give you something.

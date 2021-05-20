@@ -1,0 +1,394 @@
+#,Title,JPja,USen
+1,"""0008""",始めます,Let's do this.
+2,"""0009""",もう少し待って,Hold on.
+3,"""0010""",スナザラシラリー？,Sand-seal race?
+4,"""0011""",パフュー？,Tali?
+5,"""0014""",もちろん,Of course.
+6,"""0015""",やめておきます,I'll pass.
+7,"""0016""",はい…,OK.
+8,"""0017""",……困ります,Forget it.
+9,"""0018""",ルールを教えて,Tell me the rules.
+10,"""0019""",もう一度挑戦する,I want to try again.
+11,"""0020""",今はいいです,Not right now.
+12,"""0021""",アナタは？,Who are you?
+13,"""0022""",さよなら,Good-bye.
+14,"""0023""",勝負したい,I'm ready to race. 
+15,Npc_oasis038_AfterGoal_010,"アーチは全部通ったようだけど…チャンピオンの記録
+分秒に届かなかったから失格だよ！","Well, you passed through all of the
+arches...But you didn't break the champ's
+record of :.
+Too bad."
+16,Npc_oasis038_AfterGoal_020,"コースにある全てのアーチを通らないと
+失格だよ
+アーチは7つ！
+次は忘れるんじゃないよ！","You'll have to pass through all seven
+arches on the course, or you'll be
+disqualified.
+Don't forget!"
+17,Npc_oasis038_AfterGoal_030,"…お前のファンキーなザラシテクニック
+また見せに来てくれ…","...Come show us your funky seal
+technique again sometime..."
+18,Npc_oasis038_Demo330_1_530,…たった3年か,...Just three years?
+19,Npc_oasis038_S1_001,アンタも懲りないねぇ,I didn't think you were a quitter.
+20,Npc_oasis038_S3_001,"……
+
+ファンキーな走りだったよ","...
+
+
+That was some solid riding..."
+21,Npc_oasis038_S3_002,"おぇい！
+
+チャンピオンがアタシ以外と
+そんなにおしゃべりするなんて…
+ちょっと焼けるねぇ","Heh...
+
+
+The champion talking to someone
+besides me? I must admit...
+I'm a little jealous."
+22,Npc_oasis039_Demo330_1_510,"こんな記録が
+生きているうちに拝めるとはねぇ","Never thought I'd see that record broken
+in my lifetime."
+23,Npc_oasis039_Demo330_1_520,"まったく… いい走りに興奮しすぎて
+寿命が3年は縮まったよ","I got so excited seeing a run that good—
+it probably shaved three years off of my
+life."
+24,Npc_oasis039_Demo330_1_540,"ん？
+あんだって？",I need to sit down for a moment...
+25,Npc_oasis039_R_005,じゃあ再開といこうじゃないか！,Then let's do this!
+26,Npc_oasis039_R_Near,やっとだね パフュー,"Finally, Tali!"
+27,Npc_oasis039_S1_001,"ゲルド伝統の競技
+スナザラシラリー！
+ウチのチャンピオン パフューに勝てば
+唯一無二のトロフィーゲット！
+1回50ルピーだが挑戦するかい？","Sand-seal racing, the traditional
+Gerudo sport!
+
+Beat the great Tali's time and walk away
+with the one and only trophy! Just
+50 rupees per race. How about it?"
+28,Npc_oasis039_S1_002,"いいね～
+まれにみる良い返事だ！
+じゃあ50ルピーはいただくよ","Excellent. A good answer is a rare thing
+these days. That'll be 50 rupees."
+29,Npc_oasis039_S1_003,"ふふ このラリーが始まる前の緊張感…
+
+何度経験してもいいもんだね～","Hehe, these stomach butterflies before a
+race...
+
+I never get sick of it."
+30,Npc_oasis039_S1_007,"ちょいちょいちょい！
+
+盾を持ってないじゃないか！
+スナザラシに乗るには盾がいるって
+学校で教わらなかったのかい？
+盾を装備してから
+出直してくるんだね","Hey, hey, hey! You don't have a shield!
+
+
+Didn't they teach you in school that you
+need a shield to sand-seal surf?
+That's basic knowledge!
+Come back when you've got a shield."
+31,Npc_oasis039_S1_100,"スナザラシに乗り決められたアーチを通って
+目的地に向かい時間を競い合う
+途中でスナザラシから下りたり…
+コースエリアから外れすぎたら失格だよ
+チャンピオンの記録分秒を切って
+ゴールできたら アンタの勝ちさ
+チャンピオンの名誉だけでなく
+受け継がれてきたトロフィーも アンタのもんさ
+さっ もういいだろ？
+長い話は嫌いなんだ
+1回50ルピーだが
+ウチのチャンピオンと勝負するかい？","Ride the sand seal to compete for the
+best time while also going through
+the marked arches.
+If you get off your shield or leave the
+course bounds, you're disqualified.
+
+If you beat the champion's record
+of :, you become the new
+world champion!
+Not only that, but you'll also receive the
+grand trophy, which has been passed
+down for generations!
+But that's enough talk. Time to put your
+rupees where your mouth is.
+
+It costs 50 rupees per attempt. Are you
+ready to challenge the champion's time?"
+32,Npc_oasis039_S2_001,"ちょいちょいちょい！
+スナザラシから降りたらダメだって言っただろ！
+残念だが ここで終了だよ","Hey, hey, HEY! I told you, you can't get
+off your shield!
+
+That's it. The race is over!"
+33,Npc_oasis039_S2_002,まだまだ素人の走りだね…,"Pfft... You need some training wheels on
+that sand seal?"
+34,Npc_oasis039_S2_003,"ちょいちょいちょい！
+コースを外れたら終了だって言っただろ！
+今回はここまでだよ！","Hey, hey, hey! I told you, you can't leave
+the course bounds!
+
+That's it. This race is over!"
+35,Npc_oasis039_S2_004,"ちょいちょいちょい！
+
+用があるんなら アタシが受けるよ
+
+なんてったって パフューは
+ウチのチャンピオンだからね
+素人が気軽に話せる
+存在じゃないんだよ！","Hey, hey, hey!
+
+
+If you need something, you talk to me.
+
+
+Tali is the world champion! You can't
+just walk up and talk to her!"
+36,Npc_oasis039_S2_005,"まだやるかい？
+もちろん50ルピーはいただくけどね","You want to try again? It'll be another
+50 rupees."
+37,Npc_oasis039_S2_006,"ふふっ分秒の壁の高さが
+わかっただろう？
+ウチのパフューは世界チャンピオンなんだ
+次は もっと練習してから来るんだね","Heh, I see you now understand how
+difficult the record is to crack.
+
+Our Tali is a world champion!
+Come back after you get some practice."
+38,Npc_oasis039_S3_001,"おっと…
+
+もうチャンピオンはアンタだったね
+
+実はそのトロフィーは
+
+古代のお宝を探す鍵なんじゃないかって
+言い伝えもあるんだ
+アタシ達は まったく興味ないけどね","Oh...
+
+
+I guess you're the new champion now.
+
+
+There's a legend shared among sand-
+seal racers that the grand trophy is the
+key to finding an ancient treasure.
+...But that's a load of seal snot if you ask
+me."
+39,Talk_0000,……,...
+40,Talk_0005,"なんだい アンタは？
+気軽にパフューに近づくんじゃないよ！
+神獣のヤツがいなくなって
+やっとコースが使えるようになったからね
+パフューは今スナザラシラリーに向けて
+気を高めてるんだ！
+それとも…
+
+無敗の女王 パフューの記録に
+挑戦したいってのかい？","What do you want? The great Tali
+doesn't have time to chat with just
+anyone!
+You see, now that the Divine Beast is
+gone, we can finally use the race course.
+
+Tali is busy focusing her energy for the
+sand-seal race!
+
+Actually...
+
+
+Did you want to try to beat Tali's record?
+I'll warn you—they don't call her Dame
+of the Dunes for nothing."
+41,Talk_0006,"ちょいと ちょいと！
+パフューを呼び捨てにするんじゃないよ！
+パフューって言ったら
+スナザラシラリー世界チャンピオンの
+パフュー以外いないだろ！","Hey, hey now!
+Tali is Tali!
+
+Tali is the sand-seal-racing world
+champion! Who else would Tali be?"
+42,Talk_0007,"アンタ世界的に有名な
+スナザラシラリーを知らないのかい？","You've never heard of Hyrule's pastime?
+The world-famous sand-seal racing?"
+43,Talk_0008,"このパフューを世界チャンピオンに
+育てあげたのは何を隠そうこのアタシさ
+この子は昔からシャイな子だけどね
+アタシだけには心を開いてくれてんだ
+ねぇ パフュー？","If you must know, I am the one who
+raised Tali into a world champion.
+
+She's always been shy, but for some 
+reason she opened up to me.
+Isn't that right, Tali?"
+44,Talk_0009,"…っとに やっとラリーができるよ
+神獣がいる間は何にもできなかったからね
+パフューの腕が
+なまっちまうところだったよ","Now we ride!
+Now that the Divine Beast is gone, we
+can take the seals out again.
+I doubt anyone in the world can beat
+Tali's time, though."
+45,Talk_0010,"アンタ！
+何帰ろうとしてんだよ！
+パフューがやる気になってるんだから
+一勝負受けるのがヴァーイってモンだろ！","Hey, are you really just going to leave?!
+Tali wants to see what you've got.
+
+A true vai never backs down from a
+challenge."
+46,Talk_0011,"勝負はもちろん
+スナザラシラリー！","The competition will, of course, be
+a sand-seal race!"
+47,Talk_0012,"スナザラシに乗り決められたアーチを通って
+目的地に向かい時間を競い合う
+ゲルド族伝統の競技だ！
+
+途中でスナザラシから下りたり…
+コースエリアから外れすぎたら失格だよ","You surf with a sand seal to compete for
+the best time while also going through
+the marked arches.
+It's been a traditional Gerudo sport since
+time immemorial!
+
+Oh, yes. And if you get off your shield or
+leave the course bounds, you're
+disqualified."
+48,Talk_0013,"パフューの記録は分秒！
+
+この記録を破ることができたら
+あのトロフィーはアンタのもんさ","Tali's record is :!
+If you can beat that record,
+that trophy is yours. "
+49,Talk_0014,"それは 1万年前から歴代チャンピオンに
+受け継がれてきた特別なトロフィー","This is the grand trophy that's been
+passed down by ten thousand years of
+sand-seal-racing champions."
+50,Talk_0015,"そして今のチャンピオンこそ
+ここにいる パフューなんだ
+どうだい？
+パフューの記録に挑戦してみるかい？","Tali here is the current champion.
+Will you try challenging her record?"
+51,Talk_0016,"なっ！
+
+……
+
+まぁいいだろう…闘志のない者と
+パフューを戦わせるわけにはいかないね
+そんなチキン野郎は
+こっちから願い下げだよ","Wha—?
+
+
+...
+
+
+Oh, well. No point in having some
+nobody try to beat Tali's record anyway.
+
+She'd sweep the floor with you...
+and mop it, too!"
+52,Talk_0022,"…言い忘れたけど
+チャンピオンの記録に挑戦できるんだ
+1勝負につき50ルピーいただくよ","I forgot to mention...
+Since you're racing against the champ's
+record, it'll be 50 rupees per race."
+53,Talk_0023,良い払いっぷりだねぇ,All right. Payday!
+54,Talk_0025,"スナザラシに乗り決められたアーチを通って
+目的地に向かう
+それがスナザラシラリーさ！
+
+途中でスナザラシから下りたり…
+コースエリアから外れすぎたら""失格だよ","You surf with a sand seal and race to the
+finish line while also going through the
+arches. That's sand-seal racing!
+And if you get off your shield or
+leave the course bounds, you're
+disqualified."
+55,Talk_0026,"なっ！
+
+……
+
+まぁいいだろう…金のない者と
+パフューを戦わせるわけにはいかないね
+そんなビンボー野郎は
+こっちから願い下げだよ","Wha—?! HAHA!
+
+
+You can't even afford the modest price to
+challenge the champ's time?
+
+The race is off! It'd be a waste of time
+for some scrub like you to take on the
+great Tali!"
+56,Talk_0027,"アンタ！
+何帰ろうとしてんだよ！
+パフューがやる気になってるんだから
+一勝負受けるのがヴォーイってモンだろ！","Hey, are you really just going to leave?!
+Tali wants to see what you've got.
+
+A voe's voe wouldn't back down."
+57,Talk_0028,"またアンタかい！
+気軽にパフューに近づくんじゃないよ！
+神獣のヤツがいなくなって
+やっとコースが使えるようになったからね
+パフューは今スナザラシラリーに向けて
+気を高めてるんだ！ 
+それとも…
+
+無敗の女王 パフューの記録に
+挑戦したいってのかい？","You again! Don't bother Tali while she's
+getting pumped up for the
+sand-seal race!
+Now that the Divine Beast is gone, we
+can finally use the race course!
+
+Actually...
+
+
+Did you want to try to beat Tali's record?
+I'll warn you—they don't call her Dame
+of the Dunes for nothing."
+58,Talk_0029,"うんうん そうだね
+わかってるよ パフュー","Haha!
+You're so funny, Tali."
+59,Talk_0030,"またアンタかい！
+闘志のない奴が
+スナザラシラリーのチャンピオン
+パフューに近づくんじゃないよ
+それとも…
+
+やっぱりチャンピオンの記録に
+挑戦したいってのかい？","You again! Tali is too important to be
+mingling with common folk. She's the
+sand-seal racing champion!
+Or...
+
+
+So you do want to challenge the
+champion's record after all?"
+60,Talk_0031,"…っとに やっとラリーができるよ
+神獣がいる間は何にもできなかったからね
+パフューの腕が
+なまっちまうところだったよ","Now we ride!
+Now that the Divine Beast is gone, we
+can take the seals out again.
+I doubt anyone in the world can beat
+Tali's time, though."
+61,Talk_0032,"そんな人間がいるとは
+驚きだねぇ パフュー","I thought everyone knew about it.
+Isn't that shocking, Tali?"
+62,Talk_0040,"ちょいちょいちょい！
+
+なんだい文無しかい？","Hey, hey, hey!
+You don't have the 'pees!"
+63,Talk_0041,"そんなはした金しか持たず
+パフューと勝負しようだなんて
+厚かましいにも
+ほどがあるってもんだよ","How dare you bring chump change
+to the house of Tali!"
+64,Talk_0042,"長ったるい話はもう充分だろ！
+さっさと始めようじゃないか","Enough talk!
+Let's begin!"

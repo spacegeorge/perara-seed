@@ -1,0 +1,134 @@
+#,Title,JPja,USen
+1,"""0000""",森について,About the forest...
+2,"""0001""",剣について,About the sword...
+3,"""0002""",森から出たい,How do I leave?
+4,"""0003""",さようなら,Bye.
+5,Near01,おマカせ！,Leave it to Maca!
+6,Npc_kokiri005_After_Demo_Talk000,"ようこそ ようこそいらっしゃい勇者サマ！
+森のことなら マカマカにおマカせデスよ！
+デクの樹サマと お話したいなら
+ここを登っていってくだサイね！","Welcome, Mr. Hero! 
+We're so excited you're here!
+
+If you need to know anything about
+these woods, just ask Maca!
+
+Or you can climb up here if you want to
+speak to the Great Deku Tree."
+7,Npc_kokiri005_After_Demo_Talk001,もっとおマカせデスか？,Did you need something else?
+8,Npc_kokiri005_After_Demo_Talk010,"このコログの森の見どころは何といっても
+デクの樹サマと剣の台座デスよ！
+見どころ なんて言っちゃうと
+怒られちゃうかもデスが…
+デクの樹サマの中には勇者サマのために
+寝る場所や役立つものを用意してるデスよ！
+あとは剣の台座！言わずとしれた退魔の剣が
+ささっている場所デス
+実は剣の台座はこの森の中心でもありまシて…台座に立って ぐるっと見回すと 
+森の中の道が ほぼ分かるデスよ！
+目印に豆のランプもあるので それを頼りに
+進んでみるのも いいかもデス
+というわけで もし道に迷ったら
+剣の台座まで戻ってみるといいデスよ！","The highlights here in Korok Forest
+are the Great Deku Tree and the
+sword pedestal, of course! 
+Although the Great Deku Tree probably isn't very
+happy about becoming a tourist trap.We've really decked out the inside of 
+the Great Deku Tree in anticipation of
+your arrival.
+You'll find a place to rest and a bunch of
+other useful things in there!
+
+And then there's the sword pedestal! The
+sword that seals the darkness, which
+needs no introduction, rests there.
+The sword pedestal is the center of the
+forest...If you stand on the pedestal and look
+around, you'll be able to understand
+most of the paths in the forest!
+The bean lamps act as landmarks. You'll
+want to familiarize yourself with them to
+make it easier to find your way around.
+And if you get turned around, you can
+always head on back to the sword
+pedestal!"
+9,Npc_kokiri005_After_Demo_Talk020,"アナタだけの退魔の剣…
+やっと出会えましたデスね
+アナタじゃない他の人が出会わないように
+ワタシたち がんばりましたデスよ
+迷いの森迷いましたデスか？ア！""迷わなかったから ここにいるのデスよね
+しっけいしっけい デス！","The sword that seals the darkness...
+To be wielded by you and you alone...
+You've finally found it!
+We worked really hard to make sure no
+one else stumbled upon it.
+
+How did you like the Lost Woods?
+Did you get...lost?Well, you obviously made it through,
+because you're here!"
+10,Npc_kokiri005_After_Demo_Talk030,"森から出たいデスか？ そりゃ やっぱり
+いつかは出たいデスよね…
+実は そんなこともあろうかと
+用意しているのデスよ！
+剣の台座から東の方に進むと
+右手に看板があるのデス 
+そこから さらに右手の坂をのぼれば
+おばけの樹があるデスよ
+樹の口に入ったら ぽわーんと森の外へ
+行けるように しておいたのデス
+迷いの森を もっかい歩くの大変かなって
+思ったわけデスよ！ えへん！","You want to leave the forest?
+But why? It's perfect here!
+
+Just kidding! I know you have to leave
+sometime. You've got to save Hyrule!
+
+If you head east from the sword
+pedestal, there will be a sign on your
+right.
+Climb up the hill on the right side of the
+sign, and you'll see an ogre tree.
+
+If you walk into that tree's mouth,
+you'll *whoosh* be taken to the entrance
+of the woods.
+We set it up this way because even us
+Koroks don't like to walk through the
+Lost Woods if we can avoid it."
+11,Npc_kokiri005_After_Demo_Talk040,"森のことで困ったら
+マカマカにおマカせくださいデスよ！","If you have trouble with anything in
+these woods, just ask Maca!"
+12,Npc_kokiri005_GotMSword_Talk000,"ア！勇者サマ！
+退魔の剣抜くところ見てましたデスよ！
+剣のこと もっと知りたかったら
+マカマカに おマカせデスよ！","Ah! Mr. Hero! I was watching you pull out
+the sword!
+
+If you want to know more about the
+sword, leave it to Maca!"
+13,Npc_kokiri005_GotMSword_Talk010,"退魔の剣…マスターソードについてデスね
+おマカせくだサイ
+マスターソードは特別な剣デスが
+使ううちに力が弱ってしまいマス
+そんな時はあわてずさけばず
+復活するのを待つといいデス
+剣の力が必要な いざという時のために
+力を蓄えているのかもデスね
+デクの樹サマなら
+他のことも知ってるかもデス","The sword that seals the darkness...
+You want to know more about the
+Master Sword?
+Well, the Master Sword is a very special
+weapon, but it can lose its power if you
+overuse it.
+When that happens, don't panic. All you
+have to do is wait for its power to
+regenerate.
+I probably wouldn't use it for trivial
+things like opening bottles or cans.
+Just for smiting evil and stuff.
+The Great Deku Tree can tell you more."
+14,Npc_kokiri005_Talk000,"アッ勇者サマ……！！
+ずっとずっと待っていましたデスよ！","Whoa, he's finally here!
+I...I've been waiting so long!"
+15,Npc_kokiri005_Talk010,さあ剣の元へ行くデスよ！,Go on then. Go to the sword!

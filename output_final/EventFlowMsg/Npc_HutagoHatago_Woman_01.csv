@@ -1,0 +1,271 @@
+#,Title,JPja,USen
+1,"""0000""",薬？,Elixirs?
+2,"""0001""",わかった,I know all about them.
+3,"""0002""",カカリコ村？,Kakariko Village?
+4,"""0003""",そうなんだ,"Ahh, I see..."
+5,ByTheWay00,"あれ もう行っちゃうの？
+
+じゃあ私は
+のんびり祠でも眺めとこうかな","Oh, you're going already?
+
+
+Then I think I'll kill some time admiring
+this shrine."
+6,First_Greeting00,"こんにちは
+何だか見慣れない格好だけど アナタも旅人？","Hello there. Don't see a whole lot of
+travelers passing through here. "
+7,First_Greeting01,"こんばんは
+何だか見慣れない格好だけど アナタも旅人？","Good evening. Don't see a whole lot of
+travelers passing through here. "
+8,First_Greeting02,"おはよう
+何だか見慣れない格好だけど アナタも旅人？","Good morning. Don't see a whole lot of
+travelers passing through here. "
+9,Talk100,"そのリンゴ""私も狙ってたのに…
+その辺にある物は「お持ち帰り自由」らしいわよ","I was thinking about taking one of those
+apples. Apparently anything lying around
+here is up for grabs."
+10,Talk101,"そのリンゴ「ご自由にどうぞ」って
+馬宿の人が言ってたよ","The guy at the stable said we could
+take those apples if we want them."
+11,Talk102,"そのリンゴ「ご自由にどうぞ」って
+馬宿のそのリンゴ…私もさっき食べたけど
+食べごろだったよ","I ate one of those apples. It was nice 
+and crisp. Don't you hate it when you
+bite into a soft apple?"
+12,Talk103,"そのリンゴ
+なくなったら子供たちが補充してくれるんだ
+「ご自由にどうぞ」だって","If the apples run out, the children will go
+pick some more. They told me to take as
+many as I want."
+13,near00,なごむわぁ～,Ahh. This is the life.
+14,near01,おちつくわぁ～,It's so nice here...
+15,near02,ひえ～,"Oh, yeah..."
+16,talk00,"ハイラルのいたるところに
+大厄災の名残はあるけど
+この世界が終わりかかったとは
+思えないよね～ 
+でもまだまだ魔物は残ってるし
+ハイラル城の辺りは物騒だし
+アナタも旅を続けるなら
+薬ぐらいは持っとかないと危ないよ","You know, with how peaceful it is around
+here, it's sometimes easy to forget that
+the world almost ended years ago.
+But there are still monsters wandering
+around, and the area near Hyrule Castle
+is especially dangerous.
+If you're going to be traveling, you
+should know a thing or two about
+elixirs."
+17,talk01,"この祠って光りだしたのは最近だけど
+1万年ぐらい前からある古いものなんだって…
+何でもこの世界に
+かなりの数の祠が眠ってるらしくて
+考古学者達は やっきになって
+探してるらしいわよ
+隠された秘密とかには
+まったく興味ないけどさ…
+この灯り…
+なんだかロマンティックよね…","That shrine only recently started
+glowing, but it's been there for
+something like 10,000 years.
+It sometimes feels like there's a shrine
+sleeping behind every hill, there's so
+many of them.
+Archaeologists get pretty fired up
+hunting down each one of them, but I
+haven't got time for mysteries...
+Still, looking at that glowing light...
+you do start to see something romantic
+about the whole endeavor."
+18,talk02,"薬は昆虫や魔物の素材から作れるんだよ
+
+体力とかは回復しないけど
+足が速くなったり暑さや寒さをしのげたり
+特殊な効果があるものが多いかな
+
+それにしても…薬も知らないで
+よく旅なんかしてるね…
+アナタ なんだか頼りないし
+私の薬 1つ分けたげるよ","You can make elixirs by mixing bugs and
+other small creatures with monster parts.
+
+Most of them are no good for refilling
+your health, but they can have a lot of
+unique effects...
+Some elixirs can increase your speed.
+Others raise your resistance to extreme
+temperatures.
+I'm actually impressed that you've made
+it this far without any knowledge of
+elixirs.
+I can't have it on my conscience if
+something happens to you from here,
+so I'll give you one of mine."
+19,talk03,"それにしてもさ～
+ここ双子ばっかりだよね
+さっき ここの子供達に
+「なんで1人なの？」って聞かれちゃったよ…","Oh... Uh... Have you noticed it's mostly
+twins here at this stable?
+
+It's kind of creeping me out."
+20,talk04,"この辺りは まだノンビリしてるけど
+
+ハイラル城の辺りは物騒だし
+魔物もまだまだ でてくるし
+アナタも旅を続けるなら
+薬ぐらいは持っとかないと危ないよ","This area is nice and quiet...
+
+
+But there are still monsters wandering
+around, and the area near Hyrule Castle
+is especially dangerous.
+If you're going to be traveling, you
+should know a thing or two about
+elixirs."
+21,talk05,"あの祠って 1万年ぐらい前からある
+古いものなんだって…
+何でも この世界に
+かなりの数の祠が眠ってるらしくて…
+考古学者達は やっきになって
+探してるらしいわよ
+隠された秘密とかには
+まったく興味ないけどさ…
+男子って そういうの好きだよね～","That shrine has been there for
+something like 10,000 years.
+
+It sometimes feels like there's a shrine
+sleeping behind every hill, there's so
+many of them.
+Archaeologists get pretty fired up
+hunting down each one of them, but I
+haven't got time for mysteries...
+I'll leave that kind of adventure to
+younger folks."
+22,talk06,"あ～ おなかすいた…
+なんか食べないと死んじゃうよ～","Ahh... I am powerfully hungry... If I don't
+eat soon, I may fall down right here."
+23,talk07,"やだ雨降ってきちゃった！
+
+ハイラルの雷って金属製のモノに
+落ちやすいらしいよ
+お兄さんも剣とか持ってるなら
+やばいんじゃない？","Aww, dang, it started raining!
+
+
+The lightning in Hyrule tends to strike
+metal objects...
+
+You watch yourself if you go wandering
+around with a metal weapon."
+24,talk08,"雨とか ほんと勘弁してほしいわ～
+
+カカリコ村の人たちの装束って
+すっごい技術で できてるらしくって
+雨でも普通に生活してて
+ビックリしちゃったよ
+でもあの服は シーカー族の人しか着れなくて
+ウチらは買えないんだよね～","I wish this rain would take a hint and
+lay off for a while...
+
+The folks in Kakariko Village have really
+amazing clothes that let them work out in
+the rain with no problem. Amazing!
+But only the Sheikah people can wear
+'em, so they won't sell us any..."
+25,talk09,"カカリコ村は ここから道沿いに
+まっすぐ北に進むとある小さな村だよ
+この前通ってきたけど
+高い山に囲まれててね
+みんな同じ服着てて
+元隠れ里って感じで不思議な感じだったなぁ…","Kakariko Village is a small village you can
+reach by following the road north
+from here. I came through there earlier.
+It's surrounded by tall mountains, and
+everyone there wears the same clothing.
+
+It's a strange little place, sort of like the
+original hidden village..."
+26,talk10,"ハイラルの雷って金属製のモノに
+落ちやすいらしいよ
+お兄さんも剣とか持ってるなら
+気を付けたほうがいいかもね","The lightnin' in Hyrule tends to strike
+metal objects...
+
+So mind the steel, sonny!"
+27,talk11,"ゴーゴー薬を使えば
+速く走れるようになるから
+私は敵から逃げる時や
+急いでいる時なんかに よく使うかな～
+レシピもゴーゴートカゲと
+魔物の素材だけで出来るから
+いつも10個はストックしてるよ","Using a hasty elixir increases your run
+speed, so I use it to escape from
+enemies or any time I need to hurry.
+The recipe is just hightail lizard and
+monster parts, so I usually have a
+stock of ten or so on hand."
+28,talk12,"薬は昆虫や魔物の素材から作れるんだよ
+
+体力とかは回復しないけど
+足が速くなったり暑さや寒さをしのげたり
+特殊な効果があるものが多いかな…
+
+私は足が速くなる
+ゴーゴー薬をよく使ってるよ
+ゴーゴートカゲと魔物の素材だけで
+作れるから いつも10個はストックしてるかな～","You can make elixirs by mixing bugs and
+other small creatures with monster parts.
+
+They're no good for refilling your health,
+but they can have a lot of unique
+effects...
+Some elixirs can increase the speed you
+move... Others raise your resistance to
+extreme temperatures.
+I use hasty Elixirs a lot. They let you
+move faster.
+
+You can make them with hightail lizards
+and monster parts. I always make sure to
+have ten or so on hand."
+29,talk13,"薬は昆虫や魔物の素材から作れるんだよ
+
+体力とかは回復しないけど
+足が速くなったり暑さや寒さをしのげたり
+特殊な効果があるものが多いかな
+
+それにしても…薬も知らないで
+よく旅なんかしてるね…
+…私には絶対無理だなぁ","You can make elixirs by mixing bugs and
+other small creatures with monster parts.
+
+Most of them are no good for refilling
+your health, but they can have a lot of
+unique effects...
+Some elixirs can increase your speed.
+Others raise your resistance to extreme
+temperatures.
+I'm actually impressed that you've made
+it this far without any knowledge of
+elixirs.
+There's no way I could have done that..."
+30,talk14,"……
+
+……
+
+…言っとくけど
+もう薬はあげないからね","...
+
+
+Just so you know, I'm not giving you
+any more elixirs."
+31,talk15,"……
+
+……
+
+…言っとくけど
+私の薬はあげないからね","...
+
+
+Just so you know, I'm not giving you
+any elixirs."

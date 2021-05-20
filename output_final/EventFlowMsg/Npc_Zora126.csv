@@ -1,0 +1,139 @@
+#,Title,JPja,USen
+1,"""0000""",お手紙って？,Letter?
+2,"""0001""",願いの川辺って？,Bank of Wishes?
+3,"""0002""",君は？,Who are you?
+4,"""0003""",さようなら,Good-bye.
+5,near00,もうっ！,Argh!
+6,near01,くぷ～…,Tee hee...
+7,near02,くぷぷっ…,Tee hee hee...
+8,near03,でね！ でね！,And then! And then!
+9,talk00,お母さんなんか知らないっ！,Ugh! I'm so mad at her!
+10,talk01,"願いの川辺に お手紙出しに行きたいのに
+水のバケモノが危ないから ダメだって…","I need to go to the Bank of Wishes to
+send a letter...but Mother won't let me
+go because of that water monster."
+11,talk02,私もう子供じゃないのに…,"She treats me like I'm still a child.
+It's sooo condescending.
+
+It's really terrible to be at that awkward
+Zora age where I'm a young woman
+but I haven't had my growth spurt yet.
+Just my luck to be a late bloomer.
+I'll probably NEVER grow taller.
+Ugh, it's awful to be me sometimes.
+I doubt Hylians have to deal with
+nonsense like this since you age
+so fast. You're so lucky."
+12,talk04,ぷわぁ…,*yawn*
+13,talk05,あなたも さっさと寝たら？,You should go to sleep soon.
+14,talk06,"私はともかく…
+子供はもう寝る時間よ？","Never mind me...but it's past the time
+that kids like you should be in bed."
+15,talk07,わぷぅ…,*gurgle*
+16,talk08,"く～ぷくぷぷぷ…
+くく～ぷくぷくぷ…","Zzz... *gurgle*
+Zzz... *gurgle*"
+17,talk12,"くぷぷっ…晴れましたね！
+
+そろそろ願いの川辺に
+お手紙出しに行けるかも…","Tee hee! It's sunny!
+
+
+Maybe I can go to the Bank of Wishes
+to send my letter soon..."
+18,talk13,"晴れましたね！
+
+と言う事は
+水のバケモノが大人しくなったって事？
+じゃぁ そろそろ願いの川辺に
+お手紙出しに行く準備しなくっちゃ…","It's sunny!
+
+
+Which means that water monster must
+have simmered down, right?
+
+I've got to finish preparing my letter
+so I can go and send it from the
+Bank of Wishes..."
+19,talk14,"あら あなたは…
+その節は ありがとうございました！","Oh... You... Thanks for your help the
+other day!"
+20,talk15,くぷぷっ…ササノ君,Tee hee... Sasan...
+21,talk16,くぷぷっ…カレシ カレシ,Tee hee... I have a boooyfrieeeend...
+22,talk17,今 ササノ君と重要なお話してるんです,"I'm discussing important things with
+Sasan right now."
+23,talk18,"好きな食べ物は何ですか？
+とかね！","Like his favorite foods! Important things
+like that!"
+24,talk19,"兄弟は何人いるんですか？
+とかね！","Like how many brothers and sisters
+he has. Important things like that!"
+25,talk20,"ササノ君！たくさん泳いで
+筋肉モリモリになってね♪","♪Sasan! Swim a bunch so you can build
+up your muscles, OK?♪"
+26,talk21,"よ よし！
+キミのために泳ぎまくってみるよ","OK, darling! For you, I'll swim as fast
+as I can!"
+27,talk23,"今 お手紙のお相手の
+ササノ君を待ってるんです
+ハイリア人は こういうお相手の事を
+カレシって言うんですって！","Right now I'm waiting for my pen pal,
+Sasan.
+
+I hear Hylian girls call their special
+someone...their boyfriend! Tee hee!
+I like it!"
+28,talk24,ササノ君が来たら アナタも挨拶してね？,"When Sasan gets here, be sure to
+say hello, OK?"
+29,talk25,"私のカレシ…
+かっこ良すぎて ビックリしちゃいますよ？","My boyfriend... He's so gorgeous
+and great—you won't believe it!"
+30,talk26,くぷぷ…！,Tee hee!
+31,talk27,くぷっ♪,♪Tee hee!♪
+32,talk28,私より先に死んじゃイヤよ？,You'd better not die before I do!
+33,talk29,ゾーラは寿命が長いからなぁ…,"Well, I suppose Zora live a really, really
+long time, don't you? We'll work it out!"
+34,talk30,"このボトルにお手紙を入れてゾーラ川に流すと
+必ずお返事が返って来るんです！
+お返事くれる人って どんな人かな…
+会ってみたいな…","Whenever I put a letter in a bottle and
+send it down Zora River, I always get
+a reply, without fail!
+I wonder what he's like...the one responding to
+my letters... I want to meet him so badly!"
+35,talk31,"願いの川辺なら
+ゾーラ川の途中にありますよ
+願いの川辺からお手紙を流して
+返事が来れば幸せになれる…
+そんな言い伝えがあるんです","The Bank of Wishes is halfway down
+Zora River.
+
+If you send a letter down the river from
+the Bank of Wishes and get a reply...
+that person will be yours forever!
+That's how the legend goes, anyway."
+36,talk32,"私はフィネ
+フィネと言います
+他の女の子たちはみんな
+シド王子に首ったけみたいですけど
+私には私だけの
+みんなには みんなの王子様が居ると思うんです","I'm Finley.
+
+
+All the other girls are head over flippers
+for Prince Sidon...
+
+But not me. I believe everyone has their
+own special prince out there, just waiting
+for them!"
+37,talk33,他に何かありますか…？,Do you need anything else?
+38,talk34,はいそれでは…,"Oh, OK. Good-bye, then..."
+39,talk35,"私文通してる人が居るんです
+
+お手紙をボトルに入れてゾーラ川に流すと
+必ず返事が帰って来るので それが楽しくて…","I have a pen pal!
+
+
+When I put a letter in a bottle and send it
+down Zora River, I always get a reply,
+without fail. It's so fun and mysterious!"

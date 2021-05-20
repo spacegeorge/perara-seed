@@ -1,0 +1,224 @@
+#,Title,JPja,USen
+1,"""0000""",ありがとう,Thank you.
+2,"""0001""",じゃあね,See you around.
+3,"""0002""",ゾラ？,Zora?
+4,"""0003""",その通り！,It's true.
+5,"""0004""",別人です,You're wrong.
+6,"""0005""",眠ってた,I was sleeping.
+7,"""0006""",えーっと…,Umm...
+8,"""0007""",ドレファン王って？,King Dorephan?
+9,"""0008""",あなたは？,Who are you?
+10,"""0009""",ミファーって？,Mipha?
+11,near00,…,...
+12,near02,ここも大丈夫ゾラ,Everything is fine here.
+13,near03,ここもオッケーゾラ,All is as it should be.
+14,near04,問題無しゾラ,No problems here.
+15,near05,異常無しゾラ,Nothing to report.
+16,near06,みんな大丈夫ゾラ,"All clear, sir."
+17,talk00,"旅のお方質問があるゾラ
+ちびっ子スババ団の合言葉を答えるゾラ！
+白い雲！澄み渡る青…","I must ask something of you, traveler.
+If you know it, speak it now. What is
+the Big Bad Bazz Brigade password?
+Fluffy white clouds!
+Clear blue..."
+18,talk01,間違いない！本物のリンク様ゾラ！,"Yes! There is no mistaking it! You are,
+indeed, the real Master Link!"
+19,talk02,"やはり！この合言葉は
+ちびっ子スババ団しか知らないはずゾラ！","I knew it! The only people who know
+that password are members of the
+Big Bad Bazz Brigade!"
+20,talk03,"いやこの合言葉は
+ちびっ子スババ団しか知らないはずゾラ！","Nope! The only people who know
+that password are members of the
+Big Bad Bazz Brigade!"
+21,talk04,"それにしても変わらないゾラねぇ…
+この100年間 どうしてたゾラ？","That said, you haven't changed at all...
+But what have you been doing for the
+last 100 years?"
+22,talk05,そんなに眠れる訳無いゾラ…,"As though you could sleep for that long.
+Hmph."
+23,talk06,"訳有りゾラ？
+まぁ この100年 いろいろあったゾラね…","Special circumstances, I take it?
+Well, I suppose a lot has happened
+in the last 100 years."
+24,talk07,"ともかくリンク様…今ゾーラの里は
+ハイリア人を必要としているゾラ
+今すぐ上のドレファン王に会って欲しいゾラ","Anyway... I am glad to see you here,
+Master Link. Zora's Domain is in dire
+need of a brave Hylian like yourself.
+I would ask that you meet with
+King Dorephan upstairs.
+Right away, please."
+25,talk08,どうされたゾラ リンク様？,"What's the matter, Master Link?"
+26,talk09,では！,Farewell then!
+27,talk10,"ドレファン王なら この上に…
+
+流石に覚えてるゾラ？
+ミファー様の父君ゾラよ！","King Dorephan is upstairs.
+
+
+You surely remember him, yes?
+He is Lady Mipha's father!"
+28,talk11,"スババだゾラよ
+
+100年前にはリンク様に
+よく剣の稽古つけてもらっていたゾラよ？","Me? I am Bazz.
+
+
+A hundred years ago, you frequently
+trained me in the art of the blade.
+Remember?"
+29,talk12,"しかしかつての鬼軍曹も
+今じゃあの通りゾラ…
+なんでも ミファー様のために
+電気の矢を触る練習だとか
+しかし水に生きるゾーラ族には電気はご法度…
+限界があると思うゾラ","However, the Demon Sergeant...
+Sorry, the FORMER Demon Sergeant...
+Well, he is as he ever was.
+He is, even now, training to extremes by
+poking shock arrows to up his tolerance.
+He does so for Lady Mipha's sake.
+Electricity is banned for all Zora, and for
+good reason. Although he is adamant,
+I am sure even he has his limits."
+30,talk13,"リンク様…
+まさかミファー様の事を お忘れで？
+ミファー様は里の者が皆憧れる
+ゾーラ族の姫君
+そして…覚えてないゾラか？
+ミファー様は リンク様の事を…
+…
+
+詳しくはドレファン王に聞いてもらうのが
+一番かと思うゾラ","Master Link... Do not tell me you have
+forgotten Lady Mipha...
+
+Lady Mipha was admired by everyone
+in the domain. She was the beloved
+princess of the Zora.
+But then... Do you really not remember?
+Lady Mipha was...
+
+...
+
+
+Actually, I think it would be best if you
+heard this from King Dorephan."
+31,talk14,"しかし このお方が シド王子が連れてきたハイリア人なら
+話が出来過ぎている…
+まさかとは思うが一応確認するゾラ","However, if this person is the Hylian that Prince
+Sidon brought, this all sounds too good to be true.
+
+I don't think it's possible, but I'd better ask just to
+be sure..."
+32,talk15,"いやしかし ハイリア人は100年も生きないゾラ
+念のために確認ゾラ…","No, but Hylians don't live more than 100 years...
+I'd better ask, just to be sure..."
+33,talk16,"そうそうお陰様で私の父…
+鬼軍曹セゴンも健在ゾラ","Oh! And thanks to you, my father...
+the Demon Sergeant Seggin...
+is also in good health."
+34,talk17,やはりこの場所が一番落ち着くゾラ…,This really is the most relaxing place...
+35,talk18,"里内を巡回中ゾラ
+怪しい奴が居ないか…","I am patrolling the domain. I must stay
+on the lookout for suspicious activity!"
+36,talk19,"あの祠…昔から ずっとあるゾラ
+一体誰が作ったゾラ？","That shrine...it has been there forever.
+I wonder who in the world made it..."
+37,talk20,"ここから広場を見下ろして
+怪しい奴が来てないか確認してるゾラ","I am watching the plaza from up here...
+I must make sure that no one suspicious
+is allowed through."
+38,talk21,"あのデカい建造物が見えるゾラ？
+
+あそこにドレファン王は おられるゾラ","Do you see that huge structure there?
+That is where King Dorephan is."
+39,talk22,"寝所では皆無防備ゾラ…
+私がちゃんと見回らないとね","Everyone is defenseless as they rest...
+So it is my duty to patrol the area!"
+40,talk23,"この辺は リトバン親子に任せてあるので
+私が しゃしゃり出るまでもないゾラ","I am leaving the main gate to Rivan and
+his daughter...so I don't have to intrude."
+41,talk24,"この辺も異常は無いゾラ
+いい事ゾラ","Nothing to report over here, either.
+That is good news!"
+42,talk25,リンク様まだ私に用ゾラ？,"Master Link, do you need me
+for something?"
+43,talk26,他にも聞きたい事があるゾラ？,Is there anything else you want to ask?
+44,talk28,さて リンク様私にご用ゾラ？,"Now then, Master Link... What do you
+need from me?"
+45,talk29,"ミファー王女そしてシド王子の父君ゾラ
+
+ミファー王女が厄災ガノンにやられて
+もう100年…
+さぞかし寂しい時を お過ごしの事ゾラ…","He is the father of Princess Mipha and
+Prince Sidon.
+
+Princess Mipha fell to Calamity Ganon...
+100 years ago.
+
+It has certainly been difficult ever since."
+46,talk30,"おかげで メキメキ剣術も上達し
+今やゾーラの里の兵隊長ゾラ
+リンク様恩に着るゾラ","Thanks to that, I made great progress
+with my sword training, and now I am
+captain of the Zora's Domain guard!
+I am in your debt, Master Link."
+47,talk31,"それにしても この青空！
+久しぶりに雨が止んだゾラ
+まぶしい…
+太陽が まぶしすぎるゾラ","Look at this clear sky! The rain has
+stopped for the first time in a long while.
+
+It's clear... Almost too clear!"
+48,talk32,"リンク様！
+
+神獣 ヴァ・ルッタを止めてくれたのは
+100年ぶりに現れた リンク様だったゾラ！","Master Link!
+
+
+Who would have dreamed that the one to
+stop the Divine Beast Vah Ruta...
+
+would be Master Link, who miraculously
+reappeared after 100 years!"
+49,talk33,"なんか いろいろ起こり過ぎて
+もう何がなんゾラやら…","I have been so angry about so much
+for so long... I simply do not know
+what is what anymore."
+50,talk35,"本当は兵隊長の私が行くべきゾラ…
+でも電気の矢だけは どうにもならないゾラ","As captain of the guard, that should've
+been my responsibility. But shock arrows
+are the one thing I just can't handle."
+51,talk36,リンク様 ありがとうゾラ！,Master Link! Thank you!
+52,talk37,"親父もいい年して ミファー様の仇！
+とか…ホントやめて欲しいゾラ","Father is old enough to know better
+than to seek revenge for Lady Mipha!
+I...I really wish I could stop him."
+53,talk38,"ルッタが鎮座したといえども油断は禁物…
+
+以前と同じく里の防衛に務める所存ゾラ","Even though Ruta has been appeased,
+I must not let my guard down...
+
+I must continue to serve and defend
+this domain as I always have!"
+54,talk39,"これはこれは よくぞ参られたゾラ
+
+ゾーラの里は今まさに
+あなたのようなハイリア人を探しており…
+とにかくまずは この上におわします…
+
+…ん?
+
+このハイリア人…
+昔 どこかで見たような気がするゾラ…","Hello, and welcome!
+
+
+Zora's Domain is currently searching
+for a Hylian like you.
+
+That said, this Hylian... I get the feeling I've
+seen him before... Perhaps a long time ago..."
+55,talk40,思い出したゾラ… このお方は…,Now I remember! This person is...

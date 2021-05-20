@@ -1,0 +1,189 @@
+#,Title,JPja,USen
+1,"""0000""",やっていく！,I'll try it!
+2,"""0001""",なにをするの？,How does it work?
+3,"""0002""",興味ない！,Not interested.
+4,"""0003""",もう一回説明を！,Explain again?
+5,"""0004""",やらない,I've lost interest.
+6,"""0005""",いいよ！,OK!
+7,"""0006""",やめておく！,I'll pass.
+8,"""0007""",もうやめる！,I have to split.
+9,"""0008""",なんでもない,It's nothing.
+10,"""0009""",やめます！,I quit!
+11,"""0010""",続ける,I'll keep at it.
+12,"""0011""",雪玉があっちに…,Oops. My mistake.
+13,"""0012""",やる！,I'll do it!
+14,Initial,"よぉ若いの！
+こんな山奥にまで どうしただか？
+まあ誰でも大歓迎するだ！
+せっかくだし… オラが考えた遊び
+雪玉ボウル""やっていかないか？","Hail, kiddums! Nice to meet a fresh face
+in these parts. It's not every day I get
+company this high in the hills.
+Can't give you a warm welcome...buuuut
+how about a game I made up: Snowball
+Bowling! Or as I call it, Snowling!"
+15,Initial_00,"若いの！""雪玉ボウル やりたくなっただか？
+いつでも歓迎だ！","Hallooooo, kiddums! If you wanted to try
+a round of Snowball Bowling, then you're
+in luck, because this is the place!"
+16,about_snowbowl_03,それじゃ気を取り直して頑張るだ！！,Ooookaaaaay! Here we snooooow!
+17,about_snowbowl_04,それじゃ頑張るだ！！,"Well, good luck!"
+18,area_out_00,"おいおい！ちょいと待つだ！！
+ゲーム中に どこに行くだ？","Are you flaking out?! You haven't
+finished your round of SNOW BOWLING!"
+19,area_out_01,"あらら…そいつはすまねぇだ！
+ちょいと待ってて欲しいだ！！",Oh... Whoopsie-doodle! Hold on a tick!
+20,area_out_02,"悪かったな若いの！
+坂道だから こればっかりは勘弁して欲しいだ！","Sorry about that, kiddums! 'Til I learn to
+control the weather, there's not much I
+can do about these icy slopes."
+21,area_out_03,とりあえずここまで戻ってくるだ！,"Skate just a minute there! I bet you'll
+score more points if you come back over
+this way."
+22,area_out_04,"まったく…危なっかしいだなぁ！
+雪玉ボウルは紳士の遊び ルールは守るだよ？","Snowly moly... What's gotten into you?
+Snowball Bowling is a civilized game.
+There are rules!"
+23,ask_again,"ピンが一気に倒れる瞬間が
+たまらなく気持ちいいだ！ やってみるだか？","There's no cooler feeling than smashing
+all the pins at once! But see for yourself!
+Go on, have a ball!"
+24,ask_payment,"うれしいねぇ！ でも タダじゃないだよ！
+参加料に20ルピー貰うが いいだか？","Ah, the sweet music of \""yes\""! There's a
+catch, though. One game costs a cool
+20 rupees to play. Still up for a round?"
+25,break_00,ん？どうしただ？,"Hrm? Something on your mind, kiddums?"
+26,break_01,"やめるって… もう疲れただか？
+見かけによらず体力ねぇんだな！","Snowly moly! You're tired already?!
+I didn't have you pinned as the quitting
+type!"
+27,break_02,"途中でやめたいなら やめてもいいだが
+参加料は返さねぇだぞ？","If your throwing arm is frozen solid,
+suit yourself, but I'm keeping the fee.
+Think of it as learning the hard way!"
+28,end,"そうだか…
+やりたくなったら声をかけるだよ","Ooooookaaaaay. Ice of you to stop by!
+If you're in the mood, I'll always be
+happy to line 'em up for you!"
+29,explanation_00,"おっ興味をもってくれて ありがたいだ！
+じゃあ ルールを説明するだぁよ
+まず！
+坂の下に 10本のピンと呼ぶ柱が並んでいるだよ","What a sweet boy to show an interest!
+If you don't know the rules, I can
+explain them in a flurry.At the foot of the hill, we have 10, count
+'em, 10 pillars or \""pins.\"""
+30,explanation_01,"そこへ この坂の上から雪玉を転がして
+できるだけ多く倒すだぁよ！","Give that snowball a good, hearty toss
+from the tippy-top of the hill to try and
+knock over all the pins you can!"
+31,explanation_02,"雪玉は転がりながらどんどんでっかくなって
+坂の下では巨大雪玉が ピンを弾き飛ばすだ！","The ball might take a few detours on its
+ride down the hill, but any pins it hits
+when it reaches bottom are done for!"
+32,game_start,"それじゃあこの雪玉さ使っていいから
+頑張って ピンを倒すだよ！
+この遊び雪玉は2回まで転がせるだ！","This is the snowball you'll use. It might
+not look like much, but it's snow joke.
+You get two rolls. Knock 'em flat!"
+33,game_start_00,"どうも ありがとうだ！！
+だば準備するから ちょっと待つだよ…","Aha! Play bells are ringing! I gotta set up
+the pins, but I'll be back in a flurry."
+34,game_start_01,"もし1回で ピンを全部倒せたらストライク！
+という プロ級のプレイだ！
+んで2回目で ピンを全部倒せたらスペア！
+という まあまあなプレイだ！","If you can knock over all 10 pins in one
+roll, that's a strike. Only the most
+snowtorious bowlers can pull that off!
+A spare is when it takes both tries to
+finish the job. Not as good as a strike,
+but nothing to sneeze at!"
+35,prize_00,"ピンをよく見て玉がどう転がるか予測する！
+この基本をよーく覚えておく事だ！","You gotta look at your pins and see the
+ball hitting 'em in your mind. That's the
+key to it all!"
+36,prize_01,"本とは残念な結果だっただな
+これに懲りずまた遊びに来てほしいだよ！","Only ... That's gotta sting. My advice?
+Stay frosty and play again!"
+37,prize_02,"本だか…
+まあまあだな
+賞品として これを渡すから
+もう1回遊んでいくだよ！","How many pins? Eh, ? That's decent.
+Tell you what, I'll give you a sampler
+prize to get you shivering for more!"
+38,prize_03,"いや～っ""惜しかっただな！
+これは賞品だ受け取るだよ！","Ooooh, snow close! A throw like that
+deserves some kinda prize. Here ya go!"
+39,prize_04,"若いの！すげぇだな！
+特別な道具を分けてやるだよ！","Well, bowl me over, kiddums! A snowing
+like that deserves an ice prize. How's
+about this snowball-making doohickey?"
+40,prize_05,コイツは冷気を発射する力があるとか…,I hear this'll freeze things but good.
+41,prize_06,オラは戦いが怖くて使った事が無いだ…！,"I'm too chill to fight, so I've never
+seen it in action with my own two
+peepers."
+42,prize_07,"と思っただが…""荷物がいっぱいみたいだな？
+代わりに これを受け取るだ！","Leastways, I'd offer it to you if you
+weren't snowverloaded with stuff. Will
+this do instead?"
+43,prize_08,"全部倒すたぁ すげぇもんだ！
+これ""受け取るだよ！","You knocked 'em all down flat! That
+was no mean sleet, kiddums. I got you
+a special prize for pulling that one off!"
+44,prize_09,"若いの！すげぇだな！
+これは賞品だ受け取るだよ！","Well, whaddaya know, kiddums! Just for
+that, you get a prize."
+45,refuse,"ひー ふー みーあれれ…
+ルピーが足りないだよ？","Is this all of the rupees you have?
+There's snow way this is enough!"
+46,restart,さてもう1回遊んでいくだか？,"Soooooooo... What do you think about
+giving it one more whirl?"
+47,restart_end,"そっかぁ…まあ オラはいつもここにいるだ！
+気が向いたら また遊びに来るだよ！","No problem. I love the pins too much to
+ever leave! You bet your snowball I'll be
+here when you're ready for more."
+48,result_00,"一投目と合わせて本だか…
+若いの！遊び方は理解できてるだか…？","With both throws together, you got....
+Not as easy as it looks, eh, kiddums?"
+49,result_01,"一投目と合わせて本だか…
+まだまだ狙いが甘ぇだな！","Your total is...how many pins? Just ?
+I know you can do better than that!
+Keep your eye on the snowball!"
+50,result_02,"一投目と合わせて本だか！
+若いの！ そこそこやるだんね！","Your total is...how many pins? 
+Wow, ?! Ice work, kiddums!"
+51,result_03,"一投目と合わせて本…！
+くぅ～っ！惜しかっただな！！","Your total is...how many pins? ?! 
+Snow close...and yet snow far."
+52,result_04,"一投目と合わせて本！！
+スペアってヤツだ！ 
+素晴らしい記録だ！！","Your total is...how many pins? ?! 
+That was your second throw, so it counts
+as a spare! Snow 'em how it's done!"
+53,result_05,"おいおい本だか…
+若いの！遊び方は理解できてるだか…？
+二投目はもうちょっと頑張るだよ！","You got...how many pins? Er, ?
+Not as easy as it looks, eh, kiddums?
+But hey, one throw left! Make it count!"
+54,result_06,"記録は本だか…
+まだまだ狙いが甘ぇだな！
+二投目はもうちょっと頑張るだよ！","You knocked over...how many pins? ?!
+I know you can do better than that!
+You got one throw left! Make it count!"
+55,result_07,"記録は本だか！
+若いの！ そこそこやるだね！
+うまくいけば二投目でスペアを狙えるだよ？！","You knocked over...how many pins? 
+Oh, ?! Ice work, kiddums! Fingers 
+crossed for a spare on the second throw!"
+56,result_08,"記録は本…！
+くぅ～っ！惜しかっただな！！
+よーし二投目で決めてみせるだ！！","You got...how many pins? ?!
+Snow close...and yet snow far...
+
+One throw left, though! Put your back
+into it this time!"
+57,result_09,"おおおっと！記録は本！！
+ストライクってヤツだ！輝かしい記録だ！！","WHOA! All  pins! That there's a strike!
+Snow 'em how it's done, kiddums!"
+58,result_10,落ち着いて二投目いってみるだ！,"Take a deep breath, and go for broke on
+your second throw!"
+59,result_11,倒れたのは本！,You knocked over how many pins? ?!

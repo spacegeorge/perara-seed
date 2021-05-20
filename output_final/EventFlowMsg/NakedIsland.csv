@@ -1,0 +1,42 @@
+#,Title,JPja,USen
+1,"""0000""",あきらめる,I give up.
+2,"""0001""",続ける,Never!
+3,talk00,"島を訪れし者よ
+そなたに試練を与えよう
+今 そなたは多くの道具に頼り
+それを自分の力と過信している
+今一度武器防具を捨て いちから積み重ねる
+この試練にのぞむのだ","To you who has traveled to this island...
+
+
+I present you with a challenge. In your
+travels, you've relied on the equipment
+you've found along the way.
+Here, you must cast this equipment
+aside and face this trial with only your
+wits and whatever you can scavenge."
+4,talk01,"よくぞ試練を克服した
+約束通り あずかった道具は返そう","You've done well to complete the trial.
+I will now return your things, as
+I promised."
+5,talk02,試練への挑戦を一旦 あきらめますか？,Give up on the challenge?
+6,talk03,"試練への挑戦を
+あきらめるのか
+ならば あずかった道具は返そう
+また島を訪れるがよい","That's it, then?
+
+
+Very well. I shall return your equipment
+to you. Visit the island again should you
+wish to prove yourself."
+7,talk04,"どこへ行く試練への挑戦を続けるのであれば
+島に戻ってくるがよい","Where are you going? If you intend to
+overcome my challenge, you should
+return to the island."
+8,talk05,"島にある3つの祭壇に
+宝珠を捧げよ
+さすれば試練を克服したと認め
+すべての道具を返そう","Offer up the orbs to the three altars on
+this island. Only then will I acknowledge
+your skill and return your items."
+9,talk06,さあ祠の中に進むがよい,"Come, enter the shrine."

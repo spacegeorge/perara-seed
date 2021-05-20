@@ -1,0 +1,104 @@
+#,Title,JPja,USen
+1,"""0000""",まかせて,Consider it done.
+2,"""0001""",自分でやれば？,Why don't you do it?
+3,"""0002""",もう倒したよ,I've already done it.
+4,Near00,ねるさ～,I'm going to sleep.
+5,Near01,むにゃむにゃ,Mmmm nuuuhhh...
+6,Near02,ふう…,Phew...
+7,Near03,降ってきたか,More rain...
+8,talk00,"アンタ旅の人かいさ？
+ワシは この村で漁師をしとるもんなんじゃが
+最近近くの漁場を
+魔物に占拠されて困っとるのさ
+アライソ海岸
+あそこは良い漁場だったってのに…","You a traveler?
+I'm a fisherman of this village, but we're
+in a bit of a bind lately.
+Monsters have taken over the best
+fishing spots.
+
+You used to be able to pull in a good
+haul at Aris Beach, but these days you'd
+be lucky to leave there with your life."
+9,talk01,"アンタ… どうじゃ？
+
+アライソ海岸を占拠する魔物
+やつらを退治してくれんかいさ？","So how about it?
+
+
+You going to deal with the monsters 
+that took over Aris Beach?"
+10,talk02,"頼んだぜ場所はアライソ海岸だ！
+ワシらの漁場を取り戻すんじゃ！","What are you waiting for?
+The monsters are at Aris Beach.
+Take back my fishing spot!"
+11,talk03,"おお アンタ
+アライソ海岸の魔物""退治してくれたんかいさ
+これでまた あそこで漁ができる
+アライソの魚は本当にうまいんじゃ
+ありがとうさ～
+これは せめてもの礼じゃ","Heyyyyy! You took care of the monsters
+at Aris Beach! It's been too long since
+I've had a fish from those waters!
+Thanks, mate. I suppose I should give
+you this to show my appreciation."
+12,talk04,"また いつでも立ち寄ってくれ！
+うまい魚 ご馳走するさ～","Come back whenever you'd like!
+I'll share the day's haul with you."
+13,talk05,むにゃむにゃ,Mmmgh myah...
+14,talk06,"ワシら もう寝るんじゃ
+また明日にしてくれんかいさ","Well, we're going to bed.
+Come back tomorrow."
+15,talk07,"それでこそ男じゃ
+
+場所はアライソ海岸
+魔物たちは拠点を作って占拠しておる
+あとは任せたぞ！","Good stuff.
+
+
+Remember, it's called Aris Beach. The
+monsters have set up shop there.
+
+Stay sharp."
+16,talk08,"ワシには守らなきゃならん家族がおるのさ
+無理はできんのじゃ
+本当だったら自慢の銛で
+倒してやりたいんじゃが…","Believe me, I'd love to...but I have a
+family to look after. I can't be risking my
+life.
+If I had it my way, I'd be out there
+skewering those monsters with this
+harpoon."
+17,talk09,"頼んだぜ場所はアライソ海岸だ！
+
+こんな雨の日には
+きっと魔物たちも油断してるわいさ","What are you waiting for?
+Go take back Aris Beach!
+
+Maybe the monsters will have their
+guard down in this rain.
+"
+18,talk10,"アンタ見たところ強そうじゃし
+やつらを退治してくれんかいさ？","You look pretty tough.
+Think you could go take care of them?"
+19,talk11,"なんと！ アンタ
+アライソ海岸の魔物""退治してくれたんかいさ
+これでまた あそこで漁ができる
+アライソの魚は本当にうまいんじゃ
+ありがとうさ～
+これは せめてもの礼じゃ","I can't believe it! You took care of the
+monsters at Aris Beach! It's been so long
+since I've had a fish from those waters!
+Thanks, mate. I suppose I should give
+you this to show my appreciation."
+20,talk12,"アンタ… どうじゃ？
+
+アライソ海岸に巣食った魔物
+やつらを退治してくれんかいさ？","So... How about it?
+
+
+You going to deal with the monsters
+that took over Aris Beach?"
+21,talk13,"アンタ見たところ強そうじゃし
+やつらを退治してくれんかいさ？","You look pretty tough.
+Think you could go take care of them?"

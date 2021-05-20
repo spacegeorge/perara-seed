@@ -1,0 +1,49 @@
+#,Title,JPja,USen
+1,QL_TreasureHunt_touzoku03_Desc,"ハイラル王家秘蔵の歴史的価値の高い衣装が
+ラムダという盗賊に奪われていた
+そのうちの１つは妖精の緑衣 と呼ばれている
+
+その隠し場所を記した手記が
+ハイラル宿場町跡地のどこかにあるらしい","The royal family of Hyrule collected historically
+significant outfits, but they were stolen by a
+bandit named Misko. Among the items stolen
+were a fairy's green garments.
+
+There's a journal that places the locations of
+the treasure somewhere in theOutpost Ruins..."
+2,QL_TreasureHunt_touzoku03_Finish,"『妖精に憧れし男の緑衣は
+ハイラル平原の古跡に隠す
+1つは交易の栄えし所の跡
+1つは罪人の捕らえられし獄の跡
+1つは牧場に隣り合う人の集いし町の跡』
+
+「交易所跡」「監獄跡」「メーベの町跡」で
+見つけた宝箱の中からチンクル装備を手に入れた！","\""The green garments of the man who wished to
+be a fairy are hidden in the ruins of Hyrule Field.
+Find these pieces at the ruins where trade
+flourished...at the ruins where sinners were
+imprisoned...and at the village ruins next to
+farmland where many people once gathered.\""
+
+You found the treasure that was hidden
+at Exchange Ruins, Castle Town Prison,
+and Mabe Village Ruins. You obtained
+Tingle's Outfit!"
+3,QL_TreasureHunt_touzoku03_Name,Ｅｘ ラムダの秘宝 妖精の緑衣,EX Treasure: Fairy Clothes
+4,QL_TreasureHunt_touzoku03_Step01,"『妖精に憧れし男の緑衣は
+ハイラル平原の古跡に隠す
+1つは交易の栄えし所の跡
+1つは罪人の捕らえられし獄の跡
+1つは牧場に隣り合う人の集いし町の跡』
+ラムダの手記Exに妖精の緑衣を
+隠した場所が記されていた
+まだ見つけていない衣装は残り個だ","\""The green garments of the man who wished to
+be a fairy are hiddenin the ruins of Hyrule Field.
+Find these piecesat the ruins where trade
+flourished...at the ruins where sinners were
+imprisoned...andat the village ruins next to
+farmland where many people once gathered.\""
+
+Misko's EX Journal gives the location
+of the fairy's green garments.
+Garments still hidden:"

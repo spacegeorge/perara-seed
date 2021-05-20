@@ -1,0 +1,223 @@
+#,Title,JPja,USen
+1,Atacked00,はぁ… はぁ…ぜぇ…ぜぇ…,"*huff...* *puff...* *gasp...* 
+Phew..."
+2,Atacked01,狙ってやがんなあのヤロー…,"That sucker's got his sights set on me...
+And my dance card is wide open!"
+3,Failed00,危うく やられるところだったよ…,"If that had been any closer, I would have
+been done in for sure."
+4,Failed01,"あいててて…
+旅には危険がつきものだね～","Yee-owch!
+I guess danger and traveling go hand
+in hand, huh?"
+5,Guardian00,わー！ガーディアンだー！逃げろー！,"Egads, it's a Guardian! Run for your life!"
+6,MSG_Akka_00,"アッカレ地方にある力の泉""知ってるか？
+
+オレは…
+
+よく知らないんだ
+
+浸かると謎の力で跳ね返されちゃうのかなぁ
+それとも力がみなぎって元気になるのかな？","You ever heard of the Spring of Power
+in the Akkala region? I've only heard
+rumors about it myself.
+I wonder if what they say is true... That a
+mystical force repels anyone who tries to
+take a dip. Or maybe it strengthens you?"
+7,MSG_Akka_00_1,"アッカレ地方にある力の泉って
+浸かると何がどうなるのかな","What would happen if I took a dip in
+the Spring of Power in the Akkala
+region? Only one way to find out!"
+8,MSG_Akka_01,"アッカレ地方の古代兵装・矢…知ってるか？
+
+オレは…
+
+ちょっとだけ知ってる
+
+あのガーディアンを
+なんと一発で倒せる凄い武器らしい","Have you heard about ancient arrows
+from the Akkala region? I happen to
+have the latest gossip on them.
+It's said they're so powerful they can
+take down a Guardian with a single shot."
+9,MSG_Akka_01_1,"アッカレ地方の古代兵装・矢ならば
+あのガーディアンを一発で倒せるらしい","They say ancient arrows from the Akkala
+region are so powerful they can take
+down a Guardian with a single shot."
+10,MSG_Akka_02,"アッカレ地方の迷路みたいな城跡知ってるか？
+
+オレは…
+
+初耳だったんだけどね
+
+一度入ったら出るのが相当大変なんだろうな
+何となく そんな気がする","Have you heard the stories of those
+labyrinthine ruins in the Akkala region?
+I just recently learned about them myself.
+You won't catch me wandering into them.
+I have trouble enough finding my way
+out of bed in the morning."
+11,MSG_Akka_02_1,"アッカレ地方の迷路みたいな城跡って
+なんだか入ったら出るのが大変そう","You won't find me wandering into the
+Akkala region's labyrinthine ruins. Lousy
+sense of direction... I'd be lost for days."
+12,MSG_Akka_03,"アッカレ地方にいるチェリーちゃんって女性…
+
+オレは…
+
+まったく知らないんだよね
+
+何も知らないから話すことないんだよね","I heard there's a girl named Cherry in
+the Akkala region. They say she's a
+great chef!
+That's all I know about her, though, so
+I can't give you any more info."
+13,MSG_Akka_03_1,"アッカレ地方にいるチェリーちゃんって女性…
+何も知らないけど なんだか気になるな","I don't know much about this girl named
+Cherry in the Akkala region except that
+she's supposed to be a great chef."
+14,MSG_Akka_04,"アッカレ古代研究所について何か知ってる？
+
+オレは…
+
+ひとつだけ知ってる
+
+それはアッカレ古代研究所の所長が
+ハテノ古代研究所の所長の部下だってこと
+さすがにハテノ村くんだりまで
+行ったことはないけどね","Have you heard about the
+Akkala Ancient Tech Lab? I
+only know one thing about it...
+The Akkala Ancient Tech Lab's
+director reports to the director
+of the Hateno Ancient Tech Lab.
+That said, I've never actually been
+to Hateno Village myself."
+15,MSG_Akka_04_1,"アッカレ古代研究所の所長は
+ハテノ古代研究所の所長の部下なんだよね","The Akkala Ancient Tech Lab's
+director reports to the director
+of the Hateno Ancient Tech Lab."
+16,Near00,ドクロ池って…,Skull Lake... Where is it?
+17,Near01,力の泉って…,The Spring of Power...
+18,Near02,古代兵装・矢って…,Ancient arrows... Hmm...
+19,Near03,マモノショップって…,The Fang and Bone...
+20,Near04,ひどい天気だ…,What horrible weather.
+21,Rest_00,"ドクロの形のドクロ池""どこにあるか知ってる？
+
+オレは…
+
+地図持ってないから知らない
+
+地図さえあれば わかるんだろうね","You don't know where I can find
+Skull Lake, do you? It's shaped like a
+skull, so it should be easy to find, but...
+Well, I lost my map, so I have no idea
+where to look. Otherwise I could spot
+it, no problem."
+22,Rest_01,"オレの馬は天候に敏感でね
+こんな日は あまり走ってくれないんだよ","Ugh, this stubborn horse just shuts down
+in this weather. He won't move an inch
+on a day like today!"
+23,Rest_02,"天気が崩れて馬がご機嫌斜めだよ…
+早く晴れてくれよ…","My horse is in a bad mood because the
+weather took a turn for the worse. I hope
+it clears up soon."
+24,RetMSG_Akka_00,"アッカレ地方のマモノショップ知ってる？
+
+オレは…
+
+そこそこ知ってるよ
+
+夜中しかやってない店で
+場所はドクロ池らしいんだけど…
+オレは地図持ってないから
+ドクロ池がどこなのか説明してあげられないよ","Have you heard about the Fang and Bone
+in the Akkala region? I got the scoop if
+you wanna hear it.
+They say it only opens at nighttime. It's
+supposed to be located at Skull Lake,
+but I have no idea where that is.
+Long story short...
+Well, I've misplaced my map."
+25,RetMSG_Akka_00_1,"マモノショップは夜中しかやってない店で
+詳しくはわからないけど場所はドクロ池らしい","The Fang and Bone only opens up at
+nighttime. Apparently it's at Skull Lake,
+but I don't know where that is."
+26,RetMSG_Akka_01,"アッカレ地方のノボタンって女性知ってる？
+
+オレは…
+
+もちろん知ってるよ
+
+だって力の泉の話は彼女から聞いたんだ","Have you met a woman in the Akkala
+region by the name of Nobo? I happen
+to know her, so I can give you the skinny.
+She's the one who told me the rumors
+about the Spring of Power."
+27,RetMSG_Akka_01_1,"アッカレ地方の ノボタンって女性が
+ちょっと気になってるんだ","I must admit, this woman I met in the
+Akkala region has me curious. Her name
+is Nobo, and she had some good info."
+28,RetMSG_Akka_02,"アッカレ地方の全人口知ってる？
+
+オレは…
+
+知らない
+
+ほんと知らないんだってば！","Say, I bet you can't guess the total
+population of the Akkala region.
+
+I have no idea myself. I couldn't even
+begin to fathom a guess."
+29,RetMSG_Akka_02_1,"アッカレ地方の全人口知ってる？
+オレは知らない","Do you know the total population of the
+Akkala region? Because I sure don't."
+30,RetMSG_Akka_03,"アッカレ地方のさすらいの料理人…知ってる？
+
+オレは…
+
+知らない
+
+さすらいの料理人…
+キミが知ってたら逆に教えてほしいくらい","Hey, do you know anything about this
+wandering chef in the Akkala region?
+
+I don't know a single thing about him, so
+if you have any info on the guy, I'd love
+to hear it."
+31,RetMSG_Akka_03_1,"アッカレ地方の さすらいの料理人って
+ちょっと気になるな","I know a lot of things about a lot of
+things, but this wandering chef from the
+Akkala region is a total mystery to me."
+32,RetMSG_Akka_04,"アッカレ地方の独特なジャンケン知ってる？
+
+オレは…
+
+知らない
+
+知らないし そんなのたぶんない！","Have you heard about the special version
+of rock, paper, scissors that's played in
+the Akkala region?
+I don't know how to play it, but I don't
+really care. The information is probably
+bogus, anyway!
+I mean, the original version is just
+so perfect..."
+33,RetMSG_Akka_04_1,"アッカレ地方の独特なジャンケンって
+ありそうだけど たぶんないんだよな","I heard there's a special version of rock,
+paper, scissors played in the Akkala
+region, but it's probably just a rumor."
+34,SavedLv1_00,"いやー""助かったよ！",Phew... You really saved my skin!
+35,SavedLv1_01,"助かったよ！
+ありがとう！","Oh, I'm saved!
+Thank you!"
+36,SavedLv2_00,"いやー""命拾いしたなぁ！
+ありがとう！","Oh, man, I barely held on to my life...
+Thanks for your help!"
+37,SavedLv2_01,"何とか生き延びたね！
+ありがとう！","I... I survived?!
+Thank you!"
+38,SavedLv3_00,"魔物には かなわないなあ～
+助けてくれてありがとう！","Phew, I was no match for those
+monsters. Thanks for helping out!"
+39,SavedLv3_01,命拾いしたよ！,I barely made it out with my life!
+40,Thanks00,これは ほんのお礼だ！,This is all I can offer you.

@@ -1,0 +1,16 @@
+#,Title,JPja,USen
+1,"""0000""","厄災に対抗しうる 伝説の退魔の剣
+剣の試練を経たリンクの成長に伴い
+その刀身は 以前よりも輝きを増している","The legendary sword that seals the
+darkness, a blade whose sacred glow can
+combat the Calamity. Link's conquests in the
+Trial of the Sword have amplified its splendor."
+2,"""0001""","厄災に対抗しうる 伝説の退魔の剣
+全ての剣の試練を経たリンクの成長に伴い
+その刀身は 真の輝きを放っている","The legendary sword that seals the
+darkness, a blade that can combat the
+Calamity. Link's triumph over the Trial of
+the Sword has awakened its true splendor."
+3,"""0004""",ポーチをひらく,Inventory
+4,Pa_Gear_00-Pa_Param_06-T_MaxText_00,完全回復,Full recovery
+5,Pa_Gear_01-Pa_Param_06-T_MaxText_00,完全回復,Full recovery

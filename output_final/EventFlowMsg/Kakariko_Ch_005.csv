@@ -1,0 +1,106 @@
+#,Title,JPja,USen
+1,"""0000""",かくれんぼ,Hide-and-seek!
+2,"""0001""",おいかけっこ,Tag!
+3,"""0002""",しない,I can't play right now.
+4,"""0004""",一緒に遊ぶ？,Wanna play?
+5,"""0005""",またね,See ya later.
+6,Near00,かけっこ かけっこ～,"Run, run!"
+7,Near01_kakekko,かけっこ かけっこ～,"Run, run!"
+8,Near01_kakurenbo,プリコ隠れる～,I'ma hide!
+9,Talk00,"姉ちゃま ごはんー
+プリコ おひまー",When's food?! I'm BORED!
+10,Talk01,"いーよー！
+
+プリコ隠れるー
+
+でも夜ゴハンになったら
+姉ちゃまのとこ帰るー","YAAAAY!
+
+
+I'll go hiiiide!
+
+
+But I've gotta go home to Sis
+when it's dinnertime, OK?"
+11,Talk02,"プリコ見つかったー！
+
+でも たのしかったー！！
+
+これ プリコの宝物ー
+あげるー！","Boo! You found me!
+
+
+THAT WAS SO FUN, THOUGH!
+
+
+This is my secret treasure...
+But here, you can have it!"
+12,Talk03,"…プリコ
+お暇なのに？",But...I'm bored...
+13,Talk05,"あれー？
+まだ お荷物いっぱい？
+プリコの しょっぱいカチカチ
+あげられない…","Huh? Your pockets are all filled up!
+
+
+Now I can't give you my
+salty crunchers..."
+14,Talk06,"お荷物お片付けした？
+
+じゃあ プリコのカチカチ
+あげるー！","Did you make room?
+
+
+Yay! Now I can give you my
+salty crunchers!"
+15,Talk07,"いーよー！
+
+プリコ逃げるー
+
+でも夜ゴハンになったら
+姉ちゃまのとこ帰るー","YAAAAY!
+
+
+I'll start running!
+
+
+But I've gotta go home to Sis
+when it's dinnertime, OK?"
+16,Talk08,"プリコ つかまったー！
+
+でも たのしかったー！！
+
+これ プリコの宝物ー
+あげるー！","Boo! You caught me!
+
+
+THAT WAS SO FUN THOUGH!
+
+
+This is my secret treasure...
+But here, you can have it!"
+17,Talk09,"ピカピカー
+あげるー！","Here, you can have this shiny thing!"
+18,Talk10,"いーよー！
+
+何するー？
+何するー？","YAAAY!
+What'll it be?
+What'll it be?"
+19,Talk11,カチカチー,Crunchy crunchables!
+20,Talk12,"あれー？
+お荷物いっぱい？
+プリコの しょっぱいカチカチ
+あげられない…","Huh? You're outta room?
+
+
+But that means...I can't give you
+my salty crunchers..."
+21,Talk13,また プリコとあそぼーね！,Come play with me again sometime!
+22,Talk14,"あれー？
+お荷物いっぱい？
+せっかく プリコの宝物
+あげようと思ってたのに…","Huh? Your pouch is full?
+
+
+But now I can't give you my treasure!"

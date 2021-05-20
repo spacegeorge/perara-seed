@@ -1,0 +1,127 @@
+#,Title,JPja,USen
+1,"""0000""",これって？,What is this thing?
+2,"""0001""",何してるの？,What are you doing?
+3,"""0002""",さようなら,Good-bye.
+4,"""0005""",どういうこと？,What do you mean?
+5,"""0006""",ウオトリー村？,Lurelin Village?
+6,near00,お仕事 お仕事…,Another day's work!
+7,near01,ラ～ ララ～♪,"♪La la la, la la!♪"
+8,near02,交代交代…,Time to switch off again...
+9,talk00,"その火…不思議な色…
+故郷の漁火とも違っていて…","What a strangely colored fire...
+It's almost like an anglerfish's lure."
+10,talk01,"その火の色… 
+見つめていると吸い込まれそうね～…","That fire is mesmerizing. I shouldn't stare
+any longer or I'll get sucked in."
+11,talk02,お話ができて楽しかったさ～,It was nice talking with you.
+12,talk03,ふふ…,Heehee...
+13,talk04,おはよう,Good morning!
+14,talk05,こんにちは,Hello!
+15,talk06,こんばんは,Good evening.
+16,talk07,"同じ雨でも高地に降る雨は
+また違った感じだね～…","I know it's all the same, more or less,
+but the rain feels different on your skin
+the higher you go."
+17,talk08,"心地よい風…
+潮の香りは しないけどさ～…","What a nice breeze... It doesn't carry
+that tang of salt on it, though."
+18,talk09,"これんこと？
+
+ハテノ古代研究所の所長さんが
+青い火を灯すしょく台らしいけど
+じつは私…こちらに嫁いできてから
+所長さんのお姿を一度も見てないんさ～","Oh, you've noticed these, have you?It's apparently one of the lanterns
+that the Hateno Ancient Tech Lab's
+director lights with the blue flame...
+But if there's still a director there, I've
+never seen her. Not even once since
+moving here after my marriage."
+19,talk10,"明るいうちは
+主人の代わりに風車の番をしてるんさ～
+風車が一定の速度で回り続けないと
+粉のツブがそろわないんだ！
+…って仕事に厳しい主人さね
+
+私にはやさしいんだけどね～
+ふふふ…","I take care of the windmills during the
+day in place of my husband.The windmills have to turn at the right
+speed, or we can't grind the flour!My husband is very particular when it
+comes to our work. But I take a more
+freewheeling attitude toward it."
+20,talk11,"私は そろそろ睡眠を…
+またの機会にさね","I'm getting ready for bed now. Why don't
+we talk tomorrow?"
+21,talk12,"あっ ごめんちゃん
+初対面の方に おかしなお話ししてさ～…
+じつは私の故郷であるウオトリー村の
+海辺の暮らしを思い出してたんさ～
+ここハテノ村は景色も匂いも違うけど
+私の愛する人を育んだ素敵な土地…
+主人と二人で働けて すごく幸せさね","Oops! I forgot we just met.I was reminiscing about my hometown
+of Lurelin Village by the sea.The view and the air are different here
+in Hateno Village, but this is where my
+wonderful husband calls home.
+I count myself lucky to be able to live
+and work alongside such a wonderful,
+loving man."
+22,talk13,他にも用かいさ～？,Can I help you with anything else?
+23,talk14,"ごめんちゃん
+今から寝るわいさ～…","I'm sorry, but I should go get ready
+for bed now."
+24,talk15,何か用かいさ～？,What is it?
+25,talk16,"今から お仕事さね
+風と風車を見つづける素敵なお仕事…","It'll be time for work soon. I have a lovely
+job that lets me sit here, watch the
+windmills, and feel the breeze in my hair."
+26,talk17,"私今からお仕事だけどね～
+
+座ってから お話しするわいさ～","I'll be starting work soon. Are you wondering what I do? Heehee...
+I'll tell you all about it once I can sit."
+27,talk18,今の時間は主人に…むにゃ,It's so late... Husband's turn now... Zzz...
+28,talk19,う…ん,Mm...
+29,talk20,"これはハテノ古代研究所の所長さんが
+青い火を灯すしょく台らしいね～
+私はこれを見張ってるわけじゃなくて
+たまたま ここに座ってるだけなんさ～
+こちらに嫁いで間もないので
+よくわからんちゃん","They say this lantern needs blue
+flame from the director at the
+Hateno Ancient Tech Lab.
+Oh, but I'm not guarding it. I'm just
+sitting here watching the windmill.I was married recently and moved here
+to my husband's hometown, so I can't
+tell you much more than that."
+30,talk21,"もし気になるんなら
+所長さんに直接聞くといいわいさ～","If you're curious, why not head up the
+road and pay a visit to the director?"
+31,talk22,"風車が止まると粉がひけんので
+主人と交代で見張ってるんさ～
+こうしていると世の中が平和だと
+つい錯覚してしまうさね～","The windmills have to keep turning, so
+my husband and I watch them in shifts.It's a pleasant job. Sitting here and
+watching the world go by makes it
+feel like a very peaceful place."
+32,talk23,"このハテノ村から はるか南にある
+小さな漁村さ～
+私そのウオトリー村から嫁いできた
+ロレルっていうわいさ～
+嫁入り道具と一緒にハイリア大橋を渡って…
+思えば ずいぶん遠くまで来たんさね～","It's a small fishing community far to
+the south. I lived there before I moved
+here with my new husband.
+We had to cross the Bridge of Hylia to
+get here, weighted down with everything
+I couldn't bear to leave behind.
+Thinking back on it, it's a wonder either
+of us survived the trip..."
+33,talk24,"ウオトリー村はハイリア大橋を渡って
+さらに歩いた先にある小さな漁村さ～
+こちらに嫁いできてから
+まだ一度も里帰りしてないさ～…
+私の父…変わらず元気で
+イカダ漁に精を出してるとは思うけどね～…","Lurelin Village is a small fishing
+town on the south side of the
+Bridge of Hylia.
+I haven't been back there yet since
+I moved here after the wedding.I wonder if Father is still healthy enough
+to go raft fishing..."

@@ -1,0 +1,55 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,"Yes, I do."
+2,"""0001""",違います,"No, I don't."
+3,"""0002""",ここは？,Where am I?
+4,"""0003""",さようなら,Bye.
+5,talk_00,おはようございます お客さんかしら？,"Good morning.
+Do you need a bed?"
+6,talk_01,こんにちは お客さんかしら？,Hello. Do you need a bed?
+7,talk_02,こんな夜に お客さんかしら？,"You're coming in pretty late. You need a
+bed?"
+8,talk_04,"馬宿をご利用なら
+カウンターから店の者に話しかけてくださいね","If you'd like to use the stable, speak to
+the master at the counter."
+9,talk_08,はい お客さんですね？,"Ah, a customer. Need a bed?"
+10,talk_09,そう……,"Oh, I see..."
+11,talk_10,"ここはリトの馬宿です
+
+外のカウンターから愛馬を登録できますし
+中で宿泊もできますよ
+ちなみにリトって言うのは そこのホラ…","Ha! Are you lost or something?
+This is Rito Stable.
+
+We can help you with horse affairs
+at the counter outside, or you can stay
+the night at the inn inside.
+If you're wondering why we called this
+place Rito Stable, well..."
+12,talk_11,はい……さようなら,I see... Good-bye.
+13,talk_12,そこに住むリト族から名前を拝借したんです,"We took our name from the Rito people
+who live there."
+14,talk_13,"おはようございます
+今日は いいお天気になりそうですね","Good morning.
+It looks like we're going to have beautiful
+weather today."
+15,talk_14,"おはようございます
+あいにくのお天気ですね…","Good morning.
+It's too bad the weather's like this
+today..."
+16,talk_15,あそこに背の高い塔が見えるでしょう？,You see that tower over there?
+17,talk_16,"ここはリトの馬宿です
+
+外のカウンターから愛馬を登録できますし
+中で宿泊もできますよ
+ちなみにリトって言うのは
+ここから少し西に行ったところの村に住む
+リト族から名前を拝借したんです","This is Rito Stable.
+
+
+We can help you with horse affairs
+at the counter outside, or you can stay
+the night at the inn inside.
+The Rito live in the village just west of
+here.
+
+Hence the name Rito Stable. "

@@ -1,0 +1,149 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,Sure.
+2,"""0001""",違います,Not right now.
+3,"""0002""",やります,I'll do it.
+4,"""0003""",やりません,I still don't want to.
+5,"""0004""",大丈夫,"Good, so far."
+6,"""0005""",見失った…,I lost sight of him...
+7,Npc_Kokiri001_R_001,"あ！ キミ！ ゆうしゃサマだよね？
+コログしれんやるんだよね？？","Oh! You! You're Mr. Hero, right?
+You're gonna do the Korok Trial,
+yes, yes?"
+8,Npc_Kokiri001_R_002,"あ！ やっぱり！
+ちょっと頼み事があるんだけど！","I knew it!
+I'd like to ask you a favor, then!"
+9,Npc_Kokiri001_R_003,"今ね ワタシのチビすけ トッチーが
+コログしれんに出たんだけど…
+いつもは ワタシも一緒に行くんだけど…
+どうしても一人で行く って言ってきかないのね
+しょうがないから一人で行かせたんだけど…
+迷子にならないか不安なのね
+ちょっと後ろをついていって欲しいのよ！
+あ！見つからないようにね！","My little Oaki just now set off to do the
+Korok Trial...
+
+Normally I'd go along, too, but Oaki
+insisted on going alone. I let Oaki go,
+but...well, I'm just getting worried!
+Could you please follow Oaki without
+being seen? I want to be sure nothing
+bad happens..."
+10,Npc_Kokiri001_R_004,"あ！違うのね！
+それは失敬失敬！","Oh! I was wrong?
+So, so sorry."
+11,Npc_Kokiri001_R_005,"あ！ さっきの！
+やっぱりコログしれん やるの？","Oh, the man from before!
+Did you change your mind? Do you
+want to do the Korok Trial after all?"
+12,Npc_Kokiri001_R_006,"あ！ やるのね！
+ちょっと頼み事があるんだけど！","Yay, that's neat to hear! And since you're
+going to, I'd also like to ask you a favor!"
+13,Npc_Kokiri001_R_007,"あ！ やっぱり違うのね！
+ごめんごめーん！","Oh, I was wrong again!
+Sorry, sorry!"
+14,Npc_Kokiri001_R_Near,一人で大丈夫かな…,Going alone? I dunno...
+15,Npc_Kokiri001_S1_001,"あ！しれんどう？
+トッチーに見つからないようにね！","Oh! How's the trial?
+Remember not to get caught by Oaki!"
+16,Npc_Kokiri001_S1_002,"あー トッチーに見つかっちゃったか
+けっこう神経質なんだよね あの子…
+トッチーは また行く って言ってるから
+もう一回行ってもらえると嬉しいんだけど！
+いいかな？ いいよね？
+じゃあ お願いするね！","Oooh, Oaki saw you, huh?
+Oaki can get a little nervous or antsy
+sometimes, that's for sure...
+Luckily, Oaki is planning on going to do
+the trial again, so you've got another
+chance to stealthily follow.
+That's OK, right? It's OK? Good!
+I'm counting on you!"
+17,Npc_Kokiri001_S1_003,"あー""気が付いた？キミ森で迷っちゃったみたいだね
+トッチーが連れて戻った時は ビックリしたよ！
+トッチーは また行く って言ってるから
+もう一回行ってもらえると嬉しいんだけど！
+いいかな？ いいよね？
+じゃあ お願いするね！","Ahh, are you OK? It seems like you got
+turned around and lost in the woods.
+
+I was actually a bit surprised when Oaki
+brought you back!
+
+Anyway, Oaki is going to head out alone
+again. I was thinking you could try
+following one more time...
+That's OK, right? It's OK? Good!
+I'm counting on you!"
+18,Npc_Kokiri001_S1_004,あ！しれんどう？,Oh! How goes the trial?
+19,Npc_Kokiri001_S1_005,"え！見失ったの？！トッチー迷子になってるかも…
+見てくるね！","What?! You lost sight of him?!Oaki might have gotten lost... I'll be
+right back. I've got to go check on him!"
+20,Npc_Kokiri001_S1_006,"ふー…
+風の音を怖がって立ち止まってたよ あの子
+トッチーは また行くって言ってるから
+もう一回行ってもらえると嬉しいんだけど！
+いいかな？ いいよね？
+じゃあ お願いするね！","*sigh* The sound of the wind had him so
+scared, he couldn't move a muscle.
+Poor kid...
+Oaki's talking about trying again,
+though... I'd be really happy if you could
+go with him again, too!
+That's OK, right? I knew it would be.
+Thank you so much!"
+21,Npc_Kokiri001_S1_007,"それなら良かった！
+トッチーに見つからないようにね！","Make sure Oaki doesn't see you, OK?"
+22,Npc_Kokiri009_F1_001,やった着いたー！しれん終わりー！,"Yay! I made it! I finished
+the trial!"
+23,Npc_Kokiri009_F1_002,"え！誰？！
+あ！ あなた ひょっとして ゆうしゃサマ？！
+ゆうしゃサマ！
+わたし ちゃんと一人でしれん終わらせたよ！
+あそうだ！祠で ゆうしゃサマの祝福が待ってるって
+デクの樹サマが言ってたよ！行ってみたら？","Wha? Who's there?
+Hey! Are you that hero guy?
+You know—Mr. Hero?
+Guess what, Mr. Hero!
+I did the trial all by myself!
+Aren't I brave?
+Oh, yeah! You're probably here for the
+shrine.
+
+The Great Deku Tree said that the monk's
+blessing is waiting in the shrine ahead!
+Why don't you go take a look?"
+24,Npc_Kokiri009_R_001,"きゃうッ！な！ なによ？！
+ビックリさせないでよね！
+しれんには一人で行くから！
+もう決めたんだからね！","Waaaah?!What are you doing, sneaking up on me
+like that? You scared me!
+
+Leave me be, OK? I'm gonna do the trial
+all on my own! I've made up my mind!"
+25,Npc_Kokiri009_R_002,"ひゃあッ！だ！ だからビックリするじゃない！
+いきなり話しかけないでよね！",Hogeez!I... I told you to stop scaring me!
+26,Npc_Kokiri009_R_Near,こわくないこわくない,I'm not scared. I'm not...
+27,Npc_Kokiri009_S1_001,"きぃやあああ！！ オバケぇえええ！！…って なにあなた？！
+付いてきてたの？！
+一人で大丈夫って言ったのに！
+もう！ やり直しじゃない！","KYAAH! A ghost!...Wait, you're not a ghost!
+Were you following me? I said I could do
+this by myself!
+Ugh, and now I'm not by myself...
+I'll have to do it all over again."
+28,Npc_Kokiri009_S1_Near001,しれんこっちだよね…,The trial is this way...right?
+29,Npc_Kokiri009_S1_Near002,今なにかうごいた…？,What was that?
+30,Npc_Kokiri009_S1_Near003,へいきへいき！,Everything is A-OK!
+31,Npc_Kokiri009_S1_Near004,この木見覚えある！,I remember this tree!
+32,Npc_Kokiri009_S1_Near005,こっちで合ってるはず,This is the right way...
+33,Npc_Kokiri009_S1_Near006_01,キレイな花まで来た！,"Oooh, pretty flowers!"
+34,Npc_Kokiri009_S1_Near006_02,残り半分がんばろー！,Halfway there!
+35,Npc_Kokiri009_S1_Near007,え…誰か… いるの？,Is... Is someone there?
+36,Npc_Kokiri009_S1_Near008,うあ！ オバケ！,AHH! A ghost!
+37,Npc_Kokiri009_S1_Near009,なんだ木の影じゃん,Oh. It was just a shadow...
+38,Npc_Kokiri009_S1_Near010_01,だいじょぶだいじょぶ,This isn't so bad...
+39,Npc_Kokiri009_S1_Near010_02,オバケなんていない…,I'm not scared one bit.
+40,Npc_Kokiri009_S1_Near011,くらいよーこわいよー,OK... I'm a little bit scared.
+41,Npc_Kokiri009_S1_Near012,あ もうちょっとだ！,I'm almost there!
+42,Npc_Kokiri009_S1_Near013,あ！祠が見えた！,Aha! There's the shrine!
+43,Npc_Kokiri009_S1_Near014,やっと着いた！,Woo! I've finally made it!

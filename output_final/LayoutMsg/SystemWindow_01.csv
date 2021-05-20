@@ -1,0 +1,22 @@
+#,Title,JPja,USen
+1,"""0000""",セーブするファイルを選んでください,Select save file.
+2,"""0001""",新しくセーブデータを作りますか？,Create new save data?
+3,"""0002""",このデータに上書きしてもいいですか？,Overwrite this save data?
+4,"""0003""",ロードする,Load
+5,"""0004""",どのデータをロードしますか？,Select save data to load.
+6,"""0005""","このデータをロードしますか？
+現在の進行状況は破棄されます","Load save data?
+Unsaved progress will be lost."
+7,"""0006""",このデータをロードしますか？,Load save data?
+8,"""0007""",はじめる,Start
+9,"""0008""",セーブしますか？,Save progress?
+10,"""0009""",セーブする,Save
+11,Pa_BtnL_01-T_Btn_00,キャンセル,Cancel
+12,Pa_File_00-T_AutoSave_00,オートセーブ,Autosave
+13,Pa_GuideB_00-T_Guide_00,キャンセル,Cancel
+14,T_AutoSave_00,オートセーブ,Autosave
+15,T_DummyText_00,Master Mode,Master Mode
+16,T_SaveFinish_00,セーブしました,Progress saved.
+17,T_Text_02,マスターモードの セーブデータは2つです,"In Master Mode, you have two files of save data,
+including one autosave."
+18,TextBox_01,セーブ中,Saving

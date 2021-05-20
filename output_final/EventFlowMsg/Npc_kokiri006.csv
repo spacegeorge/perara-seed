@@ -1,0 +1,89 @@
+#,Title,JPja,USen
+1,"""0000""",泊まる,Sleep.
+2,"""0001""",おいくら？,How much?
+3,"""0002""",やめる,Gotta go.
+4,"""0003""",朝まで,Until morning.
+5,"""0004""",昼まで,Until noon.
+6,"""0005""",夜まで,Until evening.
+7,"""0006""",やっぱりやめる,Never mind.
+8,Npc_kokiri006_Near000,オヤスミゆうしゃサマ,"Good night, Mr. Hero."
+9,Npc_kokiri006_Talk000,"むにゃ…こばんわ？こんちわ？
+ごちそうさま？
+ア…ごめんなさイ
+ちょっと寝てましタ…","Zzz...  No. Vegetarians everywhere!
+STOP! THAT'S MY FACE!
+
+Ahhh! Sorry about that. I must have
+dozed off for a bit..."
+10,Npc_kokiri006_Talk001,"ヤヤ？ヤヤヤヤヤ？！
+ゆうしゃサマでスね？！","Oh... OOOOOOOH!
+You're Mr. Hero, aren't you?!"
+11,Npc_kokiri006_Talk002,"デクの樹サマから お話を聞いてましタが…
+ついに森まで来てくれたんでスね
+待ちくたびれて 
+根っこが出ちゃうかと思いまシた…","The Great Deku Tree told me all about
+you. So you finally made it to our forest,
+huh?
+I've been waiting for so long, I thought
+I might start to put down roots."
+12,Npc_kokiri006_Talk003,ようこそデクの樹サマのおヘソへ！,Welcome to the Great Deku Tree's Navel!
+13,Npc_kokiri006_Talk010,"すぴょ…ア…また寝ちゃってまシた…
+デクの樹サマのおヘソへ ようこそでス","*mumble*
+Ah... I nodded off again...
+Welcome to the Great Deku Tree's Navel."
+14,Npc_kokiri006_Talk020,"むんにゃり…アゆうしゃサマ！
+デクの樹サマのおヘソへ ようこそでス","Zzz...
+Oh, Mr. Hero. Welcome to the
+Great Deku Tree's Navel."
+15,Npc_kokiri006_Talk030,"ゆうしゃサマのために
+はっぱで寝床を つくっておきましタ！","I made a bed out of leaves just for you,
+Mr. Hero!"
+16,Npc_kokiri006_Talk040,"さすが ゆうしゃサマ！
+寝なくても へいきへっちゃらなんでスね！","Of course you don't need sleep,
+Mr. Hero! You look like a million rupees!"
+17,Npc_kokiri006_Talk041,"でも…ペパパ…ゆうしゃサマのために
+毎日ベッド きれいにしてるかラ…
+ルピーもいらないし…たまには疲れてなくてモ
+むにゃむにゃゴロゴロ していってくださイね…","But...I...work so hard every day to set
+up this bed especially for you, Mr. Hero.
+
+Your rupees are no good here, so feel
+free to stop by and snooze whenever
+you'd like."
+18,Npc_kokiri006_Talk050,いつまで むにゃむにゃゴロゴロしまス？,How long would you like to snooze?
+19,Npc_kokiri006_Talk060,"おはようの朝まででスね！
+ハイ むにゃむにゃ～ゴロゴロ～","Until I say \""good morning\""?
+All right. Go get some rest."
+20,Npc_kokiri006_Talk070,"こんちわの昼まででスね！
+ハイ むにゃむにゃ～ゴロゴロ～","Until I say \""good afternoon\""?
+All right. Go get some rest."
+21,Npc_kokiri006_Talk080,"こばんわの夜まででスね！
+ハイ むにゃむにゃ～ゴロゴロ～…スゥ…","Until I say \""good evening\""?
+All right. Go get some rest.
+Zzzzz..."
+22,Npc_kokiri006_Talk081,"好きなだけむにゃむにゃゴロゴロ
+していってくださイね！","Take as long as you like with yawns
+and the ZZZs!"
+23,Npc_kokiri006_Talk090,"おはようございまス！
+ゴハンは お隣のきのこ屋さんでどうぞデす～","Good morning! You can grab some
+breakfast next door at the Spore Store!"
+24,Npc_kokiri006_Talk100,"こんちわでス！
+スヤスヤ寝てるの見守ってまシた！","Good afternoon!
+I stood watch while you were asleep!"
+25,Npc_kokiri006_Talk110,"こばんわでス……スゥ……
+いてらしゃいマ…セ……","Good...zzz...evening.
+Be careful...out there..."
+26,Npc_kokiri006_Talk120,"疲れてても疲れてなくても
+また むにゃむにゃゴロゴロしに来てくださイね","If you're tired, or even if you're not,
+come back and catch some z's soon, OK?"
+27,Npc_kokiri006_Talk130,"ア！ルピーはいらないでスよ！
+ゆうしゃサマなんでスから！
+ペパパずーっと ずーーーっと このベッドに
+ゆうしゃサマが寝てくれるの待ってたんでス","Oh, I don't want your rupees!
+You're the great Mr. Hero!
+
+I prepared this bed for you ages ago!
+All I want is to help you get some sleep."
+28,Npc_kokiri006_Talk131,"ずーっと待ってたら…ねむくなっちゃって…
+…………スゥ","I was waiting for so long...I got really
+*yawn* sleepy..."

@@ -1,0 +1,148 @@
+#,Title,JPja,USen
+1,"""0001""",賭ける,I'm in.
+2,"""0002""",もう一度説明して,How's it work again?
+3,"""0003""",やめておく,I don't think so.
+4,"""0004""",10ルピー,...10 rupees.
+5,"""0005""",50ルピー,50 rupees.
+6,"""0006""",100ルピー,100 rupees!
+7,"""0007""",やっぱりやめておく,I changed my mind.
+8,Near00,張った張った,Place your bets!
+9,talk03,……おめぇさん,"Psst... C'mere. No, closer."
+10,talk04,"なぁに身構えてんだ
+危ねぇ話しようってんじゃないさな","Hey, hey, simmer down. I'm not talking
+about anything illegal here."
+11,talk05,"そこにある宝箱
+あれを使って簡単な賭けをしてみねぇか？
+難しいことは何もないさな
+好きな宝箱 １つ選んで開けるだけよ","See those treasure chests over there?
+Whaddaya say to a little wager on 'em?The idea is you pick any chest you want
+and open it. Simple, right?"
+12,talk06,"中の銭は全部 おめぇさんにくれてやらぁ
+
+ただし アタリは１つだけさな
+ハズレ引いても泣くなよ？","The best part is whatever chest you
+open, you get all the money inside.Course, only one chest is worth opening,
+heh heh. Don't come crying to me if you
+pick wrong."
+13,talk07,"もちろん""賭け金が必要だぜ","Before you go opening any boxes, you'll
+have to show me what it's worth to you."
+14,talk08,"リスクあってこその賭けよ
+スリル感じてこその博打よぉ","What's a bet, after all, if you don't stand
+to lose a bundle on it? That's the part
+that really gets a man's heart racing!"
+15,talk09,"いくら賭けるかは おめぇさんに任せるが
+額が上がるほど アタリも景気が良くなるぜぇ？
+旅するのだって タダじゃねぇ
+ここで一発""稼いでいくんさな","It's up to you how much you want to
+throw in. But the more you bet, the more
+you stand to win.
+A man like you must have expenses.
+Couldn't hurt to make some quick cash—
+right here, right now—am I right?"
+16,talk10,"さぁ どうするよ？
+漢""見せてみんかい？","Whaddaya say? All you've got to lose
+is your pride...and your money."
+17,talk11,"どうした おめぇさん
+賭けが したくなったのかい？",How 'bout it? Wanna try your luck?
+18,talk12,"おう いいぜ
+耳かっぽじって よぉーく聞くんさな","All right, listen up."
+19,talk13,"なんでぇい
+シケたこと言ってっと ツキも逃げちまうぜ？","Psh... Lady Luck has no time for a man
+who won't take any chances."
+20,talk14,"まあ俺はいつでもここにいるさね
+賭けがしたくなったら また来なよ","Well, suit yourself. But if you ever feel
+like trying your luck, I'm always here."
+21,talk15,おう いい返事だねぇ！,Attaboy...
+22,talk16,"さあさあさあ！
+一体 いくら賭けるさね？","Now for the million-rupee question:
+How much are you betting?"
+23,talk17,"様子見ってとこかい？
+おめぇさん慎重派さねぇ","Just tipping a toe in the water, eh?
+Probably smart."
+24,talk18,"いいね いいねぇ！
+血がたぎるねぇ！","Now we're talkin'! Looks like someone's
+ready to make some REAL money!"
+25,talk19,"おめぇさん それでこそ漢さねぇ！
+その無鉄砲さ昔の俺を見るようだぜ！","Way to live on the edge, pal! That
+recklessness—I mean, fearlessness—
+almost reminds me of me!"
+26,talk20,"……おいおいおい
+参加費が足りてねぇぜ？","...Waaaait a minute. No making bets you
+can't cover."
+27,talk21,"博打するにも元では必要さな
+最低限稼いでから また来るんだな","You can't gamble without putting cash on
+the table. Come back when you have at
+least enough to go for the minimum."
+28,talk22,"さあ準備はいいぜ！
+
+制限時間は特にねぇ
+よぉーく考えて""選ぶんさな","There we go. Step right up and take
+your chances!Take all the time you need to choose a
+chest to open. Look, listen, smell...taste
+'em if you think it'll help."
+29,talk23,"残念だったなぁ！
+だが次で取り返せば いいってもんさな！","Them's the breaks. But hey, surely you'll
+win big NEXT time!"
+30,talk24,"お！ やるじゃねぇか！
+だが このくれぇならマグレもあるさな","Whoa! Who'd have thought?! I mean,
+it was pure luck, but..."
+31,talk25,"てぇしたもんだ！
+ここ一番で決めやがったなぁ！！","Nice find! See what comes to those who
+bet big?"
+32,talk26,"なんてこった…
+
+この大一番で ツキを呼び寄せるたぁ
+おめぇさん本物の女神様がついてるようさな！","Where did that... What did you... How
+did you score a prize like that?! Can you
+introduce me to Lady Luck?"
+33,talk27,"さあ ここで降りちゃあ漢がすたるぜ！
+おめぇさん まだいけるさね？！","You are gonna keep going, right? Or do
+you admit defeat?"
+34,talk28,"そうかい
+なら仕方ねぇ","I hear you. Hey, if that's what you want..."
+35,talk29,"キョロキョロしてどうしたよ？
+
+よそ見してると
+ツキの女神様に そっぽ向かれちまうぜ？","What's with that look? Pay attention,
+or Lady Luck will lose interest."
+36,talk30,"俺に話しかけるなんざ
+随分と余裕さなぁ？
+先に言っとくが やり直しはナシだぜ","You must be feeling cocky if you're
+talking to me instead of picking a chest.Just so you know, I don't give do-overs.
+You pay your money, and you take your
+chances."
+37,talk31,"天を味方にするコツは
+心の目で見ることさな
+まぶたを閉じて
+静かに かすかな光を探すのよ…
+なんて嘘だがな はっはっは！","You can only see inside the chest with
+your heart, not your eyes.Close your eyes...look deep inside...
+and pray to Lady Luck...If you're truly sincere, she'll give you
+the sign you— HAAAAhahahaha! I can't
+finish with a straight face.
+What a load of hooey!"
+38,talk32,"おいおい どこに行こうってんだ？！
+外にも宝箱を用意 なんてセコいマネしてないぜ
+当たりはちゃんと こン中のどれかよぉ
+ほら戻ってきな","Hey, pal! Where're you going? There's
+no chests outside. I wouldn't pull a fast
+one on you like that.
+The prize is in one of these three chests,
+cross my heart. Now get back here."
+39,talk33,"じゃあちょちょいと準備するかね
+しっかり両の目""閉じとくんだぜ？","I'll go get set up. No peeking while I'm
+fiddling with the chests, got it?"
+40,talk34,"銭がよ
+ちょいとばかし""欲しくないかい？","How'd you like to be rich...without
+having to work for it?"
+41,talk35,"引き際を間違えないってのも
+良い賭け師の条件さな
+俺はいつでもいるから
+ツキを試したくなったら また来な","Fair enough. Every good gambler knows
+there's a time to walk away.I'm always here in case you ever feel like
+trying your luck again."
+42,talk36,"おいおいおい""人ん家の宝箱
+勝手に開けようとするもんじゃねぇぜ？
+用があるなら こっち来な","Whoa there, buddy! Those aren't your
+chests to open!But if you really wanna open them, have
+I got a deal for you..."

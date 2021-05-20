@@ -1,0 +1,607 @@
+#,Title,JPja,USen
+1,Weapon_Sword_001_Desc,"主に危険な野生動物に対する備えとして
+ハイラル全土で使われる剣
+壊れにくいが魔物相手には少し心もとない","A very common sword often kept by travelers
+to fend off small beasts. It's fairly durable
+but a bit unreliable against monsters."
+2,Weapon_Sword_001_Name,旅人の剣,Traveler's Sword
+3,Weapon_Sword_001_PictureBook,"主に危険な野生動物に対する備えとして
+ハイラル全土で使われる剣
+壊れにくいが魔物相手には少し心もとない","A very common sword often kept by travelers
+to fend off small beasts. It's fairly durable,
+but a bit unreliable against monsters."
+4,Weapon_Sword_002_Desc,"かつてハイラル城を守る兵士が使っていた剣
+魔物と渡り合うことができる斬れ味を持つ
+金属の刀身は耐久力にも優れている","A sword brandished by the soldiers who
+once protected Hyrule Castle. Its durable
+blade is well tuned for slaying monsters."
+5,Weapon_Sword_002_Name,兵士の剣,Soldier's Broadsword
+6,Weapon_Sword_002_PictureBook,"かつてハイラル城を守る兵士が使っていた剣
+魔物と渡り合うことができる斬れ味を持つ
+金属の刀身は耐久力にも優れている","A sword brandished by the soldiers who
+once protected Hyrule Castle. Its durable
+blade is well tuned for slaying monsters."
+7,Weapon_Sword_003_Desc,"ハイラル城の騎士たちが携えていた剣
+癖がなく扱いやすく高い攻撃力を持つため
+現在では旅慣れた冒険者たちが好んで使用する","Knights of Hyrule once carried this sword.
+These days it's the weapon of choice for
+seasoned adventurers thanks to its ease
+of use and high attack power."
+8,Weapon_Sword_003_Name,騎士の剣,Knight's Broadsword
+9,Weapon_Sword_003_PictureBook,"ハイラル城の騎士たちが携えていた剣
+癖がなく扱いやすく高い攻撃力を持つため
+現在では旅慣れた冒険者たちが好んで使用する","Knights of Hyrule once carried this sword.
+These days it's the weapon of choice for
+seasoned adventurers thanks to its ease
+of use and high attack power."
+10,Weapon_Sword_004_Desc,"ボコブリンがエモノをしとめる
+その一点のみに注力して作り出したこん棒
+無理をするとすぐに壊れてしまう","A crude Bokoblin club made to clobber small
+prey. It's essentially a stick, so its durability
+is low."
+11,Weapon_Sword_004_Name,ボコこん棒,Boko Club
+12,Weapon_Sword_004_PictureBook,"ボコブリンがエモノをしとめる
+その一点のみに注力して作り出したこん棒
+無理をするとすぐに壊れてしまう","A crude Bokoblin club made to clobber small
+prey. It's essentially a stick, so its durability
+is low."
+13,Weapon_Sword_005_Desc,"厳選した素材で作られた
+特別なボコブリンのこん棒
+とがった骨が当たるとかなり痛い","A reinforced Bokoblin club made to maximize
+damage. The sharpened bones jabbed into it
+make it a brutal weapon."
+14,Weapon_Sword_005_Name,トゲボコこん棒,Spiked Boko Club
+15,Weapon_Sword_005_PictureBook,"厳選した素材で作られた
+特別なボコブリンのこん棒
+とがった骨が当たるとかなり痛い","A reinforced Bokoblin club made to maximize
+damage. The sharpened bones jabbed into it
+make it a brutal weapon."
+16,Weapon_Sword_006_Desc,"こん棒に化石の骨を組み合わせた強力な武器
+ボコブリンの中でも特に屈強な個体のみが
+持っているとされている","This Bokoblin club has been reinforced with
+fossilized bones to maximize clobbering
+potential. Only the brawniest of Bokoblins
+can manage its immense weight."
+17,Weapon_Sword_006_Name,竜骨ボコこん棒,Dragonbone Boko Club
+18,Weapon_Sword_006_PictureBook,"こん棒に化石の骨を組み合わせた強力な武器
+ボコブリンの中でも特に屈強な個体のみが
+持っているとされている","This Bokoblin club has been reinforced with
+fossilized bones to maximize clobbering
+potential. Only the brawniest of Bokoblins
+can manage its immense weight."
+19,Weapon_Sword_007_Desc,"リザルフォスが好んで使う湾曲した剣
+直接斬りつけるだけでなく
+ブーメランのように投げて使うこともできる","A curved sword favored by the Lizalfos.
+It can be used to attack directly or can
+be thrown like a boomerang."
+20,Weapon_Sword_007_Name,リザルブーメラン,Lizal Boomerang
+21,Weapon_Sword_007_PictureBook,"リザルフォスが好んで使う湾曲した剣
+直接斬りつけるだけでなく
+ブーメランのように投げて使うこともできる","A curved sword favored by the Lizalfos.
+It can be used to attack directly or can
+be thrown like a boomerang."
+22,Weapon_Sword_008_Desc,"青リザルフォスが好んで使う剣
+刃が二枚になり通常のリザルブーメランよりも
+切り裂く力がＵＰ投げても手元に戻ってくる","Blue Lizalfos in particular like this weapon.
+It has one more blade than the
+Lizal boomerang to give it additional cutting
+power, and it still returns when thrown."
+23,Weapon_Sword_008_Name,強化リザルブーメラン,Lizal Forked Boomerang
+24,Weapon_Sword_008_PictureBook,"青リザルフォスが好んで使う剣
+刃が二枚になり通常のリザルブーメランよりも
+切り裂く力がＵＰ投げても手元に戻ってくる","Blue Lizalfos in particular like this weapon.
+It has one more blade than the
+Lizal boomerang to give it additional cutting
+power, and it still returns when thrown."
+25,Weapon_Sword_009_Desc,"刃の数がさらに増え攻撃力が高くなった剣
+ブーメランとしても使えるが取扱いが難しく
+主に戦闘に長けた黒リザルフォスが携行する","More blades means more attack power!
+It can be used as a boomerang, but all those
+blades makes that a bit more dangerous.
+Carried by Black Lizalfos seasoned in battle."
+26,Weapon_Sword_009_Name,三又リザルブーメラン,Lizal Tri-Boomerang
+27,Weapon_Sword_009_PictureBook,"刃の数がさらに増え攻撃力が高くなった剣
+ブーメランとしても使えるが取扱いが難しく
+主に戦闘に長けた黒リザルフォスが携行する","More blades means more attack power!
+It can be used as a boomerang, but all those
+blades makes that a bit more dangerous.
+Carried by Black Lizalfos seasoned in battle."
+28,Weapon_Sword_013_Desc,"小型ガーディアンが装備している剣
+古代の技術が使われた青い刀身を持つ
+耐久性はあまり高くない","A sword often wielded by Guardian Scouts.
+Its blue energy blade is a product of ancient
+technology. It's not very durable."
+29,Weapon_Sword_013_Name,ガーディアンナイフ,Guardian Sword
+30,Weapon_Sword_013_PictureBook,"小型ガーディアンが装備している剣
+古代の技術が使われた青い刀身を持つ
+耐久性はあまり高くない","A sword often wielded by Guardian Scouts.
+Its blue energy blade is a product of ancient
+technology. It's not very durable."
+31,Weapon_Sword_014_Desc,"より威力が強化されたガーディアンナイフ
+高い切断力が さらに上昇しており
+耐久性も若干改善している","This Guardian sword has enhanced power
+over the standard model. Its cutting
+capabilities are improved, and its durability
+has seen a slight uptick."
+32,Weapon_Sword_014_Name,ガーディアンナイフ+,Guardian Sword+
+33,Weapon_Sword_014_PictureBook,"より威力が強化されたガーディアンナイフ
+高い切断力が さらに上昇しており
+耐久性も若干改善している","This Guardian sword has enhanced power
+over the standard model. Its cutting
+capabilities are improved, and its durability
+has seen a slight uptick."
+34,Weapon_Sword_015_Desc,"最大限まで威力が強化されたガーディアンナイフ
+ぶ厚い鎧すら切り裂く攻撃力を備えている
+威力に合わせて刀身も大きくなっている","The abilities of this Guardian sword have
+been boosted to the maximum, as evidenced
+by its increase in size. It slices through
+armor like a hot knife through butter!"
+35,Weapon_Sword_015_Name,ガーディアンナイフ++,Guardian Sword++
+36,Weapon_Sword_015_PictureBook,"最大限まで威力が強化されたガーディアンナイフ
+ぶ厚い鎧すら切り裂く攻撃力を備えている
+威力に合わせて刀身も大きくなっている","The abilities of this Guardian sword have
+been boosted to the maximum, as evidenced
+by its increase in size. It slices through
+armor like a hot knife through butter!"
+37,Weapon_Sword_016_Desc,"ライネルが携える金属製の剣
+斬るというよりは叩き潰す目的で作られている
+人間が扱うにはかなり重いが攻撃力は高い","This Lynel-made sword was designed with
+smashing in mind rather than slicing. It's
+on the heavy side compared to what Hylians
+are used to, but it's very strong."
+38,Weapon_Sword_016_Name,ライネルの剣,Lynel Sword
+39,Weapon_Sword_016_PictureBook,"ライネルが携える金属製の剣
+斬るというよりは叩き潰す目的で作られている
+人間が扱うにはかなり重いが攻撃力は高い","This Lynel-made sword was designed with
+smashing in mind rather than slicing. It's
+on the heavy side compared to what Hylians
+are used to, but it's very strong."
+40,Weapon_Sword_017_Desc,"刃が増えて攻撃力が増したライネルの剣
+すれ違いざまに振りぬく事で
+敵を真っ二つにするといわれる","This Lynel-made sword boasts more blades
+and more attack power. A skilled Lynel can
+draw this sword simply in passing and still
+cut a foe in two."
+41,Weapon_Sword_017_Name,獣王の剣,Mighty Lynel Sword
+42,Weapon_Sword_017_PictureBook,"刃が増えて攻撃力が増したライネルの剣
+すれ違いざまに振りぬく事で
+敵を真っ二つにするといわれる","This Lynel-made sword boasts more blades
+and more attack power. A skilled Lynel can
+draw this sword simply in passing and still
+cut a foe in two."
+43,Weapon_Sword_018_Desc,"白髪のライネルが手にする凶悪な剣
+その分厚く荒々しい刃は どんなに屈強な
+敵であっても易々と叩き斬る攻撃力を持つ","A brutal sword carried by white-haired
+Lynels. The savage blades are strong
+enough to cut down any foe, no matter how
+strong."
+44,Weapon_Sword_018_Name,獣神の剣,Savage Lynel Sword
+45,Weapon_Sword_018_PictureBook,"白髪のライネルが手にする凶悪な剣
+その分厚く荒々しい刃は どんなに屈強な
+敵であっても易々と叩き斬る攻撃力を持つ","A brutal sword carried by white-haired
+Lynels. The savage blades are strong
+enough to cut down any foe, no matter how
+strong."
+46,Weapon_Sword_019_Desc,"切り離されても動き続ける不気味な腕の骨
+あまりポーチに入れておきたくない
+古びてもろくなっているのですぐ壊れる","A skeletal arm that keeps moving even after
+it’s severed from its body. It's kind of gross to
+strap it to your back, but it'll do in a pinch.
+It's old and fragile, so it's quick to break."
+47,Weapon_Sword_019_Name,ボコブリンの骨,Bokoblin Arm
+48,Weapon_Sword_019_PictureBook,"切り離されても動き続ける不気味な腕の骨
+あまりポーチに入れておきたくない
+古びてもろくなっているのですぐ壊れる","A skeletal arm that keeps moving even after
+it’s severed from its body. It's kind of gross to
+strap it to your back, but it'll do in a pinch.
+It's old and fragile, so it's quick to break."
+49,Weapon_Sword_020_Desc,"死してなお動き続ける スタルリザルフォスの骨
+振り回せば武器として使えるが もろい
+背負っている時も動きが少し気になる…","The arm of a Stalizalfos that continues to
+struggle even in death. It can be used as a
+weapon, but it's very brittle. You can feel it
+wiggling when you strap it to your back..."
+50,Weapon_Sword_020_Name,リザルフォスの骨,Lizalfos Arm
+51,Weapon_Sword_020_PictureBook,"死してなお動き続ける スタルリザルフォスの骨
+振り回せば武器として使えるが もろい
+背負っている時も動きが少し気になる…","The arm of a Stalizalfos that continues to
+struggle even in death. It can be used as a
+weapon, but it's very brittle. You can feel it
+wiggling when you strap it to your back..."
+52,Weapon_Sword_021_Desc,"はるかな昔名のある剣士が使っていたであろう
+錆び付いた片手剣
+一応使えるがすぐに壊れてしまう","This once-fearsome sword has seen better
+days. It can do some damage in the right
+hands but also breaks quickly."
+53,Weapon_Sword_021_Name,錆びた剣,Rusty Broadsword
+54,Weapon_Sword_021_PictureBook,"はるかな昔名のある剣士が使っていたであろう
+錆び付いた片手剣
+一応使えるがすぐに壊れてしまう","This once-fearsome sword has seen better
+days. It can do some damage in the right
+hands but also breaks quickly."
+55,Weapon_Sword_022_Desc,"スープをすくったり炒め物で使われる料理道具
+硬い木を削りだして作られているので
+これで叩かれると結構痛い","A kitchen implement often used for serving
+delicious soups. It was carved from the wood
+of a sturdy tree, so it actually packs quite
+the wallop."
+56,Weapon_Sword_022_Name,木のオタマ,Soup Ladle
+57,Weapon_Sword_022_PictureBook,"スープをすくったり炒め物で使われる料理道具
+硬い木を削りだして作られているので
+これで叩かれると結構痛い","A kitchen implement often used for serving
+delicious soups. It was carved from the wood
+of a sturdy tree, so it actually packs quite
+the wallop."
+58,Weapon_Sword_023_Desc,"失われた古の技術を刃にした片手剣
+青く輝く刃は抜刀した時だけ現れる
+その切断力は一般的な金属の剣をはるかに凌ぐ","The blade of this sword was made using an
+ancient power lost to this modern age. Its
+blade appears only when drawn, and its
+cutting power surpasses metal swords."
+59,Weapon_Sword_023_Name,古代兵装・剣,Ancient Short Sword
+60,Weapon_Sword_023_PictureBook,"失われた古の技術を刃にした片手剣
+青く輝く刃は抜刀した時だけ現れる
+その切断力は一般的な金属の剣をはるかに凌ぐ","The blade of this sword was made using an
+ancient power lost to this modern age. Its
+blade appears only when drawn, and its
+cutting power surpasses metal swords."
+61,Weapon_Sword_024_Desc,"目覚ましい功績をあげた騎士に対して
+ハイラル王家から与えられた剣
+最上級の攻撃力と美しい見た目を兼ね備えた逸品","The Hyrulean royal family would award this
+sword to knights who achieved remarkable
+feats. A sword that balances strength and
+beauty as elegantly as this one is a rare find."
+62,Weapon_Sword_024_Name,王家の剣,Royal Broadsword
+63,Weapon_Sword_024_PictureBook,"目覚ましい功績をあげた騎士に対して
+ハイラル王家から与えられた剣
+最上級の攻撃力と美しい見た目を兼ね備えた逸品","The Hyrulean royal family would award this
+sword to knights who achieved remarkable
+feats. A sword that balances strength and
+beauty as elegantly as this one is a rare find."
+64,Weapon_Sword_025_Desc,"コログ族が人間のために作ったといわれる
+木製であるため主に護身用として使われる剣 
+森の植物のツタや根を切り払うのにも使われる","Koroks made this sword for Hylians. It's
+made of wood, so it isn't the best choice for
+head-on attacks. Its original intent was likely
+clearing vines to forge paths through forests."
+65,Weapon_Sword_025_Name,森人の剣,Forest Dweller's Sword
+66,Weapon_Sword_025_PictureBook,"コログ族が人間のために作ったといわれる
+木製であるため主に護身用として使われる剣 
+森の植物のツタや根を切り払うのにも使われる","Koroks made this sword for Hylians. It's
+made of wood, so it isn't the best choice for
+head-on attacks. Its original intent was likely
+clearing vines to forge paths through forests."
+67,Weapon_Sword_027_Desc,"細い刀身とゾーラ族特有の装飾が特徴的な剣
+特殊な金属で作られており高い耐久性を持ち
+水につけたままでも錆びる事がない","The ornamentation that adorns this blade is
+a traditional Zora design. It's forged from a
+very durable and rust-proof metal."
+68,Weapon_Sword_027_Name,ゾーラの剣,Zora Sword
+69,Weapon_Sword_027_PictureBook,"細い刀身とゾーラ族特有の装飾が特徴的な剣
+特殊な金属で作られており高い耐久性を持ち
+水につけたままでも錆びる事がない","The ornamentation that adorns this blade is
+a traditional Zora design. It's forged from a
+very durable and rust-proof metal."
+70,Weapon_Sword_029_Desc,"ゲルド地方で使われる最も一般的な剣
+湾曲した短い刃が特徴で
+ゲルド族の女性が護身用に持つことも多い","This common sword is often carried by
+Gerudo women for self-defense. Its short,
+curved blade is easily recognized."
+71,Weapon_Sword_029_Name,ゲルドのナイフ,Gerudo Scimitar
+72,Weapon_Sword_029_PictureBook,"ゲルド地方で使われる最も一般的な剣
+湾曲した短い刃が特徴で
+ゲルド族の女性が護身用に持つことも多い","This common sword is often carried by
+Gerudo women for self-defense. Its short,
+curved blade is easily recognized."
+73,Weapon_Sword_030_Desc,"ゲルド族の繊細な彫刻が施された剣
+美しい曲線を持つ刃の切れ味は大変鋭い
+かつては祭事にも使われたといわれている","Delicate Gerudo carvings decorate this
+curved sword. The engraved blade is
+extremely sharp. Apparently it once
+served ceremonial purposes in festivals."
+74,Weapon_Sword_030_Name,月光のナイフ,Moonlight Scimitar
+75,Weapon_Sword_030_PictureBook,"ゲルド族の繊細な彫刻が施された剣
+美しい曲線を持つ刃の切れ味は大変鋭い
+かつては祭事にも使われたといわれている","Delicate Gerudo carvings decorate this
+curved sword. The engraved blade is
+extremely sharp. Apparently it once
+served ceremonial purposes in festivals."
+76,Weapon_Sword_031_Desc,"リト族が使う両刃の剣
+空中でも素早い動きができるように
+軽量化する工夫がされている","Rito craftsmen forged this lightweight,
+double-edged sword so Rito warriors
+could soar into battle unhindered by
+its weight."
+77,Weapon_Sword_031_Name,風切羽の剣,Feathered Edge
+78,Weapon_Sword_031_PictureBook,"リト族が使う両刃の剣
+空中でも素早い動きができるように
+軽量化する工夫がされている","Rito craftsmen forged this lightweight,
+double-edged sword so Rito warriors
+could soar into battle unhindered by
+its weight."
+79,Weapon_Sword_033_Desc,"デスマウンテンの溶岩で鍛えたという魔法の剣
+刀身が赤い輝きに満たされているとき
+振るった軌跡に灼熱の炎を吹き出す","This magical sword was forged in the lava
+of Death Mountain. It leaves white-hot flames
+in its wake when the blade glows red."
+80,Weapon_Sword_033_Name,火炎の剣,Flameblade
+81,Weapon_Sword_033_PictureBook,"デスマウンテンの溶岩で鍛えたという魔法の剣
+刀身が赤い輝きに満たされているとき
+振るった軌跡に灼熱の炎を吹き出す","This magical sword was forged in the lava
+of Death Mountain. It leaves white-hot flames
+in its wake when the blade glows red."
+82,Weapon_Sword_034_Desc,"ヘブラ地方極寒の霊峰で鍛えたという魔法の剣
+刀身が青い輝きに満たされているとき
+冷気を発する刃が斬った相手を凍りつかせる","A magical sword forged in the frigid
+mountains of the Hebra region. When
+the blade glows blue, enemies struck
+by it will become frozen."
+83,Weapon_Sword_034_Name,氷雪の剣,Frostblade
+84,Weapon_Sword_034_PictureBook,"ヘブラ地方極寒の霊峰で鍛えたという魔法の剣
+刀身が青い輝きに満たされているとき
+冷気を発する刃が斬った相手を凍りつかせる","A magical sword forged in the frigid
+mountains of the Hebra region. When
+the blade glows blue, enemies struck
+by it will become frozen."
+85,Weapon_Sword_035_Desc,"ハイラル丘陵の落雷に長く晒して鍛えた魔法の剣
+金色の光が刀身に満ちているとき振るうと
+電撃で相手をしびれさせることができる","A magical sword forged and refined by
+lightning from the Hyrule Hills. When the
+blade shines with a golden light, it will
+electrocute enemies struck by it."
+86,Weapon_Sword_035_Name,雷電の剣,Thunderblade
+87,Weapon_Sword_035_PictureBook,"ハイラル丘陵の落雷に長く晒して鍛えた魔法の剣
+金色の光が刀身に満ちているとき振るうと
+電撃で相手をしびれさせることができる","A magical sword forged and refined by
+lightning from the Hyrule Hills. When the
+blade shines with a golden light, it will
+electrocute enemies struck by it."
+88,Weapon_Sword_040_Desc,"キルトン特製の奇妙なハンマー
+殴られてもたいして痛くはないが
+バネの力でボヨ～ンと飛ばされる","This strange hammer is one of Kilton's
+specialties. Being struck by it doesn't hurt
+much, but the fourth swing in a string of
+attacks will send the victim flying."
+89,Weapon_Sword_040_Name,ボヨーンハンマー,Spring-Loaded Hammer
+90,Weapon_Sword_040_PictureBook,"キルトン特製の奇妙なハンマー
+殴られてもたいして痛くはないが
+バネの力でボヨ～ンと飛ばされる","This strange hammer is one of Kilton's
+specialties. Being struck by it doesn't hurt
+much, but the fourth swing in a string of
+attacks will send the victim flying."
+91,Weapon_Sword_041_Desc,"シーカー族の伝統的な片刃の剣
+他に類をみない細身の刀身と切れ味を持っており
+その作刀には古代技術が使われているのだとか","A single-edged sword traditional to the
+Sheikah tribe. Forged using ancient
+technology, it just may be among the
+sharpest conventional weapons ever made."
+92,Weapon_Sword_041_Name,残心の小刀,Eightfold Blade
+93,Weapon_Sword_041_PictureBook,"シーカー族の伝統的な片刃の剣
+他に類をみない細身の刀身と切れ味を持っており
+その作刀には古代技術が使われているのだとか","A single-edged sword traditional to the
+Sheikah tribe. Forged using ancient
+technology, it's said to be among the
+sharpest conventional weapons ever made."
+94,Weapon_Sword_043_Desc,"火をつけると燃え続けるたいまつ
+しまうと火が消えるので
+もう一度つける必要がある","This torch will stay lit once ignited, but if you
+put it away, the flame will be extinguished
+until you light it again."
+95,Weapon_Sword_043_Name,たいまつ,Torch
+96,Weapon_Sword_043_PictureBook,"火をつけると燃え続けるたいまつ
+しまうと火が消えるので
+もう一度つける必要がある","This torch will stay lit once ignited, but if you
+put it away, the flame will be extinguished
+until you light it again."
+97,Weapon_Sword_044_Desc,"どこにでも落ちていそうな木の枝だが
+振り回すのに絶妙なバランス
+装備すれば武器として使える","Wooden branches such as this are pretty
+common, but it's surprisingly well-balanced.
+It doesn't do much damage but can serve
+as a weapon in a pinch."
+98,Weapon_Sword_044_Name,木の枝,Tree Branch
+99,Weapon_Sword_044_PictureBook,"どこにでも落ちていそうな木の枝だが
+振り回すのに絶妙なバランス
+装備すれば武器として使える","Wooden branches such as this are pretty
+common, but it's surprisingly well-balanced.
+It doesn't do much damage but can serve
+as a weapon in a pinch."
+100,Weapon_Sword_047_Desc,"大厄災に対抗すべく古代の技術を使い
+シーカー族が退魔の剣を模して造った武器
+優れた攻撃力を得たが耐久性に問題が残った","A Sheikah-made replica of the sword that
+seals the darkness. It was made with ancient
+technology to oppose the Great Calamity,
+but its low durability made it inefficient."
+101,Weapon_Sword_047_Name,近衛の剣,Royal Guard's Sword
+102,Weapon_Sword_047_PictureBook,"大厄災に対抗すべく古代の技術を使い
+シーカー族が退魔の剣を模して造った武器
+優れた攻撃力を得たが耐久性に問題が残った","A Sheikah-made replica of the sword that
+seals the darkness. It was made with ancient
+technology to oppose the Great Calamity,
+but its low durability made it inefficient."
+103,Weapon_Sword_048_Desc,"古代の魔術師が禁呪で作り上げたといわれている
+火炎球を三つ同時に発生させる杖
+込められた炎の力が尽きると壊れてしまう","A magical rod that can cast three fireballs
+at once, crafted by an ancient magician.
+It will break upon running out of magical
+energy, so make it last!"
+104,Weapon_Sword_048_Name,メテオロッド,Meteor Rod
+105,Weapon_Sword_048_PictureBook,"古代の魔術師が禁呪で作り上げたといわれている
+火炎球を三つ同時に発生させる杖
+込められた炎の力が尽きると壊れてしまう","A magical rod that can cast three fireballs
+at once, crafted by an ancient magician.
+It will break upon running out of magical
+energy, so make it last!"
+106,Weapon_Sword_049_Desc,"ヘブラ山山頂の氷を精錬して作られたといわれる
+超低温の冷気を広範囲に発射する魔法の杖
+込められた冷気が尽きると砕け散る","A magical rod that can cast extreme cold in
+a wide range. These are crafted from refined
+ice found at the summit of Hebra Peak.
+It will break when depleted."
+107,Weapon_Sword_049_Name,フリーズロッド,Blizzard Rod
+108,Weapon_Sword_049_PictureBook,"ヘブラ山山頂の氷を精錬して作られたといわれる
+超低温の冷気を広範囲に発射する魔法の杖
+込められた冷気が尽きると砕け散る","A magical rod that can cast extreme cold in
+a wide range. These are crafted from refined
+ice found at the summit of Hebra Peak.
+It will break when depleted."
+109,Weapon_Sword_050_Desc,"ハイラル丘陵で強烈な落雷を宝珠に封じ込めたと
+いわれる魔法の杖電気の球を三方に発射できる
+込められた雷が尽きると壊れてしまう","A magical rod that can hurl three balls of
+electricity at once. Its gem contains
+electricity from the Hyrule Hills, and the rod
+will break when that electricity runs out."
+110,Weapon_Sword_050_Name,ボルテージロッド,Thunderstorm Rod
+111,Weapon_Sword_050_PictureBook,"ハイラル丘陵で強烈な落雷を宝珠に封じ込めたと
+いわれる魔法の杖電気の球を三方に発射できる
+込められた雷が尽きると壊れてしまう","A magical rod that can hurl three balls of
+electricity at once. Its gem contains
+electricity from the Hyrule Hills, and the rod
+will break when that electricity runs out."
+112,Weapon_Sword_051_Desc,"元々は森の民コログの武器
+独特な形状は投げても手元に
+戻ってくるように考えられている","This throwing weapon was originally used by
+the forest-dwelling Koroks. Its unique shape
+allows it to return after being thrown."
+113,Weapon_Sword_051_Name,ブーメラン,Boomerang
+114,Weapon_Sword_051_PictureBook,"元々は森の民コログの武器
+独特な形状は投げても手元に
+戻ってくるように考えられている","This throwing weapon was originally used by
+the forest-dwelling Koroks. Its unique shape
+allows it to return after being thrown."
+115,Weapon_Sword_052_Desc,"英傑ウルボザが愛用していた屈指の名剣
+ウルボザがこの剣を振るう姿は
+華麗な踊りのようだったと伝えられている","A famous sword once beloved by the Gerudo
+Champion Urbosa. It is said that when
+Urbosa swung this sword in battle, her
+movements resembled a beautiful dance."
+116,Weapon_Sword_052_Name,七宝のナイフ,Scimitar of the Seven
+117,Weapon_Sword_052_PictureBook,"英傑ウルボザが愛用していた屈指の名剣
+ウルボザがこの剣を振るう姿は
+華麗な踊りのようだったと伝えられている","A famous sword once beloved by the Gerudo
+Champion Urbosa. It is said that when
+Urbosa swung this sword in battle, her
+movements resembled a beautiful dance."
+118,Weapon_Sword_053_Desc,"イーガ団が使う片手剣半月形の刃は
+人の首を取る為の形状といわれ 
+彼らの恐ろしさの象徴といえる耐久性は低め","A grim weapon favored by the Yiga. The half-
+moon shape of the blade allows for the rapid
+delivery of fatal wounds and serves as a
+symbol of their terror. Its durability is low."
+119,Weapon_Sword_053_Name,首刈り刀,Vicious Sickle
+120,Weapon_Sword_053_PictureBook,"イーガ団が使う片手剣半月形の刃は
+人の首を取る為の形状といわれ 
+彼らの恐ろしさの象徴といえる耐久性は低め","A grim weapon favored by the Yiga. The half-
+moon shape of the blade allows for the rapid
+delivery of fatal wounds and serves as a
+symbol of their terror. Its durability is low."
+121,Weapon_Sword_057_Desc,"空から現れた勇者が手にしたといわれる剣
+その刀身には女神の炎が宿るという
+構えると不思議と大空の風を感じる","A sword said to have once belonged to a
+hero from the sky. Its blade houses the fire
+of the Goddess. When wielded, a strange
+yet heavenly breeze kicks up around you."
+122,Weapon_Sword_057_Name,女神の白刃剣,Goddess Sword
+123,Weapon_Sword_058_Desc,"古の時代の勇者が使っていたとされる剣
+手にすると不思議と懐かしい気持ちになる","A sword once wielded by a hero in an
+ancient age. When grasped, a strange sense
+of nostalgia washes over you. Take it when
+going alone would otherwise be dangerous."
+124,Weapon_Sword_058_Name,ソード,Sword
+125,Weapon_Sword_059_Desc,"大海原を旅した勇者が
+愛用したといわれている ブーメラン
+ほんのりと潮のかおりがする","A boomerang said to have been used by a
+hero who traveled the Great Sea. It smells
+faintly of salt water."
+126,Weapon_Sword_059_Name,海風のブーメラン,Sea-Breeze Boomerang
+127,Weapon_Sword_060_Desc,"古代の魔術師が作り上げたといわれている
+火の球を発生させる魔法の杖
+直接殴るとすぐに壊れてしまうので注意","A magical rod that can cast fireballs, crafted
+by an ancient magician. The rod will break if
+it strikes something directly, so use it wisely."
+128,Weapon_Sword_060_Name,ファイアロッド,Fire Rod
+129,Weapon_Sword_060_PictureBook,"古代の魔術師が作り上げたといわれている
+火の球を発生させる魔法の杖
+直接殴るとすぐに壊れてしまうので注意","A magical rod that can cast fireballs, said to
+have been crafted by an ancient magician.
+The rod will break if it strikes something
+directly, so use it wisely."
+130,Weapon_Sword_061_Desc,"ヘブラ山脈の氷を精錬して作られたといわれる
+冷気を発生させる魔法の杖
+直接攻撃には向かない","A magical rod crafted from refined ice found
+in the Hebra Mountains. This rod can cast
+waves of freezing air. Great for magic—not so
+great for melee."
+131,Weapon_Sword_061_Name,アイスロッド,Ice Rod
+132,Weapon_Sword_061_PictureBook,"ヘブラ山脈の氷を精錬して作られたといわれる
+冷気を発生させる魔法の杖
+直接攻撃には向かない","A magical rod crafted from refined ice found
+in the Hebra Mountains. This rod can cast
+waves of freezing air. Great for magic—not so
+great for melee."
+133,Weapon_Sword_062_Desc,"ハイラル丘陵で落雷を宝珠に封じ込めたと
+いわれる魔法の杖電気の球を発射できる
+打撃には適していない","A magical rod that can shoot balls of
+electricity. Its gem contains lightning from
+the Hyrule Hills. It's not recommended to
+use as a melee weapon."
+134,Weapon_Sword_062_Name,エレキロッド,Lightning Rod
+135,Weapon_Sword_062_PictureBook,"ハイラル丘陵で落雷を宝珠に封じ込めたと
+いわれる魔法の杖電気の球を発射できる
+打撃には適していない","A magical rod that can shoot balls of
+electricity. Its gem contains lightning from
+the Hyrule Hills. It's not recommended to
+use as a melee weapon."
+136,Weapon_Sword_070_Desc,"伝説の退魔の剣
+輝く刀身には厄災に対抗しうる聖なる力を宿す
+剣に選ばれし勇者だけが手にする事ができる","The legendary sword that seals the
+darkness. Its blade gleams with a sacred
+luster that can oppose the Calamity. Only a
+hero chosen by the sword itself may wield it."
+137,Weapon_Sword_070_Name,マスターソード,Master Sword
+138,Weapon_Sword_070_PictureBook,"伝説の退魔の剣
+輝く刀身には厄災に対抗しうる聖なる力を宿す
+剣に選ばれし勇者だけが手にする事ができる","The legendary sword that seals the
+darkness. Its blade gleams with a sacred
+luster that can oppose the Calamity. Only a
+hero chosen by the sword itself may wield it."
+139,Weapon_Sword_073_Desc,"イーガ団によって作られた凶器
+標的を確実に仕留める為に切り裂く事に
+特化した形状は見た者を恐怖に陥れる","This lethal weapon is forged by the Yiga.
+Its unique shape facilitates the sound
+dispatching of any target and strikes
+fear into the hearts of all who see it."
+140,Weapon_Sword_073_Name,鬼円刃,Demon Carver
+141,Weapon_Sword_073_PictureBook,"イーガ団によって作られた凶器
+標的を確実に仕留める為に切り裂く事に
+特化した形状は見た者を恐怖に陥れる","This lethal weapon is forged by the Yiga.
+Its unique shape facilitates the sound
+dispatching of any target and strikes
+fear into the hearts of all who see it."
+142,Weapon_Sword_080_Desc,"厄災に対抗しうる 伝説の退魔の剣
+剣の試練を経たリンクの成長に伴い
+その刀身は 以前よりも輝きを増している","The legendary sword that seals the
+darkness, a blade whose sacred glow can
+combat the Calamity. Link's conquests in the
+Trial of the Sword have amplified its splendor."
+143,Weapon_Sword_080_Name,マスターソード,Master Sword
+144,Weapon_Sword_081_Desc,"厄災に対抗しうる 伝説の退魔の剣
+全ての剣の試練を経たリンクの成長に伴い
+その刀身は 真の輝きを放っている","The legendary sword that seals the
+darkness, a blade that can combat the
+Calamity. Link's triumph over the Trial of
+the Sword has awakened its true splendor."
+145,Weapon_Sword_081_Name,マスターソード,Master Sword
+146,Weapon_Sword_502_Desc,"一撃必殺でありながら 自らも一撃で命を落とす剣
+2度使うと剣が光を失い 一撃で倒せなくなるが
+しばらく待てば また輝きを取り戻す","A weapon that defeats foes with one hit and
+causes the user to die from one hit. It loses
+its sheen and power after two consecutive
+uses, but will eventually regain both."
+147,Weapon_Sword_502_Name,一撃の剣,One-Hit Obliterator
+148,Weapon_Sword_502_PictureBook,"一撃必殺でありながら 自らも一撃で命を落とす剣
+2度使うと剣が光を失い 一撃で倒せなくなるが
+しばらく待てば また輝きを取り戻す","A weapon that defeats foes with one hit and
+causes the user to die from one hit. It loses
+its sheen and power after two consecutive
+uses, but will eventually regain both."

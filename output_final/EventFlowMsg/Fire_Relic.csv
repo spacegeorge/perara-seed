@@ -1,0 +1,387 @@
+#,Title,JPja,USen
+1,"""0003""",ユン坊を探してた,Lookin' for Yunobo!
+2,"""0012""",あきらめない,I won't give up.
+3,"""0019""",神獣に乗り込みたい,I wanna board Rudania.
+4,"""0033""",大砲で,With a cannon.
+5,"""0034""",ちょっと待って！,Wait a minute!
+6,"""0035""",ウィンクで！,A wink!
+7,"""0036""",口笛で！,A whistle!
+8,"""0037""",テレパシーで！,Mind powers!
+9,"""0038""",あきらめる,I give up.
+10,"""0039""",大丈夫？！,Are you sure?!
+11,"""0040""",今日は中止だって,He's not coming.
+12,"""0041""",腰痛が良くならない,His back hurts.
+13,near01,あわ… あわ…,"Oh, no...goro..."
+14,near04,……,...
+15,near05,おっ！,Hey!
+16,near06,こっちゴロ！,Over here!
+17,near08,ふぅ…,Phew...
+18,talk00,こんなトコまで何しに来たコロ？,"But what brought you all the way
+out here to begin with?"
+19,talk01,"あ そうなんだ！
+組長にボクを探すよう頼まれたのかな？
+ハァ～～～…なんにせよ助かったコロ…","Oh! So that's it! Boss told you to come
+find me!
+
+Phew, thank goodness. In any case,
+I sure am glad you saved me, goro!"
+20,talk100,"さっき テレパシーを送ってくれたみたいだけど
+ボクは何も感じなかったコロよ？","I think your telepathic signals may be
+crossed or malfunctioning, goro.
+I don't seem to be reading you."
+21,talk102,だからウィンクは離れたら見えないコロ…,"I'm tellin' you, I won't be able to see
+a wink from that far away, goro!"
+22,talk103,ちょ…ちょっと！どこ行くコロ？！,"Hey! Where you going, goro?!"
+23,talk104,ルーダニアに乗り込むの あきらめるコロ？,"You really wanna give up tryin' to
+board Rudania, goro?"
+24,talk105,分かった…じゃ また行くコロ！,"OK then, goro. Let's get goin' again!"
+25,talk106,"了解…準備が出来たら
+またここまで来て欲しいコロ","Oh, OK. I get it. When you're ready,
+please just come back here, goro."
+26,talk108,"組長はこっちゴロ！
+ついて来るゴロ！","Boss is over here, goro!
+Come with me!"
+27,talk109,"組長がキミに話があるって…
+何の話かなぁ…","Boss has somethin' he wants to talk to
+you about. I wonder what it is, goro..."
+28,talk110,さぁ！組長のお話しを聞くゴロよ！,"OK! Let's hear what Boss has
+to say, goro!"
+29,talk111,"組長の話って何ゴロ？
+直接聞いてみてゴロ","What did Boss want, goro?
+You should ask him directly!"
+30,talk114,さぁ早く大砲の準備をするコロよ！,"OK. Let's hurry up and prepare
+the cannon, goro!"
+31,talk115,うう…ヒザが震えちゃうコロ…,"Yeesh... My knees are shaking, goro..."
+32,talk116,慎重に行くコロよ…,"We need to tread lightly, goro..."
+33,talk117,次の大砲…次の大砲…,Next cannon... Next cannon...
+34,talk118,ここまでは いつも通りコロ…,"OK. It's not too terribly different from
+usual so far, goro."
+35,talk119,よ～し… この調子コロ…,"OK. We just need to keep going, goro."
+36,talk120,あと少しで…追っ払えそうコロ…,"Just a little more and we can drive
+it off, goro..."
+37,talk121,ミギャ－！助けてー！,"Yaah! Someone, please help me!"
+38,talk122,"わぉ！キミ強いコロね！
+また助けられたコロ！","WOW! You're crazy strong, goro!
+You saved me again!"
+39,talk123,"でもね""神獣がこっちへ来ないように
+組長がオルディン橋を上げてるコロよ…
+ルーダニアのとこに行くには
+あのオルディン橋を架けないといけないコロ
+いつもは組長が この大砲で
+橋を倒してくれるんだけど…","The problem is...good ol' Boss raised the
+Bridge of Eldin to make sure that mean
+Divine Beast couldn't get over here.
+In order to get to where Rudania is,
+we'll have to find a way to get the
+Bridge of Eldin back down, goro.
+Boss would normally use the cannon
+to lower it... Ugh, we can't get across
+unless we figure somethin' out!"
+40,talk13,"う～ん…
+
+……
+
+よく見たら ハイリア人コロ…
+
+ひょっとして キミが岩を壊してくれたコロ？
+どうも ありがとコロ！","Hmm...
+
+
+HMMM...
+
+
+Now that I've gotten a good look...
+Whoa! It's a Hylian!
+
+Were you the one who broke through
+that crag to rescue me, goro?
+Thanks, brother!"
+41,talk143,"ミギャー！助けてー！
+怖いコロー！","Eek! Help meeee!
+I'm scared, goro!"
+42,talk144,"あわ…あわ…
+偵察機が邪魔で先へ進めないコロ…
+困ったコロ…
+進むには どうしたらいいコロ…
+何か方法は ありそうだけど…","Uh-oh. Yikes, goro. We can't keep goin'
+with those sentries in the way...
+
+What should we do? How can we
+possibly move forward?
+
+There must be a way, goro..."
+43,talk148,"ボクが そのユン
+みんなからはユン坊って言われてるコロ","The name's Yunobo. Everyone calls me...
+Yunobo. Makes sense, goro."
+44,talk149,"組長の痛み止めを取りに来たら
+火山弾で岩が崩れて閉じ込められちゃってね…","I came to get some painkillers for Boss,
+but a magma bomb caused a rock slide,
+sealing the entrance, goro."
+45,talk151,"そう言えば キミ…
+どうやって入口の岩を壊したコロ？","By the way... How did you break those
+rocks at the entrance, goro?"
+46,talk152,"ええ～！組長の大砲使ったコロ？！
+
+アレ使うの難し過ぎて
+組長以外使いこなせないコロよ！","Huh? You used Boss's cannon?!
+
+
+That thing is so difficult to use. I thought
+only Boss could handle it!"
+47,talk153,"あっ…おしゃべりしてる場合じゃないコロ
+早く痛み止め届けなきゃ…
+悪いけど ボク もう行くコロ
+後で組長のところに来て！
+ああ見えて組長は義理堅いコロよ
+きっとお礼をくれるコロ！
+じゃあねぇ～","Oops, I nearly forgot! This isn't the time to chat...
+I need to deliver these painkillers as soon
+as possible!
+Sorry, I've gotta run! But do come by and
+see the Boss later, OK? He may be gruff,
+but he always repays a favor.
+I'm sure there's a reward in it for you.
+OK then! Good-bye for now, goro!"
+48,talk154,"せっかく取りに行ったのに…
+あの痛み止め効かなかったコロか…
+組長が来れないなら仕方ないコロね
+いったん帰るコロ…","After we went through all that trouble to
+get them...the painkillers didn't even
+end up working, goro.
+Well, if Boss can't help, there's nothin'
+else we can do. I suppose I'll just head
+back now..."
+49,talk155,え帰らないの？なんで？,"Huh? You're not goin' back?!
+But why, goro?"
+50,talk156,"ええっ！あの神獣に乗り込む？！
+
+なにダルケル様みたいな事言ってるコロ！
+中に入るなんて危ないコロよ
+弱らせたら入れるかもしれないけど…
+
+でも… どうして？","WHAT?! You're gonna try to board
+the Divine Beast?
+
+Who do you think you are...Lord Daruk?
+It's dangerous in there, goro!
+
+Though I guess if you weakened it first,
+it might be possible...
+
+But...why risk it?!"
+51,talk158,"ふ～ん… よく分かんないけど
+キミにも事情があるコロね…","Hmm. Well, I don't really get it, but I'm
+sure you have your reasons, goro..."
+52,talk159,"組長が来れないなら
+大砲で橋も架けれないし無理コロよ！","If Boss can't come down here, then he
+can't use the cannon to lower the bridge.
+That means we're out of luck, goro!"
+53,talk16,"よーし…早く橋を渡るコロよ
+ドキドキ…","OK! Here we go!
+Gosh, I'm nervous...goro."
+54,talk160,"あっ…！そう言えば キミ
+組長の大砲使えるコロね？
+だったら行けるかも…","Oh! It occurs to me that YOU know how
+to use the cannons! Don't you, goro?
+
+Maybe we CAN get across after all..."
+55,talk162,"だったら いつも組長とやってるように
+ボクが弾になるからキミが撃って欲しいコロ！","So let's just do what I do to help Boss
+sometimes. That means I'm gonna be the
+cannonball! And you'll launch me, goro!"
+56,talk163,"助けてくれて ありがとコロ！！
+キミが来てくれなかったら危なかったコロよ…
+ふぅ…
+それにしても組長 まだかなぁ…","Thanks for savin' me, brother! I would've
+been in real trouble if you hadn't shown
+up when you did, goro.
+*sigh* Still no sign of Boss, eh?"
+57,talk164,"えぇ！""中止？！
+どうしてぇ？！","Huh? Not coming? But why, goro?!"
+58,talk165,"ボクにはこの ご先祖様譲りの
+ダルケルの護りが あるからね！
+これだと何にぶつかっても
+全く痛くないコロよ！","I've got Daruk's Protection, goro!
+My ancestor's help can't possibly
+fail me!
+That means I can smash into anything
+and it won't hurt one bit, goro!"
+59,talk166,"ボクのご先祖のダルケル様は
+それはそれは凄い人だった！
+…って組長が言ってたコロ
+
+ボクはそのダルケル様と同じ
+ダルケルの護りを使えるんだからね！","My ancestor, Daruk, was a big deal, goro.
+That's what Boss says, so it's just gotta
+be true!
+And I can use Daruk's Protection just like
+Daruk could! That means there's no need
+to worry, goro!"
+60,talk167,"だからキミは大船に乗ったつもりで
+オルディン橋を狙って撃つだけでいいコロ！
+でも手加減は して欲しいコロ…","So rest easy, got it? Well, go on then!
+Take aim at the Bridge of Eldin and
+fire away, goro!
+Just, y'know...be kinda gentle about it..."
+61,talk168,あわ…あわ…,Owww... OUCH...
+62,talk169,こいつら倒してー！,Take 'em out!
+63,talk17,"神獣 ヴァ・ルーダニア…
+今日も やったるコロ…","The Divine Beast Vah Rudania...
+is out causing trouble again."
+64,talk170,ひぃぃ～～！,Eeeeek!
+65,talk171,"あのね さっきボク
+ルーダニアの上に立つダルケル様を見たんだよ！
+あれは…まぼろしだったのかなぁ？
+
+でも なんだか少し勇気が湧いてきたゴロ！","Ya know... While I was up there, I coulda
+sworn I saw Lord Daruk standin' on top
+of Rudania!
+I wonder... Was that his ghost?!
+
+
+I dunno how to explain it, but somehow
+I feel a lot braver now, goro!"
+66,talk172,"ボクは キミの指示に従うコロ
+口笛で指示して欲しいコロ","I'll follow your instructions—promise!
+Just whistle to let me know what
+I need to do, goro."
+67,talk173,"キミが口笛を吹く度に
+ボクは進んだり止まったりするからね","Each time you whistle, I'll either stop or
+start moving accordingly. OK?"
+68,talk18,"オルディン橋""架かったコロ…
+さぁ""早く橋を渡るコロよ","The Bridge of Eldin is down...
+OK! Let's get across quickly, goro!"
+69,talk19,"ご先祖様のダルケルの護りは凄いコロ！
+さぁ""早く橋を渡るコロよ","My ancestor's power, Daruk's Protection,
+is amazing! OK then. Let's get across
+that bridge quickly, goro!"
+70,talk49,"さぁ後はキミに任せたコロよ
+ボクはここから見守ってるコロ
+もし何か準備が足りないなら
+一度ゴロンシティに帰るといいコロ","OK, I'll leave the rest to you.
+I'll be watching from here, goro.
+
+If you feel like you need to prepare a bit
+more, you can always return to town."
+71,talk51,"あっ キミ？！
+飛び込んだんじゃなかったコロ？！
+でもまだルーダニアは下で生きてるみたいコロ
+また復活したらヤだなー…
+何とかしないとだけど
+この高さを飛び降りるのは ボクには無理コロ…","Hey, it's you! But... Wait... Didn't you
+jump down? I coulda sworn you did...
+
+Anyway, it looks like Rudania is still
+active down there.
+
+I really don't want him gettin' back up,
+goro. We've gotta do somethin'!
+
+But there's no way I'd survive if I jumped
+down from this high up, goro..."
+72,talk52,"やぁ！ キミィ！
+ルーダニアを鎮めてくれて ありがとゴロ！","Hey! Brother! Thanks so much for
+appeasing Rudania, goro!"
+73,talk53,"あっ そうだ！
+
+組長に キミの事話したら
+「連れて来い」って言われてたゴロ！
+組長の命令は絶対ゴロ！
+早く来るゴロ！","Oh! That's right!
+
+
+I talked to Boss about you, and he said
+to bring you to him!
+
+An order from Boss can't be refused.
+Move it, goro!"
+74,talk58,"キミがルーダニアの中で
+何してたのかは知らないけど
+アイツ…
+すっかり おとなしくなっちゃったゴロよ","I don't exactly know what you were doin'
+in Rudania, but...
+
+Well...it seems to have calmed down,
+goro!"
+75,talk66,さぁ早く橋を渡るコロよ！,"Let's hurry and cross the bridge, goro!"
+76,talk94,"あわ…あわ…
+いつも あの偵察機が やっかいコロよ…
+あれに見つかるとルーダニアが暴れて
+デスマウンテンを噴火させるコロ…
+ボク…いつもすぐ見つかっちゃって
+何度も火山弾""降らしちゃうコロ…
+組長なら火山弾を振り払って強引に行くけど
+キミが喰らうと イチコロコロ
+迷惑かけたくないし
+止まるか進むか ボクに合図を出して欲しいコロ","Oh... Yikes... A sentry is always a
+nuisance, no matter where it is or
+how many of them there are.
+If one finds you, Rudania will go nuts,
+which will cause Death Mountain
+to erupt, goro.
+I...always get spotted, and then
+magma bombs come raining down
+one after another.
+If Boss were here, he'd swat those
+magma bombs away like they were
+nothin' and force his way up!
+I don't think you'd be able to do that,
+goro. And I don't wanna cause you
+any trouble. Hmmm...
+Maybe the best idea is for you to give me
+a signal to let me know when I should
+stop and when I can move forward."
+77,talk95,"じゃ その合図を決めるコロ
+何かいい方法 あるコロ？","Let's hurry and decide what the signal
+will be, goro! Um, got any ideas?"
+78,talk96,"う…ウィンク？！
+
+ウィンクなんて離れてたら見えないコロよ！
+もっといい方法考えるコロ！","A wink? Ummm...
+
+
+Yeaaaah, I don't think I'd be able to see
+that from way off in the distance, goro.
+Try to think of somethin' better!"
+79,talk98,"わぉ！テレパシー？！
+
+最近のハイリア人は
+テレパシー使えるコロ？！
+ん…
+
+…
+
+…まだかな？
+
+…
+
+ちょっと！何も感じないコロ！","Mind powers?! Wow! You mean, like,
+real-life telepathy?
+
+I didn't know you Hylians could do that
+sort of thing these days!
+
+...
+Are you transmitting yet, goro?
+...
+What the? I'm not receiving anything
+over here!"
+80,talk99,"口笛？な なるほどコロー！
+
+キミの口笛が聞こえたらボクは
+止まったり進んだりしたら いいコロね！
+ちょっと お馬さんみたいで アレだけど…
+
+じゃ ボクが偵察機に見つからないよう
+口笛で合図よろしくコロ！","A whistle? Ah, that's a great idea, goro!
+
+
+When I hear your whistle, I'll either stop
+in my tracks or start moving forward!
+I like it!
+Even though it's kinda like calling a horse, goro...
+
+
+OK then. I'm counting on you and your
+whistles to make sure I'm not spotted
+by those awful sentries!"

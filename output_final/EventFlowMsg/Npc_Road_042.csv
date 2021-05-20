@@ -1,0 +1,185 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ… はぁ…ぜぇ…ぜぇ…
+ふぅ ノド乾いた","*huff...* *puff...* *huff...* *puff...*
+Yikes, I'm really thirsty."
+2,Atacked01,もう～魔物のやつめ～,Argh! Those blasted monsters!
+3,Failed00,危うく やられちゃうとこだったゴロよ…,I almost had it...
+4,Failed01,イテテ…頑丈な体なのに イテテ…,"Youch... And I'm pretty sturdy, too...
+Owww..."
+5,Guardian00,"早く逃げるゴロ！
+ガーディアンが来るゴロよー！",Run for your life! A Guardian's coming!
+6,MSG_Akka_00,"鉱石持っているゴロ？
+持ってるなら お店で売っちゃうのがいいゴロ
+珍しい鉱石は高く売れるゴロよ～！","Do ya have any ore? If so, it's best to
+sell it at the shop. You can sell the
+rare ones for a high price!"
+7,MSG_Akka_00_1,"いらない鉱石は お店で売っちゃうのがいいゴロ
+キラキラ光る宝石は高く売れるゴロよ～！","If ya have any ore ya don't need,
+it's a good idea to sell it at a shop.
+The sparklies go for a high price!"
+8,MSG_Akka_01,"ゴロンシティに行ったことはあるゴロ？
+ここから西のデスマウンテンにあるゴロ！
+ただ道中はゴロン族以外は
+熱くて大変だとも聞いているゴロ！","Have ya ever been to Goron City?
+It's in Death Mountain to the west!
+
+Oh, but I hear the journey's too hot for
+anyone who isn't a Goron..."
+9,MSG_Akka_01_1,"ゴロンシティなら
+西のデスマウンテンにあるゴロ！
+道中は熱くて大変だけど一応お店もあるし…
+一度行ってみてほしいゴロ！","Goron City is in Death Mountain to the
+west of here.
+
+The journey there's rough, but there are
+lots of great shops. I'd love for you to
+pay a visit sometime!"
+10,MSG_Akka_02,"ボルドンというゴロン族を知っているゴロ？
+彼は おいらの兄弟ゴロ！
+小さい事は気にしない豪快なゴロン族だゴロ！
+今頃 どこを旅しているゴロかね～？","Do ya know a Goron named Boldon?
+He's my brother!
+
+He's a big-hearted Goron who doesn't
+get caught up in the little things.
+Who knows where he's travelin' now..."
+11,MSG_Akka_02_1,"おいらの兄弟ボルドンも
+きっとどこかで旅をしてるゴロ
+見かけたら声かけてあげてほしいゴロ","I know my brother, Boldon, is off
+travelin' somewhere.
+
+If ya run into him, I'd love it if you'd
+stop and chat a bit!"
+12,MSG_Akka_03,"宝石は高く売れるゴロよ！
+
+旅の道中で鉱床を見つけたら
+採掘するクセをつける事を お勧めするゴロ！","You can sell your ore for a high price!
+
+
+If ya find ore deposits while travelin',
+I suggest ya get into the habit of
+mining 'em!"
+13,MSG_Akka_03_1,"道中で鉱床を見つけたら採掘するゴロ！
+出て来た宝石は高く売れるしね！","When I find an ore deposit, I have at it!
+The sparklies that come out of 'em
+can be sold at a high price!"
+14,MSG_Akka_04,"ここがヒガッカレ馬宿だゴロ！
+
+鉱石を持っているなら食べないで
+この馬宿で売っちゃうのがいいゴロよ！
+まあ ゴロン族以外は食べないと思うゴロが…","This is the East Akkala Stable!
+
+
+If ya have any ore, DO NOT eat it!
+Instead, sell it at this stable!
+
+Though, I guess a non-Goron wouldn't
+be tempted to eat it anyway... Weird."
+15,MSG_Akka_04_1,"馬宿に着いたら要らない物を売るといいゴロ！
+
+要らない鉱石は おいらなら食べちゃうけど
+ハイリア人なら…売るゴロ？","When you arrive at a stable, you can sell
+them the things ya don't need.
+
+I would just eat the rocks I don't need,
+but...for a Hylian like you... I suppose
+you'd rather sell 'em?"
+16,Near00,おはゴロ…,Mornin'...
+17,Near01,お昼ごろゴロ？,Is it lunch time yet?
+18,Near02,岩食べたいゴロ…,I wanna eat some rocks...
+19,Near03,岩のように眠いゴロ…,It's dark as onyx...
+20,Near04,焼け石に水…,This is hopeless...
+21,Rest_00,"おいらはナッドン！
+ボルドンという兄弟がいるゴロ！
+彼は今頃オルディン街道を旅しているゴロよ！","I'm Naddon! I have a brother
+named Boldon!
+
+He's probably travelin' the Eldin
+High Road about now..."
+22,Rest_01,"天気悪いゴロね…
+無理して出歩かない方がいいゴロよ！","The weather's awful... I think it's best
+not to force yourself to walk through
+this stuff!"
+23,Rest_02,"ゴロゴロゴロ…！
+
+おいらじゃないゴロ！空が鳴ったゴロ…！","Rumble! Rumble!
+
+
+Hm? What, that's not me! 
+That was the thunder!"
+24,RetMSG_Akka_00,"ゴロン族は岩を食べて生活してるゴロ！
+
+でも珍しい鉱石は食べるか？売るか？
+さすがに迷ってしまうゴロ！","We Gorons live on rocks! YUMMM!
+
+
+Ore, on the other hand... Nah. I'd sell
+that before I ate a single bite!"
+25,RetMSG_Akka_00_1,"ゴロン族は岩が主食なんだけど
+珍しい鉱石は食べるか売るか迷っちゃうゴロ！","Rocks are the staple food of a healthy
+Goron diet. That's why I always wonder
+whether to sell rare rocks or eat 'em!"
+26,RetMSG_Akka_01,"デスマウンテンの頂上に行くまでにある
+ゴロン温泉を知ってるゴロか？
+道は険しいが温泉目的で訪れる旅人もいる…
+っていう話を聞いたゴロ！
+命がけゴロね…","Do ya know of the Goron Hot Springs
+that are on the way to the peak of
+Death Mountain?
+The road there's dangerous, but there
+are travelers who go to try out the
+hot springs... Or so I've heard!
+That sounds dangerous, though...
+Non-Gorons would be risking their
+lives if they tried that."
+27,RetMSG_Akka_01_1,"デスマウンテンにあるゴロン温泉は
+知る人ぞ知る名湯ゴロ
+でも道は険しいしデスマウンテンは熱いし…
+行くなら命がけゴロよ","The Goron Hot Springs are a famous
+spot, but the road there is dangerous,
+and Death Mountain is crazy hot.
+If you decide to go, just know that you're
+risking your little Hylian life!"
+28,RetMSG_Akka_02,"鉱石の中でも とても高価な物があるゴロ
+それらは宝石って呼ばれてるゴロ
+宝石は宝箱や鉱床から見つかる事があるけど…
+食べてもマズいから売る事にしてるゴロ","There's some particularly valuable ore
+out there. They're called gems.
+
+You might find gems in treasure chests
+or ore deposits, but...they don't taste
+so good. That's why I usually sell 'em."
+29,RetMSG_Akka_02_1,"宝石は宝箱や鉱床から見つかる事があるけど
+食べてもマズいから売る事にしてるゴロ","You can find gems inside treasure chests
+and ore deposits. They taste awful, so I
+tend to sell 'em."
+30,RetMSG_Akka_03,"この前この街道で南西のゲルド地方から来た
+「ゲルド族」に声をかけられたゴロ！！
+美人だったゴロよ～！","The other day, a Gerudo woman talked to
+me on this road. She was from the
+Gerudo region in the southwest. 
+She was so pretty! Her hair was as
+shiny as stone!"
+31,RetMSG_Akka_03_1,"ゲルド地方から来たゲルド族…
+美人だったゴロよ～！","The Gerudo woman who came from the
+Gerudo region... She was so pretty!"
+32,RetMSG_Akka_04,"「ヒガッカレ馬宿」と「ミナッカレ馬宿」
+おいらも時々間違えるゴロ！
+こちらは えーっと…どっちだったっけゴロ？","East Akkala Stable...
+South Akkala Stable...
+I get those two mixed up!
+But I know I'm definitely on my way to...
+Erm... Heh, actually I dunno!"
+33,RetMSG_Akka_04_1,"「ヒガッカレ馬宿」と「ミナッカレ馬宿」…
+どっちが どっちだったっけゴロ？","There's East Akkala Stable and also
+South Akkala Stable... But which one
+is which?"
+34,SavedLv1_00,"いやー""助かったゴロ！","Wow! You really helped me out, brother!"
+35,SavedLv1_01,強いゴロねー！助かったゴロ！,"You're super strong! You really helped
+me out, brother!"
+36,SavedLv2_00,いやーほんとうに助かったゴロ！,"Wow! You saved me, brother!"
+37,SavedLv2_01,キミ強いゴロね！ ありがとゴロ！,"You're strong! Thanks so much, brother!"
+38,SavedLv3_00,命の恩人だゴロ！,"I owe ya my life, brother!"
+39,SavedLv3_01,ありがとう！危なかったゴロね！,"Thanks, brother! Phew, that was close!"
+40,Thanks00,ハイこれ感謝の気持ちだゴロ！,"It's not much, but this is for you,
+brother."

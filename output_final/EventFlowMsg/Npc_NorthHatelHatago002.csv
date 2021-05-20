@@ -1,0 +1,66 @@
+#,Title,JPja,USen
+1,"""0002""",バイバイ,I have to go.
+2,"""0003""",どうしたの？,What's the matter?
+3,"""0004""",説明役？,Directions?
+4,"""0005""",東には何があるの？,What's to the east?
+5,"""0006""",西には何があるの？,What's to the west?
+6,"""0007""",北には何があるの？,What's to the north?
+7,"""0008""",南には何があるの？,Yeah.
+8,"""0009""",結構です…,"No, thanks..."
+9,talk02,Zzz…,Zzz...
+10,talk06,"イッソー兄ちゃんも ヨレール兄ちゃんも
+毎日遊んでばっか…
+説明役を ボクに押し付けてさ…","My older brothers Izra and Yolero play
+all day long, but I have to stay here and
+give directions."
+11,talk07,ハァ…,Hah...
+12,talk08,"うん
+馬宿協会会則第4章の第9項目に
+「各馬宿には その地域の説明をする説明員を
+一人は常駐させる事」ってあるんだよ
+それをボクに押し付けて
+本人達は遊んでばっかり…
+この湿原の馬宿で説明員の資格を持ってるの
+ボクだけだから仕方無いんだけどね","Yeah. Chapter four, article nine of the 
+Stable Association Regulations states:
+
+\""Each stable must have personnel
+ready to give directions to visitors
+at all times.\""
+And somehow I got stuck with this dumb
+job instead of playing like my brothers.
+
+I guess that's what I get for being the
+only person at Wetland Stable with a
+grasp on geography..."
+13,talk09,"さてさて それじゃあ
+周辺の説明を させてもらいますか…","OK, let's get this over with.
+What do you want to know about the
+surrounding area?"
+14,talk10,ハイ次,All right. Next.
+15,talk11,…南の説明は しなくていい？,"You want to know what's south of
+here?"
+16,talk12,"…南の事ならリバーサイド馬宿で
+聞けばいいんじゃないですか？ハハッ…","Me too, but I never get to leave this
+stable. If you really want to know, you
+should go ask at Riverside Stable."
+17,talk13,"はいはい
+冷やかしなのは分かってますけどね",My life is a joke.
+18,talk14,ゾーラの里以上,"Zora's Domain.
+That's about it."
+19,talk15,"ハイラル城 
+
+なんでも東坑道っていう隠し通路があって
+ハイラル城の中に通じているらしいですよ
+今はどうなってるか分かりませんけどね","Great question, Mr. Perceptive.
+Hyrule Castle.
+
+There's a hidden escape route from
+Hyrule Castle called the East Passage.
+
+I hear it leads directly into the castle.
+It was made for the old royal family
+though, so who knows if it's still usable."
+20,talk16,デスマウンテンとか その他諸々以上,"You know—Death Mountain and some
+other junk. "
+21,talk17,では また…,See you around...

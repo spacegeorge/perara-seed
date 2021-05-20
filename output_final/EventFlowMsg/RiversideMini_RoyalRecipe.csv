@@ -1,0 +1,173 @@
+#,Title,JPja,USen
+1,"""0000""",話を聞く,I'll listen.
+2,"""0001""",やめておく,Not now.
+3,"""0002""",フルーツケーキを渡す,Give him fruitcake.
+4,"""0003""",マモノケーキを渡す,Give him monster cake.
+5,"""0004""",やめておく,Not right now.
+6,Talk00,"おや お客さん一人旅ですかな？
+ぜひ この美しい川沿いの宿でご休憩ください","Ah, a customer. Are you traveling alone?
+This inn gets full marks for beauty, so I
+highly recommend taking a rest here."
+7,Talk01,"おや？ こんな雨の中一人旅ですかな？
+ぜひ この美しい川沿いの宿でご休憩ください","Traveling alone—and in the rain no less?
+This inn is a thing of beauty, rain or
+shine, so it's a fine place to take a break."
+8,Talk02,"この川も美しいですが ここから北東に進むと 
+とても美しい湿地帯千の中州があります
+私 美しいものに目がないのですよ
+この麗しい体を見てもお分かりでしょう……？","The river here makes for some lovely
+scenery, and if you head northeast from
+here, you'll find the Millennio Sandbar.
+The scenery there is every bit as lovely
+as the scenery here!
+
+I'm something of a connoisseur of
+beauty, you see—I simply cannot
+resist a beautiful sight!
+I try to exude this in all things, not least
+of all my own beautiful appearance."
+9,Talk03,"ところで お客さん…
+なかなか美しい目をしていますね","Speaking of, has anyone ever told you...
+You have the most beautiful features!"
+10,Talk04,"よろしければ私の思い出話
+お聞きになりませんか？","Ahh, I do have many fond memories of
+this beautiful land... If you have the
+time, would you indulge me?"
+11,Talk_Challenge00,"このハイラル平原を北に行くと
+禍々しい雰囲気のお城が見えてきます
+今では魔物の巣窟と成り果てていますが
+かつては とても美しかったのでしょう
+そこでは私の祖先…祖父の祖父が
+宮廷料理人として働いていたそうなのです
+王家の方々はどのような
+料理を召し上がっていたのだろうか…
+私は幼い頃から美しい料理を妄想しながら
+様々な料理を食べました
+極上ケモノステーキ海の幸カレー
+キノコリゾット たまごプリン
+ふふっ
+この麗しい体はそのおかげかもしれませんね
+今では馬宿で働きながら立ち寄った旅人と
+美しい料理の話をするのが楽しみなのです
+…さて
+話が長くなってしまいました
+旅の方 あなたの美しい目を見込んで
+お願いがあります
+もしハイラル城に足を踏み入れることがあれば
+どこかに料理レシピの文献が残っていないか
+調べてきていただけないでしょうか？
+ぜひ王家の料理を食してみたいのです","If you head north through Hyrule Field,
+you'll see the castle surrounded by that
+foul aura.
+It has long been a den of monsters, but
+in its glory days it was surely a thing of
+wondrous beauty.
+It was in that very castle in those very
+days that my ancestor... Hmm, my
+grandfather's grandfather, I believe...
+Anyway, he worked as the castle's
+appointed chef! I couldn't believe
+it myself!
+Oh, how I wonder what sorts of cuisine 
+members of the royal court enjoyed in
+those good ol' days...
+As a child, I would often suffer meager
+meals, all while dreaming of the beautiful
+dishes that might have graced my plate.
+Oh, if only things had been different!
+Gourmet spiced meat, seafood curry,
+mushroom risotto, egg pudding...
+Oh, my, I think I'm salivating. And it's my
+pursuit of those childhood dreams that
+explains the fabulous body you see here!
+These days, I enjoy my time working at
+these stables, sharing my tales of beauty
+with any traveler willing to listen.
+But I still wonder what could have been.
+Anyway, excuse me... I seem to have
+caught myself prattling on.
+But looking upon your perfectly
+symmetrical face and discussing meals of
+beauty has rekindled my desire.
+If you should happen to set foot inside
+Hyrule Castle, could you find it in you to
+keep an eye out for a cookbook?
+There must be one lying around
+somewhere in there! I'm simply dying to
+finally sample the food of the royal court."
+12,Talk_Challenge01,"ハイラル王家の料理…
+今でも作れるのなら食してみたいものです","A cuisine lovely enough to be favored by
+the Hyrulean royal family... If the recipe
+still exists, I'd love to try it!"
+13,Talk_Challenge02,"えっ？！
+ハイラル王家の料理レシピを発見したのですか？","You what?! You really discovered a royal
+cookbook?"
+14,Talk_Challenge03,"ぜひ作っていただいて
+私に味見させていただけませんか？","Could I bother you further to prepare the
+dish for me? I must sample it!"
+15,Talk_Challenge04,"ぜひ作っていただいて
+私に味見させていただけませんか？","Could I bother you further to prepare the
+dish for me? I must sample it!"
+16,Talk_Challenge05,そんな… ひどい…,"To taunt me with such a delectable and
+beautiful aroma yet not share...
+So cruel..."
+17,Talk_Challenge06,"これがハイラルの姫が食したと言われる
+フルーツケーキ…","This... This is the fruitcake said to be
+eaten by the princess of Hyrule..."
+18,Talk_Challenge07,"もぐ もぐ もぐ…
+……ごくんっ","*crunch* *munch...munch*
+*gulp*"
+19,Talk_Challenge08,"ふあぁぁ…
+……これは…
+草原を馬で駆け抜けるような爽やかな香り…
+いや そんな単純な味じゃない
+途中でガーディアンに見つかったような
+ピリッとした緊張も感じられる…","Simply...delicious... How could I possibly
+describe this experience?
+
+A refreshing aroma reminiscent of
+galloping across these majestic planes
+on horseback...
+No, that undersells the dish's complexity.
+
+
+It fills me with that heart-thumping
+intensity that seizes your very soul
+when you're spotted by a Guardian!"
+20,Talk_Challenge09,"なんと美味なる料理！
+こんな料理があったとは！
+いやぁ素晴らしい料理をいただきました
+これは心ばかりのお礼です","A truly elegant dish! I never thought I
+would taste something quite so thrilling.
+
+I really must thank you for giving me
+such a beautiful meal! Here, take this.
+For your trouble."
+21,Talk_Challenge10,"これがハイラルの大臣が食したと言われる
+マモノケーキ…","This monster cake is said to have been a
+favorite of the minister of Hyrule."
+22,Talk_Challenge11,"ふおぉぉ…
+……これは…
+チュチュをかじったようなドロドロした食感…
+いや そんな単純な味じゃない
+ヒノックスにガツンと殴られたような
+脳天を刺激する旨味が感じられる…","It tastes...beautiful...
+How can I put it into words?
+
+It's like biting into a Chuchu...
+
+
+No, no, that would be disgusting and
+dangerous. It stimulates the brain, much
+like being pummeled by a Hinox!"
+23,Talk_No,"そうですか…
+またいつでも お声掛けください","Oh, I see...
+Very well. I'll be here if you change
+your mind."
+24,Talk_Yes,"聞いていただけますか！
+ありがとうございます
+それでは……","Oh, you would?
+Even more beautiful on the inside!
+Now, let's see..."
+25,Talk_near00,お腹すいた…,I could go for a bite...
+26,Talk_near01,宮廷料理…じゅるり…,"Mm, royal cuisine..."

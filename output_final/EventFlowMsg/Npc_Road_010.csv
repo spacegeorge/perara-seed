@@ -1,0 +1,272 @@
+#,Title,JPja,USen
+1,"""0000""",買う,Fixin' to buy.
+2,"""0001""",売る,Lookin' to sell.
+3,"""0002""",さようなら,Not right now.
+4,"""5500""",はい,Sounds good!
+5,"""5501""",いいえ,Maybe not...
+6,"""5502""",買う,I'll take it.
+7,"""5503""",やっぱりやめる,On second thought...
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,I'll sell them all!
+10,Atacked00,魔物が去るまで じっと待ちましょう…,"I'll just wait here until the monsters go
+away on their own..."
+11,Atacked01,まだ じっとしていたほうが…,I think I'd better just stay here.
+12,Com_Talk_00,どれを売ってくれますか？,Whatcha sellin'?
+13,Com_Talk_01,"ですね？
+ルピーですが よろしいでしょうか？","Hrm... If that's what you're thinking,
+does  rupees sound fair?"
+14,Com_Talk_02,"ありがとうございます！
+他にも何かありますか？",Thank you kindly! Is there anything else?
+15,Com_Talk_02b,ありがとうございます！,Thank you kindly!
+16,Com_Talk_02c,どうも ありがとうございます！,Thank you very much!
+17,Com_Talk_02d,歩いてきた甲斐がありました,"Your business made it worth walking all
+the way out here!"
+18,Com_Talk_04,それは残念ですね！,"Oooh, but I really want it!"
+19,Com_Talk_05,何でも買い取りましょう！,I'll buy anything you've got. Just try me!
+20,Com_Talk_05b,買い取りも おまかせ！,Just leave the buying to me!
+21,Com_Talk_05c,何でも お売りください！,"I'll be more than glad to buy anything
+you don't want."
+22,Com_Talk_05d,何でも買い取りますよ,I'll buy anything. Seriously!
+23,Com_Talk_06,どれを買ってくれますか？,Whatcha lookin' to buy?
+24,Com_Talk_07,ごめんなさい！ それは今切らしていて…,"Oh, so sorry! Looks like I'm fresh out of
+that one."
+25,Com_Talk_08,"ルピーが足りないみたいですね…
+残念ですが またの機会に","Looks like you're a bit short on rupees.
+Find me the next time I come around."
+26,Com_Talk_09,"ポーチがいっぱいみたいですね…
+中の物を売るか捨てるかしていただければ","Looks like your bag is a mite full.
+Just sell or toss a few things to free
+up some space."
+27,Com_Talk_10,を お買い上げですね？,"Lookin' to buy
+?"
+28,Com_Talk_11,ありがとうございます！,Thank you kindly!
+29,Com_Talk_11b,ありがとうございます！,Thank you much!
+30,Com_Talk_11c,ありがとうございます！,Much obliged!
+31,Com_Talk_11d,ありがとうございます！,Thank you!
+32,Com_Talk_12,"穀物なら おまかせあれ！
+どうぞ ごらんください！","If it's rice you need, I'm your gal!
+Take your time browsing!"
+33,Com_Talk_13,"ですね？
+いくつ売っていただけますか？",How many you looking to sell?
+34,Com_Talk_14,"を個で…
+合計ルピーで買い取りますよ？","Hmm... You wanna sell ?
+I can go as high as  rupees."
+35,Com_Talk_15,それはちょっと お買い取りできなくて…,I couldn't possibly buy that from you.
+36,Com_Talk_16,"着ている服は そのままでは買えませんわ
+お脱ぎになってから お願いします！","I can't literally buy the clothes off your
+back. Go ahead and change first.
+Don't worry, I ain't peekin'!"
+37,Com_Talk_20,"こんな日は特別にゴロンの香辛粉を販売します
+寒い地域で お役に立ちますよ","Be sure to check out my rainy-day
+special: Goron spice. It's handier than
+a Cucco on a rooftop if it's cold out!"
+38,Com_Talk_30,"が個で
+合計ルピーになりますね","Well,  will cost ya  rupees."
+39,Com_Talk_31,"をお買い上げで？
+いくつでしょうか？",How many can I do ya for?
+40,Com_Talk_33,"を ひとつですね？
+ではルピーで買い取りますが？","Just one? I'll buy it for  rupees.
+Sound fair?"
+41,Com_Talk_34,"を全てお買い上げ？
+個でルピーになりますが？","Well, well...I may close early today.
+I've got , so that'll be  rupees."
+42,Com_Talk_35,"を個全部？
+合わせてルピーで買い取りましょうか？","I'll give you  rupees for the lot.
+Sound fair?"
+43,Com_Talk_36,"今ので最後です
+たくさんのお買い上げ うれしいです","Phew, that was the last of them.
+I'm glad you bought me out!"
+44,Com_Talk_37,"もう今日は売るものがなくって…
+入荷予定の品物でも ごらんになります？","Sorry, looks like I'm all sold out for the
+day. Want a sneak peek of what I'll
+have in stock next time?"
+45,Com_Talk_56,"を ひとつですね？
+ルピーですが よろしいですか？","Just one, is that right?
+That'll be  rupees. Sound good?"
+46,Failed00,足がすくんでしまって…,"That had me so scared I reckoned my
+legs wouldn't be movin' again!"
+47,Failed01,大切な売り物が心配…,I'm worried about my precious wares.
+48,GoodBye00,また この街道のどこかで！,"Thanks for stoppin' by.
+See you down the road!"
+49,Guardian00,ガーディアンから早く逃げましょう！,"A Guardian... We need to hightail it
+while we can!"
+50,MSG_Kyu_00,"…あなたはもしかして旅の人？
+どちらへ行かれるのかしら？
+私はマリッタ馬宿を通って雪原の馬宿まで
+行くところです","Say, are you a traveler too?
+Where you headed?
+
+I'm passing through Serenne Stable on
+my way to Snowfield Stable myself."
+51,MSG_Kyu_00_1,"私はマリッタ馬宿を通って雪原の馬宿まで
+行くところです","I'm passing through Serenne Stable on
+my way to Snowfield Stable myself."
+52,MSG_Kyu_01,"ご存知かどうか…
+この辺りは よく雷が発生します
+雷が落ちやすい金属の装備は外せという教えは
+私は迷信と笑わずに従うようにしています","Maybe you're already knowin' this, but...
+lightning strikes ain't exactly uncommon
+around these here parts.
+You'd best unequip your metal gear
+when there's a lightning storm a-brewin'.
+At least, that's what they say!"
+53,MSG_Kyu_01_1,"雷が落ちやすい金属の装備は外せという教えは
+私は迷信と笑わずに従うようにしています","You'd best unequip your metal gear
+when there's a lightning storm a-brewin'.
+At least, that's what they say!"
+54,MSG_Kyu_02,"…ロバを休ませたいので
+この馬宿に少し留まることにします","My donkey is plum tuckered out, so
+I'm fixin' to spend a few nights at
+this here stable."
+55,MSG_Kyu_02_1,"…ロバを休ませたいので
+この馬宿に少し留まることにします","My donkey is plum tuckered out, so
+I'm fixin' to spend a few nights at
+this here stable."
+56,MSG_Kyu_03,"私には関係ありませんけど
+ハイラルのお城には宝物が眠るそうですよ
+旅人のあなたには
+ちょっと関係ありそうな気がして…","This ain't much my business, but...
+I heard there's some treasure hidden
+in Hyrule Castle.
+Treasure hunting ain't much my thing,
+but you look like the adventuring sort.
+Thought you'd hanker a know!"
+57,MSG_Kyu_03_1,"私には関係ありませんけど
+ハイラルのお城には宝物が眠るそうですよ","This ain't much my business, but...
+I heard there's some treasure hidden
+in Hyrule Castle."
+58,MSG_Kyu_04,"ブルブルブル…
+
+いえ怖いんじゃなくて寒いんです
+
+マリッタ馬宿から雪原の馬宿まで来ると
+温度差で いつもこうなんです","*shiver...*
+
+
+N-n-no, I'm not scared.
+I'm c-c-cold.
+
+The trip from Serenne Stable to
+Snowfield Stable always gets me. The
+change in weather is so drastic!"
+59,MSG_Kyu_04_1,"寒いですね…
+
+マリッタ馬宿から雪原の馬宿まで来ると
+温度差がすごくて いつもこうなんです","Sure is a cold one, ain't it?
+
+
+The trip from Serenne Stable to
+Snowfield Stable always gets me. The
+change in weather is so drastic!"
+60,Near00,♪ららら ロバさん,"♪La-la-la, da-donkey.♪"
+61,Near01,♪ロバさん テュララ,"♪Donkey-dee, la-la-la.♪"
+62,Near02,♪たらりら ロバさん,"♪Tra-li-la, da-donkey.♪"
+63,Near03,♪らりるれ ロバさん,"♪La-li-lu-li, da-donkey.♪"
+64,Near04,♪レイン,"♪Li-li, rain, da-donkey.♪"
+65,Rest_00,"私はロバの行商人とくに穀物はおまかせあれ
+ご飯派にお米を パン派には小麦を…","I'm a donkey-totin' merchant, ya see,
+specializin' in all sorts of grain. Peddlin'
+rice for rice fans, wheat for bread fans!"
+66,Rest_01,"雨は行商人にとっては嫌なもの
+でも雨宿りを口実に休めるのは悪くないです","Rain ain't welcome by most travelin'
+merchants, ya see. But it ain't all bad.
+Gives us a chance to take a rest!"
+67,Rest_02,"雨は濡れるだけだから別にいいんですけど
+雷は身に着けた金属に落ちるから怖いです","I ain't mindin' the rain. Gettin' a little wet
+ain't never hurt anyone. It's the lightning
+you best be lookin' out for.
+Especially if you're wearin' metal!"
+68,RetMSG_Kyu_00,"もしもタバンタ大橋よりも西に行くなら
+知っておいたほうがいい話があります
+「飛行ガーディアン」と呼ばれる古代兵器が
+旅人の行く手を阻むという話です…","If you're fixin' to travel west beyond
+the Tabantha Great Bridge, you'd best
+be wary of what's over there.
+These ancient weapons, some sort of
+flying Guardians, have been a real
+menace to travelers that far out."
+69,RetMSG_Kyu_00_1,"もしもタバンタ大橋よりも西に行くなら
+「飛行ガーディアン」に お気をつけて…","If you're fixin' to travel west beyond the
+Tabantha Great Bridge, be sure to keep
+an eye out for them flying Guardians."
+70,RetMSG_Kyu_01,"もしもタバンタ大橋を渡るのなら
+谷底から聞こえる音に驚くかもしれません
+橋から足を踏み外してククジャ谷へ落ちた
+ゴロン族がいるという噂があって
+もしかしたら その亡霊が
+橋を渡る旅人に…","If you ever cross Tabantha Great Bridge,
+keep your ears open for a right ghastly
+voice echoing from the valley below.
+They say a Goron once lost his footing
+and fell off that bridge, all the way
+down into Tanagar Canyon.
+And they say that his ghost...
+haunts all who cross the bridge!
+Mwahahahaaaa!"
+71,RetMSG_Kyu_01_1,"もしもタバンタ大橋を渡るのなら
+谷底から聞こえる音に お気をつけて…
+橋から足を踏み外してククジャ谷へ落ちた
+ゴロン族の亡霊の仕業という噂です","If you ever cross Tabantha Great Bridge,
+keep your ears open for a right ghastly
+voice echoing from the valley below.
+They say a Goron once lost his footing
+and fell off that bridge, all the way
+down into Tanagar Canyon."
+72,RetMSG_Kyu_02,"金目のもの…持ってません？
+
+ああ違うんです！誤解しないで！
+この辺りは雷が起きやすいので…
+ゴロゴロが聞こえたら金属の鎧や剣は
+はずさないと危ないって言おうとしただけで！","Say, do you have any...expensive metal
+gear on you?
+Wait, what?
+No, no, it's not like that!
+It's just, lightning strikes these here
+parts pretty often, you see?
+So if you hear a rumblin' up in the sky,
+you'd best be unequipping any metal
+gear. That's all I was meanin'!"
+73,RetMSG_Kyu_02_1,"ゴロゴロが聞こえたら金属の鎧や剣は
+はずさないと危ないってことです","So if you hear a rumblin' up in the sky,
+you'd best be unequipping any metal
+gear. Armor, swords, and the like!"
+74,RetMSG_Kyu_03,"♪ハイラルの～城下町に～
+♪たくさんお宝残ってる～
+この歌…街道ですれちがった旅人が
+歌ってたのを ちょっと拝借しました","♪Ooohhh, Hyrule Castle tooown!
+There's treasure to be foooound!♪
+
+Oh, this song? Some singin' traveler
+wandered past and I've had it stuck in
+my head since! No idea what it means..."
+75,RetMSG_Kyu_03_1,"♪ハイラルの～城下町に～
+♪たくさんお宝残ってる～","♪Ooohhh, Hyrule Castle tooown!
+There's treasure to be foooound!♪"
+76,RetMSG_Kyu_04,"このロバさん背中に小麦や米を積んで
+タバンタ大橋馬宿からパカパカ歩いてきました
+できれば軽くしてあげたい…","This here donkey clip-clopped his way
+from Tabantha Bridge Stable, full bags on
+his back every clippin'-clop of the way.
+I can't help but feel bad for the guy.
+If only I could lighten his load, even
+just a mite!"
+77,RetMSG_Kyu_04_1,"このロバさんの背中の小麦や米
+できれば軽くしてあげたい…","This here donkey's been carrying all this
+wheat and rice for days. If only I could
+lighten his load, even just a mite!"
+78,SavedLv1_00,…おかげで助かりました,Phew... You saved me.
+79,SavedLv1_01,…ありがとうございます,Much obliged.
+80,SavedLv2_00,助けていただき何と言っていいか…,"You saved me... Not sure how I can repay
+you, though."
+81,SavedLv2_01,おかげさまで無事でした…,Nice and safe again thanks to you.
+82,SavedLv3_00,…あなた お強いんですね,"Phew, you're stronger than you look!"
+83,SavedLv3_01,"助けていただき何といったらいいか
+あなたの旅の お邪魔をしてしまったかも…","You saved me? I don't know what to say.
+Except...sorry I interrupted your journey."
+84,Talk01,"そうそう！旅に必要な食材は切れてませんか？
+なんなら お売りしますよ？","Oh, hey! Got enough foodstuffs for your
+journey? Best not tempt runnin' low, so
+why not take a look at what I've got?"
+85,Talk02,他に何かありますか？,Fixin' on anything else?
+86,Thanks00,これ… ほんの気持ちです,"Here, take this. It's a token of
+my gratitude."

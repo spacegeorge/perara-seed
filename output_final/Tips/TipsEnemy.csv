@@ -1,0 +1,105 @@
+#,Title,JPja,USen
+1,EnemyBokoblin_00,ボコブリン凶暴な敵ではあるが蜂を嫌う性質がある。,"BokoblinsWithout much in the way of clothing to protect them, they tend to
+run when menaced by bees."
+2,EnemyBokoblin_01,ボコブリン雑食性で肉や魚だけでなく果物も好んで食べる。,"BokoblinsThese omnivorous monsters enjoy not only meat and fish but also
+fresh fruit."
+3,EnemyChuchu_00,"チュチュ攻撃すると爆発することがある。
+遠くから槍などで突けば安全だ。","ChuchusThey will explode when attacked. Try throwing something at them
+from a safe distance."
+4,EnemyGuardian_00,"ガーディアン古代の兵器であるため現代の武器ではあまりダメージを与えられない。
+同じ時代の技術で作られた古代兵装・矢が有効だ。","GuardiansGuardians are ancient, highly advanced weapons, so items from the
+current age won't deal much damage. Weapons from their own era
+like ancient arrows are better suited to combat them."
+5,EnemyLizalfos_00,リザルフォス肉食性で肉や魚だけでなく虫も好んで食べる。,"LizalfosAs carnivores, they eat meat, fish, and even insects."
+6,EnemyMoriblin_00,モリブリン肉食性で その巨体を維持するために大量の肉と魚のみを食べる。,"MoblinsThese large carnivores require sizable helpings of meat and fish
+to sustain their bulky frames."
+7,Tactics_00,"静粛性雨の日は足音が聞こえづらくなる。
+敵に気づかれず こっそりと近づく時に有効だ。","Stealth TipIt's harder to hear footsteps when it's raining...making it the
+perfect time to sneak up on some monsters!"
+8,Tactics_01,"静粛性草むらでしゃがむと敵や獣に気づかれにくくなる。
+戦いを避けたり不意をつく時に有効だ。","Stealth TipCrouching in a grassy field makes it harder for monsters and enemies
+to detect you. Keep this in mind if you want to ambush enemies or
+avoid fighting altogether."
+9,Tactics_02,"クリティカルヒット敵や獣の頭部に矢を当てると
+通常の倍 ダメージを与えることができる。","Critical HitsHitting a monster or enemy in the head with an arrow deals double
+the normal amount of damage."
+10,Tactics_03,"馬上戦馬上で武器を使って戦闘する時は
+小剣よりも リーチの長い槍や大剣などの方が有利だ。","Horseback BattlesWhen fighting on horseback, weapons with reach such as spears and
+big swords have an advantage over short swords and clubs."
+11,Tactics_04,"戦闘のコツ戦いの成否は戦略によるものが大きい。
+工夫次第では たくさんの敵を まとめて倒すこともできる。","Battle TipThe difference between winning and losing a battle often comes down
+to strategy. With the right tactics, you may be able to defeat an entire
+group of enemies at once."
+12,Tactics_05,"戦闘のコツ拠点の敵は武器を置いて油断していることもある。
+こっそり武器を奪ってしまえば楽に倒すことができる。","Battle TipMonsters sometimes leave their weapons lying around their camp.
+Sneaking up and stealing these items will make defeating them
+much easier!"
+13,Tactics_06,"氷の矢敵が多過ぎて太刀打ちできない時は
+氷の矢で凍らせてしまえば動きを封じることができる。","Ice ArrowsIf you find yourself surrounded by an overwhelming number of
+enemies, try using ice arrows to freeze them in their tracks."
+14,Tactics_07,"炎の矢炎の矢を撃ち込んで枯れ草を炎上させれば
+まとめて敵を倒すこともできる。","Fire ArrowsUse fire arrows to burn dry grass and defeat multiple enemies
+at the same time."
+15,Tactics_08,"電気の矢電気の矢を鉄製の物や水面に撃ち込めば
+激しく放電して敵を感電させることができる。","Shock ArrowsShoot shock arrows into water or metallic objects to electrify
+enemies and monsters."
+16,Tactics_09,"戦闘のコツ見張り台にいる敵に見つかると角笛で周囲の仲間に警告されてしまう。
+先に倒しておけば安全だ。","Battle TipMonsters on the lookout in watchtowers will sound the alarm if they
+spot you. Defeat these foes first before they alert the others."
+17,Tactics_10,"戦闘のコツ大きなやぐらに敵が巣食っていたら
+パラセールで そっと最上階から忍び込むのも手だ。","Battle TipIf an enemy camp has multiple levels, each packed with monsters,
+consider using the paraglider to sneak your way to the top."
+18,Tactics_11,"戦闘のコツ敵の拠点に鉄の箱を見つけたら
+マグネキャッチで攻撃手段として使うのも手だ。","Battle TipUsing Magnesis to toss metal objects into a camp full of monsters
+is a great way to do some damage."
+19,Tactics_12,"戦闘のコツを押し込んで しゃがむと静かに歩ける。
+ゆっくり近づけば敵に気づかれにくい。","Battle TipMonsters have a harder time detecting you if you press
+to crouch and quietly approach them."
+20,Tactics_13,"戦闘のコツ夜になると寝てしまう敵もいる。
+その隙に こっそりと近づくことができる。","Battle TipMonsters need their beauty rest too. If you see a group of monsters
+sleeping, use that opportunity to sneak-attack them!"
+21,Tactics_14,"炎×バクダン樽炎の矢をバクダン樽に撃ち込めば爆発させることができる。
+燃えている武器を投げ込んでもよい。","Bomb BarrelsShoot a fire arrow into a bomb barrel to make it explode.
+Tossing a burning weapon at one works too."
+22,Tactics_15,"エレキチュチュエレキチュチュを攻撃すると電気を発生させることがある。
+上手く利用すれば周囲の敵を感電させることができる。","Electric ChuchusWhen you attack Electric Chuchus, they explode in a burst of sparks.
+Use this to your advantage to shock nearby monsters."
+23,Tactics_16,"ファイアチュチュファイアチュチュを攻撃すると爆発して炎をまき散らすことがある。
+上手く利用すれば周囲の敵を巻き添えにすることができる。","Fire ChuchusWhen you attack Fire Chuchus, they explode and start a fire.
+Use this to your advantage to turn up the heat on nearby monsters."
+24,Tactics_17,"アイスチュチュアイスチュチュを攻撃すると爆発することがある。
+上手く利用すれば周囲の敵を凍らせることができる。","Ice ChuchusWhen you attack Ice Chuchus, they explode in a burst of frost.
+Use this to your advantage to put nearby monsters on ice."
+25,Tactics_18,"クリティカルヒット要らなくなった武器は敵に投げつけるとよい。
+当たれば ダメージ倍増だ。","Critical HitsWeapons that you have no use for are perfect for throwing
+at monsters. If one hits, it will deal double damage."
+26,Tactics_19,"戦闘のコツ敵が強過ぎると感じたら自分を鍛えるのが冒険の基本だ。
+装備を強化したり克服の証を集めてハートやがんばりゲージを増やすとよい。","Battle TipIf the foe you're fighting is too powerful, train yourself up! You can
+start by finding a stronger weapon or collecting Spirit Orbs
+to get more hearts or increase your Stamina Wheel."
+27,Tactics_20,シビレリザルフォスシビレリザルフォスの角を矢で撃つと広範囲に電撃が走る。,"Electric LizalfosIf you hit an Electric Lizalfos's horn with an arrow, it will discharge
+a massive electric shock."
+28,Tactics_21,馬上戦馬上で敵と戦う時はで注目しながら戦うと狙いやすくなる。,"Horseback BattlesWhen fighting on horseback, use to focus your attention,
+making it easier to aim."
+29,Tactics_22,"戦闘のコツ敵が盾を構えている時は
+大剣やオノなどで盾を叩けば はじき落とすことができる。","Battle TipIf a monster is hiding behind a shield, you can bat the shield away
+by hitting it with a heavy sword or axe."
+30,Tactics_23,属性クリティカル氷属性の敵に炎属性の攻撃を加えると一撃で倒すことができる。,"Elemental WeaknessesIf you use a fiery attack against an icy enemy, you may defeat it
+in one hit."
+31,Tactics_24,属性クリティカル炎属性の敵に氷属性の攻撃を加えると一撃で倒すことができる。,"Elemental WeaknessesIf you use an icy attack against a fiery enemy, you may defeat it
+in one hit."
+32,Tactics_25,"回避ジャスト敵の攻撃を バク宙や横跳びでタイミングよくかわすと
+攻撃を叩き込むチャンスが生まれる。","Perfect DodgeIf you backflip or side hop away from a monster's attack at just the
+right moment, you will be rewarded with a chance to let loose
+with a flurry of attacks."
+33,Tactics_26,"ガードジャスト盾を構えて タイミングよくで相手の攻撃を振り払うと
+攻撃を弾き返すことができ チャンスが生まれる。","Perfect GuardWhen equipped with a shield, if you press to deflect a monster's
+attack at just the right moment, you will be rewarded with a chance to
+counter the attack."
+34,Tactics_27,"タメ攻撃を押したまま力をタメて攻撃することができる。
+がんばりゲージを消費するので ここぞという時に使うのがよい。","Charged AttackYou can ready a charged attack by holding. Doing so depletes
+your stamina, so be sure to time your attack carefully."
+35,Tactics_28,"ジャンプ斬りジャンプ中や空中にいる時にで攻撃すると ジャンプ斬りになる。
+地面に生じる衝撃波によって周囲に攻撃を与えることもできる。","Jump SlashPerform a jump slash by pressing after jumping or while in the
+air. The shock wave created when you hit the ground can affect
+nearby monsters."

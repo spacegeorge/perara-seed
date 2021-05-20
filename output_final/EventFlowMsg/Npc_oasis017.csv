@@ -1,0 +1,240 @@
+#,Title,JPja,USen
+1,"""0000""",そうだよ,Yes.
+2,"""0001""",違うよ,No.
+3,"""0002""",何してるの？,What are you doing?
+4,"""0003""",さよなら,Good-bye.
+5,"""0006""",遊びたい,Yeah!
+6,"""0007""",ついてきただけ,I just followed you.
+7,"""0008""",キノコおにぎり？,Mushroom rice balls?
+8,"""0009""",残念だね,That's too bad...
+9,Talk_01,"外国のお姉ちゃんだー！
+サヴォッタ！","A foreign vai!
+Sav'otta!"
+10,Talk_02,"外国のお姉ちゃんだー！
+サヴァーク！","A foreign vai!
+Sav'aaq!"
+11,Talk_03,"外国のお姉ちゃんだー！
+サヴァサーバ！","A foreign vai!
+Sav'saaba!"
+12,Talk_04,"明日はどこに
+パトロール行こうかな…","I wonder where I should pa-troll
+tomorrow..."
+13,Talk_05,"あ…外国のお姉ちゃん…
+サヴァサーバ…
+はぁ…""今日もだよ…
+
+隣のお店から聞こえてくる おしゃべりの声が
+うるさくて全然眠れないんだぁ
+窓の下まで行くと
+何しゃべってるのかまで丸聞こえ…
+パールは大きくなってお酒を飲んでも
+絶対小さな声でしゃべるんだ！","Oh...you're that foreign vai...
+Sav'saaba...
+
+*sigh* Night after night, the voices of
+the people in the cant-eenter come right
+in my window. They're super loud...
+If you stand under the window, you can
+hear everything they're saying...
+
+When I grow up, I'm always going to
+speak in a quiet voice. Even if I'm
+having a really great time!"
+14,Talk_06,"もう暗くなるのに
+これからお出かけなの？","It's already dark outside. Are you still
+planning to go out?"
+15,Talk_07,"あっ わかった！
+お酒でしょ？
+パールのお家のお隣さんはお酒を飲むところで
+夜は特ににぎやかなんだ！
+…でも窓からおしゃべりの声が
+パールのお部屋の中まで聞こえてきて
+パールもロテインお姉ちゃんも
+ちょっと困ってるんだけどね…","Oh, I know! You're going out to the
+cant-eenter, aren't you?
+
+The place next to my house is where
+people go to relax and grab a drink.
+It's real lively at night!
+...Which means I can hear their voices
+through my window. It sorta annoys
+me and my big sister, Rotana..."
+16,Talk_08,"パール知ってるんだ！
+大人は酒場に行くんでしょ？
+パールのお家ね酒場の隣なんだけど
+窓からおしゃべりの声が聞こえてきて
+ちょっと困ってるの…
+
+だからお姉ちゃん
+酒場に行っても シーだよ！","I know all about it! Grown-ups go to the
+cant-eenter, right?
+
+My house is right next door, see?
+But the voices come through the
+window, and it's really annoying...
+They're so loud, it's like I'm in the
+cant-eenter too, you know?"
+17,Talk_09,"ごめんね
+今はお姉ちゃんと遊べないんだ","Sorry, but I can't play with you right
+now, lady."
+18,Talk_10,"ウルボザ様ごっこしてるの！
+
+ウルボザ様はね
+パールよりもずーっと前に生まれた偉い人でね
+この街を悪いオバケから救ってくれた
+エイケツ様なんだよ！
+だからパールも悪いオバケがいないか
+毎日街を見回ってるの！","I'm pretending to be Lady Urbosa!
+
+
+Lady Urbosa was an amazing
+person who was born a long, long time
+before I was.
+She was a Champion who saved this
+town from an evil ghost!
+
+I'm going on pa-trolls every day to make
+sure that no more bad monsters
+show up."
+19,Talk_11,サヴォーク！,Sav'orq!
+20,Talk_12,これからお出かけ？,Are you going somewhere now?
+21,Talk_13,"あっ わかった！
+お酒でしょ？
+パールのお家のお隣さんは お酒を飲むところで
+朝も夜もにぎやかなんだ！
+…でも おしゃべりの声が
+パールのお部屋の中まで聞こえてきて
+ちょっと困ってるんだけどね…","Oh, I know! You're going to visit the
+cant-eenter, right?
+
+The place next door to my house is a
+place where people go to drink, and it's
+busy at all hours of the day!
+But that means I can hear their voices
+from my house, and it's a little
+bothersome..."
+22,Talk_14,"太陽がある間は
+お外はアチチになるから気を付けてね","When the sun is up, it's super hot.
+Be careful, OK?"
+23,Talk_15,"スーちゃん… ナッちゃん… ザラシちゃん…
+今日もみんなかわいいな～","Sue... Nah... Zarashi...
+They were all so cute today."
+24,Talk_16,"外国にも 「おにぎり」ってあるの？
+
+ふっくら炊いたハイラル米に
+岩塩とキノコを混ぜると
+キノコおにぎりができるんだよ！
+
+パールのお姉ちゃん
+七人の英雄伝説のケンキュウに忙しそうだから
+今度パールが
+お夜食に作ってあげようと思ってるんだ！","Do you have rice balls where you come
+from?
+
+Take fluffy steamed Hylian rice, add
+rock salt and mushrooms, and you've
+got mushroom rice balls!
+My sister's been really busy with her
+research on the seven heroines lately...
+Maybe I'll make some to bring to her."
+25,Talk_17,"どうしたの？
+パールのお家で一緒に遊びたいの？","What's wrong, foreign vai?
+Wanna play at my house?"
+26,Talk_18,"ごめんね…
+パール… もう寝ないと…
+でも…隣の酒場のお姉ちゃんたちの声が
+お家の中まで聞こえてうるさいから
+あんまり眠れないんだけどね…
+
+また今度遊んであげるから
+今日はサヴォーク！","Sorry... I have to get home now.
+
+
+The ladies at the cant-eenter next door
+are always so noisy, so I don't sleep
+well... But I still gotta be home on time.
+Otherwise, my sister, Rotana, will get
+real mad at me.
+
+I'll play with you next time, OK?
+Sav'orq!"
+27,Talk_19,"あっ！ パールそれ知ってるよ！
+勝手についてきちゃう人でしょ？
+えっと… えっと…
+ストー…ストー… あっ！
+ストッキング！！！
+
+エッヘン
+ロテインお姉ちゃんに教えてもらったんだ！
+お姉ちゃんはね ガクシャさんなんだ！
+だからモノシリなんだよ！","Ah! I know what that is!
+It's when you follow someone around
+without asking if it's OK!
+Um...umm...
+St... Sto... Oh!
+
+STOCKINGS!!
+
+
+Heh heh! My big sister, Rotana, told me
+alllll about it! She's super smart and
+knows about all sorts of stuff!"
+28,Talk_20,"お姉ちゃんもお買いもの？
+
+でも今は売り切れなんだって…
+
+パールのお姉ちゃん
+七人の英雄伝説のケンキュウに忙しそうだから
+お夜食にキノコおにぎり
+作ってあげようと思ったのにな…","Are you shopping, too?
+
+
+That's why I'm here, but they're all out
+of stuff I need...
+
+My sister is busy researching the seven
+heroines, so I wanted to make and bring
+her some mushroom rice balls."
+29,Talk_21,"スーちゃん！
+
+ナッちゃん！
+
+ザラシちゃん！
+
+今日もみんな異常なしっと！","Sue! Nah! Zarashi!
+Looks like everyone's doing fine!"
+30,Talk_22,"外国にはオニギリないの？
+
+キノコおにぎりはね
+ハイラル米に岩塩とキノコで作るんだ！
+キノコは好きなのでイイらしいけど
+
+ロテインお姉ちゃんはねビリビリダケで作った
+エレキキノコおにぎりが一番好きなんだって！
+ちょっとピリっとするのが
+オトナの味なんだって！","Do you have rice balls where you're
+from?
+
+You make mushroom rice balls with
+Hylian rice, rock salt, and mushrooms!
+
+I like mushrooms so it's fine with me, but
+my sister likes zapshrooms, which make
+them electro mushroom rice balls!
+Maybe it's a grown-up thing to like that
+little jolt they give you when you bite
+into them."
+31,Talk_23,"ふーん
+パール知ってるんだもんね～
+ここの品物
+お姉ちゃんが ぜんぶ買ってったの！","Hmmm... I know what happened here...
+My sister bought them out of everything!"
+32,Talk_24,"はぁ…窓の下まで行くと
+何しゃべってるのかまで丸聞こえ…
+パール大きくなってお酒を飲んでも
+絶対小さな声でしゃべるんだ！","*sigh* If you stand under the window,
+you can hear everything they're saying...
+
+When I grow up, I'm always going to
+speak in a quiet voice. Even if I'm
+having a really great time!"

@@ -1,0 +1,124 @@
+#,Title,JPja,USen
+1,"""0003""",ここって？,What is this place?
+2,"""0004""",あなたは？,Who are you?
+3,"""0005""",さようなら,Good-bye.
+4,"""0006""",はい？,What?
+5,"""0007""",はい,Yes.
+6,"""0009""",それほどでも,It's not much.
+7,talk00,"おお！お主はゾーラ川で会ったハイリア人！
+
+シド王子に従い来てくれたのですね？
+
+さぁ ドレファン王とシド王子が お待ちです
+是非彼らと お会いください","Oh! You're that Hylian I met at
+Zora River!
+
+Are you here at Prince Sidon's request?
+
+
+Well, King Dorephan and Prince Sidon
+are waiting for you. Please help them!"
+8,talk01,"ほほう…お主が
+シド王子が連れてきたと言う ハイリア人ですね
+是非 シド王子にお会いください","Ohoho... So you're back.
+You're that Hylian our Prince Sidon
+brought here, aren't you?
+Please go and meet with him right away."
+9,talk03,おはようございます,Good morning.
+10,talk04,こんにちは,Good day.
+11,talk05,こんばんは,Good evening.
+12,talk06,はっ！異常無し！,"Yes, sir! Nothing to report, sir!"
+13,talk07,…して私に何か用ですか？,...Yes? Did you need something?
+14,talk08,"ほほう ハイリア人か…
+ゾーラの里までは魔物だらけだったでしょう？
+今ゾーラの里では シド王子と共闘してくれる
+戦士を募集しています
+すぐにでも シド王子にお会いください","Ohoho, a Hylian, eh? The path
+to Zora's Domain is paved with
+monsters, is it not?
+Here in the domain, we are currently
+recruiting warriors to join Prince Sidon
+in his fight.
+Please hurry up and meet with him."
+15,talk09,では！,Farewell!
+16,talk10,"ここは ドレファン王と そのご子息
+シド王子のおられる王の間でございます","At the top of these stairs is the throne
+room of King Dorephan and his son,
+Prince Sidon."
+17,talk11,私ですか？,Me?
+18,talk12,"私の名はタッカ
+新米の兵士です",My name is Tottika. I'm a novice soldier.
+19,talk13,ところで…ハイリア人,By the way...HYLIAN...
+20,talk14,"このゾーラの里まで単身来られた
+お主の事だから
+よほどよい業物を持っているのでしょうね？","You managed to make it to Zora's Domain
+all by yourself, eh?
+
+That would mean you've got a pretty
+reliable weapon on you, yes?"
+21,talk15,"そうか
+
+私も支給されたこの銀鱗の槍に
+不満は無いのですが
+世の中には使用者を選ぶと言われる
+伝説の剣が あるらしいですね","I see.
+
+
+I've been supplied a silverscale spear.
+I have no complaints about it, but...
+
+There are rumors of a legendary blade...
+one that chooses its wielder."
+22,talk16,"私も武器に選ばれるような
+立派な兵士に なりたいものです","I want to become an important soldier...
+one who's worthy of being chosen by
+a legendary weapon!"
+23,talk17,"見ましたか？ ハイリアの人！
+
+神獣 ヴァ・ルッタが現れてから
+ずっと降っていた雨が止んだ
+もしかして お主とシド王子が…？","Hylian! Have you seen?!
+
+
+The rain that has been falling ever since
+Divine Beast Vah Ruta was angered...
+has finally stopped!
+Was that you and Prince Sidon?"
+24,talk18,"おお！ハイリアの人！
+見事な活躍でした！
+スババ兵隊長に聞いたのだが お主は
+100年前にもこの里を訪れた英傑だとか…","Oh! Hylian! You have done us a
+great service!
+
+Captain Bazz filled me in. He told me you
+are the Champion who visited Zora's
+Domain 100 years ago. Or...something."
+25,talk19,"英傑様…
+この度は ありがとうございました","Great Hylian Champion... Thank you so
+much for all you have done for us."
+26,talk20,"これで お主の事を悪く言ってた年寄も
+今回の活躍で お主を見直したかも知れませんね","Now, even the elders who were so down
+on you are likely looking upon you with
+regard and triumph!"
+27,talk21,"今回の活躍で里の年寄りたちは
+ミファー様の件も水に流してくれるでしょう","Because of your glorious deeds, I'm sure
+the elders will be content to let the
+subject of Mipha finally wash away."
+28,talk22,"今ゾーラの里では シド王子と共闘してくれる
+戦士を募集しています
+年寄は頭が固く
+他種族を巻き込むことに反対ですが
+里の若者及び ドレファン王は
+豪の者なら誰でも受け入れるつもりです
+詳細は この上におられる
+ドレファン王から直々に聞いてください","Here in Zora's Domain, we're currently
+recruiting warriors to join Prince Sidon
+in his noble struggle.
+However, the elders are...stubborn.
+They are wholly against outsiders
+getting involved in Zora affairs.
+But King Dorephan, as well as the young
+folk, are ready to accept anyone's help...
+Well, so long as they are trustworthy.
+If you wish to learn more, please go and
+speak with King Dorephan directly."

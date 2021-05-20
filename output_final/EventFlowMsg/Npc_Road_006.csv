@@ -1,0 +1,258 @@
+#,Title,JPja,USen
+1,Atacked00,"我はミステリーハンター
+だからどうしたと言われても困るが…","I'm a mystery buff. Now, you might hear
+that and shrug your shoulders, and let
+me tell you... That's only fair."
+2,Atacked01,"我は ただのミステリーハンター
+魔物ハンターじゃないんだ","I'm a mystery buff, not a buff mercenary."
+3,Failed00,冗談じゃない…私は魔物の餌じゃない…,I didn't sign up to be monster chow!
+4,Failed01,"わ…私は体力じゃなくて
+頭で勝負するタイプだから…","My strengths... Well, they don't lie in
+brawn as much as brains."
+5,Guardian00,"逃げろ逃げろ！
+ガーディアンが来るぞ！",Look sharp! A Guardian's on its way!
+6,MSG_Orud_00,"我はミステリーハンター！名前はゾローナ！
+
+オルディン地方に謎はあるのか…
+そのことが謎なのだ！","Nice meeting you! I'm Zorona, and I live
+for mystery.Is there mystery afoot in Eldin, you ask?
+Who knows? That's the mystery!"
+7,MSG_Orud_00_1,"オルディン地方に謎はあるのか…
+そのことが謎なのだ！","Is there mystery afoot in Eldin, you ask?
+Who knows? That's the mystery!"
+8,MSG_Orud_01,"我はミステリーハンター！名前はゾローナ！
+いま最も気になる謎はマモノ屋だ！
+現れるのは決まって夜…
+ドクロ型の池の近くで見た者がいる…
+いったい何者なんだマモノ屋！","Nice meeting you! I'm Zorona, and I live
+for mystery. These days, I'm trying to get
+to the bottom of Fang and Bone.
+The clues so far: it always appears at
+night, and some people say they've
+seen it near a skull-shaped lake.
+To my mind, though, the biggest mystery
+about Fang and Bone is, who in the
+world would run such a place?"
+9,MSG_Orud_0100,"我はミステリーハンター！名前はゾローナ！
+君はマモノ屋を知っているか？
+デスマウンテンの北にあるドクロ池だけでなく
+最近は他の地域にも出没しているようだ
+いったい何を売ってるというのだマモノ屋！","Well, hello there! I'm Zorona, and I live
+for mystery. I've got a doozy for you...
+Ever heard of Fang and Bone?
+I've heard tips that it's not just showing
+up by Skull Lake at Death Mountain in 
+the north, but other places too!
+All that, and I still don't even know what
+this Fang and Bone sells! Mystery upon
+mystery!"
+10,MSG_Orud_0100_1,"いったい何を売ってるというのだマモノ屋！
+
+デスマウンテンの北にあるドクロ池だけでなく
+最近は他の地域にも出没しているようだ","Here's a mystery for you: what do you
+suppose they sell in Fang and Bone?I've heard tips that it's not just showing
+up by Skull Lake at Death Mountain in 
+the north, but other places too!"
+11,MSG_Orud_01_1,"いったい何者なんだマモノ屋！
+現れるのは決まって夜… ドクロ型の池の近く…","Fang and Bone always appears at night
+near a skull-shaped pond... Who's the
+mastermind behind the mystery?"
+12,MSG_Orud_02,"我はミステリーハンター！名前はゾローナ！
+
+コログの森というのが どこかにあって
+そこには伝説の剣が眠るというのだが…
+私が気になるのはマモノ屋の謎だ！
+伝説の剣については君にまかせた！","Good to see you! I'm Zorona, and I live
+for mystery.Lotta people nowadays wondering if
+there's any truth to the legendary sword
+supposedly sleeping in Korok Forest...
+But I say the legendary sword can go
+hang! I'm burning to find out more about
+that Fang and Bone!"
+13,MSG_Orud_02_1,"伝説の剣の謎については君にまかせた！
+
+コログの森というのが どこかにあって
+そこには伝説の剣が眠るというのだが…","Lotta people think there's a place called
+Korok Forest somewhere, and deep
+inside it sleeps a legendary sword.
+Is it true? Who knows? That's the
+mystery! Maybe you'll be the one to
+solve it, eh?"
+14,MSG_Orud_03,"我はミステリーハンター！名前はゾローナ！
+私を虜にした謎の存在…その名は？
+マモノ屋！
+
+夜中のドクロ池で目撃されたというが
+いったい何者なんだマモノ屋！","Nice to see you! I'm Zorona, and I live
+for mystery.One mystery lately has kept me sleepless
+like no other... It's that danged
+Fang and Bone!
+Who runs it? What do they sell? And is
+it really true you can find it at night
+out by Skull Lake?!"
+15,MSG_Orud_0300,"我はミステリーハンター！名前はゾローナ！
+私を虜にした謎の存在…その名は？
+マモノ屋！
+
+ドクロ池で目撃されたマモノ屋…
+最近は他の地域にも出没してるらしい","Good seeing you! I'm Zorona, and I live
+for mystery.One mystery lately has kept me sleepless
+like no other... It's that danged
+Fang and Bone!
+It's not just at Skull Lake after dark
+anymore, you know. People have seen
+it all over the place lately!"
+16,MSG_Orud_0300_1,"私を虜にした謎の存在…
+マモノ屋！
+ドクロ池で目撃されたというが
+最近は他の地域にも出没してるらしい","One mystery lately has kept me sleepless
+like no other... It's that danged
+Fang and Bone!
+It's not just at Skull Lake after dark
+anymore, you know. People have seen
+it all over the place lately!"
+17,MSG_Orud_03_1,"私を虜にした謎の存在…
+マモノ屋！
+夜中のドクロ池で目撃されたというが
+いったい何者なんだ ！","One mystery lately has kept me sleepless
+like no other... It's that danged
+Fang and Bone!
+Who runs it? What do they sell? And is
+it really true you can find it at night
+out by Skull Lake?!"
+18,MSG_Orud_04,"我はミステリーハンター！名前はゾローナ！
+
+ハイラル城には数々の財宝が眠るそうだが…
+私が気になるのはマモノ屋の謎だ！
+城の財宝については君にまかせた！","How are you? I'm Zorona, and I live
+for mystery!They say there's all sorts of treasure
+still waiting to be had in Hyrule Castle...But never mind all that! I HAVE to know
+more about Fang and Bone! The castle
+stuff is all yours, as far as I care."
+19,MSG_Orud_04_1,"城の財宝については君にまかせた！
+
+ハイラル城には数々の財宝が眠るそうだが…
+私が気になるのはマモノ屋の謎だ！","They say there's all sorts of treasure
+still waiting to be had in Hyrule Castle...But never mind all that! I HAVE to know
+more about Fang and Bone! The castle
+stuff is all yours, as far as I care."
+20,Near00,謎を求めて…,There's a mystery afoot...
+21,Near01,ドクロ型の池…,That skull-shaped pond...
+22,Near02,城の財宝…,What's in the castle?
+23,Near03,マモノ屋とは？,"Hm... Fang and Bone, eh?"
+24,Near04,地図が濡れる…,My map's gonna get wet...
+25,Rest_00,"我はミステリーハンター！名前はゾローナ！
+我が旅に欠かせないのは探求心と地図だ","The name's Zorona, and I live for
+mystery!A good mystery buff has three essential
+tools of the trade: an inquisitive mind,
+alert eyes, and a map."
+26,Rest_01,"我はミステリーハンター！名前はゾローナ！
+地図を濡らす雨は好きじゃない
+え？もしかして君の地図は
+紙じゃないとか？","The name's Zorona, and I live for
+mystery!That's an interesting map you have
+there. What's it drawn on?"
+27,Rest_02,"我はミステリーハンター！名前はゾローナ！
+
+どうだ？ひとつ私に憧れてみるか？","The name's Zorona, and I live for
+mystery!How about you? What do you live for?
+Is it anywhere near as cool as mystery?"
+28,RetMSG_Orud_00,"我はミステリーハンター！名前はゾローナ！
+世界は謎めいているからおもしろい
+例えばハイラル城やコログの森には
+伝説の武器が眠っているとか いないとか…","Hello there! I'm Zorona, and I live for
+mystery!One popular mystery lately is whether or
+not there really is legendary equipment
+at Hyrule Castle and Korok Forest."
+29,RetMSG_Orud_00_1,"世界は謎めいているからおもしろい
+
+ハイラル城やコログの森には
+伝説の武器が眠っているとか いないとか…","The world is full of mystery!One popular mystery lately is whether or
+not there really is legendary equipment
+at Hyrule Castle and Korok Forest."
+30,RetMSG_Orud_01,"我はミステリーハンター！名前はゾローナ！
+かつて私が突き止めた謎を教えてやろう
+風もないのに草が揺れる謎…
+あれは隠れコログのイタズラだ","Why, hello! My name's Zorona, and I live
+for mystery. Care to hear about one of
+the mysteries I solved recently?
+This was the case of the grass that
+blew even when the winds were still...
+The culprits were the hidden Koroks!"
+31,RetMSG_Orud_01_1,"かつて私が突き止めた謎を教えてやろう
+
+風もないのに草が揺れる謎…
+あれは隠れコログのイタズラだ","Care to hear about one of the mysteries
+I solved recently?This was the case of the grass that
+blew even when the winds were still...
+The culprits were the hidden Koroks!"
+32,RetMSG_Orud_02,"我はミステリーハンター！名前はゾローナ！
+かつて私が突き止めた謎を教えてやろう
+リザルフォスの骨を投げると戻ってくるのは…
+あれは ブーメランと同じ理屈だ","Oh, didn't see you there! My name's
+Zorona, and I live for mystery! Let me
+tell you about one I solved recently.
+Ever wonder why Lizalfos bones come 
+back when you throw them? It's because
+they're curved just like a boomerang!"
+33,RetMSG_Orud_02_1,"かつて私が突き止めた謎を教えてやろう
+
+リザルフォスの骨を投げると戻ってくるのは…
+あれは ブーメランと同じ理屈だ","Care to hear about one of the mysteries
+I solved recently?Ever wonder why Lizalfos bones come 
+back when you throw them? It's because
+they're curved just like a boomerang!"
+34,RetMSG_Orud_03,"我はミステリーハンター！名前はゾローナ！
+かつて私が突き止めた謎を教えてやろう
+宝箱を蹴ると痛い時があるという謎…
+
+それは裸足だから！","Greetings! My name's Zorona, and I live
+for mystery! I bet you'd like to hear
+about one I solved just recently, huh?
+You'll never guess the secret of why it
+sometimes hurts to kick a treasure chest.
+Brace yourself...
+It's because you're barefoot!"
+35,RetMSG_Orud_03_1,"かつて私が突き止めた謎を教えてやろう
+
+宝箱を蹴ると痛い時があるという謎…
+それは裸足だから！","I bet you'd like to hear about a mystery
+I solved just recently, huh?You'll never guess the secret of why it
+sometimes hurts to kick a treasure chest.
+Brace yourself...
+It's because you're barefoot!"
+36,RetMSG_Orud_04,"我はミステリーハンター！名前はゾローナ！
+世界は謎めいているからおもしろい
+いつの日かマモノ屋を見つけ出して
+いったい何者なのか聞き出してやる！","Well met. My name's Zorona, and I live
+for mystery!The greatest mystery of all, if you ask
+me, is who runs Fang and Bone.
+Someday I'll find it and crack the case!"
+37,RetMSG_Orud_04_1,"世界は謎めいているからおもしろい
+
+いつの日かマモノ屋を見つけ出して
+いったい何者なのか聞き出してやる！","It's a mysterious world we live in.And the greatest mystery of all, if you
+ask me, is who runs Fang and Bone.
+Someday I'll find out and crack the case!"
+38,SavedLv1_00,"なぜ魔物は人を襲うのか？
+そこに人がいるから…か？","Why do monsters attack people?
+Because...we're there?"
+39,SavedLv1_01,"なぜ善良な私が襲われた？
+うーむ不可解だ…","Out of all the innocent people in the
+world to attack, why pick me? I'll never
+understand these monsters."
+40,SavedLv2_00,"わ…我はミステリーハンター
+多少の危険は…か…覚悟の上だ！","I... I'm a mystery buff. In my line of work,
+you h-have to expect some danger!"
+41,SavedLv2_01,"わ…我はミステリーハンター
+何のこ…こ…これしき！","I'm a mystery buff. You think this is
+dangerous? You should have seen me
+LAST week!"
+42,SavedLv3_00,"わ…我はミステリーハンター…
+一巻の終わりかと思った…","I'm a mystery buff...and I was worried
+that the trail ended permanently here
+for me!"
+43,SavedLv3_01,"わ…我はミステリーハンター…
+正直怖かった！","I'm a mystery buff...and no lie, I got
+goosebumps just now!"
+44,Thanks00,とにかく礼をさせてもらおう,"Anyway, here's a gift for your services."

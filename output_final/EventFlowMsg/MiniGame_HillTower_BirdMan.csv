@@ -1,0 +1,280 @@
+#,Title,JPja,USen
+1,"""0008""",脅かしてみる,BOO!
+2,"""0009""",声をかけてみる,*ahem...*
+3,"""0010""",飛んで見せます,I'll glide for you.
+4,"""0013""",飛びます,Fine...
+5,"""0014""",やめておきます,No...
+6,"""0015""",飛ぶのをやめる,I changed my mind.
+7,"""0016""",なんでもない,I'll still do it.
+8,"""0017""",それでもやめる,I still want to quit.
+9,"""0018""",やっぱり続ける,"Actually, I'll do it."
+10,"""0019""",今日はここまで,"No, I'm done."
+11,"""0020""",飛んで降りれる,I'll just fly down.
+12,ChoiceDoNotPay_00,"そうですか…""では今回はここまでで！
+また今度よろしくお願いしますかナ！","I see... Then let's call it a day.
+I'm looking forward to next time."
+13,New_00,ムムゥ！高いですなあ… でも鳥人がいそうな気配が…,Hmm... It's quite high. If only I was a bird-man...
+14,New_03,"そうだ君！
+吾輩の研究の為に ここから滑空して
+どの位飛行できるのか？
+飛んでみてはくれないか？
+君を わが研究『鳥人間チャレンジ』1号と
+認定するのだナ！
+わが研究の為に滑空を見せてくれたら
+飛行距離により賞金をお支払いしよう！
+ぜひ自慢の滑空を
+吾輩に見せてくれないかナ？","Would you mind participating in a short
+research study? I want to see how far 
+you can glide.
+You'll be compensated for your time and
+travel...depending on how far you fly.
+So how about it?"
+15,New_04,"ンン～！ いい返事ですナ！
+
+鳥人研究の名前に君の偉業も
+永久に語り継がれる事でしょうナ！
+タダ！滑空は空を飛ぶのとは違うから…
+この研究は とても危険なものとなるのだナ！
+そこで20ルピーの保険をかけてもらいますが…
+その覚悟をもって飛んでもらえますかナ？","Marvelous! Our findings today may prove
+to be the cornerstone of bird-man
+research for generations to come!
+However...you are merely gliding.
+Not flying. Making this a rather
+dangerous research project.
+As such, a liability fee of 20 rupees
+will be necessary to proceed. You know,
+in case I have to file an...incident report."
+16,New_05,"「着地位置！」 「風向き！」 「現在の体力！」
+等を考慮し遠くまで行ける位置を探して欲しい","All right!
+
+
+Landing elevation!
+Wind direction!
+Stamina usage!
+Keep all of these in mind as you consider
+the farthest destination you can reach
+by gliding!"
+17,New_06,"そうですナ…""いくら道具があっても
+最後は自分の勇気ですからナ！","I understand... Even if one's wallet is
+ripe, courage doesn't grow on trees."
+18,New_07,"ヌヌッ？""20ルピー…持ってないですか…？
+いくら覚悟があっても命がけの研究なんだナ！
+保険金くらいは用意してもらわないと…
+吾輩も困りますナ！
+お金を稼いでから また来てくださいナ！","Hrrng! You don't have 20 rupees?
+
+
+Well, I can't let you participate in the
+study without paying the liability fee.
+PLEASE come back once you have it!"
+19,New_08,"…シテ！""君は塔の上に登ってきてしまって
+降りれずに困っているのかな…？","Oh, my! Now that you've climbed up
+here, how will you get down without
+falling?! I suppose you're stuck here too."
+20,New_09,"ナニ？
+鳥人のように空を飛ぶことができるのか？","WHAT?! You can fly?!
+You can fly like a bird-man?!"
+21,New_11,"ここに来る前吾輩は 
+お空を夢見る女の子に出会ったんだナ… 
+そんな素敵な夢を叶えてあげたい…
+明日への夢の為に吾輩は研究を続けるんだナ！","Before I came here, I met a girl who
+dreamed of touching the clouds.
+
+I want to make that dream a reality.
+Come back when you also want to
+achieve greatness!"
+22,New_12,"ナニ？ 「それはこちらのセリフ」… ですとナ？
+
+質問に対して質問で答えるとは…
+吾輩は""鳥人の研究をしている学者でナ！
+ある日鳥人の目撃証言が多い
+この辺りを歩いていると…
+あの いきなりの大地震によって地面の下から
+せり上がってきた この塔に巻き込まれてしまい
+それからずっと塔の上から降りられないまま
+今に至り まあここで生活しているのだナ！","Though I suppose you could ask me the
+same question...
+
+You see, I have dedicated my life to
+the study of bird-men! Their flight
+mechanics fascinate me!
+Given their weight, it should be
+physically impossible for them to fly with
+wings of their size. I just don't get it!
+I was standing on the ground watching
+the skies, when suddenly this tower
+erupted beneath my feet!
+I've been stuck up here since with no
+way to get down."
+23,New_13,"オヤオヤ？どうしましたかナ？
+
+とても危険な研究だから
+正直な気持ちを伝えて欲しいんだナ！","What's wrong? Why aren't you flying?
+Please don't tell me you've changed
+your mind."
+24,New_14,"ナ ナ ナント！
+調子が悪いのですかナ？
+研究の準備を進めていたので キャンセルしても
+保険金の20ルピーは返却できないのですが…
+それでも飛ぶのを あきらめるのですかナ？！","WHAT?! But... But our research!
+
+
+Since the project has already begun,
+I can't give you your 20 rupees back.
+Are you sure about this?"
+25,New_15,"残念… 
+君にも事情というのが あるのでしょう…
+吾輩は君のチャレンジを待ってますからナ！","*sigh* OK. But please come back soon!
+It's very boring up here."
+26,New_16,"ウム！了解！研究の準備はできているんだナ
+では自分のペースで一気に飛んでくださいナ！","Yes, yes! Understood! We're ready to
+take off whenever you're ready."
+27,New_17,"フゥー！""怖気づいたのかと思いましたよ… 
+では もう一度 チャレンジしてくださいナ！","Phew! I thought you got cold feet.
+But even icy toes can fly! Show me what
+you got, my chilly-footed pal!"
+28,New_18,"自信満々で飛び出したのにどうしましたかナ？
+mしか飛んでないのではないかナ！
+これでは研究がちっとも進みませんナ…
+申し訳ないが賞金を支払う事はできませんナ！
+もっとこう…鳥人をイメージして""力尽きるまで
+ふんばって…え？""空中で力尽きたら危ない？
+では""力尽きないように調整しながら
+滑空を試みてくださいナ！","What happened?! You looked so
+confident, but you only flew
+ m!
+This does NOTHING for my research!
+
+
+I'm sorry, but I don't give rewards for
+paltry performances. I give rewards for
+poultry performances!
+Just...try to imagine that you're a
+bird-man freeing yourself from the
+unjust chains of gravity!
+And if you run out of energy while
+gliding, try making some adjustments
+that will give you more stamina."
+29,New_19,"フム…""今回はわずかですが成果がありました！
+君がm""飛んでくれたおかげですナ！
+研究とは… このような小さな一歩の積み重ね！
+いつか実り花咲く時が来る事を信じて…
+え？賞金はどうなるのか？ って？
+賞金…""研究の成果より賞金ですか…
+約束も大事ですからナ！
+賞金を渡します！ ハイ 21ルピー！
+……あ間違えました……","Let's see here... You flew  m.
+
+
+Small steps lead to great strides in the
+long run.
+
+Oh, right! Your compensation. Isn't the
+collection of priceless research data
+compensation enough? No? Fine.
+Well, a promise is a promise. Here's
+your reward: 21 rupees!
+
+...
+
+
+Ugh. Fine. I'll make it 50 rupees."
+30,New_20,"イヤ～！今回は素晴らしい滑空でした！！
+m もの距離を飛んでくれるとは！
+まさに鳥人間チャンピオン目から鱗ですナ！
+これで鳥人の研究は大きく前進いたしました！
+優れたチャレンジャーには それなりの賞金を！
+遠慮なく受け取ってくださいナナナのナ～！！","MARVELOUS! What a breathtaking flight!
+I never dreamed a Hylian could fly
+ m!
+Your methods may have been
+unconventional—I didn't see you flap
+your arms once—but they were effective!
+The field of bird-man research will
+benefit greatly from this data.
+
+You deserve heavy compensation for
+your stellar efforts. Please, take this!"
+31,New_21,"これまでの滑空の中で一番参考になりました！
+この調子で どんどん記録を伸ばして欲しいナ！","That was the longest flight yet...
+But I bet you can set an even better
+record next time!"
+32,New_22,"これまでの滑空の中では いつだったカナ…？
+
+m""飛んだ時が一番だったかナ！
+あの時のような素晴らしい滑空を…","Let's see how this most recent flight
+compares to your past flights...
+
+Hmm... That time you flew  m
+yielded the best research data. That was
+an unforgettable feat!"
+33,New_23,"どうですかナ？ 
+まだ君の体力が残っていれば…
+もうひと滑空！
+研究に協力してくれませんかナ？","So? If you're still up for it...why not glide
+down again? The world of bird-man
+research waits for no man."
+34,New_24,"イヤ～！
+素晴らしい返事ですナ！
+ではでは保険金の20ルピーをお願いします…","YESSSSS!
+
+
+So...can I get those 20 rupees?
+That should cover the filing fee in case
+I have to file an incident report."
+35,New_25,"ヤア！『鳥人間チャレンジ』1号よ！ようこそ！
+
+と言っても…まだ鳥人間チャレンジ登録者は君だけですが…
+保険金20ルピー払って飛んでくれますかナ？","It's the legendary and only bird-man
+research assistant!
+
+If you want to fly, you'll need to pay
+the 20-rupee liability fee, of course."
+36,New_26,"ワワッ！いつの間に！脅かさないでくれ！
+どうやって君はこの塔の上まで…？","WAAAH! Wh-where did you come from?
+Don't scare me like that!
+How... How did you get up here?"
+37,New_27,"だがしかし！吾輩にとっては
+ピンチこそが チャンスであり…
+ここは鳥人の研究に ぴったりの場所なんだナ！","But my misfortune is a blessing in
+disguise!
+
+You see, this tower is the perfect place
+to observe bird-men in their natural
+habitat!"
+38,New_28,"おや？こんなところで人に会えるとは…
+君は どうやってこの塔に登ってきたんだい？","Huh? Where did you come from?
+How did you get up here?"
+39,New_29,"それはほんとか！！
+
+吾輩は ハイリア人が鳥人の様に
+空を飛ぶ方法の研究を ずっとしているのだナ
+エッ？飛べるわけではなく滑空する！
+ですと？ それでも充分なんだナ！
+滑空距離を計算し研究すれば… 
+いつか人は鳥人の様に空を飛べる時代が来ると
+吾輩は信じて研究を続ける事ができるのだナ！","Is that true? I thought it impossible for a
+Hylian to fly like a bird-man!
+
+Ah... It's more like gliding then?
+That's still a step in the right direction!
+
+If I can analyze your glide distance and
+trajectory, it may help us understand the
+science of bird-man flight. 
+Then maybe one day I'll finally realize
+my dream of becoming a bird!
+*ahem*"
+40,New_30,"準備ができたら さっそく滑空スタート！
+
+『鳥人間チャレンジ』1号よ！
+大空へ舞え！","If you're ready, let's take to the skies!
+
+
+Bird-man research study! GOOOO!"
+41,New_31,"オヤオヤ？ どうしましたかナ？
+滑空を お願いしたのだが… 
+すまないが塔の外側へ向かって
+飛んでほしいんだナ！","Huh? I need you to glide as far as you
+can from the tower!"

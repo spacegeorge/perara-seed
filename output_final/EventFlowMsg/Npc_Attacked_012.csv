@@ -1,0 +1,116 @@
+#,Title,JPja,USen
+1,After00,"おまえは あの城のような建造物が
+何なのか知っているのか？","Do you know the story behind that
+castle there?"
+2,After01,私の力では ここまでか…,"Maybe I'm biting off more than I
+can chew..."
+3,After02,"あれはアッカレ砦といって
+大昔 ハイラル王国がまだ健在だったころ…
+このアッカレ地方を守るために建設されたもので
+難攻不落の砦と言われていた
+それが あの大厄災で ハイラル城が焼かれ
+王と姫君をなくした ハイラル軍は…
+なすすべをなくし ここを拠点にして
+最後の抵抗をしていたそうだ
+だが暴走したガーディアンの猛攻を
+止められるわけもなく結局は陥落した…
+いわば ここは
+ハイラル王国が滅んだ最後の地だ","That's the Akkala Citadel Ruins. Long
+ago, at the peak of Hyrule's power, they
+built a fortress to protect Akkala.
+It was said to be unassailable, but during
+the Great Calamity, Hyrule Castle fell...
+The army had no royalty to lead them.
+With no other choice, they fell back to
+this citadel to make their last stand.Sadly, a concentrated assault from the
+out-of-control Guardians spelled the
+end for this fortress too.
+In a real sense, the kingdom of Hyrule
+met its doom here."
+4,After02_2,"私の先祖も ここで死んだと聞いてな 
+一度は弔いをしたいと足を運んだのだが…
+ガーディアンが まだ動いているとなると
+ここまでのようだな… 
+ガーディアンに立ち向かって
+生き残った人間は いないそうだ… 
+おまえは そんな無謀なやつには見えないが
+もし砦に向かうのなら十分注意するんだぞ！","I found out my own kin died in that
+battle, so I came to at least pray at the
+spot where they fell.
+But it turns out that the old Guardians
+are still active, so this is as far as I go.I've never heard of anyone else escaping
+a Guardian's sights, at least.You don't look reckless enough to
+chance it, but be on your guard in these
+hills all the same."
+5,After03,"こんな巨大な建造物や 
+廃墟になった街を見ていると…
+いかに昔のハイラル王国が
+栄華を誇っていたというのが見て取れるな
+本当は もっと近くに行ってみたいところだが…
+砦に向かうのなら十分注意するんだぞ！","When you look at these massive
+structures and ruined cities...you really
+get a sense of what we lost.
+I wish I could get a closer look, but I
+don't have a death wish. If you're
+headed for the citadel, be very careful."
+6,Atacked00,くそぉ こんなところで魔物か！,Monsters have no business being here!
+7,Atacked01,どうした かかってこい！,Come on and get me! I'll take you on!
+8,Failed00,"私としたことが…
+かっこ悪い姿を見せてしまったな
+同じ旅の者として おまえに忠告するが
+魔物を甘く見るんじゃないぞ","Well, I hope you enjoyed watching me
+make a fool of myself. Glad I could
+provide some free entertainment.
+Learn from my example, traveler—always
+be on your guard on these roads."
+9,Failed01,"私としたことが油断した…
+
+城に見とれていたら やられてしまったよ
+おまえも背後には気をつけるんだぞ","Well, that's what I get for being careless.I was too distracted by the sight of the
+citadel to notice that thing getting the
+drop on me. Watch yourself, OK?"
+10,GoodBye00,"私は この砦を目指して ここまで来たんだ
+せっかく ここまで来たというのに…","I came out this way to search for this
+citadel. Can't believe I made it so close,
+only to have to turn back now..."
+11,Guardian00,くそぉ ガーディアンめ！,A Guardian?! Time to bail!
+12,Near00,くそ… ここまでか,This is the end of the line.
+13,SavedLv1_00,"ふん…
+手間をかけたな…
+あんなやつなら私だけで十分倒せたが
+まあ これは礼だ取っておけ","I could have beaten that thing! Really!
+I must have just been having an off day.
+Well, this is for going out of your way."
+14,SavedLv1_01,"ちっ…
+余計なことを…
+あんなやつなら私だけで十分倒せたが
+まあ礼はせねばな！取っておけ","Aw, I wasn't in any REAL danger. But I
+guess it was hard to tell from a distance.
+Thanks anyway."
+15,SavedLv2_00,"くっ…
+助けられたようだな…
+まあ今の魔物ぐらいなら なんとかなったが
+一応礼は しておこう","Hmph... We'll never really know if I could
+have beaten them now. So technically,
+I suppose you did rescue me."
+16,SavedLv2_01,"……
+助かったぞ…
+今の魔物は なかなか手ごわかった
+礼をさせてもらうぞ","You hel... You held your own out there!
+No, no. You he...aded for town, I take it?
+OK, OK. You helped me. There. I said it."
+17,SavedLv3_00,"す… すまない…
+はっきり言って今の魔物は やばかった
+私も剣には自信があったのだが…
+これは礼だ取っておいてくれ！","Th-thanks... That monster was more than
+I bargained for.I'm a dab hand with a blade, but you...
+Well, my hat is off to you, boy. Here,
+take this for your help."
+18,SavedLv3_01,"強いんだな…
+私が苦戦した魔物を こうもやすやすと…
+おまえは ただ者ではないな？
+礼をさせてもらうぞ","It took all I had just to stay alive against
+that monster, but you beat it like it was
+a straw training dummy.
+Whoever you are, you deserve this more
+than I do!"

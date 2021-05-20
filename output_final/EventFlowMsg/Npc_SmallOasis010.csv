@@ -1,0 +1,180 @@
+#,Title,JPja,USen
+1,"""0001""",買い取って！,Buy my stuff!
+2,"""0002""",さようなら,Gotta go!
+3,"""0003""",怪しい商人知らない？,Suspicious vendors?
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,I wanna buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,さっさと選んでくれるかい？,"Hurry it up, would you?"
+11,Com_Talk_01,"ならルピー
+それでいいかい？","That will be  rupees.
+Is that OK?"
+12,Com_Talk_02,はいよ サークサーク,"All right, sarqso."
+13,Com_Talk_02b,…サークサーク,Sarqso.
+14,Com_Talk_02c,確かに金は払ったよ,"Yes, the money has definitely been paid."
+15,Com_Talk_02d,はいよ これでもう満足だろ？,All right... Are you satisfied now?
+16,Com_Talk_04,ここで悩むんじゃないよ…,Don't just stand there thinking about it...
+17,Com_Talk_05,"サクッと済ませてくれたら
+助かるんだけどねぇ…",Hurry up!
+18,Com_Talk_05b,まさか まだ何かあるのかい？,Get on with it—are you still selling?
+19,Com_Talk_05c,"他にもあるなら
+ちゃちゃっと頼むよ",You still need to sell anything?
+20,Com_Talk_05d,もう いいんじゃないかい？,Are we done here?
+21,Com_Talk_13,"？
+いいけど いくつだい？","Sure, how many?"
+22,Com_Talk_14,"を個…
+まぁルピーってとこで どうだい？","So... of them?
+How is  rupees?
+Sound good?"
+23,Com_Talk_15,"そんな面倒そうなモンは
+ごめんだよ","Ugh, that looks lame to me. I don't have
+any interest in something like that."
+24,Com_Talk_16,"面倒がるんじゃないよ…
+着てる服を売るなんて非常識だろ！","Seriously? I'm already in a bad enough
+mood without you making it worse, trying
+to sell me the clothes you're wearing..."
+25,Com_Talk_33,"が1つぽっちか…
+それならルピーだよ","Only one?
+Let's say... rupees."
+26,Com_Talk_34,"を全部買うのかい？
+それなら個でルピーになるよ？","Every last one?
+Well,  of them will be  rupees, 
+if you've got that much to spend..."
+27,Com_Talk_35,"を個全部かい？
+それならルピーでどうだい？","All  of them?
+How's  rupees sound?"
+28,Com_Talk_50,"なら
+ルピーだよ",That will be  rupees.
+29,Com_Talk_51,"だね？
+で… いくつ欲しいんだい？",So...how many do you want?
+30,Com_Talk_52,"が個だね…
+だったらルピーだよ","...So  of them? That'll be...
+ rupees."
+31,Com_Talk_53,冷やかしなら帰っとくれ,"Get out of here if you're just gonna
+jerk me around!"
+32,Com_Talk_54,稼いでから出直してきな…,"Come back once you've got some money
+to spend..."
+33,Com_Talk_55,"ポーチがいっぱいじゃないか…
+面倒だねぇ…出直してきな…","Your inventory is full...
+That's really lame. Guess you'll need to
+come back when you've got room, huh?"
+34,Com_Talk_56,"が1つぽっちか…
+それならルピーだよ",Only one? That'll be  rupees.
+35,Near001,面倒だねぇ…,What a letdown...
+36,Talk_01,"…ったく年寄りに
+こんな過酷な労働させるんじゃないよ","Ugh, how can they make an old vai work this hard..."
+37,Talk_02,"……買うなら一度に全部
+買ってほしいもんだがねぇ","If you're going to buy a bunch, you
+should just buy them all at once."
+38,Talk_03,"ひんやり料理なしで砂漠を渡るのは
+命を捨てるようなもんだよ…
+にしてもなんで みんな
+あんな暑い所に行きたがるのかねぇ…","Trying to cross the desert without using
+cooling cooking? That seems like a
+foolish thing to do, if you ask me...
+And really, what's so amazing about
+such a hot place, anyway?"
+39,Talk_05,"はぁ…
+なんでわざわざ ウチでやるかねぇ…","*sigh*
+Why do you come here to do that?"
+40,Talk_06,サークサーク…,Sarqso...
+41,Talk_07,はぁ… また仕入れとかないとねぇ…,"Ugh, now I've got to go get more...
+
+
+What a drag..."
+42,Talk_09,"終わったかい？
+
+今度からは
+ヨソでやってほしいもんだねぇ…","Are you finished?
+I wish you would do that somewhere else
+next time..."
+43,Talk_10,"…ったく こんな夜遅くまで
+婆さんを働かせるんじゃないよ","...Ugh, how can they make an old vai work
+this late?"
+44,Talk_11,"…ん？
+
+ああヴァーサーク…
+
+ヒンヤリメロンの品数なら
+ゲルドの街にだって負けやしないよ
+どうせなら沢山買っていっとくれ","Huh? Oh, vasaaq...
+
+
+I've got plenty of hydromelons... I bet 
+more than you'll find in Gerudo Town.
+Why not buy a bunch while you're here?"
+45,Talk_13,どこに足乗せてんだい,Watch it!
+46,Talk_14,"ああ アンタかい？
+ヴァーサーク…
+今はもう売れるもんは残っちゃいないよ
+
+ヒンヤリメロンが欲しいなら
+ゲルドの街に行くか
+その辺に生えてるのを探すんだね","Oh, it's you. Vasaaq... However, I don't
+have anything more I can sell you.
+
+If you want to get hydromelons, you'll
+have to go to Gerudo Town. Or find some
+growing around this area, I suppose..."
+47,Talk_15,"なんだい…
+まだアタシに何か用かい？","What do you want? Do you still need
+something from me?"
+48,Talk_16,……いっそ買い占めてくれたらねぇ,"...You know, if you just bought them all
+at once, that would be pretty nice for
+me."
+49,Talk_17,"ゲルド族の衣装を好んで着るなんざ
+アンタも変わった趣味だねぇ
+それで まだアタシに何か用かい？","You're an oddball for wanting to wear 
+Gerudo outfits... Anyway, you need
+anything else from me?"
+50,Talk_19,"ん…？
+
+なんだい なんだい？
+いかにも「用がある」って顔して","Huh?
+What's the matter?
+
+You've got this look on your face that
+almost screams, \""I gotta talk to you
+right now.\"""
+51,Talk_20,"怪しい商人ね…
+
+アタシらからみたら
+ゲルド族以外の商人はみんな怪しいってもんさ…
+だけど…
+そうだね…
+最近うろついてる ゲルドの装束を着た
+ヴァーイの商人…
+アレは なんか裏がある気がするよ
+
+よろず屋に
+よく出入りしてるみたいだけどね…
+だけど アタシの知ったこっちゃないよ
+
+怪しいもんとは
+関わり合いは持ちたくないんでね","A suspicious merchant, huh...
+
+
+From my point of view, pretty much any
+merchant that isn't Gerudo looks
+suspicious, you realize?
+Still... Yeah, I can think of someone...
+
+
+That one vai merchant in full Gerudo
+garb... She frequents the general store
+a lot.
+I'm sure there must be more to her story.
+But what do I know? Plus, I'm not going
+to poke my nose in another's business."
+52,Talk_21,"なんだい…用がないなら
+「用がある」って顔するんじゃないよ
+まぁ…
+厄介事を持ち込まれても困るけどねぇ","What's your deal? If you don't need
+anything, don't make that \""I need to talk
+to you\"" face.
+Whatever... I should probably just be
+glad I'm not getting dragged into every
+little bit of drama."

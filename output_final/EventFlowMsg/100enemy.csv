@@ -1,0 +1,89 @@
+#,Title,JPja,USen
+1,"""0002""",序位,Beginning Trials
+2,"""0003""",中位,Middle Trials
+3,"""0004""",極位,Final Trials
+4,"""0005""",やめる,Cancel
+5,talk13,"主が その手に取り戻した剣…
+マスターソードは真の輝きを秘めておる
+その真の力を解き放つ試練…
+
+挑むならば その台座に マスターソードを
+挿し戻すのだ","That sword you have reunited with...
+the Master Sword...it has yet to realize
+its true splendor.
+The trial that will awaken its true power...
+
+
+If you wish to rise to the challenge,
+place the Master Sword in its pedestal."
+6,talk14,"今の主が振るうマスターソードは
+以前よりも威力を増しておるはずだ
+更なる強き力を求め
+剣の試しに再び挑むのであれば…
+もう一度その台座に マスターソードを
+挿し戻すのだぞ","The Master Sword you wield is now
+more powerful than before.
+
+If you desire still more power and
+wish to retry the blade's test...
+
+once again place the Master Sword
+in its pedestal."
+7,talk15,"マスターソードの力を余さず使いこなせる
+肉体と精神力を主は手に入れた…
+だが過信は禁物じゃぞ
+
+無駄に振り回せば傷付き いずれ使えなくなり
+剣の回復を待たねばならぬのは今迄と同じ
+ガノンを討つのなら その剣にのみ頼るは危険
+万全を期し神獣を解放しておくことも考えよ…
+あの娘…姫巫女の笑顔
+わしも今一度見てみたいものよ…","Now your body, mind, and soul are
+ready to wield the Master Sword at
+its full potential.
+But do not let your guard down.
+
+
+Just as before, if you use your sword to
+excess, it will run out of energy and
+become unusable until it recovers.
+It would be reckless to rely only on your
+blade when facing Ganon. 
+
+Prepare for the worst, and consider
+freeing the Divine Beasts before
+confronting your fate.
+Her smile... The princess's sweet smile...
+How I would love to see it once more..."
+8,talk16,"マスターソードの力を余さず使いこなせる
+肉体と精神力を主は手に入れた…
+だが過信は禁物じゃぞ
+
+無駄に振り回せば傷付き いずれ使えなくなり
+剣の回復を待たねばならぬのは今迄と同じ
+100年来の主の相棒…大事に使うことじゃ…
+主を待っておる者の為にもな
+あの娘…姫巫女の笑顔
+わしも今一度見てみたいものよ…","Now your body, mind, and soul are
+ready to wield the Master Sword at
+its full potential.
+But do not let your guard down.
+
+
+Just as before, if you use your sword to
+excess, it will run out of energy and
+become unusable until it recovers.
+That blade is more than a tool. It is your
+partner across time, your ally from
+100 years past... Wield it with care.
+Her smile... The princess's sweet smile...
+How I would love to see it once more..."
+9,talk17,どの試練に挑みますか？,"Which part of the Trial would you
+like to challenge?"
+10,talk18,どの試練に挑みますか？,"Which part of the Trial would you
+like to challenge?"
+11,talk19,どの試練に挑みますか？,"Which part of the Trial would you
+like to challenge?"
+12,talk20,"マスターソードが眠りについている時は
+試練に挑むことはできません","You cannot participate in the Trial when
+the Master Sword is out of energy."

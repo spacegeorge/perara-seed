@@ -1,0 +1,118 @@
+#,Title,JPja,USen
+1,"""0000""","注目状態で 攻撃が当たる瞬間
+で盾はじきをすると
+ガードジャストが発動する","Press to deflect an attack
+with your shield right before it
+lands for aPerfect Guard."
+2,"""0001""","敵の攻撃をタイミングよく
+ジャンプしながら避けると
+回避ジャストが発動する","Jump out of the way of an
+attack at the last moment to
+execute aPerfect Dodge."
+3,"""0002""","盾サーフィン
+盾を構えながらで
+ジャンプ中にを押す","To shield surf, jump () while
+holding a shield, and then
+press while in the air."
+4,"""0003""","頭部に矢をヒットさせると
+ダメージ倍増の
+クリティカルヒットが発動する","Hit an enemy's head with an
+arrow to perform aCritical Hit
+that deals 2x damage."
+5,"""0004""","がんばりゲージがなくなると
+ゲージが回復するまで動作が
+制限されてしまう","If your Stamina Wheel runs out,
+you'll be too tired to do certain
+actions until it fills up again."
+6,"""0005""","耐えられない寒さになってきた
+これ以上 ここにいると
+ダメージを受けてしまう","The temperature is getting
+dangerously low. Find warmth
+soon or you'll take damage."
+7,"""0006""","耐えられない暑さになってきた
+これ以上ここにいると
+ダメージを受けてしまう","The temperature is getting
+very high. Find a way to cool
+down or you'll take damage."
+8,"""0007""","敵に気付かれずに近接攻撃を
+行うと大ダメージを与えられる","Sneak up on an enemy and
+unleash a melee attack to do
+some major damage."
+9,"""0008""","武器が壊れる瞬間の攻撃は
+ダメージ倍増のクリティカルヒット
+となる","Any attack that causes your
+weapon to break becomes a
+Critical Hit, dealing 2x damage."
+10,"""0009""","武器を投げてヒットすれば
+ダメージ倍増のクリティカルヒット
+となる","Throw a weapon at an enemy to
+perform aCritical Hit, dealing
+twice the weapon damage."
+11,"""0010""","燃えるような熱気が襲ってきた
+ここにいるとダメージを
+受けてしまう","The very air around you is
+burning. You'll take damage
+if you stay here any longer."
+12,"""0013""","雨の時など壁面が濡れている時は
+よじ登る事が困難になる","Vertical surfaces become slick
+with water when it rains, making
+climbing more difficult."
+13,"""0014""","この地帯では木製の武器盾などは
+装備しているだけで燃えてしまう","Wooden weapons or
+shields will catch fire if
+equipped in this area."
+14,"""0015""","しゃがむと移動スピードが
+遅くなる反面静粛性が上がり
+敵や生き物に近づきやすくなる","Crouching increases your
+stealth, making it easier to
+sneak up on foes and animals."
+15,"""0016""","盾を装備していない状態では
+スナザラシに引っ張って
+もらう事はできない","You can't sand-seal surf
+without a shield."
+16,"""0017""","シーカーセンサーに反応があると
+ウルフリンクはそこの位置まで
+導いてくれる","Wolf Link will guide you
+to locations that trigger
+your Sheikah Sensor."
+17,"""0018""","作った料理は ポーチ画面から
+レシピを開くことで
+必要な素材を確認する事ができる","Check a meal's ingredients by
+selecting it from your inventory
+and then selectingRecipe."
+18,"""0019""","電気などでしびれ状態になると
+手に持った武器を落としてしまう","Electrical attacks can shock
+you, causing you to drop the
+weaponyou're holding."
+19,"""0020""","気温がかなり低くなってきた
+今までの耐寒の防具食事だけでは
+ダメージを受けてしまう","The air has become verycold.
+You'll take damage even with
+your current food and clothes."
+20,"""0021""","気温がかなり高くなってきた
+今までの耐暑の防具や食事だけでは
+ダメージを受けてしまう","The air has become veryhot.
+You'll take damage even with
+your current food and clothes."
+21,"""0022""","この地域では さらなる熱気が襲う
+今までの防具食事だけでは
+ダメージを受けてしまう","The air itself burns. Your current
+clothes and food won't protect
+you from taking damage."
+22,"""0023""","神獣操作
+マップ画面から神獣の一部を
+コントロールする事ができる","You can manipulate certain
+aspects of the Divine Beast
+from theMap Screen."
+23,"""0024""","マスターバイク零式のエネルギーは
+素材を手に持ってタンクに
+入れると回復することができる","Master Cycle Zero'sfuel can
+be refilled by placing materials
+in its fuel tank."
+24,"""0025""","そろそろ休けいしませんか？
+VRゴーグルを使用するときは
+こまめに休けいをおすすめします","Remember to take breaks every
+once in a while when using the
+VR Goggles."
+25,T_Guide_00,操作説明,Controls Overview
+26,TextBox_00,,

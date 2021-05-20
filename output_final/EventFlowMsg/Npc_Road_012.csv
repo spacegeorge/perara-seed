@@ -1,0 +1,188 @@
+#,Title,JPja,USen
+1,Atacked00,"くっ…
+この程度の魔物にてこずるとはね","I should have stomped all over such a
+weak monster. Where did I go wrong?"
+2,Atacked01,"こんな魔物若い時なら
+ひとひねりだったんだけどさ","If I was just a few years younger, that
+monster would rue the day it met me."
+3,Failed00,"ああ！""生きてるだけで奇跡なのかも…",I'm— I'm alive! Praise the gods!
+4,Failed01,"あいたたた… 
+魔物のやろう…",Oof... Curse those monsters!
+5,MSG_Gerud_00,"宝探し歴 20年…
+伝説のトレジャーハンターとは私のことさ！
+ところで今街の中は「イーガ団」という
+賊の話でもちきりみたいだな…
+トレジャーハンターと賊は だいぶ違うが
+ある意味私のライバルかもしれないな","I'm a legendary treasure hunter. Been at
+it for 20 years...The whole town's buzzing about that
+Yiga Clan. You heard of 'em?If you ask me, treasure hunters are a few
+cuts above common bandits... But in an
+odd sense, they're my competition."
+6,MSG_Gerud_00_1,"街の中は 「イーガ団」という
+賊の話でもちきりみたいだな","The whole town's been buzzing about
+that Yiga Clan."
+7,MSG_Gerud_01,"伝説のトレジャーハンターその名はワスク！
+…そう私のことさ！
+ここだけの話…私が求めるお宝の中には
+「ヴォーイ」も含まれる
+「ヴォーイ」はゲルドの言葉で「男」のこと…
+力強いヴォーイだと より価値が上るってもんさ","You're looking at Calisa, legendary
+treasure hunter. The treasure I'm
+after these days is voe.
+I think your word for voe is...\""man\""?
+That sounds right. I'm after the roughest,
+toughest voe this world has to offer!"
+8,MSG_Gerud_0100,"伝説のトレジャーハンターとは私のことさ！
+じつは今 ちょっと気分がいいんだ
+なぜなら 「イーガ団」事件が解決したので
+安心して宝探しができるから！","I'm a legendary treasure hunter, and 
+you caught me in a good mood.They finally cracked the Yiga Clan case!
+Now I can hunt for voe—I mean
+treasure—without worrying about it."
+9,MSG_Gerud_0100_1,"""「イーガ団」事件が解決したので
+安心して宝探しができるんだ","Now that they cracked the Yiga Clan
+case, I can hunt for voe—I mean
+treasure—without worrying about it."
+10,MSG_Gerud_01_1,"私が探し求めるお宝の中には
+「ヴォーイ」も含まれる
+「ヴォーイ」はゲルドの言葉で「男」のこと…
+力強いヴォーイだと より価値が上るってもんさ","The main treasure I'm after right now
+is a big, strapping voe.I think your word for voe is...\""man\""?
+And not just any voe. The roughest,
+toughest voe I can find!"
+11,MSG_Gerud_02,"もしかして伝説のトレジャーハンターを
+探しているのかい？
+…だとしたら あんたはもう見つけてる
+目の前にいる この私がそうなのだ！
+狙ったお宝は必ずほぼだいたい手に入れる…
+宝探し歴20年のベテランさ！","If you're searching for Calisa, legendary
+treasure hunter, then your search is over.
+You're looking at her!
+I've been in the game for over 20 years.
+When I set my sights on a treasure, you
+can be sure that I'll claim it."
+12,MSG_Gerud_02_1,"狙ったお宝は だいたい手に入れる…
+この私は宝探し歴20年のベテランさ！","I never rest until I get my hands on the
+treasure I'm after. I've been at this job
+for 20 years, after all!"
+13,MSG_Gerud_03,"伝説のトレジャーハンター私はワスク！
+
+知っているか？
+砂漠に「宝箱」が埋まっているという噂を…
+誰が埋めたのか自然に埋まったのか…
+そんなことより中身が気になるよ","You're in the presence of the legendary
+treasure hunter Calisa. I'm chasing down
+rumors of treasure chests in the desert.
+No idea if people buried them or if the
+sands claimed them... I care more about
+digging them up and opening them!"
+14,MSG_Gerud_03_1,"砂漠に「宝箱」が埋まっているというが
+中身が気になるよ","They say there's buried chests in these
+sands. I aim to dig them up and find out
+what's inside."
+15,MSG_Gerud_04,"伝説のトレジャーハンター""私はワスク！
+馬宿にだってお宝はあって それはつまり…
+「ヴォーイ」のこと！
+
+「ヴォーイ」はゲルドの言葉で「男」のこと…
+私にとっては目のお宝ってわけさ！","I'm Calisa, legendary treasure hunter.
+Right now I've got my eye on the voe
+at this stable.
+I wouldn't rate any of them as treasure,
+though... Except maybe you."
+16,MSG_Gerud_04_1,"馬宿で若いヴォーイを品定めするのは
+私にとっては目のお宝なのさ","I look at the voe at this stable with a
+treasure hunter's eye. Not much value
+in these runts, sad to say."
+17,Near00,宝箱は…,Where's that treasure...
+18,Near01,巨大クジラの骨…,Leviathan bones...
+19,Near02,広い砂漠に…,"In the desert, though?"
+20,Near03,スナザラシがいれば…,If only I had a sand seal...
+21,Rest_00,"伝説のヴォーイハンターって聞いたことある？
+聞いたことあろうがなかろうが私のことよ
+ヴォーイハントで いい思い出があるのは
+カラカラバザールとゲルドキャニオン馬宿ね
+","Have you heard of Calisa, legendary
+treasure hunter?If not, let me inform you that you have
+the honor of looking upon her.I've traveled to Kara Kara Bazaar,
+Gerudo Canyon Stable, and beyond in
+search of desert treasures."
+22,RetMSG_Gerud_00,"私の名前は ワ ス ク！
+
+伝説のベテラン トレジャーハンター！
+どんなお宝も私の手にかかれば… 
+同じく どんなヴォーイも私の手にかかれば
+ウフフ…","My name is Calisa! Legendary treasure
+hunter!And when I find a voe who meets
+my standards... I'll lock him in my vault,
+heh heh."
+23,RetMSG_Gerud_00_1,"どんなお宝も どんなヴォーイも
+私の手にかかれば…ウフフ","Any treasure, or any voe, I get my hands
+on is mine forever. Heh heh."
+24,RetMSG_Gerud_01,"その小さな体で この砂漠越えを？
+まるで ゲルド族のような向こう見ず！
+気に入ったので ひとつ情報をやろう…この砂漠に宝箱が埋まっているという
+噂を聞いたことがあるんだ","A runt like you wants to cross the 
+desert? You have a Gerudo's daring,
+little one!
+I like that, so I'll share a secret with you.
+Buried in those sands somewhere is a
+great treasure."
+25,RetMSG_Gerud_01_1,"この砂漠に宝箱が埋まっているという
+噂を聞いたことがあるんだ","They say that buried in those sands
+somewhere is a great treasure."
+26,RetMSG_Gerud_02,"さすがの私も歩いて砂漠を渡るのは
+少しキツイかな…
+こんな時スナザラシがいれば
+砂の上を楽に自由に移動できるのにな…","Crossing the desert on foot would be
+hard even for me. With a sand seal,
+though, it's another story.
+You have a sand seal and a shield,
+they do all the work for you!"
+27,RetMSG_Gerud_02_1,"スナザラシがいれば
+砂漠をラクラク自由に移動できるのにな…","If only we had sand seals, then we
+wouldn't need to think twice about
+traveling across these sands."
+28,RetMSG_Gerud_03,"あんたの その体のどこに
+それだけの根気と体力が宿ってるの？
+多くの旅人が見つけられない巨大クジラの骨も
+あんたなら砂漠中を歩いて探し出すかもね！","How do you wring such strength, such
+endurance, out of that runty body?Very few have ever seen the leviathan
+bones, but keep an eye out in the desert
+and you might just get lucky!"
+29,RetMSG_Gerud_03_1,"多くの旅人が見つけられない巨大クジラの骨も
+あんたなら砂漠中走り回って探し出すかもね！","Few travelers have seen the leviathan
+bones, but keep an eye out in the desert
+and you might just get lucky!"
+30,RetMSG_Gerud_04,"伝説のトレジャーハンター""私はワスク！
+宝探しに疲れたら馬宿でヴォーイの下見さ
+それにしても ここは代り映えしないねぇ…
+私の心を動かすヴォーイは現れないかしら？","You're talking to none other than Calisa,
+legendary treasure hunter. Right now I
+have my eye on the voe at this stable.
+Calling any of these runts a treasure is
+a stretch, though. When will the voe who
+can steal my heart arrive?"
+31,RetMSG_Gerud_04_1,"宝探しに疲れたら馬宿でヴォーイの下見さ
+私の心を動かすヴォーイは現れないかしら？","When I get bored of treasure hunting,
+I come to this stable to check out
+the voe.
+I'm looking for the voe who'll steal my
+heart for good...but it sure isn't any
+of these."
+32,SavedLv1_00,もう魔物は去ったかい？,Are the monsters gone now?
+33,SavedLv1_01,"あぶなかったね…
+命拾いしたよ！","That could've been bad, huh? Once was
+enough for me!"
+34,SavedLv2_00,なんとか命拾いしたね！,"I don't know how, but I made it!"
+35,SavedLv2_01,"大丈夫かい？
+ケガしてないかい？",You OK? No broken bones or anything?
+36,SavedLv3_00,それにしても魔物の多いこと…,"Sa'oten! Why are there so many
+monsters all over the place?!"
+37,SavedLv3_01,はぁ…何とか助かった…,"*pant pant*... How do I get into these
+scrapes?"
+38,Talk04,サヴォッタ！,Sav'otta!
+39,Talk05,サヴァーク！,Sav'aaq.
+40,Talk06,サヴァサーバ！,Sav'saaba!
+41,Thanks00,"よかったら これ受け取っておくれよ
+","Here. If you want it, it's yours."

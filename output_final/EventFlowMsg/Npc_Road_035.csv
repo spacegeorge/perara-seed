@@ -1,0 +1,286 @@
+#,Title,JPja,USen
+1,Atacked00,"馬で逃げたいが
+今はじっとしておくべきか…","I want to escape on horseback, but I'm
+afraid to move from here."
+2,Atacked01,やっかいなことになった…,What a disaster...
+3,Failed00,忌まわしい魔物は いなくなったか？,Are those vile monsters gone?
+4,Failed01,俺の愛馬が心配だ…,I'm worried about my horse...
+5,Guardian00,"逃げろ！駆けろ！
+ガーディアンから逃げ切れ！",RUN! Run away from the Guardian!
+6,MSG_Kyu_00,"俺の旅になくてはならないもの
+何だと思う？
+それは馬だ
+
+馬さえいれば俺なんていなくていいくらい
+俺の旅にとって重要な存在だ","There's one thing I absolutely can't
+travel without. Know what it is?
+
+It's my horse.
+
+
+As long as I have my horse, I don't need
+anything else. He's more important than
+I am, to be honest!"
+7,MSG_Kyu_00_1,"俺の旅になくてはならないもの
+それは馬だ","The thing I absolutely can't travel
+without is my horse."
+8,MSG_Kyu_01,"ん？なんだ？
+ああそうか馬の話が聞きたいんだな？
+まあ遠慮するな
+馬のことなら いくらでも話してやる
+たとえば馬の正しいホメ方は
+こんな感じ…
+言うことを聞いたときに ポンポンポン
+がんばって走ったときに ポンポンポン
+馬をホメるタイミング覚えたな？","Hmm? Let me guess...you want me to
+tell you about horses.
+
+Well, you're in luck. I could talk about
+horses all day.
+
+Let's see here... Do you know how to
+properly praise your horse?
+
+Pet your horse when it follows directions.
+Pet it when it works hard.
+
+Praise your horse at the right time to
+reinforce good behavior."
+9,MSG_Kyu_01_1,"言うことを聞いたときに ポンポンポン
+がんばって走ったときに ポンポンポン
+馬をホメるタイミング覚えたな？","Pet your horse when it follows directions.
+Pet it when it works hard.
+
+Praise your horse at the right time to
+reinforce good behavior."
+10,MSG_Kyu_02,"話しかけてくれたのはいいけど
+俺は馬の話題しかない男だけど いいか？
+たとえば いざとなれば馬も泳げるってのは
+知ってたか？
+他の動物が泳げるかどうかは知らんが
+馬はなんとか泳げるってのは確かだ","I'm glad you wanted to chat with me, but
+I really only like to talk about horses.
+So...
+Did you know that horses can swim in a
+pinch?
+
+Name another animal that can swim.
+Trick question—you can't. But horses
+have it down cold. BOOM."
+11,MSG_Kyu_02_1,"いざとなれば馬も泳げるってのは
+知ってたか？","Did you know that horses can swim in a
+pinch?"
+12,MSG_Kyu_03,"俺は誰彼かまわず馬の話をはじめる男だ
+それだけは知っておいてくれ
+世界に馬宿いくつもあれど これから言う馬宿は
+付けてくれる手綱やくらが ひと味違うぞ
+いいか覚えろよ…
+
+森の馬宿高原の馬宿平原外れの馬宿
+そして ミナッカレ馬宿…以上の4か所だ","I'm the kind of guy who sees everything
+in his life through horse-tinted glasses.
+
+Did you know that some of the stables in
+Hyrule have slightly different bridle and
+saddle styles?
+I know of four for sure:
+
+
+Woodland Stable, Highland Stable,
+Outskirt Stable,
+and South Akkala Stable..."
+13,MSG_Kyu_03_1,"付けてくれる手綱やくらが
+ひと味違う馬宿は全部で4か所…
+森の馬宿高原の馬宿平原外れの馬宿
+そして ミナッカレ馬宿…以上だ","I know of four stables in Hyrule that have
+slightly different bridle and saddle styles:
+
+Woodland Stable, Highland Stable,
+Outskirt Stable, and South Akkala Stable."
+14,MSG_Kyu_04,"俺は馬を骨まで愛している
+そう言いたくなるほど馬が好きなんだ
+骨で思い出したが雪深い山奥で
+骨だけの馬に出会ったことがある
+怖かったかって？
+俺は別に怖い話をしているつもりはない
+その骨の馬 じつにいい走りをしていたし
+乗り心地も なかなかだったぞ","I love every little thing about horses.
+I love their fur, the way they smell,
+their bones even.
+Speaking of bones, I once rode a horse
+made of nothing but bones! No lie! It
+was up in the snowy mountains.
+Was I scared, you ask? Nope. I could
+never be scared of a horse.
+
+That bony horse ran really well, and it
+was actually a surprisingly comfortable
+ride."
+15,MSG_Kyu_04_1,"雪深い山奥で出会った骨の馬は
+乗り心地が思ったより良かったぞ","The horse made of bones that I rode up
+in the snowy mountains was surprisingly
+comfortable to mount."
+16,Near00,ニンジン…,Carrots...
+17,Near01,パラセールで馬に…,Paraglider? I wonder...
+18,Near02,どう どう…,"Whoa, boy..."
+19,Near03,機械馬などいない…,Mechanical horses? Bah!
+20,Near04,ヒヒ～ン！,*neigh*
+21,Rest_00,"馬の話ばかりで女房に逃げられた男に
+何か用か？
+そうだいいことを教えてやろう
+覚えにくいけど がんばれ
+始まりの台地の北西にあるサトリ山…
+その東にあるサーディン公園跡の近くに…
+王子様が乗ったら似合いそうな馬がいるぞ","I talk about horses so much that my wife
+left me...for a horse.
+
+But it's not all bad. Gives me more time
+to talk about horses.
+
+I heard that there's something special
+near Satori Mountain northwest of
+the Great Plateau.
+To the east of the mountain, you'll find
+Sanidin Park Ruins, and near there...
+is a special horse fit for a king."
+22,Rest_01,"雨でヒマだから馬のクイズでも出そうか
+
+白い馬…""巨大な馬…""機械馬…骨の馬…
+さてこの世界に実在しない馬は？
+正解は いつかどこかで発表するし
+もしかしたら すでに発表済みかもな","I'm bored and it's raining, so how
+about I give you a little horse quiz.
+
+White horse... Giant horse... Mechanical
+horse... Bone horse... Now, which of
+these horses doesn't exist in this world?
+The answer will be revealed someday,
+somewhere. It may even have already
+been revealed to you."
+23,Rest_02,"馬が降ってきやがったな…
+
+言い間違えた！
+雨が降ってきやがったな",It's raining stallions and mares!
+24,RetMSG_Kyu_00,"最初に断っておくが俺から馬以外の話を
+聞き出そうという考えは捨てろ
+よく女の子は白馬の王子様がどうのこうのと
+夢見心地で言い出すが…
+俺は王子様なんて乗っていない白馬に
+迎えに来てほしいと思ってる
+ぶち栗毛黒…馬の体色は様々だけど
+白い馬を見ると その度に思わず息を飲むよ","I'll tell you now, you'd best give up hope
+of hearing about anything other than
+horses from me.
+Girls often talk dreamily about princes on
+white horses or some odd nonsense...
+
+But I couldn't care less about some
+stuffy prince. Give me the white horse!
+
+Pinto, chestnut, black... Horse coats
+come in many different colors, but white
+horses take my breath away."
+25,RetMSG_Kyu_00_1,"ぶち栗毛黒…馬の体色は様々だけど
+白い馬を見ると その度に思わず息を飲むよ","Pinto, chestnut, black... Horse coats
+come in many different colors, but pure-
+white horses take my breath away."
+26,RetMSG_Kyu_01,"俺は人間と心を通わすのはヘタクソだが
+馬となら うまくやっていける自信がある
+馬となら ウマく…
+ダジャレじゃないぞ たまたま偶然だ
+馬を上手に乗りこなすには心を通わせること
+そのためには乗馬の時間を増やすことだ
+……
+
+さっきのは ほんとに偶然だからな！","I'm terrible at communicating with other
+people, but horses love me.
+
+You can't expect a horse to ride hard for
+you if you don't have a meaningful
+connection with it.
+Spending time with your horse is the
+best way to establish a connection."
+27,RetMSG_Kyu_01_1,"馬を上手に乗りこなすには心を通わせること
+そのためには乗馬の時間を増やすことだ","You can't expect a horse to ride hard for
+you if you don't have a meaningful
+connection with it."
+28,RetMSG_Kyu_02,"一日のうち3分の2は馬のことを考えて
+残り3分の1は馬の夢を見る俺に何か用か？
+そうだせっかくだから
+野生馬の話をしてやろう
+近づくと敏感に察知して逃げてしまう
+じつにやっかいな馬が いるだろう？
+ああいうのが じつは
+すごく性能のいい馬なんだぞ","I spend two-thirds of every day thinking
+about horses and the remaining third
+dreaming about them.
+Hey, did you know wild horses will run
+from you if they sense you approaching?
+It can be pretty frustrating.
+But the ones that are hard to catch
+usually perform the best."
+29,RetMSG_Kyu_02_1,"近づくと敏感に察知して逃げ出す馬こそが
+性能のいい個体だと覚えておけよ","Remember, wild horses that are quicker
+to run from you are generally the best
+performers."
+30,RetMSG_Kyu_03,"俺にハイラル城の話を聞こうと思うのなら
+それはお門違いだ
+馬だ馬だ馬の話をしよう
+
+野生馬も愛馬にしたら もはや家族同然
+それも足が速くて背中に乗せてくれる家族だ
+愛馬と決めたら馬宿に登録しておくことだ
+ずっと付き合っていくためにもな","If you came to ask me about
+Hyrule Castle, you're barking up
+the wrong tree.
+Horses, horses, horses.
+That's all I care about.
+
+Finding and taming a wild horse is like
+adopting a new family member...
+that you can sit on.
+Once you register your horse companion
+at a stable, it'll always be by your side.
+Forever. Unless it dies."
+31,RetMSG_Kyu_03_1,"野生馬も愛馬にしたら もはや家族同然
+長く付き合うために馬宿に登録しておくことだ","Once you tame a wild horse, it becomes
+family. Register it at a stable to make it
+official."
+32,RetMSG_Kyu_04,"俺に馬の話をさせると長くなるぞ？
+馬の顔よりも長くなるから そのつもりでな
+このくらは馬の背中にぴったり
+俺の尻にもぴったりの自慢の馬具だ
+手綱も とても握りやすく
+しなやかで さばきやすい
+野生馬を自分の馬として馬宿に登録すれば
+くらと手綱を装着してくれるのは知ってるな？
+話は以上
+思ったほどは長くならなかった","If you get me started about horses, you'll
+be here for a while. I can go on about
+horses longer than a horse's face.
+This saddle fits my horse's back
+perfectly, and it also fits my rear end
+perfectly. I'm mighty happy with it.
+This bridle is easy to grasp, and it's
+pretty elastic, so it's easy to handle.
+
+When you register a wild horse at a
+stable, they'll fit it with a saddle and
+a bridle.
+Well, that's all I have to say about that.
+Didn't go on as long as I thought I
+would."
+33,RetMSG_Kyu_04_1,"野生馬を自分の馬として馬宿に登録すれば
+くらと手綱を装着してくれるのは知ってるな？","When you register a wild horse at a
+stable, they'll fit it with a saddle and
+a bridle."
+34,SavedLv1_00,何とか助かったようだな！,I'm saved!
+35,SavedLv1_01,もう大丈夫みたいだな！,Looks like I'm gonna make it!
+36,SavedLv2_00,助けてくれたのは…君か？,Did...did you save me?
+37,SavedLv2_01,"魔物に襲われたら
+馬で逃げるのが一番なんだが…","If you get chased by a monster, your
+best chance of escape is on horseback."
+38,SavedLv3_00,いざとなると何もできなかったよ…,"But when it came down to it, I just froze."
+39,SavedLv3_01,俺の作戦は馬で逃げる…はずだった,"My plan was to escape on horseback.
+But plans don't mean anything."
+40,Thanks00,わずかだが お礼だ！,"It's not much, but please take this."

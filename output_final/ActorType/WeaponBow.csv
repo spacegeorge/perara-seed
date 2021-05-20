@@ -1,0 +1,319 @@
+#,Title,JPja,USen
+1,Weapon_Bow_001_Desc,"旅人が使う護身用の小振りな弓
+矢があれば離れた敵を攻撃することができる","A small bow used by travelers for protection.
+It doesn't do a lot of damage, but it can be
+used to attack foes from a distance."
+2,Weapon_Bow_001_Name,旅人の弓,Traveler's Bow
+3,Weapon_Bow_001_PictureBook,"旅人が使う護身用の小振りな弓
+矢があれば離れた敵を攻撃することができる","A small bow used by travelers for protection.
+It doesn't do a lot of damage, but it can be
+used to attack foes from a distance."
+4,Weapon_Bow_002_Desc,"戦闘用に攻撃力を高めた弓
+より大きなダメージを与えることができる
+木で作られているので火が付くと燃えてしまう","A bow designed for armed conflict.
+Inflicts more damage than a civilian bow,
+but it will still burn if it touches fire."
+5,Weapon_Bow_002_Name,兵士の弓,Soldier’s Bow
+6,Weapon_Bow_002_PictureBook,"戦闘用に攻撃力を高めた弓
+より大きなダメージを与えることができる
+木で作られているので火が付くと燃えてしまう","A bow designed for armed conflict.
+Inflicts more damage than a civilian bow,
+but it will still burn if it touches fire."
+7,Weapon_Bow_003_Desc,"動物の骨をくくりつけて強化されたボコ弓
+乱暴な作りではあるが軽くて扱いやすい
+耐久性が増しており射撃の威力も上がった","An upgraded Boko bow bound with animal
+bone to boost its durability and firepower.
+Its craftsmanship is sloppy, but it's light and
+easy to use."
+8,Weapon_Bow_003_Name,トゲボコ弓,Spiked Boko Bow
+9,Weapon_Bow_003_PictureBook,"動物の骨をくくりつけて強化されたボコ弓
+乱暴な作りではあるが軽くて扱いやすい
+耐久性が増しており射撃の威力も上がった","An upgraded Boko bow bound with animal
+bone to boost its durability and firepower.
+Its craftsmanship is sloppy, but it's light and
+easy to use."
+10,Weapon_Bow_004_Desc,"ボコブリンが使う簡素な弓
+適当な木の枝に弦を張っただけなので
+射撃の威力は あまり期待できない","A basic Bokoblin bow made of wood. It's
+made by taking any tree branch and just
+tying a string to either end, so don't expect
+much in the way of combat effectiveness."
+11,Weapon_Bow_004_Name,ボコ弓,Boko Bow
+12,Weapon_Bow_004_PictureBook,"ボコブリンが使う簡素な弓
+適当な木の枝に弦を張っただけなので
+射撃の威力は あまり期待できない","A basic Bokoblin bow made of wood. It's
+made by taking any tree branch and just
+tying a string to either end, so don't expect
+much in the way of combat effectiveness."
+13,Weapon_Bow_006_Desc,"リザルフォスが作った木製の弓
+大型の魚の骨を組み合わせて作られており
+単純な木製の弓よりも破壊力がある","A wooden bow created by Lizalfos. It's
+reinforced by the bones of a large fish—
+a marked improvement over any standard
+wooden bow."
+14,Weapon_Bow_006_Name,リザルボウ,Lizal Bow
+15,Weapon_Bow_006_PictureBook,"リザルフォスが作った木製の弓
+大型の魚の骨を組み合わせて作られており
+単純な木製の弓よりも破壊力がある","A wooden bow created by Lizalfos. It's
+reinforced by the bones of a large fish—
+a marked improvement over any standard
+wooden bow."
+16,Weapon_Bow_009_Desc,"ライネルが携える武骨な金属製の弓
+複数の矢を同時に打ち出す事ができる
+広がる射線は素早く動く敵を射抜くのに最適","A Lynel-made bow crafted from rough metal.
+True to the vicious nature of Lynel weaponry,
+it fires a spread of multiple arrows at once.
+Ideal for taking down quick-moving targets."
+17,Weapon_Bow_009_Name,ライネルの弓,Lynel Bow
+18,Weapon_Bow_009_PictureBook,"ライネルが携える武骨な金属製の弓
+複数の矢を同時に打ち出す事ができる
+広がる射線は素早く動く敵を射抜くのに最適","A Lynel-made bow crafted from rough metal.
+True to the vicious nature of Lynel weaponry,
+it fires a spread of multiple arrows at once.
+Ideal for taking down quick-moving targets."
+19,Weapon_Bow_011_Desc,"金属で持ち手を強化されたリザルボウ
+弓本体には水辺に生えたよくしなる木の枝を
+使っており あなどれない射撃性能を持つ","A Lizal bow with a grip reinforced by metal.
+The body is made from the branches of a
+flexible tree that grows near water, which
+offers some serious destructive power."
+20,Weapon_Bow_011_Name,強化リザルボウ,Strengthened Lizal Bow
+21,Weapon_Bow_011_PictureBook,"金属で持ち手を強化されたリザルボウ
+弓本体には水辺に生えたよくしなる木の枝を
+使っており あなどれない射撃性能を持つ","A Lizal bow with a grip reinforced by metal.
+The body is made from the branches of a
+flexible tree that grows near water, which
+offers some serious destructive power."
+22,Weapon_Bow_013_Desc,"コログ族が人間のために作ったといわれる弓
+良くしなる木材と丈夫な草のツルで作られており
+簡素な見た目に反して一度に複数射る事ができる","The Koroks made this bow for Hylians. It's
+crafted from flexible wood and uses sturdy
+vines for the bowstring. Its construction may
+be simple, but it fires multiple arrows at once."
+23,Weapon_Bow_013_Name,森人の弓,Forest Dweller's Bow
+24,Weapon_Bow_013_PictureBook,"コログ族が人間のために作ったといわれる弓
+良くしなる木材と丈夫な草のツルで作られており
+簡素な見た目に反して一度に複数射る事ができる","The Koroks made this bow for Hylians. It's
+crafted from flexible wood and uses sturdy
+vines for the bowstring. Its construction may
+be simple, but it fires multiple arrows at once."
+25,Weapon_Bow_014_Desc,"ゾーラ族が漁などに使う弓
+射撃性能はそれほど高くないが特殊な金属で
+作られており耐久性は見た目より優れている","A bow favored by the Zora for fishing.
+It doesn't boast the highest firepower,
+but the special metal it's crafted from
+prioritizes durability."
+26,Weapon_Bow_014_Name,ゾーラの弓,Silver Bow
+27,Weapon_Bow_014_PictureBook,"ゾーラ族が漁などに使う弓
+射撃性能はそれほど高くないが特殊な金属で
+作られており耐久性は見た目より優れている","A bow favored by the Zora for fishing.
+It doesn't boast the highest firepower,
+but the special metal it's crafted from
+prioritizes durability."
+28,Weapon_Bow_015_Desc,"ゲルド族が使う繊細な装飾が施された弓
+広い砂漠での狩りや戦闘の際に遠くの物を
+狙い撃つ事ができるよう工夫が施されている","This Gerudo-made bow is popular for the fine
+ornamentations along its limbs. Designed for
+hunting and warfare alike, this bow was
+engineered to strike distant targets."
+29,Weapon_Bow_015_Name,ゲルドの弓,Golden Bow
+30,Weapon_Bow_015_PictureBook,"ゲルド族が使う繊細な装飾が施された弓
+広い砂漠での狩りや戦闘の際に遠くの物を
+狙い撃つ事ができるよう工夫が施されている","This Gerudo-made bow is popular for the fine
+ornamentations along its limbs. Designed for
+hunting and warfare alike, this bow was
+engineered to strike distant targets."
+31,Weapon_Bow_016_Desc,"リト族で一般的に使われている弓 
+空中での射撃に適した工夫が弦にされており
+普通の弓より少し早く引き絞ることができる","This bow is a favorite among Rito warriors.
+The bowstring has been specially engineered
+for aerial combat, which allows it to be drawn
+faster than a normal bow."
+32,Weapon_Bow_016_Name,ツバメの弓,Swallow Bow
+33,Weapon_Bow_016_PictureBook,"リト族で一般的に使われている弓 
+空中での射撃に適した工夫が弦にされており
+普通の弓より少し早く引き絞ることができる","This bow is a favorite among Rito warriors.
+The bowstring has been specially engineered
+for aerial combat, which allows it to be drawn
+faster than a normal bow."
+34,Weapon_Bow_017_Desc,"リト族の名工が作り上げた洗練された弓
+空の戦いに秀でるリトの戦士が好んで使っている
+一般的な弓より素早く引き絞ることができる","A highly refined Rito-made bow created by
+a master Rito craftsman. Rito warriors favor
+it for its superior rate of fire, which helps
+them excel even further at aerial combat."
+35,Weapon_Bow_017_Name,ハヤブサの弓,Falcon Bow
+36,Weapon_Bow_017_PictureBook,"リト族の名工が作り上げた洗練された弓
+空の戦いに秀でるリトの戦士が好んで使っている
+一般的な弓より素早く引き絞ることができる","A highly refined Rito-made bow created by
+a master Rito craftsman. Rito warriors favor
+it for its superior rate of fire, which helps
+them excel even further at aerial combat."
+37,Weapon_Bow_023_Desc,"ロベリーの研究成果が活かされた高性能な弓
+古代シーカー族の技術を利用して 
+直線的な軌道で矢を放つ事ができる","This bow is the result of Robbie's research.
+Ancient Sheikah technology affords it
+heightened functionality. Arrows fired from
+it travel in a perfectly straight line."
+38,Weapon_Bow_023_Name,古代兵装・弓,Ancient Bow
+39,Weapon_Bow_023_PictureBook,"ロベリーの研究成果が活かされた高性能な弓
+古代シーカー族の技術を利用して 
+直線的な軌道で矢を放つ事ができる","This bow is the result of Robbie's research.
+Ancient Sheikah technology affords it
+heightened functionality. Arrows fired from
+it travel in a perfectly straight line."
+40,Weapon_Bow_026_Desc,"より重厚な作りになったライネルの弓
+本体だけではなく弦も強靱な金属で作られており
+普通の人間にとっては引き絞る事すら難しい","This massive Lynel bow sports a bowstring
+made from a metal so tough, mere Hylians
+have trouble drawing it back."
+41,Weapon_Bow_026_Name,獣王の弓,Mighty Lynel Bow
+42,Weapon_Bow_026_PictureBook,"より重厚な作りになったライネルの弓
+本体だけではなく弦も強靱な金属で作られており
+普通の人間にとっては引き絞る事すら難しい","This massive Lynel bow sports a bowstring
+made from a metal so tough, mere Hylians
+have trouble drawing it back."
+43,Weapon_Bow_027_Desc,"化石の骨を組み合わせて強化されたボコ弓
+ボコブリンなりに厳選した素材で
+作られているらしく中々の射撃性能を持つ","A Boko bow reinforced by fossils. Bokoblins
+handpicked the materials it's made from, so
+it boasts a respectable firepower."
+44,Weapon_Bow_027_Name,竜骨ボコ弓,Dragon Bone Boko Bow
+45,Weapon_Bow_027_PictureBook,"化石の骨を組み合わせて強化されたボコ弓
+ボコブリンなりに厳選した素材で
+作られているらしく中々の射撃性能を持つ","A Boko bow reinforced by fossils. Bokoblins
+handpicked the materials it's made from, so
+it boasts a respectable firepower."
+46,Weapon_Bow_028_Desc,"英傑リーバルが携えていた稀代の名弓 
+疾風の如き速さで この弓を射るリーバルに
+空中戦で敵う者はいなかったと言われている","A bow without equal wielded by the Rito
+Champion, Revali. It's said Revali could loose
+arrows with the speed of a gale, making him
+supreme in aerial combat."
+47,Weapon_Bow_028_Name,オオワシの弓,Great Eagle Bow
+48,Weapon_Bow_028_PictureBook,"英傑リーバルが携えていた稀代の名弓 
+疾風の如き速さで この弓を射るリーバルに
+空中戦で敵う者はいなかったと言われている","A bow without equal wielded by the Rito
+Champion, Revali. It's said Revali could loose
+arrows with the speed of a gale, making him
+supreme in aerial combat."
+49,Weapon_Bow_029_Desc,"シーカー族に伝わる弓精神統一をしてこの弓を
+引くと遠くの敵がまるで近くにいるかのように
+狙い撃つ事ができると言われている","A bow passed down through the Sheikah
+tribe. Concentrating before drawing the
+string will allow you to target distant
+enemies as easily as those nearby."
+50,Weapon_Bow_029_Name,一心の弓,Phrenic Bow
+51,Weapon_Bow_029_PictureBook,"シーカー族に伝わる弓精神統一をしてこの弓を
+引くと遠くの敵がまるで近くにいるかのように
+狙い撃つ事ができると言われている","A bow passed down through the Sheikah
+tribe. Concentrating before drawing the
+string will allow you to target distant
+enemies as easily as those nearby."
+52,Weapon_Bow_030_Desc,"リザルフォスの中でも弓の扱いに長ける
+個体のみが持つ弓強化のために金属が
+多く使われており重量があるが耐久性も高め","This bow is wielded by Lizalfos who are
+expert marksmen. The metal that reinforces
+much of the weapon adds some additional
+weight but offers heightened durability."
+53,Weapon_Bow_030_Name,鋼鉄リザルボウ,Steel Lizal Bow
+54,Weapon_Bow_030_PictureBook,"リザルフォスの中でも弓の扱いに長ける
+個体のみが持つ弓強化のために金属が
+多く使われており重量があるが耐久性も高め","This bow is wielded by Lizalfos who are
+expert marksmen. The metal that reinforces
+much of the weapon adds some additional
+weight but offers heightened durability."
+55,Weapon_Bow_032_Desc,"デスマウンテン山頂から取れる特殊な金属で
+作られたライネルの剛弓複数放たれる矢は
+凄まじい威力を持ち分厚い鎧も紙のように貫く","This Lynel bow is made from a special steel
+found at the peak of Death Mountain.
+It has tremendous stopping power and can
+pierce thick armor as easily as thin paper."
+56,Weapon_Bow_032_Name,獣神の弓,Savage Lynel Bow
+57,Weapon_Bow_032_PictureBook,"デスマウンテン山頂から取れる特殊な金属で
+作られたライネルの剛弓複数放たれる矢は
+凄まじい威力を持ち分厚い鎧も紙のように貫く","This Lynel bow is made from a special steel
+found at the peak of Death Mountain.
+It has tremendous stopping power and can
+pierce thick armor as easily as thin paper."
+58,Weapon_Bow_033_Desc,"大厄災への対策として シーカー族が作った弓
+古代技術を使った試作的な武器であるため高い
+射撃力と速射性を持つが 耐久力が低くなっている","This prototype Sheikah-made bow was
+designed to fight the Great Calamity. Made
+with ancient technology, it boasts a high rate
+of fire and firepower but has low durability."
+59,Weapon_Bow_033_Name,近衛の弓,Royal Guard's Bow
+60,Weapon_Bow_033_PictureBook,"大厄災への対策として シーカー族が作った弓
+古代技術を使った試作的な武器であるため高い
+射撃力と速射性を持つが 耐久力が低くなっている","This prototype Sheikah-made bow was
+designed to fight the Great Calamity. Made
+with ancient technology, it boasts a high rate
+of fire and firepower but has low durability."
+61,Weapon_Bow_035_Desc,"ハイラル城の騎士たちが使っていた弓
+クセがなくて使いやすく安定した射撃ができる
+金属製なので耐久性も優れている","The sturdy metal construction of this bow
+offers superior durability, while its lack of
+firing quirks makes it quite reliable. Once
+favored by the knights at Hyrule Castle."
+62,Weapon_Bow_035_Name,騎士の弓,Knight's Bow
+63,Weapon_Bow_035_PictureBook,"ハイラル城の騎士たちが使っていた弓
+クセがなくて使いやすく安定した射撃ができる
+金属製なので耐久性も優れている","The sturdy metal construction of this bow
+offers superior durability, while its lack of
+firing quirks makes it quite reliable. Once
+favored by the knights at Hyrule Castle."
+64,Weapon_Bow_036_Desc,"ハイラルの騎士の中でも特に弓術に
+秀でた者に対して ハイラル王から与えられた弓
+豪奢な意匠が目を引くが射撃性能も優れている","In the past, the king of Hyrule presented this
+bow to only the most talented archers in the
+land. Its combat capabilities are as
+impressive as its extravagant design."
+65,Weapon_Bow_036_Name,王家の弓,Royal Bow
+66,Weapon_Bow_036_PictureBook,"ハイラルの騎士の中でも特に弓術に
+秀でた者に対して ハイラル王から与えられた弓
+豪奢な意匠が目を引くが射撃性能も優れている","In the past, the king of Hyrule presented this
+bow to only the most talented archers in the
+land. Its combat capabilities are as
+impressive as its extravagant design."
+67,Weapon_Bow_038_Desc,"小型の動物を狩るために作られた木製の弓
+魔物と戦うには心もとない","This wooden bow may not be the most
+reliable for battling monsters, but it is
+excellent for hunting small animals."
+68,Weapon_Bow_038_Name,木の弓,Wooden Bow
+69,Weapon_Bow_038_PictureBook,"小型の動物を狩るために作られた木製の弓
+魔物と戦うには心もとない","This wooden bow may not be the most
+reliable for battling monsters, but it is
+excellent for hunting small animals."
+70,Weapon_Bow_040_Desc,"イーガ団の中でも弓術が得意な構成員が使う弓
+狙った敵を確実に仕留めるために 
+一度に2本の矢を撃てるような工夫がされている","A bow favored by the skilled archers of the
+Yiga Clan. It's been engineered to fire two
+arrows at once to ensure your target comes
+to a swift and none-too-pleasant halt."
+71,Weapon_Bow_040_Name,二連弓,Duplex Bow
+72,Weapon_Bow_040_PictureBook,"イーガ団の中でも弓術が得意な構成員が使う弓
+狙った敵を確実に仕留めるために 
+一度に2本の矢を撃てるような工夫がされている","A bow favored by the skilled archers of the
+Yiga Clan. It's been engineered to fire two
+arrows at once to ensure your target comes
+to a swift and none-too-pleasant halt."
+73,Weapon_Bow_071_Desc,"魔獣ガノンとの決戦の前に 
+ゼルダから受け取った弓矢
+勇者が構える事で光が集い厄災を討つ矢となる","Princess Zelda gave you this bow and arrow
+for the battle with Dark Beast Ganon. When
+wielded by the hero, it fires arrows of pure
+light strong enough to oppose the Calamity."
+74,Weapon_Bow_071_Name,光の弓矢,Bow of Light
+75,Weapon_Bow_071_PictureBook,"魔獣ガノンとの決戦の前に 
+ゼルダから受け取った弓矢
+勇者が構える事で光が集い厄災を討つ矢となる","Princess Zelda gave you this bow and arrow
+for the battle with Dark Beast Ganon. When
+wielded by the hero, it fires arrows of pure
+light strong enough to oppose the Calamity."
+76,Weapon_Bow_072_Desc,"勇者と共に黄昏の魔物と戦った姫が使った弓 
+光の精霊たちの力が宿ると言われている
+放たれる矢は光のごとく真っ直ぐ飛ぶ","A bow used by the princess who fought the
+beasts of twilight alongside the hero. It's said
+to contain the spirits of light's power. It fires
+arrows straight and true, as if beams of light."
+77,Weapon_Bow_072_Name,黄昏の光弓,Twilight Bow

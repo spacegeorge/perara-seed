@@ -1,0 +1,148 @@
+#,Title,JPja,USen
+1,"""0000""",野生の馬って？,Wild horses?
+2,"""0001""",カカリコ村って？,Kakariko Village?
+3,"""0002""",ハテノ村って？,Hateno Village?
+4,"""0003""",さようなら,Good-bye.
+5,near00,道案内はお任せを！,I can give you directions!
+6,talk00,"双子馬宿へようこそ！
+どうです？ ここはいい場所でしょう？
+こう見えても この辺りも大厄災のせいで
+昔は崩壊寸前だったらしいですよ
+でもここは双子山の恵みをうけているせいか
+今ではすっかり元通りです
+野生の馬も戻ってきましたしね
+おかげでやっと活気が戻ってきましたよ！
+ところで お客さんはこれから どちらへ？
+ここならカカリコ村かハテノ村が近いですよ""","Welcome to Dueling Peaks Stable!
+What do you think of the place?
+Pretty nice, yeah?
+It might be hard to imagine now, but this
+place was nearly destroyed about 100
+years ago.
+However, thanks to the blessings of the
+Dueling Peaks, everything is full of life
+again.
+Even the wild horses are back. There's a
+lot of energy in this place!
+
+So where are you heading? Both
+Kakariko Village and Hateno Village
+are nearby."
+7,talk03,"あれ？ お客さん ここに来る途中で
+馬に出会いませんでしたか？
+昔ほどではないにしろ
+そこらじゅうにいるんですけどね…
+野山にいる馬は野生の馬で
+まだ飼いならされてない馬なんです
+野生の馬を捕まえたら兄のタッサレンに言えば
+お客さんの馬として登録してもらえますよ！
+馬の捕まえ方は
+ウチの坊主達が詳しいんで聞いてみてください
+昼間はウチの馬の番をしてますんで","Huh? Did you not see any horses on
+your way here?
+
+Certainly not as many as in years past,
+but there are still quite a few around...
+
+Horses in the wild are...well, wild!
+No one has trained or cared for them.
+
+If you manage to catch one, let my
+brother Tasseren know. He'll register the
+horse for you! 
+My boys are wellsprings of information
+about horses, so feel free to pick
+their brains."
+8,talk04,"カカリコ村ってのは
+シーカー族って連中が住んでる村ですよ
+なんでも昔は魔法みたいなカラクリを
+いっぱい作れる一族だったようですが
+それ故に当時の王から疎まれ
+皆は散り散りになったとか…
+この馬宿を出て道沿いに
+まっすぐ北に進めば大きな橋がありますので
+それを渡って さらに道沿いに進めば
+カカリコ村の門が見えてきますよ","Kakariko Village is the village where the
+Sheikah clan lives.
+
+It's said that, some time ago, they had
+advanced techniques that were more
+powerful than anything anyone had seen.
+But that power put them at odds with the
+king at the time, and they were scattered
+across the land...
+Anyway, if you leave here and follow the
+road straight to the north, you'll find a
+big bridge.
+Cross that and keep following the path,
+and you'll come to the Kakariko Village
+gate."
+9,talk05,"ハテノ村は ハイラルの端っこにある村でしてね
+
+大厄災の被害も少なかったので
+みんなノンビリ過ごしてますよ 
+研究所なんかもあるらしいですが…
+変な学者がいて皆寄り付かないとか…
+ここから北へ進むと分かれ道がありますので
+そこを東にまがって後は道沿いに行くだけです
+歩くとなると ちょっと遠いですが
+馬があれば一日程度で着くと思いますよ","Hateno Village is a village on the
+edge of Hyrule.
+
+It was largely unaffected by the events
+of the Great Calamity, so the people
+there are pretty easygoing.
+I hear they even have a research
+center... But folks tend to avoid the
+weird scientist who lives there...
+Anyway, head north from here until you
+reach a fork in the road. Then go east
+and just follow the road.
+It's a little far if you walk it, but with a
+horse, you should get there in under
+a day!"
+10,talk06,"この辺りの道案内でしたら
+このフッサレンにお任せください","Leave it to Rensa to tell you about the
+roads around this area."
+11,talk07,"見た目は元通りと言えども
+大厄災の影響は色濃く残っています…
+特に夜は魔物が多いですので
+お気を付け下さい","Everything looks just as it always has,
+but the effects of the Great Calamity
+still linger.
+For example, a lot of monsters come out
+at night, so be careful when the
+sun sets..."
+12,talk08,"お客さん何をいまさら…
+
+昔ほどではないにしろ
+そこらじゅうにいるじゃないですか…
+野生の馬を捕まえたら兄のタッサレンに言えば
+お客さんの馬として登録してもらえますよ！
+馬の捕まえ方は ウチの坊主達が詳しいですが
+お客さんにはもうレクチャーは不要でしょう
+なんたって 「野生馬手なずけ選手権」2位の
+フッサレンを負かしたんですから！","You're asking me now?
+
+
+There certainly are not as many as in
+years past, but there are still quite a few
+around...
+If you manage to catch one, let my
+brother Tasseren know. He'll register the
+horse for you!
+My boys are wellsprings of information
+about horses, but I'm sure you don't
+need another lecture.
+After all, you're the one who beat me,
+the guy who took second in the Hyrule
+Horse-Taming Competition."
+13,talk09,"馬の扱いがウマい男子は
+女子の扱いもウマいと聞きますよ
+なんたって「野生馬手なずけ選手権」2位の
+この私が言うんですから間違いなしです！","Ya know, someone who can handle a
+horse has a real leg up on the 
+competition when it comes to ladies...
+I know what I'm talking about! I took
+second in the Hyrule Horse-Taming
+Competition!"

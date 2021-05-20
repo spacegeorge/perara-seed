@@ -1,0 +1,195 @@
+#,Title,JPja,USen
+1,"""0000""",買い取って,I wanna sell.
+2,"""0001""",とくには…,"Not really, no."
+3,"""0002""",ちょっと見せて,Show me the goods.
+4,"""0003""",ないです,"No, but thanks."
+5,"""0004""",買いたい,I wanna buy.
+6,"""0005""",売りたい,I wanna sell.
+7,"""0006""",さようなら,Good-bye.
+8,"""5500""",はい,Yes.
+9,"""5501""",いいえ,No.
+10,"""5502""",買う,Deal!
+11,"""5503""",やっぱりやめる,Never mind.
+12,"""5507""",ぜんぶ買う,I'll take 'em all!
+13,"""5508""",ぜんぶ売る,All of 'em.
+14,Axe00,"おいおい
+オレのオノを どこに持ってくつもりだ","Hey there. Where are ya plannin' on
+goin' with my axe?"
+15,Axe01,"オーケー やるよ
+呼び止めて すまなかったな
+まぁ このご時世だ…
+落ちてるものを拾っても誰も怒りゃしないよ
+本当に大事なものは
+身につけるか しまいこんでるものさ","It's OK. You can have it. Sorry for
+hollerin' at ya like that.
+
+It's just the times we live in... No one's
+gonna get mad if ya pick up somethin'
+that's just lyin' around.
+If somethin' is important to someone,
+they wouldn't let it outta their sight."
+16,Axe02,"ところでだ…
+
+オレは行商人で名前はギロッチョってんだ
+よろしくな
+ごらんの通り こうやって森に入って
+売り物を集めてたってわけさ
+旅の人からの買い取りもやってるけど
+キミ…何か珍しい物持ってない？","By the way...
+
+
+I'm a traveling merchant. Name's Giro.
+Nice to meet ya!
+
+I venture into the forest to get my wares.
+Oh, but I also buy them from travelers
+like you.
+So... Do ya happen to have anything rare
+you'd be interested in sellin'?"
+17,Com_Talk_00,どれどれ見せてくれ,Great! Let's see what ya got...
+18,Com_Talk_01,"を売るんだな？
+ルピーになるけど いいかい？",How does  rupees sound?
+19,Com_Talk_02,オーケー ありがとよ,Great! Thanks!
+20,Com_Talk_02b,いやー助かるよ… ありがとな,"Ah, that's a big help. Thanks so much!"
+21,Com_Talk_02c,ありがとな,Thanks!
+22,Com_Talk_02d,オーケー また頼むよ,OK! Until next time.
+23,Com_Talk_04,おや そうかい,"Oh, right."
+24,Com_Talk_05,何でも買い取るぜ,I'll buy just about anything.
+25,Com_Talk_05b,ゆっくり選んでいいからな,Take your time.
+26,Com_Talk_05c,オーケー買い取りなら まかせてくれ！,"OK! If you need someone to buy your
+stuff from you, just leave it to me!"
+27,Com_Talk_05d,何を売ってくれるんだい？,What do you wanna sell?
+28,Com_Talk_06,何か ほしい物はあるかい？,Is there anything you want?
+29,Com_Talk_07,悪いね そいつは品切れだ,"Sorry, I'm all out of that."
+30,Com_Talk_08,"ルピーが足りないぞ
+悪いけど値引きはできないんだ","You don't have enough rupees...
+Sorry, I can't lower the price."
+31,Com_Talk_09,"ポーチが いっぱいだな
+空きを作ってから また買いにきてくれ","Your pouch is full. Why not make
+some space and come back?"
+32,Com_Talk_10,を買うんだな？,"You wanna buy that, eh?"
+33,Com_Talk_11,まいどあり！,Thanks so much!
+34,Com_Talk_11b,オーケー ありがとよ,Great! Thank you!
+35,Com_Talk_11c,まいど オーケー,Great! Thanks so much!
+36,Com_Talk_11d,まいどっ！,Thanks!
+37,Com_Talk_12,"自慢の品ぞろえだ
+ゆっくり見ていってくれ！","I'm proud of my wares. All of 'em.
+Please, take a look!"
+38,Com_Talk_13," だね？
+いくつ売ってくれるんだい？",So...how many do you wanna sell?
+39,Com_Talk_14,"を個で
+合計ルピーになるけど いいかい？","That would come to... rupees.
+That work?"
+40,Com_Talk_15,そいつは うちでは買い取れないな,"Ah, I'm afraid I can't buy that."
+41,Com_Talk_16,着てる服は脱いでから売ってくれよ,"You need to take that clothing off first
+if you wanna sell it."
+42,Com_Talk_20,"こんな天気でも冒険は決行か
+まあ遠足ってわけじゃないからな
+そのやる気に敬意を表して
+取っておきの売り物を並べるよ！","Adventuring even in weather like this?
+Well, I suppose you can't just wait your
+whole life for a nice day, can ya?
+Lemme express my respect for your
+determination by showin' ya my
+selection of very special wares!"
+43,Com_Talk_30,"が個で
+合計ルピーになるけど いいかい？","That would come to... rupees.
+That work?"
+44,Com_Talk_31,"を買うんだね？
+いくつ ほしいんだい？",How many are ya thinkin'?
+45,Com_Talk_33,"を ひとつかい？
+それならルピーってとこだね","Just one? All right, how about
+ rupees?"
+46,Com_Talk_34,"を あるだけ全部だね？
+個でルピーだけどいいかい？","All of 'em, eh? That'll be  rupees.
+That OK?"
+47,Com_Talk_35,"を個全部だね？
+合計ルピーで買い取るけど いいかい？","All of 'em? OK, I can offer ya
+ rupees. Sound good?"
+48,Com_Talk_36,"オーケー これで最後だ
+いっぱい買ってくれて ありがとな！","OK, that's the last of 'em! Thanks for
+buyin' so much!"
+49,Com_Talk_37,"おかげ様で今日は売るものがないんだよ
+入荷予定の品物だけでも見ていくかい？","Thanks to you, I'm all outta things
+to sell! Care to take a look at the
+goods I'm scheduled to receive?"
+50,Com_Talk_56,"を ひとつだね？
+それならルピーだけど いいかい？","Just one? All right, that'll be
+ rupees."
+51,FirstTalk00,"やぁ旅の途中かい？
+よかったら火にあたっていきなよ
+オレは行商人で名前はギロッチョってんだ
+よろしくな
+まぁ このご時世…
+売り物は自ら森に入って集めてるんだけどさ
+もっと安全な仕入れ方が ないこともない
+それは旅の人から買い取ることさ
+キミ…""何か珍しい物持ってない？","Hey! You a traveler? Grab a spot by
+the fire, if you'd like. 
+
+I'm a traveling merchant. Name's Giro. 
+Nice to meet ya!
+
+Crazy times we live in, eh? I go into the
+forest all on my own to get my wares...
+
+But there are far safer ways to get 'em.
+Such as buyin' from travelers like you!
+
+So... Do ya happen to have anything rare
+you'd be interested in sellin'?"
+52,FirstTalk00_Rain,"やぁ旅の途中かい？
+この雨じゃ ずぶ濡れになっちまうぜ
+オレは行商人で名前はギロッチョってんだ
+よろしくな
+まぁ このご時世…
+売り物は自ら森に入って集めてるんだけどさ
+もっと安全な仕入れ方が ないこともない
+それは旅の人から買い取ることさ
+キミ…""何か珍しい物持ってない？","Hey! You in a rush to get somewhere? 
+This rain'll soak ya to the bone.
+
+I'm a traveling merchant. Name's Giro. 
+Nice to meet ya!
+
+Crazy times we live in, eh? I go into the
+forest all on my own to get my wares...
+
+But there are far safer ways to get 'em.
+Such as buyin' from travelers like you!
+
+So... Do ya happen to have anything rare
+you'd be interested in sellin'?"
+53,FirstTalk01,"うん オーケー
+じゃあ逆に何かほしい物はあるかな？","Well, OK. That's fine. Is there anything
+I can do for ya?"
+54,FirstTalk02,"それじゃ今度はこっちの番だ
+何か買いたい物は あるかな？",Now it's my turn. Wanna buy somethin'?
+55,GoodBye00,"オーケー わかった
+冒険中の貴重な時間… ありがとな
+この街道沿いも めっきり魔物が増えちまって
+こうやって森を歩くのも命がけさ
+キミも気をつけるんだぜ","OK, got it. Thanks for spendin' some of
+your precious time on the road with me...
+
+Even the areas near civilization are full
+of monsters these days. Just strollin'
+through the woods can be dangerous.
+You be careful, ya hear!"
+56,GoodBye01,オーケー またよろしくな,OK. See ya next time.
+57,Near00,誰だい？,Who's there?
+58,Near01,やぁ,"Oh, hey!"
+59,Near02,Zzz... Zzz...,Zzz...
+60,Talk00,やぁ キミか,Ah! It's you.
+61,Talk01,他に何か あるかい？,Need anything else?
+62,Talk02,朝も早いのに ご苦労さん,Look at you! A real early bird!
+63,Talk03,やぁ また会ったな,Hey! We meet again.
+64,Talk04,こんな遅くまで精が出るねえ,"You sure are workin' hard, stayin' up late
+like this."
+65,Talk05,雨がやむまで ひと休みだな,Guess I'll take it easy 'til the rain stops.
+66,Talk06,"オレ魔物と同じくらい雷が怖いよ…
+くわばら くわばら","I'm as afraid of lightning as I am of
+monsters... Please don't strike me...
+Please don't strike me..."
+67,Talk07,おっと うとうとしちまってたぜ,Oh. Hey. *YAWN* What we got here?
+68,Talk08,さてさて どうする？,What do you wanna do?

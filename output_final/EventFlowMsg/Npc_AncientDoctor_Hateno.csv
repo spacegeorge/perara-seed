@@ -1,0 +1,63 @@
+#,Title,JPja,USen
+1,"""0000""",あなたは？,Who are you?
+2,"""0001""",ガーディアンって？,What's a Guardian?
+3,"""0002""",チェリーちゃん？,Cherry?
+4,"""0003""",さようなら,Good-bye.
+5,NakedPlayer,ハハン？,Hm?
+6,TerrorArrow,ホワッツ？！,What?!
+7,TerrorBomb,リモコンバクダン…,Remote Bombs...
+8,TerrorExplosion,オーマイガッ！,Goodness gracious!
+9,TerrorSword,ホワッツ？！,What?!
+10,talk00,"チェリーちゃんは無事稼働中じゃ
+あとはユーが厄災を討つだけじゃ","Cherry is safely back to work. All that's
+left is for you to destroy the Calamity."
+11,talk01,バィバーイ,Bye-bye.
+12,talk02,"グッモーニン
+グッドなモーニングじゃな","Good morning.
+This morning really is quite good..."
+13,talk03,"グッダフタヌーン
+グッドなアフタヌーンじゃな","Good day.
+And a good day it is."
+14,talk04,"グッイブニン
+グッドなイブニングじゃ","Good evening.
+Yes, yes, I would describe this evening
+as good."
+15,talk06,"だが今すぐにガーディアンを
+味方に付けるのはベリーハード…難しい…
+なので今は そのガーディアンのパーツと交換で
+ユーに古代兵装を提供しようと思う","But I think it's unwise to try and make
+the Guardians our allies now... 
+Just...too difficult...
+I think I'll offer you ancient equipment
+in exchange for Guardian parts, instead."
+16,talk07,ワツァップ？調子はどうだい？,What's up? How are you doing?
+17,talk08,"バイザウェー さて…
+ミーに何か用かの？","By the way...
+Did you need something from me?"
+18,talk09,"グッダフタヌーン
+ひょっとして グッモーニンか？","Good afternoon.
+Or is it good morning?"
+19,talk10,"ガーディアンとは
+ウィらシーカー族の先祖が開発した
+対厄災用自走兵器
+
+大地から出土した物…
+ハイラル城の周りの柱に格納されとった物…
+大きさも形も様々じゃが
+
+まさか100年前の厄災に ああも簡単に
+乗っ取られるとは思わなんだ
+なので今 ウィらは厄災から
+ガーディアンを取り返す術を研究中じゃ","The Guardians are self-guided weapons
+built to fight Calamity Ganon and
+developed by our Sheikah ancestors.
+For many years, the Guardians were kept
+below Hyrule Castle. However, when the
+Calamity struck, they were stolen away.
+I've been researching ways to take
+them back..."
+20,talk11,他に質問は あるかの？,Have you got any other questions?
+21,talk12,"その身体の傷跡…
+受けた屈辱忘れるでないぞィ","When one receives such scars on
+their body... Well, they can leave
+lasting memories in their mind as well."

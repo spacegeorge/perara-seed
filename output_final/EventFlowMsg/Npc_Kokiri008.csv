@@ -1,0 +1,104 @@
+#,Title,JPja,USen
+1,"""0000""",見つけたじゃも,I found them.
+2,"""0001""",まだじゃも,Not yet.
+3,Npc_Kokiri008_Near000,もじゃ…？,Hrm?
+4,Npc_Kokiri008_Talk000,"もじゃ…？
+オヌシ…… まさか…………！
+ゆうしゃサマじゃも！
+ゆうしゃサマが来たじゃも！
+頭のキノコが急に育ったから
+何事かと思ったら…
+オヌシが来る予感だったじゃも！……ウソじゃも","Huh?
+You...
+Could it be?!
+You're Mr. Hero!
+Mr. Hero is here!
+
+The mushroom on my head suddenly
+sprouted today, so I knew something was
+up!
+It was a prediction that you'd come!...I think."
+5,Npc_Kokiri008_Talk001,"ではさっそくコログしれんを…
+もじゃ？
+オヌシまだ剣に触れておらぬじゃも？！
+おしゃべりを楽しんでる場合じゃないじゃも！
+まずは台座に刺さった剣の元へ向かえじゃも！コログしれんは
+それからでも遅くないじゃも！","Now then... The Korok Trials await!
+
+
+Wait... You haven't even touched the
+sword yet? What are you waiting for?!
+
+You've got to go to the sword first!I'll tell you all about the Korok Trials
+once you've taken care of that!"
+6,Npc_Kokiri008_Talk002,まずは剣の元へ向かえじゃも！,First you must go to the sword!
+7,Npc_Kokiri008_Talk500,"実は オヌシのために用意されたしれん
+3つだけじゃ ないんじゃも
+その中でも一番難しい
+ハイラルのなぞなぞしれんは見つけたじゃも？","Actually, those three trials aren't the
+only ones we've prepared for you.
+
+There's also all the hidden Riddles of 
+Hyrule. Have you found them yet?"
+8,Npc_Kokiri008_Talk501,"ナヌ？！
+もう見つけたじゃも？！
+…ワシからオヌシに教えられることは
+もうないじゃも…
+実はこの頭のキノコから
+胞子を出すと…
+キノコまみれになる特技が
+あるということくらいじゃも…
+……ウソじゃも","What?!
+You found them already?!
+
+Then there is nothing left for me to
+teach you...
+
+Actually, I could teach you how to grow
+mushrooms out of your head.
+
+Though I'm not sure that would be of
+much use..."
+9,Npc_Kokiri008_Talk502,"ならば デクの樹サマのてっぺんに
+登ってみるといいじゃも
+誰も達成していない
+究極のしれんが待ってるじゃも！","In that case, you must climb to the very
+top of the Great Deku Tree.
+
+The ultimate trial, which none have yet
+accomplished, awaits you there!"
+10,Npc_Kokiri008_Talk503,"もじゃ？！
+
+オヌシ そこのマスターソードを
+まだ抜いとらんじゃも
+早く鍛えてとっとと抜いて
+デクの樹サマや ワシらを安心させてくれじゃも","What?
+
+
+You haven't pulled out the Master Sword
+over there! Do whatever is necessary
+to pull it out!
+It's the only way the Great Deku Tree 
+and all of us Koroks will feel safe!"
+11,Npc_Kokiri008_Talk504,"デクの樹サマのてっぺんに登って
+究極のしれんに挑戦するじゃも！","Climb to the top of the Great Deku Tree,
+and face the ultimate trial!"
+12,Npc_Kokiri008_Talk600,"マスターソードを抜く姿
+しかとこの目で見せてもらったじゃも！","I was privileged enough to witness 
+you pull out the Master Sword!"
+13,Npc_Kokiri008_Talk601,"もう ワシから与えられる
+しれんは無いじゃも！
+姫を救い ハイラルの平和を取り戻せじゃも！","I have no more trials to give you!
+Go! Restore peace to Hyrule!"
+14,Npc_Kokiri008_Talk602,"さあ行くがよいじゃも！
+ワシらはこの森から応援してるじゃも！","Now go!
+We will be cheering you on from the
+depths of the forest!"
+15,TerrorArrow,マトじゃないじゃも！,"I have feelings, you know!"
+16,TerrorBomb,あー！ あー！,Aah! Aah!
+17,TerrorExplosion,ふんじゃもー！,Such violence!
+18,TerrorFire,燃えるじゃも！！,I'm going to burn!
+19,TerrorHorse,でっかいじゃも～,It's huge!
+20,TerrorImpulse,なんと？！,What?!
+21,TerrorInsect,蜜は出ないじゃも！,I don't have any pollen!
+22,TerrorSword,ひぃぇえ～,Eeeek!

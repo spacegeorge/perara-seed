@@ -1,0 +1,138 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",魔物って？,Which monsters?
+4,"""0003""",ハテノビーチって？,Hateno Beach?
+5,"""0004""",その通り,That's right.
+6,near01,許さない…,They'll pay! They'll all pay!
+7,near02,あ…,Rrrgh...
+8,near03,…,Let me at 'em...
+9,talk00,…おはよう,"Hmph. \""Good\"" morning. What's so good
+about it, I ask?"
+10,talk01,…こんにちは,"Hmph. \""Good\"" day. What's so good
+about it, I ask?"
+11,talk02,…こんばんは,"Hmph. \""Good\"" evening. What's so good
+about it, I ask?"
+12,talk04,"それは… プルア婆ちゃんの青い炎…
+
+何をしている？何を企んでる？
+","Isn't that old Purah's blue flame?
+What are you up to with it?"
+13,talk05,"プルア婆ちゃんの炎…
+なぜ おまえが運んでいる…","Hey! That's Purah's flame! How come
+you're messing with it?"
+14,talk06,おい…,"Hey, you."
+15,talk07,ここに何の用だ！,What do YOU want?
+16,talk08,待て！,"Cut it out, creep!"
+17,talk09,"…何だ そのキョトンとした顔は！
+
+……
+
+どうやら おまえ…
+敵意は なさそうだ
+ハテノビーチに棲みついた魔物に
+ヒツジたちを奪われて気が立っていた… 
+このままじゃ他のヒツジたちも…","Oh, don't act so clueless.Although... Fine.You seem harmless enough. Forgive me,
+I've just been on edge with all these
+monsters running around.
+They come up from Hateno Beach to
+steal my sheep. If someone doesn't do
+something soon, I won't have any left!"
+18,talk10,ハテノビーチの魔物…,"I hate that gang of monsters on 
+Hateno Beach..."
+19,talk11,"目が合うと武器で殴りかかってくる
+忌まわしいヤツら…
+つい最近 ここで鉢合せしたとき
+畑のフォーク振り回して なんとか撃退した
+だけど ヤツらが巣食うハテノビーチまで
+深追いできなかった… 
+道中にも魔物は潜んでいそうだし
+向こうは全部で7匹もいたし…","The stupid ones who attack anything
+that moves. Last time they showed up,
+I gave them a taste of my pitchfork.
+But I had second thoughts about
+following them back to their camp
+on Hateno Beach.
+I was mad enough to spit but maybe
+not mad enough to take on seven
+monsters at once."
+20,talk12,"このハテノ村から南東に向かって
+くねくね延びる道を歩いて行くと…
+やがて眼下に広がるのが ハテノビーチ…
+
+地図にも記されている美しい砂浜だ","It's southeast of the village. Follow the
+winding road, and you'll be there before
+you know it.
+It's well-known enough that you can
+probably find it on a map, come to that."
+21,talk13,"さ…さよなら…
+
+……
+
+最初に おまえを敵視したこと…
+悪かった…","Good... *sigh* Good-bye.I'm sorry if we got off on the wrong foot.
+Uh...that's all..."
+22,talk14,"ヒツジたちが落ち着きを取り戻した
+危険が去ったことを感じ取ったらしい
+私のカン違いだったら謝るが…
+
+もしかして おまえが
+魔物を退治してくれたのか？","The sheep have calmed down. I think
+they get that they're not about to be
+snatched at any moment.
+Hey... Sorry if I'm off the mark in asking
+this, but are you the one who took care
+of those monsters?"
+23,talk15,"やはり…
+
+ヒツジ達が落ち着きを取り戻したので
+もしかしたら…と思ったのだ
+なんていうかその…ありがとうだ","I had a feeling.When the sheep all calmed down,
+I thought, \""Maybe he did it...\""So it seems I owe you some thanks."
+24,talk16,おい！はぐらかすな！,"Oh, no you don't!"
+25,talk17,"いくら隠しても わかる…
+ヒツジほどじゃないが私も感じ取った
+なんていうかその…
+
+ありがとうだ","You can't hide the truth from me.
+I might not feel it in my bones like the
+sheep do, but I'm no fool, either.
+Which is to say...um... Thanks."
+26,talk18,"これからは夜はぐっすり眠れる
+
+それで… もしも嫌じゃなかったら
+これからも気軽に話しかけ…
+い…いや何でもない","It'll be nice to have a night's sleep
+without worrying about my flock.
+
+And, er... If you want...you can talk
+to me anytime. O-or not!"
+27,talk19,"お礼…こんなものしかないが…
+たいした荷物には ならないはず","This isn't much of a reward, but hey,
+it's light. That counts for something."
+28,talk20,"…フレッシュミルクを やろうと思ったが
+おまえ…ポーチが一杯だな
+フレッシュミルクを いくつか
+売るか使うかしたら また声をかけてくれ","I wanted to give you some fresh milk,
+but you don't have room for any.Go drink some fresh milk—or sell it,
+that works too—and come back."
+29,talk22,"太陽の匂いは幸せの匂い…
+そう思わないか？","Though, it could certainly be worse..."
+30,talk23,"土の匂いは命の匂い…
+そう思うんだ…","The scent of the soil is the smell of life
+itself. If you ask me, anyway."
+31,talk25,"あれから ヒツジたちは
+よく食べ よく寝て よく乳を出すようになった
+おまえのおかげだありがとう…","The sheep have been eating and sleeping
+better. They're yielding more milk too.
+You've single-handedly saved my flock!"
+32,talk26,"それは…""ハテノ古代研究所の青い炎…
+
+何をしてる？何かの儀式か？","Say...is that the blue flame from the
+Hateno Ancient Tech Lab?What are you doing with it? Some kind
+of scientific ritual?"
+33,talk27,"ハテノ古代研究所の炎…
+どこへ運んでる？なぜ運んでいる？","That's the flame they use up at the
+Hateno Ancient Tech Lab! Where are
+you taking it?"
+34,talk28,他に聞きたい事は あるか？,Anything else you wanna know?

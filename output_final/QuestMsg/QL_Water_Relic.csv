@@ -1,0 +1,107 @@
+#,Title,JPja,USen
+1,QL_Water_Relic_Desc,"水の神獣 ヴァ・ルッタを鎮める手伝いを依頼された
+
+ルッタを鎮める為には多くの電気の矢が必要だ
+
+まずはそれを手に入れられる場所を
+ゾーラの里の広場にいる執政ムズリから聞き出そう","You have been asked to help appease Vah
+Ruta, Divine Beast of Water. The task will
+require a great many shock arrows.
+
+Find Muzu inZora's Domain squareto
+find out where to get them."
+2,QL_Water_Relic_Finish,"今までの顛末を ドレファン王に報告した
+ゾーラの里の老翁達も心を開いてくれたようだ
+
+英傑の加護の1つ ミファーの祈りが
+発動するようになった
+
+神獣 ヴァ・ルッタは鎮座し
+厄災ガノンとの決戦の時を待っている","You told King Dorephan everything that's
+happened so far, and now it seems even
+members of the Zora's Domain council
+have accepted you.
+
+You've also earned one of the Champion's
+charms, Mipha's Grace.
+
+Divine Beast Vah Ruta has enshrined itself in
+preparation for the battle with Calamity Ganon."
+3,QL_Water_Relic_Name,水の神獣 ヴァ・ルッタ,Divine Beast Vah Ruta
+4,QL_Water_Relic_Step1,"ムズリを説得しようとしたが
+彼はハイリア人を認めようとしない
+
+ミファーの想い人であった事を
+証明できれば協力してくれるらしい
+
+手元には ミファーが作ってくれたゾーラの鎧が…
+これを使って証明してみよう","You asked Muzu where to get the arrows, but
+he refuses to help because you're a Hylian.
+However, he seems willing to cooperate if
+you can somehow prove that you were
+special to Mipha.
+
+You have theZora armorthatMiphamade
+for you. Maybe it will be proof enough."
+5,QL_Water_Relic_Step1_1,"ムズリから雷獣山に行けば
+多くの電気の矢を集められる事を教わった
+
+ゾーラの鎧を着ることで出来るようになる滝登りを
+使って ゾーラの里の東にある滝を登れば
+雷獣山へは すぐに行ける
+
+まずは電気の矢を20本集めよう","According to Muzu, you can get shock arrows
+from Ploymus Mountain.
+
+Wearing the Zora armor allows you toswim
+up waterfalls, so swimming up the waterfall
+east of Zora's Domain will make for a nice
+shortcut.
+
+First, you'll need to collect 20 shock arrows."
+6,QL_Water_Relic_Step1_2,"電気の矢を20本集めた
+東の貯水湖で待っているシドと合流しよう
+
+東の貯水湖は雷獣山のてっぺん試しの岬の真下だ","You collected the 20 shock arrows you'll need
+to face the Divine Beast. Now head to
+East Reservoir Lake and meet with Sidon.
+
+The lake isdirectly below Shatterback Point,
+the peak of Ploymus Mountain."
+7,QL_Water_Relic_Step2,"東の貯水湖のシドと合流した
+
+電気の矢で 電力を与えて
+神獣 ヴァ・ルッタの背中の装置を起動しよう","You met up with Sidon at East Reservoir Lake
+and are ready to put those shock arrows to
+use. Their electricity canactivate the devices
+on Divine Beast Vah Ruta's back."
+8,QL_Water_Relic_Step3,"東の貯水湖のシドと合流した
+
+電気の矢で 電力を与えて
+神獣 ヴァ・ルッタの背中の装置を起動しよう","You met up with Sidon at East Reservoir Lake
+and are ready to put those shock arrows to
+use. Their electricity canactivate the devices
+on Divine Beast Vah Ruta's back."
+9,QL_Water_Relic_Step4,"背中の装置を起動し
+神獣 ヴァ・ルッタの暴走を止める事ができた
+
+次は神獣の中に入り神獣を取り戻そう","You activated the devices on
+Divine Beast Vah Ruta's back,
+halting its barrage.
+
+Now's your chance. Head inside
+andtake back the Divine Beast!"
+10,QL_Water_Relic_Step5,"神獣 ヴァ・ルッタを乗っ取っていた
+水のカースガノンを倒した
+
+ミファーの神獣 ヴァ・ルッタは
+ラネール大水源の西に鎮座した
+
+ゾーラの里に戻り ドレファン王に報告しよう","You defeated Waterblight Ganon, which
+had taken control of Divine Beast Vah Ruta.
+
+Divine Beast Vah Ruta has been enshrined
+to the west of Lanayru Great Spring.
+
+Return to Zora's Domain and report to
+King Dorephan."

@@ -1,0 +1,133 @@
+#,Title,JPja,USen
+1,QL_Fire_Relic_Battle,"デスマウンテンでは
+神獣 ヴァ・ルーダニアから打ち出された
+偵察機が侵入者を阻んでいた
+
+偵察機に見つからないよう
+ユン坊を誘導しながら大砲をめざし
+神獣 ヴァ・ルーダニアを火口に追い込もう","Sentries now patrol Death Mountain to
+eliminate intruders.
+
+Avoid their notice as you lead Yunobo to the
+cannons to drive Divine Beast Vah Rudania
+into the crater."
+2,QL_Fire_Relic_BattlePlaying,"ユン坊がダルケルの護りを使い
+大砲の弾になってくれたおかげで
+神獣 ヴァ・ルーダニアを火口に追い込む事ができた
+
+あとは神獣 ヴァ・ルーダニアに乗り込み
+動きを完全に止めなければならない","Thanks to Yunobo using Daruk's Protection
+to act as your cannonball, you drove
+Divine Beast Vah Rudania into the crater!
+
+It is time to enterDivine Beast Vah Rudania
+and bring it to a halt."
+3,QL_Fire_Relic_Bridge,"ユン坊がダルケルの護りを使い
+大砲の弾になってくれたおかげで
+オルディン橋を架ける事が出来た！
+
+オルディン橋を渡り
+神獣 ヴァ・ルーダニアを火口へ追い込もう","Yunobo used Daruk's Protection to
+act as a cannonball. The Bridge of Eldin
+has been lowered! 
+
+All you need to do now is to cross
+theBridge of Eldin and drive
+Divine Beast Vah Rudania into
+the crater."
+4,QL_Fire_Relic_Desc,"ゴロンシティの組長 ブルドーは
+厄介者の神獣 ヴァ・ルーダニアを倒したいようだが
+腰痛のせいで ままならないらしい
+
+その上腰痛の痛み止めを取りに行った
+ユン坊も北の廃坑から帰って来ないらしく
+困っているようだ","Bludo, Boss of Goron City, wants to challenge
+the marauding Divine Beast Vah Rudania,
+but his backache is too severe.
+
+What's worse, Yunobo has yet to return from
+theAbandoned North Minewith the painkillers
+he was sent to fetch."
+5,QL_Fire_Relic_Dungeon,"炎のカースガノンを倒したことで
+ゴロン族の英傑 ダルケルの魂も解放され
+神獣 ヴァ・ルーダニアも正気を取り戻した！
+神獣 ヴァ・ルーダニアはデスマウンテンの頂上で
+ガノン討伐の準備を始めた
+その様子を見たユン坊も安心して
+ゴロンシティに帰ったようだ
+今までのことをブルドーに報告しよう","Defeating Fireblight Ganon freed the spirit of
+Daruk, Champion of the Goron race. He has
+piloted the Divine Beast to the summit of
+Death Mountain in preparation for the assault
+on Ganon.
+
+Seeing this, a relieved Yunobo returned to his
+home in Goron City. You should go there and
+tellBludoall that has happened."
+6,QL_Fire_Relic_Finished,"神獣 ヴァ・ルーダニアが正気を取り戻したことを
+ブルドーに報告した！
+これでようやくゴロンシティに平和が訪れたようだ
+
+ダルケルの英傑の力を譲り受け
+ダルケルの護りが使えるようになった","You reported your success in restoring the
+Divine Beast Vah Rudania to its true self.
+Peace has finally returned to Goron City.
+
+In addition, you received the Champion Daruk's
+might and can now use Daruk's Protection."
+7,QL_Fire_Relic_GoDeathMt,"オルディン橋の前で
+魔物に襲われているユン坊を助け
+中止の件を伝えた
+
+しかし神獣 ヴァ・ルーダニアに乗り込むのを
+諦めるわけにはいかない
+神獣 ヴァ・ルーダニアのもとへ向かうためには
+オルディン橋を架けないといけないらしいが…","You helped Yunobo fend off monsters at the
+Bridge of Eldin before telling him that Bludo's
+plan had been called off.
+
+You still need to get inside the Divine Beast
+somehow, though... The best way forward may
+be to lower theBridge of Eldin."
+8,QL_Fire_Relic_GoGoronCity,"ブルドーにユン坊を助けたことを感謝された
+痛み止めを飲んだブルドーは
+神獣 ヴァ・ルーダニア討伐に向かおうとするが
+腰痛が再発
+神獣 ヴァ・ルーダニア討伐は今日は中止らしい
+一足先にオルディン橋に向かったユン坊に
+中止の件を伝えに行こう","Bludo thanked you for helping Yunobo.
+After taking the painkillers, Bludo was about
+to go challenge Divine Beast Vah Rudania,
+but then his back started hurting again.
+No one will be challenging the Divine Beast
+today, it seems.
+
+Yunobo has already gone ahead to the
+Bridge of Eldin, so you must meet him there
+to let him know about this change of plans."
+9,QL_Fire_Relic_Name,炎の神獣 ヴァ・ルーダニア,Divine Beast Vah Rudania
+10,QL_Fire_Relic_NorthMine,"北の廃坑でドリジャンから聞いた話によると
+ユン坊は北の廃坑の奥の保管庫へ向かったらしい
+
+ユン坊は無事だろうか…
+
+保管庫へ向かったユン坊を探し出そう","You met Drak in the Abandoned North Mine,
+who told you that Yunobo left for the vault
+deep in its reaches. That's the last anyone
+has seen of Yunobo...
+
+Mount a search operation for Yunobo, who was
+headed for thevault."
+11,QL_Fire_Relic_Storage,"北の廃坑でユン坊と会った
+
+ユン坊は腰痛の痛み止めを届けに
+急いでブルドーのもとへ帰っていった
+
+お礼をくれるらしいので
+ブルドーのところへ行こう","You met Yunobo in the Abandoned North Mine.
+
+Yunobo hurried back to Goron City to deliver
+the painkillers Bludo needs for his backache.
+
+You should go speak toBludo to collect
+your reward."

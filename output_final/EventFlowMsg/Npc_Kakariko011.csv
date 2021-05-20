@@ -1,0 +1,73 @@
+#,Title,JPja,USen
+1,"""0000""",普通のベッド,Regular bed.
+2,"""0001""",ふかふかベッド,Soft bed.
+3,"""0002""",何が違うの？,The difference?
+4,"""0003""",朝,Morning.
+5,"""0004""",昼,Noon.
+6,"""0005""",夜,Night.
+7,"""0006""",やっぱりやめる,Changed my mind.
+8,"""0007""",ありがとう,Thank you.
+9,"""0008""",やめとく,"Nah, never mind."
+10,"""0009""",さようなら,Bye.
+11,Near01,Zzz…,Zzz...
+12,Talk00,"ふ…普通のベッドなら20ルピー
+ふ…ふかふかベッドなら40ルピーで…","Well... The regular bed is 20 rupees.
+And...th-the soft bed is 40 rupees.
+I guess..."
+13,Talk02,"あ… ありがとう…
+それで…いつ起こしたらいい？","Th-thank you... So, um...
+When should I wake you?"
+14,Talk03,"また来て…ね
+お…おやすみ…","Well...d-do come again...OK?
+Good night..."
+15,Talk04,"朝… だね…
+わかった…
+おれ…起きられるかな…","M-morning? Alrighty.
+If you insist.
+
+I wonder...if I'll be awake..."
+16,Talk05,あ…お金ないん… だね,"Um... Oh, my... It seems you don't...
+have enough rupees."
+17,Talk06,"えー…
+まあ…いいけど…","Um... Well... OK, I guess."
+18,Talk08,お…おはよ…,Good m-morning.
+19,Talk10,"わわ…
+お…お客さん…かな…？
+び… ビックリした…","Ack! Are you...a g-guest?
+I suppose so...
+
+You s-scared me half to death..."
+20,Talk11,"んー… でも まぁ…
+初めてだし…
+今日だけは無料で…いいかなと…","Hrm... Well... I guess it's OK.
+It is your first time here...right?
+
+I'll give you a freebie...just this once."
+21,Talk12,"ふかふかベッドは… コッコの羽毛で
+作った…んだったかな…
+ふ…普通のベッドで寝るのと…違って…
+いつも以上に…元気になる…んだったかな…","The soft bed is stuffed with premium
+Cucco feathers...or something.
+I think.
+Sleep on that, and... Um... Ya know...
+You'll be more energized than usual."
+22,Talk13,ぐっすり眠れる…のに…,"Oh, OK... You'd sleep great, though..."
+23,Talk14,"昼…だね…
+わかった…
+お…起きられるかな…","Noon? Alrighty. If you insist.
+
+
+I wonder...if I'll be awake..."
+24,Talk15,"夜…だね…
+わかった…
+お…起きられるかな…","Night? Got it. If you insist.
+
+
+I wonder...if I'll be awake..."
+25,Talk16,"お…おはよ…
+あ… こんにちは…かな…","Good m-morning. Or wait... Good day.
+I guess."
+26,Talk17,"お…おはよ…
+あ… こんばんは…かな","Good mor... Wait. I mean, good evening.
+I guess."
+27,Talk18,いつ…お…起こしたらいい？,When should I...wake you up?

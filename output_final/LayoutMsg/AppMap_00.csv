@@ -1,0 +1,53 @@
+#,Title,JPja,USen
+1,"""0000""",ワープ,Travel
+2,"""0001""",口笛,Whistle
+3,"""0002""",マップピン,Pin
+4,"""0003""",スタンプ,Stamp
+5,"""0004""",選ぶ,Select
+6,"""0005""",スタンプ/マップピン,Stamp
+7,"""0009""",ユン坊,Yunobo
+8,"""0010""",ウルフリンク,Wolf Link
+9,"""0011""",倒れた場所,R.I.P.
+10,"""0012""",現在の位置,Current Location
+11,"""0013""",ガーディアン,Guardian
+12,"""0014""",宿屋,Inn
+13,"""0015""",宝飾屋,Jewelry Shop
+14,"""0016""",防具屋,Armor Shop
+15,"""0017""",よろず屋,General Store
+16,"""0018""",チャレンジ,Objective
+17,"""0021""",染色屋,Dye Shop
+18,"""0022""",配置する,Stamp
+19,"""0023""",試練の祠へと導く,Searching for Shrines
+20,"""0024""","到達していない試練の祠に近づくと反応を示す
+強く反応する方向へ向えば祠へとたどり着ける","The sensor reacts when you are close to shrines that you
+have not yet visited. If you head inthe direction where the
+reaction is strongest, you should be able to find the shrine."
+21,"""0025""",SheikahSensor,SheikahSensor
+22,"""0026""",探している物へと導く,Searching for Compendium Items
+23,"""0027""","強化されて試練の祠以外の物も探せるようになった
+探している物に近づくと反応を示す
+強く反応する方向へ向えば探している物へとたどり着ける","If your sensor has been augmented to search for things other than
+shrines, it will react when you are close to the thing you have set
+it to look for. Head inthe direction where the reaction is strongest,
+and you should be able to find the thing you are looking for."
+24,"""0028""",試練の祠,Shrine
+25,"""0029""",図鑑から選ぶ,Pick from Compendium
+26,"""0030""",OFF,OFF
+27,"""0031""",探す物を変更,Change Target
+28,"""0032""",コログ,Korok
+29,"""0033""",ワープマーカー,Travel Medallion
+30,"""0034""",停止,Pause
+31,"""0035""",手動再生×,Manual Replay x
+32,"""0036""",マスターバイク零式,Master Cycle Zero
+33,Pa_Comp_00-T_Ancient_00,Achievement,Achievement
+34,Pa_Cursor_00-T_StampPin_00,スタンプ/マップピン,Stamp/Map pin
+35,Pa_SensorBox_00-T_SensorTitle_00,探す物を選ぶ,Select search target.
+36,Pa_SensorIcon_00-T_Ancient_00,SheikahSensor,SheikahSensor
+37,Pa_SensorIcon_00-T_Off_00,OFF,Off
+38,Pa_SensorIcon_00-T_SensorOn_00,試練の祠,Shrine
+39,Pa_StampBox_00-T_DecoD_00,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+40,Pa_StampBox_00-T_DecoU_00,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+41,Pa_StampBox_00-T_StampBoxTitle_00,スタンプボックス,Stamp Box
+42,Pa_Temp_01-T_Ancient_00,thermometer,thermometer
+43,Pa_Temp_01-T_Error_00,Error,Error
+44,Pa_Time_01-T_Ancient_00,clock,clock

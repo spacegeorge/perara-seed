@@ -1,0 +1,325 @@
+#,Title,JPja,USen
+1,"""0002""",いいよ,OK.
+2,"""0003""",待って,Wait...
+3,"""0005""",心が大事,Love reigns supreme.
+4,"""0006""",はい,Yes.
+5,"""0007""",いいえ,No.
+6,"""0011""",その通り,That's right.
+7,"""0012""",旅の者です,I'm a traveler.
+8,"""0013""",ボトルを見失った,I can't see the letter.
+9,"""0014""",ボトルって？,A letter?
+10,"""0015""",きみは？,Who are you?
+11,"""0016""",何でも無い,It's nothing.
+12,"""0017""",結構ある,It's a long ways.
+13,"""0018""",それほどでも,It's not that far.
+14,"""0019""",頑張ってね,Good luck with that.
+15,"""0020""",しょうがないなぁ,Fine...
+16,near01,彼へと……,Find him...
+17,near03,くぷぷっ！,Tee hee!
+18,talk00,"私の想いを…""彼へ届けて…",Carry my thoughts...to him...
+19,talk01,"あら…
+アナタも水の妖精へ お願いに？
+…違うわねだってボトルを持っていないもの
+
+ひょっとして アナタって…
+水の妖精の使者？","Hm? Do you have a wish for the water
+fairy too?
+
+Oh... I suppose not. If you did,
+you'd have a letter to send.
+
+But wait, does that mean you're...
+a servant of the water fairy?!"
+20,talk02,"だったら お願いがあるんです！
+
+今から流すメッセージボトルを追いかけて
+ボトルを手にした人に会ってきて欲しいんです
+そして彼がどんな人か
+私に教えて欲しい…","OH, WOW! If that's the case, I have an
+important request for you!
+
+Once I release it, I'd like you to follow
+my love letter and get to know whoever
+picks it up.
+Once you do that, please report back to
+me so I can find out what kind of person
+he is..."
+21,talk03,"…今 「自分で行けば？」って
+思いましたよね？
+私 お母さんに「ここより遠くに行っちゃダメ」
+って言われてるんです…
+だから お願い
+ボトルの受取人を… ね？
+くぷぷ…ありがとうございますっ","I know, I know. You're probably thinking,
+\""Why not just go yourself, lazy girl?!\""
+I'm right, aren't I?
+The thing is, I promised my mother
+I wouldn't venture out too far.
+
+So I'm begging you. Please... Find the
+person who picks up this letter. OK?
+
+Tee hee! Thank you!"
+22,talk04,"それじゃ ボトルを投げますよ？
+準備はいいですか？","Excellent! OK, I'm going to throw the
+letter in now! Are you ready?"
+23,talk05,"待ちますけど…
+早くしてくださいね","Oh. Sure, I can wait...
+But please make it quick!"
+24,talk06,"ボトルは壊れやすいから
+気をつけてくださいね","These letter containers break easily,
+so please be careful."
+25,talk07,あら アナタは…,"Oh, you..."
+26,talk08,"そんな訳ないでしょう…
+子供だからって からかわないでください","That can't possibly be so... Please don't
+make fun of me just because I'm a
+cute girl."
+27,talk09,でも旅の人なら ラッキー！,"If you're a traveler, that's lucky for me!"
+28,talk10,えっ何ですか？,Hm? What is it?
+29,talk100,おはようございます,Good morning.
+30,talk101,こんにちは,Hello.
+31,talk102,こんばんは,Good evening.
+32,talk103,やぁ,Hey!
+33,talk104,"突然だけど キミはゾーラの里に
+行った事は あるかい？","Sorry for the random question, but have
+you ever been to Zora's Domain?"
+34,talk105,そうか…ここから遠い？,I see... Is it far from here?
+35,talk106,"そうか…
+
+あぁ…ごめんごめん
+自己紹介を忘れてたよ
+僕はササノ旅の行商人さ
+
+ゾーラの里に行くところだったんだけど
+入り江にメッセージボトルが引っ掛かっててね
+差出人は ゾーラの女性の
+フィネさんって人だったんだ
+そこで僕の返事はゾーラの里に行く旅人に預けて
+手紙のやり取りをしていたんだよ","I see...
+
+
+Oh! Sorry. I forgot to introduce myself.
+
+
+I am Sasan, the traveling merchant.
+
+
+I was on my way to Zora's Domain...
+but a love letter in this inlet caught
+my eye.
+The writer seems to be a lovely Zora
+named Finley.
+
+I've been corresponding with her by
+giving my replies to travelers heading
+to Zora's Domain."
+36,talk107,"ゾーラの女性からの手紙…
+気になるかい？","A mysterious letter from a Zora woman...
+Intriguing, is it not?"
+37,talk108,"残念ながら
+内容を教えてあげる事は できないな
+僕は女性からの手紙を他の人に教えるような
+無粋な事は しない主義でね
+でも言葉づかいは丁寧だし
+きっと上品な大人の女性なんだろうな","Unfortunately, I can't tell you what she
+wrote. A gentleman would never read
+a lady's letter to a stranger.
+But I CAN assure you that she writes in
+the sweetest, most refined way ever.
+She must be a very elegant young lady.
+Actually, as a Zora, she's probably a lot
+older than me. That doesn't bother me
+one bit, but...I hope she feels the same."
+38,talk109,そうかならいいんだ,I see... Very well then.
+39,talk11,"はい… それでは引き続き
+ボトルを壊さないように追いかけてくださいね","Right... As I was saying: please follow
+that letter. And don't let it break!"
+40,talk111,"さて…次は彼女の手紙が来る番だから
+僕はもう少し ここで待つとするよ","So then... Next it's her turn to write,
+so I'll just wait here awhile."
+41,talk113,"君は…このメッセージボトルを
+追ってきたのかい？",So...you were following this letter?
+42,talk114,"おおかた彼女に「どんな人か見て来て欲しい」
+とか…言われたんじゃないかな？
+以前僕が「筋肉ムキムキの冒険者さ」って嘘を
+書いたらそれ以降彼女が会いたがっちゃって…
+だから会いに行きたくても
+どうにも腰が重くてね…
+しまったなぁ
+こうなるなら嘘書くんじゃなかったよ…","Hm, so she asked you to come down
+here and see what kind of person I am.
+Is that it?
+Well, earlier I lied when I wrote to her
+that I was a buff traveler. She said she
+wanted to meet me, but...
+Even though I'm dying to meet her,
+I can't do it.
+
+I've really blown it. If I had known this
+would happen—that I'd fall for her—
+I never would've lied..."
+43,talk115,"心が大事…か
+うん そう言ってくれると助かるよ","Love reigns supreme... Hmm. I suppose
+it does. Ya know, hearing that does make
+me feel a little better."
+44,talk116,"確かに…
+もうこれは筋トレを頑張るしかないよね…","This could work... I guess I just have to
+start pumping up my muscles now..."
+45,talk119,"あー！
+
+せっかく書いた お手紙が…
+
+でもいいですよ
+わざとじゃないと思いますし 
+文章もイマイチだったから
+また書き直そっと…","Ahhh!!
+
+
+I worked really hard on that letter...
+
+
+But it's OK... It's not like you did it
+on purpose or anything.
+
+I bet I could be even more eloquent than
+that anyway, so I'll just start over and
+write a new letter... "
+46,talk12,"女の子の間では この願いの川辺から
+メッセージボトルを流して
+返事が来たら幸せになれる
+という言い伝えがあるんです
+そしてついに私にも返事があったんです！
+
+どんな人か確かめたくなったから
+会ってみたいんですけど
+お母さんには遠くに行くなって言われてるから
+直接会いに行くことはできなくて…
+「筋肉ムキムキの冒険者だ」
+って お返事には書いてあったのですが
+いつも繊細な文章なので
+きっと素敵な方なんだろうなって思うんです","For Zora girls, there's a superstition that
+if you send a love letter from the
+Bank of Wishes and get a response...
+You'll have good fortune for life!
+Who doesn't want that?!
+
+And after many attempts...
+I finally got a response!
+
+Of course, I'm no chump and certainly
+no fool. I wasn't hatched yesterday!
+
+I need to know what kind of person my
+mystery man is. That's why I desperately
+want to meet him.
+Thing is, my mom told me not to venture
+too far, and I agree going on my own is
+a dumb idea. I'm not sure what to do.
+Hmmm... He described himself as,
+\""a buff and super gorgeous traveler.\""
+Gosh, I hope THAT'S the truth.
+And with that delicate penmanship,
+I suspect he's quite refined.
+Regal, even!
+If he's a Hylian, I do hope he's OK with
+being with a Zora who's considerably
+older than him. Wiser too, no doubt.
+Hey, love requires an open mind,
+wouldn't you say?"
+47,talk121,"あー！
+
+せっかく書いた お手紙がー！
+また書き直さなきゃ
+でもいいわ 
+
+ちょっとした試練がある方が
+恋も燃え上がるというものよ！ くぷぷ","AHHH!!
+
+
+I worked SO hard on that letter! And now
+I have to write ANOTHER one?
+
+*sigh* Oh, well. 
+
+
+After all, they say the more you have
+to struggle for love, the sweeter it is.
+Hee hee, yeah... That must be true."
+48,talk122,"よ～し…ここは当たって砕けろで
+彼女に会ってみようかな…
+そういえば大雨は止んだんだっけ？手紙に 「ゾーラの里で待ってる」って
+書いてたから…
+トレーニングを兼ねて
+里まで走って行ってみるよ！
+それじゃあ
+ゾーラの里で また会おう！","OK! It's time for me to take a chance
+and try to meet her...
+
+Oh, that reminds me... I wonder if the
+torrential rain has stopped.She's waiting in Zora's Domain.
+That's what her letter says, anyway.
+
+So I'll achieve two goals at the same
+time and train up my muscles on
+the way there! I'll get super beefy!
+Yeah, that's the ticket! I'll run all the way
+to the domain! Catch ya later!
+
+We'll meet again at Zora's Domain—
+I'm sure of it!"
+49,talk123,"あら！アナタは…！
+
+ねえササノ君！
+お手紙のことを見届けてくれたのはこの人なの","Oh! It's you!
+
+
+Hey, Sasan! This is the guy who made
+sure my letter reached you safely!"
+50,talk124,"おお君は！
+あれからなんとかゾーラの里に着いたよ
+おかげで フィネさんに会うくらいの
+勇気と根性はついた…気がするよ","Oh! It's you! As you can see, I somehow
+made it to Zora's Domain.
+
+Thanks to you, I managed to work up the
+courage to finally meet Finley. At least,
+that's how I see it."
+51,talk125,"私の運命の人と引き合わせてくれて
+ありがとう！
+あなたに会ったら お礼をしましょうって
+ササノ君と相談していたの
+これ二人から…受け取ってください！","Thank you so much for introducing me
+to my soul mate!
+
+Sasan and I discussed it, and we decided
+we just HAD to thank you the next time
+we saw you.
+So here... This is from both of us.
+Thank you for everything!"
+52,talk126,"ササノ君！泳いだり ガケ登りしたりして
+もっと筋肉モリモリになってね！","Sasan! Be sure to swim and climb and lift
+and stuff. A LOT. That will help you build
+up those muscles you promised me!"
+53,talk127,"ううん…
+がんばるよ……","As you wish...my darling...
+I'll try my best..."
+54,talk13,"私はフィネ
+ゾーラの里から来ました
+お父さんもお母さんも忙しくって
+相手してくれないから
+いつも こうして一人で遊んでるんです","I'm Finley. I came from Zora's Domain.
+
+
+My mother and father are so busy,
+we rarely spend time together anymore.
+I spend most days in solitude."
+55,talk14,メッセージボトルを見失ったんですね？,"You lost sight of my love letter,
+didn't you?"
+56,talk15,"分かりました
+ボトルは壊れやすいので気を付けてくださいね","I understand. These containers break
+really easily, so please be careful."
+57,talk16,他に質問は ありますか？,Do you have any other questions?
+58,talk17,"こんな事もあろうかと
+予備を作っておきました","Luckily, I thought something like that
+might happen, so I made an extra."
+59,talk22,そうなんですか！ラッキー！,"Oh, really?! How lucky!"

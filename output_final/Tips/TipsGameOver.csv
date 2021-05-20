@@ -1,0 +1,25 @@
+#,Title,JPja,USen
+1,Cold_00,"気温の影響（寒冷）急激に気温が低下する場所では防寒用の服に着替えるか
+体を温める効果のある物を食べないと時間と共にハートが減少していく。","Freezing ClimatesWear cold-resistant clothing or eat something that warms your body
+when adventuring in cold regions. Otherwise, the cold will slowly
+chip away at your health."
+2,Enemy_00,"戦闘のコツハートが少ない時や防具の防御力が低い状態で
+敵に正面から向かって行くのは危険だ。","Battle TipIt's dangerous to approach enemies head-on when you're low on
+hearts or don't have protective armor equipped. Always be prepared!"
+3,Enemy_01,"冒険の心得冒険の途中で敵に何度も倒されてしまうときは
+料理や薬を うまく活用するのが大切だ。","Battle TipInstead of throwing yourself at enemies over and over to no avail,
+try cooking special dishes and elixirs to give yourself better defense,
+extra damage, or more hearts."
+4,Fall_00,"転落死高いところから落ちると ダメージを受ける。
+高さによっては即死することもあるので崖際では注意が必要だ","Falling DeathDepending on the height, you may take damage, or even die, when
+you fall. So be cautious out there walking near cliff edges!"
+5,Fall_01,"転落死高いところから落ちると ダメージを受ける。
+高さによっては即死することもあるので パラセールで降下するのがよい。","Falling DeathDepending on the height, you may take damage, or even die, when
+you fall. Remember to use the paraglider for a safe descent."
+6,Guardian_00,"ガーディアン全身が装甲で覆われていて攻撃力の低い武器では歯が立たない。
+有効な武器を手に入れるまでは回避するのが無難だ。","GuardiansTheir entire bodies are covered in armor, so low-powered weapons
+won't do any damage. It's best to avoid these foes until you have
+the right tools for the job!"
+7,Lightning_00,"落雷迷信とも言われているが この世界では雷は金属製の物に落ち易い。
+雷鳴が聞こえたら金属製の装備は外した方がよい。","Lightning StrikesIt may sound like a superstition, but lightning seems to strike metal
+objects frequently. If you hear thunder, unequip anything metallic."

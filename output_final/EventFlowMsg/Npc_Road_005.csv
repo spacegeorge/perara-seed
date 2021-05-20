@@ -1,0 +1,278 @@
+#,Title,JPja,USen
+1,"""0000""",買う,Show me your goods.
+2,"""0001""",売る,I'm selling.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yeah.
+5,"""5501""",いいえ,"No, thanks."
+6,"""5502""",買う,I'll take it.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,今はただ耐えるだよ…,I'm just barely keeping it together here...
+11,Atacked01,オラ こんな状況イヤだ…,I hate it here...
+12,Com_Talk_00,どれを売ってくれるだ？,What do you want to sell?
+13,Com_Talk_01,"を売るだか？
+ルピーになるけんど いいだか？","I can give you  rupees for that.
+Does that work for you?"
+14,Com_Talk_02,"ありがとさん！
+他にも何か あるだか？",Thanks! Did you need something else?
+15,Com_Talk_02b,ありがとさん！,Thanks!
+16,Com_Talk_02c,どうもどうも ありがとさん！,Thank you so much!
+17,Com_Talk_02d,どうも ありがとさん！,"Thanky, thanky!"
+18,Com_Talk_04,そりゃ残念だで…,That's too bad...
+19,Com_Talk_05,何か買い取るだよ！,I'll buy something off of you!
+20,Com_Talk_05b,何でも買い取るだよ！,I'll buy anything!
+21,Com_Talk_05c,何か売ってくれるだか？,You'll sell me something?
+22,Com_Talk_05d,何でも買うだよ！,I'll buy anything!
+23,Com_Talk_06,どれを買ってくれるだか？,Which would you like to buy?
+24,Com_Talk_07,それは今切らしちまってるだよ…,I'm out of that right now...
+25,Com_Talk_08,"ルピーさ足りねえだな
+もう少し稼いでくるしかねえべな","You don't have enough rupees. You'll
+just have to earn some and come back."
+26,Com_Talk_09,"ポーチが中サ いっぱいだ
+何か売るなり捨てるなりするしかねえべさ","Your inventory is full. You'll have to sell
+or discard something."
+27,Com_Talk_10,を買うだね？,"Ooo, good choice."
+28,Com_Talk_11,ありがとさん,Thanks!
+29,Com_Talk_11b,いやいや ありがとさん,"Oh, thank you!"
+30,Com_Talk_11c,どうもどうも,Thanky.
+31,Com_Talk_11d,どうもどうも ありがとさん,Thank you so much.
+32,Com_Talk_12,"オラの自慢の品ぞろえ
+のんびり見てってくんろ","I'm quite proud of my assortment of
+shrooms. Take your time looking."
+33,Com_Talk_13,"を売るだか？
+いくつ売るだ？",And how many do you want to sell?
+34,Com_Talk_14,"を個・・・
+合計ルピーで買い取るけんど？","You're selling  of them? I'll give you
+ rupees."
+35,Com_Talk_15,それは オラんとこでは買い取れねえだよ,"Yeah, I can't buy those here."
+36,Com_Talk_16,"服を着たまま売る人は いねえべさ
+売りたければ普通は脱ぐだよ","Who tries to sell something they're still
+wearing? If you want to sell it, take
+it off first."
+37,Com_Talk_20,"あいにくの天気だで特別に…
+珍しいキノコさ売ってあげてもいいだよ","I'm running a little bad-weather special
+today. Check out my rare mushrooms."
+38,Com_Talk_30,"が個で
+合計ルピーになるだよ？","It'll be  rupees for  of them.
+Is that OK?"
+39,Com_Talk_31,"を買うだね？
+いくつ買うだ？",How many do you want to buy?
+40,Com_Talk_33,"を ひとつだけだか？
+そしたらルピーだで",I can offer you  rupees for that.
+41,Com_Talk_34,"を あるだけ全部？
+個だからルピーになるけんど？","I have  of them, so that comes out
+to  rupees. Deal?"
+42,Com_Talk_35,"を個全部だか？
+そしたらルピーで買い取るけんど？","I'll give you  rupees for  of
+them. Deal?"
+43,Com_Talk_36,"これで最後だべな
+たくさん買ってくれて いいお客さんだで","That was the last of it. Thanks for being
+such a great customer!"
+44,Com_Talk_37,"おかげさんで もう売るもんが無えだよ
+
+また仕入れるつもりだで
+入荷予定のキノコでも見てくだか？","Thanks to you, I have nothing left to sell!
+
+
+I'll restock soon. Want to take a look at
+what's coming in?"
+45,Com_Talk_56,"を ひとつなら
+ルピーだけんど…どうすべ？",That will be  rupees.
+46,Failed00,危うく おっ死ぬところだっただ…,"That was so scary. I thought I was
+going to die..."
+47,Failed01,オラは死んじまうかと思っただ…,I thought I was done for...
+48,GoodBye00,また よろしくだ,'Til next time.
+49,Guardian00,"何やってるだ！早く逃げるだよ！ 
+ガーディアン""迫ってきてるだよー！","What are you doing?! Run away! 
+A Guardian is coming!"
+50,MSG_Taba_00,"いんやー売れた売れた
+雪国特産味よしキノコ！
+寒いとこで育ってっから
+うまみが ギュっと詰まっとる
+これから仕入れのために
+雪原の馬宿サ行くだ","People come from far and wide to buy
+mushrooms from Kanny, the mushroom
+man!
+I was actually on my way to
+Snowfield Stable, but I can spare
+a minute or two."
+51,MSG_Taba_00_1,"雪国特産味よしキノコもよく売れたことだし
+そろそろ雪原の馬宿へ仕入れサ行くだ","It's about time to head back to
+Snowfield Stable to refresh my stock."
+52,MSG_Taba_01,"いんやー
+リトの馬宿から雪原の馬宿サ行く道は寒いべ
+けんど そのおかげで
+雪国の名産物が豊作だ","Yeah, the road from Rito Stable to
+Snowfield Stable is a cold one.
+
+But that cold is what makes their
+specialty produce so good."
+53,MSG_Taba_01_1,"雪原の馬宿サ行く道は寒いけんど
+そのおかげで雪国の名産物が豊作だ","The road to Snowfield Stable is cold,
+but the cold helps the shrooms stay
+fresh."
+54,MSG_Taba_02,"はぁ～寒いな～
+
+ヘブラ山脈からの ひやっこい風で
+オラも馬も凍えそうだべ","Brrrrrrr... So cold.
+
+
+This breeze coming off of the
+Hebra Mountains is likely to freeze me to
+my horse."
+55,MSG_Taba_02_1,"ヘブラ山脈からの ひやっこい風で
+はぁ～オラも馬も凍えそうだべ","This cold wind blowing off of the
+Hebra Mountains... Hahhhhh...
+It's likely to freeze me to my horse."
+56,MSG_Taba_03,"こんなとこまで ご苦労さんだべ
+
+あんた こっから北へ進むなら
+あったかい服さ忘れんなよ","Good work making it this far.
+
+
+If you're going north of here, don't
+forget to bring warm clothes."
+57,MSG_Taba_03_1,"あんた こっから北へ進むなら
+あったかい服さ忘れんなよ","If you're going north of here, don't
+forget to bring warm clothes."
+58,MSG_Taba_04,"オラの地元
+マリッタ馬宿へ よく来なすったな
+名物は うまみたっぷりのキノコなもんで
+オラ ここを キノコの国サ呼んでるだよ
+呼んでるのは オラひとりだけだで
+あんたも キノコの国サ呼んでけろ","Welcome to my stomping grounds,
+Serenne Stable.
+
+We've got the best mushrooms in all of
+Hyrule here. That's why I call this place
+\""mushroom country.\""
+I'm the only one who calls it that though.
+You can start calling it that too, if you
+want."
+59,MSG_Taba_04_1,"ここマリッタ馬宿はオラの地元
+名物は うまみたっぷりのキノコだで","Welcome to my stomping grounds,
+Serenne Stable. You won't find better
+shrooms anywhere."
+60,Near00,朝からキノコだ…,Mushrooms in the morn...
+61,Near01,味よしキノコだ…,"Yummy, yummy shrooms..."
+62,Near02,雪国キノコだ…,Snowy shrooms...
+63,Near03,夜でもキノコだ…,Mushrooms in the evenin'!
+64,Near04,降ってきたべ…,This weather...
+65,Rest_00,"ここいらの名産物といえば キノコだべな
+ポカポカ ヒンヤリ ガンバリ いろいろだ","This area is known for its mushrooms.
+We've got warm ones, cool ones, and
+stamina ones. Lots of varieties."
+66,Rest_01,"こんな日は オラ あまり出歩きたくねえだ
+吹雪いたら遭難しちまうかもしれんでな
+だけんど オラのキノコを待ってる人のため
+いやだ～なんて言ってられないべ","I don't like to venture out on days like
+this. With the snow swirling like that,
+you're bound to get lost.
+All the same, I can't sit here on my duff
+with people waiting for my mushrooms."
+67,Rest_02,"へブラ山が荒れているそうだ
+
+こんな時に盾サーフィンやるやつは
+頭ん中爆発しちまってる バカヤローだべな","Seems there's a storm on Hebra
+Mountain.
+
+You'd have to be stone-cold crazy to go
+shield surfing in weather like that."
+68,RetMSG_Taba_00,"あんた旅の人だべ？
+
+ここリトの馬宿もいいとこだけんど
+すぐそこの吊り橋サ渡れば リト族の村だ
+村の宿の羽毛ベッドは気持ちいいでな
+あんたも一度寝てみたらいいだよ","You're a traveler?
+
+
+Rito Stable here is a nice place, but 
+you should really cross that rope bridge
+there and check out the village.
+They've got these comfy feather beds
+that will seriously knock you out.
+You've gotta try them at least once."
+69,RetMSG_Taba_00_1,"すぐそこの吊り橋サ渡れば リト族の村だ
+村の宿には羽毛ベッドがあるでな","Once you cross that rope bridge, you're
+in the village of the Rito people. The
+village inn has the comfiest feather beds."
+70,RetMSG_Taba_01,"リトの馬宿は もうすぐだべ
+あんたも一緒に行くだか？
+オラ雪国から持ってきた名産物を
+馬宿で ぜんぶ売りさばく意気込みだで","Rito Stable is just up ahead. Want to
+go there with me?
+
+I'm hoping to sell the rest of my stock
+of frozen mushrooms at the stable."
+71,RetMSG_Taba_01_1,"リトの馬宿は もうすぐだべ
+オラ馬宿で名産物を売りさばくつもりだ","Rito Stable is just up ahead. I'm hoping
+to sell the rest of my stock of specialty
+mushrooms there."
+72,RetMSG_Taba_02,"雪の中を歩くのは大変だべ？
+
+大変ついでにヘブラ山東岳の方にある小屋に
+行ってみるといいだ
+盾サーフィンとかいう若者の遊びが
+寒さをふっ飛ばす勢いだっていうぞ","I like the snow and all, but I wish it
+wasn't so cold.
+
+If you ever happen to be in the area, you
+should visit the small cabin on
+Hebra East Summit.
+You young folk are crazy about shield
+surfing, and I don't blame you. It's a
+great way to forget about the cold."
+73,RetMSG_Taba_02_1,"盾サーフィンに興味があるなら
+ヘブラ山東岳の方にある小屋に行くといいだ","If you're interested in shield surfing,
+visit the cabin on Hebra East Summit."
+74,RetMSG_Taba_03,"あんた旅の剣士だべ？
+ならば盾も上手に扱えるべさ
+ヘブラ山東岳の方にある小屋まで行って
+盾サーフィンで最高の気分を味わっちゃどうだ","You look like you know your way around
+a sword, but how good are you with a
+shield?
+You should consider heading over to the
+small cabin on Hebra East Summit to
+experience the highs of shield surfing."
+75,RetMSG_Taba_03_1,"ヘブラ山東岳の方にある小屋まで行って
+盾サーフィンで最高の気分を味わっちゃどうだ","You should consider heading over to the
+small cabin on Hebra East Summit to
+experience the highs of shield surfing."
+76,RetMSG_Taba_04,"雪国特産のキノコを売りに
+リトの馬宿サ行くとこだ
+ちょっと冒険して たくさん仕入れてみた
+まあ あんたの冒険とは違うけんどもな","I'm off to Rito Stable to sell my specialty
+mushrooms from the land of ice and
+snow.
+I decided to be adventurous and
+overstock a little. Not quite like the
+adventures you have, I imagine."
+77,RetMSG_Taba_04_1,"雪国特産のキノコを売りに
+リトの馬宿サ行くとこだ","I'm off to Rito Stable to sell my
+specialty mushrooms from the land
+of ice and snow."
+78,SavedLv1_00,あんた なかなか強えだな！,"Wow, you're really tough!"
+79,SavedLv1_01,おかげさんで助かっただ！,Thanks for the save!
+80,SavedLv2_00,"けっこう強えだな！
+オラ助かっただ！",You saved me! Thanks!
+81,SavedLv2_01,"オラ助かっただか？
+そうか助かっただか！","You...you saved me?
+You did. You saved me!"
+82,SavedLv3_00,あんたはオラの命の恩人だ！,I owe you BIG-TIME!
+83,SavedLv3_01,"オラは あんたの命の恩人だ！
+
+…そうじゃねえ間違えた！
+
+あんたがオラの命の恩人だ！","You owe me your life now!
+
+
+...Wait. That's backward!
+
+
+I owe you my life now!"
+84,Talk01,"それはそうと あんた…
+特産のキノコ よかったら見てみるだか？","Would you like to browse my selection of
+specialty mushrooms?"
+85,Talk02,他に何かあるだか？,Anything else?
+86,Thanks00,これサ…オラの ほんの気持ちだ！,Take this... It's a token of my gratitude!

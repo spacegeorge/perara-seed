@@ -1,0 +1,510 @@
+#,Title,JPja,USen
+1,"""0000""",DIRECTOR,DIRECTOR
+2,0000_1000,Kentaro Tominaga,Kentaro Tominaga
+3,0000_SPACE_01,,
+4,"""0001""",GAME DESIGN,GAME DESIGN
+5,0001_0000,Yuya Sato,Yuya Sato
+6,0001_0001,Hiroshi Ando,Hiroshi Ando
+7,0001_0002,Naoto Murakami,Naoto Murakami
+8,0001_0003,Yutaro Nishida,Yutaro Nishida
+9,0001_0004,Tomonori Kawazoe,Tomonori Kawazoe
+10,0001_0005,Erina Shimamoto,Erina Shimamoto
+11,0001_0006,Takahito Sekimoto,Takahito Sekimoto
+12,0001_SPACE_01,,
+13,"""0002""",DUNGEON DIRECTOR,DUNGEON DIRECTOR
+14,0002_1000,Yohei Fujino,Yohei Fujino
+15,0002_SPACE_01,,
+16,"""0003""",DUNGEON GAME DESIGN,DUNGEON GAME DESIGN
+17,0003_0000,Yuichiro Tsumita,Yuichiro Tsumita
+18,0003_0001,Kohei Kawazoe,Kohei Kawazoe
+19,0003_0002,Maya Katsurashima,Maya Katsurashima
+20,0003_0003,Hidenori Shimizu,Hidenori Shimizu
+21,0003_SPACE_01,,
+22,"""0004""",SCRIPT DESIGN,SCRIPT DESIGN
+23,0004_1000,Naoki Mori,Naoki Mori
+24,"""0005""",,
+25,0005_1000,Akihito Toda,Akihito Toda
+26,0005_SPACE_02,,
+27,"""0006""",PROGRAMMING DIRECTOR,PROGRAMMING DIRECTOR
+28,0006_1000,Takahiro Okuda,Takahiro Okuda
+29,0006_SPACE_01,,
+30,"""0007""",PROGRAMMING,PROGRAMMING
+31,0007_0000,Kota Wada,Kota Wada
+32,0007_0001,Tadashi Sakamoto,Tadashi Sakamoto
+33,0007_0002,Hiroki Taguchi,Hiroki Taguchi
+34,0007_0003,Corey Bunnell,Corey Bunnell
+35,0007_0004,Haruya Uematsu,Haruya Uematsu
+36,0007_0005,Masato Orishige,Masato Orishige
+37,0007_0006,Haruki Sato,Haruki Sato
+38,0007_0007,Naoki Fukada,Naoki Fukada
+39,0007_0008,Naoto Takahashi,Naoto Takahashi
+40,0007_0009,Takahiro Matsuzawa,Takahiro Matsuzawa
+41,0007_0010,Yoshiharu Miyake,Yoshiharu Miyake
+42,0007_0011,Yuya Tokaji,Yuya Tokaji
+43,0007_0012,Naoki Hirai,Naoki Hirai
+44,0007_0013,Hiroki Nakamura,Hiroki Nakamura
+45,0007_0014,Daisuke Imoto,Daisuke Imoto
+46,0007_SPACE_01,,
+47,"""0008""",PROGRAMMING SUPPORT,PROGRAMMING SUPPORT
+48,0008_0000,Katsuhisa Sato,Katsuhisa Sato
+49,0008_0001,Takahiro Takayama,Takahiro Takayama
+50,0008_0002,Kazuya Sumaki,Kazuya Sumaki
+51,0008_0003,Takuma Oiso,Takuma Oiso
+52,0008_0004,Toshihiro Taguchi,Toshihiro Taguchi
+53,0008_SPACE_02,,
+54,"""0009""",LEAD ARTISTSLANDSCAPE,LEAD ARTISTSLANDSCAPE
+55,0009_1000,Manabu Takehara,Manabu Takehara
+56,"""0010""",CHARACTER,CHARACTER
+57,0010_1000,Yoshiyuki Oyama,Yoshiyuki Oyama
+58,0010_SPACE_01,,
+59,"""0011""",RIDING ANIMATION,RIDING ANIMATION
+60,0011_1000,Takahiro Nishigaki,Takahiro Nishigaki
+61,0011_SPACE_01,,
+62,"""0012""",ENEMY ART,ENEMY ART
+63,0012_1000,Nobuhiko Okayasu,Nobuhiko Okayasu
+64,"""0013""",,
+65,0013_1000,Masafumi Naito,Masafumi Naito
+66,"""0014""",,
+67,0014_1000,Tatsuo Oshima,Tatsuo Oshima
+68,0014_SPACE_01,,
+69,"""0015""",CHARACTER ART,CHARACTER ART
+70,0015_0000,Hiroki Omote,Hiroki Omote
+71,0015_0001,Shuichi Murata,Shuichi Murata
+72,0015_0002,Seiichi Hishinuma,Seiichi Hishinuma
+73,0015_0003,Taro Nakamura,Taro Nakamura
+74,0015_0004,Tokuhiro Yumoto,Tokuhiro Yumoto
+75,0015_0005,Tadahiro Usuda,Tadahiro Usuda
+76,0015_0006,Akiyoshi Tamanoi,Akiyoshi Tamanoi
+77,0015_0007,Yukiko Maruyama,Yukiko Maruyama
+78,0015_0008,Hiroki Nara,Hiroki Nara
+79,0015_0009,Mariko Hirokane,Mariko Hirokane
+80,0015_SPACE_01,,
+81,"""0016""",DUNGEON ART,DUNGEON ART
+82,0016_0000,Takafumi Shimotamari,Takafumi Shimotamari
+83,0016_0001,Kazue Hiramoto,Kazue Hiramoto
+84,0016_0002,Takafumi Hori,Takafumi Hori
+85,0016_0003,Wataru Inata,Wataru Inata
+86,0016_0004,Masato Adachi,Masato Adachi
+87,0016_0005,Koh Arai,Koh Arai
+88,0016_0006,Tadatsugu Motomiya,Tadatsugu Motomiya
+89,0016_0007,Kohei Magome,Kohei Magome
+90,0016_0008,Takeshi Okui,Takeshi Okui
+91,0016_0009,Satoko Iwase,Satoko Iwase
+92,0016_0010,Rie Motonari,Rie Motonari
+93,0016_0011,Keihan Fujii,Keihan Fujii
+94,0016_SPACE_01,,
+95,"""0017""",TECHNICAL ARTIST,TECHNICAL ARTIST
+96,0017_1000,Toru Hombu,Toru Hombu
+97,"""0018""",,
+98,0018_1000,Ikuko Matsumoto,Ikuko Matsumoto
+99,0018_SPACE_01,,
+100,"""0019""",VFX DESIGN,VFX DESIGN
+101,0019_1000,Kojiro Inoue,Kojiro Inoue
+102,"""0020""",,
+103,0020_1000,Eriko Matsui,Eriko Matsui
+104,"""0021""",,
+105,0021_1000,Kei Watanabe,Kei Watanabe
+106,0021_SPACE_01,,
+107,"""0022""",UI DESIGN,UI DESIGN
+108,0022_1000,Daigo Shimizu,Daigo Shimizu
+109,0022_SPACE_01,,
+110,"""0023""",DLC TITLE LOGO DESIGN,DLC TITLE LOGO DESIGN
+111,0023_1000,Kazuya Yoshioka,Kazuya Yoshioka
+112,0023_SPACE_01,,
+113,"""0024""",DLC CREDITS ILLUSTRATION,DLC CREDITS ILLUSTRATION
+114,0024_1000,Takumi Wada,Takumi Wada
+115,0024_SPACE_02,,
+116,"""0025""",CINEMATIC DIRECTOR,CINEMATIC DIRECTOR
+117,0025_1000,Daisuke Nobori,Daisuke Nobori
+118,0025_SPACE_01,,
+119,"""0026""",ASSISTANT CINEMATIC DIRECTOR,ASSISTANT CINEMATIC DIRECTOR
+120,0026_1000,Hiroki Hirano,Hiroki Hirano
+121,"""0027""",,
+122,0027_1000,Yasuhiro Fujita,Yasuhiro Fujita
+123,0027_SPACE_01,,
+124,"""0028""",CINEMATIC DESIGN,CINEMATIC DESIGN
+125,0028_0000,Daiki Hayashidani,Daiki Hayashidani
+126,0028_0001,Kengo Inoue,Kengo Inoue
+127,0028_0002,Hideki Tanaka,Hideki Tanaka
+128,0028_0003,Nami Shimura,Nami Shimura
+129,0028_0004,Minechika Kitai,Minechika Kitai
+130,0028_0005,Shinji Koide,Shinji Koide
+131,0028_0006,Nagisa Miyagawa,Nagisa Miyagawa
+132,0028_0007,Kentaro Kusumi,Kentaro Kusumi
+133,0028_0008,Yuko Morise,Yuko Morise
+134,0028_0009,Aristides Gomez,Aristides Gomez
+135,0028_0010,Shintaro Ito,Shintaro Ito
+136,0028_0011,Kentaroh Honma,Kentaroh Honma
+137,0028_0012,Maya Ishige,Maya Ishige
+138,0028_0013,Takuto Chino,Takuto Chino
+139,0028_SPACE_01,,
+140,"""0029""",MOTION CAPTURE,MOTION CAPTURE
+141,0029_0000,Yoshio Miyaki,Yoshio Miyaki
+142,0029_0001,Haruka Shibai,Haruka Shibai
+143,0029_0002,Sanshiro Wada,Sanshiro Wada
+144,0029_0003,Naomi Taniyama,Naomi Taniyama
+145,0029_0004,Chikako Hashimoto,Chikako Hashimoto
+146,0029_SPACE_02,,
+147,"""0030""",MUSIC,MUSIC
+148,0030_1000,Manaka Kataoka,Manaka Kataoka
+149,"""0031""",,
+150,0031_1000,Yasuaki Iwata,Yasuaki Iwata
+151,"""0032""",,
+152,0032_1000,Soshi Abe,Soshi Abe
+153,0032_SPACE_01,,
+154,"""0033""",SOUND DESIGN,SOUND DESIGN
+155,0033_0000,Yohei Miyagawa,Yohei Miyagawa
+156,0033_0001,Riyu Tamura,Riyu Tamura
+157,0033_0002,Takuro Yasuda,Takuro Yasuda
+158,0033_0003,Taiyo Furukawa,Taiyo Furukawa
+159,0033_0004,Hiroki Taniguchi,Hiroki Taniguchi
+160,0033_0005,Shunsuke Hongo,Shunsuke Hongo
+161,0033_0006,Masahiro Saito,Masahiro Saito
+162,0033_SPACE_02,,
+163,"""0034""",SUPERVISORSGAME DESIGN,SUPERVISORSGAME DESIGN
+164,0034_1000,Hidemaro Fujibayashi,Hidemaro Fujibayashi
+165,"""0035""",,
+166,0035_1000,Daiki Iwamoto,Daiki Iwamoto
+167,"""0036""",PROGRAMMING,PROGRAMMING
+168,0036_1000,Takuhiro Dohta,Takuhiro Dohta
+169,"""0037""",ART,ART
+170,0037_1000,Satoru Takizawa,Satoru Takizawa
+171,"""0038""",,
+172,0038_1000,Keijiro Inoue,Keijiro Inoue
+173,"""0039""",,
+174,0039_1000,Ryuji Kobayashi,Ryuji Kobayashi
+175,"""0040""",SOUND,SOUND
+176,0040_1000,Hajime Wakai,Hajime Wakai
+177,0040_SPACE_02,,
+178,"""0041""",JAPANESE VOICE,JAPANESE VOICE
+179,0041_0000,Yu Shimamura,Yu Shimamura
+180,0041_0001,Kouji Takeda,Kouji Takeda
+181,0041_0002,Noboru Yamaguchi,Noboru Yamaguchi
+182,0041_0003,Mayu Isshiki,Mayu Isshiki
+183,0041_0004,Rei Shimoda,Rei Shimoda
+184,0041_0005,Hiroshi Naka,Hiroshi Naka
+185,0041_0006,Ayano Shibuya,Ayano Shibuya
+186,0041_SPACE_02,,
+187,"""0042""",TECHNICAL SUPPORT,TECHNICAL SUPPORT
+188,0042_0000,Yasuhiro Kawaguchi,Yasuhiro Kawaguchi
+189,0042_0001,Yoshito Yasuda,Yoshito Yasuda
+190,0042_0002,Mitsuo Iwamoto,Mitsuo Iwamoto
+191,0042_0003,Hideaki Hirose,Hideaki Hirose
+192,0042_0004,Takehiro Yoshida,Takehiro Yoshida
+193,0042_0005,Yoshitaka Sakamoto,Yoshitaka Sakamoto
+194,0042_0006,Kouichirou Hayashi,Kouichirou Hayashi
+195,0042_SPACE_01,,
+196,"""0043""",TESTING,TESTING
+197,0043_0000,Yasunori Shibayama,Yasunori Shibayama
+198,0043_0001,Masaharu Shima,Masaharu Shima
+199,0043_0002,Takeshi Tamura,Takeshi Tamura
+200,0043_0003,Masahiro Hara,Masahiro Hara
+201,0043_0004,Aimi Ayashiro,Aimi Ayashiro
+202,0043_0005,Tatsuro Sawada,Tatsuro Sawada
+203,0043_0006,Naoki Mizutani,Naoki Mizutani
+204,0043_0007,Rika Imaeda,Rika Imaeda
+205,0043_0008,Genji Kurita,Genji Kurita
+206,0043_0009,Shohei Zenjo,Shohei Zenjo
+207,0043_0010,Ryohei Otani,Ryohei Otani
+208,0043_0011,Seitaro Torigoe,Seitaro Torigoe
+209,0043_0012,Satoe Kunikata,Satoe Kunikata
+210,0043_0013,Shoji Matsuyoshi,Shoji Matsuyoshi
+211,0043_0014,Emiko Yanai,Emiko Yanai
+212,0043_0015,Daisuke Nishikawa,Daisuke Nishikawa
+213,0043_0016,Mami Koguchi,Mami Koguchi
+214,0043_0017,Saya Mizusawa,Saya Mizusawa
+215,0043_0018,Makoto Takeyama,Makoto Takeyama
+216,0043_0019,Yusuke Mori,Yusuke Mori
+217,0043_0020,Koichi Maruyama,Koichi Maruyama
+218,0043_0021,Shinichiro Takahashi,Shinichiro Takahashi
+219,0043_0022,Masahiro Adachi,Masahiro Adachi
+220,0043_0023,Hironori Saito,Hironori Saito
+221,0043_0024,Norihiro Furutani,Norihiro Furutani
+222,0043_0025,Ryo Nakamura,Ryo Nakamura
+223,0043_0026,Keiji Nakamura,Keiji Nakamura
+224,0043_0027,Hirotsugu Horiuchi,Hirotsugu Horiuchi
+225,0043_0028,Go Fukuma,Go Fukuma
+226,0043_0029,Susumu Nakai,Susumu Nakai
+227,0043_0030,Kenta Omura,Kenta Omura
+228,0043_0031,Yuya Nishikawa,Yuya Nishikawa
+229,0043_0032,Hideki Kawara,Hideki Kawara
+230,0043_0033,Narumi Nishiyama,Narumi Nishiyama
+231,0043_0034,Chiharu Kida,Chiharu Kida
+232,0043_0035,Yohto Yamaguchi,Yohto Yamaguchi
+233,0043_0036,Hiroyuki Sakaguchi,Hiroyuki Sakaguchi
+234,0043_0037,Asuka Kondo,Asuka Kondo
+235,0043_0038,Nozomi Murota,Nozomi Murota
+236,0043_0039,Daisuke Shono,Daisuke Shono
+237,0043_0040,Takahiro Ueda,Takahiro Ueda
+238,0043_0041,Kazuyuki Murata,Kazuyuki Murata
+239,0043_0042,Takumi Kawatani,Takumi Kawatani
+240,0043_0043,Ryoto Hayanami,Ryoto Hayanami
+241,0043_0044,Misato Kominami,Misato Kominami
+242,0043_0045,Fue Ishida,Fue Ishida
+243,0043_0046,Ryota Maeno,Ryota Maeno
+244,0043_0047,Tomoaki Kamada,Tomoaki Kamada
+245,0043_0048,Takahiro Ito,Takahiro Ito
+246,0043_0049,Masaki Miyatake,Masaki Miyatake
+247,0043_0050,Mai Kitakata,Mai Kitakata
+248,0043_0051,Koji Fujimoto,Koji Fujimoto
+249,0043_0052,Shuto Morita,Shuto Morita
+250,0043_0053,Yoshikatsu Tsumura,Yoshikatsu Tsumura
+251,0043_0054,Yudai Terada,Yudai Terada
+252,0043_0055,Kazuto Yasumoto,Kazuto Yasumoto
+253,0043_0056,Yoshino Kametani,Yoshino Kametani
+254,0043_0057,Masaki Sugita,Masaki Sugita
+255,0043_0058,Rumiko Miura,Rumiko Miura
+256,0043_SPACE_01,,
+257,"""0044""",NOA LOCALIZATION MANAGEMENT,NOA LOCALIZATION MANAGEMENT
+258,0044_0000,Nate Bihldorff,Nate Bihldorff
+259,0044_0001,Rich Amtower,Rich Amtower
+260,0044_0002,Ann Lin,Ann Lin
+261,0044_0003,Scot Ritchey,Scot Ritchey
+262,0044_0004,Reiko Ninomiya,Reiko Ninomiya
+263,0044_0005,Tim O'Leary,Tim O'Leary
+264,0044_0006,Álex Zarza,Álex Zarza
+265,0044_SPACE_01,,
+266,"""0045""",NOA LOCALIZATION,NOA LOCALIZATION
+267,0045_0000,Audrey Drake,Audrey Drake
+268,0045_0001,Billy Carroll,Billy Carroll
+269,0045_0002,César Pérez,César Pérez
+270,0045_0003,Dutch Hixenbaugh,Dutch Hixenbaugh
+271,0045_0004,Michael Benedetto,Michael Benedetto
+272,0045_0005,Raymond Elliget,Raymond Elliget
+273,0045_0006,Thaddée Wiseur,Thaddée Wiseur
+274,0045_0007,Yoriko Marusich,Yoriko Marusich
+275,0045_SPACE_01,,
+276,"""0046""",NOA PRODUCT TESTING,NOA PRODUCT TESTING
+277,0046_0000,Kentaro Nishimura,Kentaro Nishimura
+278,0046_0001,Seth Hanser,Seth Hanser
+279,0046_0002,Hitoshi Nishizawa,Hitoshi Nishizawa
+280,0046_0003,Q Dequina,Q Dequina
+281,0046_0004,Tomoko Mikami,Tomoko Mikami
+282,0046_0005,Zac Evans,Zac Evans
+283,0046_0006,Brian Carlson,Brian Carlson
+284,0046_0007,James Dillon,James Dillon
+285,0046_0008,Gene Pencil,Gene Pencil
+286,0046_0009,Madison Levitan,Madison Levitan
+287,0046_0010,David Figlar,David Figlar
+288,0046_0011,Michael Sahlin,Michael Sahlin
+289,0046_0012,Pablo Reyes,Pablo Reyes
+290,0046_0013,Sebastian Galloway,Sebastian Galloway
+291,0046_0014,Gary Meads,Gary Meads
+292,0046_0015,Brette Levitan,Brette Levitan
+293,0046_0016,Dylan Rondeau,Dylan Rondeau
+294,0046_0017,Mairo Small,Mairo Small
+295,0046_0018,Ashley Minor,Ashley Minor
+296,0046_0019,Christian Stanton,Christian Stanton
+297,0046_0020,Cody Delay,Cody Delay
+298,0046_0021,Daniel Russie,Daniel Russie
+299,0046_0022,Eric French,Eric French
+300,0046_0023,Fionna Adams,Fionna Adams
+301,0046_0024,Gabriel Vinado,Gabriel Vinado
+302,0046_0025,Jacob Tapia,Jacob Tapia
+303,0046_0026,Jamari Suazo-West,Jamari Suazo-West
+304,0046_0027,James McGovern,James McGovern
+305,0046_0028,Jonathan Szolas,Jonathan Szolas
+306,0046_0029,Owen Turner,Owen Turner
+307,0046_0030,Rylie Shatos,Rylie Shatos
+308,0046_0031,Sean Taylor,Sean Taylor
+309,0046_0032,Tyson Veatch,Tyson Veatch
+310,0046_0033,Walter Mortimore,Walter Mortimore
+311,0046_0034,Craig So,Craig So
+312,0046_0035,Jake Lokholm,Jake Lokholm
+313,0046_0036,Product Testing Technicians,Product Testing Technicians
+314,0046_SPACE_01,,
+315,"""0047""",NOA COPY EDITING,NOA COPY EDITING
+316,0047_0000,Erin Peterson,Erin Peterson
+317,0047_0001,Karina Mora,Karina Mora
+318,0047_0002,Ludovic Tientcheu Ponkin,Ludovic Tientcheu Ponkin
+319,0047_0003,Nicko Gonzalez De Santiago,Nicko Gonzalez De Santiago
+320,0047_0004,Sara Hoad,Sara Hoad
+321,0047_SPACE_01,,
+322,"""0048""",ENGLISH VOICE DIRECTOR,ENGLISH VOICE DIRECTOR
+323,0048_1000,Kris Zimmerman,Kris Zimmerman
+324,"""0049""",ENGLISH VOICE,ENGLISH VOICE
+325,0049_0000,Amelia Gotham,Amelia Gotham
+326,0049_0001,Bill Rogers,Bill Rogers
+327,0049_0002,Elizabeth Maxwell,Elizabeth Maxwell
+328,0049_0003,Joe Hernandez,Joe Hernandez
+329,0049_0004,Kate Higgins,Kate Higgins
+330,0049_0005,Patricia Summersett,Patricia Summersett
+331,0049_0006,Sean Chiplock,Sean Chiplock
+332,0049_SPACE_01,,
+333,"""0050""",NOA SPANISH VOICE DIRECTOR,NOA SPANISH VOICE DIRECTOR
+334,0050_1000,Xóchitl Ugarte,Xóchitl Ugarte
+335,"""0051""",NOA SPANISH VOICE,NOA SPANISH VOICE
+336,0051_0000,Alondra Hidalgo,Alondra Hidalgo
+337,0051_0001,Enzo Fortuny,Enzo Fortuny
+338,0051_0002,Jessica Ángeles,Jessica Ángeles
+339,0051_0003,Kerygma Flores,Kerygma Flores
+340,0051_0004,Lupita Leal,Lupita Leal
+341,0051_0005,Octavio Rojas,Octavio Rojas
+342,0051_0006,Ricardo Tejedo,Ricardo Tejedo
+343,0051_SPACE_01,,
+344,"""0052""",NOE LOCALISATION PRODUCERS,NOE LOCALISATION PRODUCERS
+345,0052_1000,Kevin Murray,Kevin Murray
+346,"""0053""",,
+347,0053_1000,Naiara Ordorika Ibarguengoitia,Naiara Ordorika Ibarguengoitia
+348,"""0054""",,
+349,0054_1000,Chihiro Ogawa,Chihiro Ogawa
+350,0054_SPACE_01,,
+351,"""0055""",NOE TRANSLATION,NOE TRANSLATION
+352,0055_0000,Araceli Mazón Figueroa,Araceli Mazón Figueroa
+353,0055_0001,Greg T. Sadownik,Greg T. Sadownik
+354,0055_0002,Grace Yon,Grace Yon
+355,0055_0003,Sabrina Jouillat,Sabrina Jouillat
+356,0055_0004,David Caussèque,David Caussèque
+357,0055_0005,Bruno Gramigna,Bruno Gramigna
+358,0055_0006,Vincenzo Russo,Vincenzo Russo
+359,0055_0007,Arne Glinka,Arne Glinka
+360,0055_0008,Sven Pötzl,Sven Pötzl
+361,0055_0009,Enrique Sánchez Rosa,Enrique Sánchez Rosa
+362,0055_0010,Cristina Solà Picas,Cristina Solà Picas
+363,0055_0011,Mark Hoefsteders,Mark Hoefsteders
+364,0055_0012,Marijke Pustjens,Marijke Pustjens
+365,0055_0013,Tatiana Dornbusch,Tatiana Dornbusch
+366,0055_0014,Dmitrii Kaloev,Dmitrii Kaloev
+367,0055_SPACE_01,,
+368,"""0056""",NOE QUALITY ASSURANCE,NOE QUALITY ASSURANCE
+369,0056_0000,Sebastian Donnerstag,Sebastian Donnerstag
+370,0056_0001,Olivier Jacquemin-Guillaume,Olivier Jacquemin-Guillaume
+371,0056_0002,Matthieu Lamouroux,Matthieu Lamouroux
+372,0056_0003,Siel Garrone,Siel Garrone
+373,0056_0004,Andrea Marino,Andrea Marino
+374,0056_0005,Zoran Tasevski,Zoran Tasevski
+375,0056_0006,Sarah Nist,Sarah Nist
+376,0056_0007,Daniel Picazo Millán,Daniel Picazo Millán
+377,0056_0008,Julio Manzaneda Medina,Julio Manzaneda Medina
+378,0056_0009,Soufian Yahyaoui,Soufian Yahyaoui
+379,0056_0010,Kristof Deboel,Kristof Deboel
+380,0056_0011,Alla Zinevych,Alla Zinevych
+381,0056_0012,Luba Dubilina,Luba Dubilina
+382,0056_SPACE_01,,
+383,"""0057""",NOE FRENCH VOICE DIRECTOR,NOE FRENCH VOICE DIRECTOR
+384,0057_1000,Nathalie Sionneau,Nathalie Sionneau
+385,"""0058""",NOE FRENCH VOICE,NOE FRENCH VOICE
+386,0058_0000,Adeline Chetail,Adeline Chetail
+387,0058_0001,Caroline Mozzone,Caroline Mozzone
+388,0058_0002,Gérard Dessalles,Gérard Dessalles
+389,0058_0003,Hervé Grull,Hervé Grull
+390,0058_0004,Jérémie Covillault,Jérémie Covillault
+391,0058_0005,Laëtitia Lefebvre,Laëtitia Lefebvre
+392,0058_0006,Valérie Bachère,Valérie Bachère
+393,0058_SPACE_01,,
+394,"""0059""",NOE ITALIAN VOICE DIRECTOR,NOE ITALIAN VOICE DIRECTOR
+395,0059_1000,Alessandro Ricci,Alessandro Ricci
+396,"""0060""",NOE ITALIAN VOICE,NOE ITALIAN VOICE
+397,0060_0000,Deborah Morese,Deborah Morese
+398,0060_0001,Martina Felli,Martina Felli
+399,0060_0002,Massimo Di Benedetto,Massimo Di Benedetto
+400,0060_0003,Natale Ciravolo,Natale Ciravolo
+401,0060_0004,Pietro Ubaldi,Pietro Ubaldi
+402,0060_0005,Sabrina Bonfitto,Sabrina Bonfitto
+403,0060_0006,Tania De Domenico,Tania De Domenico
+404,0060_SPACE_01,,
+405,"""0061""",NOE GERMAN VOICE DIRECTOR,NOE GERMAN VOICE DIRECTOR
+406,0061_1000,Sven Plate,Sven Plate
+407,"""0062""",NOE GERMAN VOICE,NOE GERMAN VOICE
+408,0062_0000,Cornelia Waibel,Cornelia Waibel
+409,0062_0001,Dirk Petrick,Dirk Petrick
+410,0062_0002,Jenny Weiss,Jenny Weiss
+411,0062_0003,Julia Casper,Julia Casper
+412,0062_0004,Nora Jokhosha,Nora Jokhosha
+413,0062_0005,Reinhard Scheunemann,Reinhard Scheunemann
+414,0062_0006,Thomas Schmuckert,Thomas Schmuckert
+415,0062_SPACE_01,,
+416,"""0063""",NOE SPANISH VOICE DIRECTOR,NOE SPANISH VOICE DIRECTOR
+417,0063_1000,Guillermo Reinlein,Guillermo Reinlein
+418,"""0064""",NOE SPANISH VOICE,NOE SPANISH VOICE
+419,0064_0000,Domènec Farell,Domènec Farell
+420,0064_0001,Laura Monedero,Laura Monedero
+421,0064_0002,Marcel Navarro,Marcel Navarro
+422,0064_0003,Maribel Pomar,Maribel Pomar
+423,0064_0004,Marta Barbará,Marta Barbará
+424,0064_0005,Nerea Alfonso,Nerea Alfonso
+425,0064_0006,Ramón Canals,Ramón Canals
+426,0064_SPACE_01,,
+427,"""0065""",NOE RUSSIAN VOICE DIRECTOR,NOE RUSSIAN VOICE DIRECTOR
+428,0065_1000,Anastasiya Biryukova,Anastasiya Biryukova
+429,"""0066""",NOE RUSSIAN VOICE,NOE RUSSIAN VOICE
+430,0066_0000,Alexander Gruzdev,Alexander Gruzdev
+431,0066_0001,Anastasiya Shestovskaya,Anastasiya Shestovskaya
+432,0066_0002,Maria Ivaschenko,Maria Ivaschenko
+433,0066_0003,Natalya Gracheva,Natalya Gracheva
+434,0066_0004,Nikita Prozorovsky,Nikita Prozorovsky
+435,0066_0005,Nikolay Bystrov,Nikolay Bystrov
+436,0066_0006,Veronika Sarkisova,Veronika Sarkisova
+437,0066_SPACE_02,,
+438,"""0067""",PRODUCTION ASSISTANT,PRODUCTION ASSISTANT
+439,0067_1000,Kango Hokama,Kango Hokama
+440,0067_SPACE_01,,
+441,"""0068""",ASSOCIATE MANAGEMENT,ASSOCIATE MANAGEMENT
+442,0068_1000,Shigekazu Yamada,Shigekazu Yamada
+443,"""0069""",,
+444,0069_1000,Norihiro Takami,Norihiro Takami
+445,"""0070""",,
+446,0070_1000,Hiroshi Uchiyama,Hiroshi Uchiyama
+447,0070_SPACE_01,,
+448,"""0071""",ASSISTANT PRODUCER,ASSISTANT PRODUCER
+449,0071_1000,Makoto Miyanaga,Makoto Miyanaga
+450,0071_SPACE_02,,
+451,"""0072""",SPECIAL THANKS,SPECIAL THANKS
+452,0072_0000,Takumi Kawagoe,Takumi Kawagoe
+453,0072_0001,Tomoe Aratani,Tomoe Aratani
+454,0072_0002,Mahito Yokota,Mahito Yokota
+455,0072_0003,Hirohide Sugiura,Hirohide Sugiura
+456,0072_0004,Tomohiro Hagiwara,Tomohiro Hagiwara
+457,0072_0005,Yasuyuki Honne,Yasuyuki Honne
+458,0072_0006,Makoto Seki,Makoto Seki
+459,0072_0007,Haruyasu Akagi,Haruyasu Akagi
+460,0072_0008,Koichi Kishimoto,Koichi Kishimoto
+461,0072_0009,Taiyo Sato,Taiyo Sato
+462,0072_0010,Hiroki Yoshioka,Hiroki Yoshioka
+463,0072_0011,Takahiro Tsuzuki,Takahiro Tsuzuki
+464,0072_0012,Jeff Miller,Jeff Miller
+465,0072_0013,Breath of the Wild Staff,Breath of the Wild Staff
+466,0072_SPACE_01,,
+467,"""0073""",,
+468,0073_1000,"SRD Co., Ltd.","SRD Co., Ltd."
+469,"""0074""",,
+470,0074_1000,MONOLITHSOFTWARE INC.,MONOLITHSOFTWARE INC.
+471,"""0075""",,
+472,0075_1000,anima Inc.,anima Inc.
+473,"""0076""",,
+474,0076_1000,AnimationCafe INC.,AnimationCafe INC.
+475,"""0077""",,
+476,0077_1000,Digital Frontier Inc.,Digital Frontier Inc.
+477,"""0078""",,
+478,0078_1000,"Graphinica, Inc.","Graphinica, Inc."
+479,"""0079""",,
+480,0079_1000,quack-luck Inc.,quack-luck Inc.
+481,"""0080""",,
+482,0080_1000,"Mario Club Co., Ltd.","Mario Club Co., Ltd."
+483,"""0081""",,
+484,0081_1000,"DIGITAL Hearts Co., Ltd.","DIGITAL Hearts Co., Ltd."
+485,"""0082""",,
+486,0082_1000,"Kenproduction Co., Ltd.","Kenproduction Co., Ltd."
+487,"""0083""",,
+488,0083_1000,"ARTSVISION Co.,Ltd.","ARTSVISION Co.,Ltd."
+489,"""0084""",,
+490,0084_1000,Ventuno Inc.,Ventuno Inc.
+491,"""0085""",,
+492,0085_1000,Face Music,Face Music
+493,"""0086""",,
+494,0086_1000,Formosa Group,Formosa Group
+495,"""0087""",,
+496,0087_1000,KiteTeam a Keywords Studio,KiteTeam a Keywords Studio
+497,"""0088""",,
+498,0088_1000,SIDE UK,SIDE UK
+499,0088_SPACE_03,,
+500,"""0089""",PRODUCER,PRODUCER
+501,0089_1000,Eiji Aonuma,Eiji Aonuma
+502,0089_SPACE_03,,
+503,"""0090""",GENERAL PRODUCER,GENERAL PRODUCER
+504,0090_1000,Shinya Takahashi,Shinya Takahashi
+505,0090_SPACE_03,,
+506,"""0091""",EXECUTIVE PRODUCERS,EXECUTIVE PRODUCERS
+507,0091_1000,Tatsumi Kimishima,Tatsumi Kimishima
+508,"""0092""",,
+509,0092_1000,Shigeru Miyamoto,Shigeru Miyamoto

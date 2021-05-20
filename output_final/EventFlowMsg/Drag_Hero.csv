@@ -1,0 +1,479 @@
+#,Title,JPja,USen
+1,"""0002""",情報？,What info?
+2,"""0003""",さよなら,Good-bye.
+3,"""0004""",綺麗ですね！,You're very beautiful!
+4,"""0005""",男じゃないの？,You're...a man?
+5,"""0008""",商人,A merchant.
+6,"""0009""",旅人,A traveler.
+7,"""0010""",潜入した男がいるらしい,A man snuck in...
+8,"""0011""",さよなら,Good-bye.
+9,"""0016""",買いたいです,I want to buy.
+10,"""0017""",売りたいです,I want to sell.
+11,"""0018""",男の商人のこと教えて,Seen a sneaky guy?
+12,"""0019""",なんでもないです,Nothing.
+13,"""0020""",のぞき？,Are you spying?
+14,"""0021""",さよなら,Good-bye.
+15,"""0022""",また のぞき？,Still spying?
+16,"""0023""",さよなら,Good-bye.
+17,"""0024""",売ってください,Please sell me one.
+18,"""0025""",大切にしまってます,I'm taking care of it.
+19,"""0030""",欲しい！,I'll take them!
+20,"""0031""",いらない…,"No, thanks..."
+21,"""0032""",顔をじっと見つめる,*study her face*
+22,"""0033""",身体つきを観察する,*squint suspiciously*
+23,Npc_SmallOasis003_S1_001,"……
+
+あら…
+
+ヴァーサーク","...
+Oh...
+Vasaaq."
+24,Npc_SmallOasis003_S1_004,"ヴォーイの商人？
+見たことないですね
+ヴァーイの商人なら
+いつも屋上で涼んでますけどね
+昼だと よけい暑いと思いますけどね…","A sneaky what? You mean a voe,
+sneaking around town? I haven't seen
+anyone like that.
+There's a Hylian vai who likes to relax
+on the roof. Though in the afternoon, it's
+probably too hot up there."
+25,Npc_SmallOasis003_S1_006,…まだ何かご用でしょうか？,Did you need anything else?
+26,Npc_SmallOasis005_F_003,！！,WOW!
+27,Npc_SmallOasis005_F_004,"カワイイ…
+
+こ こんな場所に女性が一人でいるなんて…
+砂漠は危険ですからね
+危なくなったら
+遠慮なくボクを頼ってくださいね！","So cute...
+
+
+Oh, my. Please excuse my rudeness. Are
+you all by yourself in a place like this?
+The desert is quite dangerous, you know.
+If you feel even the slightest twinge of
+fear, you can count on me to help, OK?"
+28,Npc_SmallOasis005_R_005,"やぁ…
+
+えっと…
+キミは…","Hey...
+
+
+Um...
+You're...?"
+29,Npc_SmallOasis005_R_006,"そうなんだ
+じゃあ ボクらと同じだね
+でも…
+ということは…
+キミもここで足止めくってるってわけだ…","Oooh, I see. So you're just like us.
+
+
+But then, that must mean... Are you also
+stranded out here?"
+30,Npc_SmallOasis005_R_007,"今 ボクらの隊長がゲルドの街まで行って
+中に入る方法を調べてるんだけどさ…
+いつまで経っても帰ってこないってことは
+きっと上手くいってないんだろうなぁ…","Our leader went to Gerudo Town to try to
+figure out how we can get inside...
+
+But he hasn't come back yet. I imagine
+he isn't having a ton of luck..."
+31,Npc_SmallOasis005_R_009,"そうなんだ
+ボクらは商人でね","Oh, I see. Well, we're merchants."
+32,Npc_SmallOasis005_R_010,"ボクらも本当は あそこのゲルドの街まで行って
+交易をしたかったんだけど…
+あの街は女性しか入れないらしいんだ…
+せっかく ここまで来たのにさ…","We wanted to make it to Gerudo Town
+to sell our goods, but we were stopped
+before we could go in.
+Apparently they only let women into that
+town... And to think we came all the
+way out here..."
+33,Npc_SmallOasis005_R_011,"本当は あそこのゲルドの街まで行って
+交易をしたかったんだけど…
+あの街は女性しか入れないんだ…
+せっかく ここまで来たのにさ…","We wanted to make it to Gerudo Town
+to sell our goods, but we were stopped
+before we could go in.
+They only let women into that town...
+And to think we came all the way out
+here..."
+34,Npc_SmallOasis005_R_012,"男性の商人は足止めだし
+旅人は神獣のせいで足止めだし…","Male merchants can't go to town, and
+most travelers can't go farther because
+of the Divine Beast..."
+35,Npc_SmallOasis005_R_013,"近くて遠いってのは
+まさにゲルドの街のことだよ","So close, and yet so far. Nothing has
+described Gerudo Town more accurately."
+36,Npc_SmallOasis005_R_014,"交渉に行ってる隊長も
+ゲルドの街から戻ってこないし…
+きっと…
+上手くいってないんだろうなぁ…","Our caravan leader went to Gerudo Town
+to negotiate, but he hasn't come back
+yet..."
+37,Npc_SmallOasis005_R_015,"…たいちょぉ
+もう帰りましょうよぉ…",Bossssss...
+38,Npc_SmallOasis005_S1_001,"隊長…""ゲルドの街から帰ってくる気配が
+まったくないんだけど…大丈夫かなぁ…","Our boss... I get the feeling that he isn't
+coming back from Gerudo Town anytime
+soon... I hope he's OK..."
+39,Npc_SmallOasis005_S1_002,"えっ
+
+ゲルドの街の潜入に成功した男性がいたって？
+
+その人がカラカラバザールにいるって？
+
+隊長がそう言ってたなら
+そうなんだろうけど…
+そんな人
+見かけなかったけどなぁ…
+見慣れない ハイリア人のお姉さんなら
+よろず屋さんで見たけど…
+そのお姉さんはゲルドの衣装を着てたんだけど
+どこで買ったんだろう…
+もしかしたら ボクもそれを着れば…
+
+はは…
+さすがにそんな簡単にはいかないか","Wha— There's a man who got into
+Gerudo Town?
+
+And the boss says he comes here to the
+Kara Kara Bazaar?
+
+I guess it must be true if the boss
+said so...
+
+But I've never seen anyone around here
+who strikes me as a super sneaky guy...
+
+There was that pretty Hylian gal at the
+general store. It's unusual to see a
+Hylian girl dressed like a Gerudo...
+Her Gerudo clothes—I wonder where she
+bought them... Maybe if I wore those
+clothes...
+Ha, nah. I'm so out of my element with
+all this sneaky stuff."
+40,Npc_SmallOasis005_S1_003,こりゃ今日も帰ってこないだろうなぁ…,"It doesn't seem like he'll be coming back
+today, either..."
+41,Npc_SmallOasis005_S1_004,"ゲルドの街に潜入した男かぁ
+
+怪しい男なんて見なかったなぁ…
+
+ゲルド族の衣装を着た
+ハイリアのお姉さんならよろず屋で見たけど
+あの衣装さえ手に入ったら
+ボクもそれを着て…
+はは…
+まぁ さすがにそれは無理があるか","You hear that a man somehow made
+his way into Gerudo Town?
+
+I haven't seen any suspicious guys
+around here, though...
+
+Although I did see a pretty Hylian gal
+wearing Gerudo clothes at the
+general store, which was unusual...
+I wonder if just wearing different clothes
+would allow someone...
+
+Ha! Never mind. No one would ever
+be that crazy!"
+42,Npc_SmallOasis005_S1_005,"こうなったら…女装してでも…
+ゲルドの街に… はい… る… ぞ…","Darn it... I'll make sure to get into Gerudo Town...
+Even if it means dressing like a woman...
+No... Matter... What..."
+43,Npc_SmallOasis005_S1_006,"隊長…""ゲルドの街から帰ってくる気配が
+まったくないんだけど…大丈夫かなぁ…","Our leader... I get the feeling he's not
+coming back from Gerudo Town anytime
+soon... I hope he's OK."
+44,Npc_SmallOasis006_F_001,"ぐぬぬ…潜入に成功した男とは
+一体 ドイツなのだ！
+こんなに覗いて…調査しているのに
+なんで通らんのだ！！","Grrr... Who do you think the man who
+snuck into this town was, anyway?!
+
+Why are you looking at me like that?
+I'm just trying to gather more info!"
+45,Npc_SmallOasis006_F_002,"やや…？！ ややややや…！！
+
+吾輩好みの可憐なお嬢さん…！！","Eep?! Eeeeeeek!!
+
+
+That lovely young lady is just my type..."
+46,Npc_SmallOasis006_F_003,"なな…？！ ななななな…！！
+
+ちちちち違いますぞ！
+こここ これは調査でありまして！！
+…ん？ このやりとり
+前にもどこかで…","Wh-what?! N-n-n-n-no!!
+O-o-o-o-o-of course not!
+I-I-I'm just investigating!!
+Hm? This exchange feels incredibly familiar to me..."
+47,Npc_SmallOasis006_F_004,"ええええええ…！
+
+もう終わり？","WHAAAAAAT?!
+
+
+Is it already over?"
+48,Npc_SmallOasis006_Near_001,どうしたものか…,What's the deal?
+49,Npc_SmallOasis006_R_101,"おお見知らぬ青年！
+吾輩に何か用かな？","Oh, I was so focused just now...
+Do you have business with me?"
+50,Npc_SmallOasis006_R_102,"なんでも その男はカラカラバザールと
+ゲルドの街を行き来しているというので
+吾輩は その男をここで待っているのだ！","I heard that man is frequently traveling
+between Kara Kara Bazaar and
+Gerudo Town.
+I've been waiting here, trying to spot
+him as he travels!"
+51,Npc_SmallOasis006_R_103,"なに？ ここまで聞いておいて
+何も聞かずに立ち去るのか？
+遠慮はいらない！
+
+吾輩の武勇伝を聞いていきなさい！","What? You went out of your way to have
+a conversation with me, but you'll leave
+without hearing what I have to say?
+Don't act so rashly! You must hear my
+heroic tale before you go!"
+52,Npc_SmallOasis006_R_104,"ち違うぞ！
+断じて違うぞ！！
+吾輩は商人だ！
+これでも キャラバンの隊長をしているのだ！
+遥々旅をして来たというのに
+男は街に入れない決まりらしく
+一歩も入れて貰えず
+困っていたのだ！
+そ… それで仕方なくだな…","What?! N-no! I'm not a spy!
+
+
+I'm a merchant! I may not look like it, but
+I'm actually the leader of a caravan!
+
+I've traveled all the way here, but this
+town doesn't allow men to go in. 
+So...that's why I...had to...um..."
+53,Npc_SmallOasis006_R_105,"調査と言え！
+調査と！！
+まあ なんと言われようが
+吾輩はやっと
+ゲルドの街に潜入するための情報を
+つかんだのだ！""","It's research!
+RESEARCH!
+
+And think what you want, but I've finally
+found some key info on how to
+sneak into Gerudo Town!"
+54,Npc_SmallOasis006_R_106,"ここに来てから
+もう一週間近く…
+コッソリ入ろうとして
+警備兵に追い出されたこと数知れず…
+吾輩何度心が折れそうになったことか…
+
+しかしだ！！
+
+その厳重な警備をかいくぐって
+街に潜入した男がいるらしいのだ！","It's been close to a week now...
+The guards have kicked me out more
+times than I can count...
+I almost gave up hope...
+
+
+HOWEVER!!
+
+
+I have learned only recently of a man 
+that slipped into this well-guarded town!"
+55,Npc_SmallOasis006_R_107,"ふふふ… では話してあげよう！
+吾輩の武勇伝を！","Heheheh... Well, allow me to share
+with you...my heroic tale!"
+56,Npc_SmallOasis006_R_108,"おいおい！
+待て待て！！
+人をのぞき魔呼ばわりしといて
+それはないだろ！！
+吾輩はゲルドの街に潜入するため
+毎日調査に はげんでいたのだ！
+そして とうとう
+ある情報をつかんだのだ！""","Hey! Hold on, hold on! You can't just run
+off like that!
+
+I've worked really hard to get info on
+getting into Gerudo Town, and I have to
+share the fruits of my labors! I gotta!"
+57,Npc_SmallOasis006_R_109,"青年もゲルドの街に潜入する方法を
+探してたんじゃないのか？
+それ以外に男がここにいる意味なんて
+ないと思っていたが…","Hang on! You must have needed
+something! Maybe you were looking
+for a way to sneak into Gerudo Town?
+I can't think of a single other reason for
+a man to be here..."
+58,Npc_SmallOasis006_S1_001,"なんでも
+ゲルドの街に潜入したその男は
+この街とカラカラバザールを
+行き来しているらしい
+吾輩は その男をここで待ち
+潜入方法を聞き出すという
+画期的 かつ効率的な作戦を
+遂行しているところなのだ！","I hear the man who infiltrated
+Gerudo Town is frequently traveling
+between Kara Kara Bazaar and here.
+So I'm waiting for him. I plan on asking
+him how he pulls off his amazing
+infiltration. My plan is flawless!"
+59,Npc_SmallOasis008_F_008,"あの砂嵐を纏った巨大な化物…
+確か…神獣っていったかしら…
+しばらく前からゲルド砂漠のあちこちを
+徘徊するようになったそうだけど…
+一体何物なのかしら？
+
+ゲルドの街の族長が アレを鎮めるために
+頭を悩ませてるって聞いたけど
+確かに あんなのが街に来たんじゃ
+ひとたまりもないわよね","That giant monster cloaked in the
+sandstorm... If I recall correctly, it's
+called a Divine Beast...
+I hear it started wandering the
+Gerudo Desert several weeks ago. 
+I wonder what it is exactly...
+Apparently the chief of Gerudo Town is
+having a lot of trouble figuring out how
+to handle the situation.
+One thing's for sure—they'd be helpless
+if the Divine Beast headed for town."
+60,Npc_SmallOasis008_F_009,"あんなのが街に来ちゃったら
+ひとたまりもないわよね…
+ゲルドの街の族長が アレを鎮めるために
+頑張ってるって聞いたけど…
+ナントカするって言ってもねぇ…","They'd be completely helpless if that
+beast headed straight for town—that's
+for sure.
+I heard the chief of Gerudo Town is
+trying her best to come up with a way to
+deal with it, but..."
+61,Npc_SmallOasis008_F_010,"それにしても よく似合ってるわね！
+それならこの辺りじゃ誰が見たってイイ女よ♪","That being said... You look adorable!
+With those clothes, anyone around here
+might think you're a nice girl!"
+62,Npc_SmallOasis008_F_011,"… ところでアナタ
+
+ワタシが渡した
+淑女の服はどうしたの？","By the way...what happened to the
+Gerudo outfit I gave to you?"
+63,Npc_SmallOasis008_F_012,"ボウヤ… ゲルドの街に入りたいんでしょ？
+
+そんな恰好してちゃ
+すぐに追い出されちゃうわよ
+とっても似合ってるんだから
+恥ずかしがらずに… ね","My dear boy... You really do want to get
+inside Gerudo Town, don't you?
+
+They'll spot you in a heartbeat if you
+don't dress yourself up.
+
+Those traditional clothes really do look
+good on you. Don't be so shy about
+wearing them, OK?"
+64,Npc_SmallOasis008_S1_001,"あら…可愛らしい坊やだこと
+ワタシに何か ご用かしら？","Oh, my. What a lovely young lad you are.
+Do you need something from me?"
+65,Npc_SmallOasis008_S1_002,"まぁ嬉しいこと言ってくれるのね！
+この衣装も とても素敵でしょう？
+…でもね アナタもこういう衣装を着たら
+結構イケる口だと思うのよ
+ちょっと値は張るけど
+きっと世界が変わって見えるわよ…
+…どうかしら？
+600ルピーで買ってみない？","Oh, such a nice thing to say! And I'm
+sure you'd agree that these clothes only
+help my looks, right?
+Now that I think about it, this style
+would look quite fetching on you...
+
+I'd have to charge you, of course, but I
+bet people would see you completely
+differently if you wore them!
+What do you think? Do you want to
+buy them for...600 rupees?"
+66,Npc_SmallOasis008_S1_003,"あら… アナタまだゲルドの街に潜入した
+男性商人のこと諦めてないの？
+知らないって言ってるのに
+アナタも懲りないわねぇ","Well, well... You still haven't given up on
+your search for the man who snuck into
+Gerudo Town?
+I told you I didn't know anything.
+Do you always doubt someone's word?"
+67,Npc_SmallOasis008_S1_004,"…え？ゲルドの街に潜入した
+男性の商人を知らないか ですって？
+さあ知らないわ…
+お役に立てなくて ごめんなさいね","What's that? You've heard about a man
+who snuck into Gerudo Town?
+
+Oh, I don't know anything about him...
+Sorry I couldn't be more help."
+68,Npc_SmallOasis008_S1_007,"ウフフ… そんな風に見つめられたら
+恥ずかしいじゃない…","Heehee... You're making my cheeks warm
+looking at me like that."
+69,Npc_SmallOasis008_S1_008,"ふぅん…坊やって おかしなこと言うのね
+さぁ用がないなら帰って頂戴","Oh, my! You sure say the funniest things,
+young man. Anyway, if you don't need
+anything, you should be off, then."
+70,Npc_SmallOasis008_S1_009,"イヤ～～～～ン♪
+
+可愛いじゃない～～～～！！","♪Eeeeeeeee!♪
+
+
+You look adorable!!"
+71,Npc_SmallOasis008_S1_011,"ウフフ…思ってた通りだわ
+イイ女になったじゃない
+この辺りだったら その服を着てたら
+誰もアナタが男だなんて思わないはずよ！
+それに その服はゲルドの民族衣装だけあって
+とっても涼しいの！！
+砂漠の暑さも
+その服があれば ある程度しのげるわよ！","Ahhh heeheehee... Just as I thought! You
+make for quite a good-lookin' gal. That's
+a traditional Gerudo outfit.
+It's such a striking look around here, I
+doubt anyone would even suspect that
+you're a man!
+On top of that, it breathes so well that
+it's sure to help you deal with the
+desert heat... At least a little!"
+72,Npc_SmallOasis008_S1_012,"…
+
+ウフフ…風には十分気をつけてね","...
+
+
+Heh... Make sure you watch out for
+the wind."
+73,Npc_SmallOasis008_S1_014,"本当にいいもの見せてもらったわ
+どうもありがとう またいらっしゃい",I'm so glad I was able to help you out.
+74,Npc_SmallOasis008_S1_015,"取引き成立ね！
+それじゃ お代をいただくわよ","It's a deal, then! I'll take your
+rupees now."
+75,Npc_SmallOasis008_S1_016,"ウフフ… アナタにピッタリの服を選んだわ
+さぁ今すぐこれを着てみてちょうだい
+大丈夫後ろ向いててあげるから…","Heehee... I have the perfect outfit
+for you! Go ahead and change into it
+right now. Don't worry. I'll look away..."
+76,Npc_SmallOasis008_S1_017,"あら…ルピーが足りないみたいね…
+地獄の沙汰も金次第っていうし…
+余計なお世話かもしれないけど普段から
+もう少し貯めておいた方がいいんじゃない？","Oh, dear... You don't appear to have
+enough rupees...
+
+Money talks, as they say. You should
+really make it a habit to have a nice little
+nest egg with you."
+77,Npc_SmallOasis008_S1_018,"あら残念だわ…
+気が変わったら教えてちょうだいね","Oh, dear. That's too bad. Let me know
+if you change your mind."
+78,Npc_SmallOasis008_S1_019,"ボーイフレンドになってくれるなら
+いつでも歓迎するわよ","If you're free to grab something to eat
+sometime, keep me in mind..."
+79,Npc_SmallOasis008_S1_020,イヤ～～～ン！！,Hrrrrrrrnnngh!
+80,Npc_SmallOasis008_S1_021,"また女装したくなったら
+いらっしゃい…","If you want to get more lady's clothing,
+come back anytime..."
+81,Npc_SmallOasis008_S1_Near_001,ウフフフ…,Heeheehee...

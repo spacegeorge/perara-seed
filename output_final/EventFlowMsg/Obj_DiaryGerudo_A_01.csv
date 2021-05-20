@@ -1,0 +1,84 @@
+#,Title,JPja,USen
+1,"""0000""",最初のページ,First page.
+2,"""0001""",最後のページ,Last page.
+3,"""0002""",やめておこう,Don't read.
+4,"""0003""",次のページへ,Next page.
+5,"""0004""",前のページ,Previous page.
+6,"""0005""",読むのを止める,Done.
+7,DiaryFirst,雪山の日誌を読みますか？,Read the Mountain Peak Log?
+8,talk00,"ゲルドの雪山に眠る勇者の試練
+その調査の記録を ここに記す","This is a log of my findings concerning
+the shrine that sleeps on a snowy
+Gerudo peak."
+9,talk01,"調査開始一日目
+
+私は古い文献に書いてあった
+勇者の試練を調査するため
+この雪山に やってきた
+
+文献にはこう書かれていた
+
+『ゲルドの雪山の台座に
+勇者の試練が眠る』
+私はついに文献に書かれていた
+台座の元へ辿り着いた","Discovery Log: Day One
+
+
+I come to this snowy mountain intending
+to find the ancient shrine that was
+written about in an old text.
+\""The shrine slumbers near the pedestal
+on a snowy Gerudo peak.\""
+
+I believe I've arrived at the pedestal
+mentioned in the passage."
+10,talk02,"調査開始七日目
+
+雪山で台座を発見してから早七日
+調達した食糧が もう底を尽きようとしている
+現地調査の甲斐あってか文献の中に謎を解く
+鍵となりそうな記述がある事に気が付いた
+『雪山の台座が光る時
+台座の中心に闇の塊を灯せ』
+この七日間の調査で台座が特定の時間だけ
+淡い光を放つ事は すでに気づいていたが
+「闇の塊を灯せ」 という事が何を指すのか
+全く見当がついていない","Discovery Log: Day Seven
+
+
+It's been seven days since I arrived at
+the pedestal mentioned in the ancient
+texts.
+Unfortunately, I'm eating through my
+food provisions more quickly than I
+anticipated.
+On a brighter note, I've found an
+explanation in the source text that may
+be the key to this riddle.
+\""When the snowy mountain pedestal
+glows, cast a cold shadow onto its core.\""
+
+I noticed a faint glow to the pedestal for
+a short while each day. But how to
+\""cast a cold shadow onto its core\""...?
+It seems that this calls for further
+research here.
+"
+11,talk03,"調査開始…何日目になったのだろうか
+
+どうやら私は台座に隠された真実に
+あと一歩の所まで迫っているようだ
+しかし食糧が底をついてしまった今
+これ以上調査を続ける事は不可能だ
+「闇」とは「影」……","Discovery Log: Day... I've lost count.
+
+
+I can feel that I'm a hair's breadth away
+from unlocking the secrets hidden within
+the pedestal.
+I'm certain that \""casting\"" and \""cold\""
+refer to using a specific type of shadow.
+
+But I've run out of food entirely, and I
+doubt now that I ever had the tools to
+do the job...whatever they might be."

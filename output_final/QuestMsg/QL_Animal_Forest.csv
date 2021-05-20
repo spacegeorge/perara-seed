@@ -1,0 +1,31 @@
+#,Title,JPja,USen
+1,QL_Animal_Forest_Desc,"『命芽吹く緑の大地馳せるは二本の槍を携えし獣
+ その獣に跨る時勇者の試練が姿を現す』
+
+カッシーワから教えてもらった
+古の詩の謎を解き勇者の試練を見つけ出そう","\""A beast that wears a crown of bone,
+Prancing through the lush green.
+Mount the beast upon its throne, 
+For only then the shrine is seen.\""
+
+This is a song that Kass sang.
+Solve the song's riddle to find the
+shrine."
+2,QL_Animal_Forest_Finish,"『命芽吹く緑の大地馳せるは二本の槍を携えし獣
+ その獣に跨る時勇者の試練が姿を現す』
+
+二本の槍携えし獣とは ヤマシカのことだった
+
+ヤマシカに跨ってレリーフに乗り
+古代の祠を出現させた！","\""A beast that wears a crown of bone,
+Prancing through the lush green.
+Mount the beast upon its throne, 
+For only then the shrine is seen.\""
+
+The beast wearing a crown of bone was a
+mountain buck.
+
+As the song instructed, being atop a mountain
+buck while it stood on the pedestal caused the
+shrine to appear."
+3,QL_Animal_Forest_Name,二本槍の獣,The Crowned Beast

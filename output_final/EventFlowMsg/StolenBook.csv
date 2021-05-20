@@ -1,0 +1,674 @@
+#,Title,JPja,USen
+1,"""0000""",どうしたの？,What's wrong?
+2,"""0001""",元気出して,Keep your chin up.
+3,"""0002""",誰が通ったの？,Who came by?
+4,"""0003""",さよなら,Good-bye.
+5,"""0005""",宝珠はどこ？,Where's the heirloom?
+6,"""0006""",村人は通ったの？,Villagers?
+7,"""0007""",何してるの？,What are you doing?
+8,"""0008""",夜は何してる？,Nighttime activities?
+9,"""0009""",盗んだ？,Did you steal it?
+10,"""0010""",宝珠盗んだ？,Did you steal it?
+11,"""0011""",…ですね,...Right.
+12,"""0012""",宝珠盗んでない？,So... Did you steal it?
+13,"""0013""",さよなら,Sorry for your loss...
+14,Near00,じいさんは行ったかの,Is my old man gone?
+15,Near01,自然に しとかんとな,Just act naturally...
+16,Near02,ここまでくれば…,I made it this far...
+17,Near03,ふぅ…,Phew...
+18,Npc_Assassin_0,"クックックッ怖い顔ですねぇ…思った通り この宝珠は アナタたちの村にとって
+相当大切な物らしいですねぇ","Heh... Such anger.It seems this thing is truly special to the
+fools of this village."
+19,Npc_Assassin_1,"そんな大きな声を出さなくても
+私は ここにいますよ",You don't have to shout. I'm right here.
+20,Npc_Assassin_2,"おやおや その言葉は心外ですね～先に組織を抜けたいと言ったのは
+ドゥラン… アナタではないですか？
+組織を抜けるということが どういうことか…
+アナタが一番 ご存じなはずでは？","Don't play dumb, Dorian.You knew what you were getting yourself
+into when you decided to leave the
+organization.
+You forfeited your life the moment you
+left."
+21,Npc_Assassin_3,"しかし…
+アナタは最後に いい仕事をしてくれました","You did well to tell us about
+the heirloom."
+22,Npc_Assassin_4,"アナタの始末は後回しです
+…まずは","Unfortunately, your usefulness has come
+to an end, as must you. But first..."
+23,Npc_Assassin_5,"そちらに隠れている剣士様の
+お命からいただくとしましょう！",It appears we have an audience!
+24,Npc_Assassin_6,"そちらに隠れている剣士様の
+お命からいただくとしましょうか…
+我が主の恨みも…
+しっかり晴らさせていただきますよ","It appears we have an audience!
+
+
+FOR MY FALLEN MASTER!"
+25,Npc_Kakariko002_Near,とんでもないことに…,This is awful...
+26,Npc_Kakariko002_R_001,"リンク様…ちょっと目を離した隙に…パーヤは…
+パーヤは どうすれば…","Link...I swear I only took my eyes off it for a
+second!What should I...
+What should I do?"
+27,Npc_Kakariko002_R_002,"宝珠が…宝珠が盗まれてしまったのです…やっと… やっと あの宝珠の謎が
+わかったところ でしたのに…","The Sheikah heirloom...The heirloom has been stolen!And just when I had finally discovered
+the heirloom's secret..."
+28,Npc_Kakariko002_R_003,"元気なんかでるわけが
+ないじゃないですか！
+宝珠が…宝珠が盗まれてしまったのです…やっと… やっと あの宝珠の謎が
+わかったところ でしたのに…","Keep my chin up?
+Do you even realize how bad this is?!
+
+The Shiekah heirloom...The heirloom has been stolen!And just when I had finally discovered
+the heirloom's secret."
+29,Npc_Kakariko002_R_004,"『この宝珠に認められし者
+古の加護をうけん』パーヤはのう…
+この宝珠に認められし者とは其方のことだと
+寝る間も惜しんで
+宝珠の謎を調べておったのだ
+そして古の加護とは村の高台にあるような
+古代の祠のことであり…
+そしてまた あの宝珠は
+祠を開く鍵であることをつきとめ
+それらを其方に伝えるべく
+待っていた矢先に…このようなことに…","\""The hero, as chosen by the Sheikah
+heirloom, will be gifted the blessing
+of antiquity.\""Paya thinks \""The hero, as chosen by the
+Sheikah heirloom\"" is you, so she stayed
+up all night researching the heirloom.
+She came to the conclusion that
+\""the blessing of antiquity\"" refers to
+one of those ancient shrines.
+And that the heirloom is the key that
+opens the shrine.
+
+And just before we were able to tell
+you this, the thing is stolen!"
+30,Npc_Kakariko002_R_006,"パーヤは朝から夕刻まで
+毎日宝珠を磨いておりました…
+闇夜に乗じて何者かが忍びこんだことは
+間違いないのですが…
+ここは部外者は入れぬ場所…この村に… そのようなことをする者は
+おらぬと信じてはおりますが…","I had been cleaning the heirloom
+regularly every day from morning
+to dusk.
+Someone must have stolen it during 
+the deepest hour of the night.
+
+This place is off-limits to outsiders...And no one from the village would do
+such a thing! Would they?"
+31,Npc_Kakariko002_R_008,"パーヤは毎日宝珠を磨いておりました
+盗人は闇夜に乗じ忍び込んだに違いありません…
+ドゥランやボガードにも確認いたしましたが
+村人以外は見かけていないと…
+しかし… この村にそのようなことをする者が
+いるとは思えませんし…
+それよりも宝珠がなくなって
+まだ間ものうございます
+盗人は まだ近くに潜んでいるかもしれませぬ夜に怪しい動きをする者を見つけられても
+決して近づかれませぬよう…","I clean the heirloom during the day,
+so the thief must have snuck in
+at night.
+I checked with Dorian and Cado, but
+they've only seen other villagers around.
+
+And I can't think that anyone in this
+village would do something like this.
+
+Since the heirloom was stolen recently,
+the thief could still be hiding nearby.Just to be safe—if you see someone
+acting suspiciously at night,
+don't approach them."
+32,Npc_Kakariko002_R_009,"悪意を持った者が この神聖な場に…
+祖母が無事であったのは何よりですが
+パーヤは…
+パーヤは恐ろしゅうございます…","Someone with evil intent came into this
+sacred place.
+
+I'm glad Grandmother is safe, but I still
+feel so...violated."
+33,Npc_Kakariko002_R_010,"リンクよ… パーヤはすっかりおびえておる
+賊もまだ近くにいるやもしれん…
+しばらくは パーヤの側にいてくれぬか…","Link... Paya is afraid that the thief may
+still be nearby. Would you please stay by
+her side today?"
+34,Npc_Kakariko002_R_011,"…リンク様…
+ありがとうございました
+リンク様が一日中側にいてくださったおかげで
+私も盗人に立ち向う勇気が湧いてまいりました
+泣いてばかりは いられませんね…
+
+ドゥランやボガードにも確認いたしましたが
+村人以外は見かけていないと…
+私も宝珠が盗まれた あの夜のことを
+もう一度思い出してみようと思いますが
+盗人は まだ近くに潜んでいるかもしれません夜に怪しい動きをする者を見つけられても
+決して近づかれませぬよう…","Master Link...
+
+
+Thank you for staying by my side for the
+whole day.
+
+I see now that crying and feeling scared
+won't help us get the heirloom back.
+
+I checked with Dorian and Cado, but they
+said they didn't see anyone other than
+villagers around.
+I'll try again to remember all I can about
+the night the heirloom was stolen,
+but the thief may still be hiding nearby.I have a bad feeling. If you spot any
+suspicious movement at night, don't
+approach..."
+35,Npc_Kakariko006_01,"お前さんも
+あの城を見に来たのかのぅ？あの光…
+邪悪なものだとわかっているんじゃが…
+夜になると浮かび上がる姿が美しくてのぅ
+時折 ここに見に来るんじゃ
+…こんなこと ばあさんや村の者には
+口が裂けても言えんがな","Have you come to look at the castle too?I know the light swirling around the
+castle is the manifestation of pure evil
+and all, but it's kind of beautiful.
+I sometimes come up here at night to
+look at it, but I could never tell my old
+lady or the village about it."
+36,Npc_Kakariko006_02,"お前さんも
+あの城を見に来たのかのぅ？あの光…
+邪悪なものだとわかっているんじゃが…
+夜になると浮かび上がる姿が美しくてのぅ
+時折 ここに見に来るんじゃ
+しかし…
+今夜はよく人を見かけるのぅ…
+さっきもドゥランが奥の裏山の方に
+走っていきよったしのぅ…
+なんだか急いでおったでのぅ
+声はかけなんだが…","Have you come to look at the castle too?I know the light swirling around the
+castle is the manifestation of pure evil
+and all, but it's kind of beautiful.
+Although I'm surprised to see so many
+people up here tonight. I just saw Dorian
+run off to the hills back there.
+He seemed like he was in a hurry, so 
+I didn't get a chance to speak with him."
+37,Npc_Kakariko006_03,"今日は気分がいいでのぅ
+
+ちょっと散歩してから
+帰るとするかのぅ","What a nice day today was.
+
+
+I think I'll go for a little walk, and then
+head home."
+38,Npc_Kakariko006_Near,ほほぅ…,Humm da dumm...
+39,Npc_Kakariko007_101,"いるんだろ！
+隠れてないで出てこい！","I know you're there!
+Show yourself!"
+40,Npc_Kakariko007_102,宝珠を盗んだのは お前だな！,"So you're the ones who stole
+the heirloom!"
+41,Npc_Kakariko007_103,なぜ盗んだりなど…,Why would you steal it?
+42,Npc_Kakariko007_104,くっ…,Hnng...
+43,Npc_Kakariko007_105,"まさか後をつけられていたとは…
+
+お気づきだと思いますが…
+今回のことは すべて私が招いたことなのです…","I can't believe I was being followed.
+
+
+I'm sure you've figured it out, but all of
+this is my fault..."
+44,Npc_Kakariko007_106,"しかし私は再度決意をしたのです
+アイツらと縁を切ることを！
+子供たちだけなら私の手で守れる…
+そう考えたのです
+…しかし アイツらは卑怯にも
+インパ様やパーヤ様にまで魔の手を…","But my grief over losing my wife
+consumed me, and I finally decided to
+cut ties with the Yiga completely!
+I decided I could protect my children
+from the Yiga. I wasn't afraid of them.
+
+But the Yiga are pure evil. They told
+me they would kill both Impa and Paya if
+I didn't play along!"
+45,Npc_Kakariko007_107,"ご存知かと思いますが この宝珠は
+古の祠を開く鍵だと分かりました
+私たちには扱うことができませんでしたが
+貴方様ならきっと…","Paya figured out that this heirloom is the
+key to opening an ancient shrine.
+
+We weren't able to make it work,
+but Paya thinks that maybe you can."
+46,Npc_Kakariko007_108,"勝手な お願いだとは分かっておりますが
+今回のことは秘密にしていただけませんか？
+子供達に… ココナとプリコに
+これ以上 つらい思いは させたくないのです
+償えるものではないと分かっておりますが
+これからは命をかけて護るつもりです
+村も家族も…","I'm very sorry for all of this.
+
+
+I know it's a selfish request, but do you
+think you could keep what really
+happened a secret?
+I truly don't deserve mercy, but I don't
+want my children, Koko and Cottla, to
+suffer anymore.
+I know it doesn't make up for what I've 
+done, but I pledge to protect the village
+and my family from now on.
+No matter the cost."
+47,Npc_Kakariko007_109,"隠していても仕方がありません…
+
+実は…
+
+私は イーガ団の人間なのです…
+
+しかし妻と出会い子に恵まれ
+私は考えを改め…
+そしてイーガ団から足を洗おうとしました
+
+しかし そのことで… 
+妻は命を奪われてしまったのです…","There's no point in trying to hide it.
+
+
+I am...a member of the Yiga Clan.
+Or I used to be, anyway.
+
+But then I met the most incredible
+woman who blessed me with two
+amazing children.
+And so I tried to change my ways.
+Tried to leave the clan.
+
+But the Yiga... They took my wife's life
+as punishment."
+48,Npc_Kakariko007_110,"手ごわいですが敵は一人です！
+ここで奴を倒しましょう！","It won't be an easy fight, but he's just
+one man. To arms!"
+49,Npc_Kakariko007_111,"私は これ以上家族に魔の手が及ばないよう
+門番という立場を利用し
+アイツらに この村の…
+貴方の情報を流していたのです","I couldn't let them hurt my children, so I
+used my position as gatekeeper to
+gather information for the Yiga.
+I told them about you and about the
+village in exchange for safety."
+50,Npc_Kakariko007_112,"貴方様の お役に立てることが
+パーヤ様の…""皆の願いです","Paya...and all of us are devoted to
+helping you in your quest."
+51,Npc_Kakariko007_113,さぁ宝珠を台座に お納めください,"Go ahead and place the heirloom
+on its pedestal."
+52,Npc_Kakariko007_114,"このままだと奴は村の者に何をするか…
+ここで決着をつけましょう！","If we let him go, there's no telling what
+he might do! Let's finish this!"
+53,Npc_Kakariko007_115,"リンク殿 どちらへ？
+さあ宝珠をお納めください","Where are you going, Master Link?
+I thought you were going to return
+the heirloom to its pedestal."
+54,Npc_Kakariko007_117,さぁ この宝珠を台座にお納めください,"Now, please restore this heirloom
+to its pedestal."
+55,Npc_Kakariko007_118,おおっ祠が…,"The shrine!
+"
+56,Npc_Kakariko007_119,"やはりその宝珠は祠を開くカギだったのですね
+よかった…
+リンク様 その…","So the heirloom WAS the key to opening
+the shrine. Incredible...
+
+Master Link, I..."
+57,Npc_Kakariko007_S1_001,"しかし一体誰が宝珠を…この屋敷に出入りしていた者は おりましたが
+皆村の者…
+怪しい者など誰一人通りませんでした","But who could have stolen the heirloom?There were some people visiting
+the manor, but they were all
+known villagers.
+I don't remember seeing anyone
+suspicious."
+58,Npc_Kakariko007_S1_002_1,"ぬおっ！ これはこれはリンク殿
+こ… このような時間にどうされましたか？","Whoa! Well if it isn't Master Link.
+What are you doing wandering around
+in the dead of night?"
+59,Npc_Kakariko007_S1_002_2,"私ですか？
+ああ…まあ…""私はですね… 
+村の…
+
+そう！""村の見回りをしているのです！
+賊がまだ村に潜んでいるやもしれませんのでな！
+しかし… ボガード1人にお屋敷の警護を
+任せるのも気がかりですし
+やはり戻るとしようかな…
+…では失礼","Me? Um...
+I was just...
+
+The village...
+
+
+Yes! I was patrolling the village!
+The thief could be hiding anywhere,
+you know!
+But I should probably get back to my
+post. Leaving Cado alone on guard duty
+is dangerous.
+Stay safe out here."
+60,Npc_Kakariko007_S1_002_3,"こ… こんな時間に怪しい動きをしていると
+犯人に間違われてしまいますよ
+リ… リンク殿も お気を付け下さい","You should really stop stalking about at
+night like this, or someone may mistake
+you for the thief.
+P-please do be careful, Master Link."
+61,Npc_Kakariko007_S1_002_4,"むおっ！ リンク殿？！
+
+こ… このような場所で会うとは
+奇遇ですなぁ！","Whoa! Master Link?
+
+
+I...uh, didn't expect to run into you
+here!"
+62,Npc_Kakariko007_S1_002_5,"し… しかし こんな時間に
+こんな所にいらっしゃるなんて
+不審者と間違われてしまいますよ
+ははは…","You know, stalking about at night around
+here makes you look pretty suspicious.
+Someone may mistake you for the thief!
+Hahaha!"
+63,Npc_Kakariko007_S1_002_6,"私… ですか？
+
+私は…夜の…
+
+そう！""夜の散歩をしているのです！
+
+しかし…少し遠くまで
+来すぎてしまったようです
+そろそろ戻るとしようかな…
+…では失礼","What am I doing?
+
+
+I was...just...walking.
+
+
+Yes! I was taking a walk at night!
+
+
+But it seems I've walked a bit too far.
+Excuse me. I'm going to head back."
+64,Npc_Kakariko007_S1_002_7,これはこれは リンク殿…,"Well, if it isn't Master Link..."
+65,Npc_Kakariko007_S1_Near001,……,...
+66,Npc_Kakariko007_S1_Near002,まさか… アイツら…,How could they?
+67,Npc_Kakariko007_S1_Near003,こうしてはおれん,I must do something.
+68,Npc_Kakariko007_S1_Near004,やはり戻るか…,I should turn back...
+69,Npc_Kakariko007_S1_Near007,誰も… おらんな,Sure is quiet out here...
+70,Npc_Kakariko007_S1_Near008,む？今何か…？,What was that?!
+71,Npc_Kakariko007_S1_Near009,気のせいか…,Must be imagining things.
+72,Npc_Kakariko007_S1_Near010,どこだ！出てこい！,Show yourself!
+73,Npc_Kakariko007_S1_Near012,何てことだ…,I can't believe this.
+74,Npc_Kakariko007_S1_Near013,誰がこんなことを…,Who did this?
+75,Npc_Kakariko008_01,"いくら年上が好きと言っても
+私は人妻… あきらめるんじゃな","I can tell you're into older women, but
+I'm married. Give it up."
+76,Npc_Kakariko008_02,"まだおるのか…こんな夜更けまで ばあさんをつけまわして…
+もしやお前さん…
+不良か？まあ不良でも なんでもいいわい
+さっさと遠くに行ってくれんかの…
+グズグズしてると
+夜が明けてしまうでの…","So you're still here...There's only one reason to follow around
+an old woman in the wee hours of the
+night...
+HELP! I'M BEING ROBBED!Or maybe you're just bored. Either way,
+I'm sick of looking at your mug.
+
+The sun will be up before I know it.
+Must hurry..."
+77,Npc_Kakariko008_03,"だ誰じゃ！まったく… こんなか弱い老人を
+つけまわしよって！
+もしや…年上好きか？年上好きはいいことじゃが…私は人妻
+そこは踏み込んではならんぞ！","Who's there?!Hmph... Following a weak, old woman
+around like some kind of creepy
+delinquent!
+Are you into older women or something?Well, there's nothing wrong with that...
+but I'm married to a fightin' man, I'll have
+you know!"
+78,Npc_Kakariko008_04,おや私に何か用かね？,What is it you want?
+79,Npc_Kakariko008_05,グホッ！,Grah!
+80,Npc_Kakariko008_06,"夜じゃと！まさか見られた…
+いや…""アレは誰にも知られてないはずじゃ
+な…何のことかの…
+夜はグッスリ眠るだけじゃわい","At night?So he knows...
+I didn't think anyone had seen me.
+
+Nighttime, huh? WelI, I sleep at night.
+In my house. On a bed. That's about it."
+81,Npc_Kakariko008_07,"ほっほ…急に話しかけられたもんで
+ビックリしましたわい
+まさかコヤツ…私の秘密を…
+いや…""アレは誰にも知られてないはずじゃ","Heh... You sure gave me a fright talking
+to me out of the blue.
+
+Could it be...he knows?
+No... Nobody knows about that."
+82,Npc_Kakariko008_08,まさか…見られてしまうとはのぅ…,Heh... You caught me orange-handed.
+83,Npc_Kakariko008_09,"インパ様のお屋敷に飾られとる
+アレかのぅ？","You mean that garish thing in Impa's
+house?"
+84,Npc_Kakariko008_10,ゴホッ ゴホッ！！,*cough cough*
+85,Npc_Kakariko008_11,"まさか…見られてしまうとはのぅ…この甘い香りの中に隠れる苦味…
+決して主張はせぬが存在感のある朱色…","You caught me...I simply can't get enough of the
+bittersweet and nutty flavor that lies
+beneath its fiery exterior."
+86,Npc_Kakariko008_12,ゴホッ ゴホッ！！,*cough cough*
+87,Npc_Kakariko008_13,"ここでのことは
+じいさんに内緒で頼んだよ","I'm counting on you not to tell my old
+man about this."
+88,Npc_Kakariko008_14,"実は私は大のニンジン好きなんじゃ…
+だが ウチのじいさんは大嫌いでのぅ…
+だからこうやって時々こっそり
+ニンジンを食べとるんじゃよ…
+じいさんには内緒にしといとくれよ","Yes, I'm a big fan of carrots. But my
+old man hates them.
+
+So sometimes I sneak out at night to
+get my fill.
+
+Please don't tell my husband!"
+89,Npc_Kakariko008_15,"これ以上の食材は ないというのに…でも あの二人を見ていたら
+ニンジンが好きなど口が裂けても言えんわい…","There is no greater food.But seeing how those two are acting, I'm
+not about to admit to having a love affair
+with carrots."
+90,Npc_Kakariko008_16,"年寄りに対して なんちゅーことを…
+ビックリして ニンジンが詰まるかと思ったわい
+私の大切な梅園は そもそもインパ様が
+贈って下さったもの あれは宝じゃ！
+インパ様には返す恩はあっても
+仇はないわい！
+ったく最近の若いもんは…","Is that any way to talk to an old woman?
+I almost choked on my carrot!
+
+Impa GAVE me the plum-tree orchard!
+And yes, the orchard may be an heirloom
+of this village, but it's technically mine!
+You young people..."
+91,Npc_Kakariko008_17,"まだ そんなことを言っとるのか！
+まったく…年寄りに対してなんちゅーことを…
+ビックリして ニンジンが詰まるかと思ったわい私の大切な梅園は そもそもインパ様が
+贈って下さったもの あれは宝じゃ！
+インパ様には返す恩はあっても
+仇はないわい！
+ったく最近の若いもんは…","What's with these accusations?
+Is that any way to talk to an old woman?
+I almost choked on my carrot!
+Impa GAVE me the plum-tree orchard!
+And yes, the orchard may be an heirloom
+of this village, but it's technically mine!
+You young people..."
+92,Npc_Kakariko008_18,"ニンジンのこと…内緒にしてくれるんじゃろうな…
+信じておるからな！","You won't tell anyone about...the carrots...right?
+I'm trusting you!"
+93,Npc_Kakariko008_19,"よ夜じゃと？！だ… だから
+ニンジンのことは内緒だと言ったじゃろ！",At night?Remember to keep the carrot thing a secret!
+94,Npc_Kakariko012_S1_001,"毎日元気に営業中！
+呉服屋忍杏亭はこちらです！","We're open every day!
+Prepare to be...Enchanted!"
+95,Npc_Kakariko012_S1_002,ちょッ？！だ だれ？,Who's there?
+96,Npc_Kakariko012_S1_003,"もしかして…""ストーカー？ラ… ラズリ なにも悪いことしてないんだからね
+普通に お散歩してるだけなんだからね！
+ほんっと… ついてこないでよね！","Is someone... Is someone stalking me right now?!If you're following me, Jarod...
+I told you it's over between us!
+
+So stop following me!"
+97,Npc_Kakariko012_S1_003_1,のわっ！,AHHHH!
+98,Npc_Kakariko012_S1_003_2,"あーあ… さすがにもう隠しきれないかな…クラリにも内緒だったのに…ここはね…昔好きだった彼が
+眠ってる場所なんだ
+もう ずいぶん前の話だけどね…時々 こうやって会いにきてるんだ…","I guess I can't keep it a secret any
+longer.Not even Claree knows...This is...where the love of my life sleeps.
+No other guy has been able to stack up.He passed a long time ago, but I come
+here every now and then to be with him."
+99,Npc_Kakariko012_S1_003_3,ホウジュ？ああ インパ様のお屋敷に飾られてる アレ？,Heirloom?You mean that thing in Impa's house?
+100,Npc_Kakariko012_S1_003_4,サイテー…,How awful of you...
+101,Npc_Kakariko012_S1_003_5,"はぁ？なんで私があんなのを
+盗まないといけないのよ！
+まさか…それで私を疑って
+ついてきたの…？","What?!Why would I steal something like that?
+
+
+Are you... Are you following me because
+you think I'm a suspect?!"
+102,Npc_Kakariko012_S1_003_6,"ここは…昔好きだった彼が眠っている場所…魔物に襲われちゃって あっさり…ずっと…""守ってくれるって…""約束したのに…","This is...where the love of my life sleeps.He got attacked by a monster and...He promised...he would always...
+protect me..."
+103,Npc_Kakariko012_S1_003_7,"はっ？
+まだそんな事言ってるわけ？
+ちょっとは空気読みなさいよ！
+目の前で可愛い女子が泣いてんでしょうが！！！
+宝珠なんて興味ないし！そもそもドゥランさん達がいるのに
+どうやって盗めっていうのよ！
+か弱い女子に そんなこと
+できるわけないでしょ！","Are you kidding me?
+
+
+I'm pouring my heart out, and you're
+going on about that stupid heirloom?!Besides, how could I steal it when
+Dorian and the others are guarding
+it all the time?
+There's no way I could do that without
+them noticing!"
+104,Npc_Kakariko012_S1_003_8,"はっ？アンタ！ ちょっとは空気読みなさいよ！
+目の前で可愛い女子が泣いてんでしょうが！！！
+優しい言葉とかないわけ？別にアンタなんかに
+優しくされなくても いいけどさ！","Thanks, I guess.But next time, try to be a little more
+sensitive to people you don't know.Everyone has their own issues to deal
+with."
+105,Npc_Kakariko012_S1_Near001,そろそろカナ…,Any minute now...
+106,Npc_Kakariko012_S1_Near002,バレてない… よね,Nobody knows...
+107,Npc_Kakariko012_S1_Near003,誰も気づいてないよね,I wonder if anyone knows.
+108,Npc_Kakariko012_S1_Near004,ふぅ…,Phew...
+109,Npc_Kakariko016_001,"まったくもう！
+なんなのよ！！
+お店に戻るだけなんだから
+ついてこないでよ！","WHAT?!
+What do you want?
+
+I'm just on my way to the shop!
+Stop following me!"
+110,Npc_Kakariko016_002,"まったくもう！
+なんなのよ！！！
+あ…やっぱり ストーカー？ラズリに変なことしたら
+ドゥランさん達に言いつけるからね！","WHAT?!
+What do you want?
+
+Are you...Are you some kind of stalker?!Get out of here before I call for Dorian!"
+111,Npc_Kakariko016_100,"な… なになに？
+
+こんな時間に女子に声かけるなんて
+
+もしかしてこれがストーカーってやつ…？
+アソコ行くのは後にしようかな…
+よ…夜の一人歩きは危険だし…
+やっぱり店にもどろうかな…","What?!
+
+
+Why are you even talking to me at this
+hour?
+
+Is this guy some kind of stalker? He's a stalker!
+I'm being stalked! So this is what it's like...
+I guess I'll have to visit him later.
+It... It sure is dangerous to be out alone
+at night, huh? Maybe I'll just...head back
+to the shop."
+112,Npc_Kakariko016_101,"ごめん今あんまりしゃべる気分じゃないんだ…
+ちょっと ソっとしといてもらえる？",I need to be alone for a while...
+113,Talk00,"…リンク殿私共が ついておりながら…
+大変なことになってしまいました…
+まさかこの屋敷に
+賊が侵入するなど…","Link.We were standing guard the whole time,
+and yet this awful thing still happened.
+
+How could we have let someone sneak
+right past us?"
+114,Talk01,"屋敷に何者かが侵入し
+パーヤ様の大切な物を…","Someone snuck in and stole Lady Paya's
+most prized possession..."
+115,Talk02,"昨日 この屋敷に出入りした者は…服屋のラズリと
+梅園のメロばあさんぐらいですかね
+他には怪しい者は見ておりません","The only people who came by yesterday
+were...Lasli from the clothing shop and
+Grandma Mellie from the plum garden.
+That's about it.
+I didn't see anyone else."
+116,Talk03,"まだ盗人は近くにいるかもしれません
+リンク殿もお気を付け下さい","The thief may still be nearby.
+
+
+Please take care of yourself, Master Link."
+117,Talk04,"おのれ～盗人め！毎日ドゥランと見張っておるというのに
+一体どうやって…
+村人以外 この屋敷に近づく事さえできぬはず…","That filthy thief!Me and Dorian were standing guard the
+entire time! How did they get past us?!
+
+The only people we let through were
+known villagers..."
+118,Talk05,"まったく こんな大変な時だっていうのに
+ドゥランは どこに行ってるんだか…
+もしかしたら
+高台の辺りまで見回りに行ってくれてるのかな","Why isn't Dorian back yet?
+
+
+He said he was going to the area above
+the village, but he should've been back
+by now."
+119,Talk06,"ええ村人なら誰でも出入りできますので…先日屋敷に訪れたのは…
+ラズリちゃんとメロさんだけですよ
+いつもは昼間に来るんですが
+そういえば最近夜に来ることが多いなぁ…
+まあ二人とも昼間は忙しいでしょうから
+夜に のんびりしたいんでしょうな","Yes, known villagers are free to come and
+go as they please.I think the only people that stopped by
+around the time the heirloom went
+missing were Lasli and Mellie.
+They used to come around noonish,
+but lately they've been stopping by
+at night.
+They must be too busy to stop by
+during the day."
+120,Talk07,"しばらくは我らも厳戒態勢
+夜もドゥランと二人で見張っておりますので
+村は安全ではありますが
+リンク殿も夜は気を抜かれませぬよう…","We're on high alert for the time being.
+Dorian and I will be on guard around
+the clock.
+The village should be safe, but please do
+be careful at night, Master Link..."
+121,Talk08,"あのさー…
+
+いきなり夜の事聞くなんて
+レディーに失礼じゃない？
+そんなの教えるわけないでしょ！","Excuse me?
+
+
+It's none of your business what I do at
+night!
+
+Maybe think about finding a new pick-up
+line."
+122,Talk09,"用もないのに話しかけるなんて……お兄さん もしかしてラズリを…好きになっちゃった？やだっ お兄さん好みだけど…
+ラズリは みんなのラズリなんだ！ ごめんね～","So you thought you'd just chat me up
+out of the blue?Are you...Are you hitting on me?Look, you're a good-looking guy and all,
+but I just got out of a toxic relationship.
+Sorry!"
+123,Talk10,"リンク殿のお姿をみれば
+パーヤ様も少しは落ち着かれることでしょう…","I'm sure Lady Paya would feel a little
+more at ease if she saw Master Link's
+face."

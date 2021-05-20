@@ -1,0 +1,135 @@
+#,Title,JPja,USen
+1,"""0000""",やってみたい,Sounds good to me!
+2,"""0001""",また今度,"Nah, I'm cool."
+3,"""0002""",やる！,I'm in!
+4,"""0003""",やめておく,I'll pass this time.
+5,Npc_Kokiri011_R_001,しれんあるよ～,I hope you studied!
+6,Talk_0000,"やあ ゆうしゃサマ！
+燃えずのしれん""達成おめでとう
+ハラハラドキドキ楽しかっただろ？さらなる高みを目指す
+しれんをやってみるかい？
+なーに やることは同じさただ ゴールまでの時間がどれだけかかるか
+数えているだけ！
+5分までにゴールできたら
+ご褒美が待ってるぞ","Hey, Mr. Swordsman! Congrats on
+completing the Test of Wood!
+Wasn't too hot for you, was it?
+Well, if you thought that was fun, how
+about taking a crack at a trial that'll
+really turn up the heat?
+Don't worry, Mr. Hero, you'll be doing
+the same thing as before! The only
+difference is how long you have to do it.
+If you can make it to the goal within
+five minutes, you'll get a prize!"
+7,Talk_0001,"そうか…
+ま気が向いたら ここに来てくれよ","Oh, OK.
+Just come back again if you change
+your mind!"
+8,Talk_0002,"よろしいルールは わかってるよな
+燃えずのしれんと一緒だ
+剣と弓と盾を装備して
+奥の祠へ到着するんだ","OK, cool!The rules are the same as before.
+Equip the sword, bow, and shield, and
+make it to the shrine in the back."
+9,Talk_0002_1,それじゃあ準備するぞ,I'll get everything ready for you!
+10,Talk_0002_2,"分秒より早く
+到着したら ご褒美が待ってるぞ","If you can reach the goal in under
+:., there'll be a prize for you!"
+11,Talk_0004,"やあ ゆうしゃサマ！
+燃えずのしれんへ ようこそ！
+5分までにゴールして
+ご褒美ゲットを目指してみるかい？","Hi there, Mr. Hero!
+Wanna take the Test of Wood?You just gotta make it to the goal within
+five minutes to win a prize!"
+12,Talk_0005,"やあ ゆうしゃサマ！
+燃えずのしれんへ ようこそ！
+今の最高記録は分秒だ
+もっと早くゴールできるか挑戦するかい？","Hey-hey, Mr. Hero!
+Welcome to the Test of Wood!The current record is :..
+Wanna try to shatter it?!"
+13,Talk_1000,記録は分秒だー！,You made it in :.!
+14,Talk_1001,おめでとう！新記録だ！,"Wow, a new record! Congrats, Mr. Hero!
+I knew you'd be great at this!"
+15,Talk_1001_1,"さてさて5分までにゴールできたから
+ご褒美を…","All right! You made it here within five
+minutes, so you get a prize!"
+16,Talk_1001_2,"さてさて前の記録より早くゴールできたから
+ご褒美を…","All right! You made it to the goal faster
+than your previous time, so you get a
+prize!"
+17,Talk_1002,"じゃーん！
+ありがたく受け取れよ","Ta-daaa! Congrats, Mr. Hero!
+Hope you like it!"
+18,Talk_1003,"自分の限界に挑戦したかったら
+また声かけてくれ","Let me know if you wanna try to break
+your record!"
+19,Talk_1008,"記録更新ならず！
+でもまあ いいタイムだったから オマケだ！","You didn't manage to beat your own
+record, but you did get a pretty good
+time. Here's a consolation prize!"
+20,Talk_1009,"はい ダメー！ しゅーーりょーー！！5分経っちゃったから失格だぞ！
+次はもっと頑張れよ","That's it!
+
+
+Sorry, Mr. Hero, but you didn't finish
+within five minutes, so you're done. 
+Try harder next time!"
+21,Talk_1010,"あらら記録更新ならずだご褒美はお預け！
+次はもっと頑張れよ","Gosh, that's too bad. You didn't beat
+the current record.Well, I'll hold on to the prize for now.
+You'll beat it next time!"
+22,Talk_1011,"挑戦するには20ルピー払ってもらうけど
+いいかな？いいよね？","I'll just need a security deposit of 20
+rupees to cover the cost of the gear
+rental. Sound fair?"
+23,Talk_1012,"おや？コログのしれん武器セットを
+全部借りなくても大丈夫そうだな
+貸し出し料金を割引きして…
+10ルピーでいいよ","Oh, what do ya know! Looks like you're
+already well equipped, Mr. Hero.You don't need to borrow the entire
+Korok Trial weapon set, so I can cut
+50% off your entry fee.
+So, that'll be just 10 rupees to get in!"
+24,Talk_1013,"コログのしれん武器セットで
+持っていないものは貸し出しだからな！
+終わったら返してもらうぞ","You can rent what you need from the
+Korok Trial weapon set. I'll take it back
+once you're done."
+25,Talk_1014,"ゆうしゃサマ！
+ルピーが足りないぞ！","Uh oh, Mr. Hero...
+You don't have enough rupees!"
+26,Talk_1100,"置き去りにされると思った？
+ゆうしゃサマに そんなことしないよー
+そんじゃ貸したものは返してもらって…始めた場所へ戻るぞー
+えいやっほ～い！","Oops, I almost forgot! I need to collect
+that gear you borrowed.
+
+I'll go ahead and take you back to the
+start, too. Hold on tight!
+Yaaaa-hooooooeeeyyy!!!"
+27,Talk_1101,"あ！もしかして今すぐ再挑戦したい？
+もちろん20ルピー払ってもらうけど","So, do you wanna give it another go?
+I'll need 20 rupees to cover the gear."
+28,Talk_1102,"あ！もしかして今すぐ再挑戦したい？武器セットの貸し出し料金を割引きして…
+10ルピーでいいぞ","So, do you wanna give it another go?With the weapon rental discount, that'll
+be 10 rupees."
+29,Talk_1103,じゃあスタートに戻るから…えいやっほ～い！,"All right! I'll just get us back to the start.Aaaaand...
+Yaaaa-hooooooeeeyyy!!!"
+30,Talk_1104,"あそう
+それじゃーねー","Oh, no problem.
+See you next time, Mr. Swordsman!"
+31,Talk_1105,"置き去りにされると思った？
+ゆうしゃサマに そんなことしないよー
+そんじゃ始めた場所へ戻るぞー
+えいやっほ～い！","Aw, did you think I'd just leave you here?
+I'd never leave you hanging, Mr. Hero!
+Let's go back to the start!
+Aaaaand...
+Yaaaa-hooooooeeeyyy!!!"
+32,Talk_1106,"残念だったね ゆうしゃサマ…
+まあこりずにまた挑戦してみてよ","Too bad, Mr. Hero. We all fail from time
+to time. Don't be too hard on yourself."
+33,Talk_1107,"また挑戦したくなったら
+ルピーためて来てねー","If you wanna give it another shot, save
+up your rupees and come see me again!"

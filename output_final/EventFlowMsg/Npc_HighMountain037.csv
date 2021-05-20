@@ -1,0 +1,182 @@
+#,Title,JPja,USen
+1,"""0000""",あなたは…？,Who are you?
+2,"""0001""",えっと…,Um...
+3,"""0002""",村って？,Village?
+4,"""0003""",リト族…,The Rito?
+5,"""0004""",倒してきたよ,I defeated it.
+6,"""0005""",さようなら,Good-bye.
+7,"""0006""",テバ知らない？,Where's Teba?
+8,"""0007""",飛行訓練場は？,Flight Range?
+9,"""0008""",調子はどう？,How are you?
+10,"""0010""",リリトト湖って？,What's this big lake?
+11,"""0011""",ガチロック？,Frost Talus?
+12,"""0012""",興味無い,Not interested.
+13,"""0013""",ガチロックって？,Frost Talus?
+14,near00,ふぅ…,Phew...
+15,talk00,おはようございます,Good morning.
+16,talk01,こんにちは,Good day.
+17,talk02,こんばんは,Good evening.
+18,talk03,どうも,Hello.
+19,talk04,私はリト族の ギザンと申します,I am Gesane of the Rito.
+20,talk05,"リトの村なら この橋を渡り切った
+先にあります
+今はちょっと ゴタゴタしてますけど
+店は開いているので是非お立ち寄りください","Rito Village is just across these bridges.
+
+
+We're all a bit...preoccupied right
+now, but I'm sure the shops would
+appreciate your business."
+21,talk09,テバとはあのテバでしょうか？,Teba? You mean...our Teba?
+22,talk10,"彼なら凄い形相で
+飛行訓練場の方に向かって行きました
+彼の事なので
+1人でハーツの仇を取りに行ったんでしょう
+リトの戦士御用達の飛行訓練場なら
+弾薬も いっぱいあるでしょうし
+そこで弓やバクダン矢を
+用意してるのかも知れませんね","He stormed off to the Flight Range
+with an angry look on his face.
+
+Bit of a loose cannon that one. I'm
+guessing he went to get revenge for
+Harth by himself.
+The Flight Range is where Rito warriors
+train for battle.
+
+He probably went there to stock up on
+bows and bomb arrows."
+23,talk11,"飛行訓練場ならリリトト湖を挟んで真反対の
+リノス峠の先です
+おっと…リリトト湖を回るなら
+東沿いと西沿いで辛さが違いますよ
+あなたのようなハイリア人なら…
+平坦な西沿いが オススメでしょうか","The Flight Range is beyond
+Dronoc's Pass on the other side of
+Lake Totori.
+If you're going to go around Lake Totori
+to get there, there's a big difference
+between the east and the west sides.
+For a Hylian like yourself...
+I'd suggest the west side. It's flatter."
+24,talk12,"遠路はるばる ご苦労様です
+私に ご用でしょうか？","I imagine you've traveled a long way to
+get here. Do you need something?"
+25,talk13,こんな寒い土地で すごい格好ですね…,"I'm impressed you're walking around like
+that in this weather."
+26,talk14,では…,Farewell.
+27,talk15,あぁ あなたですか,"Ah, hello again."
+28,talk17,はい,Yes.
+29,talk18,で私にご用ですか？,Did you need something?
+30,talk19,"こないだまで神獣 ヴァ・メドーってのが
+暴れてたのですが""最近落ちついたんです","Divine Beast Vah Medoh was kicking
+up a storm just a while ago, but he's
+calmed down now."
+31,talk20,ハイリアのお方ですか？,Are you a Hylian?
+32,talk21,これはこれは いい所へ…,You've come at a good time...
+33,talk22,"ハイリアの お方ですね？
+この悪天候の中 お疲れ様です","You're Hylian, aren't you?
+Well done making it here in this weather."
+34,talk23,…おっと私にご用でしたっけ？,Hmm? Did you need something?
+35,talk24,"そんな事より聞いてください
+私見たんです…ガチロックを！","Never mind that. Please listen to this!
+I was out for a walk earlier, and I saw...
+a Frost Talus!"
+36,talk25,降られましたね,"You ever heard of a \""cold shoulder\""?
+That's nothing compared to a soggy,
+frozen shoulder. Brrrrrr!"
+37,talk27,"リリトト湖は この湖の事です
+
+周囲が絶壁だから落ちたら大変です","This is Lake Totori.
+
+
+As you can see, it's surrounded by steep
+cliffs with no way up, so don't go falling
+in."
+38,talk28,"あなたのようなハイリア人は
+尚の事 お気を付け下さい
+ワープでもできれば話は別なんですけどね…","A Hylian like yourself should tread
+especially carefully. Falling in would
+mean certain death.
+Unless you could magically travel to
+safety, of course, but let's be real."
+39,talk29,"ええ全身氷でできた巨像です
+
+野暮用で出かけた時に見かけたんですが…
+あれは… すごいですね
+ブリザー谷の方でしょうか… とにかく巨大で
+少し近づいただけで身の危険を感じましたよ…
+昔の英傑様なら あんなのを簡単に
+倒せたりするんでしょうか…","Yes! It's a giant monster made of
+enchanted ice!
+
+I was out running an errand when I saw
+it... It was incredible...and terrifying.
+It was incredibly terrifying.
+I believe I saw it over in Coldsnap Hollow
+before my adrenaline kicked in and I fled
+like the wind.
+In any case, it was enormous. But I bet a
+Champion could have taken it down
+no problem."
+40,talk30,"ガチロックというのは
+全身が氷でできた巨像の事です
+ブリザー谷の方で見かけたんですけど
+命が惜しいなら近づかない事です
+私も一端の戦士ですが
+あれには勝てる気がしませんね…","A Frost Talus is a giant made entirely of
+enchanted ice. 
+
+I saw one over by Coldsnap Hollow.
+If you want to keep breathing, I suggest
+you stay far away from there.
+I'm pretty good in a fight, but I wouldn't
+want to bump into that thing in a dark
+valley."
+41,talk31,"え？！""ブリザー谷のガチロックを
+倒して来たんですか？！
+あんな巨大なのを
+あなたのようなハイリア人が…
+いやでも助かりました あれが村近くに来たら
+私が相手しなきゃ なりませんからね…","WHAT?! You defeated the Frost Talus in
+Coldsnap Hollow?!
+
+I never would have thought a Hylian
+could take down something that big.
+No offense.
+Well, that's a relief. If that thing had
+wandered this way, the entire village
+would've been in danger!"
+42,talk32,…なので少ないのですが お礼です,"It's not much, but I'd like to reward you
+for your trouble."
+43,talk33,調子？普通と言った感じです,"How am I? Can't complain, I suppose..."
+44,talk34,「普通」と言ったと思いましたが…,Like I said—can't complain.
+45,talk35,私に御用でしょうか？,Do you need something?
+46,talk36,"ブリザー谷のガチロックを
+倒してしまうなんてビックリです","To think you felled the Frost Talus in
+Coldsnap Hollow. It boggles the mind."
+47,talk37,"メドーも大人しくなったことですし
+これでリトの村は安泰ですよ","Medoh is calm now, so Rito Village
+should be at peace."
+48,talk38,"でも世の中には強いヤツなんて
+いくらでも居ますからね
+私も精進の毎日です","But this world's chock-full of savage
+monsters and terrifying beasts. I must
+remain ever vigilant."
+49,talk39,他に質問は ございますか？,Do you have any more questions?
+50,talk40,ええ…,Yes...
+51,talk42,何か ご用でしょうか？,Did you need something?
+52,talk43,他に質問は ございますか？,Did you have any more questions?
+53,talk44,"「男は弓に女は歌に秀でた
+リリトト湖に住む少数民族」","\""The Rito of Lake Totori. Where the men
+are fine archers and the women better
+singers.\"""
+54,talk45,"あなたもハイリア人なら
+ご存知かと思いましたが…
+まぁ せっかくここまで来られたんですから
+村に寄ってってくださいね","You being a Hylian, I'm surprised you
+haven't heard that before.
+
+You should visit the village if you get
+a chance."
+55,talk46,もういいですかね？,Now then...

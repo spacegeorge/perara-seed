@@ -1,0 +1,172 @@
+#,Title,JPja,USen
+1,"""0000""",ハイリア人だよ,I'm a Hylian!
+2,"""0002""",母ちゃんって？,What about your mom?
+3,"""0003""",さようなら,Good-bye.
+4,"""0004""",父ちゃんって？,Who's your dad?
+5,"""0005""",カエル獲り？,Frogging?
+6,"""0006""",カエルどうぞ,Have some frogs.
+7,near00,わははは！,Waaa ha ha ha!
+8,near01,～♪,♪Hmm hm hmmm.♪
+9,talk00,"なんだー？！""兄ちゃん！","What is it?! Oh! Hey, mister!"
+10,talk01,オッス兄ちゃん,"Heya, mister!"
+11,talk02,それにしても ヘンな顔だなー！,You've got a weird face!
+12,talk03,眠い…もう寝る…,So sleepy... I should go to bed...
+13,talk04,くー… くー…,Zzz... Zzz...
+14,talk05,"俺今から父ちゃんとこ行くけど
+来ても つまんないぞ？","I'm heading to where Dad is, but if
+you're thinking of coming with me,
+you should know it's a boring place."
+15,talk06,"ついて来んのはいいけど
+たぶん つまんないぞ？！","You can hang out with me if you want,
+but you'll probably be bored to tears!"
+16,talk07,"…ハイリアジン？
+初めて見た！","Hy...leon? Never met one of
+those before!"
+17,talk08,"ハイリアジンって事は
+遠くから来た って事だよな？！
+だったら途中で ディーメ母ちゃん
+見なかったか？
+母ちゃん水の化物が暴れ出してから
+帰って来なくてさー
+ま そのうち帰って来ると思うけどなー","If you're a Hy-leon, that means you came
+from really far away, right?!
+
+You didn't happen to see my mom, Mei,
+on the way here, did you?
+
+Ever since the water monster went crazy,
+Mom hasn't come home...
+
+But, I mean, I bet she'll come home
+sooner or later... Hopefully sooner."
+18,talk11,俺は忙しいんだぞ！,I'm busy!
+19,talk12,"俺は父ちゃんの仕事終わるの
+待ってんだぞ！",I'm waiting for Dad to finish working!
+20,talk13,"ディーメ母ちゃん水の化物が暴れ出してから
+帰って来ないんだよ
+まぁ お仕事が長引いてるだけだろうから
+そのうち帰って来ると思うけどな！","My mom, Mei, has been gone ever since
+that water monster went nuts.
+
+But I'm pretty sure her work is just
+taking longer than usual. I bet she'll
+come home any day now!"
+21,talk14,わーーっ はっは！,BAAAA HA HA HA!
+22,talk15,またな！,See ya!
+23,talk16,"フーキュ父ちゃんは
+ロスーリさんの弟子なんだぞ！
+里の壊れたとこ直す…
+とにかく すごいんだ！","My dad, Fronk, is Dento's apprentice!
+
+
+He fixes up places around the domain...
+It's super cool!"
+24,talk17,俺はカエル獲りで忙しいんだぞ！,I'm busy frogging!
+25,talk18,"そう！
+母ちゃんが魚獲りから帰って来ないから
+俺が代わりにゴーゴーガエルを獲って
+それ売って稼ぐんだ！
+…
+
+今俺の事 「かわいそう」
+って思っただろ？
+なら俺にゴーゴーガエルを寄附してくれよ！
+雨の日なら よく見つかると思うし…
+だから俺にゴーゴーガエルを！
+5匹でいいから！な！","Yep! Since Mom hasn't come back from
+fishing yet...
+
+I've been catching hot-footed frogs
+and selling them to earn some money
+for our family.
+...
+
+
+You...were just pitying me, weren't you?
+You felt sorry for me...didn't you?!
+
+Well, I don't need your pity! If you wanna
+help, donate some hot-footed frogs!
+You can find them easily on rainy days.
+I...really need you to get some for me.
+Five frogs should be enough! Got it?"
+26,talk19,じゃあ数えさせてもらうぞ！,"OK, I'm gonna go ahead and count them!"
+27,talk20,"だから俺が代わりに
+カエル獲って売って稼いでんだ！","So I'm catching frogs and selling them
+to earn money for our family! Just until
+Mom comes home."
+28,talk21,えっ！本当？！,What? Really?!
+29,talk22,"…あれ？
+
+全然持ってない？","What the... Huh?!
+
+
+You don't have ANY? None at all?"
+30,talk23,ワン…,One...
+31,talk24,ワンツー…,"One, two..."
+32,talk25,ワンツーさん…,"One, two, three..."
+33,talk26,ワンツーさんよん…,"One, two, three, four..."
+34,talk27,"ワンツーさんよん…ご！
+
+おおー！
+本当に持って来てくれたのか！
+じゃあお礼に これやるよ！","One, two, three, four...FIVE!
+
+
+Wow! You really brought them!
+
+
+Here, take this as thanks!"
+35,talk28,"…あれ？兄ちゃんゴーゴーガエル
+匹しか持って無くない？","Huh?! Mister, you only have
+ hot-footed frogs!"
+36,talk30,"アイツら今日みたいな雨の日だと
+ウヨウヨ出るから今がチャンスだぜ！","On rainy days like today, the frogs come
+out in swarms. Now's my chance!"
+37,talk31,"じゃゴーゴーガエル
+5匹集めたら俺んとこ来てくれよな！","OK! When you get five hot-footed frogs,
+come back here and give them to me!"
+38,talk32,"アイツら今日みたいな晴れの日だと
+なかなか出て来ないんだよね","On sunny days like today, those frogs
+don't really come out much..."
+39,talk33,"…と思ったけど兄ちゃん
+これ以上ヨロイソウ持てなくない？
+ヨロイソウが持てるようになったら
+また俺ンとこまで来てくれよな！","Well... I wanted to give you something,
+but you can't carry any more armoranth,
+can you?
+If you make room for more armoranth,
+come back and see me!"
+40,talk34,"これヨロイソウって言うらしいぜ！
+
+なんか珍しいから摘んじゃったけど
+俺には似合わないからあげる！","This is called armoranth!
+
+
+I picked it because it's unusual,
+but it doesn't really suit me...
+so it's all yours!"
+41,talk35,"ディーメ母ちゃんは
+獲った魚を よろず屋に納品してんだぞ！
+獲った魚は いつも新鮮だから えーと…
+とにかく すごいんだぞ！","My mom, Mei, sells the fish she catches
+at the general store!
+
+Her fish are always super fresh...
+Yeah! They're amazing!"
+42,talk36,ハイリアジンは魚食う？,Do Hy-leons eat fish?
+43,talk37,"俺の母ちゃんが獲った魚が
+よろず屋に並んでるから よろしくな！","The fish my mom caught are being sold
+at the general store, so go have a look!"
+44,talk38,"ってか ハイリアジンは
+カエル使ったりする？
+要らないならゴーゴーガエル寄附してくれよ！
+5匹でいいから！な！","Speaking of which, do Hy-leons have any
+use for frogs?
+
+If you don't need your hot-footed frogs,
+why not donate them to me?! Five frogs
+should do the trick! Got it?"
+45,talk39,"こないだはゴーゴーガエルありがとな！
+じゃあな！","Thanks for those hot-footed frogs!
+See ya!"

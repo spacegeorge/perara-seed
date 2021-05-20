@@ -1,0 +1,221 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ…ふぅ…ひぃ…
+さすがに もうダメかと思ったよ…","Hoo... Phew! *gasp* I thought I was
+done for!"
+2,Atacked01,"これじゃあ
+にっちもさっちもどうにも…",It looks like I'm stuck here...
+3,Failed00,"ううう…あちこち痛い…
+魔物のやつめ…","Ugh... My everything hurts... Monsters
+are a real pain in my everywhere."
+4,Failed01,"この歳で こんな目に遭うのはキツい
+魔物め…歳の見境なく攻撃しやがって！","I'm too old for this nonsense. Blasted
+monsters, and me rushing in without
+a thought!"
+5,Guardian00,"馬も人も命あっての物種だ！
+ここは逃げるに限る！","This isn't worth risking my horsey's life...
+or mine! I think I'd better run away now."
+6,MSG_Futa_00,"俺に教えられるのは馬の事くらいだけど
+それでいいな？
+野生の馬を捕まえたら まずは馬宿だ
+そこで登録すれば くらと手綱をつけてくれるぞ","I don't know much about much, but I
+know a bunch about horsies. So if you
+wanna hear about horsies, listen up.
+Like, when you catch a wild horsey, you
+should take it to a stable. Once you
+register it, you'll get a saddle and bridle."
+7,MSG_Futa_00_1,"野生の馬を捕まえたら まずは馬宿だ
+そこで登録すれば くらと手綱をつけてくれるぞ","When you catch a wild horsey, you
+should take it to a stable. Once you
+register it, you'll get a saddle and bridle."
+8,MSG_Futa_01,"…君は知ってるかどうか
+人間を乗せてくれる動物は馬だけじゃないぞ
+俺は馬以外には乗ろうとは思わんが
+好奇心旺盛っぽい君は どうだろうな","We all know horsies are special...but
+they're not the only animals that'll let
+people ride them.
+I wouldn't waste my time on anything
+but a horse, but...you look like the type
+of person who doesn't discriminate."
+9,MSG_Futa_01_1,"背中に乗れる動物は馬だけじゃない
+乗れそうな動物を見つけたら乗ってみな","Horsies aren't the only animals you can
+ride. If you see an animal you think you
+can ride, why not give it a shot?"
+10,MSG_Futa_02,"君に ひとつ教えといてやろう
+馬が好きな食べ物…それはニンジンだ
+…誰もが知ってる情報で申し訳なかった
+ちなみにニンジンはカカリコ村でも買えるぞ","Are you ready for some top-secret
+horse-based intel? There's a food that
+horses just love. It's...carrots.
+Yeah, I suppose that does seem pretty
+obvious in retrospect. By the way, you
+can buy carrots in Kakariko Village."
+11,MSG_Futa_02_1,"馬はニンジンが好きなんだ
+
+カカリコ村でニンジンを買って
+馬に与えてみるのも いいかも知れんな","Horses like carrots.
+
+
+So maybe go buy some over in
+Kakariko Village and try feeding
+them to a horse."
+12,MSG_Futa_03,"キッパリと言わせてもらう
+俺が得意な話題は馬の事のみ！
+馬上からも矢を射ることができるって
+君は知ってたか？
+魔物からの攻撃をかわしつつ
+同時に攻撃したい時などに有効だろう","Here's the truth, straight from the
+horse's mouth: the only thing I'm good
+for is horses and horse facts.
+Take this, for instance: did you know that
+you can shoot arrows from horseback?
+
+It's a good option if you want to pop a
+few shots off without any monsters
+getting any swings in at you."
+13,MSG_Futa_03_1,"馬上からでも矢を射ることができるぞ
+魔物の攻撃を走ってかわし矢で反撃するんだ","Try shooting your bow from horseback.
+Run your horse around the monsters to
+avoid their attacks while striking at them."
+14,MSG_Futa_04,"…俺が話せるのは馬の事だけだ
+それでかまわんな？
+馬に乗り始めた頃は楽しさのあまり
+村の中だろうが疾走したくなるが…
+それは やめとけ
+村人と馬にとって迷惑この上ない","I don't mind talking, as long as you don't
+mind me talking about horses. That's
+not a problem, is it?
+Because riding horses is so much fun.
+Don't you just want to ride at a full
+gallop through every village you see?
+You probably shouldn't do that, though.
+It's a bother to both the villagers and
+the horse."
+15,MSG_Futa_04_1,"村の中で馬を飛ばすのは やめておけ
+迷惑この上ないからな","Promise you won't ride your horse full
+tilt through villages. Nothing worse than
+being a nuisance to people."
+16,Near00,愛馬とともに…,My best horsey at my side.
+17,Near01,馬肥ゆる…,My horse's belly is full...
+18,Near02,くらの手入れを…,Need to buff my saddle...
+19,Near03,馬と見る星…,Stargazin' with horsey...
+20,Near04,馬濡らしの雨…,Rain's got horsey damp...
+21,Rest_00,"馬が好きでねぇ
+
+女性の好みも どうしても面長のタイプを
+選びがちなんだよ","I love horsies.
+
+
+Love 'em more than people. People
+smell funny and talk all the time,
+but not horsies. Horsies just ride."
+22,Rest_01,"雨の日は無理して出かけないよ
+馬も俺も濡れるのは好きじゃないんでね","I don't care much to go out on rainy
+days. Me and my horsey don't like
+getting wet."
+23,Rest_02,"俺の馬はナイーブでね…
+雨の日は少しばかり機嫌が悪いんだ","My horsey's feeling blue... He gets a
+little sensitive on rainy days."
+24,RetMSG_Futa_00,"…俺の話題は馬だけだぞ？
+それでいいなら こんなのはどうだ…
+馬にも いろいろなタイプがいる
+足の速い馬…馬力のある馬…
+自分に合った馬を探す事が
+馬と上手に付き合うコツってことかな","I'm warning you, I only talk horse talk.
+Not, like, talking the way horses talk.
+I mean talking about horses.
+There are several types of horses, for
+instance. Fast ones. Powerful ones. Get
+to know what your horse is good at."
+25,RetMSG_Futa_00_1,"馬にも いろいろなタイプがいる
+自分に合った馬を探してみる事だな","There are all kinds of horses, so get to
+know yours, and find one that's suited
+to what you need."
+26,RetMSG_Futa_01,"♪白馬に巨大馬骨の馬～
+ホントにいるなら乗ってみたい～
+…何の歌かって？
+俺が作った伝説の馬たちの歌だよ","♪White horsies, giants, and bony ones
+too. They're out there for catchin', and
+that's what you should do...♪
+You like my song about the legendary
+horses? There's only one of each, but I
+took some liberties to make it musical..."
+27,RetMSG_Futa_01_1,"♪白馬に巨大馬骨の馬～
+ホントにいるなら乗ってみたい～
+俺の作った歌は どうだ？
+その名も「伝説の馬たち」！覚えてくれよな","♪White horsies, giants, and bony ones
+too. They're out there for catchin', and
+that's what you should do...♪
+That's my slightly inaccurate but highly
+lyrical song about the legendary horses.
+It'll get stuck in your ear real good!"
+28,RetMSG_Futa_02,"…何か情報がほしいのか？
+だったらそうだな馬について教えてやろう
+馬だって走れば疲れる
+拍車をかければいいってもんじゃない
+今どんな状態なのか目で確認することだ","So you want some information, do you?
+Well, if you don't mind it bein' about
+horses, I'm your man!
+Horses get awful tired of runnin'. You
+can't just dig in your spurs all the time.
+Use your eyes to see how they're doing."
+29,RetMSG_Futa_02_1,"馬だって走れば疲れる
+馬がどんな状態なのか目で確認することだ","Horses can get tired after galloping for
+a long time. Take a moment to check in
+and see how your horsey's doing!"
+30,RetMSG_Futa_03,"…名所案内でもしてほしいのか？
+俺の場合 どうしたって馬がらみになるぞ？
+じつは ここから東の方角に
+馬術訓練場の跡地がある
+地図にも載るほどの重要な施設だったが
+今じゃ魔物が何やら訓練してるみたいだな","You want me to point out some local
+areas of interest? Sorry, but I only talk
+about horses. All day, every day.
+Although...if you head east from here,
+you'll find the ruins of the old horse
+training ground.
+It's pretty important. Shows up on maps
+and everything. Sounds like it's got a bit
+of a monster infestation goin' on now..."
+31,RetMSG_Futa_03_1,"東には馬術訓練場の跡地がある
+今じゃ魔物の訓練所と化してるがな","If you head east from here, you'll find
+the ruins of the old horse training
+ground.
+Sounds like it's got a bit of a monster
+infestation goin' on now, though..."
+32,RetMSG_Futa_04,"…君が何を知りたいのかは無視して
+馬の捕まえ方のコツを教えてやろう
+気付かれぬよう後ろからそっと近づいて
+素早く乗ったら撫でまくるんだよ","You probably don't care for horsey facts,
+but that's all I've got to offer, so hold
+on to your...well, you know.
+The secret to holding on to your horses,
+by the way, is to approach them quietly
+from behind and then hop on quick!
+Once you're on, give 'em a little pet to
+let them know you care."
+33,RetMSG_Futa_04_1,"馬を捕まえるなら気付かれぬよう
+後ろから近づいて乗れたら撫でまくるんだ！","The secret to catching horses is to
+approach them quietly from behind
+and then hop on quick!
+Once you're on, give 'em a little pet to
+let them know you care."
+34,SavedLv1_00,何とか助かった！,"I'm saved! Somehow, I've been saved!"
+35,SavedLv1_01,"命あっての旅だからな！
+助けてくれて ありがとう！","They say the journey is more important
+than the destination...but not if I get
+killed along the way... Thank you."
+36,SavedLv2_00,"馬のおかげで逃げ切れた…
+もちろん君にも感謝だよ","Thanks to my faithful horsey, I was able
+to ride to safety! I mean, I guess you
+helped too. So...thank you?"
+37,SavedLv2_01,"馬も俺も助かった！
+君には尻尾を向けられないな","You've saved me and my horse and/or
+horses! I won't forget what you did."
+38,SavedLv3_00,"…ありがとうな
+おかげで命がつながった","Thank you. I thought today might be my
+last, but thanks to you, it won't be."
+39,SavedLv3_01,魔物の恐ろしさを あらためて知ったよ…,"When you're a kid, you hear tales about
+how scary monsters are, but when you're
+an adult, you get to find out firsthand..."
+40,Thanks00,わずかばかりだが感謝の気持ちだ…,"I know it's not much, but I'd like to
+give you some kind of thanks."

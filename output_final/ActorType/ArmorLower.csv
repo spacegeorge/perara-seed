@@ -1,0 +1,785 @@
+#,Title,JPja,USen
+1,Armor_001_Lower_Desc,"ハイラルで広く親しまれている一般的なズボン
+柔らかな布で作られており心地が良い
+作りは丈夫なので旅の装束としても人気","Traditional dress trousers of Hyrule.
+The plush fabric makes these trousers
+quite comfortable, and their high durability
+makes them ideal for travelers."
+2,Armor_001_Lower_Name,ハイリアのズボン,Hylian Trousers
+3,Armor_002_Lower_Desc,"ハイラルで広く親しまれている一般的なズボン
+柔らかな布で作られており心地が良い
+大妖精の力で防御力が1段階アップしている","These trousers are common throughout the
+Hyrule region. The soft fabric makes them
+quite comfortable. A Great Fairy has
+increased their defense by one level."
+4,Armor_002_Lower_Name,ハイリアのズボン,Hylian Trousers
+5,Armor_003_Lower_Desc,"ハイラルで広く親しまれている一般的なズボン
+柔らかな布で作られており心地が良い
+大妖精の力で防御力が2段階アップしている","These trousers are common throughout the
+Hyrule region. The soft fabric makes them
+quite comfortable. A Great Fairy has
+increased their defense by two levels."
+6,Armor_003_Lower_Name,ハイリアのズボン,Hylian Trousers
+7,Armor_004_Lower_Desc,"ハイラルで広く親しまれている一般的なズボン
+柔らかな布で作られており心地が良い
+大妖精の力で防御力が3段階アップしている","These trousers are common throughout the
+Hyrule region. The soft fabric makes them
+quite comfortable. A Great Fairy has
+increased their defense by three levels."
+8,Armor_004_Lower_Name,ハイリアのズボン,Hylian Trousers
+9,Armor_005_Lower_Desc,"荒野を旅する勇者のために 
+あつらえられたと いわれているズボン
+サイズもちょうど良く履き心地が抜群","Legends say these pants were tailored for a
+hero who travels the wilderness. Strangely
+enough, they're the most comfortable pair
+of pants you've ever worn."
+10,Armor_005_Lower_Name,息吹の勇者ズボン,Trousers of the Wild
+11,Armor_006_Lower_Desc,"ゾーラ族に代々伝わる すねあて
+龍の鱗が素材として使われているといわれ
+装備すると泳ぎが速くなる効果を発揮する","These greaves have been passed down
+among the Zora for generations. It's been
+said they're crafted using dragon scales.
+Equip them to swim faster."
+12,Armor_006_Lower_Name,ゾーラのすねあて,Zora Greaves
+13,Armor_007_Lower_Desc,"ゾーラ族に代々伝わる すねあて
+装備すると泳ぎが速くなる効果を発揮する
+大妖精の力で防御力が1段階アップしている","These greaves have been passed down
+among the Zora for generations. Equip
+them to swim faster. A Great Fairy has
+increased their defense by one level."
+14,Armor_007_Lower_Name,ゾーラのすねあて,Zora Greaves
+15,Armor_008_Lower_Desc,"ゲルド秘密クラブで密かに売られている
+男性用のズボン氷の力を宿すサファイアが
+使われており その加護により耐暑効果を発揮する","Gerudo-made trousers for men sold rarely
+by Gerudo retailers. Sapphire is used in
+their creation, which harnesses the power
+of ice to make the heat more tolerable."
+16,Armor_008_Lower_Name,熱砂のズボン,Desert Voe Trousers
+17,Armor_009_Lower_Desc,"リト族の生え替わりの羽を使って作られたズボン
+布の内側に羽毛が仕込まれており保温性に優れる
+リトの村でハイリア人向けに販売されている","The Rito sell these trousers to Hylians
+in Rito Village. The inside is lined with
+Rito feathers, so they excel at retaining
+body heat."
+18,Armor_009_Lower_Name,リトの羽毛ズボン,Snowquill Trousers
+19,Armor_011_Lower_Desc,"ゴロンシティを訪れるハイリア人のために
+ゴロン族の職人がこしらえた靴石を中心に
+燃えない素材で作られており耐火性能を持つ","Goron artisans used flame-resistant rocks to
+craft these fireproof boots for curious Hylians
+visiting Goron City."
+20,Armor_011_Lower_Name,耐火の石靴,Flamebreaker Boots
+21,Armor_012_Lower_Desc,"シーカー族が隠密行動時に使うタイツ
+衣擦れの音を極力抑えるよう 
+古代の技術を使った布で作られている","Members of the Sheikah tribe wear these
+tights when they need to move stealthily.
+They're made from noise-suppressing cloth,
+a hallmark of ancient Sheikah technology."
+22,Armor_012_Lower_Name,忍びタイツ,Stealth Tights
+23,Armor_014_Lower_Desc,"古代の技術が用いられた壁登り用の靴
+足先に滑りにくい素材が使われており壁面を
+しっかりと捉える事で崖を速く登る事ができる","These rock-climbing boots have special
+no-slip toes that help you cling to walls.
+This ancient technology facilitates more
+nimble climbing."
+24,Armor_014_Lower_Name,クライムシューズ,Climbing Boots
+25,Armor_015_Lower_Desc,"ハイラルで広く親しまれている一般的なズボン
+柔らかな布で作られており心地が良い
+大妖精の力で防御力が最大までアップしている","These trousers are common throughout the
+Hyrule region. The soft fabric makes them
+quite comfortable. A Great Fairy increased
+their defense to the maximum level."
+26,Armor_015_Lower_Name,ハイリアのズボン,Hylian Trousers
+27,Armor_017_Lower_Desc,"ゲルド秘密クラブで秘密裏に売られているタイツ
+夜光石を砕いて作った特殊な染料でペイントが
+施されており暗闇になると怪しく光る","These tights are sold in the Gerudo Secret
+Club. They're painted with dye from crushed
+luminous stones, which gives them an eerie
+glow in the dark."
+28,Armor_017_Lower_Name,夜光タイツ,Radiant Tights
+29,Armor_020_Lower_Desc,"ハイリア人兵士が装備していたすねあて
+丈夫な金属を加工して作られ高い防御力が特徴
+重量があるので装備して走るのには慣れが必要","Hyrulean guards favored these greaves.
+They owe their distinctly high defense to
+the metal plates they're made from, but the
+added weight takes some getting used to."
+30,Armor_020_Lower_Name,ハイリア兵のすねあて,Soldier's Greaves
+31,Armor_021_Lower_Desc,"古代研究所のロベリーによって開発された防具
+ガーディアンに使われている技術を用いており
+古代兵器から受けるダメージを軽減できる","Robbie engineered these greaves at the
+research institute using the same technology
+found in Guardian automata. They reduce
+damage from ancient weaponry."
+32,Armor_021_Lower_Name,古代兵装・下鎧,Ancient Greaves
+33,Armor_035_Lower_Desc,"荒野を旅する勇者のために 
+あつらえられたと いわれているズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were tailored
+for a hero who travels the wilderness.
+A Great Fairy has increased their
+defense by one level."
+34,Armor_035_Lower_Name,息吹の勇者ズボン,Trousers of the Wild
+35,Armor_036_Lower_Desc,"リト族の生え替わりの羽を使って作られたズボン
+布の内側に羽毛が仕込まれており保温性に優れる
+大妖精の力で防御力が1段階アップしている","The Rito feathers that line these trousers
+make them excellent at retaining body heat.
+A Great Fairy has increased their defense
+by one level."
+36,Armor_036_Lower_Name,リトの羽毛ズボン,Snowquill Trousers
+37,Armor_037_Lower_Desc,"ゴロン族の職人がハイリア人向けに こしらえた靴
+燃えない素材で作られており耐火性能を持つ
+大妖精の力で防御力が1段階アップしている","Goron artisans used flame-resistant rocks to
+craft these fireproof boots for curious Hylians
+visiting Goron City. A Great Fairy has
+increased their defense by one level."
+38,Armor_037_Lower_Name,耐火の石靴,Flamebreaker Boots
+39,Armor_039_Lower_Desc,"荒野を旅する勇者のために 
+あつらえられたと いわれているズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were tailored
+for a hero who travels the wilderness.
+A Great Fairy has increased their
+defense by two levels."
+40,Armor_039_Lower_Name,息吹の勇者ズボン,Trousers of the Wild
+41,Armor_040_Lower_Desc,"ゲルド秘密クラブで売られている男性用のズボン
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が1段階アップしている","Gerudo trousers for men sold in the Gerudo
+Secret Club. Sapphire used in their creation 
+offers protection from the heat. A Great
+Fairy increased their defense by one level."
+42,Armor_040_Lower_Name,熱砂のズボン,Desert Voe Trousers
+43,Armor_042_Lower_Desc,"衣擦れの音を極力抑えるよう 
+古代の技術を使った布で作られたタイツ
+大妖精の力で防御力が1段階アップしている","Tights crafted by the Sheikah, laced with
+ancient technology that suppresses the
+noisy rustling of clothes. A Great Fairy
+has increased their defense by one level."
+44,Armor_042_Lower_Name,忍びタイツ,Stealth Tights
+45,Armor_043_Lower_Desc,"あちこちすり切れたパンツ
+着古されているが その分はき心地が良い
+でもちょっとすそが短い","These old trousers are threadbare in
+spots, but they're surprisingly comfortable.
+The legs are a bit too short, though."
+46,Armor_043_Lower_Name,古びたパンツ,Well-Worn Trousers
+47,Armor_046_Lower_Desc,"耐電性能を持つ貴重なタイツ
+古代技術を用いたゴムという素材で
+出来ており現代では作る事ができない","These invaluable tights are resistant to
+electricity. They're made with something
+called \""rubber,\"" an ancient technology
+that no longer exists in this modern age."
+48,Armor_046_Lower_Name,ラバータイツ,Rubber Tights
+49,Armor_048_Lower_Desc,"大昔にフィローネ地方にいたといわれる
+戦闘部族の腰巻き身に着けた者は施された特殊な
+文様により闘争心が湧いて攻撃力が増加する","These leg wraps were favored by a warlike
+tribe from the Faron region long ago. They're
+adorned with traditional markings that bolster
+your fighting spirit to raise your attack power."
+50,Armor_048_Lower_Name,蛮族の腰巻き,Barbarian Leg Wraps
+51,Armor_049_Lower_Desc,"昔のゲルド族が使っていたという貴重なブーツ
+砂に埋まりにくい靴底になっており
+装備すると砂漠でも移動速度が落ちない","Gerudo artisans modified these boots for life
+in the desert. The special soles distribute
+your body weight evenly so you can maintain
+your normal movement speed on sand."
+52,Armor_049_Lower_Name,サンドブーツ,Sand Boots
+53,Armor_053_Lower_Desc,"ゲルド族の女性が身につけているパンツ
+丈が短く動きやすさを重視している
+さりげないゲルドの伝統的な細工が お洒落な品","Gerudo favor this traditional sirwal. Its short
+length allows for ease of movement, and its
+subtle design is quite fashionable."
+54,Armor_053_Lower_Name,淑女のパンツ,Gerudo Sirwal
+55,Armor_060_Lower_Desc,"荒野を旅する勇者のために 
+あつらえられたと いわれているズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were tailored
+for a hero who travels the wilderness.
+A Great Fairy has increased their
+defense by three levels."
+56,Armor_060_Lower_Name,息吹の勇者ズボン,Trousers of the Wild
+57,Armor_061_Lower_Desc,"荒野を旅する勇者のために 
+あつらえられたと いわれているズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were tailored
+for a hero who travels the wilderness.
+A Great Fairy has increased their
+defense to its maximum level."
+58,Armor_061_Lower_Name,息吹の勇者ズボン,Trousers of the Wild
+59,Armor_062_Lower_Desc,"ゾーラ族に代々伝わる すねあて
+装備すると泳ぎが速くなる効果を発揮する
+大妖精の力で防御力が2段階アップしている","These greaves have been passed down
+among the Zora for generations. Equip
+them to swim faster. A Great Fairy has
+increased their defense by two levels."
+60,Armor_062_Lower_Name,ゾーラのすねあて,Zora Greaves
+61,Armor_063_Lower_Desc,"ゾーラ族に代々伝わる すねあて
+装備すると泳ぎが速くなる効果を発揮する
+大妖精の力で防御力が3段階アップしている","These greaves have been passed down
+among the Zora for generations. Equip
+them to swim faster. A Great Fairy has
+increased their defense by three levels."
+62,Armor_063_Lower_Name,ゾーラのすねあて,Zora Greaves
+63,Armor_064_Lower_Desc,"ゾーラ族に代々伝わる すねあて
+装備すると泳ぎが速くなる効果を発揮する
+大妖精の力で防御力が最大までアップしている","These greaves have been passed down
+among the Zora for generations. Equip them
+to swim faster. A Great Fairy has increased
+their defense to the maximum level."
+64,Armor_064_Lower_Name,ゾーラのすねあて,Zora Greaves
+65,Armor_065_Lower_Desc,"ゲルド秘密クラブで売られている男性用のズボン
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が2段階アップしている","Gerudo trousers for men sold in the Gerudo
+Secret Club. Sapphire used in their creation
+offers protection from the heat. A Great
+Fairy increased their defense by two levels."
+66,Armor_065_Lower_Name,熱砂のズボン,Desert Voe Trousers
+67,Armor_066_Lower_Desc,"ゲルド秘密クラブで売られている男性用のズボン
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が3段階アップしている","Gerudo trousers for men sold in the Gerudo
+Secret Club. Sapphire used in their creation
+offers protection from the heat. A Great
+Fairy increased their defense by three levels."
+68,Armor_066_Lower_Name,熱砂のズボン,Desert Voe Trousers
+69,Armor_067_Lower_Desc,"ゲルド秘密クラブで売られている男性用のズボン
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が最大までアップしている","Gerudo trousers for men sold in the Gerudo
+Secret Club. Contain sapphire, which offers
+protection from the heat. A Great Fairy
+raised their defense to its maximum level."
+70,Armor_067_Lower_Name,熱砂のズボン,Desert Voe Trousers
+71,Armor_071_Lower_Desc,"リト族の生え替わりの羽を使って作られたズボン
+布の内側に羽毛が仕込まれており保温性に優れる
+大妖精の力で防御力が2段階アップしている","The Rito feathers that line these trousers
+make them excellent at retaining body heat.
+A Great Fairy has increased their defense
+by two levels."
+72,Armor_071_Lower_Name,リトの羽毛ズボン,Snowquill Trousers
+73,Armor_072_Lower_Desc,"リト族の生え替わりの羽を使って作られたズボン
+布の内側に羽毛が仕込まれており保温性に優れる
+大妖精の力で防御力が3段階アップしている","The Rito feathers that line these trousers
+make them excellent at retaining body heat.
+A Great Fairy has increased their defense
+by three levels."
+74,Armor_072_Lower_Name,リトの羽毛ズボン,Snowquill Trousers
+75,Armor_073_Lower_Desc,"リト族の生え替わりの羽を使って作られたズボン
+布の内側に羽毛が仕込まれており保温性に優れる
+大妖精の力で防御力が最大までアップしている","The Rito feathers that line these trousers
+make them excellent at retaining body heat.
+A Great Fairy has increased their defense
+to its maximum level."
+76,Armor_073_Lower_Name,リトの羽毛ズボン,Snowquill Trousers
+77,Armor_074_Lower_Desc,"ゴロン族の職人がハイリア人向けに こしらえた靴
+燃えない素材で作られており耐火性能を持つ
+大妖精の力で防御力が2段階アップしている","Goron artisans used flame-resistant rocks to
+craft these fireproof boots for curious Hylians
+visiting Goron City. A Great Fairy has
+increased their defense by two levels."
+78,Armor_074_Lower_Name,耐火の石靴,Flamebreaker Boots
+79,Armor_075_Lower_Desc,"ゴロン族の職人がハイリア人向けに こしらえた靴
+燃えない素材で作られており耐火性能を持つ
+大妖精の力で防御力が3段階アップしている","Goron artisans used flame-resistant rocks to
+craft these fireproof boots for curious Hylians
+visiting Goron City. A Great Fairy has
+increased their defense by three levels."
+80,Armor_075_Lower_Name,耐火の石靴,Flamebreaker Boots
+81,Armor_076_Lower_Desc,"ゴロン族の職人がハイリア人向けに こしらえた靴
+燃えない素材で作られており耐火性能を持つ
+大妖精の力で防御力が最大までアップしている","Goron artisans used flame-resistant rocks to
+craft these fireproof boots for curious Hylians
+visiting Goron City. A Great Fairy raised
+their defense to its maximum level."
+82,Armor_076_Lower_Name,耐火の石靴,Flamebreaker Boots
+83,Armor_077_Lower_Desc,"衣擦れの音を極力抑えるよう 
+古代の技術を使った布で作られたタイツ
+大妖精の力で防御力が2段階アップしている","Tights crafted by the Sheikah, laced with
+ancient technology that suppresses the
+noisy rustling of clothes. A Great Fairy has
+increased their defense by two levels."
+84,Armor_077_Lower_Name,忍びタイツ,Stealth Tights
+85,Armor_078_Lower_Desc,"衣擦れの音を極力抑えるよう 
+古代の技術を使った布で作られたタイツ
+大妖精の力で防御力が3段階アップしている","Tights crafted by the Sheikah, laced with
+ancient technology that suppresses the
+noisy rustling of clothes. A Great Fairy has
+increased their defense by three levels."
+86,Armor_078_Lower_Name,忍びタイツ,Stealth Tights
+87,Armor_079_Lower_Desc,"衣擦れの音を極力抑えるよう 
+古代の技術を使った布で作られたタイツ
+大妖精の力で防御力が最大までアップしている","Tights crafted by the Sheikah, laced with
+ancient technology that suppresses the
+noisy rustling of clothes. A Great Fairy has
+raised their defense to its maximum level."
+88,Armor_079_Lower_Name,忍びタイツ,Stealth Tights
+89,Armor_083_Lower_Desc,"古代の技術が用いられた素材で足先が
+滑りにくくなっており崖を速く登る事ができる靴
+大妖精の力で防御力が1段階アップしている","The special no-slip toes of these boots make
+you a more efficient climber. A Great Fairy
+has increased their defense by one level."
+90,Armor_083_Lower_Name,クライムシューズ,Climbing Boots
+91,Armor_084_Lower_Desc,"古代の技術が用いられた素材で足先が
+滑りにくくなっており崖を速く登る事ができる靴
+大妖精の力で防御力が2段階アップしている","The special no-slip toes of these boots make
+you a more efficient climber. A Great Fairy
+has increased their defense by two levels."
+92,Armor_084_Lower_Name,クライムシューズ,Climbing Boots
+93,Armor_085_Lower_Desc,"古代の技術が用いられた素材で足先が
+滑りにくくなっており崖を速く登る事ができる靴
+大妖精の力で防御力が3段階アップしている","The special no-slip toes of these boots make
+you a more efficient climber. A Great Fairy
+has increased their defense by three levels."
+94,Armor_085_Lower_Name,クライムシューズ,Climbing Boots
+95,Armor_086_Lower_Desc,"古代の技術が用いられた素材で足先が
+滑りにくくなっており崖を速く登る事ができる靴
+大妖精の力で防御力が最大までアップしている","The special no-slip toes of these boots
+make you a more efficient climber.
+A Great Fairy has increased their defense
+to its maximum level."
+96,Armor_086_Lower_Name,クライムシューズ,Climbing Boots
+97,Armor_087_Lower_Desc,"ゲルド秘密クラブで秘密裏に売られているタイツ
+特殊な染料のペイントが暗闇になると怪しく光る
+大妖精の力で防御力が1段階アップしている","Tights sold by the Gerudo Secret Club. Paint
+made from crushed luminous stones causes
+them to glow in the dark. A Great Fairy
+increased their defense by one level."
+98,Armor_087_Lower_Name,夜光タイツ,Radiant Tights
+99,Armor_088_Lower_Desc,"ゲルド秘密クラブで秘密裏に売られているタイツ
+特殊な染料のペイントが暗闇になると怪しく光る
+大妖精の力で防御力が2段階アップしている","Tights sold by the Gerudo Secret Club. Paint
+made from crushed luminous stones causes
+them to glow in the dark. A Great Fairy
+increased their defense by two levels."
+100,Armor_088_Lower_Name,夜光タイツ,Radiant Tights
+101,Armor_089_Lower_Desc,"ゲルド秘密クラブで秘密裏に売られているタイツ
+特殊な染料のペイントが暗闇になると怪しく光る
+大妖精の力で防御力が3段階アップしている","Tights sold by the Gerudo Secret Club. Paint
+made from crushed luminous stones causes
+them to glow in the dark. A Great Fairy
+increased their defense by three levels."
+102,Armor_089_Lower_Name,夜光タイツ,Radiant Tights
+103,Armor_090_Lower_Desc,"ゲルド秘密クラブで秘密裏に売られているタイツ
+特殊な染料のペイントが暗闇になると怪しく光る
+大妖精の力で防御力が最大までアップしている","Tights sold by the Gerudo Secret Club. Paint
+made from crushed luminous stones causes
+them to glow in the dark. A Great Fairy
+raised their defense to its maximum level."
+104,Armor_090_Lower_Name,夜光タイツ,Radiant Tights
+105,Armor_095_Lower_Desc,"ハイリア人兵士が装備していたすねあて
+丈夫な金属を加工して作られ高い防御力が特徴
+大妖精の力で防御力が1段階アップしている","Greaves favored by Hyrulean guards. They
+owe their distinctly high defense to the metal
+plates they're made from. A Great Fairy
+has increased their defense by one level."
+106,Armor_095_Lower_Name,ハイリア兵のすねあて,Soldier's Greaves
+107,Armor_096_Lower_Desc,"ハイリア人兵士が装備していたすねあて
+丈夫な金属を加工して作られ高い防御力が特徴
+大妖精の力で防御力が2段階アップしている","Greaves favored by Hyrulean guards. They
+owe their distinctly high defense to the metal
+plates they're made from. A Great Fairy
+has increased their defense by two levels."
+108,Armor_096_Lower_Name,ハイリア兵のすねあて,Soldier's Greaves
+109,Armor_097_Lower_Desc,"ハイリア人兵士が装備していたすねあて
+丈夫な金属を加工して作られ高い防御力が特徴
+大妖精の力で防御力が3段階アップしている","Greaves favored by Hyrulean guards. They
+owe their distinctly high defense to the metal
+plates they're made from. A Great Fairy
+has increased their defense by three levels."
+110,Armor_097_Lower_Name,ハイリア兵のすねあて,Soldier's Greaves
+111,Armor_098_Lower_Desc,"ハイリア人兵士が装備していたすねあて
+丈夫な金属を加工して作られ高い防御力が特徴
+大妖精の力で防御力が最大までアップしている","Greaves favored by Hyrulean guards. They
+owe their distinctly high defense to the metal
+plates they're made from. A Great Fairy
+raised their defense to the maximum level."
+112,Armor_098_Lower_Name,ハイリア兵のすねあて,Soldier's Greaves
+113,Armor_099_Lower_Desc,"ガーディアンに使われている技術を用いた防具
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が1段階アップしている","These greaves use the same technology 
+found in Guardian automata, which reduces
+damage from ancient weaponry. A Great
+Fairy increased their defense by one level."
+114,Armor_099_Lower_Name,古代兵装・下鎧,Ancient Greaves
+115,Armor_100_Lower_Desc,"ガーディアンに使われている技術を用いた防具
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が2段階アップしている","These greaves use the same technology
+found in Guardian automata, which reduces
+damage from ancient weaponry. A Great
+Fairy increased their defense by two levels."
+116,Armor_100_Lower_Name,古代兵装・下鎧,Ancient Greaves
+117,Armor_101_Lower_Desc,"ガーディアンに使われている技術を用いた防具
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が3段階アップしている","These greaves use the same technology
+found in Guardian automata, which reduces
+damage from ancient weaponry. A Great
+Fairy increased their defense by three levels."
+118,Armor_101_Lower_Name,古代兵装・下鎧,Ancient Greaves
+119,Armor_102_Lower_Desc,"ガーディアンに使われている技術を用いた防具
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が最大までアップしている","These greaves use the same technology as
+Guardians to reduce damage from ancient
+weaponry. A Great Fairy raised their
+defense to its maximum level."
+120,Armor_102_Lower_Name,古代兵装・下鎧,Ancient Greaves
+121,Armor_103_Lower_Desc,"耐電性能を持つ貴重なタイツ
+古代技術を用いたゴムという素材で出来ている
+大妖精の力で防御力が1段階アップしている","These invaluable tights are resistant to
+electricity. They're made with an ancient
+technology called \""rubber.\"" A Great Fairy
+has increased their defense by one level."
+122,Armor_103_Lower_Name,ラバータイツ,Rubber Tights
+123,Armor_104_Lower_Desc,"耐電性能を持つ貴重なタイツ
+古代技術を用いたゴムという素材で出来ている
+大妖精の力で防御力が2段階アップしている","These invaluable tights are resistant to
+electricity. They're made with an ancient
+technology called \""rubber.\"" A Great Fairy
+has increased their defense by two levels."
+124,Armor_104_Lower_Name,ラバータイツ,Rubber Tights
+125,Armor_105_Lower_Desc,"耐電性能を持つ貴重なタイツ
+古代技術を用いたゴムという素材で出来ている
+大妖精の力で防御力が3段階アップしている","These invaluable tights are resistant to
+electricity. They're made with an ancient
+technology called \""rubber.\"" A Great Fairy
+has increased their defense by three levels."
+126,Armor_105_Lower_Name,ラバータイツ,Rubber Tights
+127,Armor_106_Lower_Desc,"耐電性能を持つ貴重なタイツ
+古代技術を用いたゴムという素材で出来ている
+大妖精の力で防御力が最大までアップしている","These invaluable tights are resistant to
+electricity. They're made with an ancient
+technology called \""rubber.\"" A Great Fairy
+raised their defense to its maximum level."
+128,Armor_106_Lower_Name,ラバータイツ,Rubber Tights
+129,Armor_111_Lower_Desc,"戦闘部族の腰巻き身に着けた者は施された特殊な
+文様により闘争心が湧いて攻撃力が増加する
+大妖精の力で防御力が1段階アップしている","Leg wraps once favored by a warlike tribe.
+The traditional design bolsters your fighting
+spirit and raises your strength. A Great
+Fairy increased their defense by one level."
+130,Armor_111_Lower_Name,蛮族の腰巻き,Barbarian Leg Wraps
+131,Armor_112_Lower_Desc,"戦闘部族の腰巻き身に着けた者は施された特殊な
+文様により闘争心が湧いて攻撃力が増加する
+大妖精の力で防御力が2段階アップしている","Leg wraps once favored by a warlike tribe.
+The traditional design bolsters your fighting
+spirit and raises your strength. A Great
+Fairy increased their defense by two levels."
+132,Armor_112_Lower_Name,蛮族の腰巻き,Barbarian Leg Wraps
+133,Armor_113_Lower_Desc,"戦闘部族の腰巻き身に着けた者は施された特殊な
+文様により闘争心が湧いて攻撃力が増加する
+大妖精の力で防御力が3段階アップしている","Leg wraps once favored by a warlike tribe.
+The traditional design bolsters your fighting
+spirit and raises your strength. A Great
+Fairy increased their defense by three levels."
+134,Armor_113_Lower_Name,蛮族の腰巻き,Barbarian Leg Wraps
+135,Armor_114_Lower_Desc,"戦闘部族の腰巻き身に着けた者は施された特殊な
+文様により闘争心が湧いて攻撃力が増加する
+大妖精の力で防御力が最大までアップしている","Leg wraps once favored by a warlike tribe.
+The traditional design bolsters your fighting
+spirit to raise your strength. A Great Fairy
+raised their defense to its maximum level."
+136,Armor_114_Lower_Name,蛮族の腰巻き,Barbarian Leg Wraps
+137,Armor_140_Lower_Desc,"ボテンサから借りた靴
+体重を分散させる工夫がされていて
+深い雪の上でも移動速度が落ちない","Bozai was kind enough to lend you these
+boots. They evenly distribute your body
+weight so you can maintain your normal
+walking speed over deep snow."
+138,Armor_140_Lower_Name,スノーブーツ,Snow Boots
+139,Armor_141_Lower_Desc,"その昔雪山に登る時に使われていたという 
+貴重なブーツ体重を分散させる工夫がされており
+装備すると深い雪の上でも移動速度が落ちない","Boots designed for hiking up snowy
+mountains. They evenly distribute your
+body weight so you can maintain your
+normal movement speed on deep snow."
+140,Armor_141_Lower_Name,スノーブーツ,Snow Boots
+141,Armor_152_Lower_Desc,"砂に埋まりにくい靴底になっていて
+砂漠でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が1段階アップしている","These Gerudo-made boots evenly distribute
+your weight so you can maintain your normal
+movement speed on sand. A Great Fairy
+has increased their defense by one level."
+142,Armor_152_Lower_Name,サンドブーツ,Sand Boots
+143,Armor_153_Lower_Desc,"砂に埋まりにくい靴底になっていて
+砂漠でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が2段階アップしている","These Gerudo-made boots evenly distribute
+your weight so you can maintain your normal
+movement speed on sand. A Great Fairy
+has increased their defense by two levels."
+144,Armor_153_Lower_Name,サンドブーツ,Sand Boots
+145,Armor_154_Lower_Desc,"砂に埋まりにくい靴底になっていて
+砂漠でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が3段階アップしている","These Gerudo-made boots evenly distribute
+your weight so you can maintain your normal
+movement speed on sand. A Great Fairy
+has increased their defense by three levels."
+146,Armor_154_Lower_Name,サンドブーツ,Sand Boots
+147,Armor_155_Lower_Desc,"砂に埋まりにくい靴底になっていて
+砂漠でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が最大までアップしている","These Gerudo-made boots evenly distribute
+your weight so you can maintain your normal
+movement speed on sand. A Great Fairy
+raised their defense to its maximum level."
+148,Armor_155_Lower_Name,サンドブーツ,Sand Boots
+149,Armor_156_Lower_Desc,"体重を分散させる工夫がされていて
+深い雪の上でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が1段階アップしている","These boots evenly distribute your body
+weight so you can maintain your normal
+movement speed on deep snow. A Great
+Fairy increased their defense by one level."
+150,Armor_156_Lower_Name,スノーブーツ,Snow Boots
+151,Armor_157_Lower_Desc,"体重を分散させる工夫がされていて
+深い雪の上でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が2段階アップしている","These boots evenly distribute your body
+weight so you can maintain your normal
+movement speed on deep snow. A Great
+Fairy increased their defense by two levels."
+152,Armor_157_Lower_Name,スノーブーツ,Snow Boots
+153,Armor_158_Lower_Desc,"体重を分散させる工夫がされていて
+深い雪の上でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が3段階アップしている","These boots evenly distribute your body
+weight so you can maintain your normal
+movement speed on deep snow. A Great
+Fairy increased their defense by three levels."
+154,Armor_158_Lower_Name,スノーブーツ,Snow Boots
+155,Armor_159_Lower_Desc,"体重を分散させる工夫がされていて
+深い雪の上でも移動速度が落ちない貴重なブーツ
+大妖精の力で防御力が最大までアップしている","These boots distribute your body weight so
+you can maintain your normal movement
+speed on deep snow. A Great Fairy
+raised their defense to its maximum level."
+156,Armor_159_Lower_Name,スノーブーツ,Snow Boots
+157,Armor_160_Lower_Desc,"魔物研究を続けているキルトンが作りだした防具
+一見普通の黒いズボンだが影から生まれた
+魔物を イメージしているらしい","The result of Kilton's research into monsters.
+Looks like your average leg wear at first, but
+these were created based on the image of
+a monster born of darkness."
+158,Armor_160_Lower_Name,ダークレッグ,Dark Trousers
+159,Armor_171_Lower_Desc,"かつて勇者ですら恐れた甲冑の魔物が存在した
+その魔物がまとっていたと伝えられる すねあて
+簡単には手に入らない貴重な品だ","Myths abound about armored phantoms that
+terrorized brave heroes. These greaves look
+just like the ones they supposedly wore.
+They're a rather rare find."
+160,Armor_171_Lower_Name,ファントムのすねあて,Phantom Greaves
+161,Armor_174_Lower_Desc,"妖精に憧れた男が 好んで身に着けていたズボン
+その男にとって緑の色は妖精の証だったらしい
+簡単には手に入らない品のようだ","There was once a man who claimed to be
+the very reincarnation of a fairy. He treasured
+these tights, and so will you. After all,
+they're a rather rare find. Kooloo-Limpah!"
+162,Armor_174_Lower_Name,チンクルのズボン,Tingle's Tights
+163,Armor_179_Lower_Desc,"ハイラル王国近衛兵の正装とされるブーツ
+見た目だけでなく動きやすさも兼ね備えたもの
+簡単には手に入らない珍しい物だ","These boots are part of the uniform for
+Hyrule's Royal Guard. They're a fine blend
+of style and function and a rather rare find."
+164,Armor_179_Lower_Name,近衛兵のブーツ,Royal Guard Boots
+165,Armor_180_Lower_Desc,"かつて大魔王が自らを模し造り出した悪霊が
+まとっていたと伝えられる具足
+簡単には手に入らない貴重な品だ","Some believe these greaves are inspirited
+by a dark entity resembling the Great King
+of Evil himself. They're a rather rare find."
+166,Armor_180_Lower_Name,ファントムガノン具足,Phantom Ganon Greaves
+167,Armor_185_Lower_Desc,"【コラボ：ゼノブレイド２】
+雲海に沈むお宝を集めて暮らす少年の必需品
+簡単には手に入らない貴重な品だ","[Collaboration: Xenoblade Chronicles 2]
+Essential gear used by a boy who seeks
+sunken treasure in the Cloud Sea.
+They're a rather rare find."
+168,Armor_185_Lower_Name,サルベージャーレッグ,Salvager Trousers
+169,Armor_200_Lower_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれるズボン
+元々は森の民が作った物らしい","Legends say these trousers were once worn
+by a hero who traveled through time. They
+were originally made by a people who made
+their home in the forest."
+170,Armor_200_Lower_Name,時の勇者ズボン,Trousers of Time
+171,Armor_201_Lower_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれるズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were once worn
+by a hero who traveled through time.
+A Great Fairy has increased their defense
+by one level."
+172,Armor_201_Lower_Name,時の勇者ズボン,Trousers of Time
+173,Armor_202_Lower_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれるズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were once worn
+by a hero who traveled through time.
+A Great Fairy has increased their defense
+by two levels."
+174,Armor_202_Lower_Name,時の勇者ズボン,Trousers of Time
+175,Armor_203_Lower_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれるズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were once worn
+by a hero who traveled through time.
+A Great Fairy has increased their defense
+by three levels."
+176,Armor_203_Lower_Name,時の勇者ズボン,Trousers of Time
+177,Armor_204_Lower_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれるズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were once worn
+by a hero who traveled through time.
+A Great Fairy has increased their defense
+to its maximum level."
+178,Armor_204_Lower_Name,時の勇者ズボン,Trousers of Time
+179,Armor_205_Lower_Desc,"大海原を旅した勇者が
+愛用したといわれているズボン
+多少水に濡れても平気な作りになっている","Legends say these trousers were cherished
+by a hero who sailed the Great Sea. They're
+water-resistant, naturally."
+180,Armor_205_Lower_Name,風の勇者ズボン,Trousers of the Wind
+181,Armor_206_Lower_Desc,"大海原を旅した勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were once
+cherished by a hero who sailed the Great
+Sea. A Great Fairy has increased their
+defense by one level."
+182,Armor_206_Lower_Name,風の勇者ズボン,Trousers of the Wind
+183,Armor_207_Lower_Desc,"大海原を旅した勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were once
+cherished by a hero who sailed the Great
+Sea. A Great Fairy has increased their
+defense by two levels."
+184,Armor_207_Lower_Name,風の勇者ズボン,Trousers of the Wind
+185,Armor_208_Lower_Desc,"大海原を旅した勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were once
+cherished by a hero who sailed the Great
+Sea. A Great Fairy has increased their
+defense by three levels."
+186,Armor_208_Lower_Name,風の勇者ズボン,Trousers of the Wind
+187,Armor_209_Lower_Desc,"大海原を旅した勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were once
+cherished by a hero who sailed the Great
+Sea. A Great Fairy has increased their
+defense to its maximum level."
+188,Armor_209_Lower_Name,風の勇者ズボン,Trousers of the Wind
+189,Armor_210_Lower_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれるズボン
+内側には少しだけ狼の毛が付いている","Legends say these trousers were once worn
+by a hero who battled the beasts of twilight.
+The insides are lined with cozy wolf fur."
+190,Armor_210_Lower_Name,黄昏の勇者ズボン,Trousers of Twilight
+191,Armor_211_Lower_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれるズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were once worn
+by a hero who battled the beasts of twilight.
+A Great Fairy has increased their defense
+by one level."
+192,Armor_211_Lower_Name,黄昏の勇者ズボン,Trousers of Twilight
+193,Armor_212_Lower_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれるズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were once worn
+by a hero who battled the beasts of twilight.
+A Great Fairy has increased their defense
+by two levels."
+194,Armor_212_Lower_Name,黄昏の勇者ズボン,Trousers of Twilight
+195,Armor_213_Lower_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれるズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were once worn
+by a hero who battled the beasts of twilight.
+A Great Fairy has increased their defense
+by three levels."
+196,Armor_213_Lower_Name,黄昏の勇者ズボン,Trousers of Twilight
+197,Armor_214_Lower_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれるズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were once worn
+by a hero who battled the beasts of twilight.
+A Great Fairy has increased their defense
+to its maximum level."
+198,Armor_214_Lower_Name,黄昏の勇者ズボン,Trousers of Twilight
+199,Armor_215_Lower_Desc,"鳥に乗って空から現れた勇者が
+いつも履いていたといわれているズボン
+騎士団の制服だったらしい","Legends say these trousers were once worn
+by a hero who appeared from the sky riding
+a mighty bird. It was the official garb of a
+certain order of knights."
+200,Armor_215_Lower_Name,大空の勇者ズボン,Trousers of the Sky
+201,Armor_216_Lower_Desc,"鳥に乗って空から現れた勇者が
+いつも履いていたといわれているズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were once worn
+by a hero who appeared from the sky riding
+a mighty bird. A Great Fairy has increased
+their defense by one level."
+202,Armor_216_Lower_Name,大空の勇者ズボン,Trousers of the Sky
+203,Armor_217_Lower_Desc,"鳥に乗って空から現れた勇者が
+いつも履いていたといわれているズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were once worn
+by a hero who appeared from the sky riding
+a mighty bird. A Great Fairy has increased
+their defense by two levels."
+204,Armor_217_Lower_Name,大空の勇者ズボン,Trousers of the Sky
+205,Armor_218_Lower_Desc,"鳥に乗って空から現れた勇者が
+いつも履いていたといわれているズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were once worn
+by a hero who appeared from the sky riding
+a mighty bird. A Great Fairy has increased
+their defense by three levels."
+206,Armor_218_Lower_Name,大空の勇者ズボン,Trousers of the Sky
+207,Armor_219_Lower_Desc,"鳥に乗って空から現れた勇者が
+いつも履いていたといわれているズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were once worn
+by a hero who appeared from the sky riding
+a mighty bird. A Great Fairy has increased
+their defense to its maximum level."
+208,Armor_219_Lower_Name,大空の勇者ズボン,Trousers of the Sky
+209,Armor_225_Lower_Desc,"月が落ちてくる世界の勇者が持っていたブーツ
+身に着けると鬼神のごとき力が湧いてくる","According to legend, these boots were once
+worn by a hero from a world in which the
+moon threatened to fall. Wearing them
+provides godlike power."
+210,Armor_225_Lower_Name,鬼神ブーツ,Fierce Deity Boots
+211,Armor_226_Lower_Desc,"月が落ちてくる世界の勇者が持っていたブーツ
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が1段階アップしている","Boots worn by a hero from a world in which
+the moon threatened to fall. Wearing them
+provides godlike power. A Great Fairy
+has increased their defense by one level."
+212,Armor_226_Lower_Name,鬼神ブーツ,Fierce Deity Boots
+213,Armor_227_Lower_Desc,"月が落ちてくる世界の勇者が持っていたブーツ
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が2段階アップしている","Boots worn by a hero from a world in which
+the moon threatened to fall. Wearing them
+provides godlike power. A Great Fairy
+has increased their defense by two levels."
+214,Armor_227_Lower_Name,鬼神ブーツ,Fierce Deity Boots
+215,Armor_228_Lower_Desc,"月が落ちてくる世界の勇者が持っていたブーツ
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が3段階アップしている","Boots worn by a hero from a world in which
+the moon threatened to fall. Wearing them
+provides godlike power. A Great Fairy
+has increased their defense by three levels."
+216,Armor_228_Lower_Name,鬼神ブーツ,Fierce Deity Boots
+217,Armor_229_Lower_Desc,"月が落ちてくる世界の勇者が持っていたブーツ
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が最大までアップしている","Boots worn by a hero from a world in which
+the moon threatened to fall. Wearing them
+provides godlike power. A Great Fairy
+raised their defense to its maximum level."
+218,Armor_229_Lower_Name,鬼神ブーツ,Fierce Deity Boots
+219,Armor_230_Lower_Desc,"古の時代の勇者が
+愛用したといわれているズボン
+飾り気のない作りだが そこに味わいのある逸品","Legends say these trousers were favored by
+a hero from an ancient age. Their simple
+design is a rare aesthetic these days, but
+there's something classic about them."
+220,Armor_230_Lower_Name,始まりの勇者ズボン,Trousers of the Hero
+221,Armor_231_Lower_Desc,"古の時代の勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が1段階アップしている","Legends say these trousers were favored by
+a hero from an ancient age. A Great Fairy
+has increased their defense by one level."
+222,Armor_231_Lower_Name,始まりの勇者ズボン,Trousers of the Hero
+223,Armor_232_Lower_Desc,"古の時代の勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が2段階アップしている","Legends say these trousers were favored by
+a hero from an ancient age. A Great Fairy
+has increased their defense by two levels."
+224,Armor_232_Lower_Name,始まりの勇者ズボン,Trousers of the Hero
+225,Armor_233_Lower_Desc,"古の時代の勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が3段階アップしている","Legends say these trousers were favored by
+a hero from an ancient age. A Great Fairy
+has increased their defense by three levels."
+226,Armor_233_Lower_Name,始まりの勇者ズボン,Trousers of the Hero
+227,Armor_234_Lower_Desc,"古の時代の勇者が
+愛用したといわれているズボン
+大妖精の力で防御力が最大までアップしている","Legends say these trousers were favored by
+a hero from an ancient age. A Great Fairy
+has increased their defense to its
+maximum level."
+228,Armor_234_Lower_Name,始まりの勇者ズボン,Trousers of the Hero

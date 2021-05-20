@@ -1,0 +1,115 @@
+#,Title,JPja,USen
+1,"""0000""",君は？,Who are you?
+2,"""0001""",ここって？,Where am I?
+3,"""0002""",さようなら,Bye.
+4,"""0003""",ユン坊知らない？,Do you know Yunobo?
+5,"""0006""",組長が探してた,Boss wants to know.
+6,near00,ん？,Hm?
+7,talk00,ま～だ用あるゥ～～？,Soooo? Do ya neeeed somethin' else?!
+8,talk01,ボ～グ～～？,"Who, meeee?"
+9,talk02,バイ バァ～～～イ,Goooood-bye!
+10,talk03,ま～た キミかァ～～,Oh. Yooou again.
+11,talk04,"ここはァ～～
+北の廃坑って言ってェ～～
+昔は「ドカンと火薬で発破して
+ ガッツリ鉱石 ゲットだぜィ」
+…の掛け声で有名な採掘場だったゴロよ～～
+
+でも神獣 ヴァ・ルーダニアが現れてから
+溶岩が増えて熱くなるわ魔物は増えるわで
+危ないから もうここでは採掘してないゴロよ～","This is the Abandoned North Mine.
+Oh, and this is the little ditty we all
+used to siiiiing as we worked:
+Ammo goes BOOM 'til ore fills the ROOM!
+Gather said ORE for rupees GALORE!
+Dig all the DAY to get the good PAY!
+Yeah, this is a famous mine, my maaaan.
+Or it was...until Divine Beast Vah Rudania
+showed up. Now it's waaaay too hot!
+There's tons more lava and all kiiiiiinds
+of monsters out and about. It's so
+dangerous, we can't dig here anymore!"
+12,talk05,"あわあわあわ……
+今日はァ～～人の出入りが多いィ～～
+この先は もっともっと熱いし
+魔物も沢山いるし危険ゴロよ！","Yeesh! What's goin' on today?!
+So many peeeople out and about!
+
+You should know it gets much hotter
+past here, and there are also looots of
+monsters. It's reeeally dangerous!"
+13,talk06,"ユン坊ならァ～～ すごい勢いで
+ゴロンシティの方にィ行ったゴロ～～
+ルーダニアも あんななったし
+組長に報告しに行ったのかなァ～～？","Yunobo? He went rushin' off to
+Goron City... I think. Preeeetty sure.
+All cuz of Rudania...
+Maaaaybe he went to talk with Boss?"
+14,talk08,"どーじで見ず知らずの人が
+ユン坊の事知ってるゴロ～～？","Why's a stranger like yoooou askin'
+about Yunobo?"
+15,talk09,"ユン坊ならァ～～ すごい勢いで
+オルディン橋の方にィ行ったゴロ～～
+オルディン橋なら ここからさらに坂を～
+ず～～っと登って～
+ゴロン橋を渡って""ゴロン温泉を越えて
+さらにさらに先へ進んだトコに あるゴロ～～","Yunobo went to the Bridge of Eldin...
+I thiiiiink. Probably.
+
+To get to Death Mountain Summit,
+just keep going uuuuup this hill
+aaaaall the way to the top!"
+16,talk13,"ええ～！組長～～？！
+
+そ…それなら ユン坊の居場所
+教えないとねぇ～～","Huuuuh? Boss does?!
+
+
+Well... Then I guess I better tell you
+wheeeeere Yunobo is!"
+17,talk14,"ユン坊ならァ～～
+痛み止めを取りに行く って言って
+あの保管庫の方に行ったけど
+そういえばまだ戻って来ないゴロね","Yunobo...went to the vault to fetch some
+painkillers. But now that ya mention it,
+I suppooooose he never came back."
+18,talk15,"ここは危ないから
+探しに行くのはやめといた方がいいと思うよ","This place is daaaaangerous, so ya
+probably shouldn't go lookin' for him."
+19,talk16,"コ…コラ～！
+それは組長の大砲ゴロ～～！！
+レバーはぜったい触っちゃダメゴロよ！","HEY! Stooop that! That's Boss's cannon!
+Don't you daaaare touch that lever!"
+20,talk17,"あれェ～？
+言わなかったっけェ～～？",Huuuuh? Didn't I already teeeell you...
+21,talk19,ボ～グ～～ドリジャ～～～ン,They call meeeee...Draaaaak!
+22,talk20,"神獣 ヴァ・ルーダニアが現れてから
+溶岩が増えてね～
+熱くなるわ魔物は増えるわで危ないから
+ブルドー組長に この辺を見張るように
+言われてるゴロ～～","Ever since Divine Beast Vah Rudania
+showed up, there's a tooooon of lava.
+
+It's waaaay too hot now, and there are
+more monsters around too.
+
+Boss keeps waaaatch over this area,
+but he can only do sooo much..."
+23,talk21,"ここは危ないから ブルドー組長に
+「誰も通すな」って言われてるゴロ～～","This place is daaangerous, so Boss told
+me not to let anyone through...
+That means you tooooo, my maaaan."
+24,talk22,"ま いっか～～
+じゃ もっかい言うゴロォ～～","Well, OK. I'll tell you agaaaain."
+25,talk23,"キ…キミィ～～…
+組長の大砲で遊ばないでェ～～
+弾が飛んじゃうから
+大砲に爆発物とか入れたら絶対にダメゴロよ！","HEEEY! YOOOOU!! Don't mess with
+Boss's cannon!
+
+You dooon't wanna send a cannonball
+flyyyin', so don't even thiiiiink about
+puttin' any explosives inside!"
+26,talk25,"ユン坊なら
+さっき急いでゴロンシティに戻ったゴロよ","If you're lookin' for Yunobo, he rushed
+off earlier, baaaack to Goron City."

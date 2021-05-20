@@ -1,0 +1,222 @@
+#,Title,JPja,USen
+1,"""0000""",ちがいます,That's not what I—
+2,"""0001""",さようなら,Bye.
+3,"""0002""",あなたは？,Who are you?
+4,"""0003""",売ります！,I'll sell!
+5,"""0004""",やめときます,"No, thanks."
+6,"""0005""",熱くないの？,Aren't you hot?
+7,"""0006""",…,...
+8,"""0007""",燃えず薬？,Fireproof elixir?
+9,"""0009""",やめときます,"No, thanks."
+10,near00,あっつ…,Holy hotness...
+11,near01,ふぁぁ…,Phew...
+12,near02,Zzz…,Zzz...
+13,talk00,"サヴォーテン！
+そんな格好で ナンパされるのは初めてよ","Sa'oten! Hmm... This is the first time
+I've been hit on by someone in an
+outfit like that."
+14,talk01,そろそろ休憩に…,It's about time for my break...
+15,talk02,あら…ハイリア人のヴァーイ？,Huh... Are you a Hylian vai?
+16,talk03,ホント熱い…,It's too hot...
+17,talk04,ああハイリア人のヴァーイ…,"Ah, a Hylian vai..."
+18,talk05,"サヴォッタ
+こんな朝からナンパかしら…？","Sav'otta. A bit early to flirt, isn't it?"
+19,talk06,"サヴァーク
+こんな真昼間から ナンパかしら…？","Sav'aaq. Flirting in the middle of
+the day, are we? Bold."
+20,talk07,"サヴァサーヴァ
+こんな時間に ナンパかしら…？","Sav'saaba... Look at you, talking up a
+woman in the middle of the night..."
+21,talk08,じゃあね サヴォーク,See you later. Sav'orq.
+22,talk09,そう…残念ね,Oh. That's too bad.
+23,talk10,"私はラメラ
+見ての通り ゲルド地方の出身よ
+ゴロンシティで採れる宝石を仕入れに来たの","I'm Ramella. As you can see, I'm from the
+Gerudo region.
+
+I came for the jewels that are to be found
+in Goron City."
+24,talk11,"ところでダイヤモンド""10個持ってない？
+
+店に売るなら 5000ルピーだけど
+私なら5500ルピーで買い取るよ？","By the way, do you happen to have
+10 diamonds?
+
+You'll get 5,000 rupees if you sell them
+at a store...or you can trade them to me
+for 5,500 rupees."
+25,talk12,"ところでルビー""10個持ってない？
+
+店に売るなら 2100ルピーだけど
+私なら2300ルピーで買い取るよ？","By the way, do you have 10 rubies?
+
+
+You'll get 2,100 rupees if you sell them
+at a store...or you can trade them to me
+for 2,300 rupees."
+26,talk13,"ところでサファイア""10個持ってない？
+
+店に売るなら 2600ルピーだけど
+私なら2900ルピーで買い取るよ？","By the way, do you have 10 sapphires?
+
+
+You'll get 2,600 rupees if you sell them
+at a store...or you can trade them to me
+for 2,900 rupees."
+27,talk14,"ところでトパーズ""10個持ってない？
+
+店に売るなら 1800ルピーだけど
+私なら2000ルピーで買い取るよ？","By the way, do you have 10 topazes?
+
+
+You'll get 1,800 rupees for them at
+a store...or you can sell them to me
+for 2,000 rupees."
+28,talk16,サヴォッタ朝から熱いわね,Sav'otta. It's hot for so early in the day.
+29,talk17,サヴァーク昼間は流石に熱いわね,"Sav'aaq. The daytime sure is
+scorching here."
+30,talk18,サヴァサーヴァ夜なのに熱いわね,Sav'saaba. Sure is hot for nighttime.
+31,talk19,サヴォークまたね,Sav'orq. See you later.
+32,talk20,サークサーク助かるよ,Sarqso. It's a huge help.
+33,talk21,"嘘 おっしゃい""持ってないじゃないの
+
+じゃ またね","Are you trying to pull a fast one on me?
+You don't have enough to sell!
+Well, I suppose this is good-bye."
+34,talk22,"ダイヤモンド さらに10個持ってないかしら？
+5500ルピーで買い取るよ？","If you still have 10 of those diamonds,
+I'll buy them for 5,500 rupees. Yeah?"
+35,talk23,"ルビー さらに10個持ってないかしら？
+2300ルピーで買い取るよ？","If you still have 10 of those rubies,
+I'll buy them for 2,300 rupees. Yeah?"
+36,talk24,"サファイア さらに10個持ってないかしら？
+2900ルピーで買い取るよ？","If you still have 10 of those sapphires,
+I'll buy them for 2,900 rupees. Yeah?"
+37,talk25,"トパーズ さらに10個持ってないかしら？
+2000ルピーで買い取るよ？","If you still have 10 of those topazes,
+I'll buy them for 2,000 rupees. Yeah?"
+38,talk26,この熱さ ホント参るわね…,I really can't believe this heat...
+39,talk27,はぁ…この熱さ…慣れないわ…,"*sigh* Willpower alone is not going to
+save me from this heat..."
+40,talk28,"ふぅ…
+ゲルド地方とは また違った熱さだわ","Phew! This heat is something else.
+Way more intense than in the
+Gerudo region."
+41,talk29,はぁ…この熱さだと宝石の卸しも命懸けね…,"Pheeeew... Trying to gather jewels in
+this heat will be my undoing..."
+42,talk30,"ゴロンシティの宝石は
+ゲルドの街のヴァーイのものよ
+残念ながらハイリア人に宝石を譲る気は無いわ
+ごめんなさいね","The jewels from Goron City are for the
+vai in Gerudo Town, I'm afraid.
+
+I don't intend to let a Hylian have them.
+My apologies."
+43,talk31,…どうしたの？そんなにゲルドの女が珍しい？,"What is it? Have you never seen
+a real Gerudo before?"
+44,talk32,"あぁ…""私燃えず薬を塗ってるから
+いいわよコレ","Oh... Well, I slathered fireproof elixir on
+my skin, so I'll be fine."
+45,talk33,"熱くて声も出ないのかしら？
+
+だったら燃えず薬を塗れば
+熱さはマシになるわ","Too hot to speak, are we? Hmph.
+
+
+Try applying some fireproof elixir.
+You'll feel much better."
+46,talk34,"デスマウンテンの噴火も治まったし
+宝石の仕入れ再開したの","The eruptions on Death Mountain have
+finally come to a stop. As a result,
+we've started restocking jewels."
+47,talk35,仕事…ぐぅ…,Work... Zzz...
+48,talk36,宝石…ぐぅ…,Jewels... Zzz...
+49,talk37,仕入れ…ぐぅ…,Need to gather... Zzz...
+50,talk38,高値で…ぐぅ…,Got to get a good price... Zzz...
+51,talk39,はい じゃこれ,"Here, take this."
+52,talk42,"ところで仕事の話なんだけど…
+私今はダイヤモンドを仕入れたいの
+だからあなたダイヤモンド""10個持ってない？
+店に売るより高い5500ルピーで買い取るよ？","This is business talk, but...
+I want to procure some diamonds today.
+Do you happen to have 10 diamonds?
+If so, I'll buy them for 5,500 rupees.
+That's more than the shop will pay!
+Yeah?"
+53,talk43,"ところで仕事の話なんだけど…
+私今はルビーを仕入れたいの
+だからあなたルビー""10個持ってない？
+店に売るより高い2300ルピーで買い取るよ？","This is business talk, but...
+I want to procure some
+rubies today. 
+Do you happen to have 10 rubies?
+If so, I'll buy them for 2,300 rupees.
+
+That's more than the shop will pay!
+Yeah?"
+54,talk44,"ところで仕事の話なんだけど…
+私今サファイアを仕入れたいの
+だからあなたサファイア""10個持ってない？
+店に売るより高い2900ルピーで買い取るよ？","This is business talk, but...
+I want to procure some
+sapphires today.
+Do you happen to have 10 sapphires?
+If so, I'll buy them for 2,900 rupees.
+Yeah?"
+55,talk45,"ところで仕事の話なんだけど…
+私今はトパーズを仕入れたいの
+だからあなたトパーズ""10個持ってない？
+店に売るより高い2000ルピーで買い取るよ？","This is business talk, but...
+I want to procure some
+topazes today.
+Do you happen to have 10 topazes?
+If so, I'll buy them for 2,000 rupees.
+
+That's more than the shop will pay!
+Yeah?"
+56,talk46,"燃えず薬なら ゴロンの子が売ってるし
+あなたも買って使うといいわ","If you want to buy fireproof elixirs,
+a little Goron brat is selling them.
+I suggest you buy one and use it."
+57,talk47,"とは言え宝石の卸しに休みは無いから
+燃えず薬塗って頑張らないと…","There's no rest in the jewel business,
+so I need to apply this fireproof elixir
+and work as hard as I can..."
+58,talk48,"使うと少しの時間だけ熱さから解放される
+不思議な薬よ","It's a strange concoction that saves you
+from the heat for a while."
+59,talk49,そう…残念,Oh... That's too bad.
+60,talk51,"ここの熱さから解放されるなら
+お金は惜しまないつもりよ","I'd pay anything to save myself from
+this wretched heat..."
+61,talk54,"そうだ…あなたもコハク持ってない？
+たくさん必要なの","Oh... Do you have some amber too?
+I need a whole lot of it."
+62,talk55,"それはそうと あなたコハク持ってない？
+たくさん必要なの","In any case, do you have some amber?
+I need lots of it."
+63,talk56,"10個まとめて持って来てくれたら
+その辺の店に売るより高く買い取るわよ？","Bring me 10 of them, and I'll buy them
+for more than a shop would pay!"
+64,talk57,"それはそうと あなたコハク
+10個持ってるなら私に売ってくれない？","In any case, do you have 10 pieces of
+amber? If so, will you sell them to me?"
+65,talk59,"コハク 10個…店に売ると300ルピーだけど
+私なら500ルピーで買い取るよ？","Yes, 10 pieces of amber... Sell them
+to the shop, and you'll get 300 rupees.
+Or sell them to me for 500 rupees!"
+66,talk60,気が変わったら声かけてね,Tell me if you change your mind.
+67,talk61,はい約束の500ルピーね,Thanks! Here you go: 500 rupees.
+68,talk62,"他の宝石も高値で買い取るから
+10個まとめて持って来て
+どの宝石を売って欲しいかは
+その時々で""変わるけどね","I need to procure other jewels too,
+so keep bringing me what you find.
+Bring me 10 at a time, got it?
+As for what kinds of jewels I want
+to buy, well... That's likely to change
+every once in a while."
+69,talk63,"でも今は火山弾が邪魔で
+仕事ができないの","These days, those magma bombs are
+causing trouble and preventing me from
+working. I'm not too happy about it."

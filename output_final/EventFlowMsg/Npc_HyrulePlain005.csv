@@ -1,0 +1,142 @@
+#,Title,JPja,USen
+1,"""0002""",オルディン地方って？,Eldin?
+2,"""0003""",ハイラル平原って？,Hyrule Field?
+3,"""0004""",結構です,No thank you.
+4,"""0005""",ハイラル大森林って？,Hyrule Forest?
+5,talk00,"今日は天候が優れませんな…
+",Some weather we're having.
+6,talk01,"して…こんなジジィに話しかけてくださるとは
+きっと何か お困りなんでしょう？","Heh... If you're making time to talk to 
+an old man like me, you must be in need 
+of something."
+7,talk02,"ほほ…孫の寝顔を楽しんでいる
+ジジィに話しかけるとは…
+きっと何か お困りなんでしょう？","Ho ho... If you're willing to interrupt an
+old man looking over his grandchild,
+you must be in need of something."
+8,talk03,"見たところ旅のお方 まだこの土地には
+不慣れでいらっしゃいますな？
+フォッフォッフォ この歳になると
+お顔を見れば だいたい分かりますわい
+ここ森の馬宿はオルディン地方と
+ハイラル平原の境界にして交通の要衝
+そして この馬宿の名前の由来にもなっている
+ハイラル大森林も すぐそこにあります","You aren't from around here, are ya?
+
+
+Hwa ha ha! When you get to my age,
+you can tell just by lookin' at people's 
+faces.
+This here Woodland Stable borders the
+Eldin region and Hyrule Field. It's a
+central fixture for travelers.
+Also the Great Hyrule Forest, which is
+where the stable got its name, is right
+over yonder."
+9,talk04,"私でよければ
+周辺の説明を させていただきましょうか？","Do you want me to tell you about the
+surrounding areas?"
+10,talk05,"そうですか…
+それでは旅の無事を お祈りしております","I see...
+Well, safe travels."
+11,talk06,"オルディン地方とは ここから北東
+デスマウンテンを中心とした山岳地帯ですじゃ
+ここからもデスマウンテンが見えますが
+ここから見えるのは裏の姿
+登られるなら ここからずっと東
+アッカレ地方を目指しなされ
+その道中にある""山麓の馬宿""近くの
+デスマウンテン登山口から入山するべきですな
+何せデスマウンテンは灼熱の火山…
+準備もせずに行けば命を落とすだけですじゃ
+山麓の馬宿なら熱さへの備えに
+詳しい者も おりましょうて","Eldin is northeast of here. It's a
+mountainous region with Death Mountain
+at its center.
+You can see Death Mountain from here,
+in fact, but only the backside of it.
+
+I don't know why anyone would want to
+climb it, but if you're so inclined, the
+best approach is from Akkala to the east.
+If you see Foothill Stable, you're on the
+right path—the Maw of Death Mountain
+is near the stable.
+But Death Mountain is an active volcano.
+It's blazing hot up there. If you go
+unprepared, you're as good as dead.
+Although I'm sure there's someone at 
+Foothill Stable who knows how to deal
+with the heat."
+12,talk07,"ハイラル平原は ここから南ゴングルの丘を
+越えた先にある広大な平原ですじゃ
+見渡す限りの美しい緑… そして平原の北には
+ハイラル城と その城下町が栄えておったそうな
+まさに地理的にも文化的にも
+国の中心として栄えた場所だった… じゃが…
+決して足を踏み入れてはならぬ！
+興味を抱いてはならぬ！
+…ジジィのおせっかいと聞き流さんでくだされこの馬宿からハイラル平原へ向かった若者達は
+誰一人帰ってこなかったのじゃ…","Hyrule Field is south of here. It's the
+huge field past the Crenel Hills.
+
+There's no shortage of nature in these
+parts. It's a beautiful place to live.
+
+And just north of the field, you'll find
+the ruins of Hyrule Castle Town and
+Hyrule Castle.
+They used to be the center of Hyrule's
+culture and commerce, but now...
+
+I'm telling you...stay far away from the
+castle! The field isn't safe either.
+
+I'm sure you have family that cares about
+you, so please don't dismiss this warning
+as an old man's rambling.
+I've seen too many young'uns head off
+to Hyrule Field...only to never come
+back."
+13,talk08,"はいはい
+おはようございます","Yes, yes.
+Good morning."
+14,talk09,はいはい こんにちは,"Yes, yes. Hello."
+15,talk10,はいはい こんばんは,"Yes, yes. Good evening."
+16,talk11,"はいはい""私でよければ
+何かお教えできる事が ございますかな？","Yes, yes. Is there something I can help
+you with?"
+17,talk12,"ハイラル大森林は ここから北にある
+ハイラルで一番大きな森で…
+そこは迷いの森とも呼ばれる
+恐ろしい森なのですじゃ
+わしが若いころ夢中で薪を取っておったら
+迷い込んでしまいましてのぅ
+森の奥に進むと突然強い風が吹きだして…
+それはそれは不気味で…
+怖くなって つい 
+やみくもに走り出してしもうたのじゃ
+そうしたら いつの間にか霧が晴れて
+気がついたら森の外に立っておった…
+迷いの森は見えぬ何かが人を拒む森…
+おまえさんも むやみに立ち入らないことですぞ","The Great Hyrule Forest is north of here.
+It's the largest forest in Hyrule...
+
+In the heart of the forest sits a terrifying
+group of enchanted trees called the
+Lost Woods.
+I once got lost there while collecting 
+firewood when I was but a boy.
+
+As I went deeper into the forest, the
+wind was blowing this way and that!
+Chilled me to the bone.
+I got scared and ran as fast as I could,
+trying to get away from the howling
+wind.
+Then all of a sudden, the fog lifted,
+and I was standing outside the forest...
+
+There's something dangerous hiding in
+those Lost Woods. Don't go wandering
+in there."

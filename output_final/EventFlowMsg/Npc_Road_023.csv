@@ -1,0 +1,239 @@
+#,Title,JPja,USen
+1,Atacked00,ふぅ…ヤバかったな…,"Phew... I don't need another close call
+like THAT in my life."
+2,Atacked01,しーっ…まだ魔物の気配がする…,"Shhh... I don't think we're out of
+the woods yet, and I don't want any
+monsters hearing us..."
+3,Failed00,うう…タフな戦いだった,Urgh... I'm not cut out for battle...
+4,Failed01,くそう魔物のやつめ…,"Oh, my aching bones... I feel like
+I've been trampled."
+5,Guardian00,"ガーディアンは しつこいぞ！
+ここにいたら ヤバそうだ！","Careful now—there are Guardians on
+the prowl! We'll be in serious trouble
+if we don't get moving!"
+6,MSG_Rane_00,"やあ冒険者！
+北東にアッカレ地方と呼ばれる地域がある！
+地図を持ってるなら ドクロの形の池を探せ！
+そこが まさにアッカレ地方だ！","Hey there, adventurer! You look like you
+could use an adventure! If you head
+northeast from here, you'll find Akkala.
+Do you have Akkala on your map? Look
+for a lake in the shape of a skull. If it's
+adventure you're after, look no further."
+7,MSG_Rane_00_1,"北東にアッカレ地方と呼ばれる地域がある！
+地図を持ってるなら ドクロの形の池を探せ！","There's a region to the northeast of here
+called Akkala. If you have a map, look for
+a lake shaped like a skull. It's distinctive."
+8,MSG_Rane_01,"やあ冒険者！
+ドクロ池に行く予定はあるか？
+もし行ったなら マモノ屋に会うことだ！
+…俺は会ったこと ないけどな！","Hey there, adventurer! Were you
+considering a trip to Skull Lake?
+
+If you go, promise me you'll check out
+Fang and Bone. As shops go, it's
+definitely...interesting."
+9,MSG_Rane_01_1,"ドクロ池に行く予定はあるか？
+もし行ったなら マモノ屋に会うことだ！
+…俺は会ったこと ないけどな！","Were you considering a trip out to
+Skull Lake?
+
+If you go, promise me you'll check out
+Fang and Bone. As shops go, it's
+definitely...interesting."
+10,MSG_Rane_02,"やあ冒険者！
+俺は南西のリバーサイド馬宿に行く！
+南東に進めば カカリコ村にも行ける！
+地図を見れば わかるぞ！","Hey there, adventurer! I'm on my way
+to Riverside Stable, a bit southwest
+from here.
+Southeast about the same distance from
+here is Kakariko Village! Check your map
+and you should find it easy enough."
+11,MSG_Rane_02_1,"俺は南西のリバーサイド馬宿に行くが
+南東に進めば カカリコ村もあるぞ！","I'm on my way to Riverside Stable, a bit
+southwest from here.
+
+Southeast about the same distance from
+here is Kakariko Village! Check your map
+and you should find it easy enough."
+12,MSG_Rane_03,"やあ冒険者！
+リバーサイド馬宿までは けっこうな距離だ！
+歩いて行けないこともないが
+地図と馬くらいは揃えておいた方がいいぞ！","Hey there, adventurer! It's quite a
+journey to the Riverside Stable from
+here.
+You could walk there if you HAD to, but
+if you want to be prepared, bring a
+detailed map and a horse, at least."
+13,MSG_Rane_03_1,"リバーサイド馬宿までは
+けっこうな距離だ！
+歩いて行けないこともないが
+地図と馬くらいは揃えておいた方がいいぞ！","It's quite a journey to the
+Riverside Stable from here...
+
+You could walk there if you HAD to, but
+if you want to be prepared, bring a
+detailed map and a horse, at least."
+14,MSG_Rane_04,"なあ冒険者…
+鉱石は高く売れるって知っているか？
+もしも余っているなら どんどん売って
+お金に替えた方が有意義かもな！","Hey there, adventurer! You can probably
+get a pretty good price for any ore you
+sell.
+If you've got some spare lying around,
+it's probably worth your while to sell
+it off and pocket the rupees!"
+15,MSG_Rane_04_1,"鉱石は高く売れるって知っているか？
+
+もしも余っているなら どんどん売って
+お金に替えた方が有意義かもな！","You can probably get a pretty good price
+for any ore you sell.
+
+If you've got some spare lying around,
+it's probably worth your while to sell
+it off and pocket the rupees!"
+16,Near00,空気がうまい！,Lovely day!
+17,Near01,ハイヨー！,Whoa there...
+18,Near02,どうどう…,"Now, now..."
+19,Near03,ホー ホー,Shush...
+20,Near04,よし いいコだ…,Hush now. It's all right.
+21,Rest_00,"俺にしては珍しく声を潜めて話すが
+冒険者よ…
+夜だけ商売するマモノ屋というやつがいて
+特別な品が手に入るらしいぞ…","People are trying to rest here, but I've
+got stuff to share, so I'd better do it
+nice and quiet. You ready, adventurer?
+If you find a shop called Fang and Bone,
+keep an eye out for the special wares
+you can buy only at night..."
+22,Rest_01,"とくに何もないよ冒険者さん
+しゃべりたくない時だって あるのさ","I got nothing to say, adventurer.
+Sometimes, you just don't feel like
+talking. Sometimes, you feel like a nap."
+23,Rest_02,"冒険者ともなれば
+雨の日の崖が滑る事くらいは知ってるよな","Seeing as how you're an adventurer and
+all, I bet you're already familiar with the
+fact that cliffs are slippery in the rain."
+24,RetMSG_Rane_00,"やあ冒険者！
+
+もし アッカレ地方に行くなら
+それなりの装備が必要だ！
+北に デスマウンテンという山があるから
+その麓をめざせばいいぞ！","Hey there, adventurer! A little word of
+advice for you...
+
+If you're headed to Akkala, you're gonna
+need some basic equipment!
+
+Death Mountain is just to the north of
+here. I'd recommend you head for its
+base first and see about stocking up."
+25,RetMSG_Rane_00_1,"もし アッカレ地方に行くなら
+それなりの装備が必要だ！
+北に デスマウンテンという山があるから
+その麓をめざせばいいぞ！","If you're headed to Akkala, you're gonna
+need some basic equipment!
+
+Death Mountain is just to the north of
+here. I'd recommend you head for its
+base first and see about stocking up."
+26,RetMSG_Rane_01,"やあ冒険者！
+
+ハイラル城をめざしているのかもしれないが
+あそこほど危険な場所を俺は知らない！
+命を捨てるくらいの覚悟がないなら
+城での宝探しは やめたほうがいいぞ！","Hey there, adventurer! A word of
+warning for you...
+
+You might get it into your head to go
+check out Hyrule Castle, but I've never
+encountered a more dangerous place...
+If you head there hoping to find treasure,
+be careful that you don't lose your life!"
+27,RetMSG_Rane_01_1,"ハイラル城をめざしているのかもしれないが
+あそこほど危険な場所を俺は知らない！
+命を捨てるくらいの覚悟がないなら
+城での宝探しは やめたほうがいいぞ！","You might get it into your head to go
+check out Hyrule Castle, but I've never
+encountered a more dangerous place...
+If you head there hoping to find treasure,
+be careful that you don't lose your life!"
+28,RetMSG_Rane_02,"やあ冒険者！
+
+ハイラル城の西側には
+秘密の洞窟があるらしいぞ！
+お宝目当てに潜入した奴もいるらしいが
+生きて戻ったという話は聞いたことがないな！","Hey there, adventurer! A little treasure
+tip for you...
+
+I've heard tell of a secret cave on the
+west side of Hyrule Castle!
+
+There are many who've tried to get in
+through the cave to hunt for treasure,
+but there are none who have returned!"
+29,RetMSG_Rane_02_1,"ハイラル城の西側には
+秘密の洞窟があるらしいぞ！
+お宝目当てに潜入した奴もいるらしいが
+生きて戻ったという話は聞いたことがないな！","I've heard tell of a secret cave on the
+west side of Hyrule Castle!
+
+There are many who've tried to get in
+through the cave to hunt for treasure,
+but there are none who have returned!"
+30,RetMSG_Rane_03,"やあ冒険者！
+
+城下町の裏にある入り江から
+ハイラル城内に侵入できるという情報がある！
+だが あくまでも噂だ！
+盗賊を一網打尽にするガセネタかもしれん！","Hey there, adventurer! I've got a little
+information to share with you.
+
+I've heard of a secret way into Hyrule
+Castle. You can find your way in through
+the inlet behind the castle town.
+It's just a rumor, mind you. For all I
+know, it's a story spread to catch out
+thieves trying to break in."
+31,RetMSG_Rane_03_1,"城下町の裏にある入り江から
+ハイラル城内に侵入できるという情報がある！
+だが あくまでも噂だ！
+盗賊を一網打尽にするガセネタかもしれん！","I've heard of a secret way into Hyrule
+Castle. You can find your way in through
+the inlet behind the castle town.
+It's just a rumor, mind you. For all I
+know, it's a story spread to catch out
+thieves trying to break in."
+32,RetMSG_Rane_04,"冒険者よ！
+旅先で鉱石を見つけたら採集しておくことだ！
+鉱石は高く売れるから
+それを元手に旅の装備を整えるといいぞ！","Listen up, adventurer! On your travels,
+you may stumble across various kinds
+of ore. I recommend you collect it!
+Ore will fetch a good price if you sell it,
+which makes it a nice way to afford some
+of the pricier gear you'll find."
+33,RetMSG_Rane_04_1,"旅先で鉱石を見つけたら
+採集しておくことだ！
+鉱石は高く売れるから
+それを元手に旅の装備を整えるといいぞ！","On your travels, you may stumble across
+various kinds of ore. I recommend you
+collect it!
+Ore will fetch a good price if you sell it,
+which makes it a nice way to afford some
+of the pricier gear you'll find."
+34,SavedLv1_00,さすがは冒険者だな！助かったよ！,"An adventurer! And you've saved me!
+How very appropriate!"
+35,SavedLv1_01,ありがとう！君の腕前を見ることもできた！,"Thank you! It's so nice to see an
+adventurer on an actual adventure!"
+36,SavedLv2_00,ああ命拾いしたよ！,That was a narrow escape!
+37,SavedLv2_01,"旅に危険はつきものとはいえ
+かなりヤバかったよ！","They say a little bit of danger's all part of
+the travel experience, but that was really
+scary just now!"
+38,SavedLv3_00,魔物の顔を見たら足がすくんだよ！,"My legs froze with fear when I saw
+the danger I was in!"
+39,SavedLv3_01,今のうちに この場を去った方がいいな！,"Now that things are a little bit safer
+around here, I should get on my way."
+40,Thanks00,お礼をしないとな！,"Thank you, O brave adventurer!"

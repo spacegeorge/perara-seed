@@ -1,0 +1,177 @@
+#,Title,JPja,USen
+1,"""0000""",強くする,Enhance away!
+2,"""0001""",しない,"No, thanks."
+3,"""0002""",お願いする,"Yes, please."
+4,"""0003""",やめておく,Never mind.
+5,"""0004""",分かりました,Take a look.
+6,"""0005""",結構です,I'd rather you not...
+7,Revival01,ハァ～～～～………,HAHHHHH...
+8,Revival02,"いい気分だ！！
+久々のシャバの空気は最高だねぇ！","Oh, what a feeling! That first breath of
+fresh air after an eternity of decay...
+It's just so intoxicating!"
+9,Revival03,"アンタには世話になったね
+おかげで力を取り戻せたよ
+さて…今度はアタシの番
+
+材料さえ持って来れば アンタの服を
+強くしてやるよ！試してみるかい？","Thanks to you, I've been returned to my
+former glory.
+
+And as they say—one good turn deserves
+another. I can help you, boy.
+
+Allow me to enhance your clothing.
+It's the least I can do, but I will need
+the necessary materials..."
+10,Talk00,"アンタかい よく来たね！
+服を強くしてやろうか？","Ah, welcome back, boy. Do you want
+me to enhance your clothing?"
+11,Talk01,"もう行っちゃうのかい？
+さびしいねぇ…","Going already? How unfortunate
+for me..."
+12,Talk02,"この世界には アタシと同じように
+力を失った姉妹達が居てね
+そいつらにも同じように力を与えてくれたら
+もっと服を強くできるはずさ","I have sisters out there in the world.
+Like me, they've lost much of their
+power.
+If you were able to restore power to
+them as well, we'd then be able to
+enhance your clothing even more..."
+13,Talk04,さあ できたよ！,All finished!
+14,Talk05,他の服も強くしてやろうか？,"Do you want me to enhance any of your
+other clothes?"
+15,Talk07,"他の服も強くしてやろうかと思ったけど
+もう無理みたいだねぇ…","I thought I would improve some other
+clothes for you, but it looks like that's
+not possible right now."
+16,Talk08,強くしたい服は どれだい？,"Which clothing item would you like me
+to enhance?"
+17,Talk10,"どうして強くできないのか
+理由を教えてやろう","Please, let me explain why I cannot
+enhance your clothes."
+18,Talk11,"…と思ったけど服を一つも持ってない上に
+装備もしてないんだね…
+強くできそうな服を手に入れたら
+また来ておくれ","I'd love to enhance your clothing, but
+you don't seem to be carrying any.
+Or wearing any for that matter...
+If you get your hands on some clothes
+that look like they could be enhanced,
+come back and visit me again."
+19,Talk12,"今のアタシなら アンタの服…
+少しだけ""強くしてやれそうだよ","With the power available to me...
+I should be able to enhance your
+clothing a little bit."
+20,Talk13,"今のアタシなら アンタの服…
+だいぶ""強くしてやれそうだよ","With the power available to me...
+I can enhance your clothing
+a fair amount."
+21,Talk14,"今のアタシなら アンタの服…
+かなり""強くしてやれそうだよ","With the power available to me...
+I can greatly enhance your clothing."
+22,Talk15,"今のアタシなら アンタの服…
+最大まで""強くしてやれそうだよ","With the power available to me...
+I can enhance your clothing to the max!"
+23,Talk16,"アンタ…姉達にも
+ルピーを捧げてくれたんだね
+おかげで最高まで服を強くできるから
+またいつでも来なよ","You... You gave rupees to my sisters,
+as well.
+
+Come back anytime you're looking
+to enhance your clothing to the max!"
+24,Talk17,じゃあ いくよ…,"All right, let me do my thing!"
+25,Talk18,それじゃ…,See you later...
+26,Talk19,あっ ふぅ～～……,Ahhh woooo...
+27,Talk20,ハァァ～～～…,Haaaaa...
+28,Talk21,ふうぅぅ～～っ…,Phoooo...
+29,Talk22,ぷっ はぁ～～～ん…,"Puh, haaaaa..."
+30,Talk23,そぉ れぇ～～～！！,Haiyah!!
+31,Talk24,また～～～！！,Heeeee!!
+32,Talk25,ふぅ～～～ん！！,Awaaaay!!
+33,Talk26,さよ～なら～～～！！,Good-bye!!
+34,Talk27,"そのなら
+強くできそうだよ！","I think I can enhance the
+."
+35,Talk28,を強くするのかい？,"You want me to enhance the
+?"
+36,Talk29,"強くするのはで
+間違い無いかい？","Are you sure you want me to enhance
+the ?"
+37,Talk30,"分かったよ
+を強くするんだね？","All right.
+You want to enhance the
+, right?"
+38,Talk31,"アタシ達の力でも
+強くしてやれない服も あるのさ…","There are some clothing items that
+can't be enhanced, even with my powers."
+39,Talk32,"その服は ちょっと無理みたいだねぇ…
+他のは どうだい？","I can't do anything with that clothing
+item... How about a different one?"
+40,Talk33,"すまないねぇ
+その服は強くできないみたいだよ","Sorry, I can't enhance that clothing item."
+41,Talk34,"悪いけど その服は
+アタシには手に負えないみたいだよ","Sorry, but that particular clothing item
+is out of my hands."
+42,Talk35,"その服は今のアタシでは無理だよ
+もっと姉達の力を借りないとねぇ…","I can't do anything with that clothing
+item right now. I would need the help of
+my sisters' powers..."
+43,Talk36,"無理言わないでおくれ
+もっと姉達が解放されれば話は別だけど…","Please don't ask the impossible of me.
+If my sisters were released, things might
+be different, but..."
+44,Talk37,"その服…今は無理だねぇ
+姉達が力を取り戻したら強くできるだろうけど","That item... Right now I can't do anything
+with it. I could probably enhance it once
+my sisters regain their powers."
+45,Talk38,"すまないけど その服は
+姉達の力を借りないと無理だねぇ…","I'm sorry, but...to enhance that clothing
+item, I'd need the aid of my sisters'
+powers..."
+46,Talk39,おや？材料が足りないみたいだよ？,"Hrm? It seems like you don't have
+enough materials..."
+47,Talk40,あら？材料が無いと強くできないよ,"Oh... If you don't have the materials,
+I can't enhance it."
+48,Talk41,"残念だけど材料が足りないみたいだ
+他のは どうだい？","It's unfortunate, but you don't have 
+enough materials. How about trying
+something else?"
+49,Talk42,"おっと材料が足りてないよ？
+他の服にしなよ","Huh... You don't have enough materials!
+Why not try another clothing item?"
+50,Talk43,"なんだ…遠慮してるのかい？
+他の服でもいいよ？","What now? Are you being modest?
+We can try a different clothing item
+if you'd like."
+51,Talk44,分かったよゆっくり決めておくれ,All right. Take your time.
+52,Talk45,間違えたのかい？ しょうがないねぇ…,"You made a mistake? I guess it happens
+from time to time..."
+53,Talk46,オッケー選び直しておくれ,OK. Go ahead and choose again.
+54,Talk47,"…おや？なんだい
+今のままだと服を強くできなそうだよ…
+一応確認してやろう
+手持ちの服を見せておくれ","Hmm? What's this... You don't have any
+clothing that I can enhance?
+Really?
+Let's take a look, just to be sure."
+55,Talk48,"服か素材を手に入れるか姉が力を取り戻したら
+また ここにおいで","Please come back here once you get
+some clothes or materials...or once
+you've restored the power of my sisters."
+56,Talk49,"新しい服か素材を手に入れたら
+また ここにおいで","Please return to me if you get some
+strong new clothes or materials."
+57,Talk50,"さぁできた！
+少しは強くなったね
+服を強くするとね特別な力が宿る事があるんだ
+同じ種類の服で そろえる必要があるけどね…","All finished!
+Just a bit stronger now... Oh...
+
+You've heard about set bonuses, right?
+How a set of clothes that have all been
+enhanced twice could have a bonus?
+But only if you wear the whole set!
+Well, and not all sets have a bonus..."

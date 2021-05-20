@@ -1,0 +1,252 @@
+#,Title,JPja,USen
+1,"""0000""",聴かせて,"Yes, please!"
+2,"""0001""",今はいい,Not now.
+3,"""0003""",あなたは…？,You're a traveler?
+4,"""0004""",そうしましょう,Let's!
+5,"""0007""",未完の詩？,Unfinished song?
+6,Npc_Musician_AoC_HeroXxxx_Demo610_010,"何か光ったような気がしたが
+うーむ…錯覚だろうか…","What was that...flash of light?
+Perhaps it was my imagination
+playing tricks on me."
+7,Npc_Musician_AoC_HeroXxxx_Demo610_020,"石碑が確かに光った…
+私の錯覚などではなかったか","Did that stone monument just start
+glowing? I suppose that proves
+I didn't imagine it the first time."
+8,Npc_Musician_AoC_HeroXxxx_Demo610_030,"1万年もの時間を湛えるこの石碑…
+一体何を示すのか…","This stone monument has survived
+for 10,000 years. What secrets does
+it hold..."
+9,Npc_Musician_AoC_HeroXxxx_Demo610_040,"もしや この光…
+
+訪れた者に反応している？
+それは私なのか あるいは……","That light...
+
+
+Is it a reaction to someone nearby?
+Is it me...or is it..."
+10,Npc_Musician_AoC_HeroXxxx_Demo610_First_010,"…ん？ お腰のそれは？
+
+いや初めてお会いする方に
+余計な詮索でしたね","Hm? That thing on your waist...
+
+
+Oh, never mind. I suppose it's none of
+my business, especially as this is our
+first meeting."
+11,Npc_Musician_AoC_HeroXxxx_Demo610_First_020,"それはそうと旅の者同士…
+少しお話でもしませんか？","One thing is clear...we are both travelers.
+So, fellow traveler, would you care to
+chat a bit?"
+12,Npc_Musician_AoC_HeroXxxx_Demo610_First_030,"古の詩に縁のある場所で お会いした時には
+詠って差し上げたいと思います
+…おっと いけない","Should we ever meet at a location
+mentioned in an ancient song,
+I would love to sing for you.
+Oh... I almost forgot."
+13,Npc_Musician_AoC_HeroXxxx_Demo610_First_050,"そうなんです
+詩は ほぼ完成していたのですが…","Yes. The song is mostly complete.
+However..."
+14,Npc_Musician_AoC_HeroXxxx_Demo610_First_060,"残念ながら重要な章を作り終える前に
+師匠は この世を去りました
+私は その章を紡ぎたいと考え…
+
+彼が残した詩に登場する地を
+巡る事にしたのです","My teacher left this world without
+finishing the key verses.
+
+I wish to weave the missing pieces
+together and finish the song.
+
+That's why I'm roaming the areas
+mentioned in the lyrics."
+15,Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_001,"…いかがです？
+試練に挑みし英傑の章でした","...So? Did the verse move you?
+It was written in honor of the
+Champion challenging the trial."
+16,Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_002,"…いかがでしたか？
+
+各地で英傑たちの事を聞いて回ったおかげで
+重要な章の完成が少し見えてきました","...So? Did it move you?
+
+
+By asking around about the Champions
+of each region, I'm starting to piece
+together the key verses of the song."
+17,Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_003,"…いかがでしたか？
+
+英傑たちの伝説を聞き重ねた事で理解が深まり
+重要な章の創作が進みました","...So? Did it move you?
+
+
+By steeping myself in legends of the
+Champions, I'm beginning to form a
+deeper understanding of them.
+This will prove invaluable in writing
+the key verses of the song."
+18,Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_004,"…いかがでしたか？
+
+英傑たちを深く理解したことで
+もう少しで重要な章が完成しそうです","...So? Did it move you?
+
+
+By understanding the true natures of
+the Champions, I'm closer than ever
+to completing those key verses."
+19,Npc_Musician_AoC_HeroXxxx_Demo610_HeroFirst_011,いや やめておきましょう,"Well, never mind my musings."
+20,Npc_Musician_AoC_HeroXxxx_Demo610_Relief_001,"そんな事よりも この石碑…
+いや驚きました
+師匠の未完の詩に出てくる石碑が
+今まさに目の前に…","This monument... I must admit
+it has taken me by surprise!
+
+My teacher's unfinished song mentions
+such monuments, and now one has
+appeared before my eyes..."
+21,Npc_Musician_AoC_HeroXxxx_Demo610_Relief_010,"そんな事よりも この石碑…
+いや驚きました
+師匠の未完の詩に出てくる石碑が
+今まさに目の前に…","This monument... I must admit
+it has taken me by surprise!
+
+My teacher's unfinished song mentions
+such monuments, and now one has
+appeared before my eyes..."
+22,Npc_Musician_AoC_HeroXxxx_Demo610_Relief_011,"そんな事より ほら… ここにもありました
+師匠の未完の詩に出てくる石碑が…","Look at that! There's one here too!
+One of the monuments mentioned
+in my teacher's unfinished song."
+23,Npc_Musician_AoC_HeroXxxx_Demo610_Relief_012,"そんな事より ほら… ここにも やはり
+師匠の未完の詩に出てくる石碑が…","Look! As expected, there's one here too!
+One of the monuments mentioned in
+my teacher's unfinished song."
+24,Npc_Musician_AoC_HeroXxxx_Demo610_Relief_013,"そんな事より ほら… もうおなじみ
+師匠の未完の詩に出てくる石碑です…","Look! I'm sure you already know, but it's
+one of the monuments mentioned in
+my teacher's unfinished song."
+25,Npc_Musician_AoC_HeroXxxx_Demo610_Town_001,"それにしてもゲルドの街の方は親切ですね
+
+族長と護衛の方が英傑にお詳しく
+貴重なお話を伺う事ができました","The Gerudo are so accommodating.
+
+
+Their chief and guard knew much about
+the Gerudo Champion. They shared some
+wonderful stories with me."
+26,Npc_Musician_AoC_HeroXxxx_Demo610_Town_002,"それにしてもゴロンシティの方は
+お話好きですね
+ユン坊とブルドーという方から
+英傑について興味深い話を伺えましたよ","The Gorons are unexpectedly chatty.
+
+
+Yunobo and Bludo told me some
+fascinating stories about the
+Goron Champion."
+27,Npc_Musician_AoC_HeroXxxx_Demo610_Town_003,"それにしてもゾーラの里の王と王子は
+気さくな方々でした
+ありがたい事に
+英傑の逸話を色々 お聞きする事ができました","The king and prince of Zora's Domain
+are so friendly.
+
+They were kind enough to share some
+of their cherished memories of the
+Zora Champion."
+28,Npc_Musician_AoC_HeroXxxx_Demo610_Town_004,"ところで里帰りも兼ねて
+リトの村を訪れたのですが…
+テバと族長のカーンから
+英傑の話を聞けたのは幸いでした","I returned to Rito Village to visit
+my hometown. While I was there...
+
+I was lucky enough to have Teba and
+the elder, Kaneli, regale me with stories
+of the Rito Champion."
+29,Npc_Musician_AoC_HeroXxxx_Demo612_010,"おや？
+これはこれは…
+風に吹かれて誰にも邪魔されず
+物思いに耽るのも一人旅の醍醐味ですよね","Oh? My, my.
+
+
+For some, the best part of traveling alone
+is the freedom to get lost in thought
+with only the wind to distract you."
+30,Npc_Musician_AoC_HeroXxxx_Demo612_020,"…あなたと私が この場所で出会うのは
+不思議な事ではないかもしれませんね
+あなたが思索に耽るにも
+私が詩作に挑むにも またとない場所ですので","Perhaps meeting you here was
+no coincidence.
+
+This is a perfect spot for you to get lost
+in your thoughts, as well as a perfect
+spot for me to write a song."
+31,Npc_Musician_AoC_HeroXxxx_Demo612_030,"おやおや…
+目的は違えど足の向かう先は同じようですね
+もっとも私の場合は
+足ではなく翼の向かう先ではありますが…","Well, well. Though our aims are different,
+our feet took us to the same destination.
+
+I speak figuratively, of course. I travel
+by wing rather than by foot."
+32,Npc_Musician_AoC_HeroXxxx_Demo612_040,"瞑想は終わりましたか？
+何か深くお考えのようでしたが…
+いやいや このようなお尋ねは
+余計なお世話というものでしたね","Are you still adrift in thought?
+
+
+You seem lost to the whims of your mind.
+Oh... Pardon me. I suppose it's none
+of my business."
+33,Npc_Musician_AoC_HeroXxxx_Demo612_Grow_001,"足りない章は弟子の私が完成させるべき
+改めて そう思いました","I was struck by a realization...that the
+missing parts of the song can only be
+finished by my teacher's pupil. By me."
+34,Npc_Musician_AoC_HeroXxxx_Demo612_Grow_002,"足りない章を作る自信が
+みなぎってきました","I feel much more confident that I can
+do those missing lyrics justice."
+35,Npc_Musician_AoC_HeroXxxx_Demo612_Grow_003,"おぼろげながら ではありますが
+足りない章の姿が見えてきました","The end result is not quite clear yet...
+but I'm beginning to feel a stirring
+of inspiration about those verses."
+36,Npc_Musician_AoC_HeroXxxx_Demo612_Grow_004,"足りない重要な章…舞台は在りし日の
+ハイラル城が相応しいようです","The missing verses of an ancient song...
+I think the perfect setting would be
+Hyrule Castle in the distant past."
+37,Npc_Musician_AoC_Individual_020,"いかがですか？
+試練に挑みし英傑の章を お聴きになりますか？","Would you like to hear a verse about
+the Champion challenging the trial?"
+38,Npc_Musician_AoC_Individual_021,"いかがでしたか？ 
+英傑の勇姿が目に浮かびましたか？","How did you like it? Did it help you
+visualize the Champion's bravery?"
+39,Npc_Musician_AoC_One_000,"おや？ この陸の孤島の如き台地で
+旅の方…","Hm? How unexpected to see a traveler
+on this solitary plateau."
+40,Npc_Musician_AoC_One_010,"実はこの台地にも…勇者について書かれた
+古の詩があるのです","Oddly enough, I happen to know of an
+ancient song about a brave hero...
+on this very plateau."
+41,Npc_Musician_AoC_One_011,"まるで""今のこの台地のようにドンヨリと…
+
+いえ失礼いたしました
+旅をしていると いろいろありますよね
+ちなみに私がここを訪れたのは この台地にも
+勇者を詠った古の詩があるからなんです","Much like this plateau, you're looking
+a mite dreary.
+
+Oh... I apologize. Perhaps it was not my
+place to say as much. I understand
+more than most the burden of travel.
+As for me, I came to this spot to pursue
+an ancient song about a hero at this
+very plateau."
+42,Npc_Musician_AoC_One_012,"おぉ またお会いしましたね！
+おや…""顔色が悪いようですが…","Ah, we meet again! Hm? Not to be rude,
+but you don't look so well."
+43,Npc_Musician_AoC_One_020,"ここでお会いしたのも何かの縁…
+
+せっかくですから
+少しお聴かせいたしましょうか？","I can't shake the feeling that we were
+destined to meet here.
+
+In any case, would you like to
+hear my song?"
+44,Npc_Musician_AoC_One_Near_01,ブロロロロ…?,"Rumble, rumble..."
+45,Npc_Musician_AoC_One_Near_02,ドンヨリとした空…,What a doleful sky...
+46,Obj_BlowSword_010,武器ポーチがいっぱいだ…,Your weapon stash is full...

@@ -1,0 +1,694 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",それほどでも,Not particularly.
+3,"""0002""",わかった,Sure thing.
+4,"""0003""",ちょっと待って,I'll think on it.
+5,"""0004""",ハイリア人です,"Yes, I'm a Hylian."
+6,"""0005""",違います,"No, I'm not."
+7,"""0006""",そうです,"Yes, I am."
+8,"""0007""",違います,"No, I'm not."
+9,"""0008""",どうぞ,Sure thing.
+10,"""0009""",急ぎますので,I'm in a hurry.
+11,"""0010""",あなたこそ,Indeed.
+12,"""0011""",はい,Yes.
+13,"""0012""",いいえ,No.
+14,"""0016""",お願いします,"Yes, please."
+15,"""0017""",結構です,"No, I've got it."
+16,"""0018""",あなたこそ,I could ask the same!
+17,Npc_Lanayru003_R_001,やぁこんなトコでハイリア人とは珍しいな,"Hey. It's kinda weird to see a Hylian
+around here."
+18,Npc_Lanayru003_R_002,"なんかゾーラ川沿いのゾーラが
+シド王子のトコまで行け行け言うから
+ダルブル橋まで行ってん…でな？","The Zora along Zora River have been
+telling Hylians to go see Prince Sidon.
+
+The prince is waiting over at
+Inogo Bridge—waiting to greet any
+Hylians that show up..."
+19,Npc_Lanayru003_R_003,"ウチは行商人やからな
+どこにでも出て来よるで？
+あ自己紹介しとこか
+
+ウチはフタバ！以後 よろしゅう","Me, I'm a peddler, so I'm free to go
+where the wind takes me. Or the waves.
+Or whatever. Yeaaah.
+Oh, let me introduce myself.
+
+
+I'm Douma. Nice to meetcha!"
+20,Npc_Lanayru003_R_004,"ウチ そのシド王子とやらに会ったんやけど
+アレは…アカン奴や
+ウチのこと見て「ずっと見ていたゾ！」とか
+「君の名は？」とか聞いてきよるねん！
+だから ここまで逃げて来てんけど…
+
+まぁ…アンタも
+怖い物見たさにシド王子見てきてみ？
+男やったら ナンパはされんと思うけど…","Yeah, I met that so-called Prince Sidon.
+Thing is...he ain't no good. First thing
+he says to me, he says...
+\""I've been watching you!\"" and then he
+says, \""What's your name?!\"" Can you
+believe that heat? I don't need it!
+So I ran away from him and all that noise.
+Now here I am.
+
+So yeah... If you want to see a freak
+show, go visit that Prince Sidon.
+
+Though I doubt he'll go for you since
+you're not a looker like me."
+21,Npc_Lanayru003_R_005,"そんなことより アンタ
+さっき そこのゾーラと話しとったやろ？","In any case, I wanted to ask you
+somethin'... You just spoke to that
+Zora over there, yeah?"
+22,Npc_Lanayru003_R_006,"あのゾーラ…ゾーラの里方面に行って
+シド王子に会ってくれ！とか言うてたやろ？","And that Zora...told you to head toward
+Zora's Domain to meet Prince Sidon,
+that right?"
+23,Npc_Lanayru003_R_007,"なんで嘘つくねん！
+あのゾーラの声 ここまで聞こえてきたで？","Hey, don't lie! That's cold! I could hear
+that Zora's voice from here, ya know!"
+24,Npc_Lanayru003_R_008,"だから なんでしょうもない嘘つくねん！
+全部聞こえとったわ！","Why are you lying about it, fiend?!
+I heard the whole thing!"
+25,Npc_Lanayru003_R_009,まぁ とにかく…よ,In any case... Listen up.
+26,Npc_Lanayru003_R_010,"やぁ君…
+ゾーラの里方面に行くんか？","Hey, you... Are you heading to
+Zora's Domain?"
+27,Npc_Lanayru003_R_011,"まぁ男やったら大丈夫やろうけど…
+自分でプリンスとか言ってるし怪しいもんやで","Since you've got a sword and stuff,
+you'll probably be fine.
+
+Just watch out for a creepy guy calling
+himself a prince."
+28,Npc_Lanayru003_R_012,"そうやなぁ…自分でプリンス言うてる時点で
+ヤバさ満載やろ","Yeah, I wouldn't head that way.
+I just came from there, and I ran into
+this shady guy calling himself a prince.
+This world we live in..."
+29,Npc_Lanayru003_R_Near,こっちこっち～,Over here!
+30,Npc_Zora001_R_001,"私は ゾーラ族のタッカと申す者！
+
+おぬし ハイリア人ではないか？
+
+ハイリア人だろう？いや間違いなく ハイリア人である！実は今 ゾーラ族の王子…
+シド様が訳あってハイリア人を探しておられる
+今は何も聞かずシド王子のおわすダルブル橋に
+会いに行ってもらえぬだろうか？
+無理にとは言わん
+
+…いや無理にでも行って欲しいな","I'm Tottika of the Zora!
+
+
+Aren't you...a Hylian?
+
+
+You ARE, aren't you?!Yes, I can tell! You are most
+certainly a Hylian!As fate would have it, our Prince Sidon
+is looking for a Hylian like you.
+
+The prince is at Inogo Bridge right now.
+Will you consent to go and see him?
+
+I mean, you don't have to if you don't
+want to...
+
+Though...I'd kind of like you to go even if you
+don't want to..."
+31,Npc_Zora001_R_002,"やぁ！ハイリア人！
+
+お主を猛者と見込んで
+お頼み申し上げる
+ダルブル橋にシド王子が おられるので
+会いに行ってはくれぬか！","Hey! Hylian!
+
+
+I see that you are a skilled warrior.
+I would like to request something
+of you.
+Prince Sidon is waiting at Inogo Bridge.
+Please, go and see him!"
+32,Npc_Zora001_R_003,"シド王子のおられるダルブル橋は向こう！
+
+ここから東のゾーラ川の上流
+あの塔の近くである！","Prince Sidon is at Inogo Bridge,
+just over there!
+
+He is upstream on the Zora River,
+which lies to the east of here.
+You will find him near that tower!"
+33,Npc_Zora001_R_004,"ハイリア人！""頼んだぞ！",Hylian! I am counting on you!
+34,Npc_Zora001_R_005,おおっ！ お主！,Oh! There's one!
+35,Npc_Zora001_R_006,ここ！ ここである！,Here! Over here!
+36,Npc_Zora001_R_007,おおっ！お初にお目にかかる！,"Oh! Hey!This is the first time I've
+seen one!"
+37,Npc_Zora001_R_008,"決めた！
+
+無理にでも行ってくれ！","Hm, yes! It is decided!
+
+
+You will indeed go and see
+the prince, even if you don't
+really want to!"
+38,Npc_Zora001_R_Near01,ふんふふ～ん♪,♪La dee daaa!♪
+39,Npc_Zora013_R_001,"突然 お呼び止めして すみません！
+
+私は ゾーラ族の
+レトーガンと申す者であります！
+あなたを ハイリア人と お見受けして
+声を かけたであります！
+今 ちょっとだけ よろしいですか？","I apologize for calling on you
+so suddenly!
+
+I am Ledo, a proud member of the
+distinguished Zora.
+
+As you are a real Hylian, I had no choice
+but to call upon you!
+
+Will you please spare me a moment
+of your time?"
+40,Npc_Zora013_R_002,"あそこの山の上の塔…
+見えるでありますか？
+あの塔の北側を流れるゾーラ川の上流…
+ダルブル橋に行って欲しいのであります","Do you see that tower...the one atop
+that mountain yonder?
+
+I need you to go upstream of Zora River,
+which runs along the north side of
+that tower...to Inogo Bridge."
+41,Npc_Zora013_R_003,"…
+
+今 あなた
+「なんでオレが？」って思いましたね
+まぁ誰だって通りすがりのゾーラに いきなり
+こんなこと言われたら そう思いますよね
+でも コレあなたにとって
+絶対お得な話であります！
+なんと ゾーラ族のシド王子が
+強いハイリア人を探しているのであります
+シド王子のお願いですから おそらく褒美も…
+
+なのでゾーラ川の上流ダルブル橋の
+シド王子を訪ねてほしいのであります！","...
+
+
+I can see it in your eyes. You're asking
+yourself, \""Why me?\""
+
+A reasonable question for a stranger
+accosted by a passing Zora in such
+a manner.
+But I must assure you, this venture will
+be very profitable for you as well!
+
+You see, Prince Sidon of the Zora is in
+desperate search of a strong Hylian.
+
+And as this is a royal request from the
+prince himself, it's safe to assume a
+generous reward is in the cards...
+That is why I am asking you to meet with
+Prince Sidon at Inogo Bridge, along the
+Zora River just upstream of here."
+42,Npc_Zora013_R_004,"ハイリア人の…
+
+もし我らがシド王子に会ってみる気に
+なられたら","Hylian...
+
+
+If you are up to the challenge and wish
+to meet with Prince Sidon..."
+43,Npc_Zora013_R_005,"あのゾーラ川の上流にある
+ダルブル橋に向かって欲しいであります
+我らがシド王子の頼み…
+きっと あなたにとっても お得な話であります！","I suggest you head toward Inogo Bridge,
+which is upstream of Zora River.
+
+As this is a request from Prince Sidon...
+I am certain something good will come
+of it for you!"
+44,Npc_Zora013_R_007,じゃ一瞬で説明するであります！,"Oh, of course you are! I shall get right to
+the point without delay!"
+45,Npc_Zora013_R_008,ありがとうございます！,Thank you so very much!
+46,Npc_Zora013_R_009,おおっ！ そこの人！,Oh! You there!
+47,Npc_Zora013_R_010,こっち！ こっちであります！,Over here! I'm over here!
+48,Npc_Zora013_R_011,"おお！ あなたは
+ハイリア人ではありませんか！
+私は ゾーラ族の
+レトーガンと申す者であります！
+今 ちょっとだけ よろしいですか？","Oh! You are a Hylian, are you not?
+
+
+I am Ledo, a proud member of the
+distinguished Zora.
+
+Will you please spare me a moment
+of your time?"
+49,Npc_Zora013_R_Near,そこの人！,Hello there!
+50,Npc_Zora025_R_001,"きゃーっ！
+ハイリア人だわ！ ハイリア人！
+ねぇ？
+あなた ハイリア人よね？","Oh, my! Oh, wow! Oh, whoa!
+It's a Hylian! A real Hylian!
+
+Umm... I mean...
+You are a Hylian, right?"
+51,Npc_Zora025_R_002,"やっぱり！
+じゃあ私のシド王子のトコロに行って！
+一大事なのよ！","I knew it! I SO knew it!
+Well, what are you waiting for?!
+Go see Prince Sidon!"
+52,Npc_Zora025_R_003,"ち違わないでしょ？！
+あなた どう見てもハイリア人よ！
+だからお願い！
+私のシド王子のトコに行って！
+一大事なのよ！","You're saying...I'm wrong?!
+No, that can't be! I'm pretty darn sure
+you're a Hylian! A mischievous one!
+Please, you must promise to meet with
+Prince Sidon and hear his request!
+It's terribly urgent!"
+53,Npc_Zora025_R_004,"ねぇねぇ ハイリア人っ！
+お願い！シド王子に会って！","Hey, Mr. Hylian! Please stop dawdling
+and go see Prince Sidon!"
+54,Npc_Zora025_R_006,"シド王子はゾーラ川の上流
+ダルブル橋で待ってらっしゃるわ！
+さあ行って！そして話を聞いて！","Prince Sidon is waiting upstream of
+Zora River at Inogo Bridge!
+
+Now go! Yes, and listen to what
+he has to say!"
+55,Npc_Zora025_R_007,"あっちのゾーラ川の上流！
+ダルブル橋で待ってるから お願い！
+そしてシド王子のお話を聞いてあげて！","He's waiting at Inogo Bridge, which is
+upstream of Zora River.
+
+Please listen to what dear Prince Sidon
+has to say!"
+56,Npc_Zora025_R_008,"いきなりで ビックリだろうけど
+とにかく行けば分かるから…ねっ！","I know it's sudden, but you'll understand
+everything once you get there. Trust me!
+You'll see!"
+57,Npc_Zora025_R_010,キャー！ あなた！,Uwaah! You're a...
+58,Npc_Zora025_R_011,ちょっと！ ちょっとー！,Hey! Come here!
+59,Npc_Zora025_R_Near,キャーー♪,Wow!
+60,Npc_Zora028_R_001,"やっぱり！ あなた ハイリア人？！
+ハイリア人ですわよね！ ヒレがないですもの
+これはこれは絶好のタイミングですわ
+
+実は私シド王子に命じられ
+ハイリア人を探していたのです
+…決して水遊びをして
+サボっていたワケじゃ ございませんことよ","I knew it! You are a Hylian, aren't you?!
+Yes, you must be a Hylian! Otherwise
+you're one unfortunate-looking Zora!
+Well, your timing couldn't be more
+perfect if you tried!
+
+I was ordered by Prince Sidon to find
+a Hylian!
+
+I've been searching nonstop! Yes, quite!
+
+
+I certainly wasn't just floating around
+and splashing in the water for fun!"
+61,Npc_Zora028_R_002,"ハイリア人のお方…
+
+我らがシド王子の場所
+もう一度説明致しましょうか？","Hylian!
+
+
+Shall I explain where you can find
+Prince Sidon again?"
+62,Npc_Zora028_R_003,"シド王子は我らゾーラ族王家のご子息
+
+そのシド王子が あちらにある高い塔の向こう側
+ダルブル橋でお待ちなの…
+行ってみてくださらない？","Prince Sidon is a member of the
+distinguished Zora royal family.
+
+He's waiting at Inogo Bridge, which is on
+the other side of that tall tower.
+
+I do hope you'll agree to go there
+and meet with him."
+63,Npc_Zora028_R_004,"シド王子なら あちらにある高い塔の向こう側
+ダルブル橋に おられますわ","Prince Sidon is at Inogo Bridge,
+which is on the other side of that
+tall tower over there."
+64,Npc_Zora028_R_005,"あ…突然のことでビックリされましたよね
+
+ごめんなさい
+でも私たちゾーラ族にとって一大事なんですの
+どうか私のお願いを聞いてくださいな
+あと もしシド王子と会っても…
+私がここで水遊びしてたって
+言わないでくださいね","Ah, yes... You must be taken aback by
+such a sudden request.
+
+My apologies. For us Zora, this is our
+top priority right now.
+
+So I must beg you to grant my request.
+Oh, and...if you do meet Prince Sidon...
+
+Perhaps don't tell him I was splashing
+about and playing in the water. Deal?"
+65,Npc_Zora028_R_006,"それではシド王子を…
+お願いしますね","OK then. Please make your way to
+Prince Sidon!"
+66,Npc_Zora028_R_007,あっ！ そこの人！,Ah! You there!
+67,Npc_Zora028_R_008,こっち！ こっちー！,Over here! Over heeere!!
+68,Npc_Zora028_R_009,"ですから お願いします
+シド王子の元へ…行っていただけないかしら
+あと もしシド王子と会っても
+私が水遊びしてたって言わないでくださいね","Please... If you do not mind... Will you go
+and meet with Prince Sidon?
+
+Oh! And if you do meet Prince Sidon,
+please don't tell him I was splashing
+about and playing in the water. Deal?"
+69,Npc_Zora028_R_Near,る～♪ るる～♪,♪Laaaa! La la laaa!♪
+70,Npc_Zora029_R_001,"うゎおっ！ビックリした！おほんッ失礼！
+小生はゾーラ族の ノールという者だ
+貴殿は旅の方と お見受けしたが
+なぜ こんなところに…？","WOW! I cannot believe it!*ahem* Excuse me! Yes, you!
+I am Gruve of the Zora!
+
+It is apparent that you are a traveler,
+but may I ask what brought you here?"
+71,Npc_Zora029_R_002,"ふぉ ふぉっ？！
+
+今小生を押そうとした？してない？！
+
+…まあよい","Ha ha! You... Did you just try to
+push me? No, I assume?
+
+Well, in any case..."
+72,Npc_Zora029_R_003,"シド王子""見つけましたー！
+
+ハイリア人が ここにおりますー！
+
+…
+
+……","Prince Sidon! I found one!
+
+
+I FOUND A HYLIAN!!
+
+
+..."
+73,Npc_Zora029_R_004,"シド王子""ハイリア人ですー！
+
+ノールも ここにおりますよー！
+
+た…助けてくだされー！","Prince Sidon! I got a Hylian!
+
+
+And I, Gruve, am here as well!
+
+
+Help me! PLEASE!!"
+74,Npc_Zora029_R_005,"ふぉっ…""鋭い！
+鋭過ぎる質問でございますな！
+実は小生…里のシド王子と一緒に とある事情で
+ハイリア人を探しておったのですが
+うっかり昼寝してしまいすごい音と振動で
+起こされたと思ったら こんな所に…
+下に降りたいのだが高過ぎて
+どうしたものか思案していた次第…
+なんとか この下の橋におられるシド王子に
+気づいてもらいたいのだが…
+…と言うか貴殿！ハイリア人では？！
+
+なんと！これは幸い！","Hm... How very astute of you!
+An excellent query indeed!
+
+I, by order of Prince Sidon of Zora's
+Domain, am searching for a Hylian.
+Or I was...but then I fell asleep.
+I awoke to a loud noise and awful
+quaking, and now here I am.
+
+I'd like to get down and be on my way,
+but I'm simply too high up! I need to
+figure something out.
+Prince Sidon is down at the bridge
+below, but for some reason I cannot
+seem to catch his attention!
+But you! You are a Hylian, yes?!
+
+
+Well then! My luck is improving!"
+75,Npc_Zora029_R_006,"う～む…やはりシド王子は
+小生の事に気づいておられない様子…
+こうなったら思い切って
+下の川に飛び込んでみるべきか？
+そうすればシド王子の元に行ける…
+
+…
+
+……
+
+イヤ イヤ イヤッ！この高さ！
+
+シド王子の お側に行く前に
+天国に行ってしまうわ！","Hmm... Prince Sidon doesn't seem to
+notice my struggle...
+
+Perhaps I should swallow my fear and
+jump to the river below. Then I could
+return to him! He must be worried sick.
+...
+
+
+...
+
+
+No! Nope! Can't do it! I'm too high up.
+
+
+I'll likely meet the gods of the ever after
+before I ever see Prince Sidon again..."
+76,Npc_Zora029_R_007,"ハイリア人よ すまない… 
+
+小生シド王子の元にたどり着くのに
+時間がかかりそうでな…
+小生の事は放っておいて先に行ってくれ…","Mr. Hylian, I must apologize... 
+
+
+It will be some time before I can get back
+to Prince Sidon. Please, you must leave
+me here and go on ahead."
+77,Npc_Zora029_R_008,"シド王子には小生が なんとか
+お伝えしておきますゆえ…","I will find a way to get my message of
+distress to him... Or so I hope."
+78,Npc_Zora029_R_Near00,たっ高い…,So high up...
+79,Npc_Zora029_R_Near01,ふ… ふぉっ…,Uuuuhhh...
+80,Npc_Zora036_R_001,"おお！ありがたい！
+お前 ハイリア人だな？","Oh, my, how wonderful!
+You are a Hylian, yes?"
+81,Npc_Zora036_R_002,よしよし！ツイてるツイてる！,Perfect! It must be my lucky day!
+82,Npc_Zora036_R_003,"違わないだろう！
+どう見ても お前はハイリア人だ！","Oh, stop it! I know a Hylian when I see
+one, and you are about as Hylian as
+they come!"
+83,Npc_Zora036_R_004,"あぁ…いきなりゴメン
+
+アタシ ゾーラ族のトルフォー！
+ずっと お前のようなハイリア人を探してた！
+実は アタシ達のゾーラの里が
+おかしな事になっててね…
+だからアタシ達シド王子と一緒に
+強そうなハイリア人を探してたんだ","Oh... *ahem* I apologize for calling out
+to you so suddenly.
+
+I am Torfeau of the Zora. I have been
+searching for a Hylian like you for a
+very long time!
+My home, Zora's Domain, is in terrible
+danger. That is why Prince Sidon sent
+me in search of a strong Hylian warrior."
+84,Npc_Zora036_R_005,"そのシド王子なら あのダルブル橋に居る
+
+アタシらを助けると思って
+一度シド王子の話を聞いてくれないか？","Prince Sidon is waiting at Inogo Bridge.
+
+
+Would you please talk to the prince
+and perhaps save us all? We would
+be ever so grateful!"
+85,Npc_Zora036_R_006,"頼む！
+アタシらを助けると思って","Please! Consider how nice it would feel
+to know you saved us all!"
+86,Npc_Zora036_R_007,"詳しくはダルブル橋に居る
+シド王子を訪ねてくれないか？","Go to Inogo Bridge and talk to Prince
+Sidon for more information!"
+87,Npc_Zora036_R_Near,ハイリア人！,A Hylian!
+88,Npc_ZoraB001_F_001,おおッ！,Whoa!
+89,Npc_ZoraB001_F_002,待っていたゾ リンク！,"I've been waiting for you, Link!"
+90,Npc_ZoraB001_F_003,"ようこそ！
+我がゾーラの里へ！
+さあ キングに紹介しよう！
+こちらに来てくれ！","Welcome! Behold the pride of my people,
+Zora's Domain! Now I shall introduce you
+to the king. Hurry, this way!"
+91,Npc_ZoraB001_F_004,おぉッ！,Whoa!
+92,Npc_ZoraB001_F_005,"そっと後ろから近付かれると驚くじゃないか！！
+…だが","I did not expect you to walk so closely
+behind me! Indeed, you gave me a fright.
+However..."
+93,Npc_ZoraB001_M_001,おーい！ リンク！,HEY! Link!!
+94,Npc_ZoraB001_M_002,"川の中からで すまない！強引に誘ったので君が本当に来てくれるのか
+心配だったんだが順調のようで安心したゾ！
+最近の異変以来 ここにも魔物が増えている！
+注意して進んでくれよ！！
+ゾーラ族の皆が君を待ってるゾ！！","Sorry for calling out to you from
+the river!Since I pressured you into coming, I was
+not sure you would really come through.
+I am pleased things are going well.
+Ever since this strange occurrence,
+there have been a lot of monsters
+around here. Be careful as you proceed!
+And hurry! All of my fellow
+Zora are anxiously awaiting
+your arrival!"
+95,Npc_ZoraB001_M_003,"おーい！
+こっちだ こっち！",HEY! Over here!
+96,Npc_ZoraB001_M_004,"遠くからで すまない！
+里まで まだ遠いが とてもいいペースだゾ！
+川の中から応援しているから
+がんばってくれ！
+君なら きっと辿りつけるゾ！","Sorry for calling from so far away!
+The domain is still a ways off,
+but you're making good progress!
+I shall be along soon myself.
+I won't be much longer!
+
+In the meantime, I'll be cheering you on
+from here in the river, so hang in there!
+
+You can do it! Stay strong!"
+97,Npc_ZoraB001_M_005,おおッ！ リンクッ！,Hey! Link!!
+98,Npc_ZoraB001_M_006,"そろそろ里まで半分のところまで来たゾ！
+
+この先に少し魔物が多い場所があるが
+きっと大丈夫だろう！
+俺はリンクを信じているゾ！","You're almost halfway to Zora's Domain!
+
+
+Oh, by the way, there are a few spots up
+ahead with lots of enemies...but I'm sure
+you will be fine!
+I believe in you, Link!"
+99,Npc_ZoraB001_M_007,"おーい！ リンク！
+
+下だッ！ こっちだー！","Hey! Link!!
+
+
+Look below! Down here!"
+100,Npc_ZoraB001_M_008,"かなり遠いな！
+でも必ずこの橋を通ると思って待っていた！
+もうすぐでゾーラの里に着く！オレも先に行って待っているからな
+里で会おうッ！","You are still pretty far off, my friend!
+But I was sure you'd be passing over this
+bridge, so I have been waiting for you.
+You will be in Zora's Domain before you
+know it!In fact, I'm going to head that way too!
+I shall meet you there!"
+101,Npc_ZoraB001_M_009,"…っと！ リンク！背後から魔物が迫っているぞ！
+気を付けるんだッ！","Whoa! Link!!Beware, warrior! A monster approaches
+from behind you!"
+102,Npc_ZoraB001_R_003,おおッ！ やっぱりハイリア人なんだな！！,"Aha! A Hylian! Yes, I knew it!"
+103,Npc_ZoraB001_R_004,"おお！ やはりな！！これでも オレはゾーラ族の王子
+人を見る目には自信があるのだゾ！","Aha! Just as I suspected!I am a Zora prince, after all. I have an
+eye for talent that is unparalleled!"
+104,Npc_ZoraB001_R_005,"いやッ！""謙遜するな！オレにはわかる これでもゾーラ族の王子
+人を見る目には自信があるのだゾ！","No, no, no!
+Do not be so humble!I can tell just by looking at you. I am a
+Zora prince, after all. I have an eye for
+talent that is unparalleled!"
+105,Npc_ZoraB001_R_006,"良いゾ！""最高だゾッ！オレは ずっと探していたのだ！
+リンクのような強きオーラを放つ男を！
+今 ゾーラの里は""水の神獣ヴァ・ルッタによる
+大雨で""存続の危機に見舞われてる！
+助けてくれ！""君の力が必要なんだ！！どうかゾーラの里まで来てくれまいか？","Yes! Exquisite!I have been searching for someone like
+you for a long while. A man like you,
+Link, who carries himself with power!
+Right now, Zora's Domain is in grave
+danger because of the massive rainfall
+coming from Divine Beast Vah Ruta!
+Please, promise you will help us!
+We need your strength, warrior!Won't you please come to 
+Zora's Domain with me?"
+106,Npc_ZoraB001_R_007,"おおッ！""本当か！",Wow! Really?!
+107,Npc_ZoraB001_R_008,"ちょっと？……“ちょっと” というのは これくらいか？
+よしッ！ じゃあ協力してくれるな！","Think on it?...
+...Was that sufficient time to think? Surely.
+So let's get to work!"
+108,Npc_ZoraB001_R_010,"オレは キミの行く先に異変が無いか
+先に行って確認する
+では頼んだゾ！！","I shall go on ahead and make sure there
+is not anything strange going on where
+you are headed. I'm counting on you!"
+109,Npc_ZoraB001_R_011,"リンク？！リンクか！""良い名だゾ！","Link?Your name is Link?! What a
+fantastic name!"
+110,Npc_ZoraB001_R_012,"ありがとう リンク！
+君は やはりオレの思った通りの男だゾ！
+これでゾーラの里は救われた！
+早速里に向かってくれ！","Thank you, Link! You are indeed
+the man I thought you were!
+
+Now Zora's Domain will be saved for
+certain! No time to waste! Hurry up
+and head over!"
+111,Npc_ZoraB001_R_013,"川を遡る事ができない ハイリア人の君には
+里までは厳しい道のりになるだろう","As a Hylian, I know you are unable to
+swim up the river. As such, the path to
+the domain may be a bit treacherous."
+112,Npc_ZoraB001_R_016,"大雨が降っているせいで崖は濡れて登れないが
+ここを真っ直ぐ道に沿って進めば里に着くゾ！","Because of the rain, the cliffs are too wet
+to climb. To reach the domain, you will
+need to go straight along this path."
+113,Npc_ZoraB001_R_017,君の名は？名を聞かせてくれ！！,"And what is your name?Go on, please tell me!"
+114,Npc_ZoraB001_R_018,がんばってくれ！,Don't give up! I believe in you!
+115,Npc_ZoraB001_R_019,オレはシド！ ゾーラ族の王子だ！,"I am Sidon, the Zora prince!"
+116,Npc_ZoraB001_R_020,"実は少し前から ずっと君を見ていたのだその身のこなし
+全身から漂う只者でないオーラ！
+リンク！
+君は ハイリアの強い戦士なんだろう？！","To be honest, I've been watching you.I've seen the way you work. I can tell by
+how you carry yourself that you are no
+ordinary person.
+Link! You must be a strong warrior
+among the Hylians, correct?!"
+117,Npc_ZoraB001_R_021,おっと失礼…,"Oh, pardon me..."
+118,Npc_ZoraB001_R_022,どこかで聞いた事がある気もするが…,"Hmm, though I cannot shake the feeling
+that I have heard it somewhere before..."
+119,Npc_ZoraB001_R_023,とにかく良い名だゾ！,"Well, in any case, it is a strong name!"
+120,Npc_ZoraB001_R_024,"……
+
+ああ！ そうだ！ 
+渡す物があるんだったゾ！","...
+
+
+Oh! That's right! I have something that
+I would like to give to you!"
+121,Npc_ZoraB001_R_025,"これは オレからの 
+ささやかな応援の気持ちだ！","This is just a small trinket to show that
+I have faith in you."
+122,Npc_ZoraB001_R_026,電気への抵抗力を上げる薬だゾ！,"It is a drink that will increase your
+resistance to electricity!"
+123,Npc_ZoraB001_R_027,"ハイリア人用の薬だからか
+オレたちには効き目が薄かったが 
+キミには効果があると思うゾ！","I am not sure why, but its effects do not
+seem to work for Zora. Perhaps because
+it was made specifically for Hylians.
+It should work wonders for you, though!"
+124,Npc_ZoraB001_R_028,"この先にいる電気を使うマモノにも
+苦戦するかもしれないが","You likely have a tough fight in store—
+there are monsters up ahead that attack
+with electricity."
+125,Npc_ZoraB001_R_Near,そこの君！,You there!

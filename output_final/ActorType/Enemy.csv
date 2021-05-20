@@ -1,0 +1,679 @@
+#,Title,JPja,USen
+1,Enemy_AirOctarock_Name,空オクタ,Sky Octorok
+2,Enemy_AirOctarock_PictureBook,"タコのような見た目の下級魔族
+もともと水生の魔族だが体内の浮き袋が発達し
+常に空に浮かべるようになった
+だが それに目をつけた魔物たちに
+空飛ぶ拠点の浮力として酷使されている
+角笛の音で上昇するように飼い慣らされて
+特に攻撃もしてこない","These low-level, octopus-like monsters used
+to be aquatic, but their inflatable air sacs
+evolved so that they are able to float around
+in the air. Other monsters are known to take
+advantage of this ability, using them to make
+floating fortresses. They are trained to ascend
+when they hear a whistle, but they will
+not attack."
+3,Enemy_Assassin_Junior_Name,イーガ団構成員,Yiga Footsoldier
+4,Enemy_Assassin_Junior_PictureBook,"イーガ団の末端構成員
+英傑リンクを見つけ出し命を奪うため
+ハイラル全土に送り出されている
+旅人や村人に扮し
+リンクを奇襲してくることもあるため
+怪しげな人物を見たら注意が必要だ
+片手剣と弓を操り俊敏な動きを見せる","The lowest-ranked members of the Yiga Clan.
+They've been dispatched all across Hyrule
+with a single task: seek out Link and end
+his life. They're a crafty bunch, sometimes
+disguising themselves as simple travelers
+or villagers to get the jump on you. Be
+wary of suspicious people you encounter.
+They're very agile and carry a bow and a
+one-handed sword."
+5,Enemy_Assassin_Middle_Name,イーガ団幹部,Yiga Blademaster
+6,Enemy_Assassin_Middle_PictureBook,"イーガ団の構成員
+真空波を発する風斬り刀を携えている
+屈強な体つきだが動きは俊敏
+地面を叩きつけ気流とともに石柱を突きあげる
+土遁の術を使うこともできるという","These are the elite soldiers of the Yiga Clan.
+They favor the windcleaver blade and are
+extremely agile despite their bulky build.
+At this Yiga Clan rank, they have mastered a
+technique that allows them to manipulate the
+very earth. By striking the ground, they can
+create stone pillars and blasts of air."
+7,Enemy_Assassin_Senior_Name,コーガ様,Master Kohga
+8,Enemy_Assassin_Senior_PictureBook,"英傑リンクの命を狙う イーガ団の総長
+世界中に子分を送り出し捜索させているが
+自身はごろごろ寝てばかりいる
+そんな総長だが究極の奥義を身に着けており
+子分からの信頼は意外にも厚い
+たとえ彼が滅しようと子分たちが意思を引き継ぎ
+英傑を追い続けるだろう","The leader of the Yiga Clan, a group formed
+with just a single objective: eliminate Link. He
+sends his minions all over Hyrule in search of
+you but tends to spend most of his own time
+napping and generally loafing about. Despite
+this, his mastery of the esoteric arts has
+earned him a deep respect. Even if he
+were to die, his followers would never
+give up their one and only task."
+9,Enemy_Bokoblin_Bone_Junior_Name,スタルボコブリン,Stalkoblin
+10,Enemy_Bokoblin_Bone_Junior_PictureBook,"闇夜に現れるボコブリンの亡骸
+一撃加えるだけでバラバラになる程 もろい反面
+頭蓋骨さえあれば何度でも立ち直ってしまう
+たまに頭蓋骨を取り違えることがあるが
+彼らには たいした問題ではないようだ","The remains of Bokoblins appear in the dark
+of the night. While they're fragile enough to
+crumble from a single blow, as long as a
+skull remains intact, they'll continue to pull
+themselves back together and go on
+fighting. Sometimes the body will pick up
+the wrong skull, but this doesn't seem to
+be a problem..."
+11,Enemy_Bokoblin_Dark_Name,白銀ボコブリン,Silver Bokoblin
+12,Enemy_Bokoblin_Dark_PictureBook,"黒ボコブリンを遥かに超える体力を持つ
+最強のボコブリン
+白い肉体と その希少性から
+白銀ボコブリンと呼ばれている
+ガノンの凶悪な魔力の影響を受け
+体中に紫の縞模様が浮かび上がっているのも特徴","You would be foolish to call these Silver
+Bokoblins a mere nuisance. They have
+been influenced by Ganon's fiendish
+magic, so they are stronger than even the
+Black Bokoblins. They're called \""silver\""
+not only because of their coloring but
+also to denote their rarity. The purple
+markings help them stand out even more."
+13,Enemy_Bokoblin_Gold_Name,金色ボコブリン,Golden Bokoblin
+14,Enemy_Bokoblin_Gold_PictureBook,"白銀ボコブリンすら凌駕する
+戦闘力と体力を持った非常に凶悪なボコブリン
+白銀ボコブリンが雷に撃たれ そのショックで
+突然変異したもの といわれる
+そのせいか耐性があり雷の攻撃を受けても
+あまり しびれないようだ","With brutal strength and extreme resilience,
+this type of Bokoblin somehow surpasses
+Silver Bokoblins in sheer power. It is said they
+are actually Silver Bokoblins who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks."
+15,Enemy_Bokoblin_Junior_Name,ボコブリン,Bokoblin
+16,Enemy_Bokoblin_Junior_PictureBook,"ハイラル全土に生息する魔物
+荒れ果てたハイラルで徒党を組み山賊化している
+あまり賢くはないが 
+ケモノを狩って焼く程度の知性はあるようだ
+凶暴で肉食だが果物も好んで食べるという","This common species is a nuisance all
+over Hyrule. Some have unified in the time
+following the Great Calamity and have formed
+factions of bandits. While not very clever,
+they are at least intelligent enough to hunt
+beasts and grill the meat for food. Though
+they're typically ferocious carnivores, they
+actually enjoy fruit as well."
+17,Enemy_Bokoblin_Middle_Name,青ボコブリン,Blue Bokoblin
+18,Enemy_Bokoblin_Middle_PictureBook,"ハイラル全土に生息する魔物
+赤いボコブリンと比べると
+体力が高く扱う武器もより強力
+リモコンバクダンを見かけると
+素早く蹴り飛ばし危険を回避するなど
+少しは賢いところもあるようだ","This common species is a nuisance all
+over Hyrule. They're tougher and have
+stronger weapons than the red Bokoblins—
+and are a little more clever, as well. At the
+very least, they figured out that they can
+simply kick a Remote Bomb out of the way
+to avoid its blast."
+19,Enemy_Bokoblin_Senior_Name,黒ボコブリン,Black Bokoblin
+20,Enemy_Bokoblin_Senior_PictureBook,"ハイラル全土に生息する魔物
+体力は非常に高く
+強力な武器を備えていることが多いため
+ボコブリン族のなかでも最上級の危険度である","Although Bokoblins are generally a nuisance,
+the Black Bokoblins are among the most
+dangerous type. They're extremely resilient,
+and many are armed with advanced weapons."
+21,Enemy_GanonBeast_Name,魔獣 ガノン,Dark Beast Ganon
+22,Enemy_GanonBeast_PictureBook,"リンクによって倒され霧散した怨念が集合した姿
+禍々しい魔力と荒ぶる獣のようなその姿は
+魔獣と呼ぶに相応しい
+ガノン本来の姿とされ意識は怨念に飲み込まれ
+暴走している
+","After Ganon was defeated by Link, the
+remaining Malice pulled itself together to
+form this bestial creature. Its appearance
+and fiendish magic earned it the name of
+Dark Beast. This form is considered to be
+Ganon's original, although in this state, his
+awareness has been consumed entirely
+by Malice, and all he knows is a desire to
+rampage and destroy."
+23,Enemy_GanonGrudge_01_Name,カースモリブリン,Cursed Moblin
+24,Enemy_GanonGrudge_01_PictureBook,"怨念に囚われたモリブリンの頭骨
+生前の獰猛さだけは残っており
+近づいたものに襲いかかってくる
+ボコブリンの頭骨より硬い","The Malice has given these Moblin skulls a
+pitiful life after death. The only fragment of
+their former selves they've held on to is the
+ferocity innate to all Moblins, so they will
+attack anyone that approaches. They're
+tougher than Bokoblin skulls."
+25,Enemy_GanonGrudge_02_Name,カースリザルフォス,Cursed Lizalfos
+26,Enemy_GanonGrudge_02_PictureBook,"怨念に囚われたリザルフォスの頭骨
+生前の狡猾さだけは残っており
+近づいたものに襲いかかってくる
+ボコブリンの頭骨より素早い","The Malice has given these Lizalfos skulls a
+sorry form of life after death. Only the slyness
+of their former selves remains, making them
+faster than Bokoblin skulls. They thoughtlessly
+attack anyone who approaches."
+27,Enemy_GanonGrudge_Name,カースボコブリン,Cursed Bokoblin
+28,Enemy_GanonGrudge_PictureBook,"怨念に囚われたボコブリンの頭骨
+生前の知性はもはや感じられず
+近づいたものを襲うだけの哀れな存在となった","The Malice has given these Bokoblin skulls
+a sort of life. Devoid of any intelligence the
+Bokoblin it once belonged to may have had,
+these pitiful things now exist only to attack
+anything that gets too close."
+29,Enemy_Golem_Little_Fire_Name,マクロック,Igneo Pebblit
+30,Enemy_Golem_Little_Fire_PictureBook,"マグロックの幼体
+成長すると溶岩でできた固い体になる
+幼体ながらも炎を帯びているが
+バクダンで吹き飛ぶほど軽く モロい","A very young Igneo Talus. Their bodies
+toughen as they mature and convert
+fully into lava by adulthood. As a child,
+however, while still covered in fire, their
+bodies are fragile and light enough to
+be blown away by a bomb's blast."
+31,Enemy_Golem_Little_Ice_Name,カチロック,Frost Pebblit
+32,Enemy_Golem_Little_Ice_PictureBook,"ガチロックの幼体
+成長すると氷の岩でできた固い体になる
+幼体ながらも冷気を帯びているが
+バクダンで吹き飛ぶほど軽く モロい","A very young Frost Talus. Their bodies
+toughen and frost over as they mature,
+becoming entirely made of ice by
+adulthood. As a child, however, their
+bodies are awfully fragile and are
+light enough to be blown away by
+a bomb's blast."
+33,Enemy_Golem_Little_Name,イシロック,Stone Pebblit
+34,Enemy_Golem_Little_PictureBook,"イワロックの幼体
+成長すると岩のように固い体になるが
+幼体は持ち上げられるほど軽く
+投げると すぐに崩れるほど モロい","A very young Stone Talus. Their bodies
+toughen as they mature, becoming as
+tough as boulders by adulthood. As a
+child, however, their bodies are light
+enough to be lifted and fragile enough
+to break when thrown."
+35,Enemy_Guardian_Mini_Baby_Name,小型ガーディアン,Guardian Scout I
+36,Enemy_Guardian_Mini_Baby_PictureBook,"試練の祠に設置された古代文明兵器の一種
+対ガノン用兵器として作られたガーディアンから
+多足移動機構とビーム照射機能を流用し
+勇者の訓練用兵器として作り変えられた","Guardians were originally designed by an
+ancient civilization to combat Ganon, but
+these smaller models were placed inside
+shrines as part of the trials found within.
+The multiple legs and beam functionality
+were scaled down but kept mostly intact."
+37,Enemy_Guardian_Mini_Junior_Name,小型ガーディアン(序位),Guardian Scout II
+38,Enemy_Guardian_Mini_Junior_PictureBook,"試練の祠に設置された古代文明兵器の一種
+対ガノン用兵器として作られたガーディアンから
+多足移動機構とビーム照射機能を流用し
+勇者の訓練用兵器として作り変えられた
+勇者の戦闘力を鍛える力の試練 のために
+武器を扱う機能が つけ加えられている
+渡り合うには相応の力が求められる","Although originally designed by an ancient
+civilization to combat Ganon, these scaled-
+down Guardians were placed inside shrines
+as part of the trials. In addition to the beam
+functionality, this particular model was
+designed to handle weaponry as a means
+of further testing the combat prowess of one
+undertaking the trials. It takes some serious
+skill to go toe-to-toe with one of these."
+39,Enemy_Guardian_Mini_Middle_Name,小型ガーディアン(中位),Guardian Scout III
+40,Enemy_Guardian_Mini_Middle_PictureBook,"試練の祠に設置された古代文明兵器の一種
+対ガノン用兵器として作られたガーディアンから
+多足移動機構とビーム照射機能を流用し
+勇者の訓練用兵器として作り変えられた
+勇者の戦闘力を鍛える力の試練 のために
+二刀を扱う機能が つけ加えられている
+渡り合うには相応の力が求められる","Although originally designed by an ancient
+civilization to combat Ganon, these scaled-
+down Guardians were placed inside shrines
+as part of the trials. This model is equipped
+with twin-blade functionality to further test the
+combat prowess of one undertaking the trials.
+It takes a nimble fighter to overcome this one."
+41,Enemy_Guardian_Mini_Senior_Name,小型ガーディアン(極位),Guardian Scout IV
+42,Enemy_Guardian_Mini_Senior_PictureBook,"試練の祠に設置された古代文明兵器の一種
+対ガノン用兵器として作られたガーディアンから
+多足移動機構とビーム照射機能を流用し
+勇者の訓練用兵器として作り変えられた
+力の試練極位 のために三刀を扱う機能が
+追加されており耐久力も非常に高い
+充分な力を備えていなければ太刀打ちできない","An ancient civilization originally designed
+Guardians to combat Ganon but then scaled
+them down to place in shrines as part of the
+trials. This model is very resilient and has been
+outfitted with triple-blade functionality, allowing
+it to wield three weapons. This will put any
+would-be hero to the test for sure. A great
+deal of strength and confidence alike are
+required to contend with one of these."
+43,Enemy_Keese_Electric_Name,エレキース,Electric Keese
+44,Enemy_Keese_Electric_PictureBook,"闇夜に現れる こうもりのような姿をした下級魔族
+電気をまとっており触れるとしびれてしまう","The electricity that engulfs the bodies of these
+bat-like Keese makes them more dangerous
+than the standard type. They're capable of
+shocking anything they touch."
+45,Enemy_Keese_Fire_Name,ファイアキース,Fire Keese
+46,Enemy_Keese_Fire_PictureBook,"闇夜に現れるこうもりのような姿をした下級魔族
+炎をまとっており触れると燃えてしまう","The fire that engulfs the bodies of these bat-
+like Keese makes them more dangerous than
+the standard type. They're capable of setting
+fire to anything they touch."
+47,Enemy_Keese_Ice_Name,アイスキース,Ice Keese
+48,Enemy_Keese_Ice_PictureBook,"闇夜に現れるこうもりのような姿をした下級魔族
+冷気をまとっており触れると凍ってしまう","The intense frost that engulfs the bodies of
+these bat-like Keese makes them more
+dangerous than the standard type. They're
+capable of freezing anything they touch."
+49,Enemy_Keese_Name,キース,Keese
+50,Enemy_Keese_PictureBook,"闇夜に現れるこうもりのような姿をした下級魔族
+不規則に飛び回る為戦いづらいが
+一撃与えるだけで始末できる
+ときおり大群で襲ってくることがあるが
+冷静に一撃与えれば退散していく","The unpredictable flight pattern of this
+nocturnal bat-like species can make fighting
+them a nuisance, but they're weak enough
+to fell with a single strike. Sometimes they'll
+attack in packs, but even then, a pack can
+be sent packing with a single attack."
+51,Enemy_Lizalfos_Bone_Junior_Name,スタルリザルフォス,Stalizalfos
+52,Enemy_Lizalfos_Bone_Junior_PictureBook,"闇夜に現れるリザルフォスの亡骸
+骨になっても その俊敏さは変わらない
+体はもろく一度叩けば すぐバラバラになるが
+頭蓋骨を打ち砕かなければ何度も復活してしまう
+たまに頭蓋骨を取り違えることがあるが
+彼らには たいした問題ではないようだ","The remains of Lizalfos appear in the dark of
+the night. They're as sly as ever, even now
+that they're just some bones stacked atop
+each other. However, their bodies are much
+more fragile, and a single solid hit can reduce
+them to pieces. If a skull remains intact, they
+will pull themselves back up and continue to
+fight. They've been known to grab the wrong
+skull at times, but they never seem to mind..."
+53,Enemy_Lizalfos_Dark_Name,白銀リザルフォス,Silver Lizalfos
+54,Enemy_Lizalfos_Dark_PictureBook,"黒リザルフォスを遥かに超える体力を持つ
+最強のリザルフォス
+白い肉体と その希少性から
+白銀リザルフォスと呼ばれている
+ガノンの凶悪な魔力の影響を受け
+体中に紫の縞模様が浮かび上がっているのも特徴","These Lizalfos have been influenced by
+Ganon's fiendish magic to become the
+strongest Lizalfos of all. They're called
+\""silver\"" for their unique coloring and
+also to denote their rarity. Their purple
+pattern makes them even more distinct."
+55,Enemy_Lizalfos_Electric_Name,シビレリザルフォス,Electric Lizalfos
+56,Enemy_Lizalfos_Electric_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+体から強力な電気を発することがある
+角は電気を帯びており
+そこを弓で射ると広範囲に放電する
+主に砂漠地方に生息しているようだ","These quick-witted, lizard-like monsters can
+be found all over Hyrule. They can emit strong
+electrical currents from their bodies, so don't
+get too close. Their horns are brimming with
+electricity, which will discharge and arc to
+nearby areas if struck by an arrow. They
+tend to live in desert climates."
+57,Enemy_Lizalfos_Fire_Name,火吹きリザルフォス,Fire-Breath Lizalfos
+58,Enemy_Lizalfos_Fire_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+口から高熱の炎を吐き出す危険な種類だが
+冷気に触れると即死してしまうという
+主に火山地帯に生息しているようだが
+アッカレ地方でも目撃されている","These quick-witted, lizard-like monsters can
+be found all over Hyrule. Their fiery breath
+makes them pretty dangerous, but exposure
+to cold will kill them instantly. They mainly
+make their homes in volcanic areas but have
+also been sighted in the Akkala region."
+59,Enemy_Lizalfos_Gold_Name,金色リザルフォス,Golden Lizalfos
+60,Enemy_Lizalfos_Gold_PictureBook,"白銀リザルフォスすら凌駕する
+戦闘力と体力を持った非常に凶悪なリザルフォス
+白銀リザルフォスが雷に撃たれ そのショックで
+突然変異したもの といわれる
+そのせいか耐性があり雷の攻撃を受けても
+あまり しびれないようだ","With brutal strength and extreme resilience,
+this type of Lizalfos somehow surpasses
+Silver Lizalfos in sheer power. It is said they
+are actually Silver Lizalfos who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks."
+61,Enemy_Lizalfos_Ice_Name,雹吐きリザルフォス,Ice-Breath Lizalfos
+62,Enemy_Lizalfos_Ice_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+口から氷の球を吐き出すやっかいな種類だが
+炎に触れると即死してしまう
+主に雪山に生息する","These quick-witted, lizard-like monsters can
+be found all over Hyrule. The balls of ice they
+spit make them particularly troublesome, but
+exposure to fire will kill them instantly. Their
+homes are mainly on snowy mountains."
+63,Enemy_Lizalfos_Junior_Name,リザルフォス,Lizalfos
+64,Enemy_Lizalfos_Junior_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+水中に潜んだり地面に体を擬態させ
+奇襲してくることもある狡猾な種族
+昼夜を問わず寝ることはない
+肉食でケモノを食べるが虫も好んで食べる","These quick-witted, lizard-like monsters can
+be found all over Hyrule. They're a sly species
+that lurks underwater or uses camouflage
+to blend in with the environment to launch
+ambushes. Moreover, they never sleep.
+They're meat eaters by nature but will
+enjoy the occasional insect or two."
+65,Enemy_Lizalfos_Middle_Name,青リザルフォス,Blue Lizalfos
+66,Enemy_Lizalfos_Middle_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+緑のリザルフォスよりも 
+強い武器を持っていることが多く体力も強靭","These quick-witted, lizard-like monsters
+can be found all over Hyrule. Compared
+to the green Lizalfos, many of these carry
+much stronger weapons and are generally
+much tougher."
+67,Enemy_Lizalfos_Senior_Name,黒リザルフォス,Black Lizalfos
+68,Enemy_Lizalfos_Senior_PictureBook,"ハイラル全土に生息する俊敏なトカゲ類の魔物
+体力は非常に高く
+強力な武器を持っていることが多いため
+リザルフォス族のなかでも最上級の危険度である","These quick-witted, lizard-like monsters can
+be found all over Hyrule. This particular type
+tends to carry some pretty strong weapons,
+so they are among the most dangerous
+Lizalfos."
+69,Enemy_Lynel_Dark_Name,白銀のライネル,Silver Lynel
+70,Enemy_Lynel_Dark_PictureBook,"白髪のライネルを遥かに超える体力を持つ
+最強のライネル
+白い肉体と その希少性から
+白銀のライネルと呼ばれている
+ガノンの凶悪な魔力の影響を受け
+体中に紫の縞模様が浮かび上がっているのも特徴","Silver Lynels are not to be trifled with. They
+have been influenced by Ganon's fiendish
+magic, so they are the strongest among the
+Lynel species, surpassing even the strength
+of those with white manes. The term \""silver\""
+denotes not only their color but also their
+rarity. The purple stripes help them to stand
+out even more."
+71,Enemy_Lynel_Gold_Name,金色のライネル,Golden Lynel
+72,Enemy_Lynel_Gold_PictureBook,"白銀のライネルすら凌駕する
+戦闘力と体力を持った非常に凶悪なライネル
+白銀のライネルが雷に撃たれ そのショックで
+突然変異したもの といわれる
+もし目撃しても命が惜しければ
+そっと その場を離れた方がよい","With brutal strength and extreme resilience,
+this type of Lynel somehow surpasses
+Silver Lynels in sheer power. It is said they
+are actually Silver Lynels who mysteriously
+transformed after being struck by lightning.
+If you see one, get away as fast as you can."
+73,Enemy_Lynel_Junior_Name,ライネル,Lynel
+74,Enemy_Lynel_Junior_PictureBook,"古からハイラル全土に生息するといわれる
+半人半獣の魔物
+中でも危険度の高い種族で
+知性・体力ともに高く あらゆる攻撃が強力である
+炎や氷電気も彼らにとっては何の脅威でもない
+中途半端な準備で戦いに臨まないほうがよい","These fearsome monsters have lived in Hyrule
+since ancient times. They possess intense
+intelligence, resilience, and strength, making
+them among the most dangerous monsters in
+all the land. This is compounded by the fact
+that they have a natural resistance to all
+elements. You would be wise to challenge
+a Lynel only if you're very well prepared."
+75,Enemy_Lynel_Middle_Name,青髪のライネル,Blue-Maned Lynel
+76,Enemy_Lynel_Middle_PictureBook,"古からハイラル全土に生息するといわれる
+半人半獣の魔物
+赤いライネルよりも さらに強靭な体力を持ち
+強力な武器を備えている
+中途半端な準備で戦いに臨まないほうがよい","These fearsome monsters have lived in
+Hyrule since ancient times. Compared to the
+standard Lynel, those with blue manes are
+much tougher and are equipped with much
+stronger weapons. Facing off against a Lynel
+is ill-advised, but if you must, be sure you're
+well prepared."
+77,Enemy_Lynel_Senior_Name,白髪のライネル,White-Maned Lynel
+78,Enemy_Lynel_Senior_PictureBook,"古からハイラル全土に生息するといわれる
+半人半獣の魔物
+知性・体力ともに非常に高く扱う武器も強力で
+ライネル族のなかでも最上級の危険度である
+強烈な炎を吐くこともあり全ての攻撃が死を招く
+目撃情報は少ないが それは出会って生きて
+帰った者が少ないからだ","These fearsome monsters have lived in Hyrule
+since ancient times. Their ability to breathe
+fire makes White-Maned Lynels among the
+toughest of the species; each one of their
+attacks is an invitation to the grave. There
+are so few eyewitness accounts of this breed
+because a White-Maned Lynel is not one to
+let even simple passersby escape with
+their lives."
+79,Enemy_Moriblin_Bone_Junior_Name,スタルモリブリン,Stalmoblin
+80,Enemy_Moriblin_Bone_Junior_PictureBook,"闇夜に現れるモリブリンの亡骸
+普段は強靭なモリブリンも
+骨になればもろいようで
+少し攻撃を加えるだけでバラバラになる
+しかし頭蓋骨さえあれば何度でも立ち直る","The remains of Moblins appear in the dark
+of the night. Even the toughest Moblins
+become fragile when they're little more
+than a pile of bones, so they'll crumble
+after just a few attacks. However, as
+long as a skull remains intact, they'll
+continue to pull themselves back
+together and go on fighting."
+81,Enemy_Moriblin_Dark_Name,白銀モリブリン,Silver Moblin
+82,Enemy_Moriblin_Dark_PictureBook,"黒モリブリンを遥かに超える体力を持つ
+最強のモリブリン
+白い肉体と その希少性から
+白銀モリブリンと呼ばれている
+ガノンの凶悪な魔力の影響を受け
+体中に紫の縞模様が浮かび上がっているのも特徴","The strongest of all Moblins, Ganon's fiendish
+magic has allowed them to surpass even
+the Black Moblins in strength and resilience.
+They're called \""silver\"" for both their body
+color as well as their rarity. The purple
+patterns on their bodies also help them
+to stand out."
+83,Enemy_Moriblin_Gold_Name,金色モリブリン,Golden Moblin
+84,Enemy_Moriblin_Gold_PictureBook,"白銀モリブリンすら凌駕する
+戦闘力と体力を持った非常に凶悪なモリブリン
+白銀モリブリンが雷に撃たれ そのショックで
+突然変異したもの といわれる
+そのせいか耐性があり雷の攻撃を受けても
+あまり しびれないようだ","With brutal strength and extreme resilience,
+this type of Moblin somehow surpasses
+Silver Moblins in sheer power. It is said they
+are actually Silver Moblins who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks."
+85,Enemy_Moriblin_Junior_Name,モリブリン,Moblin
+86,Enemy_Moriblin_Junior_PictureBook,"ハイラル全土に生息する重量級の魔物
+その剛腕はすさまじく
+ボコブリンを投げ飛ばしてくることがあるという
+足腰も強靭で バクダンでも吹き飛ばない
+ボコブリン族よりも格上の種族である","This heavyweight species of monster can be
+found all over Hyrule. They're physically very
+strong, their legs alone strong enough to
+resist the force of a bomb blast. They're
+much more dangerous than Bokoblins. In
+fact, Moblins have been known to pick up
+Bokoblins and throw them as makeshift
+projectile weapons."
+87,Enemy_Moriblin_Middle_Name,青モリブリン,Blue Moblin
+88,Enemy_Moriblin_Middle_PictureBook,"ハイラル全土に生息する剛腕の魔物
+赤いモリブリンよりも体力が強靭で
+装備する武器も より強力なことが多い","These heavyweight monsters can be found all
+over Hyrule. They're much tougher than their
+standard counterparts and often have much
+stronger weapons equipped."
+89,Enemy_Moriblin_Senior_Name,黒モリブリン,Black Moblin
+90,Enemy_Moriblin_Senior_PictureBook,"ハイラル全土に生息する重量級の魔物
+体力は非常に高く
+強力な武器を備えていることが多いため
+モリブリン族のなかでも最上級の危険度である","These heavyweight monsters can be found
+all over Hyrule and are among the most
+dangerous types of Moblin. They're extremely
+resilient and are often armed with some of
+the strongest weapons Moblins can carry."
+91,Enemy_Octarock_Desert_Name,宝オクタ,Treasure Octorok
+92,Enemy_Octarock_Desert_PictureBook,"タコのような見た目の下級魔族
+砂地や雪原に潜んでおり
+宝箱に擬態している
+うかつに近づくと奇襲される
+頭についた鉄の宝箱は本物の宝箱ではなく
+オクタの体の一部といわれる
+その証拠は頭の宝箱は磁石に反応しない事だ","These particularly clever monsters bury
+themselves in deep sand or snow and
+disguise themselves as treasure chests.
+Anyone who approaches the chests is
+attacked. The treasure chests are not
+magnetic, which proves that they are
+actually a part of these monsters' bodies."
+93,Enemy_Octarock_Forest_Name,森オクタ,Forest Octorok
+94,Enemy_Octarock_Forest_PictureBook,"タコのような見た目の下級魔族
+森に潜んでおり草や低木に擬態している
+近づくと地面に潜って隠れてしまう
+もともと水生の魔族だが
+いつしか森にも居つくようになった","Although originally an aquatic species, this
+type has adapted to life in the forest. They
+hide among the trees, disguising themselves
+as grass or unassuming shrubbery, and then
+attack when someone wanders by."
+95,Enemy_Octarock_Name,水オクタ,Water Octorok
+96,Enemy_Octarock_PictureBook,"タコのような見た目の下級魔族
+普段は水中に潜んでいるが
+気圧が下がり雨が降ると体内の浮き袋が膨らみ
+空中に浮かびあがる
+吐いてくる岩は盾ではじき返すことができる
+","Although they spend most of their time in
+water, the drop in barometric pressure that
+occurs when it rains causes an air sac
+within these octopus-like monsters to inflate
+and lift them into the air. The rocks they spit
+out can be bounced back with a shield."
+97,Enemy_Octarock_Snow_Name,雪オクタ,Snow Octorok
+98,Enemy_Octarock_Snow_PictureBook,"タコのような見た目の下級魔族
+雪原に生息している
+雪原に生えるススキに擬態し
+人を見つけると雪玉を吐いて襲ってくる","These octopus-like monsters live in snowy
+fields and disguise themselves as grass.
+When someone wanders by, they spring
+into action and attack by spitting snowballs."
+99,Enemy_Octarock_Stone_Name,岩オクタ,Rock Octorok
+100,Enemy_Octarock_Stone_PictureBook,"タコのような見た目の下級魔族
+火山地方に生息する
+大きく息を吸い込んで
+炎をまとった岩を吐き出してくる
+吸い込む力が強力で
+武器やバクダンも吸い込んでしまう","This octopus-like species of monster lives in
+volcanic regions. When they inhale, they're
+preparing to spit out flaming rocks but have
+been known to suck up weapons or bombs
+in the same breath."
+101,Enemy_Wizzrobe_Electric_Name,エレキウィズローブ,Electric Wizzrobe
+102,Enemy_Wizzrobe_Electric_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+エレキロッドを操り電気の玉を飛ばしたり
+電気をまとった魔物を召喚したりしてくる
+また ときおり世界の天候を雷雨に変えてしまう
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their lightning rods
+to hurl balls of electricity or to summon
+monsters surging with electricity and have
+been known to cause thunderstorms in the
+area. The weather will normalize once the
+Wizzrobe is defeated."
+103,Enemy_Wizzrobe_Electric_Senior_Name,ボルトウィズローブ,Thunder Wizzrobe
+104,Enemy_Wizzrobe_Electric_Senior_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+ボルテージロッドを操り電気の玉を飛ばしたり
+電気をまとった魔物を召喚したりしてくる
+また ときおり世界の天候を雷雨に変えてしまう
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their
+thunderstorm rods to hurl balls of electricity
+or to summon monsters surging with electricity
+and have been known to cause thunderstorms
+in the area. The weather will normalize once
+the Wizzrobe is defeated."
+105,Enemy_Wizzrobe_Fire_Name,ファイアウィズローブ,Fire Wizzrobe
+106,Enemy_Wizzrobe_Fire_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+ファイアロッドを操り火の玉を飛ばしたり
+炎をまとった魔物を召喚したりする
+また ときおり世界の天候を灼熱に変える
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their fire rods to
+hurl fireballs or to summon flaming monsters
+and have been known to severely raise the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated."
+107,Enemy_Wizzrobe_Fire_Senior_Name,メテオウィズローブ,Meteo Wizzrobe
+108,Enemy_Wizzrobe_Fire_Senior_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+メテオロッドを操り火の玉を飛ばしたり
+炎をまとった魔物を召喚したりしてくる
+また ときおり世界の天候を灼熱に変えてしまう
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their meteor rods
+to hurl fireballs or to summon flaming monsters
+and have been known to severely raise the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated."
+109,Enemy_Wizzrobe_Ice_Name,アイスウィズローブ,Ice Wizzrobe
+110,Enemy_Wizzrobe_Ice_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+アイスロッドを操り冷気をまき散らしたり
+冷気をまとった魔物を召喚したりしてくる
+また ときおり世界の天候を大雪に変えてしまう
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their ice rods to
+create freezing blasts of air or to summon
+frozen monsters and have been known to
+cause blizzards to severely decrease the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated."
+111,Enemy_Wizzrobe_Ice_Senior_Name,フリーズウィズローブ,Blizzrobe
+112,Enemy_Wizzrobe_Ice_Senior_PictureBook,"ハイラル全土に存在する魔法を使う魔物
+フリーズロッドを操り冷気の玉を飛ばしたり
+冷気をまとった魔物を召喚したりしてくる
+また ときおり世界の天候を大雪に変えてしまう
+魔法も使ってくる事がある
+ウィズローブを倒すことで天候は平常に戻る","These spell-casting monsters can be found
+all over Hyrule. They use their blizzard rods
+to create freezing blasts of air or to summon
+frozen monsters and have been known to
+cause blizzards to severely decrease the
+temperature around them. The weather will
+normalize once the Blizzrobe is defeated."
+113,Priest_Boss_Normal_Name,導師ミィズ・キョシア,Monk Maz Koshia
+114,Priest_Boss_Normal_PictureBook,"女神ハイリアの啓示に従い
+神獣の繰り手として ふさわしい者を
+見定めるための試練を担う導師
+
+その最後の試練として自らが立ちはだかり
+古の技術を駆使した様々な術を用いて
+戦いを挑んでくる","The arbiter of worthiness for the hero who
+wishes to control a Divine Beast, following
+a revelation from the Goddess Hylia.
+
+As the last part of the final trial, the monk
+offers a challenge of ancient techniques."
+115,RemainsFire_Drone_A_01_Name,プルペラ,Sentry
+116,RemainsFire_Drone_A_01_PictureBook,"神獣 ヴァ・ルーダニアから打ち出された偵察機
+上空からライトで地上を照らして
+侵入者を探し出す","These sentries dispatched from Divine Beast
+Vah Rudania are equipped with searchlights
+that can spot intruders."

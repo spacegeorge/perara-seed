@@ -1,0 +1,115 @@
+#,Title,JPja,USen
+1,"""0000""",いいよ,Sure.
+2,"""0001""",忙しいんだ,I'm busy.
+3,"""0002""",あげない,You can't have them.
+4,talk00,今日の晩御飯は なににしようかねえ？,What should I cook for tonight's dinner?
+5,talk01,"じゃあ いただくよ
+美味しいの作ろうかね","All right, I'll take those, then.
+Now to start cooking."
+6,talk02,"せっかくだ
+アンタも一緒に食べてったら どうさね？
+すぐに できるから","Since you found the missing ingredients, 
+why don't you eat with us?
+It'll be done soon."
+7,talk03,"アンタ旅の人かいさ？
+
+ここは ウオトリー村漁師の村さ
+あたしの旦那も漁師なのさ～
+あたしには息子が2人いてね
+育ちざかりで家事に育児に毎日大変さ～","Are you a traveler?
+
+
+This is Lurelin Village. We're a small
+fishing town and proud of it!
+
+My husband is a fisherman, and I have
+two sons who will probably grow up to
+be fishermen too."
+8,talk04,"これは お代だよ
+受け取るよし",Here's a little something...
+9,talk05,ぐーぐー,Zzz...
+10,talk06,"あら アンタ
+こんな遅くに どうしたのさぁ？
+あたしらは もう寝るから また明日ね","Hey, don't you think it's a little late to be
+making small talk? We're going to bed.
+Come back tomorrow."
+11,talk07,"あら アンタも晩御飯食べていくよし！
+今日は塩焼き魚さ～！","Oh, join us for dinner!
+We're having salt-grilled fish!"
+12,talk08,"でも材料が足りないねえ…
+ヤギのバターとマックスサザエが必要さぁ
+","We seem to be a bit short on ingredients
+though. We'll need goat butter and a
+hearty blueshell snail."
+13,talk09,"そうかい うれしいねぇ
+待ってるよ！","Really? I'm happy to hear that.
+I'll be waiting!"
+14,talk10,"そうかい残念だねぇ
+仕方ないさ",I see... That's a shame.
+15,talk11,"おや材料持ってきてくれたのかい
+じゃあ その材料もらえるかいさ？","Oh! You have the ingredients!
+Can I have them?"
+16,talk12,なんだい つれないねえ,"My, aren't we feeling grumpy..."
+17,talk13,"足りない材料は
+ヤギのバターとマックスサザエさぁ
+たのんだよ アンタ","Now, I'm going to need some
+goat butter and a hearty blueshell snail.
+Think you can help me out?"
+18,talk15,"あら アンタ
+材料持ってきてくれたのかいさ
+今日は もう来ないかと思って
+晩御飯作っちゃったよ","Oh, it's you.
+You brought the ingredients?
+
+Well, I thought you forgot about us, so
+I went ahead and made dinner already."
+19,talk16,"アンタ今日は もう来ないかと思って
+晩御飯作っちゃったよ
+でも明日は海鮮パエリアにしたいねえ","I thought you forgot about us, so I went
+ahead and made dinner already.
+
+But I'd still like to make seafood paella
+for tomorrow night!"
+20,talk17,"あら アンタ
+ポーチが いっぱいのようさね
+残念だけど あたしの料理を食べるのは
+また今度にするよし","Aw... Your pouch is full. I can't give you
+food until you make space for it."
+21,talk18,"アンタ旅の人かいさ？
+ちょうどいい晩御飯いっしょに どうさね？
+今日は塩焼き魚さ～！
+この村の魚はうまいよ！","Are you a traveler?
+Good timing. Why don't you join us for
+dinner?
+We're having salt-grilled fish!
+The fish here are deeeee-lish!"
+22,talk19,"ほら食べるよし！
+旨いよ！","Go on, dig in!
+It's deeeee-lish!"
+23,talk20,海鮮パエリアがいいー！,"Make your seafood paella! It's so good
+and yummy and great!"
+24,talk21,"よし！
+海鮮パエリアにしようかいさ","That settles it!
+I'll make some seafood paella."
+25,talk22,やったー！,Yaaaaay!
+26,talk23,"買いに行こうにも
+今は家事で手が離せないしねえ…","I'm so busy with housework that I don't
+have time to go shopping for ingredients."
+27,talk24,"買いに行こうにも
+この雨じゃねえ…","I can't go shopping for ingredients in
+this rain."
+28,talk25,"ちょうどいい アンタ足りない材料
+持ってきてくれないかいさ？","Oh, I know! Could you go and get me
+the ingredients we're missing?"
+29,talk26,"あら アンタ
+こんな遅くに どうしたのさぁ？
+これから子供たちを寝かしつけるのさぁ
+用があったら また明日にしておくれ","Can't talk now. It's past the kids'
+bedtime.
+
+Whatever you need will have
+to wait until tomorrow."
+30,talk27,子供たちが起きちゃうから静かにしてね,Shhhh! You'll wake the kids.
+31,talk28,"ポーチを空けてきてくれたんだね
+じゃあ あたしの自慢の料理食べていくよし！","You made room in your inventory for my
+signature dish!"

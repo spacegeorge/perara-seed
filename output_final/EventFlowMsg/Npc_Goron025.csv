@@ -1,0 +1,174 @@
+#,Title,JPja,USen
+1,"""0000""",どうした？,What's up?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",知らない,I don't know.
+4,"""0005""",キミは？,And you are?
+5,"""0006""",名前の最後が「ダ」だね,"Name ends in \""son.\"""
+6,"""0007""",腕っぷし強い？,Are you strong?
+7,"""0009""",お話ししよう,Let's talk!
+8,"""0010""",ここって？,This place?
+9,"""0011""",イチカラ村はどう？,Tarrey Town?
+10,"""0012""",売りに来た,I came to sell.
+11,"""0013""",グレーダは？,Where's Greyson?
+12,"""5500""",はい,OK.
+13,"""5501""",いいえ,Never mind.
+14,"""5502""",買う,Buy!
+15,"""5503""",やっぱりやめる,Never mind.
+16,"""5507""",ぜんぶ買う,I'll take 'em all!
+17,"""5508""",ぜんぶ売る,All of them.
+18,Com_Talk_00,"ハイ コロ～！
+どれを売ってくれるコロ？",Sure thing! What do you wanna sell?
+19,Com_Talk_01,"を売るコロ？
+ルピーでいいコロ？","You wanna sell that? I could give ya...
+ rupees. Sound OK?"
+20,Com_Talk_02,"ありがとコロ！""他にも売るコロ？","Thanks, brother! Anything else ya
+wanna sell?"
+21,Com_Talk_02b,ありがとコロ～！もっと売るコロ？,"Thanks, brother! Wanna sell more?"
+22,Com_Talk_02c,まいど～！他のも売っちゃうコロ？,"Thanks a bunch, brother! 
+Got more to sell?"
+23,Com_Talk_02d,はいはい まいど～他にはどうコロ？,"Great! Thanks, brother! Anything else?"
+24,Com_Talk_04,了解コロ～！,Got it!
+25,Com_Talk_05,何でも買い取るコロ～！,I'll buy anything!
+26,Com_Talk_05b,ゆっくり選ぶコロ！,Take your time!
+27,Com_Talk_05c,買い取りなら任せるコロ！,I'll buy whatever!
+28,Com_Talk_05d,売りたい物を選ぶコロ～,Go ahead and pick somethin' to sell.
+29,Com_Talk_11,まいどコロ～！,Come back soon!
+30,Com_Talk_11b,まいど ありがとコロ！,"Thanks for your business, brother!"
+31,Com_Talk_11c,はいはい～ まいど！,"Great! Thanks, brother!"
+32,Com_Talk_11d,ありがとコロ～！,"Thanks, brother!"
+33,Com_Talk_13,"を売るコロ？
+いくつコロ？","You wanna sell me that?
+How many?"
+34,Com_Talk_14,"を個だと
+全部でルピーになるけどいいコロ？","I can do  rupees.
+Is that OK?"
+35,Com_Talk_15,それはあつかってないコロ…ごめんコロ,I can't buy that... Sorry!
+36,Com_Talk_16,着てる服は脱いでから売って欲しいコロ！,"If ya wanna sell me the clothes off your
+back, change into somethin' else first!
+It's called common decency."
+37,Com_Talk_31,"を買うコロ？
+いくつコロ？",Great! How many?
+38,Com_Talk_33,"を 1つだけコロ？
+それならルピーコロ！","Just one? Let's do  rupees!
+That OK?"
+39,Com_Talk_34," ぜんぶ買うコロ？！
+じゃ個でルピーコロ",All of 'em?! That'll be  rupees.
+40,Com_Talk_35,"を個全部コロ？
+だったら合計ルピーで買うコロ！","All of 'em? I can offer you
+ rupees!"
+41,Com_Talk_50,"を買うコロ？
+ルピーになるけどいいコロ？","You wanna buy that? That'll be
+ rupees. That OK?"
+42,Com_Talk_51,"コロ？
+いくつコロ？",You want that? How many?
+43,Com_Talk_52,"が個だと
+全部でルピーになるけどいいコロ？","That'll be a total of  rupees.
+That OK?"
+44,Com_Talk_53,了解コロ～！,No problem!
+45,Com_Talk_54,あれ？ルピーが足りないコロよ？,Hm? You don't have enough rupees...
+46,Com_Talk_55,"あれ？ポーチがいっぱいコロ？
+荷物を整理して また来て欲しいコロ！","Hm? Your pouch is full...
+Come back after you've sorted
+that all out."
+47,Com_Talk_56,"を 1つだけコロ？
+それならルピーコロ！",Just one? That'll be  rupees!
+48,near00,わーい！,Woo!
+49,near01,……,...
+50,near03,いらっしゃいコロ～,Welcome!
+51,near06,あっ！,Ah!
+52,talk00,ねぇねぇ！,Hey there!
+53,talk01,"なんでグレーダ兄ちゃんは
+いっつも文句言ってんのかな？","Why is my older brother, Greyson,
+always complaining about stuff?"
+54,talk02,"なんで？
+なんで大人の人は すぐ誤魔化すコロ！","Have you ever wondered why grown-ups
+are always so secretive...?"
+55,talk03,"なんで？なんで知らないコロ？
+
+大人の男の人なら
+腹を割って話し合って欲しいコロ！","But why? Why don't you know?
+
+
+If you're a grown-up, you should always
+say the truth!"
+56,talk04,バイバイコロ～,Bye-bye!
+57,talk05,うん？,Hm?
+58,talk06,"うん いいコロ！
+何の話するコロ？","Sure! That sounds fun!
+What do you wanna talk about?"
+59,talk10,"…？
+ボクの顔に何か付いてるコロ？",Hm? Is there somethin' on my face?
+60,talk11,ボク？ププンダ！,Me? I'm Pelison!
+61,talk12,うん！,Yep!
+62,talk13,"強いコロ！
+
+でも グレーダ兄ちゃんはもっと強いコロよ～！","You bet I'm strong!
+
+
+But my big bro, Greyson,
+is even stronger!"
+63,talk14,"兄ちゃんなら その辺に居ると思うコロ
+
+あ でも兄ちゃん
+南採掘場に居た時より楽しそうコロ！
+岩をどかすのが早いって
+褒められてたからきっと嬉しいコロ","My brother should be somewhere
+around here.
+
+He's so much happier than he was
+at the Southern Mine!
+
+He gets praised a ton for how fast
+he can move rocks. I'm sure that
+makes him extra happy!"
+64,talk15,"兄ちゃんならその辺で
+岩壊してるか ぼんやりしてると思うコロ
+南採掘場に居た時より
+嬉しいみたいで よかったコロ！","My brother should be breakin' rocks
+around there. Either that or he's
+zonin' out, heh.
+He's so much happier than when he
+was workin' at the Southern Mine.
+When he's happy, I'm happy!"
+65,talk16,他の話するコロ？,Wanna talk about somethin' else?
+66,talk20,グレーダ兄ちゃんの お友達の人コロ！,Hey! Big Bro Greyson's friend!
+67,talk21,"この村の岩を壊すと
+鉱石が出てきたからここで売る事にしたコロ！
+よく分かんないけど
+デスマウンテンに近いからかな？
+とにかく採れたてホヤホヤコロ！
+たくさん買ってってコロ～！","Once we started breakin' up the rock
+here, we found that it's rich in ore.
+So I've decided to open up shop!
+I'm not sure why we have so much
+ore here, but maybe it's because
+we're close to Death Mountain.
+Anyway, these here are freshly mined.
+Be sure to buy a whole bunch!"
+68,talk22,何の用コロ？,Need somethin'?
+69,talk23,ハイ コロ～！,Good day!
+70,talk25,"寒いコロ
+
+ゴロンシティが熱過ぎた ってのもあるけどね","It's so cold here.
+
+
+Or maybe it's just that Goron City
+is too hot!"
+71,talk26,またよろしくコロ～！,See ya next time!
+72,talk28,"兄ちゃんが壊した岩から
+宝石が出てきたから売る事にしたコロ！
+たくさん買ってってコロ～！","We started findin' ore in the rocks my
+brother was breakin', so I decided to
+open up shop and sell 'em!
+Be sure to buy a whole bunch!"
+73,talk29,まいどコロ！また仕入れとくコロね！,"Thanks, brother! I'll be sure to restock!"
+74,talk30,売れた売れた！無くなったコロ！,A sale! Wahoo! Now I'm all sold out!
+75,talk31,"売り切れコロ！
+また兄ちゃんに言って掘ってもらうコロ！","I'm all sold out! I'll have to ask my big
+bro to go and dig up some more!"
+76,talk32,ありがとコロ！でも在庫が もう無いコロ…,"Thanks, brother! I'm all out now...
+I'll have to stock up again."
+77,talk33,"乗るなコロ！""降りるコロ！","Hey, don't do that! Get down from there!"
+78,talk34,早く降りるコロ！,Hurry up and get down!
+79,talk35,上るの止めて欲しいコロ！,Please stop climbin' on things!
+80,talk36,上るなんて…いけない事コロ！,Get DOWN! That's so rude!

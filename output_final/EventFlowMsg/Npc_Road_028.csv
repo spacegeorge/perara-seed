@@ -1,0 +1,198 @@
+#,Title,JPja,USen
+1,Atacked00,フゥ…フゥ…ゴーロ…,"*huff...*
+*huff...*
+Ugh..."
+2,Atacked01,来るなら来い… ゴーロ…,Come 'n' get me...
+3,Failed00,"魔物に言ってやりたい…
+ワシなんか食べても歯が折れるだけゴーロよ","But I would have had the last laugh after
+all. If these monsters tried eating me, I
+would just break their teeth!"
+4,Failed01,"魔物に言ってやりたい…
+一緒に温泉でも入って話し合おうゴーロと…","If only I could say to these monsters...
+\""Hey, let's just soak in a nice hot spring
+and talk things out.\"""
+5,Guardian00,"逃げるゴーロ！ 
+ガーディアンには かなわないゴーロ！",Run! We're no match for a Guardian!
+6,MSG_Orud_00,"ワシはボルドン！ゴロンシティの観光大使！
+
+ゴロンシティよいとこ一度はおいでゴーロ！
+もちろん誇れない点もあるゴーロけど…","Hi there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+Goron City's great—everyone should visit
+it at least once in their lives! But even
+the greatest cities have their problems..."
+7,MSG_Orud_00_1,"ゴロンシティよいとこ一度はおいでゴーロ！
+もちろん誇れない点もあるゴーロけど…","Goron City's great—everyone should visit
+it at least once in their lives! That's not
+to say it doesn't have problems..."
+8,MSG_Orud_01,"ワシはボルドン！ゴロンシティの観光大使！
+我がゴロンシティは暑さが魅力ゴーロ！
+夏の暑さというより燃える熱さなので
+ヒケシトカゲは旅の必需品ゴーロ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+Goron City is hot, but that's just the way
+we like it! It's not a dry heat, though.
+It's more a burn-you-to-a-crisp heat!
+Be sure to pack some fireproof lizards
+if you're planning a trip."
+9,MSG_Orud_01_1,"燃える熱さのゴロンシティを旅するなら
+ヒケシトカゲは必需品ゴーロよ","The air in Goron City can burn you to
+a crisp, so make sure you bring some
+fireproof lizards with you."
+10,MSG_Orud_02,"ワシはボルドン！ゴロンシティの観光大使！
+熱さに強いゴロン族だゴーロ！
+デスマウンテンの登山口は北にあるけど
+ゴロン族以外は燃えちゃうほど熱いゴーロよ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism! I'm a Goron,
+so the heat doesn't bother me.
+The climbing trail for Death Mountain is
+to the north, but it's so hot up there
+anyone who's not a Goron will burn up."
+11,MSG_Orud_02_1,"デスマウンテンの登山口は北にあるけど
+ゴロン族以外は燃えちゃうほど熱いゴーロよ","The climbing trail for Death Mountain is
+to the north, but it's so hot up there
+anyone who's not a Goron will burn up!"
+12,MSG_Orud_03,"ワシはボルドン！ゴロンシティの観光大使！
+
+今のハイラル城は不気味な廃墟…
+お宝集めに忍び込む奴は無謀すぎるゴーロね","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+These days, Hyrule Castle is just a
+creepy old ruin. The treasure hunters
+who sneak in there must be crazy!"
+13,MSG_Orud_03_1,"今のハイラル城は不気味な廃墟…
+お宝集めに忍び込む奴は無謀過ぎるゴーロね","These days, Hyrule Castle is just a
+creepy old ruin. The treasure hunters
+who sneak in there must be crazy!"
+14,MSG_Orud_04,"ワシはボルドン！ゴロンシティの観光大使！
+
+ワシらゴロン族には何てことないこの熱さも
+ハイリア人には厳しいみたいゴーロねぇ","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+This heat is nothing to us Gorons, but I
+guess it's pretty bad for a Hylian, huh?"
+15,MSG_Orud_04_1,"ワシらゴロン族には何てことないこの熱さも
+ハイリア人には厳しいみたいゴーロねぇ","This heat is nothing to us Gorons, but I
+guess it's pretty bad for a Hylian, huh?"
+16,Near00,ゴロゴーロ…,"Ah, what a day..."
+17,Near01,こんちはゴーロ！,How's it going?
+18,Near02,ゴロゴーロ！,I love this time of day.
+19,Near03,こんばんはゴーロ…,Good evening.
+20,Near04,濡れるゴーロ！,I'm soaked through!
+21,Rest_00,"熱い地方に行くなら燃えず薬があるといい
+ヒケシトカゲと何かで作れるゴーロよ","If you're going somewhere hot, it's a
+good idea to bring some fireproof elixirs.
+
+You can make them by cooking a
+fireproof lizard with a, um...with a...
+Oh, um...with something else."
+22,Rest_01,"ワシら ゴロン族が苦手なものは
+大雨と小雨…それと普通の雨ゴーロよ","If there's one thing we Gorons just can't
+deal with, it's heavy rain and snow. Or
+regular rain! Just any rain, really."
+23,Rest_02,"語尾のゴーロは ゴロン族の方言ゴーロよ
+いろいろバリエーションがあるゴロゴーロね","We may look intimidating, but us Gorons
+are a friendly bunch once you get to
+know us!"
+24,RetMSG_Orud_00,"ワシはボルドン！ゴロンシティの観光大使！
+
+耐火服が無いのなら燃えず薬は必需品！
+燃えず薬はヒケシトカゲと何かで作れるゴーロ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+If you can't wrangle any fire-resistant
+clothes, you can get by with some
+fireproof elixirs.
+You can make one by cooking a
+fireproof lizard with a... With a, um...
+Oh, boy...with something else."
+25,RetMSG_Orud_00_1,"耐火服が無いのなら燃えず薬は必需品！
+燃えず薬はヒケシトカゲと何かで作れるゴーロよ","If you can't wrangle any fire-resistant
+clothes, you can get by with some
+fireproof elixirs.
+You can make one by cooking a
+fireproof lizard with a...with a, um...
+Oh, boy...with something else."
+26,RetMSG_Orud_01,"ワシはボルドン！ゴロンシティの観光大使！
+
+ハイラル城やデスマウンテン…
+この辺りの街道には危険がいっぱいゴーロ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+Hyrule Castle and Death Mountain...
+The roads around here can get pretty
+dangerous for travelers."
+27,RetMSG_Orud_01_1,"ハイラル城やデスマウンテン…
+この辺りの街道には危険がいっぱいゴーロ！","Hyrule Castle and Death Mountain...
+The roads around here can get pretty
+dangerous for travelers!"
+28,RetMSG_Orud_02,"ワシはボルドン！ゴロンシティの観光大使！
+
+この辺りを境に東と西じゃ熱さが違う
+森の馬宿までなら ゴロン族には涼しいゴーロ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+There's a noticeable difference in the
+heat to the east and west of this
+dividing line.
+If you go as far as the Woodland Stable,
+it's just too chilly for us Gorons!"
+29,RetMSG_Orud_02_1,"この辺りを境に東と西じゃ熱さが違う
+森の馬宿までなら ゴロン族には涼しいゴーロ！","There's a noticeable difference in the
+heat to the east and west of this dividing
+line.
+If you go as far as the Woodland Stable,
+it's just too chilly for us Gorons!"
+30,RetMSG_Orud_03,"ワシはボルドン！ゴロンシティの観光大使！
+じつはちょっと困ってるゴーロ…
+我がゴロン温泉をめざす旅人が減ったのは
+憎っくき熱っつき あいつのせいゴーロよ！","Hey there! I'm Boldon, Goron City's
+ambassador of tourism! And I actually
+have a bit of a problem...
+We've had fewer visitors to the
+Goron Hot Springs recently, and it's all
+thanks to that sweltering, ugly thing!"
+31,RetMSG_Orud_03_1,"我がゴロン温泉を目指す旅人が減ったのは
+憎っくき熱っつき あいつのせいゴーロよ！","We've had fewer visitors to the
+Goron Hot Springs recently, and it's all
+thanks to that sweltering, ugly thing!"
+32,RetMSG_Orud_04,"ワシはボルドン！ゴロンシティの観光大使！
+
+♪ハァ～ゴロン温泉心も癒す～
+ゴロンシティめざし北へゆくのゴーロよ～","Hey there! I'm Boldon, Goron City's
+ambassador of tourism!
+
+Hah... Goron Hot Springs just soothe
+the soul. Try them out for yourself.
+Turn south when you hit Goron City."
+33,RetMSG_Orud_04_1,"♪ハァ～ゴロン温泉""心も癒す～
+ゴロンシティ目指し北へゆくのゴーロよ～","♪Aaah...♪ Goron Hot Springs soothe
+the soul. Try them out for yourself.
+Turn south when you hit Goron City."
+34,SavedLv1_00,"旅先で魔物にでくわすのは
+火が熱いのと同じくらい当然のことゴーロよ","Travelers can count on running into
+monsters as reliably as they can count
+on fire burning them up."
+35,SavedLv1_01,"魔物なんてのは
+怖いと思うから怖いだけゴーロよ！","But here's the thing about monsters:
+they're only as scary as you think
+they are."
+36,SavedLv2_00,"魔物なんてのは
+まあ怖いのは顔くらいのものゴーロで…","Being afraid of monsters is all in your
+head. Mind over matter and all that!"
+37,SavedLv2_01,"力を合わせれば
+大抵のことは何とかなるゴーロ…","If we put our heads together as well as
+our muscles, we can stomp 'em flat!"
+38,SavedLv3_00,"魔物って本気になると怖いゴーロね
+あんたのおかげで助かったゴーロ！","OK, I'll admit...some monsters can be
+pretty scary when they get serious. You
+really helped me out of a jam!"
+39,SavedLv3_01,"魔物を甘く見ちゃ いけないゴーロね
+あんたのおかげで助かったゴーロ！","Guess I should take monsters a bit more
+seriously, huh? I would have been a
+goner had it not been for you!"
+40,Thanks00,これはお礼ゴーロ受け取るゴーロ,This is for you. Take it—it's yours now.

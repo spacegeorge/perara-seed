@@ -1,0 +1,54 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,I am.
+2,"""0001""",砂漠？,Desert?
+3,"""0002""",雨好きだよ,I like rain!
+4,"""0003""",故郷？,Where's home?
+5,Near00,遠いな…,So far...
+6,Near01,降ってきたね,It's starting to rain...
+7,Near02,うとうと,Urmm...
+8,talk_00,"うーん ここの暑さはほどよくて気持ちいいねぇ
+砂漠の暑さとは大違いだよ
+アンタは観光かい？","Mmm, the weather here is nice and
+warm. It's not at all like that blazing
+heat in the desert!
+Are you here on vacation?"
+9,talk_01,ZZzz…,Zzz...
+10,talk_02,"あそこに見える島サイハテノ島っていうんだ
+ワタシは あそこに行きたくて ここまで来たんだ","You see that island over there? That's
+Eventide Island. I came all the way here
+so that I could go there."
+11,talk_03,ワタシにも翼が生えてればねえ…,If only I had some wings...
+12,talk_04,"ただ船でも たどり着くのは難しくてね
+翼でも生えてないと行けそうにないね…","However, it's actually hard to get there
+by sea. It feels like you'd need to grow
+wings to go there..."
+13,talk_05,"ふう雨ってのは嫌なもんだね
+故郷が懐かしいよ","Oof... Rain is the worst.
+It really makes me miss home."
+14,talk_06,そうかい ワタシはね…,I see. As for me...
+15,talk_07,"ああ ワタシの故郷は ゲルドの街
+砂漠に囲まれた街なのさ","I came here from Gerudo Town.
+It's a place surrounded by an expansive
+desert."
+16,talk_08,"ああ ワタシの故郷は ゲルドの街
+砂漠に囲まれた街なのさ
+砂漠には雨は降らないからね
+
+最初は新鮮で良かったけど
+こう頻繁に降られちゃね…","I grew up in Gerudo Town.
+It's completely surrounded by a desert.
+It never rains in the desert.
+I thought it was neat at first, but now I'm
+pretty sick of the frequent rain."
+17,talk_09,モノ好きだね…,What a weirdo.
+18,talk_10,サヴォッタ,Sav'otta.
+19,talk_11,サヴァーク,Sav'aaq.
+20,talk_12,サヴァサーバ,Sav'saaba.
+21,talk_13,"ここから東の沖にある大きな島
+サイハテノ島っていうんだけどね
+ワタシは そこに行きたくて
+ここまで来たんだ","The isle far off the shore to the east is
+called Eventide Island.
+
+It was tales of that island that brought
+me all the way out here."

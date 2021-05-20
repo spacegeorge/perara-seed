@@ -1,0 +1,98 @@
+#,Title,JPja,USen
+1,"""0000""",受けてみる！,I'll do it!
+2,"""0001""",今はちょっと…,Maybe later...
+3,Npc_kokiri012_F_Talk000,"ワタシが見たいのは
+こおりの杖を手にした ゆうしゃサマ！
+こおりの杖はアイスウィズローブが
+持っているって森のウワサで聞いたワ！","Show me a rod with the power of ice!
+Word in the wood is it's the
+Ice Wizzrobe's weapon of choice."
+4,Npc_kokiri012_F_Talk010,"アイスウィズローブは きっと…
+寒い所に いるんじゃないかしラ？","Now where might one find an
+Ice Wizzrobe? I wonder what kind of
+climate they prefer."
+5,Npc_kokiri012_F_Talk020,"アララ？！
+こおりの杖""持ってるのネ！
+でも…持ってるだけじゃ…
+装備して見せて見せテ！","Whoa! Looks like you've located an
+ice rod!
+
+But...you're going to have to equip it to
+impress me!"
+6,Npc_kokiri012_F_Talk030,"しゅるりーん！きらきら！
+思ったとおり ステキだワ！！","Shimmering! Sparkling!
+What a sight to behold!"
+7,Npc_kokiri012_F_Talk031,"背中にあるのは…アイスロッド！
+見せて見せテ！ ゆうしゃサマ！","That thing you're carrying on your
+back... There's no doubt about it—it's an
+ice rod! Show it to me, Mr. Hero!"
+8,Npc_kokiri012_F_Talk040,"それは もしやフリーズロッド？！
+それって ものスゴクしゅるるん！きららん！！","Is that a blizzard rod?!
+Incredible shimmer!
+Unbelievable sparkle!"
+9,Npc_kokiri012_F_Talk041,"背中にあるのはこおりの杖
+……アラアラアラ？！","Whoa whoa whoa! Is that an ice rod
+strapped to your back?"
+10,Npc_kokiri012_F_Talk050,"ありがとう ゆうしゃサマ
+とっても きらきら かっこよかったワ！
+見せてくれたお礼 ふんぱつしちゃウ！","Thank you, Mr. Hero. Your weapon
+is so amazingly, wonderfully sparkly!
+I must give you something as thanks!"
+11,Npc_kokiri012_F_Talk060,しゅるりーん！きらきら…,Clink! Sparkle...
+12,Npc_kokiri012_F_Talk061,"背中にあるのは…アイスロッド！アララ？もっと強そうなの持ってるじゃなイ！
+そっちを装備して見せて見せテ！","That thing on your back...
+That's an ice rod!Hold up. I was sure you had something
+stronger! Equip it and show me.
+SHOW ME!"
+13,Npc_kokiri012_R_Near000,ゆうしゃサマ…,Mr. Hero...
+14,Npc_kokiri012_R_Talk000,"ねえねえ ゆうしゃサマ！ ワタシ
+ゆうしゃサマのためにしれん用意したの！
+ゆうしゃサマに もっと強くなってほしいかラ…
+ワタシからのしれん""受けてみる？","Hey, Mr. Hero, sir! We need to make sure
+you're resourceful enough to shoulder
+Hyrule's burden.
+That's why I've prepared a trial just for
+you! Are you ready?"
+15,Npc_kokiri012_R_Talk001,"わぁ！ アナタひょっとして ゆうしゃサマ？
+ようこそコログの森へ！！
+ワタシが思ってたより ずっとずっと…
+ゆうしゃサマって かっこいい！
+そんな ゆうしゃサマに もっともっと
+強くなってほしいから…
+ワタシからしれんを出しちゃいます！
+どうどう？ ワタシからのしれん""受けてみる？！","Hey! Are you the hero? Could it be?
+Welcome to Korok Forest!
+
+You're...much, much cooler looking than
+I thought you'd be!
+
+But to be sure you're up to the task at
+hand...I prepared a trial for you!
+
+What do you think?!
+Will you accept my trial?"
+16,Npc_kokiri012_R_Talk010,"ゆうしゃサマに もっと強くなってほしいかラ…
+ワタシからのしれん""受けてみる？","We need to be sure you're resourceful
+enough to shoulder Hyrule's burden.
+Will you undergo my trial?"
+17,Npc_kokiri012_R_Talk020,"ヤッた ヤッた！嬉しいワ！
+それじゃワタシにこおりの杖を見せテ！
+その杖をふったら こおりの ちカラで
+マモノも かちこち！ ってなるノ！！
+アイスウィズローブっていう マモノが
+よく その杖で悪さをしてるらしいけド…
+ゆうしゃサマがこおりの杖を手にしたら
+とっても つよくて かっこいいに違いないワ！","Hooray! Show me a rod with the power
+of ice, please!
+
+You can wave this rod to freeze monsters
+in their tracks! Ice Wizzrobes love to
+wreak havoc with them.
+If Mr. Hero were to wield a rod with the
+power of ice, he would be even
+stronger...and cooler!"
+18,Npc_kokiri012_R_Talk030,"そう…ざんねんだワ…
+でも気がかわったラ またきてね！","I see... That's too bad.
+Come back if you change your mind!"
+19,Npc_kokiri012_R_Talk040,"アラ…？
+ゆうしゃサマが持ってる それ…？！",Huh?! What's that thing you're carrying?

@@ -1,0 +1,188 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",はい,Sure.
+4,"""0003""",やめておきます,I'll pass.
+5,"""0004""",知らないです,"No, tell me."
+6,"""0005""",知っています,You could say that.
+7,Talk01,"見れば見るほど
+大厄災の凄まじさが伝わってくるよな
+それにしても
+このガーディアンの数 すごくないか？
+それだけその剣士様が
+大厄災にとって脅威だったって事なんだろうな","The more I see of this place, the more
+it hits me just how hard the old tragedy
+struck here.But even knowing that, seeing so many
+Guardians... It boggles the mind.That warrior must have been some threat
+to the forces of darkness, huh?"
+8,Talk04,"こんなガーディアンの大群を
+よくここで せき止められたよな
+このハテノ砦と剣士様がいなかったら
+少なくともハテノ村は壊滅してたって話だぜ","Almost hard to believe they managed to
+hold back a whole horde of Guardians
+here.
+If not for Fort Hateno and the warrior,
+there'd be no such place as
+Hateno Village anymore."
+9,Talk06,"……
+
+ハテノ砦や剣士様について
+もっと語り合いたいところだが…
+俺はガーディアンとの戦いで命を落とした
+剣士様や兵士達のための黙とうに集中したいんだ
+夜が明けたら語り合おうぜ","I'd love to keep jawing with you about
+Fort Hateno and the warrior—don't get
+me wrong.But I'm observing a moment of silence
+for the warrior and his troops who fought
+to the last against the Guardians.
+We can pick it up again in the morning."
+10,Talk08,"大厄災ってさ…自分には
+関係ないことだって思ってたけどさ
+命を懸けて戦ってくれた人達がいるから
+自分たちは平和に過ごせてるんだよな…
+って…雨のせいかな
+ちょっと しんみりしちゃったぜ","I used to think the old tragedy was
+ancient history. Nothing to do with
+my life.But when I stop to consider that my
+life is only possible because of those
+who fought tooth and nail for us...
+Well, I start to feel a tear in my eye.
+Although that could also just be the rain."
+11,Talk12,"おっ チィッス！
+
+俺の名はプリトスってんだ
+アンタもハテノ砦を見に来たくち？","Hiya! My name's Garill. Come to see
+Fort Hateno, I take it?"
+12,Talk13,"寝てない…
+
+寝てないぜ！
+
+俺はこのハテノ砦で亡くなった
+剣士様や兵士達の魂に祈りを捧げてんだ…
+絶対寝てないぜ！
+
+なんならアンタも一緒にどうだい？","I wasn't sleeping... I wasn't!I was praying for the souls of the warrior
+and all who died here at Fort Hateno.
+That's a totally different thing!
+You're welcome to join me if you want.
+"
+13,Talk14,"そうだよな！
+だと思ったぜ！
+このハテノ砦は大厄災から
+ハテノ村を守った最後の砦！
+男なら一度は見ておかないと！だよな！","Figured as much. It's well worth seeing!Fort Hateno here was the last line of
+defense between Hateno Village and the
+awful tragedy all those years ago.
+Everyone's got to come and pay their
+respects at least once in life, right?"
+14,Talk15,"えっ？
+話しかけといてスルーとか あり得ないだろ？
+このハテノ砦は大厄災から
+ハテノ村を守った最後の砦なんだ
+アンタもハイリア人なら
+しっかり勉強しないと！ だぜ！","You come up to talk to me and then
+give me the brush-off? What gives?Listen, Fort Hateno here was the last line
+of defense between Hateno Village and
+the tragedy all those years ago.
+You're a Hylian—you ought to know 
+these things! Have some respect!
+Learn some history!"
+15,Talk16,"まぁ無理強いはしないけどさ
+
+このハテノ砦は大厄災から
+ハテノ村を守った最後の砦
+ここがなかったら
+今のハテノ村は ないかもしれないんだぜ？
+亡くなった人達の冥福を祈り
+その勇姿を語り継いでいくのが
+今を生きる俺達のなすべきこと！だと思うぜ！","I don't mean to pressure you. But
+Fort Hateno here was the last line of
+defense for Hateno all those years ago.
+If not for this fort and the soldiers who
+held the line here, Hateno Village as we
+know it might be gone entirely.
+I hang around to pray that those who
+gave their lives find peace and to pass
+on the story of the hero.
+I owe that much to the soldiers who
+fought so that we might live today!
+I think everyone does."
+16,Talk17,"へぇ まだ若いってのに
+殊勝な事を言うじゃないか！
+このハテノ砦は大厄災から
+ハテノ村を守った最後の砦
+ここがなかったら
+今のハテノ村はないかもしれないからな
+俺達は亡くなった人達の冥福を祈り
+その勇姿を語り継いでいかないとな","That's a pretty enlightened thing to say
+for such a young kid!Fort Hateno here was the last line of
+defense between Hateno Village and the
+terrible tragedy all those years ago.
+If not for this fort and the soldiers who
+held the line here, Hyrule as we know it
+might be gone entirely.
+It's our duty as the survivors to pray that
+those who gave their lives find peace
+and to pass on the story of the warrior."
+17,Talk18,"知ってる？
+このハテノ砦で戦った剣士様の話？","Do you know the story of the warrior
+who fought here at Fort Hateno?"
+18,Talk19,"100年前は英傑って呼ばれる
+特別な人達がいたらしくてさ
+ここで戦った剣士様も
+その英傑の一人だったそうだぜ
+他の英傑達はみんな大厄災で
+命を落としたって聞いてるけどさ
+剣士様だけは
+ここで命を落としたって説もあれば
+来たるべき時に備え
+眠りについたって説もあるんだってよ
+もし眠りについたってなら
+まだ生きてるってことだよな？
+この時代に目が覚めてくんね～かなぁ
+そしたら絶対会いに行くんだけどな","So 100 years ago, we had these
+special warriors called Champions.The warrior who fought here was
+supposedly one of them. I heard the
+others all died in the big fight.
+The warrior, though... Some say he gave
+his life here too.But others think he went into a deep
+sleep to prepare to fight another day.
+Which would mean he's still alive, right?
+I wonder if I'll still be around when he
+wakes up. I'd love to meet the guy."
+19,Talk20,"おっ やるじゃん！
+
+じゃあさ剣士様は
+ここで命を落としたって説もあれば
+来たるべき時に備え
+眠りについたって説があるのも知ってる？
+もし眠りについたってなら
+まだ生きてるってことだよな？
+この時代に目が覚めてくんね～かなぁ
+そしたら絶対会いに行くんだけどな","Oh, that's excellent! Saves me the
+trouble of having to tell you.You know, most people think the warrior
+gave his life here in battle with the
+forces of darkness.
+But some believe he actually went into a
+deep sleep, so he could live again to
+fight another day!
+If that's true, he must still be alive.
+I wonder if I'll still be around when he
+wakes up... I'd love to meet the guy."
+20,Talk21,"剣士様やハテノ砦の兵士達が
+命を懸けて この世界を守ってくれたって事
+今を生きている俺らが
+後世の人達に伝えていかないと！ だぜ！","The warrior and his soldiers at
+Fort Hateno risked their lives to
+protect the world.I wasn't there at the time, but I'm alive
+now because of them, and I've got to
+make sure future generations know it!"
+21,Talk22,"俺も 100年前に生まれてたら
+
+ここで剣士様と一緒に 
+ガーディアンと戦ったのになぁ","If I'd been alive 100 years ago...I like
+to think I'd have fought these Guardians
+here, right at the warrior's side."
+22,near00,すっげぇ！,Incredible!
+23,near01,このアングルも良い！,Check out this angle!
+24,near02,Zzz…,Zzz...

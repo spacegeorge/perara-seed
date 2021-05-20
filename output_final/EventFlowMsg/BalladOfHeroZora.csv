@@ -1,0 +1,527 @@
+#,Title,JPja,USen
+1,"""0000""",ミファーのことが聞きたい,Tell me about Mipha.
+2,"""0001""",さよなら,Farewell!
+3,"""0002""",試練のことを教えて,Tell me about the trial.
+4,"""0003""",日記？,Mipha's Diary?
+5,Npc_Zora001_SD_000,"おお""英傑様ではありませんか！
+こんな所で お会いするとは！
+今私はムズリ殿の護衛で
+ここに来ているんですよ
+何でもこの場所にミファー様が受けた
+試練があったとのことで…
+詳しい話はムズリ殿から
+聞かれると良いでしょう","Oh! It's the Champion, Master Link!
+How are things?
+
+As for me, I'm here to protect Sir Muzu.
+
+
+I hear at this very location...is a trial that
+Princess Mipha herself challenged!
+
+If you want more information,
+please talk to Sir Muzu."
+6,Npc_Zora001_SD_100,"ここまで来るのは大変でした…
+道中魔物に何度襲われたことか…
+でも ムズリ殿は「シド王子の役に立たねば」
+と張り切っていましたよ","It was a nuisance to get here...
+Monsters came out and attacked
+us countless times...
+But Sir Muzu was determined. He kept
+mumbling to himself, \""I must prove
+my usefulness to Prince Sidon.\"""
+7,Npc_Zora001_SD_200,"ムズリ殿から
+帰り支度を整えるように言われましたが…
+また あの道のりを考えると辛いですね…","Sir Muzu said to pack up and prepare to
+return home.
+
+Yeesh, but even just thinking about
+treading the path we took here again
+makes me miserable..."
+8,Npc_Zora001_SD_300,"ゾーラの里の外に出ていたのですが
+まだまだ危険が多いですね
+私も里の警備に力を入れますよ！","I was just outside Zora's Domain, but it
+still seems pretty dangerous out there.
+
+I'll have to make sure I'm extra alert
+when guarding the domain!"
+9,Npc_Zora001_SD_301,"ムズリ殿は「シド王子の役に立てた」
+と喜んでおられましたよ","I overheard Sir Muzu mumble, \""I finally
+proved my usefulness to Prince Sidon.\"" 
+He seemed very happy about it."
+10,Npc_Zora003_SD_000,"リンク何かに困ったら
+いつでも この里に来るがよい
+どんな時でも一族全員で歓迎するゾヨ！
+
+さっそくだが…
+何か力になれることはあるゾヨか？","If you ever run into trouble, know that
+you are always welcome here.
+
+No matter the time, we shall all greet
+you with open fins!
+
+Now then... Is there anything I can
+help you with?"
+11,Npc_Zora003_SD_010,"フム いいゾヨ… ソナタにミファーのことを
+聞いてもらうのも あの子への供養ゾヨ
+ミファーは昔から気立てが優しくてな…""里の者
+旅の者…分け隔てなく親切にする子だったゾヨ
+ソナタが幼き頃 ここを訪れた時も
+まるで もう一人の弟のように可愛がっておった
+だが ハイリア人はワシらより成長が早い
+やがてあの子は ソナタを見上げるようになり…
+ミファーの日記にも書いてあったように…
+ソナタを慕うように なっていったゾヨ
+ゾーラの姫がハイリア人の剣士に恋い焦がれる…
+我らの伝説にも そんな話があったゾヨ
+だからワシは いつかソナタとミファーが
+夫婦となるならば それも良しと思っておった…
+残念ゾヨ…","Yes, of course you wish to hear about
+our dear Mipha. I am sure it would bring
+her peace to know she is on your mind.
+Mipha was always kind, from the day she
+was born. She was equally as kind to her
+own as she was to complete strangers.
+When you first took to visiting us,
+back when you were but a child,
+she adored you like a brother.
+However, as you know, Hylians age much
+faster than us. Eventually you grew so
+much, she began to look up to you...
+As Mipha's Diary plainly states...it was
+not long before she developed strong
+feelings for you.
+A Zora princess falling in love with a
+Hylian swordsman...
+
+It reminds me of a Zora legend of old.
+That is why I welcomed the idea of you
+and Mipha becoming husband and wife.
+It is a shame you two never had the
+chance to see what might have been..."
+12,Npc_Zora003_SD_015,"ウム最近見つかったゾヨ… ワシは嬉しくてな
+ミファーの日記はそこの机に置いてあるゾヨ
+…ソナタなら読んでも良いゾヨ
+ミファーも きっと許してくれると思うゾヨ","Ah, of course. Mipha's Diary was found
+just recently. Its discovery brought me
+much joy. It is on that table over there.
+I do not mind if you choose to
+read it. I am sure Mipha would
+forgive you anything."
+13,Npc_Zora003_SD_020,"何かに困ったら いつでも来るが良い
+ソナタは もはや家族のようなものゾヨ","If you need anything, please know that
+I am always here for you. After all...
+we are practically family."
+14,Npc_Zora003_SD_100,"ワシが力になれる事なら
+何でも言うゾヨ","If you need anything, I am ever at
+your disposal."
+15,Npc_Zora004_SD_000,"リンクか… ここへは何しに来たゾラ？
+
+ワシらは シド王子に
+この地を調べるように言われてきたゾラ","Ah! It is you, Link. What brings you
+to this place?
+
+We are here at the behest of
+Prince Sidon, who tasked us
+with keeping watch on this area."
+16,Npc_Zora004_SD_100,"ここはミファー様が試練を受けた場所
+100年後の今当時と同じ異変が起きているゾラ","This is the land where Princess Mipha
+completed her sacred trial.
+
+Now, the signs that appeared 100 years
+ago have returned..."
+17,Npc_Zora004_SD_110,"ミファー様は文献で見つけた…
+
+「朝日が昇る時光の道を進みし先に試練あり」
+
+という この試練に関する言葉を
+繰り返し呟かれておったゾラが…","Princess Mipha's notes had this phrase...
+\""While the morning sun is newly born,
+follow the path of light to the trial.\""
+I am not sure where they came from,
+but she often repeated those mysterious
+words about the trial..."
+18,Npc_Zora004_SD_111,"おお リンクか
+
+ミファー様が見つけられた
+この試練に関係する文献には…
+「朝日が昇る時光の道を進みし先に試練あり」
+
+…と書かれていたようゾラ","Ah! It is you, Link.
+
+
+Princess Mipha's notes contained
+a phrase related to the trial...
+
+\""While the morning sun is newly born,
+follow the path of light to the trial.\""
+
+I wonder what it means..."
+19,Npc_Zora004_SD_200,"なんと…""光の道とは海に映る
+太陽の光だったゾラか！
+すでに文献の謎を解いておったとは！
+さすがミファー様が惚れし英傑 あっぱれゾラ！","Could it be? Have you already figured
+out Mipha's riddle? The path of light...
+Ah! The sun's reflection upon the sea!
+I cannot believe you solved it so readily!
+It is ever more apparent why you are the
+one who stole Princess Mipha's heart.
+I am thoroughly impressed!"
+20,Npc_Zora004_SD_201,"光の道とは
+海に映る太陽の光だったゾラか
+さすがミファー様が惚れし英傑
+あっぱれゾラ！","The path of light...is the sun's reflection
+upon the sea!
+
+It is ever more apparent why you are the
+one who stole Princess Mipha's heart.
+I am thoroughly impressed!"
+21,Npc_Zora004_SD_300,"む！ リンク！
+
+ヒレもエラも持たぬばかりか
+水に溺れるという信じ難き種族にもかかわらず…
+ミファー様と同じ試練を克服するとは！
+
+さすがミファー様の想い人
+あっぱれゾラ","Link!
+
+
+I've been thinking. Your race has no fins
+or gills, and you sink like a stone in
+the water.
+Yet somehow, you managed to complete
+the same trial as Princess Mipha!
+
+It is no wonder our princess has a
+special place in her heart for you.
+I am thoroughly impressed!"
+22,Npc_Zora004_SD_350,"ミファー様と同じ試練を克服するとは
+さすが ミファー様の想い人 あっぱれゾラ","Somehow, you managed to complete
+the same trial as Princess Mipha!
+
+It is no wonder our princess has a
+special place in her heart for you.
+I am thoroughly impressed!"
+23,Npc_Zora014_SD_000,"どうゾラ？ お主も水に流してくれんゾラか？
+ゾーラの里だけに…
+……
+
+今のは忘れてほしいゾラ
+
+そんなことより！","Well, Link? Will you please allow my prior
+rudeness to wash away with the tides?
+Such is the magic of Zora's Domain.
+...
+...
+
+Ahem, perhaps I am overly dramatic.
+Please forgive and forget that as well.
+
+Now, on to more serious matters!"
+24,Npc_Zora014_SD_001,"ゾラ台地にミファー様が試練を受けた時と
+同じやつが現れているゾラ
+当時はミファー様が退治なさったが…
+今回は いったい誰が試練を受けているゾラ?
+まさか…
+
+ワシ？","The same creatures that appeared when
+Lady Mipha challenged her sacred trial
+have returned to Upland Zorana.
+Lady Mipha defeated them with her usual
+grace and skill. I wonder...is the trial
+calling to someone new?
+Could it be...
+
+
+ME?!"
+25,Npc_Zora014_SD_002,"おお リンクか！ ちょうど良いところに…
+向こうを見てみるゾラ","Link! Exquisite timing.
+Look over there!"
+26,Npc_Zora014_SD_003,"ミファー様が試練を受けた時と同じやつが
+向こうのゾラ台地に現れてるゾラ","The same creatures that appeared when
+Lady Mipha challenged her sacred trial
+have returned to Upland Zorana."
+27,Npc_Zora014_SD_004,"当時はミファー様が退治なさったが…
+今回は いったい誰が試練を受けているゾラ?","Lady Mipha defeated them with her usual
+grace and skill. I wonder...is the trial
+calling to someone new?"
+28,Npc_Zora014_SD_100,"ゾラ台地に出現していたガーディアンは
+お主が倒したようゾラな
+ミファー様が受けた試練を
+お主も克服するとは…
+さすが英傑褒めてやるゾラ！","You seem to have defeated the Guardians
+that appeared in Upland Zorana.
+
+I did not imagine you would be able to
+conquer the same trial as Lady Mipha.
+
+I suppose that is why you have earned
+the title of Champion. Please accept
+my congratulations!"
+29,Npc_Zora014_SD_101,"ところで…""ゾラ台地に出現していた
+ガーディアンを倒したのは お主ゾラな？
+ミファー様が受けた試練であったが
+お主も克服してしまうとはな…
+さすが英傑褒めてやるゾラ！","By the way... Were you the one who
+defeated the Guardians that
+appeared in Upland Zorana?
+I did not imagine you would be able to
+conquer the same trial as Lady Mipha.
+
+I suppose that is why you have earned
+the title of Champion. Please accept
+my congratulations!"
+30,Npc_Zora032_SD_000,"ん？ こんなところで
+ハイリアの方とは珍し…
+って リンク様ではありませんか！
+神獣 ヴァ・ルッタの件では本当にお世話に…
+いや それはそうと リンク様…""ゾラ台地に
+青い目のガーディアンが現れたゾラ
+ミファー様が試練を受けた時にも
+同じやつが現れたとかで…
+親父は心配ないと言っているのですが
+念のため見張っているゾラ","Hm? It is rare to see a Hylian here...
+
+
+Oh, how silly of me! It is none other than
+Master Link! I am happy to see you,
+old friend.
+I must sincerely thank you for your help
+with that Divine Beast Vah Ruta mess.
+
+While you are here, I should warn you...
+Blue-eyed Guardians have appeared in
+Upland Zorana.
+Apparently, those things last appeared
+when Lady Mipha challenged her
+sacred trial.
+My father insists they are no cause
+for alarm, but I am on high alert
+just in case."
+31,Npc_Zora032_SD_001,"青い目のガーディアンはミファー様が
+試練を受けた時にも現れたらしいゾラ
+あいつらがゾーラの里まで襲ってこないか
+兵隊長としては不安ゾラ…","Apparently, those blue-eyed Guardians
+last appeared when Lady Mipha
+challenged her sacred trial.
+As captain of the guard, I am concerned
+those creatures may launch an attack
+on Zora's Domain..."
+32,Npc_Zora032_SD_100,"青い目のガーディアンがいなくなったら
+祠が現れたみたいゾラ！
+やはり あのガーディアンは
+試練に関係していたようゾラ","When those blue-eyed Guardians left,
+a strange shrine appeared. I knew those
+Guardians were related to the trial!"
+33,Npc_Zora032_SD_101,"ルッタが鎮座したといえども油断は禁物…
+以前と同じく里の警備をするゾラ","Even though Ruta has been tamed,
+we must not let our guard down. I shall
+guard the domain as diligently as ever!"
+34,Npc_ZoraB001_SD_000,"ああ リンク！ よく来てくれたな！
+神獣 ヴァ・ルッタの件はありがとう！
+元老院の爺様方の反対を押し切ってでも…
+
+ハイリア人のキミに 
+里を救うのを手伝ってもらったこと！
+本当に良かったと思っているゾ！
+
+雨が降り続けて魔物の増えた
+里までの道中を来てくれたこと…
+ルッタの攻撃をかいくぐって
+電気の矢で装置を起動させてくれたこと…
+ルッタを取り戻して
+ミファー姉さんの無念を晴らしてくれたこと…
+リンク…
+キミには感謝してもしきれないゾ！
+こんな強引なオレに最後まで
+ついて来てくれて本当にありがとう！
+キミがいなければ
+今のゾーラの里は無かった！
+これからも何かあったら
+この里に立ち寄ってくれ！
+オレたちはいつでも
+キミの手助けをするゾ！
+ああ！最高だゾッ！
+
+リンク！ キミは最高のハイリア人
+そしてオレの最高の友だ！
+…っと すまない 
+いつもの癖で話しすぎたゾ
+だが これがオレの感謝の気持ちなんだ
+
+それで… 
+リンクは何の用事で来たんだ？","Link! I must thank you for journeying all
+this way! And, of course, for taming that
+feisty Divine Beast Vah Ruta!
+You somehow overcame the objections
+of the old geezers on our council,
+all to help save our home!
+Yes, you are a treasure of a Hylian!
+Taking time out of your journey to come
+to our rain- and monster-ridden home!
+And here you activated those orbs with
+shock arrows, freed Ruta, and released
+my sister from her lingering regret.
+Link... I simply can't thank you enough!
+Especially for following me to the end,
+pushy and unreasonable as I am!
+Zora's Domain would still be in peril if
+not for you. You are welcome anytime,
+and we are ever at your service!
+Have I mentioned how incredible
+you are? And how thankful I am?Because you are! And I am! Yes, you are
+the greatest of Hylians and my most
+treasured friend for all time!
+Ah... You must forgive me. I am but a
+rambling fool, wasting the time of my
+cherished friend and hero of the Zora.
+I do hope you understand that I carry on
+so only because I am ever so grateful
+for all you have done and ever will do!
+But I digress. Link! Might I ask what
+brings you to our beloved domain?"
+35,Npc_ZoraB001_SD_001,"ああ リンク！ よく来てくれたな！
+神獣 ヴァ・ルッタの件はありがとう！
+元老院の爺様方の反対を押し切ってでも…
+
+ハイリア人のキミに
+里を救うのを手伝ってもらったこと！
+本当に良かったと思っているゾ！
+
+雨が降り続けて魔物の増えた
+里までの道中を来てくれたこと…
+ルッタの攻撃をかいくぐって
+電気の矢で装置を起動させてくれたこと…
+ルッタを取り戻して
+ミファー姉さんの無念を晴らしてくれたこと…
+リンク…
+キミには感謝してもしきれないゾ！
+こんな強引なオレに最後まで
+ついて来てくれて本当にありがとう！
+キミがいなければ
+今のゾーラの里は無かった！
+これからも何かあったら
+この里に立ち寄ってくれ！
+オレたちはいつでも
+キミの手助けをするゾ！
+ああ！最高だゾッ！
+
+リンク！ キミは最高のハイリア人
+そしてオレの最高の友だ！
+…っと すまない 
+いつもの癖で話しすぎたゾ
+だが これがオレの感謝の気持ちなんだ
+
+それで… 
+リンクは何の用事で来たんだ？","Link! I must thank you for journeying all
+this way! And, of course, for taming that
+feisty Divine Beast Vah Ruta!
+You somehow overcame the objections
+of the old geezers on our council,
+all to help save our home!
+Yes, you are a treasure of a Hylian!
+Taking time out of your journey to come
+to our rain- and monster-ridden home!
+And here you activated those orbs with
+shock arrows, freed Ruta, and released
+my sister from her lingering regret.
+Link... I simply can't thank you enough!
+Especially for following me to the end,
+pushy and unreasonable as I am!
+Zora's Domain would still be in peril if
+not for you. You are welcome anytime,
+and we are ever at your service!
+Have I mentioned how incredible
+you are? And how thankful I am?Because you are! And I am! Yes, you are
+the greatest of Hylians and my most
+treasured friend for all time!
+Ah... You must forgive me. I am but a
+rambling fool, wasting the time of my
+cherished friend and hero of the Zora.
+I do hope you understand that I carry on
+so only because I am ever so grateful
+for all you have done and ever will do!
+But I digress. Link! Might I ask what
+brings you to our beloved domain?"
+36,Npc_ZoraB001_SD_010,"試練？
+…そういう事か リンク！
+実は最近ミファー姉さんがルッタに乗るために
+試練を受けた時と同じ異変が起きているんだゾ
+調査の為に試練の地の一つであるウルラ峡谷
+の東にムズリとタッカを向かわせたんだが…
+ナゾが解けたゾ！
+キミが試練を受けていたんだな！","The sacred trial my sister challenged?
+You are a keen one, Link!
+
+I have recently noticed certain things
+that last occurred when my dear sister,
+Mipha, took the trial to master Ruta.
+That is why I sent Muzu and Tottika to
+stand guard east of Ulria Grotto. It was
+one of the areas associated with the trial.
+...Link! Yes, I have figured it out.
+YOU are challenging the sacred trial!
+I wish you luck, my friend."
+37,Npc_ZoraB001_SD_012,"リンクは試練に向かうんだろ？
+きっと成し遂げられると信じてるゾ！
+オレはキミの事を応援しているゾ
+オレたちは最高の友達だからな！","You ARE intending to challenge the
+sacred trial, are you not? I have no
+doubt you shall succeed!
+I am cheering you on, as ever!
+After all, you are my most treasured
+friend and hero of the Zora!"
+38,Npc_ZoraB001_SD_013,"ミファー姉さんのこと？
+そうだな…
+最近気づいたんだが100年前時々現れては
+ミファー姉さんと よく一緒にいた剣士…
+オレは そいつに姉さんを取られたように感じ
+悔しかったんだが… あの剣士は…
+キミだったんだなリンク！
+
+おっと キミをリンクと呼ぶのは失礼かな？
+
+なぜならキミは もしかしたら姉さんの夫…
+オレの義兄さんに なっていたかも…
+…
+
+いや つい興奮して余計なことを…
+すまん忘れてくれリンク！","You wish to speak of my sister?
+I am always happy to do so.
+
+Actually, I recently remembered
+something...a fuzzy memory
+from my early childhood.
+There was a swordsman that came by
+every so often and spent a considerable
+amount of time with Mipha.
+At the time, it felt like he was stealing my
+sister away from me. I know better now.
+But...that swordsman...
+It was you, Link. I am certain of it.
+I do hope my bluntness has not
+offended you.
+Had things turned out differently,
+you might have been my sister's
+husband...my brother-in-law...
+Oh! My apologies. I got carried away and
+let my imagination run wild. Please forget
+my childish musings, my friend!"
+39,Npc_ZoraB001_SD_020,"そうか…
+また いつでもここに立ち寄ってくれ！
+オレはいつでも
+キミの事を応援しているゾ！","Should you ever have need of me,
+do not hesitate to reach out.
+
+I shall be cheering you on, as ever!"
+40,Npc_ZoraB001_SD_100,"おお リンク！
+よく来てくれたな！",Link! I am so happy to see you!
+41,Npc_ZoraB001_SD_101,"リンク！どうした？
+他に聞きたい事があるのか？","What is it, Link? Is there something else
+you wish to talk about?"
+42,Npc_ZoraB001_SD_102,オレに何か用なのか？,Can I help you in some way?
+43,Npc_ZoraB001_SD_103,"そうだ リンク
+何か用があって来たんじゃないのか？","Oh, of course. I assume some heroic
+errand has brought you here."
+44,Npc_ZoraB001_SD_104,リンク他にも聞きたいことはあるのか？,"Is there anything else I can
+help you with?"

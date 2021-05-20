@@ -1,0 +1,11 @@
+#,Title,JPja,USen
+1,"""0000""",これ以上 ハートは回復しません,You cannot recover any more hearts.
+2,"""0001""",キャンセル,Cancel
+3,"""0002""",つかう,Use
+4,"""0003""",たべる,Eat
+5,"""0004""",のむ,Drink
+6,"""0005""",これ以上 がんばりは回復しません,You cannot recover any more stamina.
+7,"""0006""","前に登録したワープ地点は なくなります
+ワープマーカーを置き直しますか？","The currently registered travel gate will
+be deleted. Place Travel Medallion?"
+8,"""0007""",置き直す,Place

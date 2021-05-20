@@ -1,0 +1,85 @@
+#,Title,JPja,USen
+1,"""0000""",ここって？,Where am I?
+2,"""0001""",どうしたの？,What's going on?
+3,"""0002""",さようなら,Can't talk now.
+4,"""0004""",神獣 ヴァ・メドー？,Divine beast?
+5,"""0005""",テバ知らない？,Do you know Teba?
+6,Talk_00,"もてなしたいところなんだけど
+今は それどころじゃねぇ感じだよ","I'd like to show you around, but now's
+not really a good time."
+7,Talk_01,ん…アンタか,Oh... It's you.
+8,Talk_02,"ここは俺達 リトの村だが…
+あんまり歓迎ムード って感じじゃねぇぜ
+詳しい事は中のヤツらに聞いてくれや","This is Rito Village, but...
+Well, you could say we're not in a
+welcoming mood.
+Talk to the folks in the village to hear all
+about it."
+9,Talk_03,"空のバケモン見たかい？
+あれ神獣 ヴァ・メドーって言うらしいぜ
+数日前に現れたんだが偵察に行ったヤツが
+その神獣 ヴァ・メドーに撃たれちまってな
+大昔は村の守り神だったくせに
+今は俺達が飛び立つと撃ってくるってよ…","Did you see the beast in the sky?
+That's Divine Beast Vah Medoh.
+
+It showed up a while back. The Rito
+warriors who flew up to check it out
+were shot down.
+They say it used to be a divine being that
+protected the village, but it doesn't seem
+very divine to me."
+10,Talk_04,おぅ,Don't let me keep you.
+11,Talk_05,"村のてっぺんの神獣 ヴァ・メドー
+見に来たんだろ？","Let me guess—you've come to see
+Divine Beast Vah Medoh."
+12,Talk_07,"逆に言えば ヤツに近づかなきゃ撃たれない
+ってのが最近分かってな
+つーワケで用があるヤツぁ
+みんなこの門から歩いて出入りしてるぜ
+全く翼のリト族が情けねぇ話だぜ","Thankfully, the thing only shoots at
+anything flying high up above the village.
+
+But still... It is pretty demoralizing for us
+Rito to have to fly so low to the ground."
+13,Talk_09,"ん？""旅の人かい？",Hmm? Are you a traveler?
+14,Talk_10,ん？ こんな夜分に旅の人かい？,Hmm? A traveler at this hour?
+15,Talk_11,ん？ こんな中旅の人かい？,Hmm? A traveler in this weather?
+16,Talk_14,"この村 こないだまで神獣 ヴァ・メドーっつー
+デカいのが飛んでてな
+いろいろあって
+やっと最近落ちついたところなんだよ","There was this big beast called
+Divine Beast Vah Medoh flying above
+the village up until a while ago.
+But someone took care of it, and things
+have finally settled down."
+17,Talk_15,"ああ今その神獣 ヴァ・メドーなら
+村のてっぺんに停まってるよ
+停まってからはピクリとも動いてないぜ","Yeah, Divine Beast Vah Medoh is
+perched above the village now. It has not
+moved an inch since it stopped there."
+18,Talk_16,"しっかし あのデカいのが降りてきた時ゃ
+どうなるかと思ったぜ…","I am surprised that rock up there can
+support all that weight."
+19,Talk_17,この辺は相変わらずだぜ,"Things are the same as always
+around here."
+20,Talk_19,"テバなら ここから出てったぜ
+
+ってか飛んでったらメドーに撃たれるから
+歩いて出てくしかねぇんだけど…
+橋の向こうに居るギザンなら
+テバがどっち行ったか分かんじゃねぇかな？","If you're looking for Teba, he's not in the
+village.
+
+I bet Gesane knows where Teba is.
+Gesane is probably patrolling the bridges
+to the mainland."
+21,Talk_20,"テバなら ここから出てったぜ
+
+橋の向こうのギザンなら
+もっと詳しい事知ってんじゃねぇかな？","If you're looking for Teba, he left the
+village.
+
+I bet Gesane knows more. He patrols the
+bridges into town."
+22,Talk_21,他に質問ある？,Any other questions?

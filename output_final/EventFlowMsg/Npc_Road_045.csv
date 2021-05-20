@@ -1,0 +1,285 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ… はぁ…
+落ち着くのよ私…","*pant...pant*
+Just...let me catch my breath..."
+2,Atacked01,"どうしましょ困ったわ…
+いくら魔物が好きな私でも この状況は…","I may love monsters, but this is a bit
+much even for me. Maybe I'll get lucky
+and lightning will strike them."
+3,Failed00,"あぶなく命を落とす所でしたわ！
+まだ結婚前ですのに…","To think, I nearly died before getting
+married. That's not a proper order of
+operations!"
+4,Failed01,"もしかして私
+魔物に好かれちゃったんですかね…","These monsters would attack a lady
+before she's wed? How so very...
+monstrous!"
+5,Guardian00,"ヒィー！ガーディアン！""逃げなきゃ！","Sweet Bokoblin! It's a Guardian!
+I'm out of here!"
+6,MSG_Ichika_00,"私に何か用でしょうか？
+
+私はただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+この地域のどこかにいる大妖精様に会うと
+幸せになれるというお話ですけど…
+本当かしら？","Oh, you mistook me for a Gerudo? No
+worries, for some reason it happens all
+the time. No idea why!
+Maybe because I'm traveling in search of
+true love. I'm single and ready to mingle,
+but my love of monsters scares people...
+But I heard there's a Great Fairy in this
+region. They say if you find her, you'll be
+blessed with happiness. I hope it's true!"
+7,MSG_Ichika_00_1,"この地域のどこかにいる「大妖精様」に会うと
+幸せになれるというお話…本当かしら？","I heard there's a Great Fairy in this
+region. They say if you find her, you'll be
+blessed with happiness. I hope it's true!"
+8,MSG_Ichika_01,"私に何か用でしょうか？
+
+私はただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+スタルヒノックスは大きくて不気味で
+自分の骨を投げてくるところが素敵です！
+魔物の好きな男性と一晩中
+スタルヒノックスのお話をしたいです","Oh, you mistook me for a Gerudo? No
+worries, for some reason it happens all
+the time. No idea why!
+Maybe because I'm traveling in search of
+true love. I'm single and ready to mingle,
+but my love of monsters scares people...
+Stalnoxes are pretty big and creepy, but
+the way they throw their own bones at
+you...is just so cool!
+Maybe I'll find someone who likes
+monsters as much as I do. Then we can
+stay up all night talking about Stalnoxes!"
+9,MSG_Ichika_01_1,"スタルヒノックスは大きくて不気味で
+自分の骨を投げてくるところが素敵です！
+魔物の好きな男性と一晩中
+スタルヒノックスのお話をしたいです","Stalnoxes are pretty big and creepy, but
+the way they throw their own bones at
+you...is just so cool!
+Maybe I'll find someone who likes
+monsters as much as I do. Then we can
+stay up all night talking about Stalnoxes!"
+10,MSG_Ichika_02,"え？私に何か？
+
+私はただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+北に向かえばヒガッカレ馬宿ですけど
+その道中には とても強い魔物がいるそうです
+なんだか ゾクゾクします！","Oh, you mistook me for a Gerudo? No
+worries, for some reason it happens all
+the time. No idea why!
+Maybe because I'm traveling in search of
+true love. I'm single and ready to mingle,
+but my love of monsters scares people...
+If you go north from here, you'll find the
+East Akkala Stables. I heard there are
+some strong monsters along the way.
+Just thinking about such strong monsters
+gives me goosebumps!"
+11,MSG_Ichika_02_1,"北に向かえばヒガッカレ馬宿ですけど
+その道中に屈強な魔物がいるそうですよ","If you go north from here, you'll find the
+East Akkala Stables. I heard there are
+some strong monsters along the way.
+Just thinking about such strong monsters
+gives me goosebumps!"
+12,MSG_Ichika_03,"私ですか？人違いじゃなくて？
+
+私はただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+そういえば この地方のどこかに
+とても大きな魔物がいるという話を聞きました
+どこかに とても大きな魔物…
+大雑把すぎる この情報がすべてなんです
+見つけるの大変そうですよね！","Oh, you mistook me for a Gerudo? No
+worries, for some reason it happens all
+the time. No idea why!
+Maybe because I'm traveling in search of
+true love. I'm single, ready to mingle, but
+my love of monsters scares people away.
+I heard there's a really big monster
+somewhere in this region.
+Like...REALLY big.
+Sadly, that's all the info I've got on it.
+It's not enough to track it down, but I
+would love to see such a big monster."
+13,MSG_Ichika_03_1,"この地方のどこかに
+とても大きな魔物がいるという話を聞きました","I heard there's a really big monster
+somewhere in this region.
+Like...REALLY big.
+Sadly, that's all the info I've got on it.
+It's not enough to track it down, but I
+would love to see such a big monster."
+14,MSG_Ichika_04,"はい何でしょうか？
+私 行商をしているわけではなくて…
+ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+イチカラ村で結婚式が行われるそうですよ
+列席者の中に素敵なボーイ…いますように","Oh, were you hoping to buy something
+from me? Normally people mistake me for
+a Gerudo, but never for a merchant!
+I hear there's a wedding in Tarrey Town.
+Weddings are great for meeting people,
+so I'm hoping to meet someone myself."
+15,MSG_Ichika_04_1,"イチカラ村で結婚式が行われるそうですよ
+列席者の中に素敵なボーイ…いますように","I hear there's a wedding in Tarrey Town.
+Weddings are great for meeting people,
+so I'm hoping to meet someone myself."
+16,Near00,朝は好き…,I just love the morning.
+17,Near01,デートしたいな…,I need to find a date.
+18,Near02,運命の人…,Where to meet someone...
+19,Near03,夜は魔物が…,Monsters prowl in the dark.
+20,Near04,ひどい天気・・・,What lousy weather!
+21,Rest_00,"私の楽しみは とても平凡で
+未来の旦那様を想像して ワクワクすることと…
+魔物の姿を想像して ゾクゾクすることです","What do I do for fun? The normal things.
+I list my favorite things about monsters...
+I imagine where the monsters live..."
+22,Rest_01,"雨は嫌いでもないかな…
+何か突然の出会いがありそうで","I don't hate the rain. People tend to
+gather indoors when it's pouring out,
+so you never know who you'll meet."
+23,Rest_02,"雨宿りって嫌いじゃないんですよね
+なぜかっていうと…
+飛び込んできた素敵な人が
+自然に声かけてくれることがあるから！","I don't mind taking shelter from the rain.
+It raises my chances of meeting my
+special someone in a romantic setting!"
+24,RetMSG_Ichika_00,"あっ びっくりした…
+何でしょうか？
+私 ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+ご存知ですか オクタロック…
+タコのくせに水に落ちると溺れ死ぬんです
+水オクタだけは さすがに溺れませんけどね","Oh! You startled me. Were you hoping to
+buy something from me? Sorry, but I'm
+not a merchant.
+I'm out here traveling in search of true
+love. I'm single and ready to mingle, but
+my love of monsters scares people away.
+Speaking of... Did you know Octoroks
+can drown even though they're octopi?
+Only Water Octoroks survive the plunge!"
+25,RetMSG_Ichika_00_1,"ご存知ですか オクタロック…
+タコのくせに水に落ちると溺れ死ぬんです
+水オクタだけは さすがに溺れませんけどね","Did you know Octoroks can drown even
+though they're octopi?
+Only Water Octoroks survive the plunge!"
+26,RetMSG_Ichika_01,"はい？私ですか？
+
+私 ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+ここも魔物がけっこういて魅力的な土地ですが
+ハイラル城の魅力には かないませんね
+城に眠ってるといわれる宝物より
+城で目覚めている魔物を想像してしまいます
+そして私 ゾクゾクしちゃいます！","You're talking to me? I'm just a plain ol'
+Hylian traveler is all, nothing quite as
+interesting as a Gerudo or a monster.
+I'm out here traveling in search of true
+love. I'm single and ready to mingle, but
+my love of monsters scares people away.
+Seeing Hyrule Castle can make for a
+nice view if you can get it, but all the
+monsters around make it even nicer.
+I hear there's a lot of treasure left in the
+castle, but I get more excited thinking of
+all the monsters that must be in there!"
+27,RetMSG_Ichika_01_1,"ハイラル城に眠るといわれる宝物より
+城で目覚めている魔物を想像するのが好きで…
+思わず私 ゾクゾクしちゃいます！","I hear there's a lot of treasure left in the
+castle, but I get more excited thinking of
+all the monsters that must be in there!"
+28,RetMSG_Ichika_02,"あのですね…
+声かけてくれるのは うれしいんですけど
+私何のとりえもない ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+ここからヒガッカレ馬宿に行く間に
+かなり大きな魔物が出るって聞いただけで…
+震えが止まりません！
+
+もちろん楽しみすぎてです！","Oh, hello! I'm a bit surprised you decided
+to talk to me. My love of monsters often
+scares people away. No idea why!
+I heard there's a great big monster along
+the way to East Akkala Stable, and I've
+been shaking ever since.
+Shaking with excitement, that is!"
+29,RetMSG_Ichika_02_1,"ここからヒガッカレ馬宿に行く間に
+かなり大きな魔物が出るって聞いただけで…
+楽しみ過ぎて震えが止まりません！","Even just hearing about a giant monster
+along the way to East Akkala Stable... It
+got me so excited—I'm still shaking!"
+30,RetMSG_Ichika_03,"えっと…何でしょうか？
+
+私何のとりえもない ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+いま私大妖精様のウワサが気になっていて…
+
+一目見れば幸せになれるって聞きましたし
+それに服を豪華にしてくれるそうです！","You're talking to me? I'm just a plain ol'
+Hylian traveler is all, nothing quite as
+interesting as a Gerudo or a monster.
+I'm out here traveling in search of true
+love. I'm single and ready to mingle, but
+my love of monsters scares people away.
+Right now, I'm interested in rumors
+about the Great Fairy. They say just a
+single glance will bring you happiness...
+And that she can make your clothes
+more luxurious!"
+31,RetMSG_Ichika_03_1,"いま私大妖精様のウワサが気になっていて…
+
+一目見れば幸せになれるって聞きましたし
+それに服を豪華にしてくれるそうです！","Right now, I'm interested in rumors
+about the Great Fairy. They say just a
+single glance will bring you happiness...
+And that she can make your clothes
+more luxurious!"
+32,RetMSG_Ichika_04,"なんで私なんかに声を？
+
+私 ただの旅人ですよ…
+恋人募集中で魔物好きの ただの旅人です！
+楽しみも平凡で魔物をいろいろ想像することや
+自分の未来の旦那様を想像すること…
+そういえばイチカラ村の結婚式も楽しみ！
+列席者の中に きっと素敵な人がいそうですし！","You're talking to me? I'm just a plain ol'
+Hylian traveler is all, nothing quite as
+interesting as a Gerudo or a monster.
+I'm out here traveling in search of true
+love. I'm single and ready to mingle, but
+my love of monsters scares people away.
+What do I do for fun? The normal things.
+I list my favorite things about monsters...
+I imagine where the monsters live...
+I'm looking forward to the wedding at
+Tarrey Town. I'm bound to meet someone
+who likes monsters as much as me there!"
+33,RetMSG_Ichika_04_1,"ところでイチカラ村の結婚式って
+いつ頃なんでしょうね？
+出会いのチャンスがありそうで
+今から楽しみなんですけど…","Speaking of, do you know when the
+wedding at Tarrey Town starts? I can't
+be late to meeting my perfect someone!"
+34,SavedLv1_00,助かりましたわ！,"Oh, I'm saved!"
+35,SavedLv1_01,あなたがいなければ どうなってたか…,"I don't even want to think about what
+would've happened if you hadn't come
+along to help."
+36,SavedLv2_00,"本当に助かりましたわ！
+これはこれで旅の出会いですね！","You saved my life! I'm glad we were able
+to meet like this.
+Is this our destined encounter?"
+37,SavedLv2_01,"本当にありがとうございました！
+あなたがいてくれて幸運でしたわ！","Oh, thank you! I'm lucky you were here
+to save me."
+38,SavedLv3_00,今日で旅が終わってしまうところでした…,"And to think, I was just one day from
+this journey being over."
+39,SavedLv3_01,"魔物を間近で見られて興奮しましたけど…
+でもよかった助けていただけて…","Traveling would be so much easier if it
+weren't for all these monsters. But at
+least you were here to help."
+40,Thanks00,私の感謝の気持ち お受け取りください！,"Please, take this.
+As a thank-you!"

@@ -1,0 +1,120 @@
+#,Title,JPja,USen
+1,"""0000""",どうされました？,What's the matter?
+2,"""0001""",さようなら,Take care.
+3,"""0002""",大丈夫？,Are you all right?
+4,"""0003""",これをどうぞ,Take this.
+5,"""0004""",はい,Yes.
+6,near00,スヤスヤ…,Phew phew...
+7,near01,はぁ…,Haah...
+8,near02,♪～,♪
+9,near03,さて…,So...
+10,talk02,おはようございます,Good morning.
+11,talk03,こんにちは,Hello.
+12,talk04,こんばんは,Good evening.
+13,talk05,どなた…？,You are?
+14,talk07,ハァ…また夜に パパに相談しないと…,"*sigh* At night, I've got to ask Papa for
+advice again..."
+15,talk08,私にご用ですか？,Do you need something from me?
+16,talk09,はい…,Yes...
+17,talk10,"私もそろそろ寝ようかしら…
+
+あっ…つい独り言を…","I think I'll go to sleep...
+
+
+Oops! There I go, talking to myself..."
+18,talk11,"病気がちな娘のために
+夫がここに別荘を買ってくれたんです
+イチカラ村は いいですね
+人も少ないし空気もきれいで…
+主人の強引なやり方は好きじゃないのですが
+今度ばかりは正解でした
+娘も少しよくなったように思うんです
+
+後は…たくさん食べるようになってくれれば
+すぐにでも回復すると思うのですが…","Our daughter has been in poor health
+lately... My husband believed that moving
+here could help, so he bought a house.
+I do like it here... The air is clean. There
+aren't too many people... 
+
+Despite my husband's determination, I
+wasn't sure if a move was a good idea...
+but our daughter is slowly improving.
+The only thing left is for her appetite to
+return. I'm sure she'd get well faster if
+she ate more."
+19,talk12,"ええ…お気遣い無く
+
+でも娘が もっと
+食べてくれるようになると いいんですけど…","Yes... Don't worry yourself.
+
+
+I only wish that my daughter would eat
+more and recover her strength..."
+20,talk13,"ごめんなさい…内輪の話なので
+ご退出願えますか？","I'm sorry... This is a very personal matter.
+Could you leave, please?"
+21,talk14,"この子…ケーキなら食べられるのよ
+何とかならないの？","Our daughter... The only thing she'll eat
+is cake. Can't anything be done?"
+22,talk15,"しかし世界中のありとあらゆるケーキを
+食べさせたじゃないですか…
+今まで どれだけかかったと思ってるんですか…","We've scoured the world, searching for a
+cake that would please her. None have.
+Imagine how much money we've spent..."
+23,talk16,"まぁ パパったら！
+お金と娘 どっちが大事なの？！
+…分かったわ こうなったら
+
+私は魔物に魂を売ってでも
+この子が回復するケーキを手に入れますから！","Papa, excuse me!
+What's more important to you, money or
+our daughter?
+...I see. If that's the case...
+
+
+Even if I have to sell my soul to a
+monster, I'll get my hands on a cake
+that can cure our daughter!"
+24,talk17,魔物とか…ママは無茶苦茶です…,"You're talking about monsters now...
+This is absolutely insane, Mama..."
+25,talk18,"何ですかこれ…？
+マモノケーキって言うんですか？
+これを…娘に？","What is... Is this a monster cake?
+
+
+I should give this to my daughter?"
+26,talk19,"ありがとうございます！
+
+あのマモノケーキ
+娘は すごい勢いで平らげてました
+おかげで体力も回復したようです！
+本当に何と言ったらいいか…
+…そうそう
+これは少ないけど お礼です","Thank you so much!
+
+
+That monster cake... Our daughter
+wolfed it down with unbelievable gusto.
+It seems her health has returned to her!
+I don't even know what to say—I'm just
+so thankful! Oh, I know. This isn't much,
+but please take it."
+27,talk20,"娘には…
+あなたからも声をかけてあげてくださいね","Could you maybe...try talking to her
+some time, as well."
+28,talk21,あっあなたは…！,"Ah, you're..."
+29,talk22,"ありがとうございます
+それにしても すごい臭い…
+なんて言ってられませんね
+このケーキで娘が回復してくれれば…
+ともかく ありがとうございます","Thank you so much!
+Oh, wow. It's certainly quite pungent...
+Phew.
+I suppose I can't complain about things
+like that. If our daughter can get better
+thanks to this cake..."
+30,talk23,早速食べさせてみますね,I'll try to get her to eat it right away.
+31,talk24,早速起こして食べさせてみますね,"I'll wake her up right away and try to get
+her to eat it."
+32,talk25,その節は ありがとうございました,Thank you for all of your help.

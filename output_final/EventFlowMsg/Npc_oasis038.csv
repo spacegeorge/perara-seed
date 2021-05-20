@@ -1,0 +1,159 @@
+#,Title,JPja,USen
+1,"""0000""",何があったの？,What happened?
+2,"""0001""",そこの人誰？,Who's Tali?
+3,"""0002""",さよなら,Good-bye.
+4,"""0003""",アナタは？,Who are you?
+5,"""0004""",スナザラシラリー？,Sand-seal racing?
+6,Talk_01,……,...
+7,Talk_02,"世界中に名の知れた
+スナザラシラリーを知らないなんて…
+アンタ ほんとに
+この世の人間かい？
+スナザラシラリーは
+スナザラシに乗り決められたアーチを通って
+目的地に向かい時間を競い合う
+ゲルド族伝統の競技だ！
+今は神獣のせいで
+何にも出来やしないけどね","So everyone in the world has heard of
+sand-seal racing except you...
+Have you been sleeping under a rock?
+Sand-seal racing is a sport where people
+guide sand seals through arches as they
+race toward the finish line.
+The racer with the fastest time wins.
+It's a true Gerudo tradition!
+
+But because of this blasted Divine Beast,
+we can't run a single race right now."
+8,Talk_03,"フューは今苛立ってるんだよ
+サインなら後にしてくれるかい？","Sorry, kid. The great Tali isn't in the
+mood to give autographs right now.
+Could you come back later?"
+9,Talk_04,"ょいと ちょいと！
+パフューをそこの人呼ばわりするんじゃないよ！
+スナザラシラリー世界チャンピオンの
+パフューを知らないのかい？
+あの忌々しい神獣さえいなけりゃ
+パフューの腕前をみせてやれるんだがね","""Who's Tali\""? Are you serious right now?
+
+
+You aren't seriously saying you don't
+recognize Tali, the sand-seal racing
+champion, are you?
+That stupid Divine Beast is the only
+thing stopping us from showing you
+Tali's sand-seal skills firsthand!"
+10,Talk_05,"見りゃわかるだろ？
+
+神獣とやらのおかげで
+スナザラシラリーのコースが
+使えなくなっちまったんだ
+
+ウロつくのは勝手だが
+ヨソでやってほしいもんだよ","Use your eyes! The Divine Beast is
+stomping around, so obviously we can't
+use the sand-seal race course.
+I suppose you can stand around here if
+you want, but I'd prefer you did it
+elsewhere."
+11,Talk_06,"このパフューをスナザラシラリーの
+世界チャンピオンに育てあげたのは
+何を隠そう このアタシなのさ
+
+この子は昔からシャイな子だけどね
+アタシだけには心を開いてくれてんだ","Not to toot my own horn, but I'm the one
+who raised Tali into the sand-seal racing
+champion she is.
+It wasn't easy, let me tell you.
+She's always been a bit shy, but her and
+I have a great relationship now.
+Isn't that right, Tali?"
+12,Talk_07,"…っとに あのデカいののお陰で
+商売あがったりだよ","...That big thing out there is seriously
+bad for business."
+13,Talk_08,"誰でもいいから さっさとアレを
+どうにかしてくれないかねぇ…","I don't care who does it, but someone
+better go address that thing soon..."
+14,Talk_09,"ちょいと ちょいと！
+パフューをそこの人呼ばわりするんじゃないよ！
+スナザラシラリー世界チャンピオンの
+パフューを知らないのかい？
+あの忌々しい神獣さえいなけりゃ
+パフューの腕前をみせてやれるんだがね","\""Who's Tali\""? Are you serious right now?
+
+
+You aren't seriously saying you don't
+recognize Tali, the sand-seal racing
+champion, are you?
+That stupid Divine Beast is the only
+thing stopping us from showing you
+Tali's sand-seal skills firsthand!"
+15,Talk_12,"見りゃわかるだろ？
+
+神獣とやらのおかげで
+スナザラシラリーのコースが
+使えなくなっちまったんだ
+
+ウロつくのは勝手だが
+ヨソでやってほしいもんだよ","Use your eyes! The Divine Beast is
+stomping around, so obviously we can't
+use the sand-seal race course.
+I suppose you can stand around here if
+you want, but I'd prefer you did it
+elsewhere."
+16,Talk_18,"たかい？
+さっきも言っただろ？
+パフューは今苛立ってるんだよ
+サインなら後にしてくれるかい？","gain? I told you earlier, didn't I?
+
+
+Tali is really annoyed right now.
+If you want an autograph, could you
+come back later?"
+17,Talk_23,"世界中に名の知れた
+スナザラシラリーを知らないなんて…
+アンタ ほんとに
+この世の人間かい？
+スナザラシラリーは
+スナザラシに乗り決められたアーチを通って
+目的地に向かい時間を競い合う
+ゲルド族伝統の競技だ！
+今は神獣のせいで
+何にも出来やしないけどね","So everyone in the world has heard of
+sand-seal racing except you...
+Have you been sleeping under a rock?
+Sand-seal racing is a sport where
+people guide sand seals through arches
+while racing toward the finish line.
+The racer with the fastest time wins.
+It's a true Gerudo tradition!
+
+But because of this blasted Divine Beast,
+we can't run a single race right now."
+18,Talk_36,"アンタらハイリア人にゃ
+夜の砂漠の寒さは キツイだろう
+アタシたちゃ もう慣れちまったがね","The frigid temperatures of the desert at
+night are pretty rough on you Hylians,
+aren't they?
+I guess we're all used to it..."
+19,Talk_37,"アンタにゃ
+昼の砂漠の暑さは キツイだろう
+アタシたちゃ もう慣れちまったがね","The intense heat of the desert during the
+day is pretty hard on you, huh.
+
+I guess we're all just used to it..."
+20,Talk_39,"まったく アタシの可愛いパフューを
+困らせるなんて何がこの地の守り神だよ！","Who in the blazing sands does this
+Divine Beast think it is?! No one upsets
+the great Tali and gets away with it!"
+21,Talk_45,"まったく アタシの可愛いパフューを
+困らせるなんて何がこの地の守り神だよ！","Who in the blazing sands is this divine
+protector that thinks it's so high and
+mighty it can upset my adorable Tali?!"
+22,Talk_46,"んうん そうだね
+わかってるよ パフュー","Yes, yes, right. Understood, Tali."
+23,TerrorArrow,むっ！,Hrn!
+24,TerrorBomb,…！,Gah!
+25,TerrorExplosion,のあ！,Nwah!
+26,TerrorFire,不快だ！,N-no! Not good!
+27,TerrorSword,なっ！,Wha—?!

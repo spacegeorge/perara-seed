@@ -1,0 +1,174 @@
+#,Title,JPja,USen
+1,"""0000""",儲かってる？,How's business?
+2,"""0001""",売りたい,I want to sell.
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",ここって？,What is this place?
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5502""",買う,Buy.
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5507""",ぜんぶ買う,I'll take 'em all!
+10,"""5508""",ぜんぶ売る,All of them.
+11,Com_Talk_00,"かしこまりました
+どれを お売りいただけますか？",Certainly. What would you like to sell?
+12,Com_Talk_01,"ですね？
+ルピーになりますが よろしいですか？",How about  rupees? Is that OK?
+13,Com_Talk_02,"ありがとうございます
+他にも何かお売りですか？","Thank you. Do you have anything else
+to sell?"
+14,Com_Talk_02b,"かしこまりました
+他にも引き取りましょうか？","Understood. Would you like me to take
+anything else off your hands?"
+15,Com_Talk_02c,"それでは引き取らせていただきます
+他は どうしましょう？",Thanks!
+16,Com_Talk_02d,"はい それでは…
+他にも売りたいものは ございますか？","Yes, OK then... Is there anything else
+you would like to sell?"
+17,Com_Talk_04,そうですか残念です,"Oh, really? That's too bad."
+18,Com_Talk_05,"どちらの品でも
+買い取り致しますよ",I'll buy anything you want to sell.
+19,Com_Talk_05b,それでは お選びください,What do you have for me?
+20,Com_Talk_05c,ゆっくり選んでくださいね,Take your time.
+21,Com_Talk_05d,どちらをお売りに なりますか？,What would you like to sell?
+22,Com_Talk_06,どちらを お買い求めですか？,What would you like to buy?
+23,Com_Talk_07,"すみません
+そちらは今切らしておりまして…",I'm sorry... We're all sold out of that.
+24,Com_Talk_08,あ ルピーが足りないみたいですよ…,"Oh... I'm sorry. It would seem you don't
+have enough rupees..."
+25,Com_Talk_09,"あ！ ポーチが いっぱいみたいです
+
+要らない物を お売りになるか
+お捨てになってから またご来店ください","Oh... It looks like your inventory is full.
+
+
+You can sell whatever you don't need,
+or you can throw some stuff away.
+Please come back when you're ready."
+26,Com_Talk_10,"を
+お買いになりますか？","You want to buy this, then?"
+27,Com_Talk_11,毎度 ありがとうございます！,Thank you for your business!
+28,Com_Talk_11b,これからも ご贔屓にお願いします！,Please come again!
+29,Com_Talk_11c,お買い上げ ありがとうございました！,Thank you very much!
+30,Com_Talk_11d,まいど どうも！,Thanks for your business!
+31,Com_Talk_12,"当店自慢の品揃えです
+ごゆっくり お選び下さい","We have a fine selection of items here,
+so please take your time looking around."
+32,Com_Talk_13,"を お売りですね？
+おいくつでしょうか？","You want to sell this, right? How many
+do you want to sell?"
+33,Com_Talk_14,"を個ですと
+合計ルピーになりますが…",I'd say  amounts to  rupees...
+34,Com_Talk_15,"申し訳ございません
+そちらの品は ウチではお引き取りできません","My sincerest apologies...
+I cannot buy that from you."
+35,Com_Talk_16,"申し訳ございません着られている服は
+脱いでから お売りいただけますでしょうか？","I'm so sorry...but could you possibly
+remove that article of clothing before
+you try to sell it to me?"
+36,Com_Talk_31,"を お買い上げですね？
+おいくつでしょうか？",How many?
+37,Com_Talk_33,"を お1つですね？
+それならルピーに なりますが…","Just one, right?
+How about  rupees?"
+38,Com_Talk_34,"を全部ですね？
+個でルピーになりますが…",All of them? That will be  rupees.
+39,Com_Talk_35,"を全部 お売りですね？
+個なのでルピーで買い取ります",All of them? That will be  rupees.
+40,Com_Talk_50,"ですね？
+ルピーになりますけど よろしいですか？","That comes to  rupees. Is that
+acceptable?"
+41,Com_Talk_51,"ですね？
+いくつ ご入り用でしょう？",How many do you need?
+42,Com_Talk_52,"が個ですと
+合計ルピーですね",I think  will come to  rupees.
+43,Com_Talk_53,おやめになるんですね,"Oh, did you change your mind?"
+44,Com_Talk_54,"申し訳ございません
+ルピーが不足しています…","I'm so sorry... I must inform you that
+you don't have enough rupees."
+45,Com_Talk_55,"荷物が いっぱいですね…
+要らない物があれば買い取りますよ？","Your pouch is full... If there's anything
+you don't need, I'd be happy to take it
+off your hands."
+46,Com_Talk_56,"を お1つですね？
+それならルピーに なりますが…","Just one, right? If so, that will
+be  rupees."
+47,talk00,"こちらは よろず屋
+コーラル・リーフです
+煎じて飲めば脚が速くなる
+ゴーゴースミレが おすすめですよ
+旅の方のために矢も扱っております
+お買い求めなら直接商品を選んでくださいね
+あ！それとも私に御用でしょうか？","This is our general store, the Coral Reef!
+Here we have swift violets that will help
+you run faster if you cook and eat 'em.
+We also carry arrows for travelers.
+If you see something you like,
+just go grab it from the table.
+Oh! Unless you have some other
+business with me?"
+48,talk02,はいっ まいど！,"Oh, hello!"
+49,talk03,夜分お疲れ様です！,Good evening!
+50,talk04,私に御用でしょうか？,Did you need me for something?
+51,talk05,"ぼちぼちですね～
+
+…と言いたいところですが
+最近はイマイチですね
+ウチらの商売は旅の方相手なのですが
+最近はその旅行者が減りましたから…","Not bad!
+
+
+Or...I'd like to say that, but it actually
+hasn't been that great lately.
+
+Our goods are mostly for travelers...
+but we haven't been getting too many
+of those around here lately."
+52,talk06,最近はイマイチですね～…,Things haven't been so great lately...
+53,talk07,またよろしくお願いします！,Come back soon!
+54,talk08,まいど！夜分の外出は お気を付けください！,"Thanks! Be careful if you go out
+after dark!"
+55,talk09,"ぼちぼちですよ～
+
+最近は晴れ間も見えて来たからか
+旅行客も少しずつ増えてきました","Not bad!
+
+
+With this break in the bad weather,
+it looks like we're finally getting
+more tourists around here."
+56,talk10,"はぁ…このままだと防具屋さんのように
+閉店しないといけないかも…","*sigh* At this rate, we may have to close
+our doors like the armor shop did..."
+57,talk11,他に御用は？,Need anything else?
+58,talk12,"このままいけば防具屋さんのように
+閉店しなくてもよさそうです","At this rate, it looks like we won't have to
+close our doors like the armor shop did!"
+59,talk13,ええ なんとかやらせてもらってます,"Yes, I'm getting along just fine...
+somehow."
+60,talk14,"新鮮なお魚ならお任せ！の よろず屋
+コーラル・リーフです
+あと矢も扱ってると言いましたが
+電気の矢だけは売れないんですよ
+我々ゾーラ族は水に生きる部族
+電気には弱くて…","This is our general store, the Coral Reef.
+If you are in the market for fresh fish,
+you have come to the right place!
+I have already told you that we carry
+arrows, but you should know the only
+ones we can't sell are shock arrows.
+We Zora are a water-dwelling people,
+so we're weak to electricity..."
+61,talk15,"買占められちゃいましたか
+また仕入れときますね！","You just went and bought all of them,
+did you? I'll be sure to stock up soon!"
+62,talk16,"ご購入 ありがとうございました！
+無くなっちゃったので また仕入れときます！","Thank you for that spending spree!
+You cleaned us out, so I'll restock."
+63,talk17,"お買い上げ ありがとうございます！
+在庫切れちゃったんでまた入荷しときますね","Thank you very much! I see we
+ran out of some items. I'm working
+on replenishing our stock here!"
+64,talk18,"お買い上げ ありがとうございました！
+また入荷したら よろしくお願いします！","Thank you for buying so much!
+Be sure to come back soon when
+we've restocked!"

@@ -1,0 +1,489 @@
+#,Title,JPja,USen
+1,Animal_Bear_A_Name,ハチクイグマ,Honeyvore Bear
+2,Animal_Bear_A_PictureBook,"ベテランの狩人さえも手出しを避ける動物の王者
+うっかり縄張りに入ってしまうと
+武器を持った人間でも関係なく襲われる
+その名の通り好物はハチミツ
+危険度は高いが うまく注意を逸らせて近づければ
+背中に乗ることができるかもしれない","This king among animals is dangerous game
+for even the most seasoned hunters. They'll
+attack anyone who wanders into their territory
+regardless of the wanderer's weaponry. As
+their name implies, they have a natural love
+of honey. Extreme caution is advised when
+you spot one, but if you're sneaky enough
+and maybe just a little bit crazy...
+you just may be able to ride one."
+3,Animal_Bear_B_Name,コウテイヒグマ,Grizzlemaw Bear
+4,Animal_Bear_B_PictureBook,"灰色の体毛を持つハチクイグマの仲間
+より凶暴な性格と強靭な体躯を持つため
+野生動物の中で最も危険な存在と言える
+人里から離れた雪深い地域に住むため
+遭遇する機会は少ないといわれているが
+見かけた場合は うかつに手を出さない方が良い","This breed of honeyvore bear is distinguished
+by its gray fur. Even more ferocious than their
+relatives, they're commonly believed to be
+the most dangerous wild animal. They live
+in deep snow away from villages, so it's
+uncommon to encounter one. That said, if
+you do find one, you'd be better off not
+picking a fight with it."
+5,Animal_Boar_A_Name,モリイノシシ,Woodland Boar
+6,Animal_Boar_A_PictureBook,"ハイラル全土に生息する中型のケモノ
+森や草原で餌を探してる姿が よく見かけられる
+基本的に性格は大人しいが近づき過ぎると 
+猛スピードで突進してくることもあるので注意","These medium-sized beasts can be found all
+throughout Hyrule. You can most often find
+them foraging for food in forests or meadows.
+Although usually docile, they won't hesitate
+to charge you full force if you get too close."
+7,Animal_Boar_B_Name,キバアカイノシシ,Red-Tusked Boar
+8,Animal_Boar_B_PictureBook,"黒い体毛と赤い牙が特徴のイノシシ
+生態は普通のイノシシと似ているが
+生命力が高く突進の威力も高いため
+狩るときには より危険を伴う覚悟が必要である","These boars are known for their red tusks and
+black fur. They're similar to your average
+boars but are considerably stronger. Extra
+caution is advised when hunting these."
+9,Animal_Bull_A_Name,シツゲンスイギュウ,Water Buffalo
+10,Animal_Bull_A_PictureBook,"大きくたくましい角を持った野生のウシ
+水辺を好み その周囲の草を食べて生活する
+村で飼われている家畜のハテノウシは
+このシツゲンスイギュウを品種改良したもの
+質のよい肉が取れるため狩りの対象となりやすい","These wild cows come equipped with big,
+strong horns. They live off grass that grows
+near the waterfront. Their meat is considered
+to be high quality, so they're a common target
+among hunters. Fun fact: the domesticated
+Hateno cow, often raised in villages, was bred
+through selective breeding using these."
+11,Animal_Cassowary_A_Name,オルディンダチョウ,Eldin Ostrich
+12,Animal_Cassowary_A_PictureBook,"オルディン地方の火山地帯に生息する大型の鳥
+火山という過酷な環境に適応する形で進化し
+羽毛や皮膚が高い耐火性能を持っている
+翼は小さく飛ぶことができない鳥だが
+脚がとても発達しており走るのが速い","This large bird makes its home in the volcanic
+region of Eldin. Their heat-resistant feathers
+and skin are evolutionary traits produced by
+the harsh environment. Their wings are too
+small to facilitate flight, but their long legs
+make them pretty speedy runners."
+13,Animal_Cow_A_Name,ハテノウシ,Hateno Cow
+14,Animal_Cow_A_PictureBook,"ミルクを取るために家畜として飼われているウシ
+ハテノ村が原産と言われている
+シツゲンスイギュウに比べて角も小さく
+性格も穏やかで飼育しやすい
+角に色鮮やかな飾りを付けて放牧される","Originating in Hateno Village, these cows are
+kept as livestock primarily for their milk. Their
+horns are smaller than a water buffalo's, and
+they're much more docile and therefore
+easier to raise. Their horns are decorated
+with bright colors when taken out to pasture."
+15,Animal_Crow_A_Name,ヤマガラス,Mountain Crow
+16,Animal_Crow_A_PictureBook,"とても賢い鳥鳴き声が特徴的
+山岳部だけでなく森や人里にも生息しており
+人間の隙を見て農作物を荒らす事もある
+その真っ黒な羽毛の印象からも
+不吉な物として毛嫌いされる事が多い","This bird is known for its cleverness and for
+its distinct claws. They make their homes in
+mountains, forests, and villages alike. Not
+only are their jet-black feathers seen as an
+ill omen, but they'll steal the crops right out
+of a farmer's hands if given the chance.
+Because of this, they're often met with enmity."
+17,Animal_Deer_A_Name,ヤマシカ,Mountain Buck
+18,Animal_Deer_A_PictureBook,"森の奥で見かけることが多い雄のシカ
+枝分かれした大きな角を持つのが特徴
+身の危険を感じると この角を振るう事もある
+用心深い性格のため近づく事は難しいが
+うまく捕まえる事ができれば 
+乗りこなせるかもしれない","These male deer are usually found deep in
+the forest. They're well known for their huge,
+branching antlers, which they'll swing in self-
+defense if threatened. Deer are cautious by
+nature so it can be tricky getting close, but
+if you can capture one, you may be able to
+take it for a ride."
+19,Animal_Doe_A_Name,ヤマシカ（雌）,Mountain Doe
+20,Animal_Doe_A_PictureBook,"雄と一緒にいることが多い雌ジカ
+雌は角を持たず体格もやや小さい
+警戒心がとても強い動物だが
+好物であるリンゴなどの果実を
+食べている時は その警戒が弱まるため 
+狩りや捕獲のチャンスとなる","These female deer are often found alongside
+a male. They're very timid animals by nature,
+but they tend to let their guard down when
+eating apples, a favorite food. This tidbit
+of information can be useful to hunters."
+21,Animal_Dog_A_Name,ハイリア犬,Hylian Retriever
+22,Animal_Dog_A_PictureBook,"人間に従順な性格を持つ賢い動物
+昔から ペットとして飼われるだけではなく
+訓練されて放牧されているヒツジやヤギの
+見張りや誘導役をこなす事もある
+現在のハイリア犬は全て太古のハイラル王家で
+飼われていた犬の子孫と言われている","The native breed of this mammal varies by
+region, but one thing remains true: this
+animal has been known as \""man's best friend\""
+since ancient times. They're very clever and
+obedient, so aside from serving as pets, they
+are also put to work watching over grazing
+livestock. It's said that all Hylian retrievers
+are descendants of the dog once owned by
+the king of Hyrule."
+23,Animal_Elk_A_Name,タバンタヘラジカ,Tabantha Moose
+24,Animal_Elk_A_PictureBook,"タバンタ地方が原産のシカ
+ハイラルに住むシカの中で最も大きい種で
+平たく巨大な枝角が特徴的
+実はこの角は毎年生え変わる
+取れる肉は柔らかく上質であり
+煮込み料理の材料などに人気がある","The largest breed of deer in Hyrule, this
+mammal's origin was traced back to the
+Tabantha region. It's easily distinguished
+by its immense antlers, which these moose
+shed and regrow yearly. Their meat is
+tender and high quality, so it works well
+in a stew."
+25,Animal_Fox_A_Name,ヘイゲンギツネ,Grassland Fox
+26,Animal_Fox_A_PictureBook,"草原や森の中でよく見かけられるキツネ
+先端の白い フサフサした尻尾が特徴
+群れは作らずに単独で行動している事が多い
+雑食性で普段は果実や虫を食べているが
+自分より小さな動物や鳥を捕えることもある","This breed of fox is common to grasslands
+and forests and is hallmarked by its fluffy,
+white-tipped tail. Unlike other foxes, they
+tend to act independently rather than form
+packs. Being omnivores, they hunt animals
+smaller than themselves and often stick to
+eating fruit and insects."
+27,Animal_Fox_B_Name,ユキイロギツネ,Snowcoat Fox
+28,Animal_Fox_B_PictureBook,"タバンタなどの寒冷地に生息する
+ヘイゲンギツネの仲間
+雪山に適応する形で体毛の色が白く変化している
+雪の中では保護色となるため 
+雪原にいるユキイロギツネを見つけるためには
+高い観察力が必要となる","This particular breed of grassland fox
+makes its home in cold climates such
+as the Tabantha region. Its fur turned
+white as a means of adapting to snowy
+weather, serving as a natural camouflage.
+Because of this, spotting one in the snow
+takes a keen eye."
+29,Animal_Goat_A_Name,シロヤギ,White Goat
+30,Animal_Goat_A_PictureBook,"ミルクを取るために人に飼われているヤギ
+新鮮なミルクは バターにも加工される
+柔らかな毛も衣類に使われるため重宝される
+放牧する際に居場所が分かるように
+首にはベルが付けられている","These goats are raised for their multiple uses.
+Their milk can be drank or made into butter,
+and their soft fur is used to make clothes.
+Domesticated goats wear bells around their
+necks so they can be easily found after being
+let out to graze."
+31,Animal_Gull_A_Name,ウミカモメ,Seagull
+32,Animal_Gull_A_PictureBook,"海の近くに生息する鳥
+主に魚類を食べて生活するため
+魚の群れが泳いでいる海上に 
+ウミカモメが飛んでいる事がよくある
+海の漁師は魚群の場所を探す時に
+この習性を利用している","These birds live near the ocean. They eat
+mainly fish, so a flock of seagulls hovering
+over water is a good indication of where
+there are fish. Fishermen use this to their
+advantage when searching for a catch
+of their own."
+33,Animal_Hawk_A_Name,シマオタカ,Islander Hawk
+34,Animal_Hawk_A_PictureBook,"平原や高地に生息する肉食の鳥
+鋭い爪とクチバシを持ち
+他の鳥や小動物を捕えて食糧としている
+いつも高い所を悠然と飛んでおり
+地上の獲物を探している","These carnivorous birds live in plains or
+highlands. They use their sharp talons
+and beaks to catch and eat small animals
+and other birds. They soar calmly through
+the sky and search for prey from above."
+35,Animal_Heron_A_Name,アオバサギ,Blue-Winged Heron
+36,Animal_Heron_A_PictureBook,"ハイラル各地の水辺でよく見かけられる鳥
+細い足と長い首が特徴的
+水中の魚やカエルなどを食べて生活する
+獲物が近づくまで じっと動かずに待ち伏せをし
+首を伸ばして捕食する事もある","These birds live on waterfronts all throughout
+Hyrule. Their characteristically thin legs and
+long necks help them catch water-dwelling
+fish or frogs for food. They lie perfectly still
+in wait for their prey and then stretch out
+their long necks to capture their meal."
+37,Animal_Heron_B_Name,モモイロサギ,Pink Heron
+38,Animal_Heron_B_PictureBook,"羽の先端と頭部が美しい桃色をした鳥
+水辺に住むアオバサギと異なり
+草原や乾燥地帯に生息している
+岩陰や草むらの昆虫を ついばんで食べる
+細い脚で歩きながら餌を探す事が多いが
+危険を感じると飛んで逃げてしまう","This breed of heron is characterized by the
+pink tips of its feathers. Unlike its waterfront-
+dwelling relative the blue-winged heron, these
+live in grasslands or arid regions and subsist
+on insects that live in the grass. They can
+often be found walking about searching for
+food but will fly away if they sense danger."
+39,Animal_Kokko_A_Name,コッコ,Cucco
+40,Animal_Kokko_A_PictureBook,"村でタマゴを取る目的で飼われている鳥
+一部ではペットとしても親しまれている
+普段は飛ぶことはないが人に持ち上げられると
+驚いて激しく羽ばたきを続ける習性がある
+基本的には大人しく臆病な性格だが
+あまりしつこく突っつくと…","Villages often raise these birds for their eggs,
+but some people actually keep them as pets.
+They can't fly but can flap their wings mighty
+furiously if picked up. They're usually calm
+creatures, but if you're persistent in your
+torment of them... Well..."
+41,Animal_LittleBird_A_Name,タダスズメ,Common Sparrow
+42,Animal_LittleBird_A_PictureBook,"ハイラルで最も一般的な小鳥
+平原や森が主な生息地だが人里でも見かけられる
+雑食性で木の実や小型の虫など なんでも食べる
+ピョンピョンと飛び跳ねて移動する姿が
+かわいらしい鳥だが あまり人には懐かない","As the name suggests, these birds are rather
+common around Hyrule. They mainly live in
+plains or forests but sometimes venture out
+to villages. Their diet consists of nuts and
+small insects. They look pretty cute when
+they jump around, but they don't have much
+love for people."
+43,Animal_LittleBird_B_Name,ベニイロスズメ,Red Sparrow
+44,Animal_LittleBird_B_PictureBook,"ヘブラ地方に生息する小鳥
+山菜や木の芽などをついばんで食べる
+体毛は鮮やかな紅色をしており 
+その羽は装飾品に用いられる事もある","These small birds live in the Hebra region and
+eat mainly nuts and wild plants. Their bright-
+red feathers are often used as decorations."
+45,Animal_LittleBird_C_Name,アオナミスズメ,Blue Sparrow
+46,Animal_LittleBird_C_PictureBook,"ラネール地方でよく見られる小鳥
+水辺の若葉や水草を好んで食べる
+周りに危険がない時は雨上がりの水たまりや 
+川の浅瀬などで水浴びをするといわれている","This breed of sparrow is most often seen in
+the Lanayru region. They get most of their
+food from leaves and plants that grow near
+water. If it's safe enough, they can be spotted
+bathing in puddles or shallow rivers."
+47,Animal_LittleBird_D_Name,ゴシキスズメ,Rainbow Sparrow
+48,Animal_LittleBird_D_PictureBook,"フィローネ地方で見かけられる小鳥
+その名の通りカラフルな体毛を持ち
+一部の好事家からは鑑賞用として人気がある
+熱帯林に豊富に生息する小型の虫を主食とするが
+雑食性で木の実なども食べる","These small birds hail from the Faron region.
+As the name suggests, their feathers are
+more colorful than other sparrows', which
+has made them a favorite among dilettantes.
+They feed on small rain-forest insects, but
+the omnivore in them loves nuts as well."
+49,Animal_LittleBird_E_Name,スナホリスズメ,Sand Sparrow
+50,Animal_LittleBird_E_PictureBook,"ゲルド地方に生息する小鳥
+乾燥した環境に適応しており
+暑さに強い性質を持っている
+砂漠では外敵に見つからないように
+砂に半ば埋まった形で
+じっとしている姿も見られる","This desert-dwelling breed of sparrow has
+adapted to withstand the heat in the arid
+climate of the Gerudo region. Sometimes
+they can be spotted half-buried in the
+sand, holding perfectly still as a means
+of evading predators."
+51,Animal_LittleBird_F_Name,コガネスズメ,Golden Sparrow
+52,Animal_LittleBird_F_PictureBook,"オルディン地方に生息するスズメの仲間
+火山という厳しい環境に適応しており
+その羽毛は燃えにくい性質を
+持っているといわれている
+岩場に隠れる小さい虫を餌に生活している","This breed of sparrow is native to the Eldin
+region. Their down is resistant to burning,
+an evolutionary trait produced by the harsh
+volcanic environment. They subsist on small
+insects that hide inside rocks."
+53,Animal_Pigeon_A_Name,ナミバト,Wood Pigeon
+54,Animal_Pigeon_A_PictureBook,"ハイラル全土の森や草原に住む鳥
+生息域は広く人里でもよく見受けられる
+警戒心があまり強くなく
+狩りに慣れていない者でも
+比較的簡単に狩る事ができる","These pigeons inhabit vast regions all
+throughout Hyrule, so they can often be
+found in forests, grasslands, or even villages.
+They don't have a very strong sense of
+awareness, so even less-skilled hunters
+can nab them pretty easily."
+55,Animal_Pigeon_B_Name,ニジイロバト,Rainbow Pigeon
+56,Animal_Pigeon_B_PictureBook,"とても鮮やかな羽を持つ ナミバトの仲間
+ハイラルでは主に北部の森林や草原に生息する
+木の実や穀物を好んで食べるが
+昆虫やミミズもついばんで食べる
+肉はナミバトの物より上質と言われている","This breed of pigeon is well known for its vivid
+feathers. They live mainly in the northern
+forests and grasslands of Hyrule. They're most
+fond of nuts and grain but won't pass up the
+occasional insect or earthworm if offered.
+Their meat is of a higher quality than a
+typical wood pigeon's."
+57,Animal_Ptarmigan_A_Name,マシロバト,White Pigeon
+58,Animal_Ptarmigan_A_PictureBook,"ヘブラ地方に住む真っ白な羽を持つハト 
+ナミバトの中でも雪の保護色となる
+羽色を持つ個体が雪山で生き残り 
+マシロバトになったといわれる
+寒さに耐えらえるように脂肪を蓄えており
+極上の鶏肉が取れることもある","This white-feathered breed of pigeon lives in
+the Hebra region. It's said that a wood pigeon
+survived atop a snowy mountain by changing
+its feathers to blend in with the snow and
+soon after became a white pigeon. They
+have an extra layer of fat to guard against
+the cold, so they have been known to yield
+high-quality meat."
+59,Animal_Ptarmigan_B_Name,カエンバト,Hotfeather Pigeon
+60,Animal_Ptarmigan_B_PictureBook,"デスマウンテンの周辺にのみ生息する珍しいハト
+羽毛は強い耐火性能を持つため
+衣類の材料としても重宝される
+一方肉にはその耐火性がないため
+狩った後の肉はすぐに焼き上がってしまう","This rare breed of pigeon lives near Death
+Mountain. Their fireproof feathers are
+valuable as clothing material. Their meat,
+on the other hand, is not fireproof, and
+it'll burn up as soon as it's struck."
+61,Animal_Rhino_A_Name,オオツノサイ,Great-Horned Rhinoceros
+62,Animal_Rhino_A_PictureBook,"身体の半分ほどもある長い角を持った動物
+元々は乾燥した地域に住んでいたサイの仲間が
+生息域を広げて雪山に適応した物といわれている
+皮膚がとても厚く角による反撃も強力なため
+狩りに慣れていない人間が手を出すと危険","This animal's horn is a whopping half the size
+of its body. Although originally members of
+arid-region rhinoceroses, these migrated to
+colder climates and adapted to live in snowy
+mountains. Their hides are particularly thick,
+and their horns can cause some serious
+damage, so only experienced hunters
+should track these."
+63,Animal_RupeeRabbit_A_Name,ルミー,Blupee
+64,Animal_RupeeRabbit_A_PictureBook,"淡く青く光る不思議な生き物
+一見ウサギの仲間のように見えるが
+起源や詳しい生態などは一切不明
+ルピーを好んで集めるという 
+変わった習性を持つことだけが知られている","They may look like mere rabbits at a fleeting
+glance, but these strange and aptly named
+creatures glow with a mysterious blue light.
+While the details of their origins are entirely
+unknown, there is one thing we do know:
+these peculiar little things have a penchant
+for collecting rupees."
+65,Animal_Sheep_A_Name,コウゲンヒツジ,Highland Sheep
+66,Animal_Sheep_A_PictureBook,"元々は山岳地帯に住む動物であったが
+毛を取る目的で村などで飼われるようになった
+モコモコと伸びた毛は人の手で刈り取られて
+衣類や寝具に利用される
+性格は大人しく臆病基本的に群れで行動する","Originally native to the mountainous regions, 
+these sheep were domesticated for their wool
+and have since found a home in villages.
+Once the fluffy wool grows out, it's harvested
+and used to make clothing and bedding. 
+They're calm, timid creatures and move about 
+in small herds."
+67,Animal_Squirrel_A_Name,オタテリス,Bushy-Tailed Squirrel
+68,Animal_Squirrel_A_PictureBook,"大きな尻尾が特徴の小動物
+主に森に住み どんぐりなどの木の実を好む
+頬に餌をしまう事ができる頬袋を持つが
+びっくりすると入れていたどんぐりを
+落としてしまう事もしばしば","These small creatures are known for their
+large tails. They tend to live in forests and
+subsist on acorns and other nuts. They
+carry their food in their mouths but will
+sometimes drop it when surprised in an
+adorable display of shock."
+69,Animal_SunazarashiSP_C_Name,パトリシアちゃん,Patricia
+70,Animal_SunazarashiSP_C_PictureBook,"ルージュが飼っているスナザラシ
+見た目はちょっと怖いが ルージュは溺愛しており
+邸内に専用の砂場も用意されている
+額のリボンも彼女から送られたプレゼント
+他のどのスナザラシよりも練度が高く
+どんな時も臆せずに砂漠を駆け抜ける事ができる
+族長のパートナーとしても頼もしい存在","This is Riju's own sand seal. It may look
+intense, but she dotes on it regularly; the
+ribbon it wears was a gift from her, and it even
+has its own pen in Gerudo Town. It's far more
+agile than any other sand seal and far more
+outgoing. An ever-reliable partner to Riju,
+Patricia is always ready to take off through
+the desert at a moment's notice."
+71,Animal_Sunazarashi_A_Name,スナザラシ,Sand Seal
+72,Animal_Sunazarashi_A_PictureBook,"大きなヒレで砂の中を泳ぐように移動する動物
+元々はゲルド砂漠の野生動物だったが 
+現在はゲルド族によって家畜化されている
+聴覚が発達しているため砂に潜っても
+周囲の音を頼りに迷わず進むことができる
+大きな牙が特徴的だが実は果物が好物","These seals use their large flippers to move
+through the sand as if swimming. They were
+once wild animals but have since been
+domesticated by the Gerudo. They rely on
+their excellent hearing to find their way while
+submerged in the sand. Their large, distinct
+tusks look pretty ferocious, but their favorite
+food is actually fruit."
+73,Animal_WildDuck_A_Name,シラホシガモ,Bright-Chested Duck
+74,Animal_WildDuck_A_PictureBook,"ハイラル全般の水辺に生息する鳥
+足の水かきを使った泳ぎが得意
+川や湖では くちばしで羽づくろいする姿や
+水中の餌を捕まえるために首を水の中に
+突っ込んで逆立ちする仕草が見られる
+狩ると脂の乗った上質な肉が取れる","These birds can be found on waterfronts all
+over Hyrule. Their webbed feet make them
+excellent swimmers, and their long necks
+allow them to duck their heads underwater
+to find food. Their fatty meat is high quality."
+75,Animal_WildGoat_A_Name,セグロヤギ,Mountain Goat
+76,Animal_WildGoat_A_PictureBook,"草原や岩場に生息する草食動物
+岩場に引っかけやすい蹄と強靱な足腰を持つため
+断崖を移動する事もできる
+動きはあまり機敏ではないので
+狩りの初心者にとっては ありがたい獲物
+","These herbivores make their home in
+meadows and rocky areas. Their
+characteristically strong legs and
+hooves facilitate easy climbing over
+rocks. Goats aren't very quick, so
+they make good targets for
+beginning hunters."
+77,Animal_Wolf_A_Name,サンゾクオオカミ,Maraudo Wolf
+78,Animal_Wolf_A_PictureBook,"肉食性で獰猛な動物
+攻撃性が高く人が狙われる事もある
+集団で狩りを行い獲物を囲んで仕留める
+仲間が倒されると一転して逃げ出す慎重さも持つ
+他の個体とのコミュニケーションに遠吠えを
+使うので森で聞こえた場合は注意が必要","These wolves are not only carnivorous but
+can also be downright fierce. They're highly
+aggressive and aren't afraid to attack people.
+They hunt in groups and surround their prey
+as a means of bringing it down. That said, if
+one of their own is injured, the rest are wise
+enough to run away. They communicate via
+howls, so if you're wandering the forest and
+hear their call, you had best take care."
+79,Animal_Wolf_B_Name,カラカラコヨーテ,Wasteland Coyote
+80,Animal_Wolf_B_PictureBook,"ゲルド地方で見られるオオカミの仲間
+暑さや乾燥に強く砂漠にも生息する
+他のケモノや小動物を狩る事が多いが
+人も襲う事もしばしばあり 
+砂漠の旅人にとって危険な存在","This contentious beast is native to the
+Gerudo region. It makes its home in the
+desert, so it doesn't have a problem with hot,
+arid climates. They do hunt other beasts and
+small animals but more often turn their sights
+on people. They're a threat to anyone
+traveling through the desert."
+81,Animal_Wolf_C_Name,セツゲンオオカミ,Cold-Footed Wolf
+82,Animal_Wolf_C_PictureBook,"ヘブラ山脈などの雪山で暮らす
+サンゾクオオカミの仲間群れで行動するなど
+基本的な生態は サンゾクオオカミと同じだが
+厳しい環境に適応した強靱な体力と
+雪原で保護色となる白い体毛を持つため
+遭遇時の危険性がより高い","This breed of maraudo wolf lives in snowy,
+mountainous areas, such as the Hebra
+Mountains. They travel in packs similar to
+their maraudo relatives but are considerably
+tougher thanks to having adapted to their
+harsh environment. They're made even
+more dangerous by their white fur, which
+provides a natural camouflage in the snow."

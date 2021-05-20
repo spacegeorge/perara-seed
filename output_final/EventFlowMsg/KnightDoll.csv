@@ -1,0 +1,236 @@
+#,Title,JPja,USen
+1,"""0000""",場所は？,Where is it?
+2,"""0001""",試練って？,Blessing?
+3,"""0002""",何してるの？,What are you doing?
+4,"""0003""",さよなら,Gotta go.
+5,"""0004""",ぜ… ぜひ…,My lips are sealed.
+6,"""0005""",さよなら,I need to go.
+7,"""0006""",試練って？,Blessing?
+8,"""0007""",なるほど,I see.
+9,"""0008""",さよなら,Bye!
+10,Near_002,なるほど…,I see...
+11,Talk_00,"そっか やっぱりアソコかぁ…
+ずっと砂嵐がふいてるし おかしいと思ってたんだよね…","It was over there the whole time?
+I thought it strange that the sandstorm over there
+never lifted..."
+12,Talk_01,"そ… それは
+これからまた調べるんだけど…
+ただ…関係あるかどうか
+わからないけど
+英雄様達は 1つの大きな力を
+心・技・耐・知・飛・動・柔の 7つに分けて
+それぞれが各々の力を担っていたというわ
+
+でも私が見る限りは
+どれも同じにみえるけどね…","I'm not sure what exactly it means, but
+maybe I'll find out once I've deciphered
+more of the text.
+I'm not sure if this is related, but it's said
+the heroines held powers that were part
+of a bigger whole.
+Each heroine had a different power:
+skill, spirit, endurance, knowledge, flight,
+motion, and gentleness.
+But they all look the same to me."
+13,Talk_02,"完全解読までもう一歩！
+
+なんだけど…
+最近 あの神獣様が良く動くもんだからさ
+なかなか調査が進まなくてね
+
+ほんともう！
+あとちょっとなのに…","I should understand the entire script
+before long, but that's only the
+beginning of my problems.
+That Divine Beast has been moving
+around the area, making it harder for me
+to conduct my research.
+That thing has no respect for academia!"
+14,Talk_03,"え？帰っちゃうの？
+
+てっきり『七人の英雄伝説』の事を
+聞きに来てくれたのかと…
+はぁ…妹も話を聞いてくれないし
+誰かに話したかったのになぁ…","Wait, you're leaving already?
+
+
+Oh. I thought that you came to hear
+the Legend of the Seven Heroines...
+
+My sister won't listen to me, so I was hoping
+someone else would..."
+15,Talk_04,"『我ら七人の御霊正しく導きし者
+勇者の試練への資格を与えん』
+場所もわかってるし
+完全解読まで あと一歩なんだけどなぁ…","\""When the symbols of the seven find
+their place, the blessed path will be
+revealed.\""
+Well, we know the place it's referring to.
+I just need to finish deciphering the full
+text now."
+16,Talk_05,"妹もアナタみたいに
+私の話に もっと興味を持ってくれたらなぁ…
+今は ウルボザ様に夢中で
+全然私の話をきいてくれないのよね…","I wish my sister was more like you. If
+she'd take more interest in my research,
+she might learn something useful.
+Instead she spends her time obsessing
+over Lady Urbosa. She won't even give
+me the time of day."
+17,Talk_07,"ん…何？
+
+ハイリアのヴァーイが こんな場所に
+何か用？","Mmm... Huh?
+
+
+And what is a Hylian vai like yourself
+doing here?"
+18,Talk_08,"私はこう見えて考古学者でね
+この前発見した古文書を調べてたんだけど…
+やっと解読できたのよ！
+
+って言っても全部じゃないけどね
+…でもまぁ全部わかるのも時間の問題だし
+これで私も考古学者として
+名をあげることができるはず！
+そ・う・だ！
+
+ここで会ったのも何かのご縁
+特別に私の研究成果聞かせてあげてもいいわよ
+聞きたい？""聞きたいよね？
+聞いてくれるよね？","I'm an archaeologist...of sorts. I was just
+poring over some ancient text that I
+discovered the other day...
+And I've finally decoded it!
+
+
+Well...part of it, at least.
+...But the rest is not far off.
+
+With this discovery, I'll finally be able to
+make a name for myself as an
+archaeologist!
+OF COURSE!
+
+
+You and I meeting here is no
+coincidence. I've never been one to
+question fate.
+I can't explain why...but I trust you for
+some reason. I'll tell you the details of
+my research if you can keep a secret."
+19,Talk_09,"この街からでて東の方にある
+ゲルド砂漠の入口付近には神殿があってね
+そこには ゲルドの守り神とされてきた
+七人の英雄様の巨像が祀られているの
+この古文書も その神殿で発見したんだけど
+
+『我ら七人の御霊正しく導きし者
+勇者の試練への資格を与えん』
+…って言葉が記されていてね
+
+勇者の力を求めるべく
+世界中の人々が神殿に集ったとされてるの
+古文書を見る限りは まだその試練を
+乗り越えた者は いないようだけどね…","There's a temple east of here near
+the entrance to the Gerudo Desert.
+
+It's dedicated to the seven giant statues
+of the heroines, said to be the divine
+protectors of the Gerudo.
+It was at this temple that I originally
+discovered the ancient scripture.
+It reads:
+\""When the symbols of the seven find
+their place, the blessed path will be
+revealed.\""
+...That's all I've been able to decipher
+so far.
+
+It's believed that people once came from
+around the world in search of the
+heroines' blessing.
+But as far as I can tell, it doesn't appear
+that anyone has found it yet..."
+20,Talk_10,"え～ ウソでしょ…
+
+妹に話しても ポカーンとしてるし
+誰かに聞いてもらいたいのよ
+だから お願い！
+ちょっと聞いてってよ
+あのね この街をでて東の方にある
+ゲルド砂漠の入口付近には神殿があってね
+そこには ゲルドの守り神とされてきた
+七人の英雄様の巨像が祀られているの
+この古文書も その神殿で発見したんだけど
+
+『我ら七人の御霊正しく導きし者
+勇者の試練への資格を与えん』
+…って言葉が記されていてね
+
+勇者の力を求めるべく
+世界中の人々が神殿に集ったとされてるの
+古文書を見る限りは まだその試練を
+乗り越えた者は いないようだけどね…","What? You're joking, right?
+
+
+Look, whenever I talk to my sister about
+this, she spaces out. I need someone to
+talk to, so YOU'RE GOING TO LISTEN!
+Hoo... Sorry about that.
+There's a temple east of here near
+the entrance to the Gerudo Desert.
+It's dedicated to the seven giant statues
+of the heroines, said to be the divine
+protectors of the Gerudo.
+It was at this temple that I originally
+discovered the ancient scripture.
+It reads:
+\""When the symbols of the seven find
+their place, the blessed path will be
+revealed.\""
+...That's all I've been able to decipher
+so far.
+
+It's believed that people once came from
+around the world in search of the
+heroines' blessing.
+But as far as I can tell, no one has found
+it yet."
+21,Talk_11,"完全解読までもう一歩！
+
+あの神獣様も おとなしくなったし
+調査再開しないとね！","Before long, I'll understand the entire
+text!
+
+Fortunately that Divine Beast has
+quieted down, so I can conduct my
+research in peace."
+22,Talk_12,"巨像がある神殿の場所は
+ゲルド砂漠の入口の近くなんだけど
+砂嵐も激しいし
+最近神獣様のご機嫌も良くないから
+近づきにくくなっちゃってね…","The temple with the giant statues is near
+the entrance to Gerudo Desert, but the
+sandstorm presents a problem.
+And that Divine Beast isn't in the most
+welcoming mood. Approaching the
+temple will be difficult."
+23,Talk_13,"巨像がある神殿の場所は
+ゲルド砂漠の入口の近くよ
+ついこないだまでは神獣様のご機嫌が悪くて
+近づきにくかったけど
+今は安全そうだし
+そろそろ調査再開しないとね！
+できれば いつも神殿近くに発生する
+砂嵐もやんでほしいけどね…","The temple with the giant statues is near
+the entrance to Gerudo Desert.
+
+Now that the Divine Beast has calmed
+down, I should be able to explore the
+area.
+Although I still have the sandstorm to
+contend with..."
+24,Talk_14,サヴォッタ,Sav'otta.
+25,Talk_15,サヴァーク,Sav'aaq.
+26,Talk_16,サヴァサーバ,Sav'saaba.

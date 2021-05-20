@@ -1,0 +1,30 @@
+#,Title,JPja,USen
+1,QL_Shadow_Sign_Desc,"『天照す光北西に輝くとき
+塔の影が示す先より天の光めがけ矢を放て
+勇者の試練 その地に目覚める』
+
+ゲルドの塔で カッシーワから聴いた古の詩
+この詩の謎を解き明かした先には
+古代の祠があるはずだ","\""As light shines from the northwest skies,
+From the tower's shadow an arrow flies.
+Pierce heaven's light to reveal the prize.\""
+
+Solving the riddle of the ancient song that
+Kass sang for you at Gerudo Tower is likely
+to reveal a shrine."
+2,QL_Shadow_Sign_Finish,"『天照す光北西に輝くとき
+塔の影が示す先より天の光めがけ矢を放て
+勇者の試練 その地に目覚める』
+
+天の光が北西の位置にあるとき
+ゲルドの塔が指し示す台座の上から
+光に向かって矢を放つと
+古代の祠が出現した！","\""As light shines from the northwest skies,
+From the tower's shadow an arrow flies.
+Pierce heaven's light to reveal the prize.\""
+
+When the light was in the northwest, you saw
+Gerudo Tower cast a shadow upon a pedestal.
+After firing an arrow toward the light from the top
+of that pedestal, a shrine appeared!"
+3,QL_Shadow_Sign_Name,影が示す先に,Sign of the Shadow

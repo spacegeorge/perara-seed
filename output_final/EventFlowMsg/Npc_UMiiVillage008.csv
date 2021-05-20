@@ -1,0 +1,93 @@
+#,Title,JPja,USen
+1,"""0000""",あなたは？,Who are you?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",家族は？,Where's your family?
+4,"""0003""",ペットって？,Your pets?
+5,"""0004""",家内って？,Your wife?
+6,talk01,早うございますな,Good morning.
+7,talk02,暖かくなってきましたな,"It's gotten warm, hasn't it?"
+8,talk03,寒ぅなってきましたな,"It's gotten cold, hasn't it?"
+9,talk04,はいはい…,"Yes, yes..."
+10,talk06,グゥ…グゥ…,*snore*... *snore*...
+11,talk07,ジジィの話し相手に なってくれますか？,"Will you stay for a bit and chat with
+an old man?"
+12,talk08,はい さようなら,"Yes, good-bye."
+13,talk09,"おや これはこれは…
+また お若い方が来られましたな","Oh, what do we have here?
+Looks like we have another young'n in
+town."
+14,talk10,"私はモクセンと申します
+
+子供達も独立し仕事も引退した折
+このイチカラ村の噂を聞いたのです
+それにしても越してきて良かった…
+ペット達も喜んでおるようです
+それではまた お話し相手になってくだされ","I'm called Moggs.
+
+
+My son is grown up and I'm retired, so
+when I heard a rumor about
+Tarrey Town...
+I just had to move here. And I'm glad I
+did! My pets seem much happier
+here, too.
+Anyway, come back and chat with me
+again sometime."
+15,talk11,"そろそろ寝ようとしますかね
+また明日相手してくだされ","I think I'm going to head to bed soon.
+Come back and chat with me again
+tomorrow."
+16,talk12,もう寝ますので…失礼します,I'm heading to bed... Please excuse me.
+17,talk13,"家の裏の犬達です
+私は動物が好きでね
+若い頃は シカやクマの背に乗って
+野山を駆けずり回っとったですよ
+今はさっぱりですがねぇ…","Oh, I'm talking about the animals that
+live behind my house. My wife and I both
+love animals.
+The air feels really clean out here, and
+they seem to love it. I'm glad we moved
+out here."
+18,talk14,"子供達が独立したんで
+今は家内と二人ですがね
+まぁ家内とはよく
+若い頃喧嘩したもんですよ","My wife and I had a son who set out into
+the world to find his own way.
+
+The house feels a little empty without
+him around, but at least it's helped me
+and my wife get closer together."
+19,talk15,"家内は ああ見えて
+料理だけは得意でしてね
+胃袋をつかまれた
+とは よく言ったもんですよ
+お暇なら彼女の話し相手にも
+なってやってくださいな","My wife? She's probably wandering
+around town right now, I'd imagine.
+
+She's a really gifted chef. Her
+mushroom skewer is out of this world!
+
+If you've got some time, you should
+definitely go and talk with her."
+20,talk16,なんでも聞いてくだされよ,Ask me anything.
+21,talk17,"ウチの お向かいさんとこもね
+夜な夜な""夫婦喧嘩されとるようで…
+いっぺん裏から回って""何言っとるのか
+聞いてやろうかと思いますけどね
+まぁ喧嘩するほど仲がいい とは
+よく言ったもんですよ","The people living across from us
+fight night after night...
+
+I sometimes think about sneaking around
+back and listening, but I also don't want
+to be so nosy..."
+22,talk18,"そういえば お向かいさん…
+夫婦喧嘩の声が聞こえんようになりましたな
+ああして二人で困難を乗り越える度
+仲が深まる ってもんですわ","I haven't heard the people across from
+us argue in quite some time...
+
+I believe that every time they tackle an
+obstacle together, their relationship
+grows stronger."

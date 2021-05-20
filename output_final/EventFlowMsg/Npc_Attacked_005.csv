@@ -1,0 +1,154 @@
+#,Title,JPja,USen
+1,"""0000""",知ってる！,I've heard of him.
+2,"""0001""",知らない…,Doesn't ring a bell.
+3,After00,"異常なほどの興味を魔物に注いで
+怪しい研究をしているというマモノ屋キルトン
+一体どんなヤツなのか
+どうしても会ってみたいのだ","Kilton at Fang and Bone is way more
+interested in researching monsters than
+any normal person should be.
+I'd kind of like to meet him just to see
+what kind of weirdo loves monsters
+THAT much."
+4,After01,"アッカレ地方にあるドクロの形をした池…
+その近くに出没するらしい…","The most reliable tip I've heard for
+meeting him is to hang around a skull-
+shaped lake out near Akkala."
+5,After02,"どうやら アッカレ地方だけでなく
+世界中で目撃されるようになったらしい…
+夜になると どこからともなく出没するそうだ
+一体 いつになったら会えるのか…","He's been sighted all over the place now,
+not just Akkala. Should I be worried?The creepiest part of the stories is how
+he's supposed to pop up out of nowhere
+once night falls.
+I'm not as sure as I used to be that I
+actually want to meet him..."
+6,Atacked00,やっつけてやる！,This one's all mine!
+7,Atacked01,どうした かかってこい！,What's the matter? Come and get me!
+8,Failed00,"くそ… あんなやつに…
+私も もっと強くならないと！","Hmph... I would've sworn I could take
+that thing. I must be slipping..."
+9,Failed01,"いたた…
+私としたことが あんなヤツにやられるとは
+もっと修行せねば！","Oww... What hurts worst is my pride for
+letting them get the drop on me.
+Never again!"
+10,Guardian00,ガーディアンだ！早く逃げろ！,It's a Guardian! Time to go!
+11,Near00,ふう…,Phew...
+12,SavedLv1_00,"ちっ…
+助太刀されるまでもなかったんだがな
+しかし まあ礼は言わせてもらうよ
+これを取っておきな","Hmph... I would have been fine on my
+own.You probably expect a reward,
+huh? Unbelievable. Fine. Here."
+13,SavedLv1_01,"ふんっ…余計なことを…
+私は これでも剣士なんだぞ
+だがまあ助かった
+これは礼だ取っておきな","So, what, you saw the sword and shield
+and thought, \""She looks like she needs
+me to save her\""? Whatever..."
+14,SavedLv2_00,"くっ…助けられたようだね
+
+自分でなんとかできたが一応感謝する
+さあ これは礼だ…取っておいてくれ","OK, I admit you helped. I didn't need it,
+so don't expect any thanks, but you can
+have this if you want."
+15,SavedLv2_01,"ふぅ…
+助けられたな…
+ここは素直に礼を言っておくよ
+これを取っておいてくれ","Well, you sure made that simpler than it
+would've been otherwise. I should do
+something to thank you, I suppose."
+16,SavedLv3_00,"す… すまない
+今の敵は さすがに手ごわかった
+おかげで助かったよ
+こんなものしかないが取っておいてくれ","Thanks... I might've bitten off more than
+I could chew with that one.I don't have much, but take it. It's yours."
+17,SavedLv3_01,"なるほど強いんだな…
+その風貌を見ればわかる
+こんなものしか渡せなくて すまないが
+取っておいてくれ","I see you can handle yourself in a fight.
+So can I...most of the time. I wish I had more to give you than this,
+but times are tough all over, right?"
+18,Talk00,"なんだ これ？
+って顔をしてるね","So you're probably wondering what that
+stuff is."
+19,Talk00_1,"マモノエキスを持っているようだが
+あんたもマモノ屋キルトンを探しているのか？","I see you've got some monster extract.
+Do you know where to find Kilton and his
+Fang and Bone, then?"
+20,Talk01,"そいつは マモノエキス
+マモノ屋キルトンってヤツが作った薬だ 
+それを料理に混ぜると ぐっとうまみが増すんだ
+間違いなく いい品だから安心しな","It's called monster extract. A guy
+named Kilton brews this stuff up at
+Fang and Bone.
+It's a kind of flavoring that makes any
+food taste amazing. I know it's made of
+monsters, but it's good stuff."
+21,Talk01_01,"なんでも そのキルトンってヤツは…
+
+異常なまでに魔物に興味を持っていて
+怪しい研究をしてるらしい
+そのマモノエキスの他にも
+珍しいものを作っているという噂もある
+一体どんなヤツなのか どうしても会いたくて
+ほうぼう探しているんだが…
+これが なかなか見つからない","There are some weird stories going
+around about that Kilton character.
+He's obsessed with monsters.
+They say he does all kinds of hair-raising
+research with them and came up with
+a bunch of strange stuff as a result.
+I kind of want to meet him at least once
+to see if the rumors are true, but he's
+a hard guy to track down."
+22,Talk02,"あんたも いろいろ旅してるって感じだけど
+マモノ屋キルトンって知ってるか？","You seem to get around. You know much
+about this Kilton and his Fang and Bone?"
+23,Talk03,"知ってるって顔してないよ…
+まあいい教えてあげる","Huh! And here I thought he was more
+obscure than that. Well, I'll tell you what
+little I know. Take this for helping me."
+24,Talk04,"そうか…
+なら あんたも探すのを手伝ってくれ","Are you interested in finding out more?
+I could use some help with the hunt.
+Take this, too, for helping me."
+25,Talk05,"アッカレ地方のドクロの形をした池…
+というところまでは突き止めたんだが
+そこが どこにあるのか…","One source I trust says he's most often
+found at a skull-shaped lake in Akkala,
+but I don't know the place."
+26,Talk06,"夜になると世界中いろいろな場所に
+どこからともなく出没するそうだ
+絶対に見つけて出してやる！","Apparently, he shows up after dark
+where you least expect him. It could
+be anywhere in the world.
+But mark my words...I'll find him
+someday!"
+27,Talk07,"何っ？！
+会ったことがあるだと！
+私は そいつをずっと探しているんだ！
+
+異常なまでに魔物に興味を持っていて
+怪しい研究をしてるという キルトン
+一体どんなヤツなのか どうしても会いたくて
+ほうぼう探しているんだが…
+これが なかなか見つからない","You've MET him?! Lucky you! I've been
+hunting for him forever! Is he as
+obsessed with monsters as I've heard?
+They say he does all kinds of hair-raising
+research with them and came up with
+a bunch of strange stuff as a result.
+I'd love to meet him at least once to see
+if the rumors are true, but he's a hard
+guy to track down."
+28,Talk08,"また助けてもらうことになるとはね…
+
+おまけに あれからずっと探しているというのに
+マモノ屋キルトンは いっこうに見つからない…","I'm so embarrassed you had to rescue
+me AGAIN. Ugh. Anyway...
+
+I haven't given up the search for that
+Kilton guy and his Fang and Bone, but I
+haven't gotten anywhere yet either."

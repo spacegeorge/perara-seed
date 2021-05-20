@@ -1,0 +1,289 @@
+#,Title,JPja,USen
+1,"""0000""",怪しい者では…,I'm just hanging out...
+2,"""0001""",さようなら,Good-bye.
+3,"""0004""",エノキダに…,Hudson?
+4,"""0005""",旅の途中で…,I'm a traveler.
+5,"""0006""",フラフラと…,I'm just wandering.
+6,"""0007""",妹って？,Your sister?
+7,"""0008""",あなたは？,Who are you?
+8,"""0009""",ここって？,What is this place?
+9,"""0010""",いいですよ,Sure.
+10,near00,う～ん…,Hmm...
+11,talk00,何だ貴様？,What do YOU want?
+12,talk01,どーだか…,We'll see about that...
+13,talk02,フン…,Hmph.
+14,talk03,"ん…貴様その… なんだ
+ヨロイソウを持っているな
+その…なんだ…そのヨロイソウ
+1つ分けてくれないか…","Hmmm... What's that? What do you have
+there? That's armoranth, isn't it?!
+
+Could you...um...maybe give me some?"
+15,talk04,"ボクの好きな花を持ち歩いているとは…
+貴様とは気が合いそうだ","For you to be walking around with my
+favorite plant... It seems you and I
+may just get along after all."
+16,talk05,ありがとう…,Thank you!
+17,talk06,"それにしても…
+
+「何も無い」で有名なアッカレ地方へ
+何しに来た","That said...
+
+
+Akkala is famous for... Well, nothing.
+So I have to ask... What could you
+possibly have come here for?"
+18,talk07,"そうか旅か…
+
+なら頼みがある
+
+妹のツヤが大の虫好きでな
+
+とある虫の実物を見たいそうなんだが
+ボクには絶対に教えてくれないのだ
+身内には言えない事情が あるのだろう…
+
+なので
+彼女から その虫を聞きだしてくれないか？
+まぁ その…誕生日プレゼント
+というやつだ","I see... A traveler, eh?
+
+
+In that case, I have a request for you.
+
+
+My little sister, Gleema, is a huge fan
+of insects. I know, I don't get it either.
+
+But apparently there's a certain insect
+she's dying to see in real life. She won't
+tell me about it, though.
+I suppose there are some things you
+just can't talk about with those you're
+closest to.
+Anyway, would you mind talking to her
+and trying to figure out which silly
+insect she's so crazy about?
+It's for her birthday... Think of it as a
+special birthday favor. Ooh, or even
+a birthday quest. Look, just do it, OK?"
+19,talk08,"ジュン…
+ここの次女担当は花畑だ
+姉のカイファなら裏で家畜の世話をしている","I'm Jana, the second eldest.
+I'm in charge of the flower patch.
+
+My big sister, Kaifa, is in the back taking
+care of the livestock."
+20,talk09,"エノキダ？ああ…
+
+その大工なら ここに立ち寄ったぞ
+
+「一から村を作る」とか言ってたな…
+確かアッカレ湖の方へ向かったはずだ","Hudson? Oh...
+
+
+That carpenter did stop by here,
+as it were.
+
+He said something like, \""I'm gonna
+build a village from the ground up.\""
+I think he went off toward Lake Akkala."
+21,talk11,"アッカレ湖なら ここから東だ
+気になるなら向かってみるといい","Lake Akkala is to the east of here.
+If you're curious, you should head
+over there."
+22,talk13,貴様か…,So. It's YOU.
+23,talk14,早いなもう目覚めたのか？,"It's so early, but you're already up?"
+24,talk15,やぁ おはよう,Hey. Mornin'.
+25,talk16,やぁ日が高くなってきたな,"Hey. The sun's pretty high in the sky,
+don't you think?"
+26,talk17,やぁ生憎の天気だな,Hey. Unfortunate weather we're having.
+27,talk18,やぁ,Hey.
+28,talk19,涼しくなってきたな,"It sure has cooled off, hasn't it?"
+29,talk20,やぁ宿が無いなら ウチで泊まっていけ,"Hey. If you're looking for a place
+to crash, you can stay here."
+30,talk21,ボクに用か？,Need me for something?
+31,talk22,"エノキダという大工なら
+
+「一から村を作る」とか言って
+アッカレ湖の方へ向かったぞ","If you're looking for Hudson
+the carpenter...
+
+He said something about building a
+village from the ground up. Then he
+headed off toward Lake Akkala."
+32,talk23,"ミナッカレ馬宿だ
+
+東の牧場の先から
+アッカレ湖とアッカレ海が一望できるぞ
+名物といえばそれくらい…かな","This is the South Akkala Stable.
+
+
+From just past the farm to the east,
+you can take in a sweeping view of 
+Lake Akkala and the Akkala Sea.
+That's about it as far as local
+attractions go..."
+33,talk24,そういえば…,"Ah, that reminds me..."
+34,talk25,"妹のツヤなら
+今日もその辺で虫を探しているだろう","My little sister, Gleema, is looking
+for insects around here today."
+35,talk26,"妹のツヤは…""今は寝ているかな","My little sister, Gleema, is probably
+asleep right now."
+36,talk27,"しかし一体 ツヤは
+どんな虫を見たがっているのか…","But I wonder what kind of insect
+Gleema wants to see..."
+37,talk28,"なんで ボクには教えてくれないのか…
+
+頼む代わりに聞いてくれないか？","I wonder why she won't tell me
+about it...
+
+Please... Can you ask her for me?"
+38,talk29,起きたら聞き出してくれないか？,"When she wakes up, will you ask her?"
+39,talk30,"ツヤは…
+
+な…なんと
+よりによってトンボを見たがってるのか？！
+しかもポカポカヤンマ""ヒンヤリヤンマ
+ビリビリヤンマの3種類も…
+グ グゥ…トンボか…
+あの目を思い出しただけでも おぞましい…","Gleema...
+
+
+She... She...wants to see dragonflies,
+of all things?!
+
+And to make it worse, three different
+kinds?! A warm darner, a cold darner,
+and an electric darner...
+Eek... It had to be dragonflies, didn't it?
+Just thinking about those nasty eyes...
+Blargh! So gross!"
+40,talk31,"ポカポカヤンマ""ヒンヤリヤンマ
+ビリビリヤンマを ボクの所まで持って来てくれ
+ツヤを驚かせたいので
+この事は彼女には秘密だぞ","Bring me a warm darner, cold darner,
+and electric darner, please.
+
+I want to surprise Gleema, so don't tell
+her about this!"
+41,talk32,"それはそうと…
+
+ポカポカヤンマ""ヒンヤリヤンマ
+ビリビリヤンマを持ってるんじゃないか？","But enough about that...
+
+
+Have you secured a warm darner,
+cold darner, and electric darner?"
+42,talk32_2,"…ゴクン
+
+よし…なら そいつらを
+ボクにくれないか？","*gulp*
+
+
+Right... In that case, may I have them?"
+43,talk32_3,"…
+
+……
+
+…ううっ","...
+
+
+...
+
+
+Ewww..."
+44,talk32_4,"やっぱりダメだ！
+直接 妹に…ツヤに渡してくれ！","BAH! I CAN'T DO THIS! Please give
+them to her...just...give them to
+Gleema yourself!"
+45,talk33,"花をいじってる関係上
+妹と同じく虫には抵抗が無いつもりだ
+…ただ1つの虫を除いてな","So long as they don't tamper with my
+flowers, I have no problem with insects.
+
+Well...except for one type of insect."
+46,talk34,"あっ…！
+
+ボ…ボクの事はいいから
+そのトンボを早くツヤに渡してやってくれ！","AHHH!!
+
+
+Don't w-worry about me. Just hurry up
+and get those dragonflies to Gleema!"
+47,talk35,…なんとか落ち着いた,I've managed to calm down. Somehow.
+48,talk36,"さて…トンボを取って来てくれた
+お礼をしなくちゃな
+受け取ってくれ","Now then... I must thank you for
+catching those dragonflies.
+
+Here, take this."
+49,talk37,"ボクは…だいたいの虫は大丈夫なんだが
+トンボだけはダメなんだ
+あの目で見つめられてると思うと…な","I'm fine with most insects. The only ones
+I simply can't stand are dragonflies.
+
+When I think about them looking at me
+with those evil eyes... *shudder*"
+50,talk38,"なるほど ボクがトンボ嫌いだから
+ツヤは気を遣って言わなかったのか…
+しかし誕生日プレゼントなのだ…
+仕方ない","I see. So Gleema knows that I despise
+dragonflies, and that's why she wouldn't
+tell me how much she loves them...
+Well, this is her birthday wish...
+I didn't have a choice."
+51,talk39,"それはそうとトンボはどうした…
+逃げたのか？
+まぁ無理にとは言わない
+
+どこかでポカポカヤンマ""ヒンヤリヤンマ
+ビリビリヤンマを手に入れたら
+妹に直接渡してやって欲しい","Enough about that. What about those
+dragonflies? Did they get away?
+
+Well, I can't force you to help me.
+
+
+But when you get your hands on a
+warm darner, a cold darner,
+and an electric darner...
+I'd appreciate it if you could give them
+directly to my sister."
+52,talk40,"ボ…ボクの所へは
+持って来なくていいからな！","You don't need to bring them here
+to me. Got it?!"
+53,talk41,"ハァ…""散々だった…
+気持ちを切り替えよう…","*sigh* That was rough.
+OK... I need to take a deep breath."
+54,talk42,さて本来の仕事に戻ろう,"Now then, time to get back to work."
+55,talk43,ボクに聞きたい事があるんだろう？,"You want to ask me something,
+don't you?"
+56,talk44,気を付けてな,Take care.
+57,talk45,他には？,Anything else?
+58,talk46,他に聞きたい事は？,Anything else you want to ask me?
+59,talk47,"…おや？そのトンボだが
+貴様 もう全部持ってるんじゃないか？","Hey...
+
+
+You already found them all, didn't you?"
+60,talk48,そうか残念だ…,Oh. Too bad.
+61,talk49,"今は考え事をしてるんだ…
+邪魔しないでくれないか？","I'm thinking about something right now...
+Can you please not bother me?"
+62,talk50,またな,See ya.
+63,talk51,ツヤから聞き出せたか？,Gleema...
+64,talk52,"な…なんと
+よりによってトンボを見たがってるのか？！
+しかもポカポカヤンマ""ヒンヤリヤンマ
+ビリビリヤンマの3種類も…
+グ グゥ…トンボか…
+あの目を思い出しただけでも おぞましい…","No... No way! Of all things, she wants to
+see a gross dragonfly?!
+
+A warm darner, a cold darner,
+AND an electric darner?
+Three different types?!
+Ugggh... Anything but dragonflies...
+Just thinking about their eyes makes
+me feel sick."

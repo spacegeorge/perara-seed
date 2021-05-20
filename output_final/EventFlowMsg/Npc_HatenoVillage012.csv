@@ -1,0 +1,175 @@
+#,Title,JPja,USen
+1,"""0000""",何も無い？,Nothing of interest?
+2,"""0001""",さようなら,Bye.
+3,"""0002""",ラネール山って？,Mount Lanayru?
+4,"""0004""",すいません,Sorry.
+5,"""0005""",何してるの？,What are you doing?
+6,"""0006""",知恵の泉って？,Spring of Wisdom?
+7,"""0007""",お願いします,"Yes, please."
+8,near00,休むか…,Time for a breather...
+9,near02,ふぅ～～～,Phew...
+10,near03,仕事仕事…,Gotta get workin'...
+11,near04,しょっ… と,Hup! There we go.
+12,near05,ぐ～… ぐ～…,Zzzrrnnngh...
+13,near06,ラネール山の～♪,♪At Mount Lanayru...♪
+14,near07,知恵の～泉の～♪,♪Spring of Wisdom...♪
+15,near08,神の使いの～♪,♪Goddess attendants...♪
+16,talk00,"あぁ旅の人かい？
+
+何も無い村だけど ゆっくりしてけよ","Hey! Traveler, right? I could tell.
+
+
+Well, there's not a whole lot to see
+in this village, but knock yourself out."
+17,talk01,"あ…何も無いは言い過ぎたか…
+
+他の町には無い染物屋はあるし","Well... \""Nothing\"" might be going a little
+bit overboard...
+
+We do have a dye shop. I don't think 
+they have one of those in other towns."
+18,talk02,"その青い炎…プルア婆さんのじゃないか？
+
+婆さんの家は こっちじゃない
+村の一番東だ","Say, isn't that blue flame... 
+Isn't that Grandma Purah's?
+
+Her house isn't near here. It's way on
+the eastern edge of the village."
+19,talk03,じゃあな,"Well, see ya."
+20,talk04,"ラネール山といえば…
+
+ハイラル城のお姫様が禊に使っていたという
+「知恵の泉」が山のどこかにあるらしい
+お姫様自ら わざわざ出向くほどの泉だ
+きっと王家が残したお宝が眠ってるはず！ 
+…と俺なんかは思ってしまうわけだ
+
+ただしラネール山は氷に包まれた秘境だ
+お宝まで辿り着ける者は少ないだろうな","Yeah, Mount Lanayru's interesting...
+
+
+The Spring of Wisdom the princess of 
+Hyrule used for purification is said to
+be somewhere on that mountain.
+A special fountain? That the princess
+had to endure hardship to visit? I bet 
+the royal family left a treasure there!
+...Well, at least maybe they could've.
+I would've if I was royal.
+
+Anyway, Mount Lanayru is a mysterious
+place, and it's engulfed in ice.
+If there IS treasure, no one's getting it."
+21,talk05,"その青い炎…
+研究所の所長さんのじゃないか？
+所長さんの家は こっちじゃない
+村の一番東だ","That blue flame... It belongs to the 
+director at the research center, right?
+
+The research center isn't near here.
+It's way on the east side of the village."
+22,talk06,北には名峰ラネール山も あるしな,"We also have Mount Lanayru way up to
+the north. See it?
+"
+23,talk07,"ま…時間があるなら
+いろいろ見てけばいいよ","Well...if you have some time to kill,
+feel free to have a look around up there."
+24,talk08,ふぁぁ…あむ…,*yawn* Hm...
+25,talk09,ん？,Hm?
+26,talk10,やぁ早いね,"Hey, you're out early."
+27,talk11,やぁ こんにちは,"Hey, how are you?"
+28,talk12,やぁ こんばんは,Good evenin' there.
+29,talk13,俺に用か？,You need something?
+30,talk14,"ハテノ村から見える名峰といえば
+誰に聞いても答えはひとつ…ラネール山だ","Ask anyone what the most famous
+mountain visible from Hateno Village is,
+and they'll tell you Mount Lanayru."
+31,talk15,"ま…そんなこと知って
+どうしようって話だけどな","So, yeah... Not sure if any of that
+information was actually useful..."
+32,talk17,"…ん？旅の人かい？
+
+ようこそ！と言いたいところだが
+こんな時間に上がり込むのは いただけないな","Oh, hey! Traveler, right?
+
+
+Welcome! Or that's what I WOULD say...
+This is a pretty abnormal hour for
+official welcoming, though."
+33,talk18,"ま…今回はいいけどよ
+もてなしなんて何もできないぜ？
+これといって話題も別にないけど
+せっかくだ俺のお気に入りでも教えとくか
+ひとつは染め物屋のしゃべり方
+もうひとつは ソテツさんのダイエット
+あとはそうだな…
+北に位置する名峰ラネール山の景観だな
+","Well... I guess it's OK this time, but...
+I don't really have any welcome gossip...
+
+No real \""talk of the town,\"" per se...
+I guess I could give my personal 
+highlights?
+I guess if I had to name attractions...
+I'm partial to the funny-talking guy at the
+dye shop or Mr. Seldon's running...
+Guess a running man isn't an attraction...
+Oh, but we have a view of that famous
+mountain to the north, Mount Lanayru."
+34,talk19,"知恵の泉ってのはハイラル城の歴代の姫君が
+何らかの儀式を執り行う場所だよ
+その何らかが何なのかは知らないし
+そもそも庶民が近づくような場所じゃないな","The Spring of Wisdom is a place where
+the princesses of Hyrule Castle used to
+go to do some kind of ceremony. 
+No idea exactly what kind of ceremony, 
+but anyway, it's not a place where us
+ordinary folk go. No princesses here."
+35,talk20,"見ての通り畑仕事だよ
+
+自分が食べる分は自分で作る…
+それが俺のモットー！
+…だが ここで作れないものは アカエゾさんの店
+イースト・ウィンドさんで買ってるぜ","I'm the guy that works the field,
+obviously. Sometimes, the crops yield
+more than I need to feed myself.
+When that happens, I harvest all the
+produce and send it over to Mr. Pruce's
+place, East Wind."
+36,talk21,"見ての通り貯水池の確認だぜ
+
+作物が水びたしになる前に
+水をせき止めないと いけないからな","You can probably tell, but I'm checking
+the reservoir... Irrigation, you know?
+
+If you don't keep an eye on the water
+flow, the crops can drown."
+37,talk22,"ここで娘の寝顔を見るのが日課でな
+
+おかげで日中が眠いけどな","Sometimes, I can't help but watch my
+sweet little daughter sleep at night.
+Dreaming her dreams...
+Guess you'd have to be a parent to
+understand. But lemme tell you, it sure
+leaves me sleepy in the morning!"
+38,talk23,他に聞きたい事は あるか？,Anything else you want to ask me?
+39,talk24,ふぁぁぁ…,Awwwww...
+40,talk25,娘の顔見ながら寝よ…,I'll stay up and watch my daughter sleep...
+41,talk26,今日は休むとするか…,Guess it's time to knock off for the day...
+42,talk27,今日も仕事仕事～♪っと…,♪Another day of work!♪ Yup...
+43,talk28,晴れでも雨でも娘のために～♪っとくらぁ,"♪Rain or shine, do that work for my daughter.♪
+Guess that's life, and not a bad one."
+44,talk29,雨が降ったら貯水池へ～♪ってか,"♪If it rains, I'll go to the reservoir.♪ I guess..."
+45,talk30,…おっと独り言聞かれちまった,"...Uh-oh. Someone heard me talking to
+myself. Oh, well."
+46,talk31,"話なら俺がいつもの場所に着いたら
+話してやるぜ","If you want to talk, come find me when
+I get settled. Not a good walk-and-talker."
+47,talk32,"俺に話しがあるなら
+俺が落ち着いてから""話しかけてくれや","If you need to talk to me, just give me
+a chance to park myself, OK?
+I think better when I'm not moving."
+48,talk33,…おっとヘタクソな歌聞かれちまった,"...Oops, someone heard me singing...
+badly."
+49,talk34,…おっとまた アンタか,"Uh-oh, you again."

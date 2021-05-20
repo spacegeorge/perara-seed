@@ -1,0 +1,125 @@
+#,Title,JPja,USen
+1,"""0000""",まかせて,Leave it to me.
+2,"""0001""",興味ない,I'm not interested.
+3,"""0002""",巨大な馬？,Giant horse?
+4,"""0003""",魔物？,Monsters?
+5,"""0004""",どうぞ,Go ahead.
+6,Near00,巨大な…,So...big...
+7,Near01,うとうと,Zzz...
+8,Near02,おおぉ,Ohhh...
+9,Near03,やあやあ,Hey there!
+10,talk00,"やあやあ！
+こんなところで人に会うなんて珍しいな
+僕たちは
+野生動物の生態調査をしているものでね
+この地方には他では見られない
+巨大な馬が生息しているって話を聞いて
+その調査のために ここまで来たのさ","Hey there! It's not every day that I see
+someone all the way out here!
+
+We're doing an ecological study on the
+wild animals in the area.
+
+We'd heard that there was a giant horse
+living in this region. Apparently it
+can't be found anywhere else...
+That was all we needed to hear!
+We headed this way to investigate
+right away!"
+11,talk01,"その馬は… でかいな…
+
+見たことのない大きさだよ！
+これは完全に固有種だね","That horse... It's huge...
+
+
+I've never seen one that big! That is
+definitely an endemic species!"
+12,talk02,"どうだい？巨大馬の調査
+協力してくれる気になったかい？","Well? What do you say? Are you willing
+to help us investigate these stories of a
+giant horse?"
+13,talk03,これは調査に協力してくれたお礼だ！,"This is to thank you for helping with our
+investigation!"
+14,talk04,"それはもう大きな馬だって話だ
+他の地方にはいない固有種の可能性が高い
+しかし この先は魔物が多くてね…
+なかなか調査が進まずに困っているのさ","The really big horse in this region is
+likely part of a rare, local species.
+
+However, with all the monsters roaming
+around, we simply can't go any farther.
+To be so close to discovery..."
+15,talk05,"こんなに大きな馬がいるとはね
+驚きだよ！","To think that there is actually a horse
+this big out there. How surprising!"
+16,talk06,助かるよ！,"Ah, you're a lifesaver!"
+17,talk07,"そうか仕方ないな…
+
+まあ気が向いたら
+また声をかけてくれよ！","I see. Well... Oh, well, then...
+
+
+If you change your mind, come back and
+talk to me again!"
+18,talk08,"どうだい？
+巨大馬の調査は進んでいるかい？","How's it going? Have you made progress
+in studying the giant horse?"
+19,talk09,"巨大馬は ここから西に向かって奥に行った
+オブババ草地 あたりに生息しているって話だ","They say that the giant horse lives
+around the Taobab Grassland... That'd
+be northwest of here."
+20,talk10,"じゃあ捕まえて ここに連れてきてくれるか
+無理はせずにな！","Do you think you could catch it and
+bring it back here? Don't stress out
+over the request, though!"
+21,talk11,なんだ こんな夜中に…,What do you want at this hour?
+22,talk12,"今日は もう遅い
+今晩は ここで休んでいったら どうだい？","It's gotten really late. Why not rest for
+the night, hmm?"
+23,talk13,"そう…
+特に馬の化け物みたいなのが いてね…
+最初は そいつが探している巨大馬だと思って
+近づいたら ひどい目にあったよ
+見たところ君は冒険者だろう？
+なかなか強そうだ
+どうだろう僕たちの代わりに
+巨大馬を捕まえてきてくれないかな？","That's right... There was even a monster
+that looked quite a lot like a horse...
+
+I approached it, thinking at first that it
+was the giant horse we've been looking
+for, but... Oh, it was terrible...
+Just from looking at you, I'd guess that
+you're an adventurer, right?
+You certainly look strong.
+Hrm... Hey, how would you like to go and
+catch a giant horse for us?"
+24,talk14,"いやあ""僕たちは
+野生動物の生態調査をしているものでね
+まさに この巨大馬の調査のために
+ここまで来たのさ
+しかし助かったよ！
+君のおかげで苦労せず巨大馬に会えた","Hey, we're out here doing an
+ecological study on the wildlife of
+this area.
+Specifically, we're here to look into
+reports of a giant horse.
+
+And you brought it right to us! Thanks
+to you, we were able to meet the giant
+horse without having to search!"
+25,talk15,"すまないが その馬を
+じっくり調べさせてくれないか？","Sorry, but can I take a good look
+at that horse?"
+26,talk16,じゃあ失礼するよ,"Thanks, I'll be right back."
+27,talk17,ふむふむ これはすごい,Hrmmm. This is impressive.
+28,talk18,"いやあ これだけ調べられれば十分だ
+必要な情報は しっかり取れた
+やはり直接この目で確認できると違うね
+全て君のおかげだよ！","Wow. With this much info, I can feel my
+spirit for discovery murmuring in
+contentment.
+It's definitely different, seeing something
+with your own eyes rather than just
+reading about it. Thank you!"
+29,talk19,ほほ～実に興味深い,"Ah, hmm. Quite interesting."

@@ -1,0 +1,247 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yep.
+2,"""0001""",いいえ,Nope.
+3,"""0002""",思ってないです,"Right, right."
+4,"""0003""",どうしようかな…,Sounds...weird.
+5,"""0004""",ヨソ者？,Beauties?
+6,"""0005""",大変ですね,Sounds tough.
+7,"""0006""",姫様って？,Princess?
+8,"""0007""",大厄災って？,Great Calamity?
+9,"""0008""",警備って？,"\""Checkin' out?\"""
+10,"""0009""",さようなら,Bye.
+11,"""0010""",ツキミって？,Do you know Prima?
+12,"""0011""",聞いてきたよ,I talked to Prima.
+13,"""0012""",持って来たよ,I got the goods!
+14,"""0013""",チェックしてる？,Are you...checkin'?
+15,near01,ぶつぶつ…,*mumble mumble*
+16,talk00,"おぉ青い炎！""久しぶりに見たなぁ","Whoa! I haven't seen that blue flame in
+a long time!"
+17,talk01,"旅の途中かな？
+トンプー亭には もう泊まった？",Ever stayed at the Ton Pu Inn?
+18,talk02,まあ どっちでもいいんだけど…,"Makes no difference to me, but..."
+19,talk03,宿を利用しないってことは まさか…,"If you're not staying there, then..."
+20,talk04,"このハテノ村に住み着いちゃおうなんて
+思ってないよな？","I'm supposed to check out everyone who
+comes into town."
+21,talk05,だよな,Thought so.
+22,talk06,"この村は平和だけど
+外は まだまだ物騒らしいな
+だからこそ こうして俺が
+ツキミさんに言い寄る ヨソ者…
+じゃなくて…""村の平和を乱すヨソ者が
+入ってこないように警備してるってわけよ","I know things have been peaceful 
+recently, but the outside world is
+still pretty dangerous, yeah?
+So I gotta check and make sure if any
+beauties—er, I mean—suspicious
+folks have come around here."
+23,talk07,"それはちょっと受け入れがたいな
+なぜなら恋のライバルが増え…
+いや なんでもない なんでもない…","YOUR job is weird.
+
+
+...Whatever it is you do."
+24,talk08,あんたの事でも あるんだけどな…,*sigh*
+25,talk09,"その通りよ
+こう見えても意外と大変よ？","Yeah. It is a tough job! I'm over here
+makin' it look easy."
+26,talk11,"雨だろうが夜だろうが
+警備をおろそかにしない俺マンサク…","Don't matter if it's rain or dark or
+whatever else, I gotta check
+everyone out..."
+27,talk13,"ところで あんた…
+この村には美人が多いと思わねえか？
+トンプー亭のツキミさんも そうだけど
+
+プルア婆さんも若い頃は
+カワイイ感じだったと思うなぁ","This is totally unrelated, but this village
+has its share of beauties, huh?
+Like Prima at the Ton Pu Inn.
+I bet that Purah was a looker when she
+was young too, y'know?"
+28,talk14,あんたは…,"Checkin' everyone out today, too. The
+checkin' just never stops..."
+29,talk15,恋の炎は雨でも消せぬ～ときたもんだ…,"Night or day, don't matter. Gotta check
+everyone out..."
+30,talk16,雨だろうが警備をサボらない俺なのよ,"Even in the rain, still gotta check
+everyone out..."
+31,talk17,俺と話がしたいのか？,You need somethin'?
+32,talk18,"どうした？
+モテそうな若者よ…",Yeah?
+33,talk19,"じゃあな…
+ここじゃない どこかの村でモテまくりなよ",See ya later.
+34,talk20,"カワイコちゃんチェック…
+じゃなくて観光客チェックしてるよ
+まツキミさんに敵うカワイコちゃんは
+居ねーけどな
+そう言えば…なんか 100年前に居た
+ハイラル城の姫様も相当可愛かったらしいけど
+きっと ツキミさんみたいに
+清楚な感じだったんだろうなー
+妄想が止まらないぜ…","Just checking out the beauties—
+er, I mean tourists—er, I mean—
+suspicious folk! That's what I'm doing!
+Well...if we're gonna talk about beauties,
+though, no one can hold a candle to
+Prima, y'know?
+They say the princess of Hyrule Castle
+who lived 100 years ago was super
+pretty, too.
+Maybe she coulda given Prima a run for
+her beauty, but that's the level we're
+talkin' about here."
+35,talk21,"あれ？お前知らないのか？
+
+姫様ってのは大厄災に飲み込まれた
+って言う ハイラル城の姫様よ
+それを機に天変地異が治まったって話だぜ
+
+おかげで今の平和があるんだろうし
+その姫様には感謝しねーとな","Really?! Are you serious?
+
+
+The princess of Hyrule Castle who got
+swallowed up by the Great Calamity!
+
+That's the only reason we got peace here
+now. We really owe that princess."
+36,talk22,"大厄災ってのは 100年前に起きた
+天変地異の事よ
+伝説化しちゃってて ある人は蛇って言ったり
+別の人は黒い霧って言ったりしてな
+俺も見た訳じゃねーから よく分かんないけど
+お年寄りなら その辺詳しいんじゃねーかな？","The Great Calamity was that awful thing
+from 100 years ago! You been asleep
+inside a cave or somethin'?!
+Some people will say it was some kind
+of serpent. Others say it was like some
+kind of black fog or something.
+I didn't see it myself, so I don't really
+know. But the old timers around here
+might know more about it."
+37,talk23,何か用？,What is it?
+38,talk24,まだ何かあんの？,You need anything else?
+39,talk25,"とより あんた…
+ツキミさんとは もう会ったか？
+まぁ会ったってかまわないが
+年下のかわいい少年アピールは ほどほどにな","If you're lucky enough to stay at the
+Ton Pu Inn, you'll see what I mean.
+Say hullo to Prima for me if you do.
+Not that she even knows who I am..."
+40,talk26,「さん」を付けろよ 「さん」を！,"That's Ms. Prima to you! You ever been
+to the inn here?"
+41,talk28,"ああ… それにしても悩ましい…
+わが愛しの人に何を贈るべきか…",This is tough... I have to give her SOMETHING...
+42,talk29,"ところでさぁ…トンプー亭のツキミさんを
+喜ばせるには何を贈ったらいいと思う？
+俺がって事じゃないんだ
+友達の友達に相談されて困っちゃってさぁ","What kind of gift do you think Prima at
+the Ton Pu Inn would want? Just take
+a guess.
+It's not for me, you understand.
+It's for...my buddy's friend."
+43,talk30,"えっ？ツキミさんが欲しがってるものを？！
+本人に聞いてきてくれたの？！
+おっと…あまり興奮しすぎると
+知りたがってるのが俺だってこと バレちゃうな…
+と…友達の友達に教えてあげなきゃ！
+ツキミさんの欲しがってるものって何だ？","What? Prima told you what she wants?!
+Prima...never even talks to me...
+
+*ahem* I mean, that's cool, that's cool...
+
+
+SO THEN, WHAT IS IT?!"
+44,talk31,"えっ ガンバリバッタ もう捕まえてきたの？
+仕事できるな あんた！
+俺なんか まだ一匹も捕まえてないのに…","You have some restless crickets
+already?! Wow, that was fast!
+
+I haven't even caught one yet..."
+45,talk32,"ひぃ ふぅ みぃ…
+","You really got them? I thought you
+were just messing with me."
+46,talk33,"…数えるまでもなく
+10匹いないよね？
+ツキミさん待ってるからさ
+頼むよ もうひとガンバリ ふたガンバリ…","...Uh, I'm no counting scientist, but I
+think that's less than 10.
+
+C'mon, man! I got a date with Prima
+riding on this! Help me out."
+47,talk34,"おお！たしかに10匹！
+じゃあ…俺が預からせてもらうよ","OK, so... Hrm...
+
+
+Yup, that's 10. Thanks, I'll take 'em."
+48,talk35,じゃこいつは お礼な,A little somethin' for your troubles...
+49,talk36,"ガンバリバッタを？100匹？！
+
+そうそう！そういう謎めいたところも
+ツキミさんの魅力なんだよ！
+…って友達の友達は言ってるらしいぞ
+
+興奮しすぎた あぶねえあぶねえ
+
+でもガンバリバッタを100匹集めるのは
+愛しい人のためとはいえ キツそうだな
+そうだ あんた手伝ってやれよ！
+けっこう虫とか捕ってきたほうだろ？
+そうだな…
+とりあえず10匹集めてくれ
+お礼は弾むからさ！
+俺の友達の友達のために よろしく頼む！","Prima wants restless crickets? And 100
+of them?! Hahaha! What a small world!
+
+I love restless crickets! I'm a
+connoisseur of them! 
+
+I think that's what that word means...
+
+
+But catching 100 of them is gonna be
+tough. Think you could help me get
+started on those?
+How about you get me...10 of them? I'll
+get you something nice for your trouble."
+50,talk37,"よーし…
+じゃあ後は俺が必死こいて集めるわ
+愛しいツキミさんとのデートを夢見て…
+
+このマンサク草原を駆けまわっちゃうぞ！
+
+…あ今ので完全にバレたな","Right then! I'll go ahead and catch the
+rest of 'em.
+
+Then I'll take 'em to Prima and we'll have
+that d-d-date...
+
+Oh, no! My s-s-s-stutter..."
+51,talk38,"だから恋の警備ってのはだな…
+
+いや…恋は関係ない関係ない
+
+この村の平和を乱す悪いやつが
+入って来ないように見張ってんの！","There's weird, suspicious folks out there!
+So I gotta check everyone out to make
+sure no one dangerous gets through.
+I'm volunteerin' my own time because
+it's an important service for the village."
+52,talk39,"それ プルア婆さんのだろ？
+最近見ないけど お元気なのかな？","That's Purah's, right? I haven't seen her
+in a while. Wonder how she's doing..."
+53,talk40,"それ研究所の所長さんのだろ？
+最近見ないけど お元気なのかな？","That's the lab director's, right? I wonder
+how they're all doin' up there..."
+54,talk41,"捕まえてきたガンバリバッタ…
+見せてくれよ","Well, lemme see those restless crickets
+you caught!"
+55,talk42,だから「さん」を付けろって！,"I already told you, that's Ms. Prima!"
+56,talk43,"ツキミさんはトンプー亭っていう
+宿屋の受付の女性だよ","Prima works at the Ton Pu Inn. She's
+the lady at the front desk."
+57,talk44,"ツキミさんは そこの宿屋…
+トンプー亭の受付の女性だよ",Prima is the clerk over at the Ton Pu Inn.
+58,talk45,"ん…？
+","Hrm?
+"

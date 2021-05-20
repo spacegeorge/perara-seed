@@ -1,0 +1,120 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I'll buy.
+2,"""0001""",売る,I'll sell.
+3,"""0002""",やめとく,Quit
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,I'd like to buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,どれを売ってくれるのかいさ～？,What will ya sell me?
+11,Com_Talk_01,"を売るのかい？
+ルピーになるけど いいかいさ？","You're gonna sell me that?
+It'll be  rupees, OK?"
+12,Com_Talk_02,"まいどあり～
+他にも売ってくれるのかいさ？","Thank you!
+Are you gonna sell me anything else?"
+13,Com_Talk_02b,"ありがとね～
+他にもあったら引き取るよ！","Thank you!
+I'll take anything you don't need off
+your hands!"
+14,Com_Talk_02c,"うれしいね～
+まだまだ買い取るよ！","You make me so happy!
+I'll keep buying stuff from you if
+you bring it to me!"
+15,Com_Talk_02d,"まいど どうも～
+他にも なにかあるかいさ？","Thank you very much!
+Did you need anything else?"
+16,Com_Talk_04,おや残念さ～ね,"Oh, that's too bad."
+17,Com_Talk_05,何でも買い取るよ！,I'll buy anything!
+18,Com_Talk_05b,何でも買い取るのさ～,I'll buy anything off ya!
+19,Com_Talk_05c,どんどん売ってくださいね～,Don't hesitate to sell me stuff!
+20,Com_Talk_05d,いろいろ買い取れますよ～,I'll buy a lot of different things from ya!
+21,Com_Talk_10,を買うんだね？,"You want that, then?"
+22,Com_Talk_11,まいどあり！,Thank you!
+23,Com_Talk_11b,いつも ありがとね～,Thanks for your business!
+24,Com_Talk_11c,まいど助かるのさ～,"Thank you! You're helping me out a 
+bunch!"
+25,Com_Talk_11d,ありがとう ございま～す,Thank youuu!
+26,Com_Talk_13,"を売るのね？
+いくつだい？","That's what you're selling?
+How many? "
+27,Com_Talk_14,"を個で
+合計ルピーで買い取るけどいいかいさ？","So that's... of them.
+I'd say  rupees is a fair price. OK?"
+28,Com_Talk_15,それは ちょっとうちでは買い取れないさ～,I can't take that off your hands.
+29,Com_Talk_16,"着たままじゃ買い取れないさ～
+脱いでから売っとくれ！","I can't buy something you're wearing!
+Take it off, and then sell it to me!"
+30,Com_Talk_33,"を1つだけかい？
+それならルピーってとこさね～",Only one? That'll be  rupees.
+31,Com_Talk_34,"を あるだけ全部ね？
+個でルピーだけどいいかいさ？","All of them? OK... That'll be 
+rupees, I think. Agreed?"
+32,Com_Talk_35,"を個全部ね？
+合計ルピーで買い取るけどいいかいさ？","Every last one, eh? That'll be
+a total of  rupees, OK?"
+33,Com_Talk_50,"かい？
+ルピーになるけどいいかいさ？",It'll be  rupees. Is that OK?
+34,Com_Talk_51,"さ～ね？
+いくつにするのかいさ？",How many would ya like?
+35,Com_Talk_52,"が個で
+合計ルピーになるけどいいかいさ？","So that's... in total. That'll
+be  rupees. Sound good?"
+36,Com_Talk_53,"おやおや やめちゃうのかいさ？
+残念さ～","Oh, you've changed your mind?
+What a shame."
+37,Com_Talk_54,"ルピーが足りないさ～
+また来るさ～","You don't have enough rupees!
+Come back later!"
+38,Com_Talk_55,"えらい荷物が多いねぇ！ ポーチがいっぱいだ！
+荷物を整理してから また来るさ～","You have so much stuff!
+Organize your stuff, make some room,
+and then come back!"
+39,Com_Talk_56,"を1つだけかい？
+それならルピーだけどいいさね？",Only one? That'll be  rupees.
+40,Near00,やすいよ うまいよ～,Affordable and delicious!
+41,Near01,こまりますよ～,You stop that!
+42,talk00,"さ～ らっしゃい！
+はじめての顔だね！","Heeey! Welcome!
+You're a new face!"
+43,talk01,"また来てね！
+待ってるわいさ～","Come again!
+I'll be waiting!"
+44,talk02,まいどあり～！,Thanks for your business!
+45,talk03,"とれとれ ぴちぴちの旨い魚さ～！
+見てっとくれ！","Fresh fish! Just recently caught!
+Take a look!"
+46,talk04,"欲しいものがあったら
+商品の前で それを選ぶのさ～！","If you want something, just let me know
+by standing in front of it and selecting it!"
+47,talk05,"もっと必要かい？
+今度仕入れとくから また来るさ～","You need more?
+I'll be sure to get some 
+more for next time!"
+48,talk07,"さ～ らっしゃい！
+こんな雨の日に よく来てくれました！","Heeey! Welcome!
+Thanks for coming by on such a
+rainy day!"
+49,talk08,"さ～ らっしゃい！
+今朝仕入れたばかり！","Heeey! Welcome!
+I just got fresh stuff in this morning!"
+50,talk09,"さ～ らっしゃい！
+こんな暑い日は魚！","Heeey! Welcome!
+Know what sounds good on such a hot
+day? Some fish! What do you think?"
+51,talk10,"さ～ らっしゃい！
+晩御飯の買い出しかな！","Heeey! Welcome!
+You here to buy something for dinner?"
+52,talk11,"さ～ らっしゃい！
+お夜食にどうぞ！","Heeey! Welcome!
+Got a case of the midnight munchies?"
+53,talk12,"ごめんね～
+もう今日は売るものがないのさ～
+買い取りなら できるけど
+どうするかいさ？","Sorry, but I don't have anything left
+to sell today.
+
+I can still buy stuff from you, though.
+You interested?"

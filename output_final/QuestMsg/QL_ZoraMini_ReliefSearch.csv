@@ -1,0 +1,31 @@
+#,Title,JPja,USen
+1,QL_ZoraMini_ReliefSearch_Desc,"ジアートの頼みを聞き
+ゾーラの里周辺に存在する
+石碑を探すことになった
+
+里の石碑を除き
+全部で10基あるらしい…
+
+残りはあと基だ","After hearing Jiahto's request, you agreed to
+search for thestone monuments in the area
+surrounding Zora's Domain.
+
+Not counting the monument in Zora's Domain,
+there are10 to find in total."
+2,QL_ZoraMini_ReliefSearch_Finish,"10基全ての石碑を探し出し
+ジアートに報告した
+
+これでジアートの研究も
+一歩前進したはずだ","You found all ten stone monuments and
+reported back to Jiahto.
+
+Jiahto will benefit greatly from this."
+3,QL_ZoraMini_ReliefSearch_Name,ゾーラの石碑を探して,Zora Stone Monuments
+4,QL_ZoraMini_ReliefSearch_SearchRelief,"ゾーラの里周辺を巡り
+10基全ての石碑を探し出した
+
+ジアートの所に報告に行こう","You searched the area surrounding Zora's
+Domain high and low and found all ten
+stone monuments.
+
+Report your findings toJiahto."

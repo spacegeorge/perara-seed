@@ -1,0 +1,50 @@
+#,Title,JPja,USen
+1,QL_TreasureHunt_touzoku08_Desc,"ハイラル王家秘蔵の歴史的価値の高い衣装が
+ラムダという盗賊に奪われていた
+そのうちの１つは悪霊の鎧 と呼ばれている
+
+その隠し場所を記した手記が
+アデヤ村跡のどこかにあるらしい","The royal family of Hyrule collected historically
+significant outfits, but they were stolen by a
+bandit named Misko. One of the items stolen
+was armor belonging to a dark entity.
+
+Somewhere in theDeya Village Ruins
+is a journal that places the location
+of this treasure..."
+2,QL_TreasureHunt_touzoku08_Finish,"『大魔王を象りし悪霊の甲冑は
+フィローネの樹海に隠す
+1つは フロリア湖より北に連なる3つ目の滝の底に
+1つは フロリア川小さな滝に挟まれし橋に
+1つは樹海リベラ砕かれし石の鳥』
+「ルーテス湖」「サージョン橋」「樹海リベラ」に
+隠された宝箱の中からファントムガノン装備を
+手に入れた！","\""The evil spirit's armor set is hidden within
+Faron's sea of trees. Find these pieces at
+the highest of three waterfalls north of
+Lake Floria...at the bridge between small
+waterfalls over Floria River...and at the
+broken stone bird of Ebara Forest.\""
+
+You found the treasure hidden at Corta Lake,
+Sarjon Bridge, and Ebara Forest.
+You obtained thePhantom Ganon set!"
+3,QL_TreasureHunt_touzoku08_Name,Ｅｘ ラムダの秘宝 悪霊の鎧,EX Treasure: Dark Armor
+4,QL_TreasureHunt_touzoku08_Step01,"『大魔王を象りし悪霊の甲冑は
+フィローネの樹海に隠す
+1つはフロリア湖より北に連なる3つ目の滝の底に
+1つはフロリア川小さな滝に挟まれし橋に
+1つは樹海リベラ砕かれし石の鳥』
+ラムダの手記Ex2に悪霊の鎧を
+隠した場所が記されていた
+まだ見つけていない衣装は残り個だ","\""The evil spirit's armor set is hidden within
+Faron's sea of trees. Find these piecesat
+the highest of three waterfalls north of
+Lake Floria...at the bridge between small
+waterfalls over Floria River...andat the
+broken stone bird of Ebara Forest.\""
+
+Misko's EX Journal 2 gives the locations
+of the evil spirit's armor.
+
+Armor still hidden:"

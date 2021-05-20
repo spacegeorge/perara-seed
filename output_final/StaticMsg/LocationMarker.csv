@@ -1,0 +1,705 @@
+#,Title,JPja,USen
+1,AagetoMt,アゲート山,Mount Agaat
+2,AdeyaLake,アデヤ湖,Deya Lake
+3,AdeyaVillage,アデヤ村跡,Deya Village Ruins
+4,AgePlateau,アージェ台地,Jia Highlands
+5,AgunaiLake,ダルニア湖,Darunia Lake
+6,AkazaMt,ラネール連峰,Lanayru Range
+7,AkkareBigBridge,アッカレ大橋,Akkala Span
+8,AkkareBridge,アッカレ大橋,Akkala Span
+9,AkkareGarrison,アッカレ練兵場跡,Akkala Parade Ground Ruins
+10,AkkareZhai,アッカレ砦跡,Akkala Citadel Ruins
+11,AkkareZhaiBridge,アッカレ砦連絡橋跡,Akkala Bridge Ruins
+12,AmimePlateau,アミメ台地,Nette Plateau
+13,AmonenePlateau,ラルス池,Ralis Pond
+14,AnbonBeach,マーサの入り江,Martha's Landing
+15,AnchoBeach,トロンボビーチ,Toronbo Beach
+16,AncientLabo,アッカレ古代研究所,Akkala Ancient Tech Lab
+17,AnoleLake,マルゴ池,Gorko Lake
+18,AnoleTunnel,マルゴ坑道,Gorko Tunnel
+19,ArafuraPlain,アラフラ平原,Fural Plain
+20,AraisoBeach,アライソ海岸,Aris Beach
+21,Assassin,イーガ団のアジト,Yiga Clan Hideout
+22,AzimetosPlateau,トスメジア台地,Mystathi's Shelf
+23,BachimakuMt,ヒトスギ連峰,Solewood Range
+24,BaconCliff,トロコ崖,Gortram Cliff
+25,BameHill,バメの丘,Passer Hill
+26,BanmezaLake,バンメザ湖,Harker Lake
+27,BantaValley,終焉の谷,Breach of Demise
+28,BarakkiPlain,ダライト森林,Dalite Forest
+29,BarumePlain,バルーメ平原,Barula Plain
+30,BigBrotherBridge,ふたご兄橋,Big Twin Bridge
+31,BigTree,朽ちた千年樹,Ancient Tree Stump
+32,BigalLake,チュンゴ湖,Medingo Pool
+33,BiginaTrees,ギナビーの森,Ginner Woods
+34,BiridinHill,ビリディン高地,Birida Lookout
+35,BironSnow,ビロン雪原,Biron Snowshelf
+36,BituoValley,ビトゥオ谷,Tobio's Hollow
+37,BlindForest,ドイブラン遺跡,Thyphlo Ruins
+38,BlizzarValley,ブリザー谷,Coldsnap Hollow
+39,BokoboLake,ゲーロ湖,Gero Pond
+40,BonrasForest,樹海ボンラス,Bronas Forest
+41,BoraraCape,ターム岬,Tarm Point
+42,BottuBay,スプール湾,Spool Bight
+43,BraveFountain,勇気の泉,Spring of Courage
+44,BrosRock,兄弟岩,Warbler's Nest
+45,BrostarPlain,サマサ平原,Samasa Plain
+46,BuhaIslands,ベフ島,Broca Island
+47,BuibuiTrees,ブビンガの森,Bubinga Forest
+48,BuichadaPlateau,コーヨウ台地,Tumlea Heights
+49,BuidaLake,ブイダ湖,Rassla Lake
+50,BumiPlain,風見の草原,Windvane Meadow
+51,BuramuPlateau,ポプラー高地,Popla Foothills
+52,CastleTownMark,ハイラル城下町跡,Hyrule Castle Town Ruins
+53,CelebrationPark,式典場跡,Sacred Ground Ruins
+54,CentralExchange,交易所跡,Exchange Ruins
+55,ChagaraMt,チャガラ浜,Gogobi Shores
+56,ChirakaVillage,コポンガ村跡,Goponga Village Ruins
+57,ChuonoPond,ケヤ池,Zelkoa Pond
+58,Cohorint,サイハテノ島,Eventide Island
+59,Cokiri,コログの森,Korok Forest
+60,Corosseo,闘技場跡地,Coliseum Ruins
+61,CresiaPeninsula,クレシア半島,Cape Cresia
+62,DamzelForest,樹海ダムゼル,Damel Forest
+63,DanioPlain,ウクク平原,Ukuku Plains
+64,DarinoPond,カイゲン池,Nirvata Lake
+65,DasukidaMt,ダスキーダ山,Mount Dunsel
+66,DasukidaPlateau,ダスキーダ高原,Dunsel Plateau
+67,DatsuPlain,テトラ平原,Parache Plains
+68,DeathCaldera,デスカルデラ,Death Caldera
+69,DeathMountainHatago,山麓の馬宿,Foothill Stable
+70,DeathMountain_Entrance,デスマウンテン登山口,Maw of Death Mountain
+71,DekamuPlain,マブルッド平原,Marblod Plain
+72,DodoraBridge,ラルート大橋,Luto's Crossing
+73,DokamamaPlain,サハスーラ平原,Sahasra Slope
+74,DokuroPond,ドクロ池,Skull Lake
+75,DonLake,ルル湖,Lulu Lake
+76,DotiBeach,リンバービーチ,Rimba Beach
+77,DragonMarsh,竜骨沼,Dragon Bone Mire
+78,DragonsFar,龍の流刑地,Dragon's Exile
+79,Dungeon000,タ・ムールの祠,Tah Muhl Shrine
+80,Dungeon001,ジノ・ヨーの祠,Jee Noh Shrine
+81,Dungeon002,サ・ダージュの祠,Sah Dahaj Shrine
+82,Dungeon003,ハワ・カイの祠,Hawa Koth Shrine
+83,Dungeon004,キワ・ザタスの祠,Zalta Wa Shrine
+84,Dungeon005,ネヅ・ヨマの祠,Ne'ez Yohma Shrine
+85,Dungeon006,ヤオ・マーヨの祠,Yah Rin Shrine
+86,Dungeon007,ヴァシ・リャコの祠,Bosh Kala Shrine
+87,Dungeon008,ヴォリダ・ノの祠,Bareeda Naag Shrine
+88,Dungeon009,ワ・モダイの祠,Owa Daim Shrine
+89,Dungeon010,ケー・ノイの祠,Kay Noh Shrine
+90,Dungeon011,モンヤ・トマの祠,Monya Toma Shrine
+91,Dungeon012,ウータ・ドの祠,Voo Lota Shrine
+92,Dungeon013,カツ・トサの祠,Katosa Aug Shrine
+93,Dungeon014,カム・ユオの祠,Kam Urog Shrine
+94,Dungeon015,トト・イサの祠,Toto Sah Shrine
+95,Dungeon016,ルッコ・マの祠,Rucco Maag Shrine
+96,Dungeon017,シベ・ニーロの祠,Shee Vaneer Shrine
+97,Dungeon018,ラー・クアの祠,Rok Uwog Shrine
+98,Dungeon019,ダウ・ナエの祠,Dow Na'eh Shrine
+99,Dungeon020,シ・ダゴズの祠,Sheem Dagoze Shrine
+100,Dungeon021,トー・ヤッサの祠,Toh Yahsa Shrine
+101,Dungeon022,キヨ・ウーの祠,Keo Ruug Shrine
+102,Dungeon023,シェモ・ラタの祠,Sheh Rata Shrine
+103,Dungeon024,ミーズー・ヨの祠,Mezza Lo Shrine
+104,Dungeon025,ケハ・ラマの祠,Kayra Mah Shrine
+105,Dungeon026,シモ・イトセの祠,Shae Mo'sah Shrine
+106,Dungeon027,ルヨ・タウの祠,Rota Ooh Shrine
+107,Dungeon028,ショラ・ハの祠,Shora Hah Shrine
+108,Dungeon029,ヒロ・ヒラの祠,Hila Rao Shrine
+109,Dungeon030,ジュニ・シの祠,Joloo Nah Shrine
+110,Dungeon031,モア・キシトの祠,Mo'a Keet Shrine
+111,Dungeon032,ダコ・タワの祠,Dako Tah Shrine
+112,Dungeon033,ダタ・クスの祠,Daka Tuss Shrine
+113,Dungeon034,マ・カヤの祠,Kah Yah Shrine
+114,Dungeon035,アコ・ヴァータの祠,Akh Va'quot Shrine
+115,Dungeon036,シ・ジトの祠,Sho Dantu Shrine
+116,Dungeon037,シャオ・ヨの祠,Shae Loya Shrine
+117,Dungeon038,マ・オーヌの祠,Oman Au Shrine
+118,Dungeon039,ミャマ・ガナの祠,Myahm Agana Shrine
+119,Dungeon040,ヤカー・マタの祠,Kaam Ya'tak Shrine
+120,Dungeon041,ジャ・バシフの祠,Ja Baij Shrine
+121,Dungeon042,リ・モナの祠,Rin Oyaa Shrine
+122,Dungeon043,クイ・タッカの祠,Kuh Takkar Shrine
+123,Dungeon044,シベ・ニャスの祠,Shee Venath Shrine
+124,Dungeon045,ハユ・ダマの祠,Ha Dahamar Shrine
+125,Dungeon046,シャダ・アダの祠,Shada Naw Shrine
+126,Dungeon047,リ・ダヒの祠,Ree Dahee Shrine
+127,Dungeon048,ジズ・カフィの祠,Ze Kasho Shrine
+128,Dungeon049,カヤ・ミワの祠,Kaya Wan Shrine
+129,Dungeon050,サイ・ウートの祠,Shai Utoh Shrine
+130,Dungeon051,カマ・ラヒの祠,Maka Rah Shrine
+131,Dungeon052,ノッキ・ミヒの祠,Gee Ha'rah Shrine
+132,Dungeon053,シャ・タワの祠,Sha Warvo Shrine
+133,Dungeon054,カオ・マカの祠,Ka'o Makagh Shrine
+134,Dungeon055,ドゥンバ・タの祠,Dunba Taag Shrine
+135,Dungeon056,ミーロ・ツヒの祠,Mirro Shaz Shrine
+136,Dungeon057,ワゴ・カタの祠,Wahgo Katta Shrine
+137,Dungeon058,モ・ラタニアの祠,Mogg Latan Shrine
+138,Dungeon059,カ・オキョの祠,Kah Okeo Shrine
+139,Dungeon060,グコ・チセの祠,Daqo Chisay Shrine
+140,Dungeon061,ショダ・サーの祠,Shoda Sah Shrine
+141,Dungeon062,シャ・ゲマの祠,Sha Gehma Shrine
+142,Dungeon063,キマ・ズースの祠,Kema Zoos Shrine
+143,Dungeon064,ダカ・カの祠,Daqa Koh Shrine
+144,Dungeon065,トゥミ・ンケの祠,Keh Namut Shrine
+145,Dungeon066,カ・ムーの祠,Kah Mael Shrine
+146,Dungeon067,キュ・ラムヒの祠,Qua Raym Shrine
+147,Dungeon068,ヤ・ナーガの祠,Ya Naga Shrine
+148,Dungeon069,イオ・ソオの祠,Ishto Soh Shrine
+149,Dungeon070,サオ・コヒの祠,Soh Kofi Shrine
+150,Dungeon071,プマ・ニットの祠,Pumaag Nitae Shrine
+151,Dungeon072,ダ・カソーの祠,Dah Kaso Shrine
+152,Dungeon073,カタ・チュキの祠,Katah Chuki Shrine
+153,Dungeon074,ニア・ネアの祠,Noya Neha Shrine
+154,Dungeon075,ダヒ・シーノの祠,Dah Hesho Shrine
+155,Dungeon076,ササ・カイの祠,Sasa Kai Shrine
+156,Dungeon077,ケニィ・シカの祠,Ke'nai Shakah Shrine
+157,Dungeon078,ミッダ・ロキの祠,Mijah Rokee Shrine
+158,Dungeon079,ナミカ・オズの祠,Namika Ozz Shrine
+159,Dungeon080,シ・タタンケの祠,Shoqa Tatone Shrine
+160,Dungeon081,ムオ・ジームの祠,Muwo Jeem Shrine
+161,Dungeon082,チャス・ケタの祠,Chaas Qeta Shrine
+162,Dungeon083,ティナ・キョザの祠,Tena Ko'sah Shrine
+163,Dungeon084,ツツア・ニマの祠,Tutsuwa Nima Shrine
+164,Dungeon085,キマ・コササの祠,Kema Kosassa Shrine
+165,Dungeon086,ガオマ・アサの祠,Goma Asaagh Shrine
+166,Dungeon087,ミョス・シノの祠,Mozo Shenno Shrine
+167,Dungeon088,ヒャ・ミウの祠,Hia Miu Shrine
+168,Dungeon089,サス・コサの祠,Saas Ko'sah Shrine
+169,Dungeon090,スマ・サマの祠,Suma Sahma Shrine
+170,Dungeon091,グ・アチトーの祠,Gorae Torr Shrine
+171,Dungeon092,マ・ノラの祠,Maag No'rah Shrine
+172,Dungeon093,ラキュ・ウロの祠,Raqa Zunzo Shrine
+173,Dungeon094,ト・カユーの祠,Tho Kayu Shrine
+174,Dungeon095,クン・シダジの祠,Kuhn Sidajj Shrine
+175,Dungeon096,キュカ・ナタの祠,Qukah Nata Shrine
+176,Dungeon097,クグ・チデの祠,Korgu Chideh Shrine
+177,Dungeon098,ダ・チョカヒの祠,Daag Chokah Shrine
+178,Dungeon099,タロ・ニヒの祠,Ta'loh Naeg Shrine
+179,Dungeon100,キハ・ウの祠,Keeha Yoog Shrine
+180,Dungeon101,ダ・キキーの祠,Dagah Keek Shrine
+181,Dungeon102,ヅナ・カイの祠,Zuna Kai Shrine
+182,Dungeon103,ディラ・マの祠,Dila Maag Shrine
+183,Dungeon104,ラノ・クヒーの祠,Lanno Kooh Shrine
+184,Dungeon105,トゥ・カロの祠,Tu Ka'loh Shrine
+185,Dungeon106,マーム・ラノの祠,Maag Halan Shrine
+186,Dungeon107,ミィ・スゥの祠,Misae Suma Shrine
+187,Dungeon108,キト・ワワイの祠,Ketoh Wawai Shrine
+188,Dungeon109,リター・ズモの祠,Ritaag Zumo Shrine
+189,Dungeon110,キョシ・オーの祠,Korsh O'hu Shrine
+190,Dungeon111,タワ・ジヌの祠,Tawa Jinn Shrine
+191,Dungeon112,ラーナ・ロキの祠,Lakna Rokee Shrine
+192,Dungeon113,シ・クチョフの祠,Shae Katha Shrine
+193,Dungeon114,シ・ヨタの祠,Shai Yota Shrine
+194,Dungeon115,ロナ・カータの祠,Rona Kachta Shrine
+195,Dungeon116,カザ・トッキの祠,Qaza Tokki Shrine
+196,Dungeon117,ジター・サミの祠,Jitan Sa'mi Shrine
+197,Dungeon118,ト・クモの祠,To Quomo Shrine
+198,Dungeon119,ターノ・アの祠,Tahno O'ah Shrine
+199,EagleBridge,モーリ橋,Kolami Bridge
+200,EastDam,東の貯水湖,East Reservoir Lake
+201,EastEunpoHighlands,東エウンポ高地,East Deplian Badlands
+202,EastGerudo,東ゲルド,East Barrens
+203,EastGerudoPlateau,東ゲルド高地,East Gerudo Mesa
+204,EastGerudoRuins,東ゲルド遺跡,East Gerudo Ruins
+205,EastPostTownRuin,東の宿場町跡,East Post Ruins
+206,EastShrine,東の神殿跡,Eastern Abbey
+207,ElegLake,ナビ湖,Nabi Lake
+208,EnRiver,エン川,Menoat River
+209,EquePlateau,エンゼル台地,Angel Peak
+210,ErumedaPlateau,エメラル台地,Meadela's Mantle
+211,EunpoHighlands,エウンポ高地,Deplian Badlands
+212,Execution,監獄跡,Castle Town Prison
+213,ExpaTrees,エキスパの森,Retsam Forest
+214,EzzuBridge,イグルス橋,Eagus Bridge
+215,FairyForest,精霊の森,Forest of Spirits
+216,FaronHatago000,双子馬宿,Dueling Peaks Stable
+217,FaronHatago001,レイクサイド馬宿,Lakeside Stable
+218,FaronHatago002,高原の馬宿,Highland Stable
+219,FenaMt,ナボール山,Mount Nabooru
+220,FeoreRiver,マッコレ湖,Lake Mekar
+221,FinalTrial,最終試練,Final Trial
+222,FinrasForest,樹海フィンラス,Finra Woods
+223,FironeForestEntrance,フィローネ樹海入口,Faron Woods
+224,FlamingoSpa,ミンフラーの秘湯,Goflam's Secret Hot Spring
+225,FlogPond,カエル池,Hopper Pond
+226,FloriaBridge,フロリア橋,Floria Bridge
+227,FloriaFalls,フロリア大滝,Floria Falls
+228,FloriaRiver,フロリア川,Floria River
+229,FlowerSandbank,花の中州,Floret Sandbar
+230,ForestHatago,森の馬宿,Woodland Stable
+231,FrontGatePosttown,門前宿場町跡,Gatepost Town Ruins
+232,FuruboLake,ユフィン湖,Lake Intenoch
+233,GakanakkyoPlain,西ハイラル平原,West Hyrule Plains
+234,GameBalling,ポンドの小屋,Pondo's Lodge
+235,GameBitalockGolf,ククジャ谷コース,Tanagar Canyon Course
+236,GameGutsCriff,ド根性ガケ,Gut Check Rock
+237,GameMarathon,マラソン受付,Footrace Check-In
+238,GameShiledSurf,スレミーの小屋,Selmie's Spot
+239,GameYabusame,流鏑馬受付,Mounted Archery Camp
+240,GameZarashiRace,スナザラシラリー受付,Sand-Seal Rally
+241,GamettaPlateau,カリン高原,Cliffs of Quince
+242,GaneLake,清めの池,Purifier Lake
+243,GarakishiPass,シャトー峠,Shadow Pass
+244,GarakishiVillage,シャトー集落跡,Shadow Hamlet Ruins
+245,GasemaDam,ルテラーダム,Rutala Dam
+246,GasemaRiver,ルテラー川,Rutala River
+247,GashamaHill,ゴングルの丘,Crenel Hills
+248,GashamahiMt,ゴングル山,Crenel Peak
+249,GatakaraGarrison,コモロ駐屯地跡,Kolomo Garrison Ruins
+250,GatakaraPond,コモロ池,Lake Kolomo
+251,GatinLake,ミズーダ湖,Cephla Lake
+252,GenLake,キュサツ湖,Lake Ferona
+253,GeraRiver,モミ川,Fir River
+254,Gerudo,ゲルドの街,Gerudo Town
+255,GerudoCanyon,ゲルドキャニオン,Gerudo Canyon
+256,GerudoCanyon_Entrance,ゲルドキャニオン入口,Gerudo Canyon Pass
+257,GerudoDesert_Entrance,ゲルド砂漠入口,Gerudo Desert Gateway
+258,GerudoFossil,ゲルドの大化石,Gerudo Great Skeleton
+259,GerudoHatago,ゲルドキャニオン馬宿,Gerudo Canyon Stable
+260,GerudoSummit,ゲルド山頂,Gerudo Summit
+261,GiankonIsland,マッコレ島,Mekar Island
+262,GibogaHill,オクタの森,Rok Woods
+263,GibururuMt,ルト山,Ruto Mountain
+264,GigiLake,ボネ湖,Boné Pond
+265,GiminoPond,ウルシ池,Lake Sumac
+266,GimpoMt,フロリア山,Mount Floria
+267,GisaHill,ギサの丘,Nero Hill
+268,GishiHill,ギシの丘,Piper Ridge
+269,GoanaValley,ゴアナ峡谷,Gama Cove
+270,GobyMt,カール山,Tuft Mountain
+271,GoinaPlateau,ピエール高地,Pierre Plateau
+272,Goron,ゴロンシティ,Goron City
+273,GoronBridge,ゴロン橋,Stolock Bridge
+274,GoronSpa,ゴロン温泉,Goron Hot Springs
+275,GoyoLake,ベニバ湖,Bloodleaf Lake
+276,GumaroValley,ウオ谷,Atun Valley
+277,GutinizaPlain,グチニザ平原,Guchini Plain
+278,GutinizaPlainTomb,グチニザ平原古墳群,Guchini Plain Barrows
+279,GyunaIsland,アクルン島,Ankel Island
+280,HachijoBridge,アウール橋,Owlan Bridge
+281,HagoromoFalls,ハゴロモ滝,Lantern Falls
+282,HagoromoLake,ハゴロモ湖,Lantern Lake
+283,HamiyonPlain,オブリー平原,Ovli Plain
+284,HarayaLake,ハラヤ池,Haran Lake
+285,HashibiroLake,ハシビロ湖,Strock Lake
+286,Hateno,ハテノ村,Hateno Village
+287,HatenoBay,キタノ湾,Kitano Bay
+288,HatenoBeach,ハテノビーチ,Hateno Beach
+289,HatenoGate,ハテノ砦,Fort Hateno
+290,HatenoLabo,ハテノ古代研究所,Hateno Ancient Tech Lab
+291,HatenokoIsland,ハテノコ島,Tenoko Island
+292,HawkMt,クーホ山,Cuho Mountain
+293,HeburaEastSummit,ヘブラ山東岳,Hebra East Summit
+294,HeburaFossil,ヘブラの大化石,Hebra Great Skeleton
+295,HeburaIcicle,氷結の山麓,Icefall Foothills
+296,HeburaLodge,ヘブラ山脈登山口の小屋,Hebra Trailhead Lodge
+297,HeburaMt_North,ヘブラ北峰,Hebra North Crest
+298,HeburaNorthSummit,ヘブラ山北岳,Hebra North Summit
+299,HeburaPeak,ヘブラ山山頂,Hebra Peak
+300,HeburaSouthSummit,ヘブラ山南岳,Hebra South Summit
+301,HeburaTundera,ヘブラツンドラ,Hebra Tundra
+302,HeburaWestSummit,ヘブラ山西岳,Hebra West Summit
+303,HemaHill,ヘマ高地,Hemaar's Descent
+304,HesonaiValley,ヤーナの谷,Yarna Valley
+305,HigakkareBeach,ヒガッカレ海岸,East Akkala Beach
+306,HigakkarePlain,ヒガッカレ平原,East Akkala Plains
+307,HigashinoBay,オクノ湾,Deepback Bay
+308,HimeidaMt,ヒメイダ山,Meda Mountain
+309,HopeBridge,願いの川辺,Bank of Wishes
+310,HopesPlateau,始まりの台地,Great Plateau
+311,HyliaMt,ハイリア山,Mount Hylia
+312,HyliaRiver,黄泉の川,River of the Dead
+313,HyralBridge,ハイリア大橋,Bridge of Hylia
+314,HyralIslands,ハイリア島,Hylia Island
+315,HyruleCastle,ハイラル城,Hyrule Castle
+316,HyruleCastle_Hall_0,本丸,Sanctum
+317,HyruleCastle_Hall_1,二の丸,Second Gatehouse
+318,HyruleCastle_Hall_2,三の丸,First Gatehouse
+319,HyruleCastle_Room_0,展望室,Observation Room
+320,HyruleCastle_Room_1,食堂,Dining Hall
+321,HyruleCastle_Room_10,東坑道,East Passage
+322,HyruleCastle_Room_11,西坑道,West Passage
+323,HyruleCastle_Room_2,訓練所,Guards' Chamber
+324,HyruleCastle_Room_3,図書室,Library
+325,HyruleCastle_Room_5,牢屋,Lockup
+326,HyruleCastle_Room_6,ゼルダの部屋,Princess Zelda's Room
+327,HyruleCastle_Room_7,船着き場,Docks
+328,HyruleCastle_Room_8,ゼルダの研究室,Princess Zelda's Study
+329,HyruleCastle_Room_9,王の書斎,King's Study
+330,HyruleCentralPlace,中央広場跡,Central Square
+331,HyruleDepthHatago,平原外れの馬宿,Outskirt Stable
+332,HyruleEastTown,ハイラル東城下町跡,East Castle Town
+333,HyruleGarrison,ハイラル軍駐屯地跡,Hyrule Garrison Ruins
+334,HyruleGround,ハイラルの大地,Hyrule Kingdom
+335,HyruleLabo,王立古代研究所跡,Royal Ancient Lab Ruins
+336,HyrulePark,ハイラル森林公園跡,Hyrule Forest Park
+337,HyrulePlace,ハイラル軍演習場跡,Military Training Camp
+338,HyruleTemple,ハイラル大聖堂跡,Hyrule Cathedral
+339,HyruleTower,城下町物見塔跡,Castle Town Watchtower
+340,HyruleWater,貯水池跡,Water Reservoir
+341,HyruleWestHatago,マリッタ馬宿,Serenne Stable
+342,HyruleWestTown,ハイラル西城下町跡,West Castle Town
+343,Hyrule_Out,ハイラル城外堀,Hyrule Castle Moat
+344,IbaraPlateau,イバーラ高地,Ibara Butte
+345,IceHouse,北の氷室,Northern Icehouse
+346,IkokoPlateau,トロイワ高原,Talus Plateau
+347,ImeruMt,エルム丘陵,Elma Knolls
+348,IooValley,ベーレ谷,Trilby Valley
+349,IrimoLake,ゴダイ湖,Goronbi Lake
+350,IrimoRiver,ゴダイ川,Goronbi River
+351,IsakiCape,イサキ岬,Soka Point
+352,IsakuIslands,千の中州,Millennio Sandbar
+353,JedaPlateau,ウメタケ台地,Koukot Plateau
+354,JijigegeMt,ロズウッド山,Mount Rozudo
+355,JiuRiver,ゾーラ川,Zora River
+356,JogoBridge,レボナ橋,Rebonae Bridge
+357,JokuBridge,モヨリ橋,Proxim Bridge
+358,KagossaMt,カゴッサ連峰,Zokassa Ridge
+359,KaiyanPlain,アラブー平野,Rabia Plain
+360,KakamoLake,トッチャ湖,Telta Lake
+361,KakaomePlain,バーチ平原,Irch Plain
+362,Kakariko,カカリコ村,Kakariko Village
+363,KakufusaPlain,草笛の丘,Whistling Hill
+364,KamasuPlateau,カーマス台地,Kamah Plateau
+365,KamutariPlateau,ファーレン台地,Phalian Highlands
+366,KapporeMt,カッポレ山,Mount Faloraa
+367,KarimikiLake,クス湖,Camphor Pond
+368,KarusaValley,カルサー谷,Karusa Valley
+369,KasuraMt,カスラー山,Corvash Peak
+370,KattoriPlateau,フロドーラ台地,Farosh Hills
+371,KaturaCastle,賢者の神殿跡,Sage Temple Ruins
+372,KaturaRiver,ヒメガミ川,Regencia River
+373,KauLake,ヘブラ湖,Hebra Plunge
+374,KazanaDungeon,カザーナ裂谷,Tempest Gulch
+375,KazuryuLake,カズリュー湖,Dracozu Lake
+376,KazuryuRiver,カズリュー川,Dracozu River
+377,KazusuPass,ケポラ峠,Kaepora Pass
+378,KibakkaSnow,ヘブラ水源,Hebra Headspring
+379,KibinaLake,キビナ湖,Herin Lake
+380,KihirePlain,キヒレ平原,Keelay Plain
+381,KikinosaMt,ラブラー山,Lindor's Brow
+382,KikinosaPlain,ラブラー丘,Upland Lindor
+383,KimarikaMt,目覚め山,Peak of Awakening
+384,KimarikaPlateau,カイゲン高地,Nirvata Plateau
+385,KingValley,忘れ去られた神殿,Forgotten Temple
+386,KingfisherSpa,ゼッカワミの秘湯,Sherfin's Secret Hot Spring
+387,KinmePlateau,コホリット台地,Koholit Rock
+388,KinshoiMt,ダフネス山,Mount Daphnes
+389,KirisasaPlateau,ラネール高地,Lanayru Bluff
+390,KiriyabuMt,ボヌール山地,Bonooru's Stand
+391,KitakkareBeach,キタッカレ海岸,North Akkala Beach
+392,KitakkarePlain,キタッカレ平原,North Akkala Valley
+393,KitakkarePlateau,キタッカレ高地,North Akkala Foothill
+394,KitanoBay,ハテノ湾,Hateno Bay
+395,KiyanbaTrees,チロリの森,Minshi Woods
+396,KochuBridge,カカリコ橋,Kakariko Bridge
+397,KoganeyaLake,コガネヤ池,Keya Pond
+398,KokuppiSnow,コクッピ雪原,Kopeeki Drifts
+399,KokuwaLake,タモ沼,Ash Swamp
+400,KomoreBeach,コモレビーチ,Komo Shoreline
+401,KondanaLake,ダルボ池,Darb Pond
+402,KoshaIsland,デイビ島,Davdi Island
+403,KuhanLake,クハン池,Hanu Pond
+404,KukujaValley,ククジャ谷,Tanagar Canyon
+405,KumPlateau,クムの地,Sturnida Basin
+406,KumSpa,クムの秘湯,Sturnida Secret Hot Spring
+407,KunaiBridge,アクオ橋,Aquame Bridge
+408,KunaiLake,アクオ湖,Aquame Lake
+409,KurindaPrairie,カサイメ平原,Darybon Plains
+410,KurisobeSnow,ベリル雪原,Risoka Snowfield
+411,KuroidaPlateau,クロイダ高地,Breman Peak
+412,KutenLake,クテン池,Uten Marsh
+413,KutiffMt,ローム山,Mount Rhoam
+414,LakeFloria,フロリア湖,Lake Floria
+415,LakeHylia,ハイリア湖,Lake Hylia
+416,LanayruBay,ラネール湾,Lanayru Bay
+417,LanayruEastEntrance,ラネール参道東口,Lanayru Road - East Gate
+418,LanayruWestEntrance,ラネール参道西口,Lanayru Road - West Gate
+419,LaveBeach,ラーヴェ岩礁,Laverra Beach
+420,LeMarbeBridge,ジェド橋,Jeddo Bridge
+421,LightningPlateau,雷の台地,Thundra Plateau
+422,LittleBrotherBridge,ふたご弟橋,Little Twin Bridge
+423,LocationDungeon,古代の祠,Ancient Shrine
+424,LomeiIslands,ローメイ島,Lomei Labyrinth Island
+425,LostForest,迷いの森,Lost Woods
+426,MacusePeninsula,マキューズ半島,Rist Peninsula
+427,MakuminoValley,マクミノ谷,Harfin Valley
+428,ManbaLake,ゴロス湖,Goro Cove
+429,MapArea_CentralHyrule,ハイラル平原,Hyrule Field
+430,MapArea_DeathMountain,デスマウンテン,Death Mountain
+431,MapArea_EastHateru,東ハテール,East Necluda
+432,MapArea_EldinCanyon,オルディン峡谷,Eldin Canyon
+433,MapArea_EldinMountains,オルディン山脈,Eldin Mountains
+434,MapArea_FironeGrassland,フィローネ草原,Faron Grasslands
+435,MapArea_FironeSea,フィローネ海,Faron Sea
+436,MapArea_GerudoDesert,ゲルド砂漠,Gerudo Desert
+437,MapArea_GerudoHighlands,ゲルド高地,Gerudo Highlands
+438,MapArea_HateruSea,ハテール海,Necluda Sea
+439,MapArea_HeburaMountains,ヘブラ山脈,Hebra Mountains
+440,MapArea_HyliaLake,ハイリア湖,Lake Hylia
+441,MapArea_HyruleForest,ハイラル大森林,Great Hyrule Forest
+442,MapArea_HyruleHill,ハイラル丘陵,Hyrule Ridge
+443,MapArea_LanayruSea,ラネール海,Lanayru Sea
+444,MapArea_LanayruWaterSources,ラネール大水源,Lanayru Great Spring
+445,MapArea_LanayruWetlands,ラネール湿原,Lanayru Wetlands
+446,MapArea_LiveMountain,ラネール山,Mount Lanayru
+447,MapArea_TabantaFrontier,タバンタ辺境,Tabantha Frontier
+448,MapArea_TamulOutback,奥アッカレ,Deep Akkala
+449,MapArea_TamulPlateau,アッカレ高原,Akkala Highlands
+450,MapArea_TamulSea,アッカレ海,Akkala Sea
+451,MapArea_WestHateru,西ハテール,West Necluda
+452,MapRegion_Eldin,オルディン地方,Eldin
+453,MapRegion_Firone,フィローネ地方,Faron
+454,MapRegion_Gerudo,ゲルド地方,Gerudo
+455,MapRegion_Hateru,ハテール地方,Necluda
+456,MapRegion_Hebura,ヘブラ地方,Hebra
+457,"""MapRegion_HyrulePrairi",中央ハイラル,Central Hyrule
+458,MapRegion_Lanayru,ラネール地方,Lanayru
+459,MapRegion_Tamul,アッカレ地方,Akkala
+460,MarittaHill,マリッタの丘,Salari Hill
+461,MarittaPrairie,マリッタ平原,Salari Plain
+462,MaronSpring,マーロンの泉,Malanya Spring
+463,MarritaExchange,マリッタ交易所跡,Maritta Exchange Ruins
+464,MasazuBridge,オホリ橋,Moat Bridge
+465,MasazuRock,砕石所跡,Quarry Ruins
+466,MedakaValley,ウルラ峡谷,Ulria Grotto
+467,MeganeRock,めがね岩,Spectacle Rock
+468,MemeMt,雷獣山,Ploymus Mountain
+469,MenadaBeach,アーモシア海岸,Afromsia Coast
+470,MerkayaLowTrees,オブババ草地,Taobab Grassland
+471,MezusuPass,カルーガ峠,Rospro Pass
+472,MiddleTrees,ドルミの森,Midla Woods
+473,MihekoBay,マーリン湾,Malin Bay
+474,MinakkareBridge,ミナッカレ橋,Sokkala Bridge
+475,MinakkareBridgeEast,東ミナッカレ橋,East Sokkala Bridge
+476,MinakkareBridgeWest,西ミナッカレ橋,West Sokkala Bridge
+477,MinakkareFalls,ミナッカレの滝,Akkala Falls
+478,MinakkareLake,ミナッカレ湖,South Lake Akkala
+479,MinakkarePlain,ミナッカレ平原,South Akkala Plains
+480,MinaminoBay,ミナミノ湾,Loshlo Harbor
+481,Mine,北の廃坑,Abandoned North Mine
+482,MizemakuMt,ウォルナット山,Walnot Mountain
+483,MomoMt,天望の丘,Scout's Hill
+484,MoriMt,ウルリ山,Ulri Mountain
+485,MoroLake,ミカウ湖,Mikau Lake
+486,MorudaMt,モルダバ山,Daval Peak
+487,MorugaMt,モルガナ山,Mount Granajh
+488,MuguriPlain,クロチェリー平原,Blatchery Plain
+489,NaganizaHill,テムート丘陵,Temto Hill
+490,NagyuPlateau,タルタル台地,Tal Tal Peak
+491,NaierunPeninsula,ロードラム半島,Lodrum Headland
+492,NanaimoPlain,ラーミン平原,Rowan Plain
+493,NangoPond,ゼロー池,Zelo Pond
+494,NantanCastle,南ローメイ城跡,South Lomei Labyrinth
+495,NaruguPeninsula,カエデ半島,Mapla Point
+496,NefraHill,ネフラ高地,Nephra Hill
+497,NezuppoTrees,ネズッポの林,Pappetto Grove
+498,NiiLake,サン湖,Cora Lake
+499,NikakaIsland,ニカカ島,Isle of Rabac
+500,NishakkarePlain,カナレット高原,Kanalet Ridge
+501,NishojiBridge,グリオー橋,Gleeok Bridge
+502,NitariBeach,コルネビーチ,Korne Beach
+503,NomyPlain,チナガレ湿地帯,Ludfo's Bog
+504,NorthHatelHatago,湿原の馬宿,Wetland Stable
+505,NorthHugeStone,北ゲルド巨石,Great Cliffs
+506,NutsLake,サリヤ湖,Lake Saria
+507,Oasis,カラカラバザール,Kara Kara Bazaar
+508,OkuAkkarePlain,奥アッカレ平原,Akkala Wilds
+509,OkuwaLake,シェーラ湖,Lake Siela
+510,OngiForest,りんごの森,Applean Forest
+511,OoosePlain,オーセ平原,Oseira Plains
+512,OrdinBridge,オルディン橋,Bridge of Eldin
+513,OrdinFossil,オルディンの大化石,Eldin Great Skeleton
+514,OrupaPlateau,オルパー台地,Laparoh Mesa
+515,OsanjoBridge,フェンサ橋,Helmhead Bridge
+516,OshoromaLake,ルト湖,Ruto Lake
+517,OtsukoWet,ターリン湿地,Torin Wetland
+518,PafaBeach,パファー海岸,Puffer Beach
+519,PaiyuBay,ホロン湾,Horon Lagoon
+520,PakanchiIsland,ナクルン島,Knuckel Island
+521,PaparaPlateau,スタルリ台地,Stalry Plateau
+522,PearlWaste,パル荒地,Palu Wasteland
+523,PeridoBarrier,ペリド関所,Champion's Gate
+524,PongagaMt,エボニ山,Ebon Mountain
+525,PoponMt,サトリ山,Satori Mountain
+526,PostTownRuin,ハイラル宿場町跡地,Outpost Ruins
+527,PowerFountain,力の泉,Spring of Power
+528,PstaLake,ミード沼,Mido Swamp
+529,PukiroroMt,ド・ボン山脈,Zodobon Highlands
+530,PukuntoMt,底なしの沼,Bottomless Swamp
+531,PupukoreFalls,セラの滝,Veiled Falls
+532,Quilton,マモノショップ,Fang and Bone
+533,RaberaWet,ラベラ湿地帯,Rabella Wetlands
+534,RapikuruPlateau,ジャーブ台地,Ja'Abu Ridge
+535,RapinyaPlateau,ルト台地,Ruto Precipice
+536,RaruLake,コーラル湖,Calora Lake
+537,RashamaPlain,北ハイラル平原,North Hyrule Plain
+538,RazezePlateau,ラネール台地,Lanayru Heights
+539,RemainsElectric,神獣 ヴァ・ナボリス,Divine Beast Vah Naboris
+540,RemainsFire,神獣 ヴァ・ルーダニア,Divine Beast Vah Rudania
+541,RemainsWater,神獣 ヴァ・ルッタ,Divine Beast Vah Ruta
+542,RemainsWind,神獣 ヴァ・メドー,Divine Beast Vah Medoh
+543,RiaroTrees,ヒッコリ森林,Hickaly Woods
+544,RiberaForest,樹海リベラ,Ebara Forest
+545,RibuchaPlateau,アルダー台地,Aldor Foothills
+546,Rikona_Peninshra,リコナ半島,Rikoka Hills
+547,RinosPass,リノス峠,Dronoc's Pass
+548,RirikendoBridge,オーレン橋,Oren Bridge
+549,RirimukuHighlands,ウォルナー高地,Drenan Highlands
+550,RirimukuMt,ウォルナー山,Mount Drena
+551,RiritotoLake,リリトト湖,Lake Totori
+552,RishakutoPlateau,ナリシャ高地,Pillars of Levia
+553,Rito,リトの村,Rito Village
+554,RitoHatago,リトの馬宿,Rito Stable
+555,RiverSideHatago,リバーサイド馬宿,Riverside Stable
+556,RodaiLake,ロダイ湖,Rodai Lake
+557,RogyLake,ジャラ湖,Lake Jarrah
+558,RokomakuMt,マドロナ山,Madorna Mountain
+559,RonronCity,メーベの町跡,Mabe Village Ruins
+560,RonronFarm,平原の牧場跡,Ranch Ruins
+561,RonronRiver,ハイリア川,Hylia River
+562,RoshiganLake,南ナビ湖,South Nabi Lake
+563,RosomaLake,トト湖,Toto Lake
+564,RuberaHill,マクアリン高地,Cliffs of Ruvara
+565,RutesLake,ルーテス湖,Corta Lake
+566,RutimaHill,ルチマー高地,Rutimala Hill
+567,RutsuPlain,ルツ平原,Rayne Highlands
+568,SaiMt,グスタフ山,Mount Gustaf
+569,SaihokuCastle,北ローメイ城跡,North Lomei Labyrinth
+570,SanaePlateau,バウメル高地,Hills of Baumer
+571,SanrosaLake,ルピ湖,Pico Pond
+572,SaohPoint,トモエ山道,Ternio Trail
+573,SaphiasPlateau,サフィアス台地,Sapphia's Table
+574,SarjonBridge,サージョン橋,Sarjon Bridge
+575,SarjonForest,樹海サージョン,Sarjon Woods
+576,SasamuroBeach,クラリビーチ,Clarnet Coast
+577,ShariverMt,シャリバ岳,Talonto Peak
+578,ShichijoBridge,ホーネル橋,Horwell Bridge
+579,ShigonDam,ラネール参道中央広場,Lanayru Promenade
+580,ShijoBridge,マズラ橋,Orsedd Bridge
+581,ShikuriIslands,ウインタ島,Wintre Island
+582,ShimukaPlateau,ブレッド台地,Robred Dropoff
+583,ShinikkyoForest,巨人の森,Giant's Forest
+584,ShinyarkiPlateau,ラウル丘陵,Rauru Hillside
+585,ShinyarkiVillage,ラウル集落跡,Rauru Settlement Ruins
+586,ShitanoPond,タルホ池,Firly Pond
+587,SnowStatue,八人目の英雄像,Statue of the Eighth Heroine
+588,SojijiHill,サルファの丘,Safula Hill
+589,SojijiPark,サーディン公園跡,Sanidin Park Ruins
+590,SonoPrairie,ベーレ平原,Trilby Plain
+591,SoridaPeninsula,チクルン島,Tingel Island
+592,SotonkaBridge,テスタ橋,Manhala Bridge
+593,SouthGerudoLegacy,処刑場跡,Arbiter's Grounds
+594,SouthGerudoRuins,南のオアシス,Southern Oasis
+595,SouthMine,南採掘場,Southern Mine
+596,StartPoint,回生の祠,Shrine of Resurrection
+597,StonePillers,古代石柱群,Ancient Columns
+598,SugrantForest,樹海スグラント,Pagos Woods
+599,SusonoLake,ルチル湖,Rutile Lake
+600,SusonoPlain,イルメナ台地,Illumeni Plateau
+601,SusonoPond,イルメナ池,Lake Illumeni
+602,SusonoRiver,タイアモン川,Tamio River
+603,SusukadiBridge,ダルブル橋,Inogo Bridge
+604,SwanLake,ヘブラ川,Hebra Falls
+605,TabantaBridge,タバンタ大橋,Tabantha Great Bridge
+606,TabantaBridgeHatago,タバンタ大橋馬宿,Tabantha Bridge Stable
+607,TabantaCrater,ギサのクレーター,Gisa Crater
+608,TabantaHatago,雪原の馬宿,Snowfield Stable
+609,TabantaHill,タバンタヒル,Tabantha Hills
+610,TabantaSnow,タバンタ大雪原,Tabantha Tundra
+611,TabantaSnow_North,北タバンタ雪原,N. Tabantha Snowfield
+612,TabantaSnow_South,南タバンタ雪原,S. Tabantha Snowfield
+613,TabantaVillage,タバンタ村跡,Tabantha Village Ruins
+614,TafeaHill,ターフェア高地,Taafei Hill
+615,TagonaTrees,タバール森林,Tabahl Woods
+616,TakkikaPlain,ニーケル平原,Nima Plain
+617,TamaLake,タマ湖,Tama Pond
+618,TamourHatago,ヒガッカレ馬宿,East Akkala Stable
+619,TamulPlain,オルドーラ盆地,Ordorac Quarry
+620,TamurulHatago_02,ミナッカレ馬宿,South Akkala Stable
+621,TargarPlain,ブレンヌの丘,Brynna Plain
+622,TaruhoPlateau,タルホ台地,Firly Plateau
+623,TaserakaBridge,ミスミ橋,Thims Bridge
+624,TatsubaLake,モルセ湖,Batrea Lake
+625,Taura,ウオトリー村,Lurelin Village
+626,TeguriPlain,テグリー平原,Grinnden Plains
+627,TehotaWet,テホタ湿地,Nautelle Wetlands
+628,TennoMt,ワシュアの丘,Washa's Bluff
+629,TeraPlain,メーベ草原,Mabe Prairie
+630,TerumeMt,テルメ山,Mount Taran
+631,TerumePass,テルメ峠,Taran Pass
+632,TimesShrine,時の神殿跡,Temple of Time
+633,TohikiLake,トヒキ池,Koto Pond
+634,TomiyoPlateau,ロッタート台地,Trotter's Downfall
+635,TompoPlain,ロマーニ平原,Romani Plains
+636,ToriaBridge,ボッチ橋,Boneyard Bridge
+637,TorumaDesert,ルマリン砂丘,Toruma Dunes
+638,TotenLake,ラナ湖,Oakle's Navel
+639,TotsugeBridge,カロク橋,Carok Bridge
+640,Tower01,ヘブラの塔,Hebra Tower
+641,Tower02,タバンタの塔,Tabantha Tower
+642,Tower03,ゲルドの塔,Gerudo Tower
+643,Tower04,荒野の塔,Wasteland Tower
+644,Tower05,森林の塔,Woodland Tower
+645,Tower06,平原の塔,Central Tower
+646,Tower07,始まりの塔,Great Plateau Tower
+647,Tower08,双子山の塔,Dueling Peaks Tower
+648,Tower09,湖の塔,Lake Tower
+649,Tower10,オルディンの塔,Eldin Tower
+650,Tower11,アッカレの塔,Akkala Tower
+651,Tower12,ラネールの塔,Lanayru Tower
+652,Tower13,ハテノ塔,Hateno Tower
+653,Tower14,フィローネの塔,Faron Tower
+654,Tower15,丘陵の塔,Ridgeland Tower
+655,TrakaIsland,ドゥエス島,Linebeck Island
+656,TrakaIsland_Big,メルカ島,Mercay Island
+657,TrakaIsland_Center,コポンガ島,Goponga Island
+658,TrakaIsland_East,ミオウ島,Kincean Island
+659,TrakaIsland_New,モルデ島,Molida Island
+660,TrakaIsland_North,ホコラ島,Shrine Island
+661,TrakaIsland_Small,ボヌン島,Bannan Island
+662,TrakaIsland_South,サウズ島,Zauz Island
+663,TrakaIsland_West,ウエス島,Wes Island
+664,TryCape,試しの岬,Shatterback Point
+665,TsukaiePlateau,ツカイエ台地,Stinger Cliffs
+666,TuaboSnow,ツァボ雪原,Vatorsa Snowfield
+667,TunbriPlain,イサミ平原,Courage Steppe
+668,TurasuBridge,馬神橋,Horse God Bridge
+669,TurasuLake,馬神湖,Lake of the Horse God
+670,TutukikiSnow,ツツキキ雪原,Pikida Stonegrove
+671,TwinsMountain,双子山,Dueling Peaks
+672,UMiiVillage,イチカラ村,Tarrey Town
+673,UbotsuPlateau,ウボッツ台地,Ubota Point
+674,UchoPlateau,メーブル高原,Mable Ridge
+675,UkkoPond,ウッコ池,Lake Kilsie
+676,Unknown,なし,N/A
+677,UraitoLake,ウライト湖,Riola Spring
+678,UrokoCape,ウーロコ岬,Cape Cales
+679,VPlateau,ジルコー台地,Zirco Mesa
+680,ValleyVillage,飛行訓練場,Flight Range
+681,WabiLake,アッカレ湖,Lake Akkala
+682,WatakaPlateau,クオタ台地,Quatta's Shelf
+683,WeaponCureSpring,大妖精の泉,Great Fairy Fountain
+684,WestEunpoHighlands,西エウンポ高地,West Deplian Badlands
+685,WestGerudo,西ゲルド,West Barrens
+686,WestGerudoRuins,西ゲルド遺跡,West Gerudo Ruins
+687,WetGarrison,湿原の駐屯地跡,Moor Garrison Ruins
+688,WhiteZora,ゾーラの里,Zora's Domain
+689,WiseFountain,知恵の泉,Spring of Wisdom
+690,XehaPlateau,ゾラ台地,Upland Zorana
+691,XekuBridge,デグドの吊り橋,Digdogg Suspension Bridge
+692,YamabiLake,ヤマビ湖,Yambi Lake
+693,YamariRiver,ノッケ川,Squabble River
+694,YarimoRiver,ミキキ川,Golow River
+695,YashinoBeach,ヤシノビーチ,Palmorae Beach
+696,YashinoLegacy,ヤシノ遺跡,Palmorae Ruins
+697,YuaSnow,ネルドーラ雪原,Naydra Snowfield
+698,ZamaPlain,セレス平原,Seres Scablands
+699,ZaridoLake,ダルマー湖,Lake Darman
+700,ZaridoPlateau,オルディン台地,Eldin's Flank
+701,ZifForest,時の森,Forest of Time
+702,ZitoGreens,唄ドリの草原,Passeri Greenbelt
+703,ZonauLegacy,ゾナウ遺跡群,Zonai Ruins
+704,ZoraBridge,ゾーラ大橋,Great Zora Bridge

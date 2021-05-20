@@ -1,0 +1,225 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I'll buy.
+2,"""0001""",売る,Can I sell to you?
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,I'll buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,こりゃあ まだまだ安心できねえナ,I'm still too nervous to relax.
+11,Atacked01,なんで こんな目にあうだかナ？,Why this? Why now? Why me?
+12,Com_Talk_00,とりあえず見せてみろっテ,Can't hurt to look.
+13,Com_Talk_01,"を売るんけ？
+ルピーだけど いいけ？","You're selling that? I guess I can give
+you  rupees."
+14,Com_Talk_02,"ホイ ありがとサン！
+他にも売りたいものは あるけ？",Great. Was that all you wanted?
+15,Com_Talk_02b,ありがとサン,*nod*
+16,Com_Talk_02c,ホイ ありがとサン！,*nod* Thanks.
+17,Com_Talk_02d,まだ何かあるけ？,Did you need something else?
+18,Com_Talk_04,そりゃ残念だアよ,Too bad.
+19,Com_Talk_05,何でも買い取るけぇ！,I buy anything.
+20,Com_Talk_05b,売る物あるなら見せろっテ,"If you have something to sell, don't hold
+out on me."
+21,Com_Talk_05c,何やら売ってくれるのけ？,What are you offering?
+22,Com_Talk_05d,まあとりあえず見せてみろっテ,Why not just show me?
+23,Com_Talk_06,どれが欲しいんけ？,What did you want?
+24,Com_Talk_07,申しわけねえそいつは品切れだアよ,"Sorry, I'm out."
+25,Com_Talk_08,"ルピーが足りねえだナ
+何か売っ払って金サ作るだナ","You can't afford that. I'm running a shop,
+not a charity."
+26,Com_Talk_09,"ポーチがいっぱいだアよ
+売るなり捨てるなりして空きサ作るだナ","You're out of room. I can't sell you stuff
+you can't carry."
+27,Com_Talk_10,"を買うってことで
+いいんけ？",You're sure?
+28,Com_Talk_11,ありがとサンね,Thanks.
+29,Com_Talk_11b,ハイ ありがとサン,OK. Thanks.
+30,Com_Talk_11c,"ポカポカと ヒンヤリの虫なら
+うちで買ってけっテ","We got both kinds of bugs here: warm
+AND cool."
+31,Com_Talk_11d,ホイ ありがとサン,Nice. Thanks.
+32,Com_Talk_12,"ヤンマなら揃ってるけぇ
+ゆっくり見てけっテ","I've got some darners...and that's
+about it. See for yourself."
+33,Com_Talk_13," け？
+いくつ売ってくれる？",How many were you thinking of selling?
+34,Com_Talk_14,"を個で
+合わせてルピーになるだアよ",I'll give you  rupees.
+35,Com_Talk_15,"それは引き取れねえナ
+悪く思わねえでけろ","Hmm, nah. Nothing personal, I just don't
+think I could flip it."
+36,Com_Talk_16,着てる服サ脱いでからでねえと…,"I'm not going to buy clothes that you're
+still wearing. No merchant would..."
+37,Com_Talk_20,"雨で体が冷えねえといいが…
+なんなら ポカポカアゲハ買ってくか？","I hope you don't catch cold in this rain.
+Would it help if I offered to sell you
+a summerwing butterfly?"
+38,Com_Talk_30,"が個で
+ルピーになるだけどいいけ？",That'll be  rupees.
+39,Com_Talk_31,"を買ってくれるんけ？
+いくつ必要だ？",How many you need?
+40,Com_Talk_33,"をひとつけ？
+それならルピーだアよ",Only one? OK. That'll be  rupees.
+41,Com_Talk_34,"を あるだけ全部だナ？
+個でルピーだけど いいけ？","ALL of them? OK. That'll be
+ rupees."
+42,Com_Talk_35,"を個全部だナ？
+合計ルピーで買い取るけど いいけ？","So...all of them? Sure. I'll pay
+ rupees."
+43,Com_Talk_36,"これで最後だアよ
+いっぱい買ってくれて うれしいだナ",That's it. I'm out. Thanks for that.
+44,Com_Talk_37,"もう今日は売るものがないだアよ
+たくさん買ってくれてありがとサン！
+入荷予定の品物リストだけでも見ていくけ？","What can I say? You bought everything
+I had. I could...pretend I still had some
+in stock? Yeah?"
+45,Com_Talk_56,"を ひとつでいいのけ？
+それならルピーだアよ",One? Sure. That's  rupees.
+46,Failed00,なんとか今のうちに逃げちまうけ！,"Now's my chance! To run away, I mean."
+47,Failed01,いてて…ロバは…ロバは無事け？,Ooog... My donkey... Is my donkey OK?
+48,GoodBye00,それじゃあ お互い達者でナ！,Sounds good. See you.
+49,MSG_Gerud_00,"オラ ここで引き返すことにするだアよ
+なぜかっていうと…
+ゲルド砂漠では砂に足を取られちまうけぇ
+ロバも馬も連れていけねえだナ","I'm turning back. The Gerudo Desert
+sands are murder on my feet, and my
+donkey's too loaded down to ride."
+50,MSG_Gerud_00_1,"ゲルド砂漠では砂に足を取られちまうけぇ
+ロバも馬も連れていけねえだよ","The Gerudo Desert sands are murder on
+my feet, and my donkey's too loaded
+down to ride."
+51,MSG_Gerud_01,"いやいや ゲルド族以外の旅人は大変だ
+なぜかってえと…
+砂漠ってのは昼は暑くて夜は寒いけぇ
+両方の装備が必要だもんナア","The desert's scorching by day and
+freezing at night.Those Gerudo women are probably the
+only ones prepared for both."
+52,MSG_Gerud_01_1,"砂漠ってのは昼は暑くて夜は寒いけぇ
+両方の装備が必要だアよ","The desert's scorching by day and
+freezing at night. You'd better be
+prepared for both!"
+53,MSG_Gerud_02,"ゲルドキャニオン馬宿で ひと休みもいいけど
+旅は まだまだ続けるつもりけ？
+ポカポカする薬の元や ヒンヤリする薬の元サ
+ちゃんと備えているけ？","Gerudo Canyon Stable is a nice place
+and all, but are you going further into
+the desert from here?
+Because if so, you should make some
+elixirs to keep you both warm
+and cool."
+54,MSG_Gerud_02_1,"ポカポカする薬の元や ヒンヤリする薬の元…
+ちゃんと備えているけ？","You should make some elixirs to keep
+you both warm and cool in the desert."
+55,MSG_Gerud_03,"旅のお供に必要な薬は持ってるけ？
+薬を作る魔物の素材は集めたけ？
+夜の寒さより昼の暑さの方がキツいけぇ
+作るなら まずはヒンヤリする薬かナ？","Got enough elixir for your trip into the
+desert? Need any monster parts to
+make more?
+The daytime heat is much worse than the
+chill at night. If you can only do one,
+I'd make some cooling elixir."
+56,MSG_Gerud_03_1,"夜の寒さより昼の暑さの方がキツいけぇ
+薬を作るなら まずはヒンヤリするやつだナ","The daytime heat is much worse than
+the chill at night. If you can only do one,
+I'd make some cooling elixir."
+57,MSG_Gerud_04,"うーん…この先は魔物が多いけぇ
+旅人が少なくて商売にならねえだアよ
+魔物が何か買ってくれるはずもねえので
+オラ ここで引き返そうと思ってるとこだ","Careful... There's lots of monsters past 
+this point. If they claim any more
+travelers, my business is sunk.
+After all, what's a monster need with
+my bugs? Nah... This is the end of the
+line for me."
+58,MSG_Gerud_04_1,"この先は魔物が多いけぇ
+オラ ここで引き返そうと思ってるとこだ","I'm turning back. Too many monsters
+past this point for my tastes."
+59,Near00,ポカポカ ヒンヤリ…,I got both kinds here...
+60,Near01,虫を買ってけっテ,Anyone need some bugs?
+61,Near02,ヒンヤリ ポカポカ,Hot and cold bugs here!
+62,Near03,虫を買ってけっテ,Bugs for sale! All kinds!
+63,Rest_00,"物を売りに砂漠の向こうにも行ってみてえが
+ロバや馬は砂に足を取られちまうからナ…
+んなわけで オラ この辺で商売してるだアよ","I'd like to travel the desert to sell my
+wares, but I haven't found a pack animal
+yet that won't get stuck in the sand."
+64,RetMSG_Gerud_00,"ゲルド砂漠の先にあるカラカラバザール…
+そこは商人の集まるオアシスだアよ
+けんども砂漠をロバさ連れ歩くのは無理だで
+オラ馬宿の方さ引き返してるところだ","The Kara Kara Bazaar just beyond the
+Gerudo Desert is an oasis packed with
+merchants.
+Too much competition for me. Plus I
+don't wanna drag my donkey out there. 
+The stables are more my speed."
+65,RetMSG_Gerud_00_1,"カラカラバザールならゲルド砂漠の先…
+商人の集まるオアシスだアよ","The Kara Kara Bazaar just beyond the
+Gerudo Desert is an oasis packed with
+merchants."
+66,RetMSG_Gerud_01,"もしかして砂漠に行くのけ？
+だとしたら薬は持っているけ？
+ポカポカやヒンヤリの薬が
+虫と魔物の素材で作れるのは知ってたけ？","Bound for the desert? Did you stock up
+on medicine?Did you know you can make an elixir
+that keeps you warm or cool with just
+a few bugs and monster parts?"
+67,RetMSG_Gerud_01_1,"ポカポカやヒンヤリの薬が
+虫と魔物の素材で作れるのは知ってたけ？","Did you know you can make an elixir
+that keeps you warm or cool with just
+a few bugs and monster parts?"
+68,RetMSG_Gerud_02,"あんた旅の装備は万全け？
+もしそうでねえなら薬を充実させたらいい
+馬宿で ヒンヤリする薬やポカポカする薬を
+休憩がてら作ってみたらどうけ？","Are you REALLY ready to cross the
+desert? If not, you should stock up on
+elixir.
+You can make some that warm you up
+or cool you down while taking a break
+right here at the stable. Try it."
+69,RetMSG_Gerud_02_1,"馬宿で ヒンヤリする薬やポカポカする薬を
+休憩がてら作ってみたらどうけ？","You can make an elixir that warms you
+up or cools you down while taking a
+break right here at the stable. Try it."
+70,RetMSG_Gerud_03,"昼に砂漠さ行くなら ヒンヤリする薬
+夜の砂漠を移動するなら ポカポカする薬…
+どちらも虫と魔物の素材で作れるだアよ","If you're planning a trip through the
+desert by day, you'll need an elixir to
+cool you off.
+At night, it's a different story. That's
+when you need some warming tonic.Either one just takes a few bugs and
+some monster parts."
+71,RetMSG_Gerud_03_1,"ヒンヤリする薬 ポカポカする薬…
+どちらも虫と魔物の素材で作れるだアよ","There are elixirs that can warm you up
+and elixirs that can cool you down.Either one just takes a few bugs and
+some monster parts."
+72,RetMSG_Gerud_04,"もし長旅になるなら虫が重要になるだナ
+何を言ってるのかって？
+旅を助ける薬を作るために
+虫が必要になってくるって話だアよ","You'll need some of my bugs if you have
+a long trip planned.Why, you ask? Good question. They're
+important ingredients in the elixirs
+you need to survive harsh climates."
+73,RetMSG_Gerud_04_1,"旅を助ける薬を作るためには
+虫が必要だアよ","Bugs are important ingredients in the
+elixirs you need to survive the desert
+climate."
+74,SavedLv1_00,ふぅ助かったけぇ！,"Well, I'm still alive. Guess that counts
+for something."
+75,SavedLv1_01,ンだな…油断は禁物だアな,"And here I thought that might be
+the end..."
+76,SavedLv2_00,いやいや たまげたナ…,"Wow, look at you. Nice \""moves.\"""
+77,SavedLv2_01,"魔物に襲われたら
+ソラ逃げるが一番だアよ","If a monster attacks and you don't run,
+well... You're not me, that's for sure."
+78,SavedLv3_00,ロバは無事か？荷物はどうけ？,Is my donkey OK? What about my cargo?
+79,SavedLv3_01,うへぇ～危機一髪だっただアよ,Yipes... That could've gone better.
+80,Talk01,"ちなみに オラの自慢の売り物は虫だ
+遠慮サしねえで売り物を見てってけろ",I sell bugs. What? It's a living!
+81,Talk02,他に何かあるけ？,You all set?
+82,Thanks00,"おめえさんのお陰で命拾いしただアよ
+遠慮はいらん これもらってくんろ","You saw me through alive. I don't know if
+you'd even want this, but it's yours."

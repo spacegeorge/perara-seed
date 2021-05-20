@@ -1,0 +1,91 @@
+#,Title,JPja,USen
+1,Guide_Attack,武器で攻撃,Use Weapon
+2,Guide_Attack_Msg,装備した武器を使って 攻撃できる,Attack with your equipped weapon.
+3,Guide_Attention,注目する,Lock on
+4,Guide_Attention_Msg,近くの敵を注目しながら戦う時などに有効,Effective for targeting.
+5,Guide_Attention_Sub00,長押し,Press and hold
+6,Guide_BackStep,バク宙,Backflip
+7,Guide_BackStep_Msg,敵が横になぎ払ってきた時は バク宙でかわす,Dodge enemy attacks by flipping backward.
+8,Guide_BackStep_Sub00,注目中に,Target enemy
+9,Guide_BackStep_Sub01,後方に移動,Backpedal
+10,Guide_BackStep_Sub02,ジャンプ,Jump
+11,Guide_Bow,弓矢で攻撃,Attack with Bow
+12,Guide_Bow_Msg,弓を装備する事で敵を遠距離から攻撃できる,Equip a bow to attack enemies from afar.
+13,Guide_Bow_Sub00,引き絞って,Draw bow
+14,Guide_Bow_Sub01,放つ,Release to fire
+15,Guide_GurdJust,ガードジャスト,Perfect Guard
+16,Guide_GurdJust_Msg,タイミングよく盾を突きだすと相手の攻撃を弾ける,Parry at the right time to knock an enemy back.
+17,Guide_GurdJust_Sub00,盾をかまえて,Ready shield
+18,Guide_GurdJust_Sub01,攻撃をはじく,Parry
+19,Guide_ItemUse,アイテムを使う,Use Rune
+20,Guide_ItemUse_Msg,シーカーストーンのアイテムを使う,Use selected rune from your Sheikah Slate.
+21,Guide_JumpAtack,ジャンプ斬り,Jump Slash
+22,Guide_JumpAtack_Msg,ジャンプ中や落下中の攻撃で広い範囲に攻撃できる,Attack from above and do splash damage.
+23,Guide_JumpAtack_Sub00,ジャンプ/落下中,In midair
+24,Guide_PadMenu,シーカーストーン,Check Sheikah Slate
+25,Guide_PadMenu_Msg,シーカーストーンの機能を使う画面を開く,Access your Sheikah Slate.
+26,Guide_Pause,ポーチを開く,Open Inventory
+27,Guide_Pause_Msg,武器や防具を手に入れたら ここで装備する,"Equip weapons, armor, and other gear here."
+28,Guide_Quest,冒険手帳を開く,Open Adventure Log
+29,Guide_Quest_Msg,チャレンジが起こったら ここで確認する,Your adventures will be detailed here.
+30,Guide_SandSeal,スナザラシの操作,Sand-Seal Surfing
+31,Guide_SandSeal_Msg,乗る前には盾を装備する必要がある,You will need to equip a shield before riding.
+32,Guide_SandSeal_Sub00,左右へ移動,Steer
+33,Guide_SandSeal_Sub01,おりる,Let go
+34,Guide_SandSeal_Sub02,ダッシュ,Dash
+35,Guide_Scope,望遠鏡とピンの打ち方,The Scope and Pins
+36,Guide_Scope_Msg,望遠鏡からマップに ピンを打ち込む事ができる,View distant things and mark them with pins.
+37,Guide_Scope_Sub00,押し込み,Press
+38,Guide_Scope_Sub01,ピンを打つ,Place a pin
+39,Guide_Shield,盾をかまえる,Raise Your Shield
+40,Guide_Shield_Msg,装備した盾で 敵の攻撃を防ぐことができる,Block when using a one-handed weapon.
+41,Guide_Shield_Sub00,長押し,Press and hold
+42,Guide_ShortCutArrow,矢をすばやく切り替える,Change Arrows
+43,Guide_ShortCutArrow_Msg,複数の種類の矢をすばやく切り替える事ができる,You can switch arrows quickly.
+44,Guide_ShortCutArrow_Sub00,弓を装備,Draw bow
+45,Guide_ShortCutArrow_Sub01,長押し,Press and hold
+46,Guide_ShortCutArrow_Sub02,切り替え,Switch
+47,Guide_ShortCutBow,弓をすばやく切り替える,Change Bow
+48,Guide_ShortCutBow_Msg,複数持つ弓をすばやく切り替える事ができる,You can switch bows quickly.
+49,Guide_ShortCutBow_Sub00,弓を装備,Draw bow
+50,Guide_ShortCutBow_Sub01,長押し,Press and hold
+51,Guide_ShortCutBow_Sub02,切り替え,Switch
+52,Guide_ShortCutItem,アイテムを切り替える,Change Runes
+53,Guide_ShortCutItem_Msg,複数のアイテムをすばやく切り替える,You can switch runes quickly.
+54,Guide_ShortCutItem_Sub00,長押し,Press and hold
+55,Guide_ShortCutItem_Sub01,切り替え,Switch
+56,Guide_ShortCutShield,盾をすばやく切り替える,Change Shield
+57,Guide_ShortCutShield_Msg,複数持つ盾をすばやく切り替える事ができる,You can switch shields quickly.
+58,Guide_ShortCutShield_Sub00,長押し,Press and hold
+59,Guide_ShortCutShield_Sub01,切り替え,Switch
+60,Guide_ShortCutSword,剣をすばやく切り替える,Change Weapon
+61,Guide_ShortCutSword_Msg,複数持つ剣をすばやく切り替える事ができる,You can switch weapons quickly.
+62,Guide_ShortCutSword_Sub00,長押し,Press and hold
+63,Guide_ShortCutSword_Sub01,切り替え,Switch
+64,Guide_SideStep,横跳び,Side Hop
+65,Guide_SideStep_Msg,敵が縦に振りかぶった時は横跳びでかわす,Dodge enemy attacks by hopping sideways.
+66,Guide_SideStep_Sub00,注目中に,Target enemy
+67,Guide_SideStep_Sub01,横に移動,Strafe
+68,Guide_SideStep_Sub02,ジャンプ,Jump
+69,Guide_SpinAtack,タメ攻撃,Charged Attacks
+70,Guide_SpinAtack_Msg,回転しながら広範囲に強力な攻撃を繰り出す,Prepare and unleash a powerful attack.
+71,Guide_SpinAtack_Sub00,力をタメて,Build power
+72,Guide_SpinAtack_Sub01,放つ,Release
+73,Guide_Squat,しゃがむ,Crouch
+74,Guide_Squat_Msg,足音が弱まり 静かに移動することができる,Allows you to move quietly.
+75,Guide_Squat_Sub00,押し込む,Press
+76,Guide_Surfing,盾サーフィン,Shield Surf
+77,Guide_Surfing_Msg,移動しながら盾を足元に出して下り坂をすべりおりる,Hop on your shield and slide down hills.
+78,Guide_Surfing_Sub00,盾を構えて,Guard
+79,Guide_Surfing_Sub01,ジャンプして,Jump
+80,Guide_Surfing_Sub02,乗る,Ride
+81,Guide_SystemMenu,システム画面を開く,Open System Menu
+82,Guide_SystemMenu_Msg,操作の確認・セーブ・オプション変更などを行う,"Check controls, save, or adjust game options."
+83,Guide_Throw,武器を投げる,Throw Weapon
+84,Guide_Throw_Msg,手に持った武器を投げる事ができる,You can throw the weapon in your hand.
+85,Guide_Throw_Sub00,ふりかぶって,Aim (Hold)
+86,Guide_Throw_Sub01,投げる,Throw (Release)
+87,Guide_Whistle,口笛を吹く,Whistle
+88,Guide_Whistle_Msg,口笛を吹くことで馬などを呼び寄せる,Call your horse or other companion to you.
+89,Guide_amiibo,amiiboを使う,Use amiibo
+90,Guide_amiibo_Msg,amiiboをNFCエリアにタッチする,Touch an amiibo to the NFC touchpoint.

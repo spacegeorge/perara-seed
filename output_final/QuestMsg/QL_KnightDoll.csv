@@ -1,0 +1,27 @@
+#,Title,JPja,USen
+1,QL_KnightDoll_Desc,"ゲルドの街を出て東の方に
+七人の英雄たちの巨像があるという
+どうやら勇者の試練に関係するらしいが…
+
+まずは
+『我ら七人の御霊正しく導きし者
+勇者の試練への資格を与えん』
+この言葉の謎をとかなければならない","There are statues ofthe seven heroineseast of 
+Gerudo Town. They may have something to do
+with the location of a hidden shrine.
+
+First, solve the meaning behind the message:
+\""When the symbols of the seven find their place,
+the blessed path will be revealed.\"""
+2,QL_KnightDoll_Finish,"『我ら七人の御霊正しく導きし者
+勇者の試練への資格を与えん』
+この言葉の通り
+御霊に描かれた模様と
+英雄たちの装飾を合わせ
+古代の祠を出現させた","\""When the symbols of the seven find their place,
+the blessed path will be revealed.\""
+
+The ancient shrine appeared after you matched
+the symbols on the orbs with the symbols of the
+seven heroines."
+3,QL_KnightDoll_Name,七人の英雄,The Seven Heroines

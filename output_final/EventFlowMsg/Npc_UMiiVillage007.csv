@@ -1,0 +1,122 @@
+#,Title,JPja,USen
+1,"""0000""",旅の者です,Just a traveler...
+2,"""0001""",名乗るほどでは…,No one important...
+3,"""0002""",そうです,That's right.
+4,"""0003""",違います,Um... No.
+5,"""0004""",変なのって？,Any strange things?
+6,"""0005""",さようなら,Good-bye.
+7,"""0006""",料理得意なの？,You're a chef?
+8,"""0007""",他には？,"\""Also\"" what?"
+9,"""0008""",マモノケーキのレシピ,Monster-cake recipe?
+10,talk00,他に何か お話ししましょうかねぇ？,Shall we talk about something else?
+11,talk01,どちらさんでしょう？,And who might you be?
+12,talk02,あら おはよう,"Oh, good morning."
+13,talk03,あら こんにちは,"Oh, hello."
+14,talk04,あら こんばんは,"Oh, good evening."
+15,talk05,はいはい,"Yes, yes."
+16,talk06,スゥ… スゥ…,So...sleepy...
+17,talk07,"寝る支度しなきゃね
+あなたも早く お休みなさい","I have to get ready for bed.
+You should do the same."
+18,talk08,"さて そろそろ寝ないとねぇ
+体に障りますからねぇ…","Now then, I've got to get to bed.
+It's rough on my body if I don't get a
+good night's rest."
+19,talk09,まぁ…そうですか…,Oh... Is that so?
+20,talk10,"ところで あなたも
+このイチカラ村に家をお買いに？","By the way... I don't suppose you came
+to Tarrey Town to purchase a
+holiday home, did you?"
+21,talk11,"とにかく お気を付けくださいね
+
+主人は ここを気に入ってるようですけど
+一歩村を出たら変なのがいっぱい居ますからね","Anyway, please be careful.
+
+
+My husband is taking great care of this
+area, but there seem to be a lot of
+strange folks just outside of town."
+22,talk12,私に ご用かしら？,Do you need me for something?
+23,talk13,"醜い顔したのとか変わった植物が
+村の外に いっぱい居るでしょう？
+特に このイチカラ村の南東にある大きな花…
+
+「あんな大きな花が あるんだね」って
+お爺さんと話してたんですよ","Strange plants and guys with ugly faces
+live just outside the village. There are
+a lot of them, right?
+Especially the big flower that's to the
+southeast of Tarrey Town...
+
+I was chatting with my husband about
+how there's a huge flower out there."
+24,talk14,"このイチカラ村の南東にある大きな花…
+
+ここに来る道すがら見えたんだけど
+なんとも お下品な…","The big flower that's to the southeast of
+Tarrey Town...
+
+We saw it while walking the path here,
+and it's really quite awful..."
+25,talk15,それじゃあね,See you later.
+26,talk16,あんな よく分からない物は触っちゃダメよ,"You really shouldn't mess with things
+you don't understand..."
+27,talk17,"お料理…？
+お爺さんにでも聞いたのかしら？
+また あの人ったら適当な事言って…
+","Cooking? Oh, my, where did you hear
+about that? It was from my husband,
+wasn't it?
+That man can be so misleading about
+things sometimes..."
+28,talk18,"でも あなたは お菓子って感じじゃないね
+
+まずは ご飯をいっぱい食べて
+大きくならなきゃね","But...you don't look like someone who
+needs sweets.
+
+You should eat a lot of food and put
+some meat on your bones first!"
+29,talk19,"例えばニンジンケーキにカボチャケーキ…
+それから…","For example, carrot cake or
+pumpkin pie... Also..."
+30,talk20,"他には…マモノケーキってのも教わったわね
+
+作り方は簡単よ
+タバンタ小麦""きび砂糖""ヤギのバターに
+マモノエキスを加えるだけなんだけど…
+
+最近はマモノエキスが
+滅多に手に入らなくてねぇ","Well, I was taught how to make
+something called a monster cake too.
+
+It's easy to make. You just need
+Tabantha wheat, cane sugar, and
+goat butter...
+And you also have to add some
+monster extract, but that's been
+tough to come by lately..."
+31,talk21,"私は料理も得意だけど
+ケーキとかの お菓子の方が得意でね
+私のお婆様が王室御用達の
+お菓子屋をやっとりましたからね
+だから若い頃 いろんなケーキの作り方を
+教えてもらったりして","Sure, I can keep from burning water, but
+my real gift is baking cakes and sweets
+and the like.
+My grandmother—wonderful woman—
+ran a sweet shop for the royal family.
+She taught me everything I know!"
+32,talk22,"ええ…ええ…
+何度でも教えて差し上げるわ
+タバンタ小麦""きび砂糖""ヤギのバターに
+マモノエキスを加えてごらん","Sure...sure...
+I'll teach you as many times as you like.
+
+You need to add some monster extract
+to some Tabantha wheat, cane sugar,
+and goat butter."
+33,talk23,"マモノケーキは見た目は悪いし臭いもキツいけど
+とっても精力が付くんだから","Monster cake may look a little gross
+and smell a little nauseating, but it'll fill
+you right up!"

@@ -1,0 +1,37 @@
+#,Title,JPja,USen
+1,QL_GoronMini_WallCrackTBox_Desc,"ゴロン温泉に浸かる少年コップスから聞いた言葉
+ 『ボブ ぼぼばらオルディン橋び びぶとちゅーで
+お宝 ばぷじだコロ！
+ すっぼい かっこびい棒コロよ！
+ びづべばべだば
+ ぼれ ぼっぺっぺいーコロ！』
+
+よくわからないが何かありそうだ…","Dugby, the young Goron soaking in the
+Goron Hot Springs, said: 
+
+\""I bid atweshure binteen gear an ba
+Bridge of Eldin! Iz an abazingschtick!
+Beely bool! If boo bind it...iz boars!\""
+ 
+It sounds like gibberish, but maybe there's
+something to it after all?"
+2,QL_GoronMini_WallCrackTBox_Finish,"ゴロンの少年 コップスが隠したと言うお宝とは
+削岩棒の事だった
+
+見つけた削岩棒は そのままくれるらしい","The treasure that young Goron Dugby hid and
+alluded to turned out to be...a drillshaft!
+
+Since you found it, he's going to let you
+keep it."
+3,QL_GoronMini_WallCrackTBox_Get,"ゴロン温泉からオルディン橋に行く途中で
+岩に埋もれた削岩棒を手に入れた
+
+これがコップスの言うお宝だろうか？
+手に入れた削岩棒をコップスに見せてみよう","You found adrillshaftburied in a crag
+between the Bridge of Eldin and
+Goron Hot Springs.
+
+Could this be thetreasurethat Dugby
+mentioned? Try showing Dugby the
+drillshaftyou've acquired."
+4,QL_GoronMini_WallCrackTBox_Name,デスマウンテンの秘密,Death Mountain's Secret

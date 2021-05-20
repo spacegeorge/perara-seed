@@ -1,0 +1,71 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes.
+2,"""0001""",いいえ,Not yet.
+3,talk00,"試練を克服され よくぞここまで…
+貴方様こそ紛うことなき勇者
+今こそ女神ハイリアの名において
+克服の証を授けましょう","Your resourcefulness in overcoming this
+trial speaks to the promise of a hero...
+
+In the name of Goddess Hylia, I bestow
+upon you this Spirit Orb."
+4,talk01,"試練を克服されよくぞここまで…
+貴方様こそ紛うことなき勇者
+我は悠久の昔
+女神ハイリアの啓示を享けし者がひとり
+この試練の祠を創りし者
+
+ここを訪れる者の真の実力を見極め
+厄災討伐を果たせるよう しるべとなる導師…
+永劫とも思える流れの中
+ついに真の勇者が訪れた…
+今こそ女神ハイリアの名において
+克服の証を授けよう…","You have proven to possess
+the resolve of a true hero.
+
+I am,
+the creator of this trial. 
+
+I am a humble monk, blessed with the
+sight of Goddess Hylia and dedicated to
+helping those who seek to defeat Ganon.
+With your arrival, my
+duty is now fulfilled.
+
+In the name of Goddess Hylia, allow
+me to bestow this gift upon you...
+
+Please accept this Spirit Orb."
+5,talk02,"これで我が役目は終わる…
+女神ハイリアの加護があらんことを…",May the Goddess smile upon you.
+6,talk03,"とうとう全ての試練を克服されましたな…
+われわれ導師の役割も これで全て終わり
+真の勇者の証を授けましょう
+忘れ去られた神殿に向かうのです","You have at last conquered all of our
+trials.
+
+Having fulfilled our purpose, we monks
+bestow upon you this...
+The warrant of the true hero.
+You must now depart for the
+Forgotten Temple."
+7,talk04,"よくぞ力の試練を克服されました
+貴方様こそ紛うことなき勇者
+今こそ女神ハイリアの名において
+克服の証を授けましょう","Your triumph over the test of strength
+subverts a prophecy of ruin. From the
+ashes of Hyrule, a hero rises.
+In the name of Goddess Hylia, I
+bestow upon you this Spirit Orb."
+8,talk05,"よくぞ この祠まで たどり着きましたな
+貴方様こそ紛うことなき勇者
+今こそ女神ハイリアの名において
+克服の証を授けましょう","You have done well to arrive at this
+shrine. A hero rises to right the
+wrongs of Hyrule.
+In the name of Goddess Hylia, I
+bestow upon you this Spirit Orb."
+9,talk06,このまま祠の外に出ますか？,Are you ready to exit this shrine?
+10,talk07,"勇導石よりアイテムを得てから
+再び ここへ来なさい","Extract the Rune from the
+Guidance Stone, and then return."

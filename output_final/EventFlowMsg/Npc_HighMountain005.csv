@@ -1,0 +1,172 @@
+#,Title,JPja,USen
+1,"""0000""",どうしたの？,What's wrong?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",はい,Yes.
+4,"""0004""",テバの行先は？,Where did Teba go?
+5,"""0005""",テバについて,About Teba.
+6,"""0006""",リーバルについて,About Revali.
+7,"""0007""",教えて！,Where did he go?
+8,near00,…,...
+9,near01,末裔…？,The traveler...
+10,talk00,…旅のお方ですか？,...Can I help you?
+11,talk01,いえ…何でも無いんです,Never mind. Forget it.
+12,talk02,さようなら…,Good-bye.
+13,talk03,"ごめんなさい…
+族長との会話が聞こえてしまいました
+夫テバと共に あのメドーを
+退治していただけるとか…","Forgive my intrusion, but I overheard
+you speaking with the elder.
+
+It sounds like you intend to help my
+husband, Teba, in the fight against
+Medoh."
+14,talk04,他に聞きたい事はございますか？,"Is there something else you wanted
+to ask?"
+15,talk05,私の事はどうか お気になさらず…,Please. Now is not a good time.
+16,talk06,"夫から全てを聞きました
+飛行訓練場やメドーとの戦いの事…
+そして今メドーが村の塔に停まったという事は
+全てが終わったんだ と
+また こうして夫が無事に帰って来てくれた事…
+感謝の念に堪えません","Teba told me everything...
+About the Flight Range...
+The fight with Medoh...
+And that Medoh being perched above
+the village means that everything
+is back to normal.
+To have my husband home safe and
+sound... I cannot begin to express my
+gratitude."
+17,talk08,"族長があなたに託したのなら
+分かる範囲でお答えしましょう","If the elder trusts you, I will tell you
+what I can."
+18,talk09,"英傑の末裔様…
+どうか夫テバと この村をお救い下さい","Traveler... Please help my husband,
+Teba...and our village."
+19,talk10,"夫は昔から向こう見ずで
+一つの事を考え出すと何も目に入らなくなる人
+今回も私達が止めるのも聞かず
+一人でメドーを止めに行ってしまいました
+私も リトの戦士に嫁いだ身…
+何が起ころうとも覚悟はできているつもりです","My husband is very...impulsive.
+Once he gets an idea in his head,
+there's no reasoning with him.
+We tried to stop him from going off to
+fight Medoh on his own, but he refused
+to listen.
+Though I cannot feign surprise. I did
+marry a Rito warrior, after all."
+20,talk11,"リーバル様とは リトの伝説の戦士
+そして リトの男の憧れ…
+夫も多分に漏れず""息子チューリを
+「リーバル様の様な戦士にする」が口癖で
+一緒に遊ぶ と称しては
+飛行訓練場に連れて行くんです
+私は チューリが戦士になる事など
+望んでないのですけど…","Revali is the legendary Rito warrior.
+All the warriors here idolize him.
+
+My husband is no exception—he is
+always talking about turning our son,
+Tulin, into a warrior just like Revali.
+When they go and \""play\"" together, he is
+really training him at the Flight Range.
+
+I have never wanted my sweet Tulin to 
+become a warrior, myself..."
+21,talk15,ごめんなさい もう寝るんです,"Sorry, I am on my way to bed."
+22,talk16,こんにちは英傑の末裔様,"Hello, Champion descendant."
+23,talk17,こんばんは英傑の末裔様,"Good evening, Champion descendant."
+24,talk19,夫を…テバをよろしくお願いします,"Please...help my husband, Teba."
+25,talk20,"夫に出会ったのですね…
+いえ それだけ分かれば十分です","You met my husband?
+Ahhh... That is a relief."
+26,talk21,"夫が生きていると分かっただけでも
+安心しました
+お礼に と言ってはなんですが…これをどうぞ","I'm happy just to hear that my husband
+is still alive. It isn't much, but please
+take these as thanks."
+27,talk22,"夫が護身用に置いていってくれたものですが
+こんな物騒な物私には使いこなせませんので…","My husband left them for me to use, but
+I do not want those in the house where
+Tulin might play with them."
+28,talk23,分かりました,Well...
+29,talk25,"普段なら あのリーバル広場から
+飛行訓練場へと飛び立つのですが
+今は空高く飛ぶと
+あのメドーに撃たれますからね…","If you take off from Revali's Landing, it's
+a straight shot down to the Flight Range."
+30,talk26,"しかし私が協力できる事と言えば
+夫の行先を お教えする事くらいしか…","But to tell the truth, there is not much I
+can do for you right now beyond telling
+you where my husband went."
+31,talk29,はい…,Hello.
+32,talk30,う…ん…,Ahhhhh... Hmm...
+33,talk31,すぅ… すぅ…,Zzz... Zzz...
+34,talk35,"末裔様！
+
+末裔様！どうされました？
+
+ごめんなさい…
+私が色々言い過ぎてしまったようですね…
+分からない事がありましたら
+私でよければ後で聞いて下さいね","Descendant!
+
+
+Descendant! Are you all right?
+
+
+My apologies...
+I fear I have said far too much...
+
+If there is anything you do not
+understand, please do not hesitate to
+ask."
+35,talk36,"リーバル広場は リトの英傑
+リーバル様から その名をいただいた憩いの場…
+あの忌まわしき日の事が
+忘れ去られないように…","Revali's Landing is a memorial
+for the Rito Champion, Revali...
+
+So named in the hope that none might
+forget the events of that horrible day..."
+36,talk37,"今から寝るんです
+お話ならまた今度…","I am on my way to bed.
+We can talk later..."
+37,talk38,"夫なら チューリを連れて
+飛行訓練場に向かいました
+戦いも終わった事ですし
+危ない訓練は やめて欲しいのですが…","If you need my husband, he took Tulin
+to the Flight Range.
+
+Now that we are at peace again, I would
+rather they stopped doing such
+dangerous training, but Teba insists."
+38,talk39,夫はまた チューリを連れて飛行訓練場に…,"My husband took Tulin to the
+Flight Range again..."
+39,talk40,"夫が向かったのは
+ヘブラ山脈の麓のリノス峠にある
+飛行訓練場と呼ばれる場所です","My husband headed to a place called
+the Flight Range.
+
+It's in Dronoc's Pass at the base of 
+the Hebra Mountains."
+40,talk41,"そこは リトの戦士達が
+空中戦の練習をする場所…","It's a place where Rito warriors
+prepare for aerial combat..."
+41,talk42,"おそらく夫はメドーとの戦いに万全を期すため
+武器を調達しに行ったのでしょう…
+そういえば今回夫は
+歩いて飛行訓練場に向かいました","I imagine he's gone there to gather
+weapons for another run at Medoh.
+
+As it happens, he made his way to the
+Flight Range on foot this time."
+42,talk43,"チューリを一人前の戦士にするため だとか…
+私の言い分も聞かずに…","He keeps saying it's to help Tulin come
+of age as a warrior or something.
+But Tulin's still a fledgling..."
+43,talk44,"私は…チューリには危険と隣り合わせの戦士に
+なって欲しくないのですが…","I just...do not want Tulin to lose his
+innocence too early. He is such a sweet
+boy."

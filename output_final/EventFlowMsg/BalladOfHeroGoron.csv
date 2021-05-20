@@ -1,0 +1,364 @@
+#,Title,JPja,USen
+1,"""0000""",ダルケルのこと教えて,Tell me about Daruk.
+2,"""0001""",ユン坊はどこ？,Where's Yunobo?
+3,"""0002""",さようなら,See ya.
+4,"""0003""",他のことが聞きたい,Tell me somethin'.
+5,"""0004""",退魔の剣って？,Legendary sword?
+6,"""0005""",巨岩砕きって？,Boulder Breaker?
+7,"""0006""",ルーダニアは？,Where's Rudania?
+8,"""0007""",ダルケルのこと教えて,Tell me about Daruk.
+9,"""0008""",さようなら,Good-bye.
+10,"""0009""",他のことが聞きたい,Tell me somethin'.
+11,"""0010""",ゴロ？,Umm...
+12,"""0011""",ルーダニアは？,Rudania?
+13,"""0012""",ダルケルの護りについて,Daruk's Protection?
+14,"""0013""",ブルドーは？,Where's Bludo?
+15,"""0014""",日記？,Training journal?
+16,"""0015""",何のために？,...Why?
+17,"""0020""",縁の地巡り？,Daruk's turf?
+18,Npc_Gaman01_DLC2nd_Near00,ここでダルケル様が…,Lord Daruk trained here...
+19,Npc_Gaman01_DLC2nd_Talk00,"ゴロン族の英傑""ダルケル様が なぜここを
+修行の場所に選んだか知っているか？！
+オレたち ド根性三兄弟は
+その答えを身をもって確かめるゴロ！
+ダルケル様が お強くなられたのは
+ここでの厳しいトレーニングがあったればこそ
+ダルケル様のような強く熱いオトコを目指す
+オレたち三兄弟には避けて通れぬ道ゴロ！","Do ya know why Champion Daruk
+chose this place to train, brother?
+
+...Neither do we! But us Goron Blood
+Brothers are gonna find out by
+completing the training ourselves!
+I'm sure this is some part of Lord Daruk's
+secret Goron champ training. Intense!
+
+We're gonna do all we can to be mighty
+Gorons just like Lord Daruk!
+
+It's the only possible path for the
+Goron Blood Brothers!"
+20,Npc_Gaman01_DLC2nd_Talk01,マーッスル！,"PUMP IT UP, BROTHER!"
+21,Npc_Gaman01_DLC2nd_Talk02,"マーッスル！オマエはガマンくらべとド根性ガケの
+トレーニングをクリアした四人目の兄弟ゴロ！","PUMP IT UP, BROTHER!Oh! It's the fourth Goron Blood Brother!
+The one who beat both the contest of
+endurance and our Gut Check Challenge!"
+22,Npc_Gaman01_DLC2nd_Talk03,マーッスル！ガマンくらべを耐えたオトコよ よく来たゴロ！,"PUMP IT UP, BROTHER!Hey there! It's the little man who
+survived the contest of endurance!
+Welcome back!"
+23,Npc_Gaman01_DLC2nd_Talk04,"マーッスル！おお！ オマエはド根性ガケのトレーニングを
+達成した四人目の兄弟！","PUMP IT UP, BROTHER!Ah! It's the fourth Goron Blood Brother!
+He who somehow survived our famous
+Gut Check Challenge!"
+24,Npc_Gaman01_DLC2nd_Talk05,"マーッスル！ん？！ オマエはガマンくらべもド根性ガケの
+トレーニングも途中のオトコ！","PUMP IT UP, BROTHER!Hm? Aren't you the little man who's
+training for the contest of endurance
+and Gut Check Challenge?"
+25,Npc_Gaman01_DLC2nd_Talk06,"マーッスル？！ガマンくらべを途中でやめたオトコ！
+こんなところで出会うとは！","PUMP IT UP, BROTHER!Hey, you're the little man that gave up in
+the middle of the contest of endurance!
+Didn't think I'd see YOUR tiny face again."
+26,Npc_Gaman01_DLC2nd_Talk07,"マーッスル！ん？！ オマエはド根性ガケのトレーニングを
+受けている最中のオトコ！","PUMP IT UP, BROTHER!Aren't you the little man who's in the
+middle of training for our Gut Check
+Challenge? This an off day, or what?"
+27,Npc_Gaman01_DLC2nd_Talk08,"マーッスル！己を高めたダルケル様はマグマの上に立って
+雄叫びを上げたと言われてるゴロ！","PUMP IT UP, BROTHER!Some say Lord Daruk would howl while
+standing on lava. It somehow helped
+sharpen his skills."
+28,Npc_Gaman01_DLC2nd_Talk09,"マーッスル！どういうことゴロ？！ちょっと目を離した隙に光る輪が
+消えているゴロ！
+これではトレーニングができないゴロ！！","PUMP IT UP, BROTHER!What happened here?!I look away for one blasted second,
+and the glowing ring disappears!
+
+Now I can't try that epic training!
+Woe is me, brother."
+29,Npc_Gaman01_DLC2nd_Talk10,"ゴロン族の英傑ダルケル様が なぜここを
+修行の場所に選んだか知っているか？！","Do ya know why Champion Daruk
+chose this place to train, brother?"
+30,Npc_Gaman01_DLC2nd_Talk12,"さすがダルケル様が選んだ場所…
+
+このトレーニング""一筋縄ではいかないゴロ…ちょっと作戦会議ゴロ！","No wonder Lord Daruk chose
+this spot. It's hard-core, brother!
+
+This training is gonna be rough.
+I can almost taste the gains!Time to strategize, brothers!"
+31,Npc_Gaman01_DLC2nd_Talk13,"オレたち ド根性三兄弟は
+その答えを身をもって…","...Neither do we! But us Goron Blood
+Brothers are gonna find out by
+completin' the training...ourselves..."
+32,Npc_Gaman01_DLC2nd_Talk14,"って どういうことだゴロ？！ちょっと目を離した隙に
+光る輪が消えているゴロ？！","What happened, brother?!I look away for one blasted second,
+and the glowing ring disappears!"
+33,Npc_Gaman02_DLC2nd_Near00,恐ろしい試練だゴロ,Intense training...
+34,Npc_Gaman02_DLC2nd_Talk00,ホーット！,"FEEL THE BURN, BROTHER!"
+35,Npc_Gaman02_DLC2nd_Talk01,マーッチョ！,"FEEL THE BURN, BROTHER!"
+36,Npc_Gaman02_DLC2nd_Talk02,"ホーット！煮えたぎるマグマの中に光る輪が見えるゴロあそこに立つとは
+なんと恐ろしいトレーニングだゴロ…","FEEL THE BURN, BROTHER!There's a glowing ring in that boiling
+hot lava. Standing there is...intense
+training. Only for the hardest of core!"
+37,Npc_Gaman02_DLC2nd_Talk03,"ホーット！光る輪が消えたということは
+まさか…
+誰かがトレーニングを
+やり遂げたということゴロ？！
+い いや あり得ないゴロあの過酷なトレーニングをクリアできるのは
+ダルケル様か オレ達以外考えられないゴロ！","FEEL THE BURN, BROTHER!The glowing ring is gone. Does that
+mean... Has someone completed
+the training?!
+N-no... Not possible.The only one who could complete
+training like that is Lord Daruk...
+or one of us brothers!"
+38,Npc_Gaman02_DLC2nd_Talk04,"ホーット！どうして光る輪が消えてしまったゴロ？
+これではトレーニングできないゴロ！","FEEL THE BURN, BROTHER!Hey! The glowing ring is gone!
+I wasn't done trainin' with it..."
+39,Npc_Gaman02_DLC2nd_Talk05,"マグマの池に現れた光る輪が見えるゴロ？
+あれを目印に…
+あのマグマの上に立つゴロ！","You see that glowing ring in the lava?
+Think of it as a target, and...
+
+stand on the lava, brother!"
+40,Npc_Gaman03_DLC2nd_Near00,熱いゴロ…,That fire in your eyes...
+41,Npc_Gaman03_DLC2nd_Talk00,"ス スウェット…！さすがのゴロン族も マグマの中は無理だゴロ…ダルケル様は ホントに
+そんなトレーニングしたゴロ…？","So sweaty... Brother...Even Gorons can't walk on lava...I wonder if Lord Daruk really
+did this training... Not that I
+doubt him, brother!"
+42,Npc_Gaman03_DLC2nd_Talk01,ム ムッシュ…！,So sweaty... Brother...
+43,Npc_Gaman03_DLC2nd_Talk02,"ス スウェット…！マグマの上に立つなんて絶対無理ゴロ
+できるわけないゴロ…","So sweaty... Brother...Standing on lava is impossible!
+No one could train THAT intensely..."
+44,Npc_Gaman03_DLC2nd_Talk03,"ス スウェット…！気がつけば光る輪が消えてるゴロ！
+これでトレーニングしないで済むゴロ？！
+た""助かったゴロ…","So sweaty... Brother...The glowing ring is gone. Now I don't
+have to do that crazy training.
+Thank goodness..."
+45,Npc_Gaman03_DLC2nd_Talk04,"ス スウェット…！これで良かったんだゴロ…マグマの上に立つなんて
+できるわけなかったゴロ…","So sweaty... Brother...I'm OK with how things turned out...I'm not quite ready for lava training...
+Brother..."
+46,Npc_Goron006_Near00,オゥ！,*grumble*
+47,Npc_Goron006_Talk00,ところで…オレに何か用かィ？,So... Did ya need somethin'?
+48,Npc_Goron006_Talk01,"ダルケル様のこと？ なんだ アンタもかィ？
+この間もリト族の詩人が同じ事訊きに来てよォ
+色々話してやったなァ
+例えばよォ…
+ダルケル様の持ってた巨岩砕きって武器はなァ
+デカくて重くて破壊力もケタ違いでよォ
+アンタ""マルゴ坑道の南西から
+トロコ崖にある谷間を知ってるかィ？
+あれはダルケル様が巨岩砕きを使って
+なんと一晩で切り開いたんだぜィ","Ya wanna know about Daruk?
+Huh. Popular subject these days.
+
+Not too long ago, a Rito bard came by
+wantin' to know all about him. I told him
+about all kinds of things. For example...
+About the Boulder Breaker, Daruk's
+weapon of choice. I told him how heavy
+it is and how its power is unmatched.
+You know the valley at Gortram Cliff,
+southwest of Gorko Tunnel?
+
+It was made by Daruk with his
+Boulder Breaker in one night!"
+49,Npc_Goron006_Talk02,"ユン坊かァ？ アイツなら入口の門の上で
+ボーーッとしているのを見かけたぜェ
+そういや最近ユン坊のヤロー どことなく
+顔つきが一人前になってきた気がするなァ
+ようやくダルケル様の子孫 っていう
+自覚が出てきたのかねェ","Yunobo? I saw him starin' off
+into the distance on top of the
+entrance gate. Typical.
+Actually, it seems to me that Yunobo
+is actin' more accomplished and
+confident these days.
+Maybe he's finally realized what it means
+to be a descendant of the Great Daruk."
+50,Npc_Goron006_Talk03,今日も熱いぜィ,It's another scorcher today.
+51,Npc_Goron006_Talk04,他に用はあるかィ？,Was there somethin' else ya needed?
+52,Npc_Goron006_Talk06,オレに用かィ？,Do ya need somethin'?
+53,Npc_Goron006_Talk07,他に用はあるかィ？,Was there somethin' else ya needed?
+54,Npc_Goron006_Talk08,"オゥ！""何が聞きてェんだィ？",What do ya wanna hear about?
+55,Npc_Goron006_Talk10,"ユン坊かァ？""昼間に入口の門の上で
+ボーーッとしているのを見かけたが…
+この時間じゃ自分の家で寝てる頃だろうなァ
+
+そういや最近ユン坊のヤロー どことなく
+顔つきが一人前になってきた気がするなァ
+ようやくダルケル様の子孫 っていう
+自覚が出てきたのかねェ","Yunobo? I saw him starin' off into the
+distance on top of the entrance gate
+earlier. He's probably in bed by now.
+Actually, it seems to me that Yunobo
+is actin' more accomplished and
+confident these days.
+Maybe he's finally realized what it means
+to be a descendant of the Great Daruk."
+56,Npc_Goron006_Talk11,"決まってるじゃねえかァ
+あの辺りのロース岩を採りやすくする為よォ！
+…リト族の奴は それとは別にしてやった話を
+気に入ったみたいだけどよォ…
+そっちの方は オレはあんまし好きじゃねェ
+ダルケル様は やっぱり豪快な話がお似合いだァ","Why?! Why do ya think? To make it
+easier for us Gorons to get all that
+tasty rock roast!
+That Rito fella seemed to like the other
+story I told him better, though.
+
+...I'm not a big fan of that one.
+The heroic and exciting stories of
+Daruk capture him much better!"
+57,Npc_Goron020_2_Near00,絶景ゴロ…,"Beautiful view, goro..."
+58,Npc_Goron020_2_Talk01,そういえば… ボクに何か用だったゴロ？,"Oh! Did ya need somethin', goro?"
+59,Npc_Goron020_2_Talk02,"ご先祖様…ダルケル様のことゴロ…？
+
+あっ！ そういえばボク
+ダルケル様の日記を発見したゴロ！
+大食漢のグルメさんだったらしくて 
+美味しそうな岩の話ばかり書いてあったゴロ
+それと""ダルケル様には相棒がいて その人も
+食べることに貪欲なタイプだったみたい
+ボクは食が細いから こんなにガリガリだけど
+たくさん食べて二人みたいに強くなるゴロ！","About Lord Daruk, goro?
+
+
+...Oh! That reminds me of somethin'!
+I found Lord Daruk's training journal!
+
+He must have been a big eater.
+He sure talks about delicious rocks
+a bunch.
+What else... Oh, Lord Daruk also had a
+good friend who liked to eat as much
+as he did.
+I don't have much of an appetite myself,
+so I'm pretty scrawny, goro...
+
+I'm gonna have to start eatin' lots so
+I can become as strong as those two!"
+60,Npc_Goron020_2_Talk03,またゴロ～,"See ya later, goro."
+61,Npc_Goron020_2_Talk04,ボクに用ゴロ？,"You need somethin', goro?"
+62,Npc_Goron020_2_Talk05,何が聞きたいゴロ？,"What do ya wanna know about, goro?"
+63,Npc_Goron020_2_Talk06,他に聞きたい事 あるゴロ？,"Anything else you wanna know, goro?"
+64,Npc_Goron020_2_Talk07,"組長なら自宅にいると思うゴロ
+下の道を まっすぐ行けばいいゴロ
+組長は ボクのご先祖様のことも詳しいから
+今度 いろいろ聞いてみたいゴロ～","I think the Boss is at his home, goro.
+Just go down the road down below
+and you'll find it.
+The Boss sure knows a lot about my
+ancestors. I'd love to have him tell
+me all about 'em sometime, goro."
+65,Npc_Goron020_2_Talk08,他に何かあるゴロ？,"Do ya need anything, goro?"
+66,Npc_Goron020_2_Talk10,"そうゴロ ボクとキミが初めて出会った
+北の廃坑を掃除してたら出てきたゴロよ
+今ダルケル様の日記は
+ボクの家に置いてあるゴロ","That's right! I found it when I was
+cleanin' out the Abandoned North
+Mine where we met.
+Lord Daruk's training journal is at
+my house now, goro."
+67,Npc_Goron020_2_Talk11,"そうゴロ ボクとキミが初めて出会った
+北の廃坑を掃除してたら出てきたゴロよ
+今ダルケル様の日記は
+そこの机の上に置いてあるゴロ","That's right! I found it when I was
+cleanin' out the Abandoned North
+Mine where we met.
+I left Lord Daruk's training journal
+on the desk over there, goro."
+68,Npc_Goron022_Near00,ダルケル様…,Lord Daruk...
+69,Npc_Goron022_Talk00,"だとしたら ボクも同じ
+英傑ダルケル様の足跡を辿ってるゴロ！
+ダルケル様は昔々 すぐそこのダルマー湖で
+とっても大きなマモノを倒したらしいゴロ！
+…でも""とっても大きなマモノって
+どんなやつゴロ？","That's right. I'm followin' the
+Great Daruk's footsteps too!
+
+In fact, I hear Lord Daruk defeated a
+huge monster at Lake Darman.
+
+I wonder what the monster looked like..."
+70,Npc_Goron022_Talk01,"ダルケル様はこの辺りで
+とっても大きなマモノを倒したらしいゴロ！
+その闘いはダルケル様の雄叫びも凄まじく
+どっちがマモノか わからなかったそうゴロよ","They say Lord Daruk defeated a
+huge monster somewhere nearby!
+
+Apparently Daruk's battle cry was
+so fierce, no one could tell if it was
+him or the monster howling!"
+71,Npc_Goron022_Talk02,やぁ,Hey there!
+72,Npc_Goron022_Talk03,やぁ気持ちのいい朝ゴロね,"Hey there. Nice morning, eh?"
+73,Npc_Goron022_Talk04,やぁ今日も熱いゴロね,Hey there. It's hot today. How great!
+74,Npc_Goron022_Talk05,"やぁ熱いけど大丈夫ゴロか
+ここでは夜だから涼しいとか無いゴロ","Hey there. How are ya handlin' the heat,
+little guy? Don't expect it to cool off
+even when the sun sets."
+75,Npc_Goron022_Talk06,"英傑ダルケル様に縁のある この地を
+ボクはそろそろ後にするゴロ
+おみやげに この辺りで
+美味そうな石でも拾って帰るゴロよ","I'm thinkin' of leavin' Champion Daruk's
+turf for a spell.
+
+Maybe I'll bring home some tasty rocks
+to keep for souvenirs... Mmm..."
+76,Npc_Goron022_Talk08,"やぁキミはダルケル様""縁の地で会った人ボクは あの後 しばらく辺りを散策して
+ダルケル様の活躍に思いを馳せていたゴロ","Hey! You're the little one I met at
+Lord Daruk's turf!Since then, I've been wanderin' around
+a bunch and thinkin' about how brave
+Lord Daruk was."
+77,Npc_Goron022_Talk09,"ボクはこの前ダルケル様に縁のある場所を
+見てきたんだゴロ
+なんでもダルケル様が
+とっても大きなマモノを倒した場所らしいゴロ","I recently spent some time near
+Champion Daruk's turf.
+
+Apparently it's where Lord Daruk 
+defeated a huge monster. He's a
+Goron among Gorons!"
+78,Npc_Goron022_Talk10,"そういえば""帰ってきてから
+感じている事があるゴロ
+すっごく不思議なんだけど… あれ以来…いつにも増して元気になった気がするゴロ！あの場所でダルケル様のパワーを
+もらえたのかな～
+あ そうだ おみやげにと思って
+これを拾ってきたんだ
+記念にひとつあげるゴロ","Truth is...I've had this strange feelin'
+in my gut since I returned.
+
+It sounds nuts, but...ever since I've been
+explorin' the Champ's turf...I feel reinvigorated! Like I could take
+on the whole world!Do ya think maybe Lord Daruk shared
+some of his secret Champion
+mojo with me?
+Oh! Speakin' of gifts... I picked this up as
+a souvenir of sorts. Go ahead and take it!
+Think of it as a keepsake."
+79,Npc_Goron022_Talk11,"ボクは マズくて食べないんだけど
+キミにとっては旅の思い出になるゴロね","That souvenir's all yours, little guy.
+My tastes're too refined to eat that junk.
+Maybe it'll remind you of your travels!"
+80,Npc_Goron022_Talk12,"あ… ポーチがいっぱいでコハクが持てない？
+じゃあ また今度あげるゴロ","Huh. Your pouch is full, so I can't give ya
+this amber. Some other time!"
+81,Npc_Goron022_Talk13,"この前行ってきた 
+ダルケル様""縁の地の おみやげ
+記念にひとつ あげるゴロ","I found this in the far reaches of
+Champion Daruk's turf. Take it!
+It's a foul snack but a nice keepsake."
+82,Npc_Goron022_Talk14,"それはそうとキミいい時に来たゴロ！
+
+最近までデスマウンテンをうろついてた
+トカゲのバケモノが大人しくなってね
+安全になったし
+ゆっくりしてくと いいゴロよ
+熱いのは相変わらずだけどね…","By the way... You came at
+a good time!
+
+Ever since that lizard monster lurking on
+Death Mountain was tamed, it's safe
+again. That means you can take it easy!
+Then again, it may be safe, but it's still
+pretty darn hot..."
+83,Npc_Goron022_Talk15,それはそれとして…,Anyway...
+84,Npc_Goron022_Talk16,"こんな所にハイリア人… ひょっとして
+ダルケル様に縁のある地を巡ってるゴロ？","A Hylian? Here? Does this mean...
+Are ya goin' to visit Lord Daruk's turf?"

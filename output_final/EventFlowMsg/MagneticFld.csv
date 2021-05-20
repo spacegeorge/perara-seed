@@ -1,0 +1,421 @@
+#,Title,JPja,USen
+1,"""0000""",そうで…,That's right...
+2,"""0001""",ちがいます,No.
+3,"""0002""",お宝？,Treasure?
+4,"""0003""",さよなら,Good-bye.
+5,"""0004""",砂嵐？,Sandstorm?
+6,"""0005""",わかりました,All right.
+7,"""0006""",賊？,Karusa Valley?
+8,"""0007""",お宝の事も教えて！,About that treasure...
+9,"""0008""",賊の事も教えて！,About the thieves...
+10,"""0010""",スナザラシラリー？,Sand-seal races?
+11,Sinjyu_Female_001,"ここからは神獣の姿を
+拝むことはできなかったんでな
+正直遠くに行ったと言われても
+ピンとはこないんだ…
+しかし神獣の脅威は去ったとはいえ
+魔物や砂嵐の脅威は残っている
+砂漠は危険な場所だからこそ
+古代人が色んなお宝を残したんだ！
+まぁ お宝なんて
+迷信だろうがな…","I couldn't get a good look at the Divine
+Beast from here anyway, but I'm glad it's
+gone.
+Now, if we could only do something
+about the monsters and sandstorms.
+
+Without those, I'd be able to find all of
+that treasure hidden out in the desert!
+
+If the legends are true, that is..."
+12,Sinjyu_Female_002,"神獣もいなくなったし
+スナザラシラリーも再開しているはずだ
+チャンピオンの走りがみられるのは
+あそこだけだからな
+仕事が終わったら久々に行ってみようかな","The Divine Beast is gone, so the
+sand-seal races should be starting
+up again.
+It's been too long since I've seen the
+champion strut her stuff.
+
+Maybe I'll head over there after work..."
+13,Sinjyu_Normal_001,"ここからは神獣の姿を
+拝むことはできなかったんでな
+正直遠くに行ったと言われても
+ピンとはこないんだ…
+しかし神獣の脅威は去ったとはいえ
+魔物や砂嵐の脅威は残っている
+砂漠は危険な場所だからこそ
+古代人が色んなお宝を残したんだ！
+まぁ お宝なんて
+迷信だろうがな…","I couldn't get a good look at the Divine
+Beast from here anyway, but I'm glad it's
+gone.
+Now, if we could only do something
+about the monsters and sandstorms.
+
+Without those, I'd be able to find all of
+that treasure hidden out in the desert!
+
+If the legends are true, that is..."
+14,Sinjyu_Normal_002,"神獣は遠くに行ったと聞いた…
+この街もこれで一安心だ
+ここからは神獣の姿を
+拝むことはできなかったんでな
+正直遠くに行ったと言われても
+ピンとはこないんだ…
+しかし神獣が遠くに行ったということは…
+
+スナザラシラリーも再開してるかな
+
+チャンピオンの走りがみられるのは
+あそこだけだからな
+仕事が終わったら久々に行ってみようかな","Now that the Divine Beast is gone,
+maybe things will go back to normal
+around here.
+Not that it bothered me much. I couldn't
+really even see the Divine Beast from my
+post here.
+But now that the Divine Beast is gone...
+
+
+The sand-seal races should start up
+again!
+
+It's been too long since I've seen the
+champion strut her stuff.
+
+Maybe I'll head over there after work..."
+15,Talk_000,"ハイリア人か…
+ここはゲルドの街の北西門だが
+ヴォーイはこの街には入れんぞ
+それがこの街の ルールだからな
+…それにしても こんな裏口から来るなんて
+
+お前まさか…
+あの砂嵐の中を通ってきたのか？","Greetings, Hylian. This is the northwest
+gate of Gerudo Town. Feel free to admire
+it from the outside.
+But don't attempt to cross its threshold.
+Town law states voe like yourself are not
+allowed within these walls.
+Though I must admit I'm impressed you
+got here from the northwest.
+
+Did you truly pass through that
+sandstorm to get here?"
+16,Talk_001,"だろうな ゲルドの砂嵐は
+気性が荒いじゃじゃ馬でな
+アレに巻き込まれると方向感覚が失われ
+ゲルド人ですら遭難することもあるぐらいだ
+ただ その砂嵐を利用して古代人は
+色んなお宝を隠したと言われてるがな","Of course you didn't. A Gerudo
+sandstorm has the temperament of a
+raging stallion.
+If you wander into one, you'll lose all
+sense of direction. Even us Gerudo are in
+a bind if one seizes upon us.
+But the ancients were able to use the
+storms to their advantage. It's said they
+hid all manner of treasure here."
+17,Talk_002,"とはいえ
+私もよくは知らないんだが…","Having said that, I don't really know the
+details either."
+18,Talk_003,"砂嵐には ゲルドの民でも近づく者は少ない…
+まぁ近づかんことだな","There aren't even many Gerudo who
+would risk being caught in a sandstorm.
+You should keep your distance."
+19,Talk_004,"ハイリア人か… ここはゲルドの街の北西門
+ヴァーイなら遠慮せず中でゆっくりするがいい
+旅人が砂嵐に巻き込まれんよう
+注意喚起を行っている
+アレに巻き込まれると方向感覚が失われ 
+我々ですら遭難することもあるぐらいだからな
+…ただ そんな場所だからこそ
+
+古代人がお宝を隠してるなんて
+言い伝えがあるんだろうがな","Ah, a Hylian. This is the northwest gate
+of Gerudo Town. All vai are welcome.
+
+We caution all travelers to avoid
+sandstorms.
+
+If you're caught in a sandstorm, you'll
+lose your way. Even us Gerudo have
+trouble navigating them.
+...Which is precisely why there are so
+many stories about ancient cultures
+hiding their treasure in the desert."
+20,Talk_005,"…まぁ良く考えたらそれはないか…
+
+ゲルドの砂嵐は
+気性が荒いじゃじゃ馬でな
+アレに巻き込まれると方向感覚が失われ
+ゲルド人ですら遭難することもあるぐらいだ
+ましてや ハイリア人が入るなど…
+ありえんな
+…ただ そんなありえん場所だからこそ
+
+古代人はこのゲルド砂漠に
+色んなお宝を隠したと言われてるがな","No, that would be impossible...
+
+
+A Gerudo sandstorm has the
+temperament of a raging stallion.
+
+Wander into one, and you'll lose all
+sense of direction. Even us Gerudo are
+in a bind if one seizes upon us.
+I shudder to think what would happen
+to a Hylian in a sandstorm...
+
+It would be utterly impossible for you to
+navigate one.
+
+And that's precisely why ancient cultures
+hid all manner of treasure in the
+Gerudo Desert."
+21,Talk_006,"この壁に沿って ゲルドの街を後ろから
+回り込むように進むと
+赤い布がかかった ゲートが見えてくる
+そこがスナザラシラリーのコース場だ
+街の外にあるからな ヴァーイでもヴォーイでも
+誰でも参加できるんだ
+スナザラシラリーはゲルドの伝統競技
+今なら チャンピオンもいるかもしれないぞ！","If you go around Gerudo Town along
+this wall from the back, you'll see a gate
+with red fabric on it.
+That's the sand-seal race course.
+It's outside the town, so vai and
+voe can participate.
+The sand-seal race is a traditional
+Gerudo competition. The champion may
+even be there right now!"
+22,Talk_008,"ゲルド砂漠には
+古代の遺跡の名残か
+いたるところに あそこにあるような
+剣士の像が残っているんだ","There are statues of swordswomen
+scattered across Gerudo Desert.
+They're remnants of ages long past."
+23,Talk_009,"なんでも あの像は
+お宝の場所を指示してるって話だが…
+まぁ単なる迷信だろうし
+いくら道を指示してくれたとしても
+砂嵐の中には魔物も多い…
+私ならいかんがな","People talk about the statues pointing to
+the hiding place of ancient treasure...
+but that's just superstition.
+Even if it was true, there are dangerous
+monsters in the sandstorms.
+I wouldn't risk it."
+24,Talk_010,サヴォッタ！,Sav'otta!
+25,Talk_011,サヴァーク！,Sav'aaq!
+26,Talk_012,サヴァサーバ！,Sav'saaba!
+27,Talk_013,"ゲルドの砂嵐に巻き込まれると
+方向感覚が失われ 
+ゲルド人ですら遭難することもあるぐらいだ
+
+…ただ そんな場所だからこそ
+
+古代人はこのゲルド砂漠に
+色んなお宝を隠したと言われてるがな","Get caught in a Gerudo sandstorm,
+and you'll lose all sense of direction.
+
+They often take even us Gerudo
+by surprise.
+
+But the danger of the sandstorms is
+precisely why ancient peoples hid all
+manner of treasure in the Gerudo Desert."
+28,Talk_014,"こんな所にいたら
+砂嵐に巻き込まれてしまうかもしれん
+街の中なら安全だ
+ゆっくりしていってくれ","If you loiter around here, you might get
+caught in a sandstorm.
+
+It's safer within the walls of the city.
+Go loiter there."
+29,Talk_015,"こんな所にいたら
+砂嵐に巻き込まれてしまうかもしれん
+街の中なら安全なんだが
+お前はヴォーイだから入れてやれんのだ
+すまんが ゆっくりしたいなら
+カラカラバザールにでも行くんだな","If you loiter here, you might get caught
+in a sandstorm.
+
+It's safe within the walls of the city,
+but I can't let a voe like you inside.
+
+If it's shelter you seek, you'll have to
+head back to Kara Kara Bazaar."
+30,Talk_016,"…まぁ良く考えたらそれはないか…
+
+ゲルドの砂嵐は
+気性が荒いじゃじゃ馬でな
+アレに巻き込まれると方向感覚が失われ
+ゲルド人ですら遭難することもあるぐらいだ
+ましてや ハイリア人が入るなど…
+ありえんことな
+…ただ そんなありえん場所だからこそ
+
+賊が潜んでいたり
+古代人がお宝を隠していたりするわけだがな","No, that would be impossible...
+
+
+A Gerudo sandstorm has the
+temperament of a raging stallion.
+
+Wander into one, and you'll lose all
+sense of direction. Even us Gerudo are
+in a bind if one seizes upon us.
+I shudder to think what would happen
+to a Hylian in a sandstorm...
+
+It would be utterly impossible for you to
+navigate one.
+
+And that's precisely why nefarious
+people hide in the desert alongside all
+manner of ancient treasure..."
+31,Talk_017,"チーク隊長が言ってた ハイリア人とは
+お前の事だったか…
+賊のアジトはカルサー谷にある","So you're the Hylian that Captain Teake
+was talking about? The thieves' hideout
+is in Karusa Valley."
+32,Talk_018,"カルサー谷は ここからは見えないが
+あの辺りにある","You can't see Karusa Valley from here,
+but it's in that direction."
+33,Talk_019,"カルサー谷は奥にずっと続いていて
+意外と遠いからな
+行くならスナザラシを使うといいだろう","Karusa Valley runs deep into the
+highlands and is longer than you'd
+expect.
+If you intend to go, you should take a
+sand seal."
+34,Talk_020,"チーク隊長が言ってた ハイリア人とは
+お前の事か…？
+てっきりヴァーイだとばかり思っていたが…
+
+まぁ協力してくれるというのであれば
+ヴァーイでもヴォーイでもどちらでもいいか…
+賊のアジトはカルサー谷にある","So you're the Hylian that Captain Teake
+was talking about?
+
+Interesting...
+I thought you'd be a vai...
+
+Well, if you're going to lend a hand, 
+it doesn't matter whether you're a vai or
+a voe...
+The thieves' hideout is in Karusa Valley."
+35,Talk_021,"なんでも あの像は
+お宝の場所を指示してるって話だが…
+まぁ単なる迷信だろうし
+いくら道を指示してくれたとしても
+砂嵐の中には魔物も多い…
+私ならいかんがな","People talk about the statues pointing to
+the hiding place of ancient treasure...but
+that's probably just superstition.
+Even if it were true, the sandstorms are
+full of dangerous monsters.
+I'd stay far away if I were you."
+36,Talk_022,"カルサー谷は奥にずっと続いていて
+意外と遠いからな
+行くならスナザラシを使うといいだろう","Karusa Valley runs deep into the
+highlands and is longer than you'd
+expect.
+If you intend to go, you should take a
+sand seal."
+37,Talk_023,"スナザラシを使うなら
+この裏にあるレンタザラシ屋を使うといいぞ
+詳しいことは店の主に聞くといいだろう","If you want to take a sand seal, you
+can get one from the seal rental shop
+out back.
+Ask the shopkeeper for the details."
+38,Talk_024,"ゲルドの砂嵐に巻き込まれると
+方向感覚が失われ 
+ゲルド人ですら遭難することもあるぐらいだ
+
+…ただ そんな場所だからこそ
+
+賊が潜んでいたり
+古代人がお宝を隠していたりするわけだがな","Get caught in a Gerudo sandstorm,
+and you'll lose all sense of direction.
+
+They often take even us Gerudo by
+surprise.
+
+But the sandstorms are precisely why
+thieves hide in the desert...and why
+ancient treasures remain undiscovered."
+39,Talk_025,"ハイリア人が雷鳴の兜を
+賊から取り戻してくれたと聞いたが
+もしかしてお前か？","I heard that a Hylian recovered the
+Thunder Helm from the thieves.
+Was that you?"
+40,Talk_026,"門の警備さえなければ
+私も共に戦ったのだが…
+何はともあれ我が国の宝が戻ってきたのだ
+仕事が終わったら酒場で祝い酒だな！","I would have joined you in the fight, but
+I couldn't leave my post.
+
+Still, the treasure of the Gerudo has
+returned! After my shift, I shall celebrate
+at the canteen."
+41,Talk_028,"ここはゲルドの街の北西門だ
+
+私はここで旅人が砂嵐に巻き込まれんよう
+注意喚起を行っている
+アレに巻き込まれると方向感覚が失われ 
+我々ですら遭難することもあるぐらいだからな
+…ただ そんな場所だからこそ
+
+賊が潜んでいたり 
+古代人がお宝を隠してるわけだがな","This is the northwest gate of
+Gerudo Town. 
+
+We caution all travelers to avoid the
+sandstorms.
+
+If you're caught in a sandstorm, you'll
+lose your way. Even us Gerudo have
+trouble navigating them.
+The danger of the sandstorms makes
+the desert the perfect hiding place for
+thieving bandits and priceless treasures."
+42,Talk_029,"神獣の脅威は去ったとはいえ
+魔物や砂嵐の脅威は残っている
+あまり砂漠を軽くみないようにな","I'm glad that the Divine Beast is gone,
+but we still have monsters and
+sandstorms to deal with.
+Make no mistake—the desert still hides
+peril between every dune. Tread lightly."
+43,Talk_030,"まぁ
+あまり砂漠を軽くみんことだな","Make no mistake—the desert hides peril
+between every dune. Tread lightly."
+44,Talk_031,"だろうな ゲルドの砂嵐は
+気性が荒いじゃじゃ馬でな
+アレに巻き込まれると方向感覚が失われ
+ゲルド人ですら遭難することもあるぐらいだ
+ただ その砂嵐を利用して
+賊が潜んでいたり
+古代人が色んなお宝を隠したと
+言われてるがな","Of course you didn't. A Gerudo
+sandstorm has the temperament of a
+cornered wolf.
+If you wander into one, you'll lose all
+sense of direction. Even us Gerudo are in
+a bind if one seizes upon us.
+But some use the storms to their
+advantage. It's a perfect hiding place for
+the unlawful...and for precious treasures."
+45,Talk_032,"おっと スマン
+お前はヴォーイだったな
+カルサー谷に行きたいなら
+その辺にいるスナザラシでも捕まえるんだな","Oh, sorry. I forgot that you're a voe.
+
+
+If you want to get to Karusa Valley
+quickly, you can just catch one of the
+sand seals around here."
+46,near00,今日も砂嵐がひどいな,The storms still rage...

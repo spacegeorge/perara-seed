@@ -1,0 +1,139 @@
+#,Title,JPja,USen
+1,"""0000""",はい,OK.
+2,"""0001""",いいえ,Never mind.
+3,"""0005""",何が？,What?
+4,"""0006""",ですよね,You're right.
+5,"""0010""",リトの巨人の,The joy of the Rito
+6,"""0011""",リトの巨鳥の,The honor of the Rito
+7,"""0012""",リトの巨塔の,The pride of the Rito
+8,"""0013""",リトの巨岩の,The wings of the Rito
+9,"""0020""",赤き体,Village in the sky
+10,"""0021""",青き体,Bird in the sky
+11,"""0022""",白き体,Mountain in the sky
+12,"""0023""",黒き体,Pillar in the sky
+13,"""0030""",日の高き時,Its heart lights up
+14,"""0031""",月の高き時,Its face lights up
+15,"""0032""",空の高き時,Its shadow lights up
+16,"""0033""",山の高き時,Its wings light up
+17,"""0040""",真の頭の在り処を示す,When the arrows fly
+18,"""0041""",真の心の在り処を示す,When the sun is high
+19,"""0042""",真の体の在り処を示す,When the time is nigh
+20,"""0043""",真の尾の在り処を示す,When the day is shy
+21,"""0044""",言ってみる,I'll give it a shot.
+22,"""0045""",やめときます,I'll pass.
+23,near01,ふぅ…,Phew...
+24,near02,巨塔の～～,Pillar in the sky...
+25,near03,…,...
+26,near04,スゥ… スゥ…,Zzz...zzz...
+27,talk00,…おはよう,Morning.
+28,talk01,やぁ,Hello.
+29,talk02,こんばんは,Evening.
+30,talk04,そうか,Hmm. OK.
+31,talk05,"裸…？
+
+それ以上近づくな""人を呼ぶぞ？","You...are basically naked.
+
+
+That's close enough. Don't make me call
+someone."
+32,talk06,"私は今から寝る
+また明日声を掛けてくれ","I'm about to turn in for the night.
+Come back tomorrow."
+33,talk07,"これはまた こんな時に…
+酔狂な旅人も居たもんだ","What are you doing here?
+You adventurers are crazy."
+34,talk08,何がって…,"What do you mean, \""what\""?"
+35,talk09,"あの神獣 ヴァ・メドーのせいで
+村中ゴタゴタ続きだ","Thanks to Divine Beast Vah Medoh, our
+village is under siege! It could bomb us
+all at any given moment!"
+36,talk10,"私が訓練を積んだ戦士だったら
+真っ先にアイツを倒しに行くんだがな…","If I were a properly trained soldier,
+I'd go straight at the beast and bring it
+down..."
+37,talk11,ですよね… ってキミの事だぞ？,"\""You're right\""?
+I was talking about you, you know."
+38,talk12,"空を飛んでいる
+神獣 ヴァ・メドーが目に入らないのか？
+アイツのせいで村中がゴタゴタしている","You see Divine Beast Vah Medoh flying
+around up there?
+
+The village is in disarray thanks to that
+thing."
+39,talk13,スゥ… スゥ…,Zzz...zzz...
+40,talk14,ふむ…,Hmph...
+41,talk15,"ベラが古のリトの詩の後半を知りたいなら
+私に聞け と？
+アイツ…本当に忘れっぽいんだな
+
+いいだろう…ただし！
+
+前半部分を何も見ずに言えたら
+後半を教えてやろう…","So Bedoli told you I would sing you the
+last half of the ancient Rito song?
+
+Her memory really is the worst...
+
+
+I can help you...but there is a catch!
+
+
+Recite the first half from memory, and I
+will teach you the second half."
+42,talk16,"詩の後半部分を教えて欲しいか？
+
+だったら前半部分を間違えずに言ってみな","You want me to sing the second half
+of the song?
+
+Only if you can recite the first half
+without messing it up."
+43,talk17,ノリの悪いヤツだな…,That is disappointing.
+44,talk18,ハイ どうぞ,Go ahead.
+45,talk20,"神獣 ヴァ・メドーが大人しくなって
+ようやくこの村にも平和が戻って来た","Now that Divine Beast Vah Medoh has
+calmed down, the village is peaceful
+once again."
+46,talk21,村のみんなも浮足立っているようだな,"Seems like everyone in the village is
+thinking about going on vacation."
+47,talk22,"…残念不正解だ
+前半をしっかり覚えてから また来ればいい","ENNNNNNGH! Wrong!
+Come back once you can actually
+recite the first half."
+48,talk23,"正解""次は？","Correct, and after that?"
+49,talk24,"フム""正解だ
+次は…","Ah... Right again.
+And then?"
+50,talk25,"正解""次で最後だ…",Well done. Now for the final line...
+51,talk26,"フム…""全問正解だ
+
+よし約束だ
+この詩の後半部分を教えてやろう","Aha! You got every word right!
+
+
+Well, a promise is a promise. I'll teach
+you the last half of the song."
+52,talk27,"しかして心は眠りの中
+熱き炎が その魂を目覚めさせん","The heart shines upon a path not whole,
+but a warming flame can stir its soul."
+53,talk28,"これが古のリトの詩の後半部分だ
+
+聞くたびに意味深な詩だが
+独特の響きがあるな","That's the second half of the 
+ancient Rito song.
+
+Profound, isn't it?"
+54,talk30,"…わざわざ私の所に来たという事は
+古のリトの詩を聞きに来たんだろう？","...Don't tell me you came all the way
+here just to hear an ancient Rito song."
+55,talk31,古のリトの詩が聞きたいのか？,You want to hear the ancient Rito song?
+56,talk32,"頼まれると断りたくなるのだが…
+まぁ いいだろう","Nothing makes me want to not do 
+something more than being asked to do
+it on the spot... But sure, why not."
+57,talk33,"リトの巨塔の黒き体
+日の高き時""真の心の在り処を示す","The pride of the Rito, pillar in the sky,
+its heart lights up when the sun is high."
+58,talk34,"…これが古のリトの詩の全てだ
+相変わらず意味深な内容だな","That's the whole song.
+Pretty deep, huh?
+Makes you think."

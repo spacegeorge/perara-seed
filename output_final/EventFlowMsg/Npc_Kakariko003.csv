@@ -1,0 +1,389 @@
+#,Title,JPja,USen
+1,"""0000""",母様？,For Mother?
+2,"""0001""",そっか…,I see...
+3,"""0002""",ヤギのバターをあげる,Voilà! Goat butter!
+4,"""0003""",元気出して！,Cheer up!
+5,"""0004""",ケモノ肉をあげる,Voilà! Raw meat!
+6,"""0005""",ハチミツをあげる,Voilà! Honey!
+7,Talk00,"ごめんなさい
+今急いでいるのです
+プリコが帰ってくるまでに
+母様のところに行かないと…なのです！","Sorry! Koko is in a bit of a rush!
+Koko has to go visit Mother before 
+Cottla gets home."
+8,Talk01,"わわわっ！
+ビックリしたです！！",Waaaaah! You scared Koko!
+9,Talk03,"ココナ…
+雨は嫌いだったのです…
+でも今は違うのです…
+
+雨の日なら…
+
+涙を流してくれる雨の日なら
+泣いても母様にバレないから…","Koko...used to not like the rain.
+
+
+But now Koko doesn't mind it so much.
+
+
+The rain is a veil. It hides many things...
+
+
+On a rainy day, Koko can cry
+without Mother seeing."
+10,Talk04,"母様はたぶん… ここに眠ってるです
+きっと天国にいるです…
+父様は必死で隠そうとしていますが…
+
+ココナは わかってるです
+だからココナ しっかりしないと なのです！","Mother is...sleeping here. She's probably
+making friends in heaven...
+
+Father thinks it's best not to tell us
+she's gone.
+
+But Koko knows. That's why Koko
+must be strong!"
+11,Talk05,"父様はウソがとっても下手なのです
+
+でも プリコはまだ小さいから
+気づいてないです…
+ここで ココナに会ったことは
+プリコには内緒なのですよ","Father is bad at lying.
+
+
+Cottla is just too young to realize it...
+
+
+Oh! Please don't tell Cottla you saw
+Koko here today!"
+12,Talk06,"こんな時間になっちゃったのです！
+暗くなる前に帰らないと… なのです！","It's already this late?! Koko's gotta
+get home before it's dark!"
+13,Talk07,"…父様が …帰ってくるまで…
+ココナ…起きてるの…です…","Must...stay awake...until Father's home...
+Koko...must stay...awake..."
+14,Talk08,"これから父様と約束があるのです！
+急がないと…なのです！","Koko is meeting Father soon.
+Koko has to go!"
+15,Talk09,"母様は この木が大好きだったのです
+
+大きくて優しくて
+父様みたいだ… って言ってたのです","Mother loved this tree!
+
+
+She said it's big and kind,
+just like Father!"
+16,Talk12,"そろそろプリコの
+ご飯の用意をしないと…なのです",Time to cook a meal for Cottla...
+17,Talk13,"他には何を作ろうかな…
+
+あっ！！
+
+母様がよく作っていたリンゴバターにするです！
+アレならプリコも大好きなのです！
+材料は…""確か…
+リンゴとヤギのバター… ん？ バター？","What should Koko make now...
+
+
+OH! Hot buttered apple sounds good!
+Mother used to make it all the time!
+Cottla loves it too!
+Let's see... The ingredients are... 
+some apples and...goat butter?"
+18,Talk14,ああっ！！,"OH, NO!!"
+19,Talk15,"ココナはやっぱり ダメな子なのです…
+母様のようには なれないのです…","Koko is a bad daughter who can't
+do anything right. Koko will never
+be like Mother..."
+20,Talk16,"これはっ？！
+
+ヤギのバター！！！！
+
+いいのですか？いいのですか？
+ありがとうございますです！
+ちょっと待っててください なのです！","Is this...
+
+
+goat butter?!
+
+
+Are you sure about this? Really?
+Thank you so much! Koko means it!
+Stay right there for a second!"
+21,Talk17,"同情はいらないのです…
+ヤギのバターがほしいのです…","Koko doesn't need your sympathy.
+Koko needs some goat butter!"
+22,Talk19,"んー！
+いい香りなのです！！
+バターの風味も残しつつ
+リンゴの甘味を しっかり活かして作れたです！
+コレ おすそ分けなのです！","Mmm! What a yummy smell! And that hint
+of butter makes all the difference!
+
+Oh! Oh! And the apples are superbly
+sweet too! Here, take some. It's really
+something else."
+23,Talk20,"ココナ頑張って
+もっともっと料理の腕を磨くです！","Koko will work hard to get better
+and better at cooking!"
+24,Talk21,"ココナ わかるです…
+ウソはわかるです…
+父様も ウソが下手ですから…","Koko knows when someone is lying.
+Father isn't good at lying either..."
+25,Talk22,"後は何を作ろうかな…
+
+あっ！！
+
+父様の好物カチコチ肉詰めカボチャにするです！
+元気いっぱいに なるやつなのです！
+材料は…""確か…
+ヨロイカボチャとケモノ肉… ん？""ケモノ肉？","Hmm, what should Koko make now...
+
+
+OH!! Koko will make Father's favorite!
+Tough meat-stuffed pumpkin!
+It's great for an energy boost.
+Let's see... The ingredients are...
+fortified pumpkin and raw meat.
+
+Hrm? ...Raw meat?"
+26,Talk23,"他のお肉でも作れるのですが…
+ケモノ肉でなければ母様の味は出せないのです
+ケモノ肉はよく父様が狩りに出て
+獲ってきてくれてたですが…
+今はお仕事ですし…
+
+ココナはやっぱり ダメな娘なのです…
+母様のようには なれないのです…","Koko could use a different kind of meat,
+but...without raw meat, Koko can't
+re-create Mother's recipe...
+Father used to go hunting to make sure
+we always had raw meat. But he's at
+work right now...
+Koko is a bad daughter who can't do
+anything right. Koko will never be
+like Mother..."
+27,Talk24,"これはっ？！
+
+ケモノ肉！！！！
+
+いいのですか？いいのですか？
+ありがとうございますです！
+ちょっと待っててくださいなのです！","Is this...
+
+
+raw meat?!
+
+
+Are you sure about this? Really?
+Thank you so much! Koko means it!
+Stay right there for a second!"
+28,Talk25,"んー！
+いい香りなのです！！
+あふれ出る肉汁を カボチャの甘味が優しく包む
+これぞ我が家の味なのです！
+コレ おすそ分けなのです！","Mmm! What a scrumptious smell!
+
+
+Oh, and that savory meat pairs SO well
+with the sweetness of the pumpkin!
+This is just how Mother made it!
+Here, have some! It's so good!"
+29,Talk26,"うわーん！！母様～！！
+
+ココナ…
+ココナ…
+これからも…
+もっともっと頑張るね！","Waaah! Mother!!
+
+
+Koko...
+
+
+Koko...will do her best and try to be as
+good as you one day! Koko will get
+better and better! Koko promises!"
+30,Talk27,"デザートは何を作ろうかな…
+
+あっ！！
+
+母様が好きだったハチミツリンゴにするのです！
+とろける おいしいやつなのです！
+材料は…""確か…
+リンゴとガンバリバチのハチミツ… ん？
+ガンバリバチのハチミツ？","What should Koko make for dessert?
+
+
+OH! Koko will cook a honeyed apple!
+Mother loved those! It melts in your
+mouth and is sooo delicious!
+Let's see... The ingredients are...
+an apple and courser bee honey...
+
+Hrm? ...Courser bee honey?"
+31,Talk28,"ガンバリバチさんは巣に近づくと
+たくさんで襲ってくるです
+とても危険で
+ココナには とってこられないのです…
+天国の母様に作ってあげたかったですが…
+ココナはやっぱり ダメな娘なのです…","The bees attack you when you get close
+to their hives. It's too dangerous for
+Koko to go get more...
+Koko wanted to make some for Mother
+in heaven... But...Koko is a bad daughter
+who can't do anything right."
+32,Talk29,"これはっ？！
+
+ガンバリバチのハチミツ！！！！
+
+いいのですか？いいのですか？
+ありがとうございますです！
+ちょっと待っててくださいなのです！","Wait... Is this...
+
+
+courser bee honey!!
+
+
+Are you sure about this? Really?
+Thank you so much! Koko means it!
+Just stay right there a second!"
+33,Talk30,"こ… これは…
+
+お…思い出したです…
+
+ココナが お熱を出した時
+いつも母様が コレを作ってくれたです…
+カレーを作る時
+母様は こっそりコレを入れていたです…","This... This is...
+
+
+Koko...remembers...
+
+
+When Koko had a fever, Mother would
+always cook this just for Koko.
+
+When Mother made her special dessert,
+she always put some of this in it."
+34,Talk31,"母様の味を作ることができたです！
+もうココナは大丈夫なのです！！
+これもみんな お兄さんのおかげなのです！
+コレ受け取ってくださいなのです！","Koko was able to re-create Mother's
+dishes! Koko...feels better now!
+
+It's all thanks to you!
+Please, take this!"
+35,Talk32,"リンゴバターを作りたいのに
+ヤギのバターを忘れるなんて…
+ココナはやっぱり ダメな子なのです…
+母様のようには なれないのです…","Koko wants to cook a hot buttered apple
+but forgot the goat butter?!
+
+Koko is a bad daughter who can't
+do anything right... Koko will never
+be like Mother..."
+36,Talk33,"カチコチ肉詰めカボチャを作りたいのに
+ケモノ肉を忘れるなんて…
+ココナはやっぱり ダメな子なのです…
+母様のようには なれないのです…","ARGH! Koko wants to cook
+tough meat-stuffed pumpkin
+but forgot the raw meat?!
+Koko is a bad daughter who can't do
+anything right. Koko will never be
+like Mother..."
+37,Talk34,"ハチミツリンゴを作りたいのに
+ガンバリバチのハチミツを忘れるなんて…
+ココナは やっぱりダメな子なのです…
+母様のようには なれないのです…","Koko wanted to make a honeyed apple,
+but Koko forgot the courser bee honey?!
+
+Koko is a bad daughter who can't do
+anything right. Koko will never be
+like Mother..."
+38,Talk35,"あっ親切なお兄さん！
+
+ココナね決めたです！
+将来 コックさんになるです！
+コックさんになって
+みんなを お料理で幸せにするです！
+今までは母様のレシピばかりでしたですが…
+
+これからはココナのオリジナルレシピを
+考えないとなのです！
+…でも レシピ考えるってなかなか難しいのです","Oh! It's you! Koko has made a decision!
+
+
+Koko will become a chef when Koko
+grows up! That way, Koko can make
+everyone happy with yummy food!
+This whole time, Koko has been
+relying on Mother's recipes.
+
+But from now on, Koko will come up with
+her own recipes too!
+
+To be honest...coming up with recipes
+is hard!"
+39,Talk36,"甘い言葉ではなく… ココナは
+ガンバリバチのハチミツの甘さがほしいのです…","Your sweet words aren't helping...
+What Koko needs is some sweet
+courser bee honey."
+40,Talk37,"ケモノ肉がないので
+元気もでないのです…","Without raw meat...
+Koko feels so empty..."
+41,Talk38,"ココナは…
+ココナは泣いてませんですよ
+母様の分まで
+ココナが しっかりしないと なのですから","Koko isn't... *sniffle* Koko isn't crying!
+Koko needs to be strong for Mother..."
+42,Talk39,"あれれ ポーチがいっぱいなのです！
+
+これじゃ ココナのお料理 あげられないのです
+
+ココナ いっしょうけんめい作ったのに…
+ココナ お礼したかったのに…","Huh? Your pouch is full!
+
+
+But Koko can't give you any food if you
+don't have room for it!
+
+Koko worked so hard to make it.
+Koko wanted to thank you..."
+43,Talk40,"ココナのために
+ポーチ空けてきてくれたですか？
+嬉しいのです！
+ありがとうなのです！
+ココナ いっしょうけんめい作ったです！
+食べてくださいです！","You made space in your pouch for Koko?
+Oh, you've made Koko so happy!
+Thank you so much!
+Koko worked really hard to make this!
+Please, try a bite!"
+44,Talk41,"雨の日は悲しくて
+お料理の気分じゃないのです…","It's raining now, so Koko can't cook..."
+45,Talk42,"その ナベのフタ…
+
+やっと持ち主が見つかったです！
+ずっと誰のかな？って思ってたのです！","That pot lid...
+
+
+It found its owner! Koko has been
+wondering who it belonged to for
+a while now!"
+46,Talk43,"…今ちょうどヤギのバターを
+切らしてたのです…",Koko is out of goat butter...
+47,Talk44,…今ちょうどケモノ肉を切らしてたのです…,Koko is out of raw meat...
+48,Talk45,"…今ちょうどガンバリバチのハチミツを
+切らしてたのです…",Koko is all out of courser bee honey...
+49,Talk46,"なななっ！
+何ですか！！",Waaaaah! What is it?!
+50,Talk47,"…父様
+ココナ…待ってた…よ…",Father... Koko waited...for you...
+51,near,いそげ いそげ,Hurry!
+52,near_00,えーん えーん,Waaah!
+53,near_01,幽霊なんかいないもん,Ghosts aren't real...
+54,near_02,ごはん作らなきゃ,Koko must cook dinner!
+55,near_03,うーん…,Hrm...
+56,near_04,グゥ…,Zzz...
+57,near_05,雨なのです…,It's raining...

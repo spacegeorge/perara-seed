@@ -1,0 +1,312 @@
+#,Title,JPja,USen
+1,Atacked00,"くっ…こんな魔物に不意をつかれるとは…""","Grh... I'll take any monster in a fair fight!
+But it's another story when they cheat
+and catch you by surprise."
+2,Atacked01,"くそっ！ いつもの武器さえあれば
+こんな奴ら すぐに蹴散らしてやるものを…","Sa'oten! If I had my usual trusty blade,
+these sands you see before you would
+be littered with their guts!"
+3,Failed00,"ぐっ…
+まさか こんな所で こんな奴らに…","Grr... I hoped I wouldn't run into any
+trouble here."
+4,Failed01,"うう…ここで倒れでもしたら
+私の重大な任務が志半ばで…","Whew... I'm on an important mission.
+Those things almost got in the way of it."
+5,MSG_Gerud_00,"今のところ この街に
+怪しい者が紛れ込んでいる気配はなさそうだ
+まだ気は抜けんがな","I've been watching, and I feel safe
+saying there's no one suspicious around
+here. Still, I'll keep my eyes open."
+6,MSG_Gerud_00_1,"今のところは大丈夫そうだ
+まだ気は抜けんがな","Things seem fine around here. Still, I'll
+keep my eyes open."
+7,MSG_Gerud_01,"ナボリスの出現で
+この辺りは危険な状態だ
+砂漠を知り尽くす我らゲルド族でも
+避けているほどだ
+おまえもナボリスの雷で黒焦げになる前に
+カラカラバザールにでも引き返すんだな","Ever since Naboris showed up again,
+we've had no end of problems here.
+
+Anyone who knows anything about the
+desert, like my people, takes pains to
+avoid the thing.
+You should get to safety somewhere like
+Kara Kara Bazaar before Naboris's
+lightning strikes you down."
+8,MSG_Gerud_0100,"今のところ この街に
+怪しい者が紛れ込んでいる気配はなさそうだ
+だが賊の残党が
+いつこの街に戻ってくるか わからんからな
+まだまだ気は抜けん","I've been watching, and I feel safe
+saying there's no one suspicious
+around here.
+That doesn't mean I can relax, though.
+The surviving Yiga Clan could strike
+at any moment. I'll keep my eyes open."
+9,MSG_Gerud_0100_1,"賊の残党が いつこの街に戻ってくるか
+わからんからな
+まだまだ気は抜けん","The surviving Yiga Clan could strike
+at any moment. I'd better keep my
+eyes open."
+10,MSG_Gerud_01_1,"危ないというのに
+まだこんな所にいるのか？
+まったく…
+ナボリスの雷で黒焦げになっても知らんからな","You're still here? Don't you understand
+the dangers?Sa'oten! Don't blame me if Naboris's
+lightning strikes you down."
+11,MSG_Gerud_01_2,"ナボリスの脅威は去ったようだが
+砂漠はいつも危険と隣り合わせ
+我らゲルド族でも気を抜くと
+大ケガをすることもある
+おまえも砂漠を渡るなら
+装備を整えてしっかり準備をしておくことだな","Naboris has stopped terrorizing the
+desert, but that doesn't mean it's a safe
+place now. Not even for us Gerudo.
+If you intend to travel the desert,
+be sure that you're equipped for
+the journey."
+12,MSG_Gerud_01_3,"おまえも砂漠を渡るなら
+装備を整えてしっかり準備をしておくことだな","If you intend to travel the desert,
+be sure that you're equipped for
+the journey."
+13,MSG_Gerud_02,"ここは砂漠でも多くの人が集まる場所だ
+
+今のところ怪しい者の気配はないが
+しっかり目を光らせておかんとな","A lot of people gather around this little
+outpost, I've noticed.I've been watching, and I feel safe
+saying there's no one suspicious around
+here. Still, I'll keep my eyes open."
+14,MSG_Gerud_02_1,"今のところ怪しい者の気配はないが
+しっかり目を光らせておかんとな","I've been watching, and I feel safe
+saying there's no one suspicious around
+here. Still, I'll keep my eyes open."
+15,MSG_Gerud_03,"砂漠を渡るなら忠告しておこう
+
+砂嵐に巻き込まれると右も左もわからなくなる
+素人は砂嵐には近づかんことだな！","If you're going into the desert, traveler,
+listen well.There are sandstorms out there so thick
+you can't tell vai from voe. Don't get
+caught up in one if you value your life!"
+16,MSG_Gerud_03_1,"砂嵐に巻き込まれると右も左もわからなくなる
+素人は砂嵐には近づかんことだな！","There are sandstorms out there so thick
+you can't tell vai from voe. Don't get
+caught up in one if you value your life!"
+17,MSG_Gerud_04,"馬宿が近いからと気を緩めた時に
+イーガ団の奴らが本性を現すかもしれん
+この辺りも しっかり見張っておかないとな","Relax around here for even one second,
+and you're begging for the Yiga Clan to
+make you a target. I have to stay alert."
+18,MSG_Gerud_04_1,"ホッと気が緩んでしまう場所だからこそ
+しっかり見張っておかないとな","This is a nice place to relax in the middle
+of a long journey, huh? WRONG! That's
+what the Yiga Clan WANTS you to think!"
+19,Near00,暖かくなってきたな…,It's getting warm.
+20,Near01,今日も暑いな…,Another broiling day...
+21,Near02,涼しくなってきたな…,It's finally cooling off...
+22,Near03,今夜も冷えるな…,Tonight's chilly again.
+23,Rest_00,"ふぅ… この地の治安のためとはいえ
+通常の警備だと街の外までは行かんからな
+さすがに少し疲れたよ","*sigh* Most guards don't stray too far
+from town.They claim it's to keep a close eye on
+things there, but I suspect it's so they
+don't wear themselves out walking."
+24,RetMSG_Gerud_00,"今のところ この街に
+怪しい者が紛れ込んでいる気配はなさそうだ
+他の兵士達は イーガ団のアジトを叩くべく
+昼夜を問わず がんばってくれている
+私も しっかりと見張らねばな","I've been watching, and I feel safe
+saying there's no one suspicious
+around here.
+But the other soldiers are working day
+and night to root out the surviving Yiga
+Clan jackals. I've got to do my part too."
+25,RetMSG_Gerud_00_1,"他の兵士達は イーガ団のアジトを叩くべく
+昼夜を問わず がんばってくれている
+私も街に不審者が入らぬよう
+しっかりと見張らねばな","The other soldiers are working day and
+night to root out the surviving Yiga Clan
+jackals. I've got to do my part too."
+26,RetMSG_Gerud_01,"こんな所をウロウロして
+ナボリスの雷で黒焦げになっても知らんぞ
+砂漠を知り尽くす我らゲルド族でも
+避けているほどだからな
+まぁナボリスのことは族長様が
+何とかしてくれるはずだが
+命が惜しければ
+それまでは大人しくしとくんだな","Don't blame me if you go wandering the
+deserts and Naboris's lightning strikes
+you down.
+We Gerudo know better than to go
+anywhere near that thing.I heard our chief might be doing
+something about Naboris, but...until
+she does, be smart and stay away."
+27,RetMSG_Gerud_0100,"今のところ この街に
+怪しい者が紛れ込んでいる気配はなさそうだ
+だが賊の残党が
+いつこの街に戻ってくるか わからんからな
+まだまだ気は抜けん","I've been watching, and I feel safe
+saying there's no one suspicious
+around here.
+But the survivors of the Yiga Clan could
+show their faces here at any moment.
+We have to be ready when they do."
+28,RetMSG_Gerud_0100_1,"賊の残党が いつこの街に戻ってくるか
+わからんからな
+まだまだ気は抜けん","The survivors of the Yiga Clan could
+show their faces here at any moment.
+We have to be ready when they do."
+29,RetMSG_Gerud_01_1,"まだ こんなところにいるのか？
+ナボリスの雷で黒焦げになっても知らんぞ","You're still hanging around here? Don't
+blame me when Naboris's lightning fries
+you to a crisp."
+30,RetMSG_Gerud_02,"ここは朝だろうが夜だろうが
+人が絶えない場所なんだ
+今のところ怪しい者の気配はないが
+しっかり目を光らせておかんとな","The people here never seem to get
+tired, no matter what time of day it is.I've been watching, and I feel safe
+saying there's no one suspicious around
+here. Still, I'll keep my eyes open."
+31,RetMSG_Gerud_02_1,"今のところ怪しい者の気配はないが
+しっかり目を光らせておかんとな","I've been watching, and I feel safe
+saying there's no one suspicious around
+here. Still, I'll keep my eyes open."
+32,RetMSG_Gerud_03,"砂漠を渡るなら
+砂嵐には十分気を付けるんだぞ
+方向感覚が失われ気がつけば見知らぬ場所…
+なんてことも よくあるからな
+まぁ素人は砂嵐には近づかんことだな！","One warning if you're planning to go
+into the desert: there are sandstorms out
+there so thick you can't tell vai from voe.
+Don't get caught up in one if you value
+your life!"
+33,RetMSG_Gerud_03_1,"砂嵐に巻き込まれると
+方向感覚が失われ気がつけば見知らぬ場所…
+なんてことも よくあるからな
+まぁ素人は砂嵐には近づかんことだな！","There are sandstorms out there so thick
+you can't tell vai from voe. Don't get
+caught up in one if you value your life!"
+34,RetMSG_Gerud_04,"馬宿で気を緩めた時に
+イーガ団の奴らが本性を現すかもしれん
+この辺りも しっかり見張っておかないとな","If anyone at this stable lets their guard
+down, those Yiga Clan jackals are bound
+to show their true colors.
+I have to keep a careful eye out for any
+suspicious characters."
+35,RetMSG_Gerud_0400,"イーガ団が噂通り
+変装の名人だったとしたら
+旅人が集まる馬宿が
+一番身を隠しやすい場所だと思わんか？
+だからこの辺りも しっかり見張っておかんとな
+
+アイツらも まさか我々の方も
+旅人に変装しているとは思わんだろう","If the tip I heard is true about the Yiga
+Clan being masters of disguise, they
+could be anyone here at this stable.
+I can't afford to let my guard slip for
+even a moment.Sooner or later, they'll mistake me for
+a simple traveler, and that's when I'll
+have them dead to rights."
+36,RetMSG_Gerud_0400_1,"イーガ団が噂通り
+変装の名人だとしても
+まさか我々まで
+旅人に変装しているとは思わんだろう","The Yiga Clan are supposedly masters of
+disguise, but I bet they won't count on
+their prey being in disguise too. Heheh."
+37,RetMSG_Gerud_04_1,"イーガ団の奴らは いつ本性を現すかわからん
+この辺りも しっかり見張っておかないとな","Those Yiga Clan jackals will pounce on
+anyone who lets their guard down.
+I can't afford to relax for even a moment."
+38,SavedLv1_00,"あの程度の魔物に手こずるとは…
+私も まだまだだな","I shouldn't have had so much trouble
+with a weakling. I'm supposed to be
+better than that."
+39,SavedLv1_01,"あぶなかった…
+命拾いしたよ サークサーク！","That was a hot one, even for the desert.
+I wouldn't have made it without your
+help. Sarqso!"
+40,SavedLv2_00,"ほんと助かったよ
+サークサーク","I wouldn't have made it out of that
+without your help. Sarqso!"
+41,SavedLv2_01,"その腕前は もしかして
+イーガ団…
+…よりも強いんじゃないか？","The way you fight... I've never seen
+anyone that good. Not even the
+Yiga Clan."
+42,SavedLv3_00,"助かったよ
+
+いつもの装備だったら
+あの程度の魔物に負けはしないんだが…","I hate this... That should have been no
+problem, but here we are.
+
+If I had my usual gear, no monster that
+small would dare approach me."
+43,SavedLv3_01,"その戦い慣れした感じは
+おまえはもしかして…イーガ団？
+なわけないか！
+イーガ団が人助けするはずないからな","You seem at home in battle. You're...not
+a member of the Yiga Clan, are you?Hah, what am I saying? As if any of
+those jackals would go to the trouble
+of saving me."
+44,Thanks00,"少ないが これは礼だ
+受け取ってくれ","I have to thank you somehow. Is this
+enough?"
+45,first,"……
+
+うむ…
+おまえは普通の旅人のようだな！
+すまんなこう見えて実は私…
+ゲルドの街の兵士なんだ
+街の平和を脅かす
+イーガ団という賊がいるんだが
+そいつらのお陰で今ゲルドの街は
+大変なことになっているんだ
+そいつらは旅人に変装し
+悪事を働くという噂があってな
+だから私もこうやって旅人になりすまし
+賊が紛れ込んでいないか見張っているんだ","Hmmmm... You look like your everyday
+traveler, but how can I be sure?Don't tell anyone...but I'm no merchant.
+I'm a Gerudo Town soldier in disguise.Ever heard of the Yiga Clan? They're a
+group of thieving bandits who have
+caused all sorts of trouble back in town.
+I got a tip that some of them go
+incognito as travelers to ambush
+the unwary.
+That's why I'm dressed as a simple
+merchant. My mission is to blend in
+and stay on guard in case they strike.
+They were bold enough to strike at
+Gerudo Town, so I wouldn't be shocked
+if they struck at travelers, too..."
+46,first_00,"……
+
+おまえは…普通の旅人のようだな…
+
+すまんなこう見えて実は私…
+ゲルドの街の兵士なんだ
+この地には
+イーガ団という賊がいるんだが
+そいつらのお陰で
+我々は大変な目にあったことがあってな…
+その事件は すでに解決したんだが
+
+まだ残党がいるかもしれんし
+やつらは変装の名人と聞くからな
+こうやって旅人の姿になって
+賊が紛れ込まないように見張っているんだ","Hmmmm... You look like your everyday
+traveler...Don't tell anyone...but I'm no merchant.
+I'm a Gerudo Town soldier in disguise.Ever heard of the Yiga Clan? They're a
+group of thieving bandits who caused
+trouble back in town a while back.
+We put them down, but we may not have
+gotten them all... I was tipped off that
+some have been ambushing travelers.
+That's why I'm dressed as a simple
+merchant. My mission is to blend in
+and stay on guard in case they strike.
+Even with their hideout sacked, any
+stragglers are still dangerous.
+Perhaps more dangerous..."
+47,hello,サヴォッタ！,Sav'otta!
+48,hello01,サヴァーク！,Sav'aaq!
+49,hello02,サヴァサーバ！,Sav'saaba!

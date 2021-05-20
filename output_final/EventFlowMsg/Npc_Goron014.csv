@@ -1,0 +1,116 @@
+#,Title,JPja,USen
+1,"""0000""",旅の者です,I'm a traveler.
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",実は…,Actually...
+4,"""0003""",旅の者ですってば,I said I'm a traveler.
+5,"""0004""",ゴロンシティ？,Where's Goron City?
+6,"""0005""",ここって？,What is this place?
+7,"""0006""",あなたは？,Who are you?
+8,near00,フン… フン…,Hmph... Hmph...
+9,near01,グーー… グーー…,Grumph... Gruhhh...
+10,near02,さて…,All right...
+11,talk01,"フーーーーーッ…
+
+こんな時間に…誰ゴロ…","Hmph...
+
+
+Who the heck... At this hour?"
+12,talk02,フム…ゴロ,Hmph...
+13,talk03,"ハ…ハハッ… 
+
+正直に言うゴロ
+
+年寄の目は誤魔化せんぞ…ゴロ
+","Ha! Gwahaha!!
+
+
+I'll give it to ya straight!
+Wise eyes don't play tricks!"
+14,talk04,"…フン本当かのぅ？
+まあいい…ゴロ
+ワシに聞きたい事があるんか？…ゴロ","Hmph! Fine then... Keep your secrets.
+
+
+Is there somethin' you wanna ask me?"
+15,talk05,"…みなまで言うな…ゴロ
+
+…いい目をしておる…ゴロ
+
+ワシもこの歳まで色々見てきたゴロ
+おまえさんが只者じゃないくらい分かる…ゴロ
+さぁ なんでも聞くがいい…ゴロ","I've gotta interrupt ya real quick!
+
+
+You've got good eyes on ya, little guy.
+Honest eyes.
+
+At my age, I've seen a lotta things.
+I can tell you're no run-of-the-mill
+Hylian just by lookin' at ya.
+So go ahead. Ask me anything
+ya want."
+16,talk06,"ここは…見ての通り採掘場…ゴロ
+
+ワシらが採掘した鉱石を売る事で
+ワシらの街…ゴロンシティが潤うんじゃ
+以前はもっとデスマウンテン山頂に近い場所で
+掘ってたんじゃがの
+今はトカゲのバケモンのせいで
+ここに追いやられた…ゴロ","This place here... Well, as you can see,
+it's a mine.
+
+We make a profit from sellin' the ore
+we dig up. Our home, Goron City,
+benefits from our hard work!
+We used to be able to mine closer to
+the summit...but that lizard monster
+pushed us all the way back here."
+17,talk07,他に聞きたい事はあるか？…ゴロ,Anything else you wanna ask me?
+18,talk08,まだ聞きたい事があるんか？…ゴロ,Got somethin' you wanna ask me?
+19,talk09,"ボーリン
+ゴロンシティからやって来た…ゴロ
+無駄に歳を取ってしまったが…
+まだまだ働ける…ゴロ","I'm Bohrin of Goron City.
+I was once young and strong...
+Now I'm old and wrinkled.
+But worry not! There's still a lot of fight
+left in me."
+20,talk10,"ゴロンシティはあっち…ゴロ
+
+途中火山弾に気を付けるゴロ","Goron City is that way.
+
+
+The trip can be dangerous, so keep
+your eyes open on the way there!"
+21,talk11,グゴゴゴ…,*grumble*
+22,talk12,"今から寝る…ゴロ
+
+夜勤なんでな
+今寝とかないと夜が辛い…ゴロ","I'm goin' to sleep now.
+
+
+I work the night shift, so if I don't
+rest now, it'll be tough to get
+through the night."
+23,talk13,ぼちぼち仕事を始める…ゴロ,I'm about to start workin'...
+24,talk14,さぁさぁ今から仕事…ゴロ,Alrighty. Time to get to work.
+25,talk15,フンゴゴゴ…,Hrmph... *grumble*
+26,talk16,"ここは…見ての通り採掘場…ゴロ
+
+ワシらが採掘した鉱石を売る事で
+ワシらの街…ゴロンシティが潤うんじゃ
+以前はもっとデスマウンテン山頂に近い場所で
+掘ってたんじゃがの
+トカゲのバケモンが火山弾で荒しよって…
+しばらく ここで掘ることになった…ゴロ","As you can see, this is a mine.
+
+
+We sell the ore we pull from the ground.
+Our home, Goron City, profits from that.
+
+We used to mine by the summit,
+but with that lizard monster launchin'
+those magma bombs at everything...
+We just decided to make the most
+outta diggin' here."
+27,talk17,眠くて ちゃんと返事できん…ゴロ,I'm so sleepy I can't reply...

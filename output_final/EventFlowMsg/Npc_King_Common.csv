@@ -1,0 +1,102 @@
+#,Title,JPja,USen
+1,"""2000""",あなたは？,Who are you?
+2,"""2001""",ここは？,Where are we?
+3,"""2003""",さようなら,Bye.
+4,Anataha00,"こんなじじいに興味があるか？
+おかしなヤツじゃのう",Me? I'll spare you my life story.
+5,Anataha01,"わしは… もうずいぶん長く ここで独りじゃ
+お察しの通り変わりもんのじじいじゃよ","I'm just an old fool who has lived here,
+alone, for quite some time now."
+6,Bokangi10,"ふぉっ ふぉっ ふぉっ
+なかなか似合っておるぞ",Oho ho! It suits you quite well!
+7,Bokangi11,"何じゃ着ないのか？
+せっかく くれてやったというにのう…
+まあ いいわい
+寒くなる前に着るんじゃよ","I assume you will want to try it on
+right away, yes?
+
+I thought you might be eager to see
+how it looks... It's quite fetching!
+
+Well, I suppose it matters not. It is
+yours now. Do take care to put it on
+before you get too cold, though."
+8,Bokangi13,"それさえ着れば
+大抵の寒さには耐えられるぞ
+わしは このピリ辛山海焼きのレシピがあれば
+防寒着の助けなぞ必要ないがな","With that, you will be able to resist the
+bite of colder environments.
+
+As for me, I know a great spicy
+meat and seafood fry recipe, so I can
+do without that warm doublet."
+9,ClearTerrorEnemy,むう…,Hmm...
+10,ClearTerrorGuardian,危なかったのう…,That was close...
+11,FirstGoodBye00,待ちなされ,Wait.
+12,FirstGoodBye01,"そんなに急いで どこに行くつもりじゃ
+見知らぬじじいと話をするのは苦手か？","Where are you rushing off to now?
+Is speaking with a strange old man truly
+such an awful use of your time?"
+13,FirstGoodBye02,ふん…好きにするがいいわい,"Hmph. Well, do as you like, then."
+14,FirstTalk00,"ふぉっ ふぉっ ふぉっ
+こんなところに人がいるとは珍しいのう","Oho ho! Well met, stranger!
+It's rather unusual to see another soul
+in these parts."
+15,FirstTalk01,"さてさて…
+こんなところに人がいるとは珍しいのう","It is a bit strange to see another soul
+in these parts."
+16,FirstTalk02,"…して お主
+こんなところで何をしておる？","What brings a bright-eyed young man
+like you to a place like this?"
+17,FirstTalk03,"…して お主
+そんな恰好で何をしておる？","I hope you'll permit me a question...
+If I may be so bold...are you not chilly?"
+18,FirstTalk05,"問いに問いで返すとは
+近頃の若者は まったく困ったもんじゃ…
+だが… ここで会ったのも何かの縁じゃ
+教えてやろう","Answering a question with a question.
+That is fair enough.
+
+As I cannot imagine our meeting to be a
+simple coincidence...I shall tell you."
+19,GoodBye00,祠のお宝楽しみにしておるぞ,"I look forward to seeing what type of
+treasure you secure out there."
+20,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+21,Kokoha00,"ここは始まりの台地…
+遠く ハイラル王国の発祥の地と言われておる","This is the Great Plateau. According to
+legend, this is the birthplace of the
+entire kingdom of Hyrule."
+22,Kokoha01,"あれは遥か昔より
+王国の祭事に使われておった神殿じゃ
+100年前… その王国が滅んで以来
+長らく放置され荒れ果ててしまったがな…","That temple there... Long ago,
+it was the site of many sacred
+ceremonies.
+Ever since the decline of the kingdom
+100 years ago, it has sat abandoned,
+in a state of decay."
+23,Kokoha02,"…ご覧の通りじゃ
+今や誰も寄りつかん忘れられた場所よ","Yet another forgotten entity. A mere
+ghost of its former self..."
+24,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+25,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+26,TalkHub1_01,ふぉっ ふぉっ ふぉっ,Oho ho!
+27,TalkHub1_02,ふぉっ ふぉっ ふぉっ,Oho ho!
+28,Tennokoe01,"女神の祝福を受け
+一段と頼もしくなったな…","The blessing of the Goddess has made
+you that much more resilient, I see..."
+29,Tennokoe02,"わしは ここじゃ…
+早う上がってこい","Here I am...
+Get up here—quickly!"
+30,TerrorArrow,何をする！,What is this?!
+31,TerrorBomb,何じゃ？,What is it?!
+32,TerrorEnemy,ひぃーっ！,Whoa!
+33,TerrorExplosion,ぬわーっ！,Huh?!
+34,TerrorFire,あちゃっ,Toasty...
+35,TerrorGuardian,ガーディアンじゃっ！,A Guardian!
+36,TerrorImpulse,ひぃーっ！,Whoa!
+37,TerrorInsect,ひぃーっ！,Whoa!
+38,TerrorSword,やめんか！,Easy there!

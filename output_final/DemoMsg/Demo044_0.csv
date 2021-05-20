@@ -1,0 +1,114 @@
+#,Title,JPja,USen
+1,"""0000""",起動する,Yes.
+2,"""0001""",やめる,No.
+3,Demo044_0_Text001,"残りの制御端末はあと1""個！
+驚いたね ゴールは目前だよ","Justone""terminalremaining!
+What do you know?"
+4,Demo044_0_Text002,"残りの制御端末はあと2""個だよ！
+へえ……もう少しじゃないか","There aretwo""terminalsremaining.
+You're almost there."
+5,Demo044_0_Text003,"残りの制御端末は あと3""個！
+ほら まだまだ","There arethree terminals remaining!
+Keep going."
+6,Demo044_0_Text004,"残りの制御端末は あと4""個だよ！
+先は長いね","There arefour""terminalsremaining!
+Still a ways to go."
+7,Demo044_0_Text007,"やるね！制御端末はこれで全部だよ！
+メイン制御装置を起動させられるようになった！
+マップを よく見てごらん…新しく光っている
+大きな印があるはずだよ… そこへ向かうんだ！
+…でも まだ安心しない方が良いな…","That was the lastterminal!
+Now you just need to start the
+main control unit!
+I want you to take a good look at your
+map. There should be a new glowing
+point on there. Well?
+Flap to it!"
+8,Demo044_0_Text011,"残りの制御端末は あと1""個！
+あと1""個だ！！","Justone terminalremaining!
+Justonemore!"
+9,Demo044_0_Text012,"残りの制御端末は あと2""個！
+もう少しだな！！","There aretwo terminals remaining!
+Just a little more!"
+10,Demo044_0_Text013,"残りの制御端末は あと3""個！
+ようし急ごうぜ！！","There arethree terminals remaining!
+All right, let's get movin'!"
+11,Demo044_0_Text014,"残りの制御端末は あと4""個！
+その調子だ相棒！！","There arefour terminalsremaining!
+That's the way!"
+12,Demo044_0_Text017,"ようし！制御端末はこれで全部だ！
+メイン制御装置を起動させられるようになったぜ
+マップを よく見な…新しく光っている
+大きな印があるはずだ… そこへ向かえ！
+…けど気を抜くなよ相棒！","Nice! That was the lastterminal!
+Now go ahead and start up the
+main control unit!
+There should be a new glowing mark on
+your map. You're gonna need to make
+your way over to that.
+Stay focused, little guy!"
+13,Demo044_0_Text021,"残りの制御端末は あと1""個！
+もう少しだよ！","Justone terminalremaining!
+You're almost there!"
+14,Demo044_0_Text022,"残りの制御端末は あと2""個！
+焦らずにね！","There aretwo terminals remaining!
+Stay focused!"
+15,Demo044_0_Text023,"残りの制御端末は あと3""個！
+頑張っとくれ！","There arethree terminals remaining!
+Hang in there!"
+16,Demo044_0_Text024,"残りの制御端末は あと4""個！
+頼んだよ！","There arefour terminals remaining!
+I'm counting on you!"
+17,Demo044_0_Text027,"よし！制御端末はこれで全部だ！
+メイン制御装置を立ち上げられるようになったよ
+マップを よく見るんだ…新しく光っている
+大きな印があるはずだよ… そこへ向かうんだ！
+…けどさ…油断すんじゃないよ？！","Well done! That was the last of the
+terminals. Now...you'll need to
+start up themain control unit!
+Take a good look at your map. Head for
+the glowing mark you see there.
+You're doing well...
+but overconfidence can be a
+deadly foe."
+18,Demo044_0_Text031,"残りの制御端末は あと1""個
+もうちょっと…","Justone terminalremaining!
+I have faith in you!"
+19,Demo044_0_Text032,"残りの制御端末は あと2""個
+後少し…もう少し…","There aretwo terminals remaining.
+You're nearly there..."
+20,Demo044_0_Text033,"残りの制御端末は あと3""個
+貴方なら…出来る","There arethree terminals remaining.
+You can do it!"
+21,Demo044_0_Text034,"残りの制御端末は あと4""個
+頑張って…","There arefour terminals remaining.
+Don't give up!"
+22,Demo044_0_Text037,"メイン制御装置に異常が発生している為
+シーカーストーンを確認出来ません","Main control unit abnormality detected.
+Unable to authenticate Sheikah Slate."
+23,Demo044_0_Text038,"シーカーストーンを確認しました
+
+起動していない制御端末があるため
+この メイン制御装置は まだ起動出来ません","Sheikah Slate authenticated.
+
+
+Unable to activate main control unit.
+Unactivated terminals remain."
+24,Demo044_0_Text039,シーカーストーンを確認しました,Sheikah Slate authenticated.
+25,Demo044_0_Text040,"メイン制御装置を起動すると
+神獣内部に戻れなくなります
+本当に起動させますか？","Once you activate the main control unit,
+you will not be able to reenter the
+interior of this Divine Beast.
+Do you still wish to activate it?"
+26,Demo044_0_Text043,"制御端末は これで全部！
+メイン制御装置を立ち上げられるようになった
+マップを よく見て…新しく光っている
+大きな印があるはず… そこへ向かって！
+…だけど気を緩めずにね…","You activated all theterminals!
+Now you can start the
+main control unit.
+There should be a new glowing mark on
+your map. Head there!
+
+Be careful not to let your guard down."

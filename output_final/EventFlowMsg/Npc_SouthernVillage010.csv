@@ -1,0 +1,133 @@
+#,Title,JPja,USen
+1,"""0000""",観光？,Sightseeing?
+2,"""0001""",違う,Nope.
+3,"""0002""",預けるよ,"Sure, why not."
+4,"""0003""",預けない,I don't think so.
+5,"""0004""",賭け？,Test your luck?
+6,"""0005""",いいよ,That's fine.
+7,"""0006""",それは…,Umm...
+8,Near00,雨さ～,"Oh, good. Rain..."
+9,Near01,むにゃむにゃ,Mmm...mmm...
+10,talk00,"お！ にいさん！
+観光かいさ～？","Hey, sir! Haven't seen you around.
+You sightseeing?"
+11,talk01,"あれ～知らないのかいさ～？
+恋が成就する最強パワースポット
+そこのカール山 にあるラブポンドには
+ご利益もとめて遠くから観光客が来るのさ～
+にいさんも行ってみたらどうさね？","Huh? You haven't heard? There's a
+special place where they say you can
+find your true love.
+Folks come from all over to visit, hoping
+for love. It's the Lover's Pond on
+Tuft Mountain.
+Why don't you go check it out, mister?"
+12,talk02,"あれあれ そうかいさ～
+最近 この村にも観光客が多いさ～ね
+目的は恋が成就する最強パワースポット
+そこのカール山にあるラブポンドさ～
+まあ にいさん もてそうだもんな～
+行く必要ないわさ～ね","I see, I see. There've been lots of visitors
+to this village lately.
+
+They come seeking the special place
+where it's said true love can be found...
+Lover's Pond on Tuft Mountain.
+But you look like you're probably already
+popular with the ladies, so maybe that's
+not where you're headed."
+13,talk03,むにゃむにゃ,Mmm...mmm...
+14,talk04,"そういや つい最近にも
+カール山に登っていった人がいたさ～
+恋は成就したかいね～？","Oh, yeah, there have been
+people climbing Tuft Mountain.
+I wonder if they found love there..."
+15,talk05,"今日は もう寝るさ～
+用があったら また明日くるわいさ～","I'm going to sleep.
+Come back tomorrow if you
+need something."
+16,talk08,"はあ…
+でも もう軍資金が無いのさ～ね
+最近賭け事に はまりすぎて
+すっからかんなのさ～
+にいさん100ルピーほど預けてくれんかいさ？
+勝ったら10倍にして返すのさ～","The ol' war chest has seen better days...
+
+
+See, I've gotten really into gambling
+lately, but the gambling hasn't gotten
+really into me, if you get my meaning.
+I don't suppose you could spot me...
+say, 100 rupees, could you? Once I hit it
+big, I'll repay you 10 times over!"
+17,talk09,"残念なのさ～
+誰か他の人から借りるわいさ～","That's...unfortunate.
+Guess I'll just have to find someone else
+to give me a hand, huh..."
+18,talk10,"あれあれ にいさん
+この前は助かったわいさ～
+でも また
+すっからかんに なってしまったのさ～
+また100ルピーほど預けてくれんかいさ？
+勝ったら10倍にして返すのさ～","Hey, it's my friend! Thanks for helping
+me out before—I really appreciate it.
+
+Thing is, though... I'm flat broke again.
+
+
+What do you say to spotting me some
+more rupees? I think 100 rupees would
+be enough. You know I'm good for it!
+You know I'll pay ya back 10 times over!"
+19,talk11,"おいおい にいさん！
+そんなに急かさないで～
+賭けの結果は
+また明日以降に聞きに来るわいさ～","Whoa there, buddy!
+No need to rush me!
+
+I won't know the outcome of the bet
+until tomorrow, so you should come
+back then."
+20,talk12,"勝ったぜ にいさん！
+大儲け！
+にいさんのおかげなのさ～
+約束通り10倍にして返すわいさ～","My buddy! My pal! I won!
+I hit the jackpot!
+
+It's all thanks to you, too!
+Just like I promised, here's your share:
+10 times what you lent me!"
+21,talk13,"負けちまったよ にいさん…
+また すっからかんなのさ～","I... I lost, buddy.
+I'm broke as broke can be."
+22,talk14,"これだから賭けは やめられないさ～ね
+にいさんも一度やってみると いいのさ～","But I can't give up now.
+You'd understand in my shoes.
+You should give it a shot!"
+23,talk15,ありがたく預かるわいさ～,"Ah, thanks. I'm most grateful."
+24,talk16,"これを元手に
+稼いでくるさ～期待するのさ～
+結果は また明日以降に
+聞きにくるわいさ～","I'm gonna go use this to make us some
+money. Don't you worry.
+
+Come back after tomorrow to hear
+how it went."
+25,talk17,"おいおい ルピー足りないじゃないか
+がっかりなのさ～","Hold on, you don't have enough to lend
+me any! Ah, man... Don't let me down
+like that."
+26,talk18,"こんな雨の日は漁にも出れないし…
+賭け事をしに行きたいさ～","Can't even go out fishing in this rain...
+I could go test my luck, though..."
+27,talk19,"そうさ～
+
+村のチョウハンがやってる宝箱当て屋
+そこで賭け事ができるのさ～","Yeah.
+Cloyne runs a treasure-chest game.
+It's really fun, especially if you win!"
+28,talk20,"もしも負けたら
+預かったルピーは返せないけど
+それでも いいかいさ？","Just so we're clear, though... If my luck
+fails me, I won't be able to pay you back.
+You're OK with that?"

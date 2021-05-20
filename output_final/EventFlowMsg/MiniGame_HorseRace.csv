@@ -1,0 +1,232 @@
+#,Title,JPja,USen
+1,"""0000""",挑戦する,Let's do it.
+2,"""0001""",説明してほしい,How do we play?
+3,"""0002""",やめておく,"No, thanks."
+4,"""0003""",払います,Here you go.
+5,"""0004""",やめておく,I'll pass.
+6,"""0005""",やめたい,I'm dropping out.
+7,"""0006""",なんでもない,Never mind.
+8,"""0007""",やっぱりやる,"No, I'll keep going."
+9,"""0008""",必要ない,No need.
+10,Near00,もっと速く…,Faster...
+11,Near01,ぐーぐー,Zzz...
+12,Near02,もう寝るか,I need some shut-eye.
+13,Near03,雨はいやだな,Why's it always gotta rain?
+14,talk00,"やあ旅の人かな
+この草原には馬がたくさんいるだろう
+ぼくは ここで馬とともに生まれ育ったんだ
+だから馬術には自信がある…
+馬術の腕を競うのに ぴったりな競技があってね
+その競技で ぼくに勝てる人は そうはいないよ
+どうだい
+ぼくの記録に挑戦してみないか？","You a nomad? S'pose you've already
+seen the horses 'round this prairie, then.I grew up taming horses 'round these
+parts. I'm confident there's not a rider in
+Hyrule better'n me.
+And I got just the way to prove it—a li'l
+game to test which fella's better in the
+saddle. One I almost never lose.
+What do you think? You got the grit to
+step up and challenge the master?"
+15,talk01,"どうだい もう一度
+ぼくの記録に挑戦してみないか？",Wanna try to beat my time again?
+16,talk02,"じゃあ参加料をいただくよ
+20ルピーだ！","Great! There's just the little matter of the
+entry fee. That'll be 20 rupees."
+17,talk04,さあ頑張ってくれよ！,Good luck!
+18,talk05,"そうか残念だね
+気が向いたら いつでも来なよ！","I thought you had harder bark on you
+than that. Well, you ever change your
+mind, come back and see me."
+19,talk06,"この草原を ぐるっと一周
+障害物を飛び越えながら馬で走るんだ！","Ride your horse around this grassy field
+while jumping the obstacles."
+20,talk07,どうしたんだい？,Something eating you?
+21,talk08,"まだまだだね
+もっと馬術の腕を磨くといいよ！","Keep riding until you've got some hearty
+saddle sores. Lotta work ahead of you!"
+22,talk09,"なかなか速いじゃないか
+まだまだ ぼくの記録には届かないけどね！
+これ頑張った相棒に
+食べさせてあげなよ！","Nice riding, fella! You didn't beat my
+time, but I'm impressed all the same.
+Here, this is for your hardworking friend."
+23,talk10,"まさか ぼくの記録が破られるなんて…
+自信失うよ…
+約束通り ぼくの自慢の馬装備をあげるよ","Holy smoke, would you look at that?
+Never thought I'd see the day...But a man's gotta abide by his word, so
+here's that horse gear I promised."
+24,talk11,"良い記録だね！
+だいぶ腕を上げたじゃないか！
+これは約束の馬装備だ！
+ぼくの記録を目指して頑張ってくれよ！","Now that's a good run! You get better
+every time you ride!Here's that horse gear I promised you.
+Keep at it, and maybe someday you'll
+be on my level!"
+25,talk12,"馬術の腕を磨いて
+また挑戦しにきなよ","Brush up on your skills and take another
+run at it, all right?"
+26,talk13,"ルピーが足りないようだね…
+20ルピー用意して また来なよ！","You don't have the dough to race.
+Come back when you get 20 rupees!"
+27,talk14,もう一回やるかい？,Wanna try again?
+28,talk15,"挑戦したかったら
+まずは馬に乗ってこないとね！
+準備が整ったら 
+馬に乗って話しかけてくれよ！","Well shoot, fella. You can't enter a horse
+race without a horse to ride!Go mount up and come back to me when
+you're serious."
+29,talk16,"キミが乗っている その馬
+まだ登録が済んでいないようだね
+挑戦するのは
+この馬宿で登録を済ませてからにしなよ！","That horse you're riding isn't properly
+registered yet.Go take care of the paperwork at the
+stable counter before you come to
+challenge my best time."
+30,talk17,"参加費は返せないけど…
+いいのかい？","Once you pay the entry fee, you're
+locked in, so be real sure first."
+31,talk18,"なら早く行きなよ！
+そんな余裕ないだろう！",Giddyap and go! Time's a-wasting!
+32,talk19,"ならば仕方ない
+また挑戦しに来いよ！","Well, that's a plumb shame. Come back
+again sometime, fella!"
+33,talk20,"どうだい？
+挑戦してみるかい？","How about it? You think you got what
+it takes?"
+34,talk21,"ふふ またきたね
+ぼくの記録に挑戦してみる気になったかい？","Hah, I knew you'd be back. Come to
+unseat the champion?"
+35,talk22,よし ゴールしたな！,You made it!
+36,talk23,"馬から降りたら失格だ！
+戻ってくるんだ！","You can't finish the race on foot,
+you clodhopper!"
+37,talk24,"どうした そんなことじゃ
+ぼくの記録には到底及ばないよ","Something eating you? You'll need a full
+attitude adjustment to beat me!"
+38,talk25,"ちょっと時間が かかりすぎだな！
+戻ってくるんだ！","Time's up already, fella! Come on back!"
+39,talk26,"雨の日に走っても
+気持ちよくないだろ！
+記録に挑戦したかったら
+雨が止んでから来いよ！","I'm in no mood to run the course when
+its raining. If you want to beat my time,
+come back when the sun's out."
+40,talk27,"雨の日は馬に乗っても気持ちよく走れない
+はやく止んでくれないかな…","Nothing's worse than a slippery saddle.
+Sure hope this rain clears up so I can
+get some riding in..."
+41,talk28,"悪いな
+今日は もう寝るんだ
+夜は視界も悪いし良い記録は出ない
+記録に挑戦したかったら また明日来いよ","Sorry, I'm all tuckered out. 'Sides which,
+it's too dark to see at night. You won't
+beat anyone's time that way.
+Come back tomorrow, and we'll see if
+you can unseat the reigning horse
+master then!"
+42,talk29,もっと速く…,Faster...
+43,talk30,"悪いな今日は もう寝るんだ
+用があるなら また明日にしてくれるか","Sorry, I'm hitting the hay. Whatever you
+need, it can wait 'til morning."
+44,talk31,"馬から降りたら失格さ
+これは当然だね","Don't dismount your horse, or you're out
+of the running. Not that you need telling,
+right?"
+45,talk32,"あいかわらず速いね…
+自信失うよ…
+ゴージャスなくらは君にあげてしまったから
+代わりに これをあげるよ","You still don't miss a trick, do you?
+I'll have to get up twice as early to put
+one over on you.
+I already gave you the
+extravagant saddle, but you
+can have this instead."
+46,talk33,"良い記録だね！
+だいぶ腕を上げたじゃないか！
+ゴージャスな手綱は君にあげてしまったから
+代わりに これをあげるよ","Just who taught you to ride?!
+You're a firecracker in the saddle, fella!You already got that extravagant bridle,
+so here, take this instead."
+47,talk34,"良い記録を出したら
+ぼくの自慢の馬装備をあげるよ","If you can beat my personal best time,
+I'll give you some mighty fine horse gear."
+48,talk35,"なかなか速いじゃないか
+まだまだ ぼくの記録には届かないけどね！
+これ賞品だよ！
+また挑戦してくれ！","You might not've beaten my time, fella,
+but that wasn't bad. Have a consolation
+prize, and try again sometime!"
+49,talk36,"悔しいな…
+キミの記録 いつか抜き返してみせるよ","I'll admit—I'm feeling lowdown after
+all that. But someday I'll be back on
+top. You'll see!"
+50,talk37,"ぼくの記録は1分15秒
+勝てるかな？","My best time's 1 minute 15 seconds.
+Think you can beat that?"
+51,talk38,タイムは分秒か…,"Your time was :., huh..."
+52,talk40,"良い記録を出したら
+なにか賞品をあげるよ","Do well...and there may be a nice prize
+in it for you."
+53,talk41,"馬に乗って行う障害物競争さ！
+
+10個ある障害物を すべて飛び越えて
+ゴールまで行く時間を競うんだ！
+この競技には高い乗馬技術が必要でね
+馬術の腕を磨くには ぴったりなのさ","It's an obstacle course, but on
+horseback!There are 10 obstacles to navigate.
+Best time wins.If you're not an ace in the saddle when
+the game starts, I guarantee you'll be
+one by the time it's through!"
+54,talk42,さあ競技の説明をするよ！,"All right, hunker down and listen up."
+55,talk43,競技の説明は必要かい？,You need a rundown of the rules?
+56,talk44,じゃあ さっそく始めようか！,Let's get started! Giddyap!
+57,talk45,"障害物は正面からでないと飛びにくいのさ
+馬の気持ちを考えることだね","You'll never make it over life's obstacles
+without facing them head on. It's the
+same with this course. Your poor horse..."
+58,talk46,"速く走ればいいってもんじゃないのさ
+状況に応じて速度を加減しないとね","You can't plow through everything with a
+gallop and some steel nerves. You've got
+to adjust your speed to the challenge."
+59,talk47,"障害物の前で急に拍車をかけても
+馬は反応できないよ！","Your horse may balk when you spur it on
+right in front of an obstacle. I would too!"
+60,talk48,"障害物は10個ある
+すべて飛び越えなければ ゴールはできない","There are 10 obstacles, all told. You
+don't get to cross the finish line 'til
+you've jumped them all."
+61,talk49,"飛び越えたら ここに戻ってこい
+そうしたら ゴールだ！","When you clear the last one, ride back
+here. Simple, right?"
+62,talk50,"競技中に どこへ行くんだ！
+戻ってこい！","You can't just abandon the race! You
+gotta get back in that saddle!"
+63,talk51,ならば仕方ない,"Well, that's a plumb shame."
+64,talk52,また挑戦しに来いよ！,"Come back again sometime, fella!"
+65,talk53,"キミが乗っているのは馬ではないね
+挑戦したかったら馬に乗ってきなよ","See here, fella. This is a HORSE race.
+If you want in, you gotta be on a horse.
+Not...whatever's happening here."
+66,talk54,まずは1分30秒を目指すといいよ,"Why don't you aim for 1 minute
+30 seconds first?"
+67,talk55,"あいかわらず速いね…
+自信失うよ…
+約束通り ぼくの自慢の馬装備をあげるよ","Quick as lightning... I know when I'm
+beaten. I'll give you that horse gear
+I promised."
+68,talk56,"この競技の難しいところはね
+速く走るだけじゃダメなところなのさ
+障害物を飛ぶには ゆっくり走って
+馬を正確にコントロールすることが重要なんだ","The difficult part about this is the fact
+that you can't just try to recklessly ride
+as fast as you can.
+In order to clear the obstacles on the
+path, you have to be able to control
+your horse very well."
+69,talk57,"これは なかなか難しい競技だろう？
+良い記録を出すには速く走るだけじゃダメさ
+障害物を飛ぶには ゆっくり走って
+馬を正確にコントロールすることが重要なんだ","Oh! Before you go! Remember that it's
+not all about speed. You must control
+your horse effectively at all times."

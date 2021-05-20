@@ -1,0 +1,200 @@
+#,Title,JPja,USen
+1,"""0000""",びしょぬれ…,Aren't you drenched?
+2,"""0001""",わかった,Understood.
+3,"""0004""",どんな話？,What stories?
+4,"""0005""",ごゆっくり,Have fun!
+5,Near00,女性の泣き声が…,I hear a woman crying...
+6,SupriseHouse,"だ…誰だ！
+そこで何をしている！
+……","Wh-who's there?! What do you want?!
+
+
+..."
+7,SupriseHouse_00,"なんだ…貴方様でしたか
+ビックリさせないでください
+てっきりアイツ等かと…","Oh! It's you. You shouldn't scare me
+like that.
+
+I thought it was...them."
+8,Talk00,"ある力を授けてくださるそうですよ
+一度立ち寄られると良いかもしれません","It's said that she offers a special blessing
+to those that visit her... You should go
+there and see for yourself."
+9,Talk01,"この村は宿屋もありますので
+朝までゆっくりされては如何でしょう？","There's an inn in this village. Why not go
+rest there until morning?"
+10,Talk02,"この子達の母親はイーガ団の手によって
+命を奪われました…
+それ以来 ココナが母親代わりとなり
+プリコの面倒を見てくれています…
+私が…
+私が ふがいないばっかりに…","My wife...the mother of my children...
+she was killed by the Yiga Clan. That is
+why Koko now acts as Cottla's mother.
+If only... If only I had been able to
+stop them..."
+11,Talk03,すっかり遅くなってしまいました,It's gotten so late.
+12,Talk04,"これはこれはリンク殿
+私は今からまた屋敷の警備に戻ります
+最近はイーガ団の動きも活発になっております
+リンク殿も十分お気を付けください","Oh! Well, if it isn't Master Link.
+I'll go back to guarding Lady Impa's
+home now.
+The Yiga Clan has been snooping around,
+so please be careful, Master Link."
+13,Talk05,さて そろそろ私も眠らないと…,I should get some sleep...
+14,Talk06,"…リンク殿
+
+色々と考えることが多く
+最近眠りが浅くなってしまいましてね…
+リンク殿もお疲れなら宿で休まれては
+如何ですか？","Master Link...
+
+
+I've had a lot on my mind lately, so it's
+been difficult to sleep well.
+
+Same for you, I imagine? Well, in any
+case, you should get some rest at the
+inn when you're tired."
+15,Talk07,"これから娘たちと約束があるんですよ
+
+妻が好きだった木の下で
+娘たちに村の話をきかせてるんです
+といっても いつも話は同じですけどね","I'm off to meet my daughters. I'm going
+to tell them stories about our village
+under the tree my wife so loved.
+My stories are always the same though.
+I hope they don't mind!"
+16,Talk08,"妻は毎日この木の下で
+子供達に色んな話を聞かせていました
+今は私が子供達の話し相手がわりです
+妻ほど話上手ではないですけどね…","My wife used to tell all kinds of stories
+under this tree... Now it's up to me to
+pass those stories on to our children.
+I'm not as good at it as she was,
+though..."
+17,Talk09,"リンク殿も休憩ですか？
+これは娘のココナとプリコです
+子供達とおしゃべりできる この時間が
+私にとっては かけがえのない時間なのです
+といっても話している内容なんて
+いつも同じなんですけどね","Are you taking a break as well,
+Master Link? If so, allow me to introduce
+my precious daughters, Koko and Cottla.
+Any moment I can spend with my girls
+is a gift. I always end up boring them
+with the same stories, though."
+18,Talk10,"この坂の上に シーカー族が守り続けている
+祠があるんですが
+その祠の裏の森から
+時々聞こえるんですよ…
+女のすすり泣くような声が！！
+
+といった話をしてるんですが…
+
+実はそこには我が村の守り神様が
+いらっしゃるんです
+ただ最近は魔物が出たりして
+危険になってきましたので
+娘たちに裏の森に近づかせないように
+こうやって怖がらせているんですよ…
+しかし ココナは怖がるんですが
+プリコは なぜか喜んじゃうんですよ…","There's a shrine right above this hill,
+guarding the Sheikah tribe. Sometimes
+from the forest behind it, you can hear...
+a woman sobbing!
+
+
+...Heh! That's the story I'm telling the
+children right now, anyway.
+
+Actually, the location I speak of is where the
+village's guardian spirit resides.
+
+But lately monsters have been lurking there,
+and it's become quite dangerous. I'm scaring my
+daughters so they won't go near that forest...
+It works on Koko, but for some reason,
+those stories just excite Cottla..."
+19,Talk13,"この村は宿屋もありますので
+朝までゆっくりされては如何でしょう？","There's an inn in this village. Why not go
+rest there until the morning?"
+20,Talk14,"はっはっは
+そう見えますかな？
+シーカー族はその昔
+高い技術を誇った民族でした
+この衣装は その技術を
+駆使して作られた特注品でして
+雨はもちろん
+雷にやられることもありません
+見た目はびしょ濡れでも
+結構快適なんですよ","Ha, so that's how it looks! Makes sense.
+Please allow me to explain.
+
+The Sheikah tribe was once quite
+technologically advanced.
+
+This outfit I wear was specially made
+using Sheikah technology. It keeps the
+rain off and also wards off lightning.
+I may look soaking wet, but I assure
+you, I'm actually quite comfortable."
+21,Talk15,"ある力を授けてくださるそうですよ
+一度立ち寄られると良いかもしれません","It's said that she offers a special blessing
+to those that visit her... You should go
+there and see for yourself."
+22,Talk16,"よろしければ この村で
+身支度をしっかり整えていってください
+『呉服屋』『素材屋 』『萬屋』に
+『宿屋』なんかもありますので
+ここだけの話ですが
+実は この村の高台に祠があるんですが
+その裏に我が村の守り神様がいらっしゃいます
+それはそれは美しいお方だそうです
+私は恐れ多くて
+まだ足を踏み入れたことはありませんが…","If you need anything, please find it here
+in our village.
+
+The clothing shop, materials shop,
+general shop, and inn should be able
+to provide everything you need.
+Oh, and just between you and me,
+there's also a shrine in the hills
+of this village.
+They say up and behind those hills
+resides Kakariko's guardian spirit.
+I hear she's incredibly beautiful.
+I'm too intimidated to go see
+for myself, though..."
+23,Talk17,"このような夜更けにどうされました？
+夜は魔物も多く外は危険でございますよ","What are you doing up so late?
+Monsters roam about at night. It's way
+too dangerous to wander around."
+24,Talk18,ああ リンク殿…,"Ah, Master Link..."
+25,Talk19,すっかり遅くなってしまいました,It's gotten so late.
+26,Talk20,"リンク殿も休憩ですか？
+これは娘のココナとプリコです
+あいにくの天気ですが
+
+子供達とおしゃべりできる この時間が
+私にとって かけがえのない時間ですので
+毎日こうやって
+一緒に過ごしているんです
+といっても話している内容なんて
+いつも同じなんですけどね","Are you taking a break as well,
+Master Link? If so, allow me to introduce
+my precious daughters, Koko and Cottla.
+The weather is rather unfortunate today,
+but we won't let that bring us down!
+
+Any moment I can spend with my girls
+is a gift. It's something I make time for
+every day, no matter what.
+I always end up boring them with the
+same stories, though."
+27,TerrorArrow,リ… リンク殿！?,M-Master Link?!
+28,TerrorBomb,…殺気！,Danger!
+29,TerrorEnemy,…殺気！,Danger!
+30,TerrorExplosion,こんな所で何を？！,What are you doing?!
+31,TerrorSword,おやめください！,"Please, stop!"

@@ -1,0 +1,150 @@
+#,Title,JPja,USen
+1,"""0001""",料理してみたよ,I cooked something.
+2,"""0002""",コツを教えて,Got any tips?
+3,"""0003""",さようなら,Bye.
+4,"""0004""",コツを教えて,Got any tips?
+5,"""0005""",さようなら,Bye.
+6,"""1002""",なにしてるの？,What are you doing?
+7,"""1003""",さようなら,Bye.
+8,ClearTerrorEnemy,むう…,Hmm...
+9,GoodBye00,祠のお宝楽しみにしておるぞ,"I look forward to seeing what type of
+treasure you secure out there."
+10,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+11,GoodBye02,"むう…
+用もないのに起こすでないぞ","Hmph! Please do not wake me up for
+no reason. I need my rest."
+12,Hadaka00,え… わしか？！,What in the blazes is going on...
+13,Kari00,"見てわからんか？
+わしは狩りを しとるんじゃ…
+そんなところに立たれたら獲物に気づかれるわ
+しゃがんで静かにしてくれないか","Can you not see that I'm hunting here?
+
+
+You'll scare off my prey like that. At least
+crouch down a bit."
+14,Kari02,早く しゃがんでくれんかのう…,"Go on! Hurry up and crouch down before
+you scare off my prey!"
+15,Kari03,"狩りじゃと言ったろう…
+しゃがみ過ぎて腰が痛うなってきたわ","Hunting demands a great deal of focus...
+It keeps your mind off how much your
+back hurts from crouching all day."
+16,Kari04,"静かにせいと言うに…
+狩りをしとると言ったろう","Quiet, please. I'm still hunting."
+17,KariKotsu00,"狩りは剣でもできんことはないが
+獲物の動きは素早いからのう…
+まずは離れて狙うことのできる
+弓を手に入れることじゃな
+コツを聞くのは それからじゃ","It is not impossible to hunt with a sword,
+but wild prey can be quite fast...
+
+I would suggest getting your hands on a
+bow and some arrows, so you can take
+shots from afar.
+We can discuss technique after that."
+18,KariKotsu01,"まずは獲物に気づかれぬよう
+しゃがんで静かに近づいてじゃな…
+気づかれるかどうかの ギリギリまで近づいたら
+素早く矢を放つのがコツじゃ
+上手くすれば一発で仕留められるぞ
+どこを狙えばいいかは よく考えることじゃ","First, crouch down and approach your
+prey quietly to ensure you will not
+be noticed.
+When you're close enough that detection
+is nearly imminent...draw your bow and
+let your arrow fly!
+Aim thoughtfully, and you should be
+able to take down your prey with a
+single arrow."
+19,KariKotsu02,"お主… わしの弓を持っておるようじゃな
+よし弓の腕を見せてみるがいい","Courageous one... I see you have taken
+possession of my old bow. Splendid.
+Now, let's see what you can do with it."
+20,KariKotsu03,"わしは ちょっと疲れたのでな…
+少し休むとしよう","I am rather tired... Yes, I think I'm going
+to take a small break."
+21,KariKotsu04,"腰が痛うなってきたのでな…
+今日の狩りは しまいじゃよ","Blast it all! My back is acting up again...
+I suppose that means this old man has
+had enough hunting for one day."
+22,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+23,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+24,Near01,獲物は どこだ…,Where did my prey go...
+25,Near02,忍び足…忍び足…,Quietly...
+26,Near03,Zzz... Zzz...,Zzz...
+27,Near04,……,...
+28,Sleep00,"明日も早い…
+お主も ここで休んでいくがいい","I must rise early tomorrow... You may
+rest here too, if you wish."
+29,Sleep01,"ひまをつぶすには
+たき火が一番じゃな…","Sitting by a warm campfire is the best
+way to pass the time..."
+30,Sleep03,"獲物が獲れんかったら
+寝るしかないじゃろう？","If I can't hunt, what else is there to do
+but sleep?"
+31,Takibi00,"腰が痛うて たまらんのでな…
+休憩中じゃ","My back is aching... I clearly need to
+take a little break."
+32,Takibi01,"して お主…腹は減っておらんか？
+わしの料理鍋好きに使うてもいいぞ","Say, courageous one... Are you hungry?
+If so, please feel free to use my cooking
+pot to whip up a snack."
+33,Takibi02,"料理がしたいなら
+わしの料理鍋好きに使うてもいいぞ","If you feel like cooking, you are welcome
+to use my cooking pot over there."
+34,Takibi03,"わしの料理鍋なら好きに使うてもいいぞ
+また センスのいい料理を作るがいい","Use my cooking pot as much as you like.
+Just remember to be smart about how
+you combine your ingredients!"
+35,Takibi05,"火なら そっちの たき火から
+移してくれたらいいからのう","If you need to start a fire, just light your
+torch on that campfire over there."
+36,Talk00,うん？ なんじゃ？,Hm? What is it?
+37,Talk01,"ふぉっ ふぉっ ふぉっ
+また会うたな","Well, well, well... So we meet again."
+38,Talk02,"のう お主…
+いつまで そんな格好でおるつもりじゃ","Just a question, not a judgment...
+but how long were you planning on
+walking around like that?"
+39,Talk03,どいた どいた,Out of the way!
+40,Talk04,"ふぉっ ふぉっ ふぉっ
+また獲物に逃げられてしもうたわい","Oho ho! Some days the prey is a bit too
+fast for this old hunter."
+41,Talk05,"お主に狩場を荒らされたおかげで
+何も獲れんかったわい…","With you causing such a commotion
+in my hunting grounds lately, it's no
+wonder I can hardly catch a thing!"
+42,Talk06,静かじゃのう…,It's so quiet...
+43,Talk07,"なんじゃ…
+せっかく寝てたというにのう",Could you not see I was sleeping?!
+44,Talk08,"しっ…
+静かにせい",Shhh... Quiet now...
+45,Talk09,"木を切るなら よそでしてくれ…
+獲物が逃げてしまうわ","Far be it from me to interfere with your
+logging efforts...but could you do that
+elsewhere? You're scaring off my prey."
+46,Talk10,"静かにせんか…
+獲物が逃げてしまうわ","As they say, silence is golden.
+And my prey frightens easily..."
+47,Talk11,"夜は魔物も増えて危ないぞ
+朝まで ここで休んで行くがいい","It gets quite dangerous out here at night.
+The land fills with unspeakable beasts.
+Perhaps you should wait until morning..."
+48,Talk14,祠のお宝は まだかの？,"How is your shrine treasure hunting
+coming along?"
+49,Talk15,祠の探索 はかどっておるかの？,How is the shrine exploration going?
+50,TalkBokangi00,"なんじゃ…
+せっかく寝てたというにのう","What is it now?! Can't you see I'm
+trying to get some sleep?"
+51,TalkBokangi01,寝てたというに しつこいのう…,"I can't tell if you're stubborn, oblivious,
+or just plain rude! I was clearly sleeping!"
+52,TerrorArrow,何をする！,What is this?!
+53,TerrorBomb,何じゃ？,What is it?!
+54,TerrorEnemy,ひぃーっ！,Whoa!
+55,TerrorExplosion,ぬわーっ！,Huh?!
+56,TerrorFire,あちゃっ,Toasty...
+57,TerrorImpulse,ひぃーっ！,Whoa!
+58,TerrorInsect,ひぃーっ！,Whoa!
+59,TerrorSword,やめんか！,Easy there!

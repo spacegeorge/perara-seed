@@ -1,0 +1,734 @@
+#,Title,JPja,USen
+1,"""0000""",マモに換金,Exchange for mon.
+2,"""0002""",マモで買い物,Spend some mon!
+3,"""0003""",やめとく,Never mind.
+4,"""0005""",やっぱり好き,"Actually, I like them."
+5,"""0006""",はい,OK.
+6,"""0007""",いいえ,Never mind.
+7,"""0008""",あなたは？,Who are you?
+8,"""0009""",さようなら,Good-bye.
+9,"""0010""",好き,I like them.
+10,"""0011""",嫌い,I hate them.
+11,"""0012""",かなり好き,I ADORE monsters!
+12,"""0013""",とても好き,A whole lot!
+13,"""0014""",まあまあ好き,Quite a bit.
+14,"""0015""",そこそこ好き,Just a little.
+15,"""0016""",換金する,Exchange for mon.
+16,"""0018""",魔物について聞きたい,About monsters...
+17,"""0019""",岩の巨像のこと,The stone colossus.
+18,"""0020""",森の巨人のこと,The forest giant.
+19,"""0021""",砂の巨獣のこと,The giant sand beast.
+20,"""0023""",マモって？,What is mon?
+21,"""0024""",魔物素材って？,Monster parts?
+22,"""0025""",やめとく,Never mind.
+23,"""0026""",マモノショップ？,Monster shop?
+24,"""0027""",全部換金する,All of them!
+25,"""0028""",ぜんぶ買う,I'll buy them all!
+26,talk00,"それでは是非 お持ちの魔物素材を
+マモに換金してください！","So let's exchange the monster parts
+you have for mon!"
+27,talk01,"こんばんは
+マモノショップへようこそ","Good evening. And welcome to
+Fang and Bone."
+28,talk02,"魔物素材を手に入れたら
+また来てくださいね","If you come across some
+monster parts, come on back!"
+29,talk03,魔物素材を手に入れられましたか？,"I imagine you have some monster parts
+on your person."
+30,talk04,それでは…,So now...
+31,talk05,あありがとうございますっ！,"Oh, thank you very much!"
+32,talk06,"ええ…ええ…
+何度でも ご説明させていただきます","Yes, yes.
+I'm happy to explain as many times as
+you need."
+33,talk07,"マモは私が発明した
+私の店でしか使えない通貨でございます
+魔物素材を持って来ていただいたら
+マモに換金致しますので
+マモをいっぱい貯めて私の研究成果でもある
+マモノグッズを是非ゲットしてください","Mon is a currency I invented to
+destabilize the market and fight the
+establishment!
+Just kidding, there is no establishment in
+Hyrule! I just love monsters so much that
+I turned them into money!
+Here's the deal: if you bring me
+monster parts, I'll exchange them for
+mon.
+I'm the only business in Hyrule that
+accepts mon as payment!
+Pretty exclusive, eh?
+Anyway, you can spend your mon on
+various types of monster gear that I've
+created based on my research."
+34,talk09,そうですか… それは残念です,I see... That's a shame.
+35,talk10,このニオイは ボコブリンか はたまた…,This smells like Bokoblin or maybe...
+36,talk100,"岩の巨像…それはまたの名をイワロック
+
+その辺の岩に化け土の下に隠れている
+頑丈なヤツらです
+文献によれば その数40体","The stone colossus... More commonly
+known as the Stone Talus.
+
+They masquerade as normal rocks,
+burying themselves in the ground.
+Stubborn is an understatement...
+According to the most recent count,
+there are 40 of them in Hyrule."
+37,talk101,"あなた これまで全40体のうち体の
+イワロックを倒しましたね！","Let's see how many Stone Taluses
+you've harvested so far...
+Looks like  out of 40."
+38,talk102,"クンクン…
+
+あなた…まだイワロックを
+1体も倒していないようですね…
+それでは私からヒントを…
+
+ヤツの体は硬過ぎて
+ほとんど傷つける事ができません
+しかし体の一部に色の違う場所があるはずです
+そこを狙えば…","*sniff sniff*
+
+
+You...you haven't killed any
+Stone Taluses yet?! Whew... You have
+your work cut out for you.
+Let me give you a hint: these guys are
+literally made of stone, so you can't just
+swing blindly and hope to take them out.
+But one part of their body is a
+different color. If you hit them there,
+your fortune may improve."
+39,talk103,"あなた！全てのイワロックを
+倒して来たんですね！
+ああ この臭い…イワロックの生態が
+手に取るように分かる…","You—! You've defeated every last
+Stone Talus!
+
+Oh, you are FRAGRANT, my friend.
+It smells like there's a Stone Talus
+standing right in front of me!"
+40,talk104,これは岩の巨像イワロックを全て倒した証,"This is proof you have defeated every
+Stone Talus in the land."
+41,talk105,岩の巨像キラーさん！,You're a real rock crusher!
+42,talk106,"あの巨体がどこまで成長するものなのか
+まだまだ興味が尽きませんね…
+ありがとうございましたっ！","I wonder how big that thing will get...
+Things just keep getting more and more
+interesting.
+Thank you very much!"
+43,talk107,"ヒノックスは4種類に分けられそうですが
+なんとそれぞれ食べ物の好みが違うとは…
+私もちょっと お腹が減ってきました","I knew there were four types of
+Hinoxes, but I just recently learned that
+each type has different food preferences.
+Not me, though. I'll eat anything!"
+44,talk12,それではまた美しき夜に…,"I hope to see you again another
+monstrous night..."
+45,talk13,"それでは お預かりしているマモで
+何かと交換しますか？","What would you like to buy with your 
+mon?"
+46,talk14,"魔物素材とは
+魔物を倒すと落とす ブツでございます
+角や牙…色や形は様々ですが
+魔物の体の一部である事が多いですね
+珍しい物ほど いいお値段で
+マモに換金させていただきます","Monster parts are the things that
+monsters drop when they expire.
+
+You know—horns, fangs, eyes...
+The color and size may differ a bit,
+but they're all monster parts.
+The more rare they are, the more mon
+they're worth!"
+47,talk15,"あれ…
+魔物素材を お持ちでない…？","Hmm... Do you not have any
+monster parts?"
+48,talk16,"…おや？
+魔物素材を1つも お持ちでないようです…","Hmm? Seems like you don't have any
+monster parts."
+49,talk17,"こんばんは…
+御用は何でしょう？","Good evening...
+How may I help you?"
+50,talk17B,"こんばんは…
+御用は何でしょう？","Good evening...
+Can I help you with anything?"
+51,talk18,"魔物から出る素材…
+手に入れたら また夜にお越しくださいね","The things that monsters drop when
+they die. Come back at night once
+you get some."
+52,talk19,どれをマモに換金致しましょう,What will you exchange for mon?
+53,talk20,他に御用は ございますか？,Can I help you with anything else?
+54,talk200,"森の巨人…それはまたの名をヒノックス
+
+世界中の森で眠っている
+一つ目の巨人です
+文献によれば その数40体","The forest giant... Also known as the
+Hinox.
+
+These sleepy, one-eyed giants spend
+their days in forests around the world.
+
+According to the latest count,
+there are 40 of them in Hyrule."
+55,talk201,"あなた これまで全40体のうち体の
+ヒノックスを倒しましたね！","So far you've defeated  of the 40
+Hinoxes!"
+56,talk202,"クンクン…
+
+あなた…まだヒノックスを
+1体も倒していないようですね…
+それでは私からヒントを…
+
+ヤツらが首からぶら下げているネックレスは
+あなたでも使える武器も混じっています
+上手く奪えれば戦いを有利に運べますよ！","*sniff sniff*
+
+
+You...you haven't killed a single Hinox
+yet? Goodness.
+
+Here, let me give you a hint: Hinoxes
+wear necklaces strung with weapons
+they've picked up.
+If your arsenal is running low, try to
+snatch some of their weapons during
+the fight!"
+57,talk203,"あなた！全てのヒノックスを
+倒して来たんですね！
+ああ この臭い…""ヒノックスの生態が
+手に取るように分かる…","You've done it! You've defeated all the
+Hinoxes!
+
+Oh...you are FRAGRANT. It's as if there
+was a Hinox standing right in front of me."
+58,talk204,これは森の巨人ヒノックスを全て倒した証,"This is proof you've defeated every last
+Hinox. "
+59,talk205,森の巨人キラーさん！,You're a forest-giant slayer!
+60,talk20B,他に御用は ございますか？,Did you need anything else?
+61,talk21,"現在マモ お預かりしております
+どのマモノグッズと交換なさいますか？","Your current balance is  mon.
+What monster gear would you like
+to buy?"
+62,talk22,"これは魔物の臭いがしませんね…
+魔物素材を選んでくださいね","This doesn't smell like a monster.
+I only deal in monster parts here."
+63,talk23,"ですね？
+何個 お譲りいただけますか？","?
+How many are you willing to give me?"
+64,talk24,"を個で
+合計マモになりますが よろしいですか？","You want to exchange  of them?
+How about  mon?"
+65,talk25,残念です…,Do what you must...
+66,talk26,"ありがとうございます！
+換金されたマモは私の方で預かっておきますね","Thank you much! I'll add your new mon
+to your balance."
+67,talk27,かしこまりました…,Understood...
+68,talk28,"すいませんが品切れです
+また作っておきますね…","Sorry, I'm sold out right now.
+I'll make more soon..."
+69,talk29,"申し訳ございません…
+お預かりしているマモでは足りないようです","Sorry, you don't have enough
+mon for that."
+70,talk30,"あれ…ポーチが一杯ですよ？
+要らない物を処分して またお越しください","Huh... Your inventory is full.
+Please come again once you're all sorted
+out."
+71,talk300,"砂の巨獣…それはまたの名をモルドラジーク
+
+主に砂漠地方に棲んでいて
+魔物の中でも最も巨大な部類に入ります
+文献によれば その数4体","The giant sand beast... More commonly
+known as the Molduga.
+
+They're giant monsters that live in the
+sands of the desert.
+
+According to my sources, there are only
+four of them in Hyrule."
+72,talk301,"あなた これまで全4体のうち体の
+モルドラジークを倒しましたね！","Let's see how many Moldugas 
+you've defeated... Looks like you've
+taken out  so far out of four."
+73,talk302,"クンクン…
+
+あなた…まだモルドラジークを
+1体も倒していないようですね…
+それでは私からヒントを…
+
+私の最新の調査では
+ヤツらは音にとても敏感だとわかりました
+離れた場所で わざと大きな音を立てれば
+注意をそらすことができるかもしれません","*sniff sniff*
+
+
+You...you haven't killed any Moldugas
+yet? Here, let me give you a hint.
+
+I've noticed that they're very sensitive to
+sound.
+
+If you scare them from a distance with
+a big noise, maybe you can stun
+them long enough to take them out."
+74,talk303,"あなた！全てのモルドラジークを
+倒して来たんですね！
+ああ この臭い…モルドラジークの生態が
+手に取るように分かる…","You've done it! You've defeated all the
+Moldugas!
+
+Oh, this scent! It's as if a Molduga
+was standing right in front of me!"
+75,talk304,これは砂の巨獣モルドラジークを全て倒した証,"This is proof you have defeated every
+last Molduga in Hyrule."
+76,talk305,砂の巨獣キラーさん！,You're a giant-sand-beast slayer!
+77,talk31,"ですね…
+マモになりますが よろしいですか？","The ?
+That will be  mon."
+78,talk32,"なるほどですか…
+特別にマモで お譲りしましょう","I see. So the ? 
+I'll give it to you for a special price of
+ mon."
+79,talk33,"私の自信作なら
+マモですよろしいですか？","Ah, a classic.
+The  will cost
+you  mon. Is that OK?"
+80,talk34,"とは お目が高い！
+マモ必要ですけど よろしいですか？","The ?
+You have a good eye!
+That'll run you  mon. Deal?"
+81,talk35,"ありがとうございます！
+他にも いかがですか？","Thank you much!
+Would you like anything else?"
+82,talk37,"ひゃ…ひゃいーーっ！
+
+魔物についてお聞きしたいと？！
+もうもうもう…そりゃあ喜んで！
+せっかくなんで
+ビッグなヤツらの話を致しましょう！
+それでは岩の巨像か森の巨人かはたまた
+砂の巨獣…どの魔物のお話をしましょう？","Dya... DYAAAAAAAH!
+
+
+You want to know about monsters?
+I just LOOOOOVE talking about monsters!
+
+Ooh. OOOOOOOH!
+Let's talk about the huge ones!
+
+The stone colossus? The forest giant? 
+The giant sand beast?! Which monster
+do you want to hear about?"
+83,talk38,"かしこまりました…
+どの魔物の話を しましょうか","Oh, yeeeeah!
+Which monster do you want to talk
+about?"
+84,talk39,"私…""魔物が好き過ぎて
+お店…マモノショップを開いちゃったんです
+さぁ…次は どこの村を拠点に
+魔物調査 しましょうかね…
+カカリコ村かハテノ村…
+いやいやリトの村やゾーラの里も捨てがたい
+足を延ばしてゲルドの街かウオトリー村
+近いとこならアッカレ湖か…
+あぁ～～っ！
+考えただけで ゾクゾクしてきました
+それでは魔物調査の旅に行ってきますね！
+
+また どこかの村で夜にでもお会いしましょう","I just love the field of monster research
+so much that I decided to open a shop
+all about monsters!
+I call it...Fang and Bone!
+
+
+I travel all around Hyrule in search of
+rare and exciting monster parts. But I'm
+not sure which village I should visit next.
+Kakariko Village or Hateno Village?
+Though Rito Village and Zora's Domain
+are also good options. Hmm...
+I suppose I could go all the way to
+Gerudo Town or Lurelin Village.
+But Lake Akkala is much closer.
+RAWWWWWRGH! I'm so excited I can
+hardly contain myself!
+
+I can't just sit around while there are
+monsters to be studied! I'm off!
+
+I'm sure we'll meet again in some village
+during the night. Fare thee well!"
+85,talk40,ヒギーーッ！,HOOOOOOOYAG!
+86,talk41,"申し訳ございません
+マモノショップは ただ今準備中なんですよ…","Yes. I'm opening a monster shop called
+Fang and Bone. But I'm still preparing
+for my grand opening."
+87,talk43,あなた…魔物が お嫌いなんでしょう？,So... You're really not into monsters?
+88,talk44,そういえば あなた…魔物はお好きですか？,"Anyway... Do you, uh...
+Are you into monsters?"
+89,talk45,"それじゃ今回は ご縁が無かった
+という事で…","Although, it saddens me to know I truly
+am all alone in this world."
+90,talk46,"ほ…ほほっ！
+どのくらい お好きですか？","How, uh...
+How much do you like them?"
+91,talk47,私の方が魔物を愛してるーーッ！！,"I LOVE MONSTERS MORE THAN
+YOU DO!"
+92,talk48,"…
+
+……
+
+あっ…ゴメンナサイ！
+また やってしまいました…","...
+
+
+I...uh... Sorry!
+I did it again."
+93,talk49,"あ そうだ
+お名刺を どうぞ…",Here's my business card...
+94,talk50,"魔物素材""高価買取致します
+マモノショップ キルトン","- Fang and Bone -
+Come see ol' Kilton for the most
+monstrous deals in all of Hyrule! "
+95,talk53,"…
+
+……ん？
+
+なぁんだ～…
+ただのハイリア人じゃないですか～","...
+
+
+Hmm?
+
+
+Oh. It's just a Hylian."
+96,talk54,"まさかマモノショップの噂を聞きつけて
+わざわざ ここまで？","I suppose you're here because you
+heard I was opening a monster shop,
+and you wanted to see it for yourself."
+97,talk57,"はい…じゃ お名刺返してくださいね
+","I'm...going to need that card back.
+It's the only one I have."
+98,talk59,"あっ！もうこんな時間！
+マモノショップ""閉めなきゃ…
+それではまた美しき夜に…","Ack! Is it that time already?
+I need to get this show on the road!
+
+May we meet again on another
+monstrous night..."
+99,talk60,"私も追跡中なのですが なにせ相手は強大
+近づくことすら ままなりません…
+なので代わりに そいつらを見つけ
+全て倒したら私の所まで来てくれませんか？
+あなたに付着した臭いや体液から
+ヤツらの習性が嗅ぎ取れますからね
+それではお願いしますよ…","I'm currently after them myself, but
+they're just so big! I can't even get near
+them...
+So could I ask you to find them and,
+uh, harvest their materials? I'm talking
+all of them.
+That way, I'll be able to analyze the scent
+of their fluids that will inevitably stick
+to your body during battle.
+That will allow me to determine their
+habits, behaviors, and overall qualities.
+
+I'm counting on you..."
+100,talk61,"クンクン…この臭い…
+ふむふむ…なるほど…","*sniff sniff*
+Ah, that scent...
+Most interesting."
+101,talk62,"それでは引き続き
+討伐の方 お願いしますね","Good luck on your hunt.
+I'm counting on you."
+102,talk63,"クンクン…この臭い…
+
+こ…これはっ！","*sniff sniff*
+This scent...
+
+This!
+This is!"
+103,talk64,"あ ありがとうございますっ！
+
+そうだ…これをお渡ししましょう","Tha-thank you so much!
+
+
+Oh, yes! Here, let me give you this."
+104,talk65,"これを持っているだけで…なんと！
+
+私がいつでも褒めて差し上げますっ！
+
+全討伐…それは長く苦しい茨の道…
+私だけは あなたの苦労を分かってますから！","As long as you have this...
+
+
+I'll always be with you!
+
+
+You don't have to suffer in silence 
+anymore. I know how much it hurts you
+every time you kill a monster.
+Destroying monsters for their materials
+is soul-crushing work, but it must be
+done."
+105,talk66,"ええ…ええ…存じ上げておりますとも
+",But I share your pain...
+106,talk67,"まさか炎や氷の力を身につけた
+イワロックまで存在していたとは…
+大変興味深い報告
+ありがとうございましたっ！","Thanks to you, I now know their
+musculoskeletal structure...as well as
+their general diet.
+Thank you so much for your help."
+107,talk68,"ですね？
+いくつ お求めでしょうか？",How many would you like?
+108,talk69,"が個で
+合計マモ必要ですけど よろしいですか？","You want  of them?
+That'll be  mon, please."
+109,talk70,"を お1つですね？
+合計マモ必要ですけど よろしいですか？",That'll be  mon. Sound good?
+110,talk71,"を お1つですね？
+マモになりますが よろしいですか？",That comes out to  mon. Deal?
+111,talk72,"今お預かりしているのはマモになります
+マモが足りていませんが見るだけでもどうぞ…","You've only got  mon, which won't
+do much for you, but feel free to take a
+look."
+112,talk73,"ハッ…私？
+
+ああっ申し遅れました
+私キルトンと申します","Me?
+
+
+My name is Kilton."
+113,talk74,"ですよねぇ…
+噛まれたら痛いですもんねぇ…","I see... That's unfortunate, but not
+entirely unexpected."
+114,talk75,"ですよねぇ…
+殴られたら痛いですもんねぇ…","I see... That's unfortunate, but not
+unexpected."
+115,talk76,"ああ…それから…
+
+あなたが冒険している間に
+新たなマモノグッズを開発しておくので
+ちょくちょく顔を見せに来てくださいね","Ah... Another thing.
+
+
+I'm always developing new monster gear,
+so remember to check back in between
+your adventures."
+116,talk77,"新しいマモノグッズを開発しました！
+その名もズバリ！
+ボヨーンハンマー！！
+
+小振りな魔物なら殴るだけで
+ボヨーン！ と遠くに吹っ飛ばせる代物です
+戦うまでもない邪魔な魔物を追っ払うのに
+非常に便利ですよ！","I've developed a new piece of
+monster gear! I call it the...
+
+Spring-loaded hammer!
+
+
+Whack a small monster with this thing,
+and...BOING! It'll launch the monster
+into the distance!
+It's really useful for getting rid of pesky
+monsters that you don't feel like fighting.
+Plus, it's just fun to use!"
+117,talk78,"久々にマモノグッズを開発しました！
+その名もズバリ！
+リザルフォスマスク！
+
+リザルフォスって
+ホントに うっとうしいですよね…
+泳いでいるかと思えば
+とんでもない速さで襲ってきたり…
+中には周りの風景に合わせて
+擬態してるヤツも居ますからね
+そんなトリッキーな所が魅力なのですが
+殆どの旅行者は手を焼いているようです
+なので ですよ！ヤツが遠方に見えた時
+リザルフォスマスクをかぶれば なんと
+ヤツらは あなたを仲間だと思い込み
+やり過ごす事が できるんです！","It's been a while, but I've developed a
+new piece of monster gear! I call it the...
+
+Lizalfos mask!
+
+
+Those Lizalfos can really be a pain to
+deal with when you're injured.
+
+Just when you think they're sleeping,
+they attack you without a moment's
+notice!
+Some of those scaled sneaks can even
+use camouflage to blend in to their
+surroundings!
+But if you wear this Lizalfos mask, they
+will think you're one of them and they'll
+ignore you!"
+118,talk79,"新しいマモノグッズを新開発しましたよ！
+その名も名付けて…
+ライネルマスク！
+
+ライネルとは半身半馬の魔物です
+獰猛で ものすごく強いんですよ
+色んな武器も使いこなすので まさに最強！
+その手の付けられない感じが素敵なんですよ
+実は私も魔物調査中 そのライネルに
+何度か やられかけた事がありましたが…
+まぁ それは置いておいて！
+
+その世にも恐ろしい魔物 ライネルの
+目をあざむくことができる究極のマスクです！
+さぁ早く お手に取ってご覧ください","I've developed a KILLER piece of
+monster gear! I call it the...
+
+Lynel mask!
+
+
+Lynels are monsters that are half man,
+half horse. They are absolutely vicious.
+
+They wield a multitude of weapons with
+incredible strength and grace.
+
+If I was a monster, I'd want to be a Lynel
+for sure!
+
+Actually, I was almost killed by a Lynel while
+designing this mask. It was one of the best
+moments of my life...
+Anyhow... This incredible mask can 
+fool Lynels into thinking you're one of
+them!
+Try it for yourself! It's quite a rush."
+119,talk80,"やりましたよ お客さん！
+私すごいマモノグッズを開発しちゃいました！
+あぁ恐ろしい…ついに私魔物の力を
+我がモノにしてしまったかも…
+究極の魔物なりきり衣装！
+その名も…
+ダークシリーズ！！
+
+これさえ着れば あなたも魔物！
+エンジョイ嫌われライフ！！
+…
+
+うーん…まあアレですよアレ…
+コスプレってやつですよ！
+あ…でも夜になるとちょっとだけ
+機敏に動けたりしますよ
+なんでそうなったのか わかってませんが…","I'VE DONE IT! I've developed an
+unprecedented piece of monster gear!
+
+I can't believe I was able to pull this off!
+I'm actually a bit terrified of myself right
+now... 
+*ahem* 
+I present to you the ultimate in monster
+camouflage! I call it...
+the dark series!
+
+
+Wear this, and you will become a
+monster yourself! I hope you like being
+hunted for your organs!
+...
+
+
+Or you could just, you know, think of it
+as a costume.
+
+Oh, yes. And when night falls, you might
+just be able to move a little bit faster.
+
+Not sure how it turned out that way, but I'm not
+complaining..."
+120,talk81,"マモへの換金 ありがとうございました
+
+それでは改めましてマモノショップの開店です
+御用件を お話し下さいね","Thank you for converting your monster
+parts into mon.
+
+Now then, how else can Fang and Bone
+serve you today?"
+121,talk81B,"マモへの換金 ありがとうございました
+
+それでは改めましてマモノショップの開店です
+御用件を お話し下さいね","Thank you for converting your monster
+parts into mon.
+
+Now then, how can Fang and Bone
+meet your monstrous needs today?"
+122,talk82,"今日はお店の準備が整ってます
+早速商売といきましょうか
+…っと その前に
+
+あなた当店…
+マモノショップのご利用は初めてですよね？
+ご新規のお客様は まず魔物素材を
+マモに換金してもらわねば なりません","My monster shop is now open for
+business!
+
+Seeing as how you're a first-time
+customer here at Fang and Bone...
+
+our first order of business will be
+converting your monster parts to mon."
+123,talk83,"ジャジャジャ～～ン！！
+",Da da...DAAAAAAAA!
+124,talk84,このニオイは ライネルか はたまた…,"This smell... *sniff sniff*
+Is it a Lynel? Or perhaps..."
+125,talk85,このニオイは リザルフォスか はたまた…,"This smell... *sniff sniff*
+Is it a Lizalfos? Or perhaps...
+"
+126,talk86,このニオイは チュチュか はたまた…,"This smell... *sniff sniff*
+Is it a Chuchu? Or perhaps..."
+127,talk87,このニオイは モリブリンか はたまた…,"This smell... *sniff sniff*
+Is it a Moblin? Or perhaps..."
+128,talk88,このニオイは ヒノックスか はたまた…,"This smell... *sniff sniff*
+Is it a Hinox? Or perhaps..."
+129,talk89,このニオイは モルドラジークか はたまた…,"This smell... *sniff sniff*
+Is it a Molduga? Or perhaps..."
+130,talk90,このニオイは イワロックか はたまた…,"This smell... *sniff sniff*
+Is it a Stone Talus? Or perhaps..."
+131,talk91,"を全部ですね？
+個でマモになります！","All of them? So  of them will be
+ mon!"
+132,talk92,"を全て換金ですか？！
+個 お持ちですので合計マモです！","All of them? You have , so you'll
+get  mon."
+133,talk93,"交換して差し上げられるものは これで最後です
+たくさん買っていただき感激です！","I can't make any more trades right now,
+but thanks for being such a great
+customer."
+134,talk94,"もう在庫が すっからかんです…
+また作ろうと思っている物 ご覧になります？","You bought out my entire stock! But I
+can still show you the type of stuff I
+carry, if you'd like."
+135,talk95,"なぁんだ～…あなたでしたか
+びっくりしちゃいましたよ","Ahhh...it's just you.
+You startled me."
+136,talk96,ひゃぁ！あなたでしたか！,"AHHHH! Oh, it's just you."
+137,talk97,なんだか とてつもなく邪悪な視線を感じる…,"I feel like I'm being watched...by a pair
+of tremendously evil eyes."
+138,talk98,"我ながら なんて恐ろしい装束でしょう…
+これで驚かない人間はいないでしょうね","That's a pretty terrifying outfit, if I do say
+so myself. It could make even the bravest
+merchant cry for his mummy."
+139,talk99,"おやおや？！
+何とも香ばしい臭いがするじゃないですか！
+さては相当な魔物体験をされて来ましたね？
+…うらやましいです
+では改めまして…","Ahhh! That heavenly smell...
+
+
+Could it be that you've been mingling
+with monsters?
+
+I must admit I'm a bit jealous.
+"

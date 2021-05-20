@@ -1,0 +1,261 @@
+#,Title,JPja,USen
+1,"""0000""",遊ぼうよ,Let's play!
+2,"""0001""",忙しそうだね,You look busy...
+3,"""0002""",まあね,Yeah...I am.
+4,"""0003""",それほどでも,"No, not really."
+5,"""0004""",どうぞ,Go ahead.
+6,"""0005""",いいよ！,OK!
+7,near00,外の世界って…,The big wide world...
+8,near01,ブキ… ブッキー！,Zzz... Clang... Zzz...
+9,near02,ずぅ…ずぅ…,Zzz... Zzz...
+10,near03,おおー！,Oh!
+11,near04,帰るぞ！,Time to go home!
+12,talk00,なんだ？,What is it?
+13,talk01,"うおー！すげーなそれー！
+にーちゃん いい武器持ってるー！",Wow! What is that? Cool!
+14,talk02,ん…？ ああ…もう寝るトコ,I'm about to go to sleep.
+15,talk03,"うう…ちょっと無理…
+母ちゃんに言われて妹の面倒見てっから…
+母ちゃんは アマリリおばちゃんと
+会議があっから忙しいんだって
+会議っつっても井戸端会議ってやつ
+井戸のそばで毎日やってるやつ…","But right now I have to look after my
+sister. Mom told me so...
+
+Mom said she had to talk with Amira
+about work, so she's too busy. She's
+always over near the well...
+Man, adults have it hard!"
+16,talk04,"そうなんだよ
+オレは妹の面倒見る係だからな","That's right. I'm in charge of looking
+after my sister!"
+17,talk05,ずぅ…ずぅ…,Zzz... Zzz...
+18,talk06,ブキ… むにゃ…,Huzzah... I'll get you...
+19,talk07,"母ちゃんに言われて
+ナララ面倒見てっから ダメなんだ…
+オレの母ちゃん…アマリリおばちゃんと
+井戸端会議とかで忙しいんだってー","Sorry! Mom told me I have to play with
+my sister while she's over at the well
+with Amira talking about work stuff."
+20,talk08,"もう寝っから…
+寝て外の世界の夢とか見っから",I'm going to sleep. See ya tomorrow.
+21,talk09,なぁなぁ！何それ何それ？,"Whoa! What's that?
+"
+22,talk10,"にーちゃん外の世界から来た人？
+
+なんか弓矢とか剣とか上手っぽいし
+にーちゃん強えんだろ？","Hey, mister. Did you come from the
+big wide world?
+
+You look like you're good with a bow and
+sword, so you must be pretty strong.
+Are you strong or what?"
+23,talk100,だったら旅人の剣って知ってるか？,Have you heard of the traveler's sword?
+24,talk103,だったらファイアロッドって知ってるか？,Have you heard of the fire rod?
+25,talk106,だったらモリブリンバットって知ってるか？,Have you heard of the Moblin club?
+26,talk107,だったら二連弓って知ってるか？,Have you heard of the duplex bow?
+27,talk113,だったら風斬り刀って知ってるか？,Have you heard of the windcleaver?
+28,talk116,だったらガーディアンアクス+って知ってるか？,"Have you ever heard of an
+ancient battle axe+?"
+29,talk117,だったら氷雪の槍って知ってるか？,Have you heard of the frostspear?
+30,talk119,だったら古代兵装・剣って知ってるか？,"So, have you heard of the
+ancient short sword?"
+31,talk12,"ん？おお？！
+",Hrm? Oh?!
+32,talk121,"今までいろいろ見せてくれて ありがとなー！
+天国のじーちゃんも絶対喜んでるよ！
+んじゃ バイバーイ！","Thanks for showing me so many things!
+I'm sure my grandpa is super happy...
+wherever he is! Bye!"
+33,talk13,"ワーオ！ そそるー！
+ちょっと そのそれ…見せてくれっかな？",So cool! Let me see!
+34,talk14,"見せてくれて ありがとー！
+はいじゃ これ","Wow! I saw one just like that in a book!
+
+
+Thanks for lettin' me see! Take this as a
+thank you!"
+35,talk15,"いいのいいの！
+
+じーちゃんが「武器見せてくれた人にあげろ」
+って言ってたし！","No worries!
+
+
+My gramps told me to \""give it to the
+person that teaches you how to fight.\""
+Close enough!"
+36,talk16,"次に見せてほしいもの言っていい？
+
+何がいいかなー？
+え～とそうだなー
+よし決ーめたっと！","The next one!
+
+
+What should I...
+Hrm... Ummm...
+
+GOT IT!"
+37,talk17,"それ…本でなら見たことあっけど
+実物は ないんだよなー
+もし手に入れたら オレに見せてくれよな！","I've seen it in books, but never in real
+life before! If you find it, please let me
+see it!"
+38,talk18,ういーす！,Hey!
+39,talk19,"きっと いろんな武器使ってんだろうなー
+
+だったらさー にーちゃん…
+オレの夢 かなえてくんない？
+亡くなったじーちゃんが武器好きだったんだけど
+どうしても見れなかった武器が あったんだよ
+だから今から言う武器持って来て
+オレに見せて！
+オレが見た武器を
+天国のじーちゃんに報告するんだ！
+よーし！そうこなくっちゃ！
+
+じゃ何がいいかな～","I bet you can use all sorts of different
+weapons, right?
+
+Sooo... Do you wanna help a kid's
+dream come true?
+
+My gramps is dead now, but when he
+was alive, he loved weapons. Though he
+never got to see all the ones he wanted.
+So you bring me weapons and show
+'em to me, and then I can tell gramps
+about 'em when I meet him again!
+Yeahhh! I knew you'd do it!
+
+
+Hmm, where should we start?"
+40,talk20,"にーちゃん？！
+わざわざ武器を見せに来てくれたの？
+だけど あのさー…馬とか降りてくんないと
+よく見えないんだよねー","Hey! You here to show me that weapon?
+
+
+I can't see anything from down here! 
+Can you get off the horse and show me?"
+41,talk200,"にーちゃんが持ってんの
+旅人の剣じゃんか！",Isn't that the traveler's sword?
+42,talk203,"にーちゃんが持ってんの
+ファイアロッドじゃんか！",Isn't that the fire rod?
+43,talk206,"にーちゃんが持ってんの
+モリブリンバットじゃんか！",Isn't that the Moblin club?
+44,talk207,"にーちゃんが持ってんの
+二連弓じゃんか！",Isn't that the duplex bow?
+45,talk21,"おっおー！この村でこんなすげえのに
+お目にかかれるとは！","Wow! It's exactly like the one 
+in the books!
+"
+46,talk213,"にーちゃんが持ってんの
+風斬り刀じゃんか！",Isn't that the windcleaver?
+47,talk216,"にーちゃんが持ってんの
+ガーディアンアクス+じゃんか！",Isn't that...an ancient battle axe+?
+48,talk217,"にーちゃんが持ってんの
+氷雪の槍じゃんか！",Isn't that the frostspear?
+49,talk219,"にーちゃんが持ってんの
+古代兵装・剣じゃんか！",Isn't that...the ancient short sword?
+50,talk22,"うおー！本物～！
+じいちゃんに報告だー！","Wow! It's the real thing!
+I've GOTTA tell Gramps about this one!"
+51,talk23,"いや～本物を見られるとは…
+報告すれば じいちゃんも喜ぶぞ～！","Wow! So awesome! So cool!
+
+
+Gramps will flip when he hears
+I saw this!"
+52,talk24,"本で見た事あっけど
+やっぱ本物はちがうなー！","Whoooa! The real thing is really
+the real deal!"
+53,talk25,"うわぁ！思ってたよりデカ～い！！
+
+びっくりして思ってたよりデカい声出ちゃった…","Wow! It's even more amazing
+than I ever imagined!"
+54,talk26,ワーオ！たまらんスなーこれ！,Whoooa! Looks strong!
+55,talk27,"ありがとー！
+じゃ これはお礼な！",Thanks! Here's a token of my thanks!
+56,talk28,"サンキュー！
+…あお礼わたさないとな！","Thank you! Take this as a token
+of my thanks!"
+57,talk29,"エンリョせず取っといて！
+
+じーちゃんから もらったヤツだから
+じーちゃんからのお礼 って事で！","Don't be so modest!
+
+
+I got it from my grandpa, so think of it
+as a thank-you from him!"
+58,talk30,"今のお礼は生前じーちゃんが
+「武器見せてくれた人に差し上げろ」って
+オレに託したヤツだから
+気にしなくていいしな！","That was from my grandpa. He always
+said, \""Give it to the one who can show
+you the real deal.\""
+So don't worry about it!"
+59,talk300,"旅人の剣を手に入れたら見せてくれよな！
+楽しみにしてるからなー！","If you find a traveler's sword, please let
+me see it! That would be so cool!"
+60,talk303,"ファイアロッドを手に入れたら
+見せてくれよな！楽しみにしてるからなー！","If you find a fire rod, please let me see
+it! That would be so cool!"
+61,talk306,"モリブリンバットを手に入れたら
+見せてくれよな！楽しみにしてるからなー！","If you find a Moblin club, please let me
+see it! That would be so cool!"
+62,talk307,"二連弓を手に入れたら見せてくれよな！
+楽しみにしてるからなー！","If you find a duplex bow, please let
+me see it! That would be so cool!"
+63,talk31,"じゃ次に見せてほしい武器は っと
+
+何だったかなー？ え～と…
+
+…アレがいいぞ！アレだ！","All right, the next weapon I wanna
+see is...
+
+What was it... Um...
+
+
+Oh, yes! That one! That one! "
+64,talk313,"風斬り刀を手に入れたら見せてくれよな！
+楽しみにしてるからなー！","If you find a windcleaver, please let
+me see it! That would be so cool!"
+65,talk316,"ガーディアンアクス+を手に入れたら
+見せてくれよな！""楽しみにしてるからなー！","If you find an ancient battle axe+, please
+let me see it! That would be so cool!"
+66,talk317,"氷雪の槍を手に入れたら見せてくれよな！
+楽しみにしてるからなー！","If you find a frostspear, please let me
+see it! That would be so cool!"
+67,talk319,"古代兵装・剣を手に入れたら
+見せてくれよな！楽しみにしてるからなー！","If you find an ancient short sword,
+please let me see it! Please, please!"
+68,talk32,"じゃ次ー！
+
+じーちゃん何が見たいって
+言ってたっけなー え～と…
+あ！思い出したぞ！ よーし…","All right, next!
+
+
+Grandpa said he wanted to see...
+What was it again? Um...
+
+Oh! I remember now! All right..."
+69,talk33,"それ…この辺じゃなかなか見られないって
+じーちゃんが言ってたヤツなんだよ
+もし手に入れたら オレのとこまで
+持って来てくれよな！","Grandpa said you can't find those
+around here.
+
+If you get ahold of one, let me see it!"
+70,talk34,"それ…じーちゃんが若い時
+探したけど見つけられなかったんだって
+だから お願い！
+それ見つけたら オレに見せてくれよな！","So...when my grandpa was young,
+he looked for it but couldn't find it.
+So please!
+If you find it, please let me see it!"
+71,talk35,"いいじゃんいいじゃん！
+見せて見せて！","Nice! Nice! Let me see, let me see!"
+72,talk36,"約束覚えてくれてたんだね！
+じゃ早く見せてよ！","You remembered our promise!
+Thanks! Let me see! "

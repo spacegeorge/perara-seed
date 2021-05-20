@@ -1,0 +1,221 @@
+#,Title,JPja,USen
+1,Atacked00,"あぁ…""怖ろしい…
+まるで悪夢のよう…",So terrifying... A real nightmare...
+2,Atacked01,"魔物が去るまでは
+まだ じっとしていた方が…","Maybe it would be better to just stay put
+until the monsters leave..."
+3,Failed00,"私…なんとか助かったんですね？
+どうやらここは天国ではなさそうですし…","You...you saved me! I mean, unless I'm
+in heaven right now..."
+4,Failed01,"巡礼の旅…先が少し不安です
+もちろん引き返すつもりはありませんけど…","This journey... I'm feeling a bit uneasy
+about what lies ahead. Still, I refuse to
+give up!"
+5,Guardian00,"早く お逃げください！
+ガーディアンに見つからないように！","Run away! Hurry, you must escape!
+Don't let the Guardian see you!"
+6,MSG_Futa_00,"ゼルダという名のお姫様…
+あなたは ご存じですか？
+おとぎ話の中ではなくて
+ハイラルの地に実在したお姫様です
+私は そのゼルダ姫が かつて巡礼した地を
+こうして ゆっくりと辿っているのです","The princess named Zelda...
+Do you know of her?
+
+She's not just a fairy tale. She was a
+princess who actually existed in the
+land of Hyrule.
+In fact, I'm retracing Princess Zelda's
+footsteps, trying to find the locations
+where she journeyed way back when.
+I think I'm probably moving a lot slower
+than she did, though..."
+7,MSG_Futa_00_1,"ゼルダ姫はご存じですか？
+
+私彼女が巡礼した地を辿ってるんです
+彼女は各地で何を感じていたのか…","Do you know about Princess Zelda?
+
+
+I'm retracing her steps to visit the places
+she journeyed to. I wonder what she was
+feeling at each of these locations..."
+8,MSG_Futa_01,"…私ですか？
+ゼルダ姫の足跡を辿る旅の途中です
+次の巡礼地は ラネール山にある知恵の泉…
+ゼルダ姫は そこで何を得たのでしょう","Who, me? I'm just a traveler trying to
+retrace Princess Zelda's footsteps and
+re-create her journey.
+My next stop is the Spring of Wisdom at
+Mount Lanayru. What might have
+Princess Zelda found there?"
+9,MSG_Futa_01_1,"私 ゼルダ姫の足跡を追ってるんです
+次は ラネール山にある知恵の泉を目指します","I'm retracing Princess Zelda's steps.
+Next, I'm off to the Spring of Wisdom
+at Mount Lanayru."
+10,MSG_Futa_02,"…私も旅の者です
+いえ巡礼者というべきかもしれません
+ここより少し北を旅していたときでしょうか…
+カカリコ村の長に面会できたのは幸運でした
+ハイラルの歴史にお詳しく
+お人柄も とても素敵な女性でしたよ","I, too, am a traveler. Or perhaps I should
+say \""an adventurer.\"" Yes, that's the one.
+
+In fact, I'm in the middle of a journey.
+I even had the great honor of meeting
+with the leader of Kakariko Village.
+She is very knowledgeable of the
+history of Hyrule, and she is also
+blessed with a lovely personality."
+11,MSG_Futa_02_1,"カカリコ村の長は素敵な女性でした
+あなたも お会いになってはいかが？","The leader of Kakariko Village is a
+wonderful woman. If you can,
+you should meet with her, as well."
+12,MSG_Futa_03,"ここには いにしえの戦いの
+名残りが残されています
+失われた尊き命の数たるやさぞかし…","The traces of an ancient battle linger...
+Countless precious lives must have been
+lost here..."
+13,MSG_Futa_03_1,"ここで失われた数々の命…
+私は ただ祈る事しかできません","Just think of all the lives that were
+lost here... All we can do now is
+pray that their souls found peace."
+14,MSG_Futa_04,"大厄災を免れたハテノ村の穏やかさが
+じつは どこか危ういものだということ…
+旅を通して外の世界を見ているあなたなら
+きっと感じていますよね？","Hateno Village managed to escape the
+brunt of the Great Calamity, yet somehow
+the peace here feels so precarious...
+As one who has traveled and seen so
+much of the world, surely you must
+feel it too?"
+15,MSG_Futa_04_1,"大厄災を免れたハテノ村の危うさ…
+あなたも感じますか？","Hateno Village escaped the brunt of the
+Great Calamity, but the peace enjoyed
+here feels precarious... Do you feel it?"
+16,Near00,今日もどうか無事で…,I'm somehow still safe...
+17,Near01,ゼルダ姫…,Princess Zelda...
+18,Near02,巡礼の者です…,I'm an adventurer...
+19,Near03,魔物に遭わぬよう…,"Stay away, monsters..."
+20,Near04,降ってきました…,It's raining...
+21,Rest_00,"私もあなたと同じ旅の途中…
+ただし冒険ではなく巡礼の旅をしています
+平和を尊ばれた ゼルダ姫の強き思いが
+多くの人々の心に行き渡りますように…","I am in the midst of a journey, not unlike
+you are. Though, to be frank, mine is
+more of a pilgrimage.
+I do hope that Princess Zelda's devout
+prayers for peace will touch the lives
+of others as they have touched mine."
+22,Rest_01,"雨の日は巡礼はお休みして
+自分を見つめ直す時間なんです
+祈る心に迷いはないか
+己に嘘をついてはいないか…って
+","I take a break from my pilgrimage
+whenever it rains. It gives me time
+for introspection.
+Is my heart truly devoted to prayer?
+Am I deceiving myself in any way?
+You know, things like that."
+23,Rest_02,"この雨は ハイラルのお城にも
+降り注いでいるのでしょうか…
+ゼルダ姫のお父様
+ハイラル王の御霊を鎮めるかのように…","I wonder if this same rain is falling on
+Hyrule Castle...
+
+May the spirit of King Rhoam,
+Princess Zelda's noble father,
+be at peace..."
+24,RetMSG_Futa_00,"…知恵の泉には もう行かれました？
+
+私の敬愛するゼルダ姫が
+祈りのために訪れたという由緒ある泉です","Have you already been to the
+Spring of Wisdom?
+
+It is known that Princess Zelda visited
+the spring in prayer. I have a great deal
+of love and respect for her."
+25,RetMSG_Futa_00_1,"知恵の泉は ゼルダ姫ゆかりの地…
+ハイラル城の代々の王女が訪れる場所です","The Spring of Wisdom has strong ties
+to Princess Zelda...
+
+It is a place that the princesses of
+Hyrule Castle have visited from
+generation to generation."
+26,RetMSG_Futa_01,"…あなたの旅の目的はわかりませんが
+ぜひ訪れてほしい場所があります
+ラネール山の奥深くにある知恵の泉…
+私が巡礼地に選んだ由緒ある泉です","I do not know the purpose of your
+journey, but...there is a place that
+I recommend you pay a visit to.
+Deep in the recesses of Mount Lanayru
+lies the Spring of Wisdom... It is a storied
+spring to which I am making a pilgrimage."
+27,RetMSG_Futa_01_1,"ラネール山の知恵の泉…
+由緒ある泉ですので訪れてみてはいかが？","The Spring of Wisdom at Mount Lanayru.
+It is a storied spring... You can't tell me
+you're not curious. Care to visit it?"
+28,RetMSG_Futa_02,"この辺りは古戦場なんですが…
+
+よくある名所旧跡とは違い
+かつての戦いを偲ぶ気にはなりません
+なぜなら大厄災が完全に終息したという話は
+一切伝承されていないので…","This area was once the site of an
+ancient battle...
+
+Unlike other well-known ruins, I don't
+think imagining what took place here
+would be very satisfying.
+The reason I say that is because none of
+the old stories about the Great Calamity
+mention it being entirely defeated..."
+29,RetMSG_Futa_02_1,"この辺りの古戦場跡…
+戦いの名残りが痛々しいですね…
+私達に できる事は…
+尊き命の為に祈る事だけです…","An ancient battle took place here...
+Even just being near a place so full
+of tragic memories is painful.
+All we can do...is honor the brave lives
+that were lost here..."
+30,RetMSG_Futa_03,"ここはガーディアンの進行を食い止めるために
+村人たちが築いた砦の跡です…
+今私たちがここにいるのは
+そのおかげとも言えるでしょう…","These are the remains of a fortress that
+was erected by villagers to try and halt
+the advance of the Guardians...
+You could safely say the fact that any
+of us are alive today is all thanks to
+this fortress here."
+31,RetMSG_Futa_03_1,"ここはガーディアンを食い止めた と言われる砦
+私たちは そのおかげで今ここにいるのです…","This is the fortress said to have
+been built to stop the Guardians.
+We have it to thank for our lives."
+32,RetMSG_Futa_04,"…旅の最終目的地あなたにはありますか？
+私が最後に訪れたいのは知恵の泉です
+敬愛するゼルダ姫が そこで何を想ったのか
+追体験ができたら いいなと…","Do you have a final destination in mind
+for your journey? The last place I want
+to visit is the Spring of Wisdom.
+I really want to re-create the journey that
+Princess Zelda experienced. I just love
+and respect her so very much..."
+33,RetMSG_Futa_04_1,"私の旅の最終目的地は知恵の泉です
+そこで ゼルダ姫の面影を追いたいのです","The final destination of my journey is
+the Spring of Wisdom. I hope to feel
+Princess Zelda's presence there."
+34,SavedLv1_00,すみません私なんかのために…,"Thank you! Really, I can't believe you
+did that for me!"
+35,SavedLv1_01,あ…ありがとうございました,Thank you! Thank you so very much!
+36,SavedLv2_00,"あぶないところを助けていただき
+お礼の言葉もありません…","You saved me! I...I don't have the right
+words to properly thank you..."
+37,SavedLv2_01,"自分の身は自分でと思ってはいても…
+ご迷惑 おかけしました","Because I was so sure I could take care
+of myself, I put you in the position of
+having to look after me. Heh, sorry!"
+38,SavedLv3_00,"助けていただき ありがとうございます
+恐ろしくて まだ震えが…","Thank you for saving me! Wow, that was
+so scary. I'm still shaking..."
+39,SavedLv3_01,"助けていただき ありがとうございます
+あなたの旅の お邪魔をしてしまったかも…","Thank you for helping me! I'm so sorry
+for interrupting your journey..."
+40,Thanks00,これは ほんのお礼です,Here. This is a small token of my thanks.

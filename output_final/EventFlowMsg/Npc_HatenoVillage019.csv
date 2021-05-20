@@ -1,0 +1,142 @@
+#,Title,JPja,USen
+1,"""0000""",端っこ…,You like this corner?
+2,"""0001""",売りに来た,I'm here to sell.
+3,"""0002""",ここって？,What is this place?
+4,"""0003""",さようなら,Good-bye.
+5,"""0004""",買います,I'll buy.
+6,"""5500""",はい,"Yes, please."
+7,"""5501""",いいえ,"No, thanks."
+8,"""5502""",買う,Buy.
+9,"""5503""",やっぱりやめる,Never mind.
+10,"""5508""",ぜんぶ売る,All of them.
+11,Com_Talk_00,じゃ選んでくださ～い,"Please go ahead and sell whatever
+you desire..."
+12,Com_Talk_01,"を お売りですか？
+ルピーで よろしかったですかぁ？","For that...I can give you  rupees.
+Is that OK?"
+13,Com_Talk_02,"ありがとうございましたぁ～
+他にも何か お売りになりますかぁ～？","Thank you very much! Would you like to
+sell anything else?"
+14,Com_Talk_02b,"まいど どうも～
+他は どういたしましょうかぁ～？",Much obliged! Anything else?
+15,Com_Talk_02c,"どうも ありがとうございますぅ～
+他は いかがいたしましょうかぁ～？",Well thanks so much! Anything else?
+16,Com_Talk_02d,"承りました～
+他の物も お売りになられますでしょうかぁ～？","Pleasure doing business with ya!
+Anything else you might like to sell?"
+17,Com_Talk_04,は～い承りましたぁ～,OK then!
+18,Com_Talk_05,何でも買い取らせて いただいておりまぁ～す,We'll buy anything!
+19,Com_Talk_05b,ゆっくり お選びくださいませぇ～,No rush.
+20,Com_Talk_05c,お手持ちの物を ご確認くださぁ～い,Take your time...
+21,Com_Talk_05d,どれに致しましょうかぁ～？,What will you sell?
+22,Com_Talk_06,どちらをお買い上げになりますかぁ～？,Which one would you like to buy?
+23,Com_Talk_07,"申し訳ございませぇ～ん
+そちらの品は在庫切れとなっておりまぁ～す",So sorry—that item is currently sold out!
+24,Com_Talk_08,"お客様ぁ～お代が少々
+足りないようでございまぁ～す","Sir, you don't have quite enough for
+this purchase."
+25,Com_Talk_09,"お客様ぁ～お荷物がいっぱいで これ以上
+お持ちになれないようでございまぁ～す","Sir, it seems that you can't carry any
+more items."
+26,Com_Talk_10,"を
+お買い上げになりますかぁ～？","Would you like to buy that, then?"
+27,Com_Talk_11,まいど ありがとうございまぁ～す,Thank you for your business!
+28,Com_Talk_11b,お買い上げ ありがとうございまぁ～す,Thank you for your purchase!
+29,Com_Talk_11c,"お客様に とってもよく
+お似合いだと思いまぁ～す","I think that suits the young sir
+impeccably!"
+30,Com_Talk_11d,"お気に召されたようで
+光栄至極でぇ～す","I'm humbled that you'd take a liking to
+my products! Thank you!"
+31,Com_Talk_12,是非 お手に取って ご覧くださいまぁ～せぇ～,Please go ahead and take a look!
+32,Com_Talk_13,"を お売りですね？
+いくつですかぁ？",Selling that? How many?
+33,Com_Talk_14,"を個で
+合計ルピーになりまぁす いいですかぁ？","Hmm... It'll be... rupees.
+Is that OK?"
+34,Com_Talk_15,それはウチでは買い取れないんですぅ,"Sorry, but we don't buy those..."
+35,Com_Talk_16,"お手数ですけど着てる服は一度脱いでから
+お売りになっていただけますかぁ？","I'm sorry, but could you, um...take your
+clothes off before you sell them?"
+36,Com_Talk_33,"を お1つですか？
+それならルピーに なりますぅ～",Just one? I can give you  rupees. 
+37,Com_Talk_35,"を個全部ぅ…
+なら合計ルピーで買い取りまぁす","We're talking ...
+You're selling all  of them...
+I can give you a total of  rupees."
+38,Com_Talk_60,"ですかぁ？
+それならルピーでございまぁ～す",That'll be... rupees!
+39,Com_Talk_61,"かしこまりましたぁ～
+他のも見てくださいねぇ～","Understood. Don't forget to take a look
+at the rest of our offerings!"
+40,near00,いらっしゃいま～せ～,Welcome! Welcome!
+41,talk00,"皆様の普段着から兵士様の防具まで
+着る物ならオマカセのヴェント・エストでぇ～す","Everyday clothes? Armor for soldiers?
+We have it all at Ventest Clothing!"
+42,talk01,"お疲れ様でぇ～す
+ヴェント・エストは夜でも営業しておりまぁ～す","Hullo! Ventest Clothing is open even to
+those who travel in the night!"
+43,talk02,またのお越しを お待ちしておりまぁ～す,Come again soon!
+44,talk03,他に御用は ございますかぁ～？,Did you need anything else?
+45,talk05,"当店は皆様の普段着から兵士様の防具まで
+色々取り揃えております服屋でございまぁ～す
+どうかごゆるりと ご覧くださいませぇ～","We're a clothing shop with lots of
+apparel to choose from!
+
+Normal wear to adventure wear, you'll
+find it where? Right here!"
+46,talk06,"少々お待ち下さいませぇ～
+
+…
+
+……
+
+お待たせしましたぁ～","Hold on just a second!
+
+
+OK...
+
+
+Let's see here...
+
+
+Thank you for waiting!"
+47,talk07,はぁ～いどれをお売りになりますかぁ～？,Yes? What would you like to sell?
+48,talk10,お買い上げ誠にありがとうございまぁ～す,Thank you very much!
+49,talk11,ありがとうございましたぁ～,Thank you very much!
+50,talk12,お買い上げ ありがとうございまぁ～す,Thanks for your business!
+51,talk13,"お客様ァ～
+他のお客様の ご迷惑となりますのでェ～","I'm sorry, but..."
+52,talk14,"その青い炎は
+どうか お片付けになってくださいませェ～","Would you mind just putting out that
+blue flame? I don't want to frighten any
+other customers."
+53,talk15,私に御用ですかぁ～？,Did you need something?
+54,talk16,"いらっしゃいまぁ～せぇ～
+",Welcome! Welcome!
+55,talk17,"…
+
+……
+
+あ～っ！
+
+私…端っこで見にくいですかぁ？
+
+でも ここが定位置ですので…
+なにとぞ ご了承くださいませぇ～","...
+
+
+...
+
+
+OH!
+
+
+Am I nestled too far in the corner?
+Is it hard to see me?
+
+I know it's a little weird, but I just feel
+more confident over here."
+56,talk20,"すっぽんぽぉ～んのお客様御用達
+ヴェント・エストへ ようこそ～","People who lack clothes just love it here
+at Ventest Clothing!"

@@ -1,0 +1,150 @@
+#,Title,JPja,USen
+1,"""0000""",通常のプラン,"Standard, please."
+2,"""0001""",美肌エステプラン,"Spa plan, please!"
+3,"""0002""",さよなら,Good-bye.
+4,"""0003""",朝まで,In the morning!
+5,"""0004""",昼まで,"Around noon, please."
+6,"""0005""",夜まで,After sunset.
+7,"""0006""",やっぱりやめる,Actually...never mind.
+8,"""0007""",エステって？,Spa plan?
+9,Near01,エステはどうだい？,Time to relax?
+10,Talk01,"ヴァーサーク！
+遠慮なく休んでいっとくれ！",Vasaaq! Come on in and rest for a while!
+11,Talk02,サヴォーク！,Sav'orq!
+12,Talk03,"なんだい… お代が足りないじゃないか！
+それじゃあ泊まらせる事はできないね","What's this... You don't have enough
+money! You can't stay if you can't pay
+for it!"
+13,Talk04,"おや…通常のプランでいいのかい？
+
+アタシのフィンガーテクなら
+天国行き間違いなしだったのに残念だね…
+それで いつ起こせばいいんだい？","Oh...just the standard stay, huh?
+The spa plan is sure to bleed away all
+the worry and wrinkles of life, but OK...
+Well, when would you like to be woken?"
+14,Talk05,"エステプランだね！
+ふふっ指がなるねぇ…
+それで いつ起こせばいいんだい？","The spa plan it is!
+Heehee, I'm so excited to get to work...
+
+Anyway, when would you like to be
+woken?"
+15,Talk06,サヴォール！,Sav'orr!
+16,Talk07,サヴォール！！,Sav'orr!
+17,Talk08,"サヴォッタ！ よく眠れたかい？
+砂漠は危険だ気を付けるんだよ！","Sav'otta! Did you sleep well? The desert
+is a dangerous place, but you should be
+up for anything after resting!"
+18,Talk09,"サヴァーク！ よく眠れたかい？
+砂漠は危険だ気を付けるんだよ！","Sav'aaq! Did you sleep well? The desert
+is a dangerous place, but you should be
+up for anything after resting!"
+19,Talk10,"サヴァサーバ！
+よく眠れたかい？ 
+それにしても今からお出かけかい？
+夜は危険なんだから無理するんじゃないよ","Sav'saaba!
+I hope you slept well!
+
+But... Are you really planning to head
+out at this hour? The desert is quite
+dangerous at night, you know."
+20,Talk11,"サヴォッタ！ ふふ… よく眠れただろ？
+砂漠は危険だ気を付けるんだよ！","Sav'otta! You look like the very image of
+relaxation! Please be careful on your
+journey... The desert is dangerous!"
+21,Talk12,"サヴァーク！ ふふ… よく眠れただろ？
+砂漠は危険だ気を付けるんだよ！","Sav'aaq! You look like the very image of
+relaxation! Please be careful on your
+journey... The desert is dangerous!"
+22,Talk13,"サヴァサーバ！
+ふふ… よく眠れただろ？
+それにしても今からお出かけかい？
+夜は危険なんだから無理するんじゃないよ","Sav'saaba! You look like the very image
+of relaxation!
+
+But... Are you really planning to head out
+at this hour? The desert is quite
+dangerous at night, you know."
+23,Talk14,"おや お客さん
+アローマのエステを知らないのかい？
+けっこう人気だと
+思ってたんだけどねぇ…
+アタシの フィンガーテクを受けると
+色々元気になっちゃうらしくてね
+目覚めたら いつもよりも体は強くなって
+手足の力も増すって評判なんだ
+その上 お肌はつやっつや！
+ヴァーイなら受けなきゃ損だよ！","You've...never heard of the spa plan
+at Hotel Oasis?
+
+I was sure it was known the world over...
+
+
+The spa plan we offer will fill you with
+energy and a truly unique feeling of
+resilience to great dangers.
+And as an extra bonus, it'll feel like years
+of worry have been washed away, leaving
+your skin bright and smooth."
+24,Talk15,"それで どうする？
+泊まっていくのかい？
+通常のプランなら20ルピー
+美肌エステプランなら80ルピーだよ！","Intriguing, right? What do you think?
+The standard stay is 20 rupees, and the
+spa plan is 80 rupees!"
+25,Talk16,"別のプランにするのかい？
+
+通常のプランなら20ルピー
+美肌エステプランなら80ルピーだよ！","Did you want to try a different option?
+
+
+The standard stay is 20 rupees, and the
+spa plan is 80 rupees!"
+26,Talk17,"通常のプランなら20ルピー
+美肌エステプランなら80ルピーだよ！","The nightly rate is 20 rupees, but we
+also offer a special spa plan that would
+bring the total to 80 rupees!"
+27,Talk18,"ヴァーサーク！
+
+神獣が暴れるのをやめてくれたから
+これからウチも忙しくなるよ
+ルージュ族長様様だねぇ","Vasaaq!
+
+
+The Divine Beast has stopped its
+rampage, so I'm hoping business will
+pick up again!
+It's all thanks to Lady Riju, isn't it?"
+28,Talk19,"ヴァーサーク！
+
+おや エステしがいのある
+かわいいヴァーイだねぇ
+ウチは宿屋だけど
+特別なエステプランもあるんだ
+アタシのエステは人気でねぇ
+
+いくらでも待つからやってほしいってヴァーイが
+後を絶たないんだよ
+でもお客さんは特別にいつでも
+エステしたげるよ
+なんだろうねぇお客さんには
+特別な何かを感じるんだよ
+さぁ長話しちまったけど
+どうだい？泊まってくかい？","Vasaaq!
+
+
+Oh, look at this cute little vai... I bet you
+would absolutely love what we have to
+offer, little one!
+We're an inn, of course, but we also have
+a special spa plan! A vacation for mind
+and body!
+It's really, really popular. So popular,
+in fact, that we always have a long line of
+people waiting to get in!
+Although... I don't know what it is, but
+I just feel something special from you.
+You can cut to the front of the line!
+Oh! I'm just going on and on.
+What can I do for you?"

@@ -1,0 +1,354 @@
+#,Title,JPja,USen
+1,"""0000""",買う！,What have you got?
+2,"""0001""",売る！,Look what I've got.
+3,"""0002""",やめとく,Good-bye.
+4,"""1000""",交換する！,It's a deal!
+5,"""1001""",やめとく,"Sorry, but no."
+6,"""5500""",はい,OK.
+7,"""5501""",いいえ,On second thought...
+8,"""5502""",買う,Buy.
+9,"""5503""",やっぱりやめる,Never mind.
+10,"""5507""",ぜんぶ買う,I'll take 'em all!
+11,"""5508""",ぜんぶ売る,All of them.
+12,ClearTerrorEnemy,フゥゥ…,Phew...
+13,ClearTerrorGuardian,コワカッタデース…,That was scary...
+14,Com_Talk_00,何ヲ売ッテ イタダケマスカー？,What would you like to sell?
+15,Com_Talk_01,"""デスネー
+ルピーデスケド イイデスカー？",How does  rupees sound?
+16,Com_Talk_02,"アリガトウ ゴザイマース！
+他ニモ何カ売ッテクレマスカー？","Thank you very much! Is there anything 
+else you would like to sell?"
+17,Com_Talk_02b,"毎度 ドウモデース！
+他ニモ何カ売ッテクレマスカー？","Thank you for your business!
+Did you want to sell me anything else?"
+18,Com_Talk_02c,"アリガトウ ゴザイマース！
+何カ他ニハ アリマスカー？","Thank you very much!
+Did you have anything else?"
+19,Com_Talk_02d,"毎度 ドウモデース！
+何カ他ニハ アリマスカー？","Thank you for your business!
+Did you have anything else?"
+20,Com_Talk_04,"アララ……""残念デース","Oh, no, no... That's too bad."
+21,Com_Talk_05,何デモ買イ取リマース！,I'll buy aaaaaaanything!
+22,Com_Talk_05b,バンバン売ッテクダサーイ！,Don't hesitate to sell me things!
+23,Com_Talk_05c,ジャンジャン買イ取リマース！,I'll take anything off your hands!
+24,Com_Talk_05d,何デモ売ッテクダサーイ！,Sell me anything you've got!
+25,Com_Talk_06,ゼーンブ お勧めデスヨー！,"Buy whatever you want! I recommend
+eeeeeeverything!"
+26,Com_Talk_07,"オゥ！ゴメンナサーイ……
+ソチラハ今売リ切レ中デース……","Oh! So sorry.
+Fresh out of that."
+27,Com_Talk_08,"オゥ！ルピーガ足リナイヨウデース……
+オトトイ キヤガレ デース！","Oh! You don't have enough rupees.
+That's embarrassing."
+28,Com_Talk_09,"オゥ！ポーチガ いっぱいノヨウデース……
+ポーチニ空きヲ作ッテカラ マタ来テクダサーイ","Oh! Your inventory appears to be full.
+Please make some room in your
+inventory, and come back."
+29,Com_Talk_10,"ヲ
+買ッテイタダケマスカー？",You want to buy that?
+30,Com_Talk_11,毎度 アリガトウ ゴザイマース！,Thank you for your constant patronage!
+31,Com_Talk_11b,毎度 ドウモデース！,Thank you for your business!
+32,Com_Talk_11c,アリガトウ ゴザイマース！,Thank you very much!
+33,Com_Talk_11d,イツモ アリガトウ デース！,Thanks again for your business!
+34,Com_Talk_12,"キット お役ニ立ツモノ アリマース！
+ジックリト ご覧クダサーイ！","I'm sure I have something you'll find
+useful! Please have a good look!"
+35,Com_Talk_13,"デスネー
+イクツ売ッテ クダサイマスカー？","I'll take it. How many would you like
+to sell me?"
+36,Com_Talk_14,"ヲ個デ
+合計ルピーデスケド イイデスカー？","I think  of those would be worth
+about  rupees. Is that OK?"
+37,Com_Talk_15,"ソレハ チョット買イ取レナイデース
+ゴメンナサーイ","I'm afraid I can't buy that.
+Wish I could, but them's the rules."
+38,Com_Talk_16,マズ ソノ服脱イデカラニ シテクダサーイ,"Maybe you should take those clothes off
+before you try to sell them."
+39,Com_Talk_30,"デスネー
+イクツ買ッテ クダサイマスカー？","All right, how many would you like
+to buy?"
+40,Com_Talk_31,"ヲ個デ
+合計ルピーデスケド イイデスカー？","I think  of those will run
+you  rupees. Does that work?"
+41,Com_Talk_32,"ヲ １ツデスネ？
+ソレナラルピーデスケド イイデスカー？","Just one, then? That'll be 
+rupees, please."
+42,Com_Talk_33,"ヲ 1ツデスネ？
+ソレナラルピーデスケド イイデスカー？","Just one, then? How does 
+rupees sound?"
+43,Com_Talk_34,"ヲ全部デスカ？！
+個デルピーデスケド イイデスカー？","All of them?
+Well,  of them will be  rupees. 
+How does that sound?"
+44,Com_Talk_35,"ヲ個スベテ？！
+合計ルピーデスガ本当ニイイデスカー？","So that's ? Which is all of them!
+That'll be  rupees.
+How does that sound?"
+45,Com_Talk_36,"本日ハ完売デース！タクサンノ お買い上げ
+誠ニ アリガトウゴザイマース！","Sold out for today! Thank you for
+buying so much, and thank you for
+your business!"
+46,Com_Talk_37,"お陰様デ本日ハ完売デース！
+お買い上げ アリガトウゴザイマース！
+入荷予定ノ品物ダケデモ ご覧ニナリマスカー？","Thanks to you, I'm sold out for today!
+But that's a good thing!
+
+Would you like to look at the items 
+I'm planning to have stocked?"
+47,Com_talk_17,"ヤァ！""毎度ドウモ デース！
+イツモお世話ニ ナッテマース！","Hey! You're a great customer, and since
+today is Customer Appreciation Day..."
+48,Com_talk_18,"ナント あのガーディアンに効くラシイ デスヨ！
+スゴイ デスネー！！
+ガーディアンの目玉ニ当テルト
+ヨリ効果的ラシイ デース！
+コレロベリーッテイウ おっさんカラ
+モライマシター
+ゾーラの里ヨリ ズットズット北ニアル
+アッカレ古代研究所ッテイウ場所ニ イマース
+アノおっさん他ニモイロイロ
+ケッタイナ武器トカ服トカ作ッテマース
+マサニ狂気の研究者 デース
+コワイデスネー オソロシイデスネー…
+ソレデモ強イ武器トカ欲シイナラ
+行ッテミルト イイデース","This even works on those Guardian 
+things. It's amazing!
+
+I hear it works best if you hit the
+Guardians in the eye with it. This old guy
+named Robbie gave it to me.
+To find him, go waaay north past
+Zora's Domain, all the way to
+Akkala Ancient Tech Lab.
+Old Robbie makes a bunch of other
+weird weapons and clothes and stuff.
+
+I guess he's what you'd call a mad
+scientist, which is kind of cool...
+but also terrifying.
+If you want strong weapons and stuff,
+you should go see him."
+49,Com_talk_19,"オゥ！ あなたモウ ロベリーニ会ッテル？！
+トンダ お節介失礼シマシター！","Oh! You've met Robbie too?
+He must be pretty popular."
+50,Com_talk_20,"ソンナあなたニ感謝ノ気持ちヲ込メテ
+コレプレゼント デース！",I want you to have this!
+51,Near,寄ッテ ラッシャーイ,Come on oooooover!
+52,TerrorAnimal,来ナイデクダサーイ！,Get back!
+53,TerrorArrow,ヤメテクダサーイ！,Please stop!
+54,TerrorBomb,ワォ！,WHOA NOW!
+55,TerrorEnemy,ノワアァーッ！,Eeeeeeeeek!
+56,TerrorExplosion,ウワァアッ！,Haaaaeeeeee!
+57,TerrorFire,燃エタクナイデース！,I don't like fire!
+58,TerrorGuardian,ヒャァアーッ！,Hyeeeeeeehh!
+59,TerrorHorse,オォット！,Whoa!
+60,TerrorImpulse,オオゥ！,Ohh!
+61,TerrorInsect,ハチはニガテデース！,NOT BEES! AHHHH!
+62,TerrorLightning,アァッ！,AHHH!
+63,TerrorSword,アウッ！,Oww!
+64,talk_00,"ヤァ！ あなた初メテ見ル顔デスネー
+初メマシテー！","Hey! I don't believe I've made your
+acquaintance!"
+65,talk_01,"オゥ！残念デース……
+次ハ ヨロシクお願い致シマース……","Oh! That's too bad...
+Hope to see you around."
+66,talk_02,"アリガトウ ゴザイマシター！
+次モ ヨロシクお願い致シマース！","Thank you very much!
+Hope to see you again soon!"
+67,talk_03,ヤァ！ あなた マタお会いシマシタネー！,"Oh, hiiiiiiiiiiiiii!
+We meet again!"
+68,talk_04,"ヤァ！ マタあなたデスネー
+テリー イツデモ大歓迎デース！","Hey! It's you again.
+Ol' Beedle's glad to see you!"
+69,talk_05,"オゥ！ あなたガ フトコロニ お持ちナノハ……
+ツルギカブト！
+テリーツルギカブトニ目ガナイノデース！
+ヨカッタラ譲ッテ イタダケマセンカー？","Oh! You appear to have a
+bladed rhino beetle.
+
+Beedle loves bladed rhino beetles!
+Would you consider giving it to me?"
+70,talk_06,"ワォ！ あなたノ ポーチニ入ッテイルノハ……
+ヨロイカブト！
+テリーヨロイカブト大好きナノデース！
+ヨカッタラ譲ッテ ホシイデース！","Wow! You have a rugged rhino beetle
+in your inventory!
+
+Beedle just loooooooooves
+rugged rhino beetles! Can I take
+it off your hands?"
+71,talk_07,"モチロン タダデトハ言イマセーン！
+カチコチ薬ト交換デ イカガデスカー？","I'll give you something in return, of
+course. How does a Tough Elixir sound?"
+72,talk_08,"モチロン お返しアリマース！
+代ワリニチカラケモノ肉丼""差シ上ゲマース！","You'd get something in return, of course!
+How about I trade you for this
+meat and rice bowl?"
+73,talk_09,"オヤ？
+あなたガ フトコロニ お持ちナノハ……？
+ソ ソレハガンバリカブト！ メッタニ
+お目ニ カカレナイ レアなカブトデース！
+オ お願いシマース！ガンバリカブト
+テリーに ゼヒ譲ッテ イタダケマセンカー？！","Huh?
+Could that be?
+
+Th-that's an energetic rhino beetle!
+It's a rare beetle you almost never see!
+
+P-p-please! Would you please consider
+giving your energetic rhino beetle
+to Beedle?!"
+74,talk_10,"モチロン お礼アリマース！
+ゴーゴー薬デ イカガデスカー？
+ゴーゴーガエルヲ入レテ煎ジタ
+テリー特製ノ お薬デース！","I would certainly offer you something as
+thanks! How about a hasty elixir?
+
+Yep, just take a hot-footed frog and mix
+it with some monster parts, and BAM—
+you've got yourself a mighty-fine elixir!"
+75,talk_11,ヤァ！ イラッシャイマセー……？,Hey! Welco...
+76,talk_12,"…………ンー？ あなた意外ト ケチン坊デスネー
+モット気前ノイイ若者カト思ッテマシタ……
+イエ イイノデース
+テリーの人ヲ見ル目ガ ナカッタダケデース……","...Oh. And here I thought I knew what
+kind of person you were...
+
+No, it's fine.
+Beedle just isn't a very good judge of
+character, apparently..."
+77,talk_13,"ウオォ！ アリガトウ ゴザイマース！
+あなた見込ンダ通りノ男 デース！！
+今日ハ頂イタカブトヲ ジックリ愛デナガラ
+商売サセテ イタダキマース！","Whooooooa! Thank you so much!
+You're even more awesome than I
+thought you were!
+I will cherish this beetle you have given
+me for the rest of my days."
+78,talk_14,"オゥ…… あなたノポーチガ いっぱいデース
+残念デスガ アキラメマース……","Oh, no... Your inventory is full.
+It's a real shame, but I guess we'll have
+to give up on this for now..."
+79,talk_15,"…………ンー？ コンナお得ナ条件ナノニ……
+あなた何考エテルカ分カリマセーン……
+…………こうなったら馬宿で寝込んでいるところをコッソリ……いや自ら手を汚さずともゴロツキでも雇う方が……ブツブツ……ブツブツ………………オゥ失礼何デモナイデース……
+マタ気ガ向イタラ ヨロシクお願いシマース","...Really? But this is such a good deal...
+and that beetle really wants to be with
+me.
+I just don't understand your thought
+process here...
+
+...Maybe I'll sneak into his inventory and replace it
+with a common beetle while he's not looking.
+He won't know the difference... 
+No, I'll hire someone to do it for me.
+No need to get my hands dirty...Hehehehehe......
+Oh, you're still here? I thought you left.Uh, well let me know if you change your
+mind!"
+80,talk_16,"ウオォ！アリガトウ ゴザイマース！！コレ メッタニお目ニ カカレナインデスヨー！
+キット今日ハ商売繁盛デース！！","Wooooooooow!
+Thank you so much!!You just don't see these very often!
+This has to be a sign..."
+81,talk_17,"サァサァ何ヲお求めニ ナリマスカー？
+ソレトモ何カ売ッテ イタダケマスカー？","What are you looking for?
+Or are you selling?"
+82,talk_18,"ワォ！毎度ドウモ デース！
+先ホドハカブトアリガトウ ゴザイマシター！","Hey! Thanks again for giving me that
+beetle earlier!"
+83,talk_19,"オゥ！ ヤッパリガンバリカブト
+テリーに アゲル気ニ ナリマシタカー？！","Ohhhhhh! So maybe you DO want to give
+Beedle that energetic rhino beetle?!"
+84,talk_20,"ヤヤ！""ツルギカブトヤッパリ
+テリーに クレマスカー？！","Yeah, yeah! So DO you want to give
+Beedle that bladed rhino beetle?!"
+85,talk_21,"アォ！ サテハヨロイカブト
+テリーに アゲル気ニ ナッタノデスネ？！","AHHHH! So DO you want to give Beedle
+that rugged rhino beetle?!"
+86,talk_22,"モチロン タダデトハ言イマセーン！
+マックス薬ト交換デ イカガデスカー？
+マックストカゲヲ入レテ煎ジタ
+テリー特製ノ お薬デース！","Not for free, mind you! How about I trade
+you a hearty elixir for it?
+
+You know, the elixir you get when you
+mix a hearty lizard with some monster
+parts?"
+87,talk_23,"モチロン否トハ言ワセマセーン！
+がんばり薬ト交換デ ドウデショウー？
+ガンバリガニヲ入レテ煎ジタ
+テリー特製ノ お薬デース！","I just can't leave here without that
+beetle! I'll trade you a energizing elixir
+for it!
+Just mix a bright-eyed crab with some
+monster parts, and you've got yourself a
+nice little elixir!"
+88,talk_24,"ココデ迷ッチャウ あなたノタメニ！
+妖精の力水ト交換デ ドウデスカー？
+妖精ヲ入レテ煎ジタ
+テリー特製ノ お薬デース！","And if you're on the fence, I've got just
+the thing for you—a fairy tonic!
+
+Just heat up a little bit of fairy dust, and
+BAM—you've got yourself something
+really special!"
+89,talk_25,ソレデハ改メマシテ……,"Anyway, back to business..."
+90,talk_26,"オゥ！ マタあなたデスネー
+何カ買い忘れデモ シマシタカー？","Oh! It's you again. Was there something
+you forgot to buy?"
+91,talk_27,ワォ！ イツモ お世話ニ ナッテマー……？,"You know, I was just thinking about yo—"
+92,talk_28,"オゥ！""毎度ドウモー……？",Ohh! Thanks for coming to see me.
+93,talk_29,"ヘィ！""今日モ ご機嫌イカガデスカー……？",Hey! How are you feeling toda—
+94,talk_30,"ヤァヤァ イラッシャイマセー！
+先ホドハカブトクレテ感謝感激デース！","Oh, hiiiiiiiiii!
+I am still so thankful for and excited
+about that beetle you gave me earlier!"
+95,talk_31,"マタ見ツケタラ明日ニデモ お願いシマース！
+今日ハ コノ子ダケヲ ジット愛デテマース……","If you find another, please come again
+tomorrow! I'm just going to concentrate
+all my love on this little guy for today..."
+96,talk_32,"イヤッホゥ！テリー感激！デース
+あなた イイ人デース！！
+今日ハ コノカブトヲ ネットリ愛デナガラ
+ハリキッテ商売シヨウト思いマース！","Yahoo! Beedle is so excited!
+You're such a sweetheart!
+
+I'll add this bad boy to my beetle
+collection! Yaaaaaaaaaaaaaay!"
+97,talk_33,"イエェェイ！感謝感激デース！！コレ ナカナカ手ニ入ラナインデスヨー！
+キット本日ハ家内安全デース！！","Yaaaay! I'm so happy right now!This is a really hard beetle to find!
+This is a good omen for sure."
+98,talk_34,"モチロン タダデトハ言イマセーン！
+カチコチ野菜オムレツト交換デ ドウデスカー？","Will you trade it to me for a
+vegetable omelet?"
+99,talk_35,"モチロン お返しアリマース！""代ワリニ
+チカラ薬""差シ上ゲマース！","You'd get something in return, of course!
+How about I give you this mighty elixir?"
+100,talk_36,"毎度アリガトウゴザイマース！
+他ニご用ハ アリマスカー？","Thanks for the business!
+Did you need anything else?"
+101,talk_37,"私 コノ大キナカブトムシノ リュックが
+トレードマークノテリーと申シマース！
+コンナご時世ニモ危険ヲ カエリミズ
+旅シテラッシャル あなたノタメニ！
+私 イチオシノ虫タチヤ
+旅ニ欠カセナイ役立ツ商品ヲ売ッテマース！
+モシルピーニ お困りデシタラ お手元ニアル
+ご不要ナ品ノ買イ取リモ イタシマース！
+宝石トカハ イイ金額ニ ナリマスヨー！
+お持ちデシタラ ガンガンお売りクダサーイ！
+サァサァ あなたハ ドチラニ ナサイマスカー？","The name's Beedle, but you can call
+me— Actually, let's just stick with Beedle.
+
+But even if you forget my face, you can
+remember me by my beetle-shaped
+backpack!
+Despite these dangerous times, you'll
+find me traveling all over Hyrule to fulfill
+your shopping needs.
+I stock many special bugs and must-have
+items for travelers, and I always charge
+a fair price...or my name's not Beedle!
+I also buy all sorts of things, if you're in
+need of rupees. Gemstones in particular
+fetch a high price!
+How can I help you today?"

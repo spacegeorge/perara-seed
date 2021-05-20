@@ -1,0 +1,48 @@
+#,Title,JPja,USen
+1,"""0000""",キノコリゾットのページ,Mushroom risotto.
+2,"""0001""",チキンピラフのページ,Poultry pilaf.
+3,"""0002""",たまごプリンのページ,Egg pudding.
+4,"""0003""",見るのをやめる,Close book.
+5,talk00,アイビーの料理日記,Ivee's Recipe Book
+6,talk01,"今日のレシピ
+キノコリゾット
+用意するものハイラルダケ：数本岩塩：少々
+ハイラル米：1束ヤギのバター：1個
+メモ…ハイラルダケの代わりに
+マックスサーモンを入れても美味しい","Today's Recipe:
+Mushroom Risotto
+Ingredients:
+Hylian Rice (one bundle)
+Goat Butter (one serving)
+Hylian Shrooms (approximately a few)
+Rock Salt (exactly \""a little\"")
+Note: Use a hearty salmon instead of
+Hylian shrooms for a fish-lover's dish!"
+7,talk02,"今日のレシピ
+チキンピラフ
+用意するもの…トリ肉：数本ハイラル米：適量
+トリのタマゴ：数個ヤギのバター：1個
+メモ…多少量を間違えても美味しく仕上がる","Today's Recipe:
+Poultry Pilaf
+Ingredients:
+Raw Bird Drumstick (just toss a few in)
+Raw Bird Drumstick (actually, a few more)
+Goat Butter (measure out \""a little\"")
+Hylian Rice (one \""suitable amount\"")
+Bird Eggs (a few should be fine)
+
+Note: Inaccurate measurements only
+make the dish more de-lish!"
+8,talk03,"今日のデザート
+たまごプリン
+用意するもの…トリのタマゴ：数個
+フレッシュミルク\t：数本きび砂糖：数本
+メモ…きび砂糖を手に入れるのが難しいが
+これを入れないと確実に失敗する…","Today's Recipe:
+Egg Pudding
+Ingredients:
+Bird Eggs (a few should do)
+Fresh Milk (a few bottles)
+Cane Sugar (let's say...several servings)
+Note: Cane sugar can be tough to come
+by, but the dish will fail without it."

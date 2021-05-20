@@ -1,0 +1,322 @@
+#,Title,JPja,USen
+1,"""0001""",料理してみたよ,I cooked something.
+2,"""0002""",コツを教えて,Got any tips?
+3,"""0003""",さようなら,Bye.
+4,"""0004""",食材について,Ingredients?
+5,"""0005""",組み合わせについて,Combinations?
+6,"""0006""",効果について,Effects?
+7,"""1002""",なにしてるの？,What are you doing?
+8,"""1003""",さようなら,Bye.
+9,Bed00,わしのベッドでよければ使うてもよいぞ,"You may use my bed if you need to
+rest a bit."
+10,Bed02,"少し疲れたか？
+わしのベッドでよければ使うてもよいぞ","Are you tired? You may use my bed
+if you need to rest a bit."
+11,Bed03,"そうじゃのう…
+わしのベッドでよければ使うてもよいぞ","Hmm... If you need to take a rest,
+go ahead and use my bed."
+12,Bed04,"働きづめは体に毒じゃ…
+わしのベッドでよければ使うてもよいぞ","Overworking yourself is no good...
+Go ahead and take a rest in my bed
+if you need to."
+13,Bed05,"たき火とは違うて
+疲れた体も休まるはずじゃ","Unlike a fireside nap, sleeping in a
+proper bed should really rejuvenate you."
+14,ClearTerrorEnemy,むう…,Hmm...
+15,Cook00,"なっ… お主 それは？！
+
+わしの考案した究極の料理
+ピリ辛山海焼き ではないか！
+お主… どうして それを…？
+
+…いや それより
+そのレシピは…？","Wait... Is that...
+
+
+That looks just like my signature perfect
+dish, spicy meat and seafood fry!
+
+But how did you—?!
+
+
+Well, I suppose that is not important.
+Can I trouble you to share the recipe?"
+16,Cook01,"ほう ほう
+
+そうじゃった…
+ハイラルバスを入れるのじゃな？
+よかろう！ お主の料理のセンスを認めて
+この防寒着を進呈しよう","Ah, of course! Hyrule bass! How could I
+have forgotten?
+
+Well done! Now, please allow me to
+reward your culinary efforts with
+this warm doublet."
+17,Cook03,"……
+
+さっき お主にくれてやったんじゃったな…
+ど忘れしとったわ
+ふぉっ ふぉっ ふぉっ","Hm?
+
+
+Oh, that's right. I already gave you one,
+didn't I? I had forgotten.
+
+Oho, my mistake!"
+18,Cook04,"ポーチを開いて食材を手に持ったら
+あとは鍋に放り込むだけじゃ","Simply open your inventory, grab hold of
+your ingredients, and toss them in!"
+19,Cook04_Kotsu00,"料理に興味があるようじゃな…
+お主を見込んで少しコツを教えてやろう","Has the art of cooking captured your
+interest? I'm certain you have potential...
+Allow me to give you some pointers."
+20,Cook04_Kotsu01,"さてさて…
+他に知りたいコツは あるかのう？","Now then... Is there anything else I can
+help you with?"
+21,Cook04_Kotsu02,"食えそうな物なら何でも鍋に放り込むがいい
+幸いこの台地には食材は豊富じゃからのう
+使った食材の数が多ければ
+より多くの体力を回復する料理が作れるのじゃ","You can toss in anything edible.
+Thankfully, there are plenty of
+options in this area.
+Just remember that the more ingredients
+you use in a dish, the more health it will
+replenish when you eat it."
+22,Cook04_Kotsu03,"肉などの主菜に副菜を合わせるのが基本じゃ
+ハーブやスパイスを きかせるのもいい
+じゃが…""虫やトカゲといったモノは
+食材と一緒に混ぜてはいかんぞ
+あまり相性がいいとは言えんからのう…","The idea is to mix heartier ingredients,
+like fish and meat, with things like grains
+and vegetables.
+Spices and herbs help too, naturally.
+However... Do not accidentally add in
+things like bugs and lizards.
+Let's just say...they are not compatible.
+In fact, they are quite foul."
+23,Cook04_Kotsu04,"体を温めたり がんばりを増やすなど
+特別な効果を持つ食材もある
+それを具材の一つとして使えば
+ただの料理も効果を持った料理に早変わりじゃ
+それだけじゃないぞ
+
+虫やトカゲを魔物の素材と一緒に煮込むと
+思わぬ効果を得られることもある それが薬じゃ","Certain ingredients have special effects,
+such as temporarily warming you up or
+increasing your stamina.
+If you use them when cooking, even a
+normal dish will be elevated to one with
+a special effect.
+Do note that combining bugs or lizards
+with monster parts may yield some
+unexpected results.
+In fact, that's how you make elixirs!"
+24,Cook05,"まあ食材どうしの相性を考えて
+出来上がりを想像することじゃ
+料理はセンス… センスじゃよ
+ふぉっ ふぉっ ふぉっ","Well, I recommend you consider how the
+ingredients will complement each other.
+
+But don't let convention limit your
+culinary creativity! Oho ho!"
+25,Cook05_Vagrant004,"まあ食材どうしの相性を考えて
+出来上がりを想像することじゃ
+上手くやれば がんばりを補える料理を
+作ることもできるからのう
+料理はセンス… センスじゃよ
+ふぉっ ふぉっ ふぉっ","Try to consider how the ingredients will
+complement one another. You can even
+make a dish that increases your stamina!
+It's all about being creative
+and trying different things.
+Oho ho!"
+26,Cook05_Vagrant005,"まあ食材どうしの相性を考えて
+出来上がりを想像することじゃ
+上手くやれば防寒効果のある料理を
+作ることもできるからのう
+料理はセンス… センスじゃよ
+ふぉっ ふぉっ ふぉっ","Try to consider how the ingredients will
+complement one another.
+
+If you play your cards right, you may
+even end up with a dish that can help
+protect you from extreme cold.
+It's all about being creative and trying
+different things. Oho ho!"
+27,Cook06,"ほう？ それがお主の料理か…
+どれどれ…","Hmm... Let's take a look at what you
+cooked up there, shall we?"
+28,Cook07,"まあまあなセンスじゃが
+料理としては ありきたりじゃな…","Not bad. Certainly not good...
+but not bad either."
+29,Cook08,"失敗は成功のもと とはいうが
+思いのほか センスがよくないのう…","They say failure is a stepping-stone to
+success, right? Perhaps they were
+referring to your culinary shortcomings..."
+30,Cook09,"食材の組み合わせ次第では
+もっと すごい料理が作れるのでな…
+いろいろと試してみることじゃ
+ふぉっ ふぉっ ふぉっ","I encourage you to experiment with some
+different ingredient combinations.
+
+The variety of food one can make out
+here in the wild is quite remarkable.
+Oho ho!"
+31,Cook10,"わしの日記を盗み読んだのは知っておる
+
+あの料理を再現してくれたら
+防寒着を進呈してやろうぞ","In case you were wondering, I know you
+were poking around in my diary.
+
+That said, if you do end up figuring out
+how to create that dish I wrote about,
+my warm doublet is all yours."
+32,Cook11,"ケモノ肉が欲しかったら
+台地の北側にある精霊の森で狩りをするがいい","If it's raw meat you're after, try hunting
+in the Forest of Spirits. You'll find it in
+the northern part of the plateau."
+33,Cook12,"ケモノ肉が欲しかったら
+ここで獲物を狩るがいい","If it's raw meat you're after, try your
+hand at hunting some game here."
+34,Cook13,"ポカポカ草の実じゃったら
+時の神殿跡の近くで見かけた気がするのう","If you're looking for spicy peppers,
+try foraging near the Temple of Time."
+35,Cook14,"あと1つ食材が思い出せんのじゃ
+塔の近くで見つけた気がするんじゃがのう…","I simply cannot remember what the last
+ingredient is. Though I do recall that I
+found it near the tower..."
+36,GoodBye00,祠のお宝楽しみにしておるぞ,"I look forward to seeing what type of
+treasure you secure out there."
+37,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+38,GoodBye02,"むう…
+用もないのに起こすでないぞ","*grumble* Please do not wake me up for
+no reason."
+39,GoodBye03,よろしく頼んだぞ,I'm counting on you.
+40,Hadaka00,え… わしか？！,Isn't it obvious?!
+41,Idou00,"ちょっと そこまで
+木を切りに いくところじゃよ
+邪魔せんといてくれ","I was just about to go cut down a few
+trees over there. We'll have to talk later."
+42,Idou01,"うちに帰るところじゃよ
+お主も来るか？","I'm heading home for the day.
+How about you? All done here?"
+43,Idou02,"うちに帰るところじゃよ
+何も もてなすことはできんが… お主も来るか？","I'm heading home. I can't offer you
+much, other than a solid roof and good
+company, but you're free to join me."
+44,Kikori00,"この木を切り倒してじゃな…
+薪にでもしようかと思うてのう","I thought this tree here might make for
+some good firewood."
+45,Kikori01,"じゃが…""思った方向に切り倒すのは
+なかなか骨が折れる仕事じゃわい
+倒したい方向に きちんと体を向けて
+腰を入れねばならんからのう","However...getting a tree to fall exactly
+where you want it to is quite an art.
+
+The trick is to turn your hips so that they
+face where you want the tree to land."
+46,Kikori02,"ふう…
+だんだん腰が痛うなってきたわ","Phew... Speaking of hips, mine are
+starting to ache."
+47,Kikori03,"お主… よく見たら
+わしのオノを持っておるではないか
+そのオノ好きに使ってもいいから
+木を切るのを手伝うてくれんかのう","So... I see you found my axe. Why not
+help me out and give it a few swings?"
+48,Kikori04,"わしは ちょっと疲れたのでな…
+少し休むとしよう","I'm working up quite a sweat here...
+but these bones could use a break."
+49,Kikori05,"木を切るには オノが必要じゃ
+剣でも切れるが刃がボロボロになってしまうぞ","It's best to use an axe when felling trees.
+A sword works in a pinch, but you'll end
+up ruining the blade."
+50,Kikori06,"たき火にでも あたろうかのう
+ふぉっ ふぉっ ふぉっ",Maybe I'll just sit by the fire for a bit...
+51,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+52,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+53,Near01,ほっ！ はっ！,Hya! Hya!
+54,Near02,Zzz... Zzz...,Zzz...
+55,Near03,……,...
+56,Sleep00,"もう寝るところじゃ…
+すまんが ベッドは使わせてもらうぞ","After a day like this, I'm exhausted.
+*ahem* I'm afraid I'll be needing
+my bed."
+57,Sleep01,"ベッドで休むのは
+わしが使っていないときにしてくれ","You can use my bed if you ever need to
+rest for a bit. Well, assuming I'm not
+already in it, of course!"
+58,Sleep02,"ひまをつぶす なら
+表で たき火に あたるがいい…","There's a fire outside if you're looking to
+pass the time."
+59,Sleep03,"寝てるに決まっとるじゃろう…
+すまんが また明日な…","Bah! Can't you tell when an old man is
+sound asleep? Let's talk in the morning."
+60,Takibi00,"少し疲れたのでな…
+たき火に あたって休憩中じゃ","This body of mine isn't what it used
+to be. Recovering from a bout of
+hard work takes a while..."
+61,Takibi01,"して お主…腹は減っておらんか？
+わしの料理鍋好きに使うてもいいぞ","If you're hungry, I have an empty pot
+you can use to cook yourself a meal."
+62,Takibi02,"料理がしたいなら
+わしの料理鍋好きに使うてもいいぞ","If you're moved by any wild culinary
+inspirations, feel free to cook yourself
+a meal using my pot over there."
+63,Takibi03,"わしの料理鍋なら好きに使うてもいいぞ
+また センスのいい料理を作るがいい","My cooking pot is at your disposal.
+Feel free to make yourself something
+tasty whenever you feel the need."
+64,Talk00,うん？ なんじゃ？,Hm? What is it?
+65,Talk01,"ふぉっ ふぉっ ふぉっ
+また会うたな",Oho! Fancy that! So we meet again.
+66,Talk02,"のう お主…
+いつまで そんな格好でおるつもりじゃ","So...are you making a statement? Or are
+you always in such a state of undress?"
+67,Talk03,どいた どいた,"Pardon me, please."
+68,Talk04,今日も一日働いたのう,I worked quite hard today.
+69,Talk05,"お主が木を切ってくれたおかげで
+今日は もう上がりじゃよ","Thank you for your help with the tree.
+Now my work for the day is complete."
+70,Talk06,"お主…
+どこまで ついてくるつもりじゃ？","I don't mean to sound rude, but...
+how long do you intend to follow me?"
+71,Talk07,"なんじゃ…
+せっかく寝てたというにのう","What is it?! Just when I was finally able
+to fall asleep..."
+72,Talk09,"のう お主…
+そこにおられたら気が散るんじゃが","Yes? I'm a bit busy right now, as I'm
+sure you can see."
+73,Talk10,"ふぉっ ふぉっ ふぉっ
+あったかくて気持ちがいいわい","Oho ho! There are few things as
+delightful as a roaring fire!"
+74,Talk11,"夜は魔物も増えて危ないぞ
+朝まで ここで休んで行くがいい","All manner of beasts come out after
+the sun sets. You may rest here
+until daybreak if you'd like."
+75,Talk14,祠のお宝は まだかの？,"Still haven't gotten a treasure from
+a shrine, eh?"
+76,Talk15,祠の探索 はかどっておるかの？,How is your shrine exploration going?
+77,Talk16,木を切るのを手伝うてくれるんじゃろ？,"Are you just going to stand by and watch
+an old man chop down a tree by himself?"
+78,TalkBokangi00,"なんじゃ…
+せっかく寝てたというにのう","Oh...it's you. Well, what was so important
+that you had to separate an old man from
+his sleep?"
+79,TalkBokangi01,寝てたというに しつこいのう…,"If you'll excuse me, I'm quite tired."
+80,TerrorArrow,何をする！,What is this?!
+81,TerrorBomb,何じゃ？,What is it?!
+82,TerrorEnemy,ひぃーっ！,Whoa!
+83,TerrorExplosion,ぬわーっ！,Huh?!
+84,TerrorFire,あちゃっ,Toasty...
+85,TerrorImpulse,ひぃーっ！,Whoa!
+86,TerrorInsect,ひぃーっ！,Whoa!
+87,TerrorSword,やめんか！,Easy there!
+88,Tree_Cut_Talk00,"ふぉっ ふぉっ ふぉっ
+木を切ってくれたようじゃの","Oho! I see you did my work for me.
+Wonderful!"
+89,Tree_Cut_Talk01,"倒した木は
+薪にでもして持っていくがいい","Go ahead and take some of that wood
+for yourself. Don't be shy, now."

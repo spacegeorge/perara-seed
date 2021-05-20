@@ -1,0 +1,39 @@
+#,Title,JPja,USen
+1,QL_HigakkareMini_RedDragon_Desc,"ヒガッカレ馬宿の西にある力の泉には
+『力の泉に聖なる神具を捧げよ』
+という言い伝えがあるそうだ
+
+果たして聖なる神具とは何だろう？","You learned of a legend that says to offer a
+sacred relic to theSpring of Power, located
+to thewest of East Akkala Stable.
+
+The legend didn't say what thissacred relic
+might be."
+2,QL_HigakkareMini_RedDragon_Finish,"『この力の泉に赤き精霊
+オルドラのウロコを捧げなさい』
+
+女神像の言葉に従い
+力の泉にオルドラのウロコを浮かべると
+古代の祠が現れた
+
+聖なる神具とは オルドラのウロコの事だったようだ","\""Offer Dinraal's scale received from the red spirit
+to the Spring of Power.\""
+
+When you carried out the statue's suggestion
+and dropped Dinraal's scale into the
+Spring of Power, an ancient shrine
+revealed itself.
+
+So the sacred relic was indeed Dinraal's scale..."
+3,QL_HigakkareMini_RedDragon_Name,力の泉の言い伝え,The Spring of Power
+4,QL_HigakkareMini_RedDragon_Step1,"力の泉を見つけ そこで女神様の声を聞いた
+『この力の泉に赤き精霊
+オルドラのウロコを捧げなさい』
+
+神具とはオルドラのウロコの事だろうか？
+そして オルドラとは？","You found theSpring of Power and heard the
+Goddess's voice: \""OfferDinraal's scale received
+from the red spirit to the Spring of Power.\""
+
+Does this mean that the sacred relic is
+Dinraal's scale? Who or what is Dinraal?"

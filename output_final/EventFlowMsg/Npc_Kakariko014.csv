@@ -1,0 +1,245 @@
+#,Title,JPja,USen
+1,"""0000""",オススメは？,Recommendations?
+2,"""0001""",料理したい！,I want to cook!
+3,"""0002""",さようなら,Bye.
+4,"""0006""",買い取って！,I want to sell!
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5502""",買う,I'll buy!
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5504""",何か買う,I wanna buy.
+10,"""5505""",何か売る,I wanna sell.
+11,"""5506""",やめとく,Never mind.
+12,"""5507""",ぜんぶ買う,I'll take 'em all!
+13,"""5508""",ぜんぶ売る,All of them.
+14,Com_Talk_00,どのお品ですかねぇ？,What are you selling?
+15,Com_Talk_01,"でしたら…
+ルピーぐらいですかねぇ…",I can offer  rupees.
+16,Com_Talk_02,"こんな良い品を引き取れるなんて…
+じいさんにも見せてあげませんとねぇ","To think I'd luck into something as neat
+as this... My mister will be pleased too."
+17,Com_Talk_02b,"こんな良いお品を いただいてしまって
+何だか申し訳ないですねぇ","Never thought I'd get my hands
+on something as lovely as this!
+It...it almost feels like stealing!"
+18,Com_Talk_02c,ありがたいことですねぇ,"Well, that's just lovely."
+19,Com_Talk_02d,"ルピーは確かにお渡ししましたよ
+少しは懐が温まりましたかねぇ？","Go ahead and count 'em—the rupees are
+all there. Ahhh, doesn't a tidy bit of
+free trade just warm your heart?"
+20,Com_Talk_04,ほっほ… あせる必要はありませんでねぇ,Heh... No need to rush yourself.
+21,Com_Talk_05,"他にもまだありますかねぇ？
+まぁ ゆっくり選んでくださいな",Anything else? Take your time.
+22,Com_Talk_05b,"他にも何かありましたら
+遠慮なくおっしゃってくださいねぇ","If you need anything else, don't hesitate
+to let me know."
+23,Com_Talk_05c,他はよろしいですかねぇ？,Is that all? Are you sure?
+24,Com_Talk_05d,"急ぐことはありませんで
+他にも何かあれば ゆっくり選んでくださいねぇ","Please don't feel rushed. Take your time,
+and let me know if you need anything."
+25,Com_Talk_13,"それはですが
+おいくつ程になさいますか？",And how many?
+26,Com_Talk_14,"を個…と
+それでしたら…ルピーですかねぇ？","All right, ... That'll be...
+ rupees."
+27,Com_Talk_15,"ごめんなさいねぇ
+それはウチでは扱ってないんですよ",That's not something we can buy here...
+28,Com_Talk_16,せめて脱いできてもらえませんかねぇ…,"Hrm. It would be nice if you could
+remove it first..."
+29,Com_Talk_31,"でよろしいですかねぇ
+おいくつ程になさいますかねぇ？","So then, how many?"
+30,Com_Talk_33,"""お1つなら
+ルピーですねぇ…","Just one comes to...
+ rupees."
+31,Com_Talk_34,"まぁまぁを全部とは
+個全部でルピーでどうでしょう？","Well now, all of them will cost you
+ rupees. Is that OK?"
+32,Com_Talk_35,"を個全てですと
+合計ルピーで如何ですかねぇ？","All of them, eh? I'd say that adds up to
+ rupees. Is that OK?"
+33,Com_Talk_50,"なら
+1つルピーになりますねぇ",So... That'll be  rupees.
+34,Com_Talk_51,"それはですが
+おいくつ程 ご入り用ですかねぇ？",And how many?
+35,Com_Talk_52,"が個なら…
+ルピー頂戴していいですかねぇ？","For ... I'd say  rupees.
+How's that?"
+36,Com_Talk_53,ごゆっくりなさってくださいねぇ,"Well, take your time."
+37,Com_Talk_54,"ごめんなさいねぇ お金はいただかないと
+じいさんに怒られてしまいますでねぇ","Sorry, but my mister will get in a tizzy
+if I give away our stuff for free."
+38,Com_Talk_55,"袋がいっぱいみたいですねぇ
+空きができましたら またお越しくださいな
+もし不要なものがありましたら
+ウチで お買取りもさせていただきますよ","Your pouch seems to be full. Come back
+when you have more space.
+
+If there's anything you don't need,
+I'm happy to buy it off ya."
+39,Com_Talk_56,"がお1つですので
+ルピー頂戴していいですかねぇ…","For one, that'll be  rupees."
+40,Near00,おや いらっしゃい,Welcome!
+41,Near01,ありがたいねぇ～,Wonderful.
+42,Near03,おやおや まあまあ,"Yes, indeed."
+43,Talk04,"ありがとうねぇ
+
+よかったら もっとどうですかねぇ？","Thanks!
+
+
+Hey, while you're here, maybe you
+should take a look around and see
+if there's anything else you want."
+44,Talk05,"あらまぁ…
+なくなってしまいましたか…
+こんな嬉しいことはありませんねぇ
+ありがたい ありがたい…","It can't be... I don't believe it...
+We sold them all?!
+
+Well, that's just dandy!
+I'm so grateful!"
+45,Talk06,"全部売り切れるなんて
+じいさんの喜ぶ顔が目に浮かびますねぇ
+ほんに ありがたいことです
+
+また じいさんに品物を
+とってきてもらわないと いけませんねぇ","All sold out... I can picture my
+mister smiling about it already!
+How very wonderful.
+But this also means...I'll need him to get
+out there and grow some new goods!"
+46,Talk08,"旅のお方ですかねぇ…
+カカリコ村へようこそ
+この辺りは女神様が守ってくれてますでねぇ
+動物も多く植物もよく育つんですよ
+ウチの素材も この地がはぐくんだ
+料理にもってこいの特選品ばかり
+どうぞ手に取って見てくださいな
+それとも他に何かご用ですかのぅ？","Hello, weary traveler... Welcome to
+Kakariko Village! Here we are blessed
+with the protection of the Goddess.
+That's why we have so many healthy,
+happy animals and an abundance of
+fine crops.
+My products are all locally grown, fresh,
+and seasonal. Truly choice goods that
+bring something special to any recipe.
+Go on, grab one! Oh, or are you here for
+something else?"
+47,Talk09,"おやおや いらっしゃい
+何かご用ですかねぇ？",Hello there. Do you need something?
+48,Talk12,"ああ… いらっしゃい
+
+まったく…
+
+じいさんは私のことになると
+周りが見えなくなる タイプでしてねぇ…
+お店が すっからかんなのにも
+気づいてないみたいですねぇ…
+ほんに困ったじいさまですよ
+
+…そこがいいんですけどね
+
+ああ… ごめんなさいねぇ
+
+何か私にご用ですかねぇ？","Oh... Welcome.
+*sigh*
+
+I tell ya, my mister only has eyes
+for me. He loses his focus with
+everything else...
+The shop is completely empty, and he
+doesn't even realize it...
+Whatever shall I do with him?
+Though, I do find it kinda charming...
+
+
+Hm? Oh, I'm sorry...
+Do you need something?"
+49,Talk13,"ああ… いらっしゃい
+
+まったく…
+
+じいさんは私のことになると
+周りが見えなくなる タイプでしてねぇ…
+じいさんのことは気にせず
+遠慮なく お買い物してってくださいな
+それとも私に何かご用ですかねぇ？","Oh... Welcome.
+*sigh*
+
+I tell ya, my mister only has eyes
+for me. He loses his focus with
+everything else...
+Don't mind him. Browse as much as
+you like.
+
+Or do you need something else?"
+50,Talk14,"おススメですか…
+ウチは おススメ品しか置いてないのですが…
+しいて言うならゴーゴーニンジンですかねぇ
+
+カカリコ村の名産でしてねぇ
+ウチのじいさんが作ってるんですよ
+…本当はもう1つの名産品ヨロイカボチャも
+置きたいところなんですけどねぇ…
+ウチのじいさんと カボチャんとこのじいさんが
+仲が悪くてねぇ…
+なのでヨロイカボチャが欲しいんでしたら
+ナーキンさんの畑で分けてもらってくださいな","Recommendations... Let me think...
+Well, everything I sell, really.
+
+But if you want specifics, there's always
+swift carrots. My mister grows 'em.
+They put Kakariko Village on the map.
+Actually...to be honest, there's one
+other crop Kakariko is known for:
+fortified pumpkins.
+I'd sell them here, but you see...
+my mister and the pumpkin farmer—
+they don't exactly get along.
+So if you want fortified pumpkins,
+you'll have to get some straight
+from Olkin's patch."
+51,Talk15,"料理は鍋に食材をいれるだけ…
+
+外にある鍋も いつでもお使いいただいて
+かまいませんからねぇ","Just put some ingredients into a pot and
+cook 'em up good. You can use the one
+outside if you like. Really, I don't mind."
+52,Talk16,また いつでもお立ち寄りくださいな,Stop by anytime.
+53,Talk17,他にも何かご用ですかねぇ？,Do you need something else?
+54,Talk18,"遠出もなかなかできませんものでねぇ…
+
+こうやって色々なものを見せてもらえるだけで
+ほんに ありがたいことです","I don't get to leave this place too often...
+
+
+That said, I really appreciate you
+showing me your exotic wares."
+55,Talk19,"おススメですか…
+ウチは おススメ品しか置いてないのですが…
+しいて言うならゴーゴーニンジンですかねぇ
+
+カカリコ村の名産でしてねぇ
+ウチのじいさんが作ってるんですよ
+今は切らしておりますが じいさんに頼んで
+トビキリのを仕入れておきますでねぇ
+またお越しくださいな","Recommendations... Let me think...
+Well, everything I sell, really.
+
+But if you want specifics, there's always
+swift carrots. My mister grows 'em.
+They put Kakariko Village on the map.
+We're all out of them at the moment,
+but I'll ask him to restock for me.
+Come back soon!"
+56,Talk20,"ウチのは産地直送 とれたてですでねぇ
+おいしいですよ～","All of our produce is freshly picked,
+straight from the field to you.
+So you KNOW it's gonna be tasty."
+57,Talk21,"今が一番新鮮ですでねぇ
+おいしいですよ～","Right now is when everything is at
+its freshest. Better get it while the
+gettin's good!"
+58,Talk22,"ありがとうねぇ
+ウチのじいさんも喜ぶよ","Thanks much. My mister'll be happy
+about this too."

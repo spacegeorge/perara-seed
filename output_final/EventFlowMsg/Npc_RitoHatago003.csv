@@ -1,0 +1,95 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",違います,No way.
+3,"""0002""",アレって？,The...thing?
+4,"""0003""",さようなら,I have to go now.
+5,"""0004""",登った,I climbed it.
+6,"""0005""",まだ,Not yet.
+7,talk_00,"ガーッハッハ！兄ちゃん！！
+
+兄ちゃんも アレすんだろ？！","Gra ha ha! My guy!
+
+
+You're here to do...THE THING, right?"
+8,talk_01,"ああん？！今ので通じたのかぁ？
+兄ちゃん エスパーか何かかぁ？！！","HUH? You actually understood what I
+was sayin'? You got some sorta
+sidekick powers or somethin'?"
+9,talk_02,"そうかぁ！違ったかぁ！
+
+ガーッハッハッハ！！！","Oh, I'm wrong? I'm wrong!
+
+
+OK. Gra ha hah!!"
+10,talk_03,"アレっつったら アレだろォ！
+
+雪""山""登""山！
+
+俺っち この格好で来れるくらい
+寒さには自信あったんだけどよォ！
+リトの村の北にあるヘブラ山脈は…
+うん！ あれは……死ねるね！
+だから兄ちゃんも気をつけな！
+
+ガーッハッハッハ！！","Come on... You know!
+THE THING!
+
+Climbing the snowy mountains!
+
+
+I was confident I could handle the cold,
+so I didn't wear anything special, but the
+Hebra Mountains are REALLY cold!
+Like seriously cold! Cold enough to send
+you to your grave, I'd say! So be careful
+out there, yeah?
+GRA HA HA HA!"
+11,talk_04,つれねぇなぁ～！,Ice cold!
+12,talk_05,俺っち もう……寝るからな！,Welp... I'm gonna get to sleep!
+13,talk_06,"ガーッハッハ！兄ちゃん！！
+
+兄ちゃんはもうヘブラ山脈には登ったかな？","Har har! My guy!
+
+
+Did ya already climb that snowy
+mountain?"
+14,talk_07,"おおお！ よく死ななかったなァ～！！
+
+ってこたァヘブラ山脈の麓にある
+飛行訓練場とか行っちゃったんだろうなァ
+あ～俺っちも行きてェ～！ 
+
+ガーッハッハッハ！！","HURRRR?!
+And you didn't die or nothin'?
+
+I s'pose you made it over to the
+Flight Range at the base of the
+Hebra Mountains too?
+I'll admit it. I'm mighty jealous.
+
+
+Gra ha ha!"
+15,talk_08,"おおお！ じゃあ教えてやんよォ～！
+
+ヘブラ山脈の麓にはリト族のための
+飛行訓練場って言う遊び場があるらしいぜェ！
+あ～俺っちも遊びてェ～！
+
+ガーッハッハッハ！！","Ah, then I'll let you in on a little
+somethin'!
+
+I hear there's a little play area for the
+Rito people at the base of the
+Hebra Mountains.
+It's called the Flight Range.
+Man, I wanna go play there!Gra ha ha!"
+16,talk_09,"ガーッハッハ！ また兄ちゃんか！！
+
+結局 アレしに来たんだろ？！ アレ！","Gra ha! Well look who it is!
+
+
+So you're here to do that thing, right?
+You know what I'm talkin' 'bout!"
+17,talk_10,今日も一日頑張ろーっと！,"Well, another day, another challenge!"
+18,talk_11,ズカァー… ズカァー…,Zzzhaha... Zzzhaha...
+19,talk_12,よぉ !兄ちゃん,"Hey hey, my guy!"

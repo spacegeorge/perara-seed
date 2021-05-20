@@ -1,0 +1,465 @@
+#,Title,JPja,USen
+1,"""0000""",それは…,And that is...
+2,"""0001""",そうです,That's right.
+3,"""0002""",望むところだ！,I'm ready.
+4,"""0003""",やめとく,Never mind.
+5,"""0004""",はい,Yes.
+6,"""0005""",ヒント教えて,Any pointers?
+7,"""0006""",いいえ,No.
+8,"""0007""",その通り,Hundreds of them.
+9,"""0010""",作戦は？,What's the plan?
+10,"""0012""",リンクです,I'm Link.
+11,"""0015""",神獣 ヴァ・メドーを…,Vah Medoh...
+12,"""0016""",さようなら,Bye.
+13,"""0017""",ええ…,Actually...
+14,"""0018""",少しは,I've seen a few.
+15,"""0019""",オッケー！,I'm ready.
+16,"""0020""",ちょっと待って,Wait a second.
+17,"""0022""",分かってます,Then let's get started.
+18,"""0024""",手伝います！,I can help you.
+19,"""0025""",ゼルダを救うため,To rescue Zelda.
+20,"""0026""",村を救いたい,To save Rito Village.
+21,"""0027""",見ちゃいられない,I can't just watch...
+22,"""0028""",なんとなく,Just because.
+23,"""0029""",準備って？,Preparations?
+24,near00,ハァ… ハァ…,*pant...pant*
+25,near01,……,...
+26,talk00,"ほぅ… こんな寒い所で素っ裸とはな
+
+ともかく俺は忙しいんだ邪魔しないでくれ","Huh... It's not every day you see topless
+Hylians around these parts.
+
+Anyway, I'm busy. Go away."
+27,talk01,フン…,Hmph...
+28,talk02,"でリンクさんよ
+
+ウチの族長に会ってるって事は
+俺を連れ戻しに来たんだろ？
+全く…族長のお人好しにも参ったもんだ
+
+どうせメドーにやられて怪我する前に
+連れ帰って欲しいとか言われたんだろ
+残念だが…
+俺は ここを動くつもりは無いからな
+俺だって リトの戦士の端くれ
+仲間がやられて おめおめ帰る訳にはいかねぇさ
+…しかしな""一つだけ
+俺をリトの村に帰らせる方法があるぜ
+それは神獣 ヴァ・メドーが沈黙し
+ヤツが空から消えた時… つまり","Well, Link. I'm Teba.
+But you already knew that.
+
+I'm guessing the elder asked you to
+come here and talk some sense into me.
+Am I right?
+Just like the elder to trust any fool wandering into
+town.
+
+Look—you seem like an all-right guy,
+but let's make one thing clear:
+I'm not going anywhere.
+As a Rito warrior, I can't rest until my
+people are safe.
+
+There's only one way I'm going back to
+Rito Village.
+
+Once Divine Beast Vah Medoh falls from
+the sky."
+29,talk03,"神獣 ヴァ・メドーを ぶっ潰す…
+
+それが今すぐ達成できりゃ
+村に帰ってやってもいいぜ？","If I have to kill Medoh...so be it.
+
+
+Only then will I return to the village."
+30,talk05,"…何か用か？""俺は忙しいんだ","...Did you need something?
+I'm busy here."
+31,talk06,"手伝います？何を？
+
+…待て
+
+神獣 ヴァ・メドーを知る客人か…
+さては族長や妻の仕業だな？
+だとしたら俺の事も聞いているだろう？
+俺が テバだ
+客人の名を聞いておこうか
+
+フム…リンク…
+どこかで聞いたような名だな","Help me? With what exactly?
+
+
+Let me get this straight...
+
+
+Some random Hylian wants to help me
+bring down Divine Beast Vah Medoh?
+I'm not buying it.
+What's your name, stranger?
+
+
+Link, huh?"
+32,talk07,"分かってます？
+
+ハハッ！
+俺の性格まで村のヤツらに教えられたか！
+…でもな族長が言ってたぜ
+
+神獣 ヴァ・メドーを本当に止めるには
+ヤツの内部に入らないと ダメだってな
+まさか おまえ…
+メドーの中に入れるとか？","Are you serious?
+
+
+HA! Well, far be it from me to talk you
+off the ledge.
+
+But it's as the elder said: the only way
+to stop Divine Beast Vah Medoh is to
+get inside it.
+Fat chance of that happening. There's no
+way we can set foot in Medoh."
+33,talk08,"じゃ行け
+矢で的を5個だぞ","Then go destroy five targets with your
+arrows."
+34,talk09,"フン…""臆したか","Hmph... Cold feet, huh?"
+35,talk10,"すまなかった リンク…
+俺はおまえを勘違いしていたようだ
+あの弓捌き
+かなりの修羅場を くぐって来たんだろ？","I've got to tell you, Link...
+When you first showed up, I thought
+someone was pulling a prank on me.
+But after seeing you handle that bow,
+I can tell you're the real deal. You must
+have seen a battle or two."
+36,talk11,"おいおい… そうは言うものの
+バクダン矢を持ってないじゃないか
+メドーに挑むなら 
+10本以上は用意した方がいいと思うぜ","It's great that you've made your peace,
+but you don't have any bomb arrows.
+
+To face off against Medoh, you're going
+to need at least 10 bomb arrows...
+probably more."
+37,talk12,"おいおい… そうは言うものの
+矢が足りないんじゃないか？
+単純計算で的を５コ壊すなら
+矢は５本は必要だろ？","Oh, geez. You think you're ready?
+You don't even have enough arrows!
+
+Simple math says you need at least five
+arrows to hit five targets, right?
+We're so doomed."
+38,talk14,"どうしたリンクさんとやら
+おまえの腕前を見せてもらおうか","Link, was it? Why don't you show me
+what you're made of?"
+39,talk15,"場外だ！""一旦戻って来い！",Out of bounds! Back to the start!
+40,talk16,どうした？ もう やめるのか？,What? Quitting already?
+41,talk17,フン… その程度か…,Figures...
+42,talk18,よし OKだ！戻って来い！,OK! Come on back!
+43,talk19,"矢が無くなったか？
+一旦戻って来い！","Out of arrows?
+Come on back!"
+44,talk20,"弓が無くなったか？！
+一旦戻って来い！","You ran out of BOWS?!
+Pshhh... Come on back."
+45,talk22,"ハハッ！メドーに到達するための翼も無い上に
+無知ときたか！
+じゃあ教えてやろう
+
+神獣の中に入れるのは 100年前に実在した
+英傑と呼ばれる 5人だけだ
+そして その英傑様は全員
+その当時に亡くなっている
+ガノンの手によってな
+
+…まぁいい
+
+とにかくメドーに入れようが入れまいが
+ヤツを黙らせる事ができれば それでいい
+ただな…無暗にメドーに近づくと
+ヤツの砲台の餌食になるだけだぜ
+なので試させてもらう","So not only are you wingless...you're
+brainless too.
+
+Let me fill you in—the only people able
+to enter the Divine Beasts are the five
+Champions of old.
+And unfortunately for us and the rest of
+Hyrule, they all died a hundred years
+ago.
+If it hadn't been for Ganon...
+
+
+Never mind. Let's focus on bringing
+down Medoh...one step at a time.
+
+If we approach Medoh recklessly, its
+cannons will blast us out of the sky
+before we even get close.
+...So I'm going to need to test you
+before I take you with me."
+46,talk23,分かってんなら行きな,Bye.
+47,talk24,"メドーの砲台を ぶっ壊すための
+バクダン矢を忘れるな
+それと上空はここよりも寒い
+寒さ対策も忘れるなよ
+リトの村ならバクダン矢も
+耐寒用の装備も売っている
+耐寒装備が無けりゃ そこの鍋で
+温かい料理でも作って持って行く事だな","Don't forget bomb arrows. You'll need
+them to destroy Medoh's cannons.
+
+Also, it's cold up there. You'll need
+something to keep warm.
+
+If you haven't already, think about
+some warm clothes from Rito Village.
+
+Or cook something to keep yourself warm
+using that pot over there. Your call."
+48,talk25,じゃあ おまえの腕前見せてもらおうか,Are you ready to be tested?
+49,talk26,"フン… それじゃあ神獣 ヴァ・メドーは潰せねぇ
+挑戦したくなったら また来るがいい","Hmph... Shouldn't have gotten my hopes
+up. Come back once you're serious about
+bringing down Divine Beast Vah Medoh."
+50,talk27,時間切れだ！戻って来い！,Time's up. Come on back.
+51,talk28,"…その勢いは認めてやるが
+弓を持ってないじゃないか
+弓くらいは自分で調達して来るんだな","...I appreciate your enthusiasm, but 
+enthusiasm can't shoot arrows.
+Come back once you find yourself a bow."
+52,talk29,"バクダン矢ならリトの村でも売ってるはずだ
+
+買うのがイヤなら どっかで拾って来るこったな","If you need bomb arrows, they sell them
+in Rito Village. Or if you're on a budget,
+you could find some lying around."
+53,talk32,"いよいよ神獣 ヴァ・メドーを止めに行く
+
+砲台は普通の矢じゃ歯が立たねぇ
+だからバクダン矢で ぶっ壊すんだ","OK, it's time to face
+Divine Beast Vah Medoh.
+
+Normal arrows won't put a dent in those
+cannons. You'll need to hit them with
+bomb arrows."
+54,talk33,"メドーの攻撃は俺が引き付ける
+その間に おまえはヤツの砲台を壊すんだ
+砲台は合計４つ
+本体はバリアで包まれてるから狙うだけ無駄だ
+とりあえず砲台を全部ぶっ壊してくれ
+話はそれからだ","I'll draw Medoh's fire. That'll be your
+chance to destroy its cannons.
+
+There are four cannons total.
+The main body is protected by a barrier,
+so there's no use attacking it.
+Just focus on taking out all the cannons.
+We'll talk next steps once that's done."
+55,talk35,"…おいおい弓を持ってないじゃないか
+待っててやるから早く調達して来いよ","Hold it. You don't have a bow.
+Hurry up and find one."
+56,talk38,"さぁ神獣 ヴァ・メドーを止めに行くぜ
+寒さ対策とバクダン矢の準備はいいか？？","OK. It's time to face
+Divine Beast Vah Medoh.
+
+Can you handle the cold up there?
+Do you have enough bomb arrows?"
+57,talk40,"弓が無くなったのか？！
+一旦引き返すぞ！","You ran out of bows?!
+Urgh... We'll have to retreat for now."
+58,talk41,"バクダン矢が無くなったのか？！
+一旦引き返すぞ！","You're out of bomb arrows?!
+RETREAT!"
+59,talk42,"神獣 ヴァ・メドー…
+ただデカいだけじゃなさそうだ
+準備が整ったら また声をかけてくれ","We'll have to worry about more than just
+Divine Beast Vah Medoh's size.
+
+Talk to me again when you're ready."
+60,talk43,"フン… その格好はともかく
+弓の腕は確かなようだな","Hmm... I'm not sure about your fashion
+sense, but you're certainly a fine archer."
+61,talk44,"リンクか…""気に入ったぜ
+
+今度はこっちが お願いする番だ
+俺に ついて来てくれ
+そしてメドーへ…
+ヤツの砲台へ渾身の一撃を ブっ放してくれ
+…そうだ そこの宝箱に
+俺が調整した弓が入っている持って行きな
+準備ができたら声をかけてくれ","Link... I feel I've heard the name
+somewhere before...
+
+Well, if you really want to help me bring
+down Medoh, it's now or never.
+
+I'll get you into position so you can give
+its cannons all you've got.
+
+Inside that treasure chest is a bow I've
+modified. Take it, and let me know when
+you're ready."
+62,talk46,さぁ準備ができたら行くぞ,We can go whenever you're ready.
+63,talk47,だろうな…,I believe it.
+64,talk48,謙遜するな見りゃ分かるさ,"Don't be modest. I can tell just looking
+at you."
+65,talk49,"おまえ…相当な弓使いだな
+矢を放つ瞬間時間が止まっているようだったぜ","You're...a skilled archer. It was as if time
+stopped with every arrow you let fly."
+66,talk50,"ほぅ… なかなかやるじゃないか
+ただのハイリア人ではなさそうだな",Hmm... Not bad at all...for a Hylian. 
+67,talk51,手こずったようだが なかなかの腕だ,"A bit iffy at times, but you did well
+enough."
+68,talk56,フム…,Hmph...
+69,talk60,"よし…
+
+だが その前に一つ俺から質問させてくれ
+
+リンク…おまえは なぜそこまでして
+メドー討伐に協力してくれるんだ？","All right. But let me ask you something.
+
+
+Why are you doing this?
+Why risk your life to bring down Medoh?"
+70,talk61,まぁいい…,That's fair enough...
+71,talk62,"…フン これは俺一人の問題だ
+部外者にゃ関係ねぇ","Hmph... This is a Rito problem.
+It's not your concern."
+72,talk63,"俺達リトの戦士は この谷の上昇気流を利用して
+空中戦を想定した弓矢の訓練をする
+ここの上昇気流は頭上で布を開くだけで
+人一人が簡単に浮かぶくらい凄まじい
+だから おまえが リトの訓練法で
+どこまでできるか見せてもらおう
+宙を舞いながら この谷に仕掛けてある
+的を5個""3分以内に壊してみろ","We Rito warriors use the updraft in this
+ravine to hone our aerial archery skills.
+
+The updrafts are so strong here that a
+person could just open up a cloth over
+their head and float up easily.
+Now let's see what you're capable of.
+
+
+You'll have to maneuver through the
+air and destroy five of the targets set up
+in this valley in three minutes."
+73,talk64,"弓の使い方は空中でも同じだ
+
+当然弓も長距離を狙える物の方が
+いいだろうな
+矢で3分以内に的を5個壊す…
+これくらいできないとメドーには対抗できない","Using a bow in midair is just like using a
+bow on the ground.
+
+But you'll probably want a bow suited
+for long-range engagement.
+
+Use your arrows to destroy five targets
+in three minutes. If you can't do that,
+you don't stand a chance against Medoh."
+74,talk65,"おまえか…
+俺とした事が情けねぇ","You...
+I can't believe it got me..."
+75,talk66,"すまねぇが脚が動かねぇんだ
+よりによって こんな時に…","I can't move my leg.
+And at a time like this...
+Sorry."
+76,talk67,"脚は動かねぇしバクダン矢も尽きた
+万事休すか…","Can't move my leg, and I'm all out of
+bomb arrows. There's nothing more I
+can do..."
+77,talk68,"すまねぇが俺はここで治療に専念する
+
+このまま黙って村に帰るワケには
+いかねぇだろ…","Sorry, but I'm going to stay here
+and heal up a bit.
+
+I can't go back to the village like this..."
+78,talk70,"脚の傷は思ったより深そうだ
+
+もう少しで神獣 ヴァ・メドーを
+止められるってのに… チクショウ！","My leg is in worse shape than I thought.
+
+
+And I was so close to stopping
+Divine Beast Vah Medoh...
+Dammit!"
+79,talk71,"ゼルダ…？
+
+100年前の村の英傑 リーバル様がお仕えした
+ハイラル城の姫様と同じ名前だな
+その人と今の神獣 ヴァ・メドーが
+どう関係あるのかは知らねぇ
+理由はどうあれ リンクは俺と一緒に
+メドーをぶっ潰してくれるそうだろ？","Zelda?
+
+
+But that's the name of the princess 
+Revali served 100 years ago at 
+Hyrule Castle.
+I don't know what she has to do with
+Divine Beast Vah Medoh, but whatever.
+
+As long as you're helping me bring down
+Medoh, your motivation is fine by me."
+80,talk72,"俺達の村を…？
+救ったところで何も出んぜ
+言っておくが間近でメドーを見て
+「やーめた」は無しだぜ","Rito Village? It's not like you'll get
+the keys to the village, you know.
+
+Well, that's nice...but no changing your
+mind once you get up there and see
+Medoh up close."
+81,talk73,"見ちゃいられない？
+
+伝統ある リトの戦士も
+見くびられたもんだぜ…","You can't just sit and watch innocent
+people be terrorized?
+
+Then imagine how I feel as a proud
+Rito warrior..."
+82,talk74,"なんとなくだと？
+
+フフッ…
+命が賭かっていると言うのに物好きなヤツだ","Just...because?
+
+
+Ha! You must be off your rocker to be
+risking your life on a whim...but I'm not
+complaining."
+83,talk75,"貴重なもんだから今回だけしかやれねぇが…
+このバクダン矢を持って行け","These are a precious commodity, so
+don't expect me to do this again, but...
+take these bomb arrows."
+84,talk77,バクダン矢を忘れるなよ,Don't forget the bomb arrows...
+85,talk78,"それと上空はクソ寒い
+
+寒さ対策や食べ物の準備は
+できてるんだろうな？","Also, it'll be cold up there.
+
+
+You'll want to prepare a warm meal or
+bring some warm clothes."
+86,talk79,"おいおい… そうは言うものの
+矢を持ってないじゃないか
+単純計算で的を５コ壊すなら
+矢は５本は必要だろ？
+調達してから また来る事だな","Are you serious? You don't have enough
+arrows!
+
+If you want to break five targets, you're 
+going to need at least five arrows. 
+It's simple math."
+87,talk80,"おいおい… そうは言うものの
+バクダン矢が足りないんじゃないか
+メドーに挑むなら 
+10本以上は用意した方がいいと思うぜ","Really? You don't even have enough
+bomb arrows!
+
+You'll need at least 10 of them to take
+on Medoh."
+88,talk81,"…よしそろそろ行くぞ
+乗りな",...Right. Get on.

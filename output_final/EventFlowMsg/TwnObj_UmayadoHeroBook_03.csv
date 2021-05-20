@@ -1,0 +1,248 @@
+#,Title,JPja,USen
+1,"""0001""",読まない,Don't read.
+2,"""0002""",次のページ,Next page.
+3,"""0003""",前のページ,Previous page.
+4,"""0004""",やめる,Stop reading.
+5,"""0005""",最初のページ,First page.
+6,"""0006""",最後のページ,Last page.
+7,Book00,"リーバルの日記""を読みますか？","Read The Diary of Revali,
+the Rito Legend?"
+8,Book01,"今日行われた弓術大会で また優勝した
+村では僕の連勝記録の話で持ち切りだ
+ぶっちぎりの成績と新記録の樹立
+リト族の誇りとも讃えられ悪い気はしない
+族長から優勝の褒美を聞かれたので
+弓の訓練場が欲しいと言っておいた
+今の僕には上下の落差を訓練できる場所が
+必要だ… あの技を完成させるためにも","I won another archery competition today.
+As one would expect, the village can't
+stop talking about my winning streak.
+In short order, I've managed to break
+all of the previous records and set an
+insurmountably high bar.
+Everywhere I go I receive praise and
+affirmations that I am the pride of
+the Rito. I...could get used to this.
+The elder asked me what I would like as
+a prize for my achievements. I told him
+I wish for an archery training ground.
+If I am to keep this up, I need somewhere
+to train at varying elevations. I'm hoping
+to master a new move I've dreamed up..."
+9,Book02,"今日も一日弓の鍛錬に励んだ
+急降下からの上昇に まだキレが足りない
+明日も訓練場に行こう…
+あそこで もっと上手く強くなるんだ
+訓練場には僕に憧れてる子供達も来たいと
+言ってるそうだ…皆の修行場にしてもいいかな
+明日は気になってる事を試してみよう
+あそこの上昇気流… あれを自在に作れたら…","I keep pushing my archery skills to the
+limit. My dive is ideal, but the ensuing
+ascent is not as smooth as I wish it was.
+I must return to the Flight Range again
+tomorrow. There, I will become stronger.
+Better. I won't rest until I succeed.
+The Rito children look up to me.
+I hear they wish to start training
+at the Flight Range too.
+Perhaps it's not a bad idea to allow
+everyone to use my training space.
+These are dangerous times, after all.
+Tomorrow I will try a new strategy I've
+been devising to control the updraft.
+I refuse to believe it's impossible."
+10,Book03,"どうもキナ臭い噂話ばかり耳に入ってくる…
+厄災ガノンとやらが復活するとかしないとか
+何年か前 メドーって遺物が掘り起こされて
+噂になったけど あれはガノンと戦うモノらしい
+ハイラル王国は あれの繰り手を捜してるという
+…けど誰にでも扱えるってモノじゃないそうだ
+神獣を操るには強力な聖なる力が必要だという
+…操れれば そいつは強い力の持ち主ってわけだ
+やってやるのも悪くない…神獣を操って
+厄災を倒せば この力を世界に示す事が出来る","There is a persistent rumor in town
+that Calamity Ganon's resurrection is
+imminent. It can't be true... Right?
+A few years ago, scientists dug up an
+ancient mechanical beast called Medoh.
+It was supposedly used to fight Ganon.
+Hyrule's royal family is in search of
+someone to pilot the beast. They say to
+do so requires something beyond skill.
+They say one's soul must contain an
+incredible sacred power for a Divine
+Beast to recognize them as master.
+They should have just asked for me
+by name.
+
+To control the Divine Beast and defeat
+the Calamity...would finally allow me to
+prove myself to the world."
+11,Book04,"ハイラルの姫が神獣に乗ってくれと頼んできた
+けど詳しく話を聴いてみれば実にふざけた話だ
+神獣は援護の為に使うもので厄災と戦う主役は
+ハイリア人の何とかという騎士らしい
+馬鹿馬鹿しい どうして そいつを支える
+脇役を やらなきゃいけないんだ？
+即座に断ってやろうと思った時
+ハイラルの姫が こんな事を言った
+「この大地に棲む生きとし生ける者全てを
+厄災の魔の手から護らなければなりません…」
+こんな恥ずかしい事を言える奴を僕は初めて
+見た… けど姫の顔は真剣そのものだった
+…ハイリア人ってのは自分の事しか考えないと
+思ってたけど あんなのもいるんだな
+姫に免じ返事は保留にしてやる事にした","Hyrule's princess stopped dawdling and
+asked me to pilot the Divine Beast.
+I asked what our plan is.
+I wish I hadn't. It is completely absurd.
+
+
+The Divine Beasts are little more than
+backup for some Hylian knight who has
+the honor of fighting Calamity Ganon.
+ME! A sidekick! I thought of declining,
+but then she looked me dead in the eye
+and held my gaze as she said...
+\""We must protect the precious life of
+this land from the Calamity's grasp at
+all costs. Hyrule needs you, Revali.\""
+It was so corny, I almost died.
+But I won't soon forget the look in her
+eyes. She meant it with all of her heart.
+I thought Hylians only thought of
+themselves, but I suppose there's
+an exception to every rule.
+I'm going to accept, of course.
+But out of self-respect, I'm going
+to let her sweat it out a bit longer."
+12,Book05,"明日 ハイラルの姫が返事を訊きにやって来る…
+この話受けるつもりだ
+あと一歩で あの技を完成させられる
+皆が あれを目の当たりにすれば…
+誰だって厄災と戦うべきは何とかという名の
+騎士じゃなく このリーバルだと思い直す筈だ
+ハイラルの王や姫… それにその騎士自身が
+僕に ひれ伏してお願いする姿が目に浮かぶな
+「リトの戦士リーバル様 どうか神獣の繰り手も
+厄災ガノンの討伐も お頼み致します」って","Hyrule's princess is coming by to ask
+for my answer tomorrow. She will surely
+be overcome with joy when I accept.
+And her timing is exceptional. I am close.
+So close to mastering my new move and
+showing everyone what I'm capable of.
+When they see it, they'll know without
+doubt it should be ME fighting Ganon
+instead of that pathetic knight.
+I can see it now. The king and princess...
+AND the knight...all on their knees,
+begging me to defeat Ganon for them.
+They'll say, \""Please, Master Revali!
+Please use your otherworldly skills
+and intellect to defeat Calamity Ganon!\""
+I look forward to that day."
+13,Book06,"ハイラル城で叙任式に参加し英傑なんて
+たいそうな称号をもらった
+名前や恰好で強くなれるなら苦労はないが
+まあ この青のスカーフは ちょっと気に入った
+あの無口でイケ好かない騎士は今日もずっと
+無表情だった… あいつは何を考えているのやら
+確かに あいつの腕が立つのは見ればわかる
+子供の頃大人の騎士に全勝って話も本当だろう
+でも僕には敵わない…
+あの動きに ついてこれる奴なんていない
+ああ そうだ… あの技に名前を付けなくちゃな
+何が良いかな… リーバル…タイフーン？","I journeyed to Hyrule Castle for an
+inauguration ceremony. I now bear
+the grand title of \""Champion.\""
+Meaningless pomp, if you ask me. If true
+strength relied only on title and uniform,
+everyone would be a Champion.
+I do like the blue scarf, though...
+
+
+That annoyingly silent knight was as
+emotionless as usual. I can never tell
+what's on his mind. Likely nothing at all.
+Somehow I can't help but believe the
+stories about him beating adult knights
+in swordplay when he was only a child.
+Still, he doesn't stand a chance against
+me. There is no one alive who can
+keep up with my aerial combat.
+That reminds me. It's about time I came
+up with a fitting name for that new move
+I created.
+What kind of name would be worthy?
+Revali's...something. Tornado?
+Whirlwind? Masterpiece? Hmm."
+14,Book07,"今日 あの騎士が
+村に公用で訪れた姫についてやってきた
+姫と族長が話してる間声をかけたが
+あいつは相変わらずで面白くもなんともない
+完成したばかりの大技 リーバルタイフーン改め
+リーバルの猛りを披露してやったが反応は無し
+こっちも まだまだ成功率の低いなか無理して
+みせてやったのに…
+もしかして こいつは何も分かってないのか？
+そう思って挑発してみたけど やっぱり反応無し
+張り合いが無さ過ぎて馬鹿馬鹿しくなって
+メドーに引き揚げてきた…何なんだ あいつは","The princess came to the village on
+official business, along with her shadow,
+that insufferable knight.
+I tried to talk to him while the princess
+met with the elder, but he was his usual
+quiet self. Why do people like him so?
+I also gave him the privilege of seeing
+me perform Revali's Gale. Nothing.
+No reaction at all to my impressive feat.
+I showed it to him even knowing there
+was a chance of failure, since it's still
+so new. He must truly be slow-witted.
+I tried to provoke him into facing me,
+but to no avail. It's like talking to
+a stone.
+Our interactions were a waste of time,
+so I flew off to find solace with Medoh.
+
+What's wrong with that guy?"
+15,Book08,"明日 ハイラルの姫をラネールに送っていくって
+連絡を ダルケルから受けた
+朝早くに麓まで見送って日の暮れに
+山から戻って来る姫と あいつを出迎えるという
+どうしてそんな面倒に付き合わなきゃいけない？
+そう思ったが ふとあの姫の顔が浮かんできた
+神獣に乗って欲しいと頼みに来た時 あの姫は
+使命を果たせない焦りで必死だったんだろうな
+才能の無い人間の苦悩なんて正直分からないが
+あの姫の努力してる姿は… まあ嫌いじゃない
+そうだな…見送りは流石に行かないが
+夕方ひとっ飛びして出迎えだけはしてやるか
+…もしかしたら封印の力って奴に
+目覚めてるかもしれないしな","Daruk informed me that we have been
+asked to escort the princess to Lanayru.
+
+We're to see the princess off at dawn at
+the mountain's base and meet her there
+when she returns at sunset.
+Must I participate in this nonsense?
+Though...I still remember that look
+on the princess's face.
+When she asked me to pilot the Divine
+Beast, she was not only determined...
+she seemed desperate.
+She's aware she can't fulfill her
+sacred duties, and anyone can
+see how it weighs on her.
+It's difficult for me to comprehend
+the troubles of the talentless, but...
+I'm trying.
+It's not that I dislike the princess.
+She tries her hardest. It's simply
+not good enough.
+No, I don't think I can spare the time to
+send her off in the morning, but perhaps
+I will fly over to greet her at sunset.
+Perhaps that alleged \""sealing power\""
+will show her some mercy and finally
+awaken this time."

@@ -1,0 +1,175 @@
+#,Title,JPja,USen
+1,"""0000""",ぜひ貸してください！,Yes! Lend it to me!
+2,"""0001""",やめておきます,Never mind...
+3,"""0002""",ほしい,I want it!
+4,"""0003""",ほしくない,I don't need it.
+5,"""0004""",ルージュ…,Riju...
+6,"""0005""",さよなら,Good-bye.
+7,Near01,ふふっ…,Hm hm hm...
+8,Talk00,"待て！ それは我が国の宝雷鳴の兜！
+
+いくらお前と言えども
+気安く触れることは…","Halt! That is the treasure of the
+Gerudo, the Thunder Helm!
+
+You may be held in high esteem, but this
+does not give you the freedom to lay
+your hands on the pride of our people."
+9,Talk01,まあ落ち着けビューラ,"Becalm yourself, Buliara."
+10,Talk02,"そうか… しかしいくらお前が恩人でも
+これだけはくれてやることはできんのだ
+……だが
+お前が立ち向かおうとしている相手は
+ウルボザ様の敵…
+
+お前が心から望むなら
+貸してやらんこともないぞ…","I see... And yet, despite the great debt
+we owe you, I cannot just give such a
+precious thing to you.
+...But you ARE up against the enemy of
+Lady Urbosa...
+
+And if you truly desire it, then perhaps
+I can lend it to you..."
+11,Talk03,"ではお前の本気を見せてもらおうか
+
+この兜はこの国の宝
+民からの信頼も得てもらいたい
+悩みをもつ民をすべて救い
+この街に紛うことなき平穏をもたらしてみよ","Well then, let's see how serious you are.
+This helm is a cultural treasure. To earn
+it, you must gain the trust of our people.
+I want you to address their concerns and
+bring a resolute peace to our town."
+12,Talk04,"この雷鳴の兜は我が国の宝…
+触れたければ覚悟を持って訪れよ","This Thunder Helm is our cultural
+treasure...
+
+If you want to lay hands on it, you must
+show us you are serious and come back."
+13,Talk05,"雷鳴の兜を身につけ お前と共に戦った時
+名前を呼ばれた気がしたんだ
+ルージュとな…
+
+ふふっ…
+この名前で呼ばれたのは久々よ
+あの力強く温かく包みこむような声の主は
+ウルボザ様だったのかもしれないな…","When I wore the Thunder Helm and
+fought along your side, I thought I heard
+a name called out on the wind. Riju...
+Heh... I hadn't been called by that name
+in a while. That strong, warm voice...
+It must have belonged to Urbosa..."
+14,Talk06,"お前の働きはわらわの耳にも入っておるぞ
+民に笑顔を取り戻してくれたようだな…
+長として改めて礼を言わせてもらう
+
+サークサーク
+
+お前は我らゲルド族の友だ！
+
+友の危機を救えるのであれば
+喜んで神器を預けようぞ","I have heard of your recent actions.
+You have returned smiles to the faces of
+my people...
+On behalf of all Gerudo, I must offer you
+my heartfelt thanks.
+
+Sarqso.
+
+
+You are, from this moment on, a true
+friend of the Gerudo!
+
+And if it can help a true friend in need,
+we will gladly lend you this sacred
+treasure."
+15,Talk07,"お前ならこの雷鳴の兜を…ウルボザ様の力を
+誰よりも使いこなしてくれると信じているぞ","I know that you, more than any other,
+will be able to use this Thunder Helm to
+its fullest potential...
+I believe you can unlock the power of
+Urbosa that lies within."
+16,Talk08,"お前の力は確かなものだ…
+しかし力だけでは民は救えぬぞ","We already know that you are powerful.
+But you can't solve all of my people's
+problems with power alone."
+17,Talk09,なら近づかんでもらいたいな！,Then come no closer!
+18,Talk10,お前… この兜がほしいのか？,You...desire this helm?
+19,Talk11,"この雷鳴の兜がそんなに気になるか？
+
+まぁ そうだろうな… これはウルボザ様の力を
+受け継いだ特別な兜
+しかし いくらお前が恩人でも
+これだけは くれてやることはできんのだ
+……だが
+立ち向かうべき相手は同じ…
+お前が心から望むなら
+貸してやってもよいが…","You want this Thunder Helm that badly?
+I bet you do. This special helm still holds
+some of Urbosa's power.
+But no matter how much we may be
+indebted to you, I can't just give it away.
+
+...And yet, you are setting off to carry
+the fight to the enemy of Urbosa...
+
+So if you truly desire it, then perhaps I
+can lend it to you..."
+20,Talk12,"雷鳴の兜はウルボザ様の力を
+受け継いだ特別な兜…
+力を授かりたくば悩める民を救い
+この街に紛うことなき平穏をもたらしてみよ
+そうすれば わらわはお前をゲルド族の友と認め
+この兜を預けようぞ","This Thunder Helm still holds some of
+Urbosa's power.
+
+If you want to wield that power, then you
+must address the concerns of my people
+and bring a resolute peace to our town.
+Then you will be acknowledged as a
+friend of the Gerudo, and only then will I
+lend the helm to you."
+21,Talk13,"い いくらお前でも
+族長様へのその所業…許せん！","Such insolence! Even deeds as
+valorous as yours do not earn you the
+right to speak so to the chief!"
+22,Talk14,"ふふっ…
+
+まぁ いいではないか
+ビューラ
+たまには名を呼ばれるのも
+悪くないものよ","Hm hm hm...
+
+
+Let it go, Buliara.
+
+
+Being called by my name every once in a 
+while isn't so bad."
+23,Talk16,"我が国にはウルボザ様がついておられる
+この平穏守っていかねばの","Lady Urbosa smiles upon us once more.
+I must protect our fragile peace."
+24,Talk17,"その宝箱に入っているのは
+ウルボザ様がお使いになった珠玉の武具だ","Within those treasure chests are
+precious armaments once used by
+Lady Urbosa herself."
+25,Talk18,"雷鳴の兜には劣るかもしれんが
+なかなか手に入らん貴重なものだ
+ウルボザ様の友であった お前が持つのが
+一番良いであろう
+遠慮はいらん
+手に取ってみてくれ","They may pale in comparison to the
+Thunder Helm, but they are very
+valuable and not easy to come by.
+Since you were a friend to Lady Urbosa,
+it would be best for you to have them.
+
+Do not hesitate—take them in
+your hands."
+26,Talk19,"我が国にはウルボザ様がついておられる
+
+そこにある雷鳴の兜と共に
+この平穏守っていかねばの","Lady Urbosa smiles upon us once more.
+I must protect our fragile peace and the
+Thunder Helm that rests here."

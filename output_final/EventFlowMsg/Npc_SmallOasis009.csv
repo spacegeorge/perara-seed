@@ -1,0 +1,178 @@
+#,Title,JPja,USen
+1,"""0000""",買い取って！,I have things to sell!
+2,"""0001""",さようなら,Good-bye.
+3,"""0005""",じゃあ…買い取って！,Then...buy my stuff!
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5507""",ぜんぶ買う,I'll take 'em all!
+8,"""5508""",ぜんぶ売る,All of them.
+9,Com_Talk_00,"…それで
+買ってほしいってのは どいつだい？",So what do you want to sell me?
+10,Com_Talk_01,"う～ん…だったら
+ルピーになるけど いいかい？",Hmm... I could give you  rupees.
+11,Com_Talk_02,"サークサーク
+もう終わりかい？",Sarqso! Is that all?
+12,Com_Talk_02b,"アリガトゴザイマス
+ふふっ これアンタの国の言葉だろ？","Thank...you... Hehe, that's how they
+say it where you're from, right?"
+13,Com_Talk_02c,"サークサーク
+いいね～ いいね～","Sarqso. Good, good."
+14,Com_Talk_02d,"いいじゃん いいじゃん
+サークサーク！","Nice, nice. Sarqso."
+15,Com_Talk_04,まあ焦るこたぁないさ,"Oh, yeah, no need to rush..."
+16,Com_Talk_05,何でも買い取るよー！,I'll buy anything!
+17,Com_Talk_05b,"売りたいもんあったら
+遠慮なくじゃんじゃん言ってよ！","If there's anything you want to sell,
+don't hesitate to talk to me!"
+18,Com_Talk_05c,いくらでも買い取るよ！,I'll buy as much as you've got!
+19,Com_Talk_05d,"さあ これで終わりじゃないだろ？
+売った売った！","That can't be all, right? Sold, sold!"
+20,Com_Talk_13,"を
+いくつ買い取ってほしいんだ？",How many do you want to sell me?
+21,Com_Talk_14,"が個だと
+全部あわせてルピーってとこだな","All right,  of them? That comes to...
+ rupees altogether."
+22,Com_Talk_15,"なんだ… それ…?
+よくわかんないもんは買い取らない主義なんだ","What even is that?
+I'm sorry... I have a policy forbidding
+buying things I don't understand."
+23,Com_Talk_16,"脱がせろって？悪いが あんたみたいな
+ヒョロヒョロまっぴら ごめんだね","What, you want me to take that
+right off of you? Take it off yourself
+before selling it to me!"
+24,Com_Talk_33,"を1つだね？
+それならルピーだよ",One? That'll be  rupees.
+25,Com_Talk_35,"を個全部？
+いいけど合計はルピーでどうよ？","So then,  of them...
+You'd agree that  rupees is a fair
+price, yes?"
+26,Com_Talk_50,"なら
+ルピーだよ",That will be  rupees...
+27,Com_Talk_53,まあ焦るこたぁないさ,No need to make any hasty decisions.
+28,Near001,狩りたてだよ～,All this stuff is fresh!
+29,Near002,その服似合ってるね～,Those clothes suit you.
+30,Talk_01,"コンニチハ…
+
+ふふっ これアンタの国の言葉だろ？
+
+あたいらの国の言葉では
+『サヴァーク』って言うんだよ","Good...day...
+
+
+Heh, that's how you say it where you're
+from, isn't it?
+
+Here, we say \""sav'aaq.\"""
+31,Talk_02,いつでもきなよ,Come back anytime!
+32,Talk_03,"あたいの妹分がゲルドの街で
+肉屋やってんだ
+アイツは世界中を旅してるから
+アンタ達の言葉も結構知ってるんだよ
+かわいいヤツだからさ
+ゲルドの街に立ち寄ったら覗いてやってよ
+って言っても
+あんたヴォーイだから入れないか…","My little sister runs a butcher shop over
+in Gerudo Town.
+
+She's traveled all over, so she knows
+your language pretty well. You should
+stop by and...
+Oh, of course. You're a voe, so you
+won't even be able to get past the front
+gates..."
+33,Talk_05,"おっ いいね
+売りたいもん見せてみなよ","Oh, sure thing."
+34,Talk_06,"売り切れたか…
+また狩りに行かないとな…","And now I'm all sold out...
+Guess I'll have to go hunting again."
+35,Talk_07,"アリガト シャチョーサン
+
+ふふっ これもアンタの国の言葉だろ？","Thanks...boss...
+
+
+Hehe, that's how they say it where
+you're from, right?"
+36,Talk_08,"えっ？
+怪しい男の商人を見なかった だって？
+怪しい…怪しい…
+怪しいねぇ…
+あー ダメだ
+わかんないわ
+そもそも アタシはずっとココにいるし
+誰が商人かも知らないしね
+ハイリアの商人とかもいるんだし
+そっちに聞いてみたら？","You want to know if I've seen a
+suspicious-looking male merchant?
+
+Suspicious, huh...
+Hmmmm...
+
+Ahh, I dunno. It's hard to say. I spend all
+my time right here, and I don't know how
+I'd tell if someone was a merchant...
+Anyway, there are Hylian merchants here,
+too. Why don't you go ask one of them?"
+37,Talk_09,"あたいの妹分がゲルドの街で
+肉屋やってんだ
+アイツは世界中を旅してるから
+アンタ達の言葉も結構知ってるんだよ
+かわいいヤツだからさ
+ゲルドの街に立ち寄ったら覗いてやってよ","My kid sister runs a butcher shop over in
+Gerudo Town.
+
+She's traveled all over, so she knows
+your language pretty well.
+
+She's pretty cute too, so if you stop by
+Gerudo Town, you should say hello to
+her, at least."
+38,Talk_10,"コンバンハ…
+
+ふふっ これアンタの国の言葉だろ？
+
+あたいらの国の言葉では
+『サヴァサーバ』って言うんだよ","Good...evening...
+
+
+Heh, that's how you say it where you're
+from, isn't it?
+
+Here, we say \""sav'saaba.\"""
+39,Talk_12,商売の邪魔だよ,You're getting in the way.
+40,Talk_15,"オハヨゴザイマス…
+
+ふふっ これアンタの国の言葉だろ？
+
+あたいらの国の言葉では
+『サヴォッタ』って言うんだよ","Good...morning...
+
+
+Heh, that's how you say it where you're
+from, isn't it?
+
+Here, we say \""sav'otta.\"""
+41,Talk_17,"イラッシャイマセ…
+
+ふふっ これアンタの国の言葉だろ？
+
+あたいらの国の言葉では
+『ヴァーサーク』って言うんだよ","Well...come...
+
+
+Did I get that right? Isn't that how you
+say it where you're from?
+
+Here, we say \""vasaaq.\"""
+42,Talk_18,"サークサーク！
+それ食べて精つけてよ！",Sarqso! Eat it and regain your strength!
+43,Talk_19,"アリガト！
+サークサーク！",Thank...you! Sarqso!
+44,Talk_21,狩りにいかないとな…,I need to go hunting...
+45,Talk_22,"オカイアゲ アリガトゴザイマス…
+
+ふふっ これアンタの国の言葉だろ？","Thank...you...for...shopping...
+
+
+That's how they say it where you're
+from, right?"

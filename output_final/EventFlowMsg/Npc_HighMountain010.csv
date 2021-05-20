@@ -1,0 +1,292 @@
+#,Title,JPja,USen
+1,"""0000""",見た,I saw it.
+2,"""0001""",見てない,Didn't see it.
+3,"""0004""",イチカラ村は？,Heard of Tarrey Town?
+4,"""0005""",う～～ん…,Hrmm...
+5,"""0007""",売りに来た,Came to sell stuff.
+6,"""0008""",やぁ！,Hey!
+7,"""0009""",さようなら,Good-bye.
+8,"""0011""",そうだね！,That's right!
+9,"""0012""",知らない…,I didn't know...
+10,"""5500""",はい,OK.
+11,"""5501""",いいえ,Never mind.
+12,"""5502""",買う,Buy.
+13,"""5503""",やっぱりやめる,Never mind.
+14,"""5507""",ぜんぶ買う,I'll take 'em all!
+15,"""5508""",ぜんぶ売る,All of them.
+16,Com_Talk_00,"オッケー
+じゃ どれを売ってくれるのかな？","OK.
+What do you want to sell me?"
+17,Com_Talk_01,"を売るんだね？
+ルピーになるけど いいかい？","So that's what you're selling?
+I can give you  rupees for that."
+18,Com_Talk_02,"ありがとね！""他にも売っちゃう？",Thanks! Anything else to sell?
+19,Com_Talk_02b,ありがとう！他のも売る？,Thanks! Wanna sell anything else?
+20,Com_Talk_02c,はーい まいど！他にも買い取ろうか？,Thank ya! Want me to buy anything else?
+21,Com_Talk_02d,はーい了解！他にも売りたい物 あるかな？,"Alrighty! Do you have anything else for
+sale?"
+22,Com_Talk_04,分かった,Got it.
+23,Com_Talk_05,何でも買い取るよ,I'm in the mood to buy!
+24,Com_Talk_05b,何でも売ってよね！,Show me what you've got!
+25,Com_Talk_05c,売りたい物見せてよ,What do you want to offload?
+26,Com_Talk_05d,ゆっくり選んでね,You're selling? I'm buying.
+27,Com_Talk_13,"を売るかい？
+いくつだい？",How many are you selling?
+28,Com_Talk_14,"が個だね？
+だったら合わせてルピーだよ","You want to sell  of 'em?
+I can give you  rupees, then."
+29,Com_Talk_15,それは買い取れないなぁ…,I can't buy that.
+30,Com_Talk_16,服は脱いでから売ってよね！,"You need to take that off before I can
+buy it."
+31,Com_Talk_33,"を 1つだね？
+それならルピーだよ",Just one? That'll be  rupees.
+32,Com_Talk_34,"を全部買うの？
+だったら個になるからルピーだね","All  of them will run you
+ rupees."
+33,Com_Talk_35,"を全部売るの？
+個だからルピーで買い取るよ","I'll take all  of them for
+ rupees."
+34,Com_Talk_50,"だね？
+ルピーだけど いいかい？",That'll be  rupees.
+35,Com_Talk_51,"だね？
+いくつ欲しいの？",How many?
+36,Com_Talk_52,"が個だと
+合計ルピーだよ","So it comes to  rupees.
+Is that OK?"
+37,Com_Talk_53,やめるんだね？,You changed your mind?
+38,Com_Talk_54,あら？ルピーが足りないようだよ？,"Sorry, if you don't have enough rupees,
+I can't sell it to you. Gotta pay the rent
+somehow."
+39,Com_Talk_55,"荷物がいっぱいで持てないよ？
+要らない物があるなら買い取るけど…","Hmm... You can't hold any more.
+Why not sell me some of the things
+you don't need?"
+40,Com_Talk_56,"を1つだね？
+それならルピーだよ","Just one?
+That'll be  rupees, please."
+41,near00,はぁ…,*sigh*
+42,near01,いらっしゃ～い,Welcome.
+43,near02,あっ…,Ah...
+44,near03,そこに乗らないで…,Don't climb up there...
+45,near04,乗っちゃダメ～,Don't climb up there!
+46,near05,降りて～,Get down!
+47,talk00,"イチカラ村に行く道中で
+店で売る物を集めるとするかな…","I know! I'll gather some items on the way
+to Tarrey Town and then sell them at my
+new shop..."
+48,talk01,じゃぁ後で じっくり見てもらうとして…,"Really? Not really the perceptive type,
+are you?"
+49,talk02,"あれのせいで
+村は大変な事になってるみたいだね
+そんな事より…
+
+ウチはお母さんが うるさくってさ
+毎日毎日「店を手伝え」って…
+もう ヤなんだよね…","Everyone in the village is freaking out
+because of it, but I have bigger
+problems...
+My mom is SO annoying. She asks me to
+help out at the store every single day.
+
+I can't take it anymore..."
+50,talk03,"ボクは…手伝いじゃなくって
+自分の店を開いて好きな物を売りたいんだ
+どっか ボクだけのよろず屋を開けるような
+いいトコ無いかなぁ…","I don't...want to just \""help.\""
+I want to open my OWN store and sell
+whatever I want!
+But I don't want to compete with Mom.
+I wish there was a place I could set up
+my own shop..."
+51,talk04,"ボクは…手伝いじゃなくって
+自分の店を開いて好きな物を売りたいんだ
+どっか ボクだけのよろず屋を開けるような
+いいトコ無いかなぁ…","I don't...want to just \""help.\""
+
+
+I want to open my OWN store and sell
+whatever I want!"
+52,talk05,"旅の人なら いいトコ知ってると
+思ったんだけどねぇ…
+また いいトコ見つけたら教えてよ","I thought you might know a good spot
+since you're a traveler, but I guess not.
+
+Let me know if you think of anything!"
+53,talk06,"ちょっと待って
+腰を落ち着けたら お話ししたげるからさ
+焦らない焦らない","Hey, no rush. Why don't you get settled,
+and we'll talk later."
+54,talk07,よし…決めた！行ってみる！,OK... I made up my mind! I'm going!
+55,talk08,"キミはもう見た？""神獣 ヴァ・メドー","So, have you seen it?
+Divine Beast Vah Medoh?"
+56,talk09,"メドーが大人しくなったのは いいんだけど
+ボクには更なる問題があるんだ
+お母さんが「店を継げ」とか言い出して…
+そういうの もう ウンザリ！","I'm glad Medoh has settled down, but I
+have bigger problems.
+
+My mom said she wants me to take over
+the family store someday...
+Can you believe that?!"
+57,talk10,やぁ おはよう,"Hey, mornin'."
+58,talk11,やぁ こんにちは,"Hey, what's up?"
+59,talk12,やぁ こんばんは,"Hey, evenin'."
+60,talk14,はぁ…,*sigh*
+61,talk15,"神獣 ヴァ・メドーも お母さんも
+もうウンザリ…","I don't know who I'm more sick of...
+Divine Beast Vah Medoh or my mom."
+62,talk16,お母さんには もうウンザリ…,My mom is getting on my last nerve...
+63,talk17,"でも今はメドーが居るから 
+下道で ゆっくり行くとするかな…","But with Medoh terrorizing the skies,
+I'm going to have to fly low."
+64,talk18,"キミ…
+そんな格好だと風邪引いちゃうよ？","Hey, dude...
+You're gonna catch a cold dressed like
+that."
+65,talk19,"キミ…
+悪い事は言わないから早く服着なよ","Hey, man...
+I'm all for being a free spirit and
+whatnot, but at least put some pants on."
+66,talk20,いらっしゃい！ ボクに用ですか？,"Oh, hey! What can I get you?"
+67,talk22,"やぁ！しばらくぶりだね！
+",Hey! It's been a while!
+68,talk23,"ほら ボク ペーダだよ！
+
+リトの村から来る途中変なヤツに
+何回か絡まれたけど何とか来れたよ！
+しかし…イチカラ村は いいよねぇ～
+お母さんも いないし…
+何より自分で好きなものを
+仕入れて売るってのが楽しくってさ！
+そんなわけで よろず屋オープンしたんで
+バリバリ買ってってよね！","Remember me? Fyson?
+
+
+After I left Rito Village, some bandits 
+tried to mug me. Lucky for me, they
+didn't have wings!
+Tarrey Town is really great!
+Nice weather. No moms to annoy me...
+
+It's really great being able to run my own
+shop and sell the things I want to sell!
+
+Anyway, I'm open for business, so shop
+to your heart's content!"
+69,talk24,またね！,See ya around!
+70,talk25,お買い上げ ありがとうございま～す！,Thanks for your business!
+71,talk26,それ また仕入れとくね！,"I'll make sure to stock up, then!"
+72,talk27,"あ売り切れちゃったね…
+また探しとくよ","Oh, I guess we're out...
+I'll find some more."
+73,talk29,おはよう！,Good morning!
+74,talk30,こんにちは！,Hello!
+75,talk31,こんばんは！,Good evening!
+76,talk32,ボクなら なんとかやってるよ～,You looking for help?
+77,talk33,"教えてくれて ありがとう！
+よかったら キミも後で来てね","Thanks for the tip! And hey, don't be
+a stranger. Come visit me at my new
+home sometime!"
+78,talk34,イチカラ村？なになに？詳しくおしえてよ,"Tarrey Town?
+Tell me more."
+79,talk35,"へぇ～…
+よろず屋を募集してるんだね
+でもアッカレ地方かぁ…ちょっと遠いな…
+
+まぁ店を持てるなら どこだっていいか…","Oh! So they're in need of a general
+store. That's perfect!
+
+But the Akkala region?
+That's pretty far out there.
+
+But I guess I've got to leave the nest someday.
+And to have my own store..."
+80,talk39,"お店って思ってるより難しいよね～
+お母さん尊敬しちゃうよ","Running a shop is harder than I thought.
+I don't know how Mom does it."
+81,talk40,"もうすぐアレだろう？
+
+エノキダさんとパウダさんの
+結婚式があるんだろう？","Hey, you know what's coming up?
+
+
+Hudson and Rhondson's wedding!"
+82,talk41,"おめでたいよね～
+
+これを機会にイチカラ村に
+いっぱい人が集まるといいなぁ～","I'm really happy for them.
+Plus it's really good for business.
+
+I hope a lot of people come to
+Tarrey Town for the occasion. "
+83,talk42,"え！知らないのかい？
+
+直接本人に聞いてみなよ！","What?! You didn't know?
+
+
+You're out of the loop, man!"
+84,talk43,"売ったり仕入れたりは大変だけど
+自由に物を売れるから楽しくってさ！","Supply and demand is a lot tougher than
+I thought, but it's fun getting to choose
+what I sell!"
+85,talk44,"いい結婚式だったね！
+
+エノキダさんはマジメだし
+パウダさんは美人だしお似合いだよね！
+ボクの お父さんとお母さんも
+昔は あんな感じだったのかなぁ？","What an awesome wedding!
+
+
+Hudson is a stand-up guy, and Rhondson
+is a real gem. They're perfect for each
+other!
+I wonder if my mom and pop were like
+that back in the day."
+86,talk45,"そう言えば エノキダさんが
+キミに話があるっぽかったよ？
+エノキダさんなら パウダさんのトコに居るし
+行ってみたら？","By the way, did you hear that Hudson
+wanted to talk to you?
+
+He's at Rhondson's place.
+You should stop by."
+87,talk46,"結婚式も終わってやれやれだね！
+
+パウダさん綺麗だったよね～
+
+ボクもいつかは あんなお嫁さんを…
+ウフフフ！
+さ おしゃべりはこの辺にして
+今日も張り切って よろず屋をやらせてもらうよ","So glad the wedding went well!
+
+
+Rhondson looked stunning...
+
+
+I hope I'll be able to find a bride as
+pretty as her someday... Hehehe!
+
+Well, I should get back to the shop.
+Responsibility and all that."
+88,talk47,"調子はどう？
+ボクはいつも通りだよ！
+そう言えばキミって旅の人なんだよね？
+
+必要な物があれば
+ボクの所で揃えていってよね！","How's it going? I'm great as always!
+
+
+Hey, so... You're an adventurer, right?
+That probably means you need to carry
+a lot of supplies with you at all times.
+Well, if there's anything you need,
+come get it at my shop!"
+89,talk48,"いくらお客さんでも
+そこに乗られると困るよぉ～","I don't care if you are a paying customer,
+I can't let you climb up there."
+90,talk49,頼むから そこから下りてぇ～…,"Please, get down from there..."
+91,talk50,"商品の陳列棚には
+乗らないでくれるかなぁ～","Can I ask you to not stand on the
+shelves, please? Those are expensive."
+92,talk51,他のお客さんの迷惑になるから下りてぇ～,"This is a place of business, not a gym.
+Please get down."

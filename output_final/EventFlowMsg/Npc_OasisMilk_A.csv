@@ -1,0 +1,128 @@
+#,Title,JPja,USen
+1,Talk_00,"さっきの ハイラルヴァーイ
+何だったんだろうね～","What was up with that little Hylian vai
+earlier, anyway?"
+2,Talk_01,"そんなことよりさ～
+早く教えてよ ヤイドラ～！","Forget her! Just hurry up and tell
+us the password, Yaido!"
+3,Talk_02,"そうそう合言葉ね
+
+GSC◆なんだって
+サジュの話を盗み聞きしたから間違いないよ！","Oh, that's right, the password!
+It's GSC◆. I overheard Saula talking
+about it, so I'm sure that's right!"
+4,Talk_03,"Gerudo Secret Clubで
+GSCかぁ～ なるほどね～
+でも最後の◆は何なんだろうね…","GSC◆? What could that... Oh, I get it.
+Gerudo Secret Club—GSC. But what's the
+◆ at the end mean?"
+5,Talk_04,さぁ…,Who knows...
+6,Talk_05,"ねぇねぇ 
+ファッションパッションの噂""知ってる？","Hey, have you heard the rumor about
+Fashion Passion?"
+7,Talk_06,知ってる～,I have!
+8,Talk_07,"サジュに それとなく聞いてみたんだけどさ
+全然教えてくれないんだ","I tried asking Saula about it indirectly,
+but she wouldn't tell me anything."
+9,Talk_08,"サジュって ファッションパッションの店員の？
+え～ それって余計に怪しいじゃん","Doesn't Saula work at Fashion Passion?
+Geez, that's extremely suspicious..."
+10,Talk_09,"でさ～
+キャリバンの事だけどさ～",So about Calyban...
+11,Talk_10,"あ～ あの子
+ほんとに最近見ないよね～","Oh, yeah! I haven't seen her around at
+all lately..."
+12,Talk_11,"うん極度のめんどくさがり屋だったから
+旅に出たわけでも なさそうだし
+どこに行ったんだろうね～","I wonder where she's at... She's the
+laziest person I know, so she couldn't
+have gone all that far..."
+13,Talk_12,塀の上とか？,"Maybe to the top of the wall or
+something?"
+14,Talk_13,"何それ～
+ありえないでしょ？","What are you talking about? Why would
+she go up there? Don't be silly."
+15,Talk_14,ペディ元気でやってるかなぁ～,I wonder how Perda's doing...
+16,Talk_15,真剣にラブポンド探してたもんね～,"She was so enthusiastic about searching
+for Lover's Pond..."
+17,Talk_16,"フィローネ地方にあるはずだって
+飛び出して行ったっきりだからね～","And she took off so quickly when she
+heard it was somewhere in Faron..."
+18,Talk_17,"えっ？フィローネにあるの？
+てっきり単なる噂だとばかり思ってたけど？","What? It's definitely in Faron? I was
+pretty sure that was just a rumor..."
+19,Talk_18,"本当かどうかは わかんないけどさ
+帰ってきてないってことは…","Obviously I don't know for sure. But she
+hasn't come back yet, which can only
+mean one thing..."
+20,Talk_19,運命の人に出会えたってこと？,That she met her true love?
+21,Talk_20,私も行ってみようかな～,"Maybe I should go out there, too..."
+22,TerrorArrow,お落ち着いて！,C-calm down!
+23,TerrorBomb,何をする気？,What's the big idea?!
+24,TerrorExplosion,きゃぁ！,Eeek!
+25,TerrorFire,や やめなさいよ！,S-stop that! Please!
+26,TerrorSword,な なんなの？！,Wh-what?!
+27,near00,例のウワサ知ってる？,You heard the rumor?
+28,near01,あっ そういえばさ…,"Oh, that reminds me..."
+29,talk00,"この前さ～
+やっと手に入れたんだ例の場所の合言葉","Oh, I was going to tell you... I finally got
+my hands on the password for you-
+know-where."
+30,talk01,"それホント？
+アソコって ちょっとヤバいんでしょ？","Seriously? Wow... That place is a little
+crazy, isn't it?"
+31,talk02,でもちょっと興味ある～,"Maybe, but I'm really interested..."
+32,talk03,その合言葉ってのはね…,"Anyway, the password is..."
+33,talk04,ねぇ ちょっと待って,Wait a second!
+34,talk05,"アンタ！！
+堂々と私達の話を聞いてんじゃないわよ
+アタシ達は大事な話をしてるんだから
+あっち行きなさいよね","You!! Did you really think we wouldn't
+see you standing there, listening to our
+conversation?!
+So rude! This is a private conversation!
+Go away!"
+35,talk06,"そういえばさ～
+キャリバンって最近みないね～","I was just thinking... It's been a while
+since I saw Calyban around..."
+36,talk07,"確かに街の中で
+最近会ったことないかも","Now that you mention it, I don't think
+I've seen her in town lately either."
+37,talk08,"そういえば
+私も見てないかも",Me neither...
+38,talk09,もしかしたらさ～,You don't think she's...
+39,talk13,"そういえばさ～
+ペディって どうしてんだろ？",I wonder what Perda's up to...
+40,talk14,"確かラブポンド探しに行くって
+言ってたよね？","Didn't she say she was going to look for
+Lover's Pond?"
+41,talk15,あの運命の人に出会えるって場所でしょ？,"The place that's supposed to be perfect
+for meeting your one true love or some
+nonsense?"
+42,talk16,そうそう その場所ってのがさぁ～,"That's right! I've heard of that place
+before. Did you know..."
+43,talk17,"なあに？
+テーブルの上で踊ってくれるの？
+ってか目障りだから
+さっさと降りてくれる？","What's this? I hope you aren't planning
+on staying up on that table...
+
+You're blocking our view, so hurry up
+and get down from there!"
+44,talk18,"アンタ！！
+上から見下ろしてんじゃないわよ！
+そんなとこにいられたんじゃ
+話もできやしないじゃない","You!! Don't just stand there looking
+at us like that!
+
+How can we have a decent conversation
+with you standing there, staring?!"
+45,talk19,"テーブルに乗るのが
+ハイリア人のマナー？
+悪いけど降りてくれる？
+邪魔なんだけど？","Is it considered good manners where
+you're from to just climb all over the
+table?
+You're in Gerudo Town now, so could
+you please respect our tradition of not
+climbing all over tables?"

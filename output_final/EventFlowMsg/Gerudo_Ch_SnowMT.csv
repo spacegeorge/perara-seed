@@ -1,0 +1,532 @@
+#,Title,JPja,USen
+1,"""0000""",サンドブーツ？,Sand boots?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",見つけたよ,Found it.
+4,"""0004""",砂漠なのによく走れるね,Nice sand-jogging!
+5,"""0005""",サンドブーツ欲しい,Gimme those boots.
+6,"""0006""",知ってる,I've heard it.
+7,"""0007""",やめときます,Never mind.
+8,"""0008""",これ見て！,Look at this!
+9,"""0009""",探してきます,I'll go look.
+10,"""0010""",八人目の英雄？,Eighth heroine?
+11,"""0011""",サンドブーツください,"Sand boots, please!"
+12,"""0012""",サンドブーツの事,Sand boots?
+13,"""0013""",八人目の英雄の事,The eighth heroine?
+14,"""0014""",スノーブーツちょうだい,"Snow boots, please."
+15,"""0015""",さようなら,Good-bye.
+16,Near00,ホッ ハッ ホッ ハッ,*huff...huff...huff*
+17,Talk00,"なんだ男かよ…
+
+サンドブーツを履けばゲルド女子にモテるって
+聞いたから ずっと走ってアピールしてるのに…
+誰一人声をかけてくれないんだよ…
+ガセネタだったのかなぁ…","Oh, it's just a guy...
+Saw me running around, huh?
+
+See, I heard Gerudo women liked a guy
+in sand boots, so I've been jogging all
+over for forever trying to show off...
+But none of them will talk to me!
+I'm starting to wonder if that rumor was
+just a bunch of bunk..."
+18,Talk02,"ゲルド地方に伝わる
+『七人の英雄伝説』…
+だけど…本当は…
+八人目の英雄が存在したらしいんだ…
+彼女がなぜ歴史から葬られてしまったのか…
+それは誰もわからないんだけど
+噂はあれど誰も見た事がない幻の英雄…
+子供の頃からの憧れだったんだ
+だからその八人目の英雄を見せてもらえたら
+このサンドブーツをキミに譲ってあげてもいいよ","Everyone's heard the legend in the
+Gerudo region about the seven heroines,
+but...some tell of an eighth heroine...
+Wiped clean from history, and no one
+knows why or how...
+
+A phantom heroine known to all but
+seen by none... I've been taken with the
+legend since I was a child.
+Find her! Show me the eighth heroine,
+and I'll give you these sand boots. 
+What do you say?"
+19,Talk03,"八人目の英雄の事は色んな人が調べてるけど
+まだ謎が解けていない都市伝説だ
+謎を調べている間に仲良くなって…
+そして…
+ふふっ","Many have investigated the eighth heroine, but it's
+an inscrutable legend, an unsolved and possibly
+unsolvable puzzle...
+And as Ms. Boots spins her wheels on it, we'll grow
+closer... And closer... And then... 
+
+Hee hee!"
+20,Talk05,"よかった！
+無事だったんだね！
+なかなか帰ってこないし
+心配していたんだ…
+実は八人目の英雄なんて単なる都市伝説で
+実在しないものなんだ…
+僕…
+キミとお近づきになりたくて
+無理なことを言って
+キミを引き留めておきたかっただけなんだけど…
+結果的にキミを危ない目に遭わせることに
+なったんじゃないかって不安で不安で…
+でも もうキミを危ない目には遭わせないよ！
+これからは僕がキミを守…","Oh! Oh, thank goodness!
+You made it back safely!
+
+You were gone for so long, I started to 
+fear the worst...
+
+I have to come clean. The eighth heroine
+is just an urban legend—it doesn't
+actually exist...
+I... Well, I just wanted an excuse to get
+close to you, y'know?
+
+I wanted to keep you engaged so I just
+thought up something impossible to hold
+your interest...
+And as a result, I put you in harm's way!
+I'm a cad! And I've been so, so worried...
+
+I won't put you in danger anymore!
+From now on, I'll be your protect—"
+21,Talk06,"僕を心配させまいと
+慰めてくれてるのかい？
+キミは優しいんだね
+
+でも そんな気遣いは無用さ
+これからは僕がキミを…","Are you trying to console me because
+I've been so heartsick over this?
+
+You're such a kind soul.
+
+
+But no need to coddle me.
+From now on I'll—"
+22,Talk07,"ぼ僕はボテンサ
+35歳独身趣味はジョギング！
+皆からは良くも悪くもがんばり屋さんだね！
+って言われます
+き キミは一人なのかな？
+良かったら僕と一緒に…","So yeah, hey, the name's Bozai.
+I'm 35, single, and I LOVE jogging.
+Especially on sand.
+Yeah, everyone says I'm tenacious as a
+tick! And I think some of them meant it in
+a nice way, too!
+S-so...you out here on your own?
+Pretty rough and tumble place...
+Wanna hang out with me awhile?"
+23,Talk08,"サンドブーツは砂の上でも普通に歩ける
+砂漠の民にとって憧れの一品！
+でも もう作り手がいなくなっちゃって
+今一番入手困難な超レアなブーツなんだ！
+どうだい？ うらやましいだろ！","Sand boots let you walk normally on
+sand, so if you live in the desert, 
+believe me, you want a pair!
+BUT! The only person capable of making
+them passed away, which means they're
+impossibly rare and extremely valuable!
+What do you think? Jealous, right?"
+24,Talk09,"あっ…サンドブーツに気づいちゃった？
+
+これさえあれば砂漠の砂に足をとられず
+普通に歩けるようになるからね
+ジョギングだって楽々さ！
+
+だから良かったら一緒に…","Ah... You noticed these old things?
+Yeah, they're my sand boots.
+
+They allow me to traverse the desert
+without being slowed down at all, 
+so jogging is a breeze.
+If you'd like to check them out,
+we could grab a quiet corner and..."
+25,Talk10,"しかしまあサンドブーツもないのに
+よくこの砂漠を歩き回ってられるもんだね
+僕には考えられないよ","Sure seems like you do a lot of running
+around in the desert for someone who
+doesn't even have sand boots.
+I would never think of doing that.
+Don't you get tired?"
+26,Talk11,"えっ…？
+ああ…
+さ… さよなら","Huh? Aw...
+
+
+Good... Good-bye."
+27,Talk13,"えっ？僕の話聞いてた？
+このサンドブーツは超レアものなんだ
+女の子ならともかく
+男のお前なんかに譲るわけないだろ
+僕は忙しいんだ
+あっちいけよ！","Huh? You're coveting these things
+after you heard me sing their praises?
+Not cool.
+Look, these sand boots are super rare.
+Mayyyybe I'd consider giving them to
+you if you were a girl, but a guy? NO.
+I'm busy here. Get lost!"
+28,Talk14,"す…
+
+すごいじゃないか！
+
+今まで都市伝説と思われていた
+あの八人目の英雄が本当にいたなんて！
+これが世間に知れたら
+すごい騒ぎになるよ！！
+…でもさ 
+僕は誰にも言わないよ…
+そうすれば これはキミと僕
+2人だけの秘密ってことだよね！
+よ よかったら
+これを機に僕と…","That—
+
+
+THAT'S AMAZING!
+
+
+I thought it was just an old wives' tale!
+The eighth heroine actually exists?!
+
+If the rest of the world knew this, it'd be 
+absolute bedlam!
+
+...But I won't tell anyone...
+
+
+Yeah, that way, it'll just be our little
+secret, right? Sort of a bonding thing.
+
+And yeah, i-if it's OK, I'd like to take this
+opportunity to ask you—"
+29,Talk15,"やった！
+
+八人目の英雄は彼女を慕う者達によって
+今でもゲルド高地に祀られてるって噂があるのと
+赤褐色の巨神って異名を持つこと以外のことは
+よくわかってないんだ…
+『七人の英雄伝説』の事なら詳しい人が
+ゲルドの街にいるって聞いた事はあるけど…
+ともかく絵でも何でもいいんだ
+見つけたら教えてくれるかい？
+ただし絵ならせめて
+上半身がわかるもので頼んだよ","YESSSSSS!
+
+
+*ahem!* According to those who idolize
+the eighth heroine, she is enshrined
+somewhere in the Gerudo Highlands.
+Apparently they even have a nickname
+for her: The Bronze Giant. Catchy.
+Beyond that, I don't really know much...
+Who knows, there might be someone in
+Gerudo Town who knows more about
+the legend of the seven heroines.
+Maybe that info would help. I don't know.
+Anyway, draw a picture or something if
+you find her! And then show me!
+I'm pretty picky about pictures, too.
+If you get one, make sure at least the
+statue's upper half is visible, OK?"
+30,Talk16,"ゲルド地方に伝わる
+『七人の英雄伝説』…
+だけど…本当は…
+八人目の英雄が存在したらしいんだ…
+彼女を慕う者達によって
+今でもゲルド高地に祀られてるって噂があるのと
+赤褐色の巨神って異名を持つこと以外のことは
+よくわかってないんだ…
+『七人の英雄伝説』の事なら詳しい人が
+ゲルドの街にいるって聞いたことはあるけど…
+ともかく絵でもなんでもいいんだ
+見つけたら教えてくれるかな？
+ただし絵ならせめて
+上半身がわかるもので頼んだよ","There's a legend in the Gerudo region
+about the seven heroines, but...
+some also tell of an eighth heroine...
+They whisper that she's worshiped by
+the people who hang out in the
+Gerudo Highlands.
+Apparently they have a name for her:
+The Bronze Giant. But that's about the
+limit of what I've heard.
+If it helps, there might be someone in
+Gerudo Town who knows more about
+the legend of the seven heroines.
+Anyway, it'd be great if you could draw a
+picture or something if you find her...
+Then come show me.
+If you do get a picture, make sure at 
+least the statue's upper half is visible!"
+31,Talk17,"またキミか…悪いけど 
+僕は女の子にしか興味ないんだ
+それにサンドブーツのアピールで
+走り回って疲れてるんだ
+用があるなら
+さっさと済ませてくれるかな？","You again... Sorry, but in case you didn't
+catch my drift earlier, I'm only interested
+in talking to women. Gerudo women.
+I'm almost too tired to woo, though.
+Running around trying to show off these
+sand boots is exhausting!
+So whatever your deal is, just say it and
+be on your way!"
+32,Talk19,"サンドブーツは砂の上でも普通に歩ける
+砂漠の民にとって憧れの一品！
+でも もう作り手がいなくなっちゃって
+今一番入手困難な超レアなブーツなんだ！
+どうだい？ うらやましいだろ！","Sand boots let you walk normally on
+sand, so if you live in the desert, 
+believe me, you want a pair!
+BUT! The only person capable of making
+them passed away, which means they're
+impossibly rare and extremely valuable!
+What do you think? Jealous, right?"
+33,Talk21,"ちょ調子はどうだい？
+
+よ よかったらサンドブーツや
+八人目の英雄について
+ゆっくり語り合わないかい？","H-how are you doing?
+
+
+I-if you like, we can take some time to
+talk about these sand boots and the
+eighth heroine."
+34,Talk22,"よ よかったら もっとゆっくり
+サンドブーツや八人目の英雄について
+語り合わないかい？","If y-you want, we could spend a little 
+more quality time talking sand boots and
+eighth heroines..."
+35,Talk23,そそうだったね…,"Oh... Oh, OK..."
+36,Talk24,"よし装着完了！
+
+ただ これだと砂漠では走りづらいし
+走りっぱなしで実はかなり疲れててね
+ゲルドの街の入口に テントみたいなのあったし
+しばらく そこで体を休めとくよ
+よかったら キミも一緒に…","All right, we're done here!
+
+
+Boy, but these will make running in the
+sand pretty difficult, and I'm pretty tired
+anyway from my jogging regimen...
+I think I'll just park myself under the tent
+in front of Gerudo Town and take five.
+Care to join me later?"
+37,Talk25,"えっ？
+
+いや… これは…
+このサンドブーツは超レアもので…
+譲ってあげたいのは山々なんだけど…
+
+……
+
+…でもこれは仲良くなれるチャンスかも
+
+そうだね…譲ってあげてもいいよ
+でも その代りにお願いがあるんだ！
+キミは八人目の英雄の噂を知ってるかい？","Huh?
+
+
+Oh... Well... Here's the thing.
+These sand boots are super rare, and
+I'd happily give them to you, but...
+...
+
+
+...Wait. This is a golden chance to woo...
+
+
+I mean, sure! I'd LOVE to give them to
+you, you hungry little boot monster!
+But first, a favor. 
+Ever heard the legend of the
+eighth heroine?"
+38,Talk26,サササ サヴォッタ！,Sa-sa-sa...sav'otta!
+39,Talk27,サササ サヴァサーヴァ！,Sa-sa-sa...sav'saaba!
+40,Talk28,サササ サヴァーク！,Sa-sa-sa...sav'aaq!
+41,Talk29,"ままま また会ったね
+偶然も運命って言うから
+もしかしたら僕たちは…","S-s-s-so we meet again... At a certain
+point, coincidence MUST be called
+destiny. We two are intertwined..."
+42,Talk30,"サンドブーツは砂の上でも普通に歩ける
+砂漠の民にとって憧れの一品！
+でも もう作り手がいなくなっちゃって
+今一番入手困難な超レアなブーツなんだ！","Sand boots let you walk normally on
+sand, so if you live in the desert, 
+believe me, you want a pair!
+BUT! The only person capable of making
+them passed away, which means they're
+impossibly rare and extremely valuable!"
+43,Talk31,"ややや やぁ
+こんなに僕に何度も話しかけてくれるなんて…
+もしかしたら キミも僕のこと…","H-h-hey. You keep coming by to chat
+with ol' Bozai, huh? Methinks the lady
+has been captivated, perhaps?"
+44,Talk32,"ゲルド高地みたいな雪深い場所だと
+雪に足をとられて歩きづらいだろ？
+でもこのスノーブーツがあれば
+雪深い所でもいつも通り…
+いや…""いつも以上に早く歩けるんだ！
+
+これも もう作り手がいなくて
+貴重な物だから あげることはできないけど…","The Gerudo Highlands are covered in
+deep snow, so it's hard to walk, right?
+Everyone knows that.
+But with these snow boots, you can walk
+through snow like it was flat ground...
+
+No... You can walk even faster than that!
+
+
+No one makes these anymore, so they're
+extremely valuable. As such, you can't
+keep them, OK?"
+45,Talk33,"あと これ… よかったら使ってよ
+きっと君の役に立つと思うんだ","Oh, and here... If you'd like, you can use
+these. I'm sure they'll come in handy.
+Besides, you seem really into boots."
+46,Talk34,"あとさゲルド高地みたいな雪深い場所だと
+雪に足をとられて歩きづらいだろ？
+だから雪でも快適に歩ける僕のスノーブーツを
+貸してあげようと思ったんだけど…
+荷物がいっぱいみたいだから
+荷物に空きが出来たらまたおいでよ
+ゲルド高地に行くなら
+絶対スノーブーツはあった方がいいからさ","OK, so the Gerudo Highlands are covered
+in deep snows, so it's hard to walk,
+am I right?
+I wanted to lend you my snow boots,
+which make the whole snow-trudging
+thing much more pleasant, but...
+It looks like your bag is full. How many
+boots do you have in there?! Adorable.
+Make some room and come back, OK?
+If you're going to the Gerudo Highlands,
+you're definitely gonna want these
+snow boots. Trust me."
+47,Talk35,"も もしかして
+僕に会いに来てくれたのかな？
+よ よかったらお茶でも…","D-did you come to see me?
+Wh-why don't we grab a cup of tea or 
+something..."
+48,Talk36,"そっ… そうだよね
+お茶なんかしてる暇ないよね…
+これがスノーブーツだよ","Y-yeah...right... Of course you don't
+have time for tea or anything like that...
+
+These are the snow boots."
+49,Talk37,"これも貴重なブーツだから
+貸してあげることしかできないけど…
+そそれよりさ
+まだ時間あるなら
+よ よかったらサンドブーツや
+八人目の英雄について
+ゆっくり語り合わないかい？","These are also valuable boots, so I can
+only lend them to you...
+
+A-anyway, if you still have some time...
+
+
+W-would you like to stay here and chat
+with me for a while about the sand boots
+or the eighth heroine?"
+50,Talk38,"でも キミ…
+まだ荷物が いっぱいみたいじゃないか
+欲張りな女の子も嫌いじゃないけど
+荷物がそんなんじゃ貸せないよ…
+そそれよりさ
+もし時間あるなら
+よ よかったらサンドブーツや
+八人目の英雄について
+ゆっくり語り合わないかい？","But it looks like your bag is still full...
+
+
+I LOVE how insatiable you are for boots,
+but if your bag is full, then I can't lend
+you anything...
+A-anyway, if you still have some time...
+
+
+W-would you like to stay here and chat
+with me for a while about the sand boots
+or the eighth heroine?"
+51,Talk39,"じゃあ話は早いね
+
+噂はあれど誰も見た事がない幻の英雄…
+子供の頃からの憧れだったんだ
+だからその八人目の英雄を見せてもらえたら
+このサンドブーツをキミに譲ってあげてもいいよ","Aren't you clever? In that case,
+this won't take much explanation.
+
+We've all heard the legend, but the
+phantom heroine that none have seen...
+has been my dream since I was a child.
+If you were to somehow show me the
+eighth heroine, I could make you a gift
+of these sand boots."
+52,Talk40,"ややや やあ
+また話しかけてくれるなんて！
+キミもヒマしてるのかな？
+良かったら僕と一緒に…","H-h-hey! After the way we left it, I didn't
+think you were into, y'know, chatting.
+Are you bored?
+If you are, ol' Bozai has the cure for
+THAT malady! Want to hang out?"
+53,Talk42,"…っと
+キミ荷物がいっぱいじゃないか…
+欲張りな女の子も嫌いじゃないけど
+それじゃあ渡せないよ…
+荷物整理ができたら
+また声かけてよ！
+僕は キミが見つけやすいように
+いつでもここを走ってるからさ！
+き…決まった～！！","...Wait. Your bag is full, isn't it?
+Probably full of boots, am I right?
+
+Adorable. Look, I'm all for girls who love
+stuff, but I can't give you these if you
+have nowhere to stash them.
+Come talk to me again when you've
+organized your bag, OK?
+
+I'll just jog around here until we meet
+once again!
+
+Y-YESSS! Advantage, Bozai!"
+54,Talk43,"まさか都市伝説とばかり思っていた
+八人目の英雄を拝めるなんて
+思ってもみなかったよ…
+
+でも これってキミと僕しか知らない
+2人だけの秘密ってことだよね！
+よ よかったら
+これを機に僕と…","To think that I could pay my respects to
+the eighth heroine, who I thought was no
+more than an urban legend...
+Who would've thought it was possible?
+
+
+Oh, but it's our little secret!
+
+
+And since we're both in a secretive
+mood, what say we secret ourselves in
+a quiet spot and get to know—"
+55,Talk45,"僕だと思って大切にしてね
+
+じゃあスノーブーツ返してもらっていいかな？
+このままじゃ僕裸足になっちゃうし","Treat them as tenderly as you would me.
+
+
+*ahem* And now, could you be a lamb
+and return my snow boots? Otherwise ol'
+Bozai's going to be barefoot!"
+56,Talk46,"ちょっと待ってね
+すぐ脱ぐから…",Just a second. I'll take them off...

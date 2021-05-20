@@ -1,0 +1,109 @@
+#,Title,JPja,USen
+1,"""0000""",売りましょう！,I'll sell it!
+2,"""0001""",とんでもない！,No way!
+3,"""0002""",お譲りします,It's yours.
+4,"""0003""",やっぱりやめます,"No, never mind."
+5,"""0004""",わかりました！,You got it!
+6,"""0005""",お断りします！,I refuse!
+7,Near_00,どこかに良い馬は…,Must have a good horse...
+8,Near_01,やあ… やあ… やあ…,Hey... Hey... Hey...
+9,Talk00,"やあやあ こんなところで人に会うとは…
+不幸中の幸いとはこういう事なんですねえ…
+私もあなたと同じ旅人なのですが…
+この峠で魔物に襲われてしまいましてねえ…
+その時相棒の馬が逃げて行ってしまいまして
+ここで立ち往生しているところだったんです…","Hey, hey, I sure wasn't expecting to meet
+anyone out here... Maybe this is just the
+upturn in luck I needed!
+Yeah, so yeah, I'm a traveler like you...
+And I was attacked by monsters in this
+very canyon...
+That's when my partner, that's to say,
+my horse, ran off. And hey, I've been
+stranded here ever since..."
+10,Talk01,"やあ馬さえいれば まだ旅を続けられるのに…
+お願いです！馬を連れて来てください！","Yeah, hey, if I just had a horse, I could
+keep traveling on my way... Please!
+Please find and bring me a horse!"
+11,Talk02,"おぉ！ その馬…""私の相棒にぴったりです！
+なかなかの馬ですね…
+どうか その馬を私に譲ってもらえませんか？ 
+300ルピーで買い取りますが いかがでしょう？","Ohh! HEY! That horse... It's just like my
+old partner! Talk about a fine horse...
+
+Think I could have this horse? 
+I'll pay you 300 rupees for it, what do
+you say, hey?"
+12,Talk03,"やあやあ""本当ですか！
+後で返してくれって言っても返せませんよ？","Heyyyyy, really?!
+You know this is for keeps, right?"
+13,Talk04,"や…あ…や…あ…やあ そうですか… 
+見れば苦労して捕まえた馬のようですからね…
+もし売ってもいい馬がいれば連れてきてください
+野生馬でもかまいませんのでお願いします！","Heyyyyyy... Heyyyyy... Hey, OK, I see... 
+I mean sure, after you went to the
+trouble of catching this horse and all...
+I get it. But if you find a horse you don't
+mind selling, please bring it to me, hey?
+Even a wild horse is fine! Just, please!"
+14,Talk05,"やあやあ あなたから買った この馬は
+私の新しい相棒として旅の大切なお供にします！
+それではさっそく相棒と旅を続けます！
+お互いに良い旅を！","Hey, hey! I'm making this horse I bought
+from you my new partner! My new best
+buddy and traveling attendant!
+So off we go, me and my partner!
+May we all have good travels!"
+15,Talk06,"馬さえいれば まだ旅を続けられるのに…馬さえ…""馬さえ…馬さえいれば！！","All I need is a horse to continue my
+travels... A horse... A horse...  
+If I just had a horse!"
+16,Talk08,"馬さえいれば まだ旅を続けられるのに…
+あなたに同じ旅の仲間として お願いがあります
+旅の途中で私に合うような馬を見つけたら
+100いや300ルピーで譲ってもらえませんか？","Hey, yeah, if I just had a horse, I could
+continue my travels, and you're a fellow
+traveler, so I have to ask, right?
+If, on your travels, you see a horse that
+would suit me, would you sell it to me for
+100, no, 300 rupees?"
+17,Talk09,"やあ…やあ…""同じ旅人だというのに残念です…
+でも私はあなたを信じてここでお待ちしています","Heyyyy... Heyyyy... That's disappointing
+to hear from a fellow traveler. I'll trust in
+your eventual generosity and wait here."
+18,Talk10,"ありがとう！ただ あまり大きな馬だと私には
+乗りこなせないので適度なサイズの馬を頼みます","Hey, thanks! But don't bring me too big
+a horse... Won't be able to ride it!
+No, I need a suitably sized horse!"
+19,Talk11,"やあやあ馬を連れてきてくれたのですね！
+ただちょっと私が乗るには大きすぎますね…
+馬を連れてきてくれたのに申し訳ありませんが
+私が乗れるような普通の馬を譲ってください…","Hey, hey! You brought a horse!
+But it's a little too big for me to ride...
+
+Sorry to say this after all the nice
+horse-bringing you just did, but could
+you please find me a normal horse?"
+20,Talk12,"やあやあそれはありがたい！
+では約束通り300ルピーで馬を買い取ります！","Hey, yeah, thanks so much!
+Here's the 300 rupees I promised you
+as fair payment for this horse!"
+21,Talk13,"あなたのその馬…無理を承知でお願いします！
+その馬を300ルピーで譲ってもらえませんか？","So that horse... Hey, I know this is asking
+a lot! But could I buy that horse for 
+300 rupees?"
+22,Talk14,"やあやあ馬を連れてきてくれたのですね！
+しかし なにやら恐ろしい馬ですね…
+馬を連れてきてくれたのに申し訳ありませんが
+私の相棒にふさわしい普通の馬を譲ってください","Hey, hey! You brought a horse!
+But it's kind of really scary...
+
+Sorry to say this after all the great
+horse-bringing you just did, but could
+you please find me a normal horse?"
+23,Talk15,"やあやあ馬を連れてきて…… って！
+その動物は馬ではありませんね！馬をよろしく！","Hey, hey! You brought a horse... 
+Wait a sec! That's not a horse at all!
+Bring me a HORSE! Please!"
+24,Talk16,"やあやあ やっぱり助けてくれる気に
+なってくださったのですか？","Hey, hey, so you decided that you 
+want to help me out?"

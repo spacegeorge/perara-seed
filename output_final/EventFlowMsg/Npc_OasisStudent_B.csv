@@ -1,0 +1,194 @@
+#,Title,JPja,USen
+1,"""0000""",通いたい,"Yes, I am."
+2,"""0001""",さよなら,Good-bye.
+3,"""0002""",練習？,Practice?
+4,near00,えっとぉ…,Uhh...
+5,talk00,"正直 ヴォーイなんて
+勉強しなくたって落とせるけどね…","To be perfectly honest, I'm only taking
+Ms. Ashai's class as a kind of refresher
+course... But I still have to study."
+6,talk01,"なあに？ ワーシャ先生の教室が終わったから
+私家に帰るんだけど…？
+あ…アナタもワーシャ先生の教室に
+通いたいとか？","What? Ms. Ashai's class is over, so
+I was on my way home...
+
+Oh, were you interested in taking Ms.
+Ashai's class? I imagine a foreign vai like
+you could learn something new..."
+7,talk02,"ワーシャ先生は昼は恋愛教室
+夜は自宅で料理教室を開いてるわよ
+でも私さ一日中勉強とか
+まっぴらごめんだからさ
+家に帰って ゆっくりするんだ","Ms. Ashai teaches a class on the ins and
+outs of relationships in the world beyond
+Gerudo Town.
+She teaches a cooking class, too. Also
+pretty important for surviving. But I'm
+exhausted from all the studying...
+I'm heading home to rest."
+8,talk03,サヴォーク,Sav'orq.
+9,talk04,"なあに？
+今からワーシャ先生の恋愛教室なんだけど…
+あ…アナタもワーシャ先生の教室に
+通いたいとか？","What? Ms. Ashai's class on
+relationships is about to start...
+
+Oh, were you interested in taking Ms.
+Ashai's class? I imagine a foreign vai like
+you could learn something new..."
+10,talk05,"ワーシャ先生は昼は恋愛教室
+夜は自宅で料理教室を開いてるわよ
+正直 私は教室なんか通わなくっても
+大丈夫だって言ってるんだけど
+ヴァーバが うるさくってね
+
+一日中 勉強とか
+ほんとありえないわ～","Ms. Ashai teaches a class on the ins and
+outs of relationships in the world beyond
+Gerudo Town.
+She teaches a cooking class, too. Also
+pretty important for surviving. To be
+honest, I wasn't going to take them...
+But my vaba was nagging me.
+Studying day and night is utterly
+ridiculous, if you ask me."
+11,talk06,"あ… あの…
+私 リッスンっていいます
+好きな食べ物は
+ヴァーバが握った塩むすびで
+みんなからは ちょっと天然入ってるね
+なんていわれます…
+……
+
+うーん… ここは天然じゃなくて
+オッチョコチョイの方がいいかな…","Um. Hello. My name is Risa.
+
+
+My favorite food is the salted rice balls
+my vaba likes to make. I've gotten very
+good at making them, too.
+People say they're almost as good as
+hers, even...
+
+Wait, I should say \""grandmother,\"" not
+\""vaba.\"" And maybe not \""almost as good.\"""
+12,talk07,"って！
+ちょっと何勝手に入ってきてんのよ！
+ち…違うから…
+
+ヴォーイと会話するための
+練習とかじゃないから！","Hey! What are you doing coming in
+here?!
+
+It's really rude to just barge in! What?
+I'm practicing for getting a job in
+a restaurant, obviously!"
+13,talk08,"ん…？
+……","Hm?
+..."
+14,talk09,"ちょ ちょっと寝ぼけてただけなんだから！
+さっきの事は忘れなさいよね！
+と… とにかくもう寝るから
+さっさと出て行ってくれない？","I-I was still half asleep—that's why I
+messed up! Just forget everything you
+saw!
+Anyway, I'm g-gonna go to sleep now, so
+get out of here, will you?"
+15,talk10,"お お酒強いんですね～
+ウチはお酒に弱い家系で
+お酒飲んじゃうと
+すぐに赤くなっちゃうんです～
+でも…
+
+アナタの前だったら
+今日はいいかなって…
+……
+
+うーん… これだと安いヴァーイに
+みられちゃうかなぁ…","Oh, wow, you really are able to hold your
+drink, aren't you?
+
+I'd always heard Hylians turn pretty
+red when they've been drinking.
+
+Gerudo don't, really. But we're red
+already, so that makes sense.
+
+I wouldn't mind seeing you turn a little
+red, though...
+
+Heheh, that sounded silly the moment
+I said it..."
+16,talk11,"き…今日は…
+送ってくれてサークサーク
+あの…夜は冷えるし…
+よかったらウチに…
+……
+
+あっ… ここってヴォーイ入れないじゃん…
+
+
+しゃーない その場合は外で…","Sarqso for walking me home today.
+
+
+Um... It's so cold at night...
+Maybe you'd...
+
+Aw. I forgot. Voe can't even come in
+here... Elsewhere, that might have been
+a good line..."
+17,talk12,"って！アンタ！
+勝手に入ってくんなって言ったでしょ！
+べ別に デートの練習とかじゃないし
+
+ってか もう寝るんだから
+さっさと出て行ってくれない？","Hey! I already told you not to just come
+barging in here!
+
+It's rude to interrupt someone when
+they're practicing, you know!
+
+Anyway, I'm going to go to bed.
+Could you leave? Like, now?"
+18,talk13,"って！アンタ！
+
+勝手に入ってくんなって
+何回言ったらわかるのよ！
+べ別に彼が出来た時の練習とかじゃないし
+
+ってか もう寝るんだから
+さっさと出て行ってくれない？","Seriously? You again?! How many times
+do I have to tell you how rude what
+you're doing is?
+Interrupting my practice... Geez...
+
+
+And anyway, I'm about to go to bed, so
+could you please leave? Now?"
+19,talk14,"ももう寝るんだから
+さっさと出て行ってくれる？
+…そそれと さっき見たことは
+誰にも言わないように…","L-look, I'm going to bed, so could you
+please leave now?
+
+...A-and don't utter a word about my practice."
+20,talk15,"あアンタ…
+いい加減にしなさいよ！！
+ってか今まで見たこと
+誰かに言ったら許さないからね！
+さぁ もう出てってよ！
+練習の邪魔よ！","Y-you... Get out! You're interrupting my
+practice!"
+21,talk16,……あっ,...Oops.
+22,talk17,サヴォッタ！,Sav'otta!
+23,talk18,サヴァーク！,Sav'aaq!
+24,talk19,サヴァサーバ！,Sav'saaba!
+25,talk20,"ちょっと！
+家の中で暴れないでよ！
+ったく…私は忙しいんだから
+さっさと出て行ってくれない？","WHOA! Don't go getting violent in
+people's homes!
+
+Look... I'm busy right now.
+Can't you go somewhere else?"

@@ -1,0 +1,611 @@
+#,Title,JPja,USen
+1,"""0000""",はい！,Yes!
+2,"""0001""",いいえ！,No!
+3,"""0002""",お願いします！,Yes!
+4,"""0003""",結構です！,I'm fine.
+5,"""0004""",やめておきます！,Never mind!
+6,"""0005""",大丈夫です！,That's OK.
+7,"""0006""",もうやめる！,I'm through for now.
+8,"""0007""",なんでもない！,Nothing!
+9,"""0008""",それでもやめる！,I still want out!
+10,"""0009""",やっぱり続ける！,"Well, in that case..."
+11,"""0010""",進みたい！,Do your worst!
+12,"""0011""",まだこのままで！,I'll just take it easy...
+13,"""0012""",人生そのもの！,Shield surfing is life!
+14,"""0013""",わからない！,*shrug*
+15,"""0014""",上級コースで,The advanced course.
+16,"""0015""",初級コースで,The beginner course.
+17,"""0016""",やっぱりやめる！,Neither of them!
+18,"""0018""",ごめんなさい…,Sorry...
+19,"""0019""",そうなんですか？,Does that happen?
+20,AboutCourse_Beginner,"この下へ真っ直ぐ進むと大きな橋があるわ
+まずは その下まで滑ってもらいましょうか
+本当に一本道のシンプルなコースだけど
+これくらいの方が腕前の差がはっきり出るのよ","Straight down from here, you'll see a
+big bridge. Why don't you start by
+surfing your way there?
+It's a pretty no-frills course, but it'll
+help me get a bead on where you're at
+with your technique."
+21,AboutGame_00,"あら意外と慎重派なのね
+じゃあ簡単に説明するわよ
+ここからゴールまでいかに早く滑り降りるか？
+いわゆる タイムアタックという競技ね！
+盾サーフィンのやり方くらいは知っているわよね
+盾を構えながら ジャンプ中に盾に乗るのよ！
+別に途中で盾から降りても構わないし…
+スピードに乗って空を飛んでもいいわよ！","Wow, you seem serious about this.
+Not very surfer-like, but OK. I'll boil
+it down for you.
+Shield surfing is all about how fast you
+can make it to the bottom of the hill.Quick check—you do know how to surf,
+right? Just hold out your shield, and
+then hop onto it in mid-jump.
+For this course, I don't care if you stay
+on your shield or not. You can go so fast
+that you start to fly for all I care."
+22,AskAboutShieldSurfing_Beginner,"分かったわ…じゃあ試験の代わりに
+あなたに一つ意気込みを聞かせてもらうわね！
+あなたにとって盾サーフィンとは？","Hmmm. Let's put the test aside for now
+and just ask you straight out...What does shield surfing really mean
+to you?"
+23,AskCourse_Expert,"良い心がけね いい弟子を持ったものだわ
+どっちのコースで腕を見せてくれるの？","That's my boy. Which slope were you
+thinking for today?"
+24,AskPurpose_Beginner,"元・プロ盾サーファーの私に
+会いに来たのね？","You hiked all this way to meet the best
+there ever was at shield surfing, right?"
+25,AskPurpose_Expert,"今日はどうしたの？日頃の練習の成果を
+私に見せに来てくれたのかしら？","So what brings you out here today? 
+Wanna show me the results of all that
+training I'm sure you've been doing?"
+26,AskRetry_Beginner,"さてと…もう一度滑ってみる？
+モチロン授業料として20ルピー頂くけど","So want to hit the slope again?
+It'll be another 20 rupees for the
+course fee."
+27,AskRetry_Expert,さてと もう一度腕を見てあげましょうか？,So wanna hit the slope one more time?
+28,AskRupee_Beginner,"そうね…一回につき20ルピー
+ってトコかしらね？","How does... Hmmm... Is 20 rupees
+a session OK with you?"
+29,AskRupee_Expert,"それじゃ いつも通りだけど
+授業料の20ルピーを頂くわよ？","The same charge as usual applies.
+You have that 20 rupees for the course
+fee, right?"
+30,AskTraining_Beginner,"やっぱりね！でも私はもう引退した身…
+雪の女王と呼ばれたのも随分と昔の話よ
+でも そんな私でよければ
+あなたの滑りを見てあげるわよ？","Knew it! Too bad for you that I'm retired,
+huh? It's been years since anyone knew
+me as the Duchess of Downhill.
+But if you don't mind a few pointers from
+a has-been, I'd be happy to critique
+your technique."
+31,CautionBigDoor_Expert,"あ あと！間違っても変な方に行っちゃダメよ！道を間違うと大きな石の扉があるんだけど
+あんなのにぶつかったら大ケガするわよ","Oh, one more thing! Watch where you
+surf!If you go the wrong way, you're bound
+to slam into this giant stone door. Take
+my word for it...that thing hurts."
+32,ChangeBeginnerToExpert_Expert,"それじゃ上級コースでの滑りを見るわね
+今までよりコースが長いけど頑張ってね！
+ちなみに上級コースをクリアした暁には
+クリアタイムごとに記念の盾を贈呈するわよ","Now let's see you hang on the advanced
+slope. It's longer than the beginner
+course, but stick with it!
+The upside for the advanced course?
+Finish it, and I'll give you a nice shield.
+How nice all depends on your time!"
+33,ChangeBeginnerToExpert_Expert1,"それじゃ上級コースでの滑りを見るわね
+今までよりコースが長いけど頑張ってね！
+あなたには盾を全て渡したから…
+クリアタイムに応じた額の ルピーをあげるわ","Now let's see you hang on the advanced
+slope. It's longer than the beginner
+course, but stick with it!
+You already won all the shields, so how
+about I give you rupees instead?
+The faster you finish, the more you get!"
+34,ChangeExpertToBeginner_Expert,"それじゃ初級コースでの滑りを見るわね
+初心を忘れていないか チェックさせて貰うわよ","Fine with me. Let's see how you handle
+the beginner course. I'm very curious to
+see if you can improve your old time."
+35,Check_Money00,"モチロン上級コースの指導もタダじゃないわ！
+20ルピーで引き受けてあげる！","Of course, you still have to pay the
+instructor's fee, even on the advanced
+course. Still 20 rupees, if you wondered."
+36,Check_Money02,"モチロン授業料として
+20ルピーは頂くけど","Of course, I'll still need that course fee
+of 20 rupees."
+37,EntranceExplain_Beginner,"それじゃあなたの滑りがどんなものか
+簡単なコースで見せてもらいましょうか","What I suggest is starting simple with
+a basic course, so we can take a look at
+your downhill fundamentals."
+38,EntranceTalk_Beginner,あら こんな山奥に何の用？,"Huh... Welcome to the middle of
+nowhere. Population: us."
+39,EntranceTalk_Beginner_Default,あ！ さては…！,Hey...wait a second...
+40,EntranceTalk_Beginner_Default_00,"元・プロ盾サーファーの私でよければ
+あなたの滑りを見てあげるわよ？","I'll watch you surf. If you don't mind a
+little attention from a former pro, that is."
+41,EntranceTalk_Beginner_Default_01,"授業料として一回につき20ルピー
+いただくけど","Not for free, though. There's a 20-rupee
+fee for every try."
+42,EntranceTalk_Beginner_Default_02,"さてと…授業料として
+20ルピーいただくけど いいかしら？","I will need you to cough up 20 rupees
+as a course fee."
+43,EntranceTalk_Beginner_SP,"その盾を持っているということは
+あなた…！","If you're carrying THAT shield, then...
+Whoa. This is big!"
+44,EntranceTalk_Expert_Default,"あら あなた元気にしてた？
+私は相変わらず元気よ！","Hey there. Everything going OK?
+What, me? Psh, like anything
+ever gets me down!"
+45,EntranceTalk_Expert_SP,"随分と立派になったものね…
+あなたの師匠として私も鼻が高いわ","You're practically a pro yourself these
+days. You won't forget who taught you
+everything you know, right?"
+46,EntranceTalk_No_Shield,"…あら？
+あなた盾をひとつも持ってないじゃない！
+盾サーファーの基本は自給自足…
+自分の盾は自分で探してくるのよ！","...Huh? You don't have a shield!
+
+
+Self-sufficiency is the foundation of
+shield surfing. Go find a shield and
+come back!"
+47,Exit_01,"じゃあ今日はここまでね
+盾サーファーへの道は まだまだこれからよ！","Sure, take a breather. Your journey to
+dominating the slopes has just started!"
+48,Exit_02,"身体も冷えたでしょうし小屋まで送るわ
+少し温まっていきなさいな","You must be cold. I'll see you back to the
+cabin. You can warm up a bit there
+before you go."
+49,Exit_03,"それじゃ サヨナラ
+次に会った時の成長を楽しみにしてるわ","Thanks for stopping by. I look forward
+to seeing you beat your record the next
+time we meet."
+50,ExplainExpertCourseToBeginner_Expert_00,"長いコース上で遭難されると大変だから
+ゴールの位置は一応確認させてね？","Getting stranded on a long course is no
+fun at all. Make sure you keep your goal
+in the back of your mind, OK?"
+51,ExplainExpertCourseToBeginner_Expert_01,"まず初級コースでゴールだった大きな橋の下を
+真っ直ぐ進むじゃない？","First, go straight under the same bridge
+that was your goal for the beginners'
+course."
+52,ExplainExpertCourseToBeginner_Expert_02,"つきあたったら そこで華麗なターンを決めて
+また ずーっと真っ直ぐよ簡単でしょ？
+上級コースのゴールには
+大きな旗を立ててるから目標にしてね
+大きく道を外れて迷ってしまったら
+失格と見なして ここまで連れ戻すわよ！","Once you're through there, make a
+sharp turn before going down a long
+straightaway.
+You should be able to see a pair of big
+flags marking the finish line. Head for
+those and you can't go wrong.
+If you do manage to veer too far off
+course, I'll just drag you back here."
+53,Failed_00_00,"いくらなんでも少し遅すぎるわ！
+今回はここまでよ！少し待ってなさい！","I've seen slowpokes before, but you're
+something else! That's the end of the
+run. Come on back!"
+54,Failed_00_01,"頑張って…あなたなら もう少しいけるわよ！
+今の半分ぐらいの時間でゴールできるはずよ？","You still have some room to improve,
+but who doesn't? Stick with it, and I
+think you can cut your time in half."
+55,Failed_00_02,"どこを通っていくかは
+スタート前に考えておくのを お勧めするわ？","One helpful thing is thinking about your
+moves in advance. Don't get so caught
+up in the run that you forget your goal."
+56,Failed_01_00,"あら？ あの子の姿が見当たらないわ？！
+こうしちゃいられない急いで捜さなきゃ！","Huh? How'd I lose track of him?! 
+That's not good... I better find him
+before it's too late!"
+57,Failed_01_01,"まったく… どこに行こうとしてたのかしら？
+危うく遭難するところだったのよ？","What in the world... Where did you think
+you were going? You coulda gotten
+stranded out there!"
+58,Failed_01_02_00,"謝るぐらいなら最初からしないでちょうだい？
+…あなたが無事でよかったわ","Don't apologize, just...don't do it to
+begin with. Anyway, at least you're not
+hurt. You had me worried!"
+59,Failed_01_02_01,"…あなた私を凍死させるつもり？
+寒いのは雪山だけで充分よ勘弁して…","...Yes? Obviously? It's cold. There's
+snow. Yeah, it happens. It's gonna
+happen to US if we don't get moving.Sheesh..."
+60,Failed_02,"今日は なんだかお疲れみたいね…
+時には休憩も必要よ…","You seem off your game today... Well,
+everyone needs a break sometimes."
+61,GoalBeginnerCourse_BadTime_Expert,"タイムは分秒ね…
+あなたなら もっと上を目指せるハズよ？
+少しの差かもしれないけど その積み重ねが
+いつかに繋がるの取りこぼしちゃダメよ！","You clocked in at :....
+Honestly, I think you can do better.It might feel like you're only making
+tiny gains, but they add up. Keep at it!"
+62,GoalBeginnerCourse_GoodTime_Expert,"タイムは分秒ね
+まぁ… こんなもんだろうとは思ってたわよ
+そりゃあ私が上級者と認めたんですもの
+これぐらいのタイムは当然よね？","You clocked in at :....
+See? I knew you had it in you. That's
+why I let you move up to the real course.
+A showing like this was a matter of when,
+not if."
+63,Goal_00,"はーい ストップ！
+迎えに行ってあげるから少し待ってて！","Aaaand time! I'll wait right
+here for you to come back!"
+64,Goal_BadTime_Beginner,"さてと… タイムは分秒ね…
+冷たいようだけど まだまだ練習が必要ね！
+次に進みたいのなら コースの先を見る事よ！
+一見平らに見えても意外と凹凸があるものよ","You clocked in at :....
+Don't take this the wrong way, but you
+have some serious practicing to do.
+You can't move on to the trickier slopes
+until you've learned to keep your mind
+on what's in front of you now.
+What seems like a smooth stretch can
+be bumpier than it looks!"
+65,Goal_BadTime_Expert,"さてと… タイムは分秒ね…
+はっきり言って まだまだね
+雪や砂なんかの上では盾は傷付かないから
+安物でも思う存分練習していけばいいわ","You clocked in at :....
+Let's face it. You need to get serious.Remember, your shield doesn't take
+damage on snow or sand, so surf those
+dunes all you want for practice."
+66,Goal_BadTime_Expert_Present,この盾を使って もっと練習しなさい,"Take this shield and keep practicing
+with it."
+67,Goal_BadTime_Expert_Present1,"まぁ一応ゴールしたことだし…
+ご褒美にコレをあげるわ","Well...you made it to the goal. Everyone
+has to start somewhere. Take this,
+and don't give up, OK?"
+68,Goal_BadTime_Expert_dame,"さてと… タイムは分秒ね…
+腕が落ちたんじゃないの？
+もう一度初級コースで
+練習したほうがいいわね…","You clocked in at :....
+Is it me, or have you gotten worse?Maybe you should hit the beginner
+slopes a few more times to bone up on
+the fundamentals."
+69,Goal_BadTime_Expert_dame1,"さてと… タイムは分秒ね…
+ようやく初心者脱出 ってところかしら
+私もこのタイムだったころは
+段々調子が良くなってきて楽しい時期だったわ
+あなたも その楽しさ味わってね","You clocked in at :.... I guess
+you're getting the hang of it by now.This is about the time I knew the whole
+surfing thing might be going somewhere.
+I hope you have as much fun as I did!"
+70,Goal_BadTime_Expert_rupi,"…あなた途中で盾を拾ったの？
+さっきまではポーチに余裕があったようだけど…
+この盾 あなたにもらってほしいから
+ポーチを整理するまで次の滑りはお預けよ","Did you...pick up a shield along the way?
+I could swear there was room in your
+pack when you left...
+It's fine. It's fine. I'll just hold on to it
+until the next time you surf with some
+free space in your gear."
+71,Goal_BadTime_Expert_rupi_01,"あらいけない！ この盾は前回
+あなたに譲ったんだったわね
+代わりといってはなんだけど
+このルピーを受け取って頂戴","Whoops! This is the same shield I gave
+you last time, huh?Uh...how about some rupees as a
+consolation prize?"
+72,Goal_BadTime_Expert_rupi_02,"そんな！分秒？！
+なんて盾サーフィンテクニックなの？！
+私以上の逸材だわ…！ あなた！！
+プロ盾サーファーを名乗っても良いかもね！","Wow—:.?! Are you for
+real?! You're better than I ever was...
+You could be a pro if you wanted!"
+73,Goal_BadTime_Expert_rupi_03,"タイムは分秒ね
+私とほぼ同タイム！自慢していい腕前だわ！
+こんなタイムを出せたのは他にはリト族だけよ
+彼らは飛んで近道でもしたんでしょうけどね","You clocked in at :....
+That's on par with my best time!You should be proud. The only other
+ones on that level are Rito, and they
+tend to cheat by flying."
+74,Goal_BadTime_Expert_rupi_04,"タイムは分秒ね…
+まぁまぁ並ってところかしら
+まだコース取りが甘いんじゃないかしら？
+出来るだけスピードに乗ったまま曲がるのよ","You clocked in at :....
+Decent enough. You might be playing it
+too safe, though.
+You want to really build up speed before
+you hit the turns."
+75,Goal_BadTime_Expert_rupi_05,"さてと… タイムは分秒ね…
+はっきり言って まだまだね
+雪や砂なんかの上では盾は傷付かないから
+安物でも思う存分練習していけばいいわ","You clocked in at :....
+Let's face it. You need to get serious.Remember, your shield doesn't take
+damage on snow or sand, so surf those
+dunes all you want for practice."
+76,Goal_CommonTime_Beginner,"タイムは分秒ね…
+これといって言うことは何もないわ平凡よ
+このレベルで次のステップに進むには
+少し不安が残るけど…あなたに任せるわ？","You clocked in at :....
+Pretty average time, all told. I'm not too
+keen on letting you move on, but...
+Well, I'll make it your call. You comfy
+where you are, or do you want to push
+ahead anyway?"
+77,Goal_CommonTime_Expert,"タイムは分秒ね…
+まぁまぁ並ってところかしら
+まだコース取りが甘いんじゃないかしら？
+出来るだけスピードに乗ったまま曲がるのよ","You clocked in at :....
+Decent enough. Could be faster, though.
+
+You want to really build up speed before
+you hit the turns."
+78,Goal_CommonTime_Expert1,"タイムは分秒ね…
+一般的には早いって言われるタイムよ！
+自信を持って上を目指してね！","You clocked in at :.... That's
+pretty fast, as these things go!Stay focused, believe in yourself, and
+you'll be setting new records like it's
+nothing!"
+79,Goal_CommonTime_Expert2,"タイムは分秒！
+私の記録に近いタイムだわ！
+ふふ… なかなかの腕前ね
+褒めてあげるわ","You clocked in at :.... That's not
+too far off my own record.That takes some serious skills! I'll admit,
+you've impressed me."
+80,Goal_CommonTime_Expert_Present,"次はこの盾を使ってみなさい
+私からの餞別よ","Take this shield and use it the next time
+you hit the slopes."
+81,Goal_CommonTime_Expert_Present1,"次を期待して コレをあげるわ
+次回も頑張るのよ","I'm giving you this but only so you can
+use it to learn to do better. I wanna see
+you give it all you got next time."
+82,Goal_GoodTime_Beginner,"タイムは分秒！
+才能を感じさせる いい滑りだったわよ
+これなら次のステップに進んでも
+いい滑りを見せてくれそうね期待してるわ！
+ということで上級コースを解禁するわ
+私の期待を裏切らないように頑張ってね？","You clocked in at :....
+Great run! I'm definitely seeing some
+talent in you.
+I'd like to see what you can do on a
+harder slope now. You can consider the
+advanced course open for business!
+Make me proud, OK?"
+83,Goal_GoodTime_Expert,"タイムは分秒ね
+私とほぼ同タイム！自慢していい腕前だわ！
+こんなタイムを出せたのは他にはリト族だけよ
+彼らは飛んで近道でもしたんでしょうけどね
+私から教えられることは もうほとんど無いわ…","You clocked in at :....
+That's on par with my best time!You should be proud. The only other
+ones on that level are Rito, and they
+tend to cheat by flying.
+I'm out of things to teach you."
+84,Goal_GoodTime_Expert1,"タイムは…分秒？！
+私の記録を抜いたわね…負けたわ…
+私から教えられることは もう無いわ
+より高みを目指して がんばりなさい！","You clocked in at :.?! That's...
+That's better than I've ever done...
+You beat my record.
+What are you still paying me instruction
+fees for? There's nothing else I can
+teach you. Well done, champ."
+85,Goal_GoodTime_Expert_Present,これは卒業の記念よ遠慮せず受け取ってね,"Consider this a graduation gift. It's all
+yours, champ!"
+86,Goal_GoodTime_Expert_Present1,"素晴らしい記録のご褒美よ
+もらって頂戴","A shiny new record deserves a shiny new
+shield. Here y'go!"
+87,Goal_GoodTime_Expert_Present2,"これは今回のご褒美よ
+受け取って頂戴",Nice time! That deserves a prize.
+88,Goal_WonderfulTime_Expert,"そんな！分秒？！
+なんて盾サーフィンテクニックなの？！
+私以上の逸材だわ…！ あなた！！
+プロ盾サーファーを名乗っても良いかもね！","Wow—:.?! You're no
+slouch! Keep that up, and you could
+easily go pro someday."
+89,HintNextStep_Beginner,"私が納得できる滑りを見せてくれたら
+次のステップに進むことを認めてあげるわ","If I dig the way you surf, I'll let you
+advance to the next step. But we can
+go down that hill when we get to it."
+90,IfAnswerFact_Beginner,"あなたふざけているのかしら？
+でも…その気持ち よく分かるわ
+言葉に出来ない何かがそこにあるから
+私達はこんなにも熱くなれるんですものね
+弟子のあなたに教えられるとは思わなかったわ
+あなたなら次に進んでも上手くやれそうね
+合格よ上級コースの使用を許可するわ
+期待しているんだから ガッカリさせないでよ？","Uh...are you pulling my leg? Though...
+These days I'd probably answer the
+same way.
+Shield surfing is how we express a
+passion that we can't put into words.
+Surfing is its own meaning.
+Funny, I started out thinking I'd teach
+you a few tricks, but I ended up learning
+something pretty important.
+I think you'll be just fine on the
+advanced course. But don't make me
+regret that decision, OK? Haha..."
+91,IfAnswerRetry_Beginner,"そうね！""地道に練習するのが一番よ！
+そういう真面目なところ…""嫌いじゃないわ","Good. Knowing your limits is important
+when it comes to a hobby that involves
+screaming down the side of a mountain.
+You know, you've got a good head on
+your shoulders. Let's keep it there."
+92,IfAnswerSurface_Beginner,"そう…人生 ねぇ…
+あなたは盾サーフィンの上辺しか見てないのね
+滑って転んでぶつかって…
+そんな人生は私だけで充分よ
+そんな心構えで先に進ませる訳にはいかないわ
+あなたには残念だけど もう一度やり直しね","Life? It's your whole life? That's your
+answer? *sigh*Slipping, crashing, and falling over
+cliffs is no kind of a life for anybody.
+Trust me—I know.
+If that's how you see things, you're in no
+shape to advance yet. Sorry, but I'll have
+to ask you to do the basic course again."
+93,IfSelectBeginnerCourse_Expert,"あら そっちでいいの？
+まぁ初心に帰るのもたまには大事よね","Oh, really? Yeah, sometimes it's good to
+review the fundamentals."
+94,IfSelectExpertCourse_Expert,"分かったわ日頃の練習の成果がどれ程のものか
+しっかりと見せていただこうじゃないの
+ちなみに上級コースをクリアした暁には
+クリアタイムごとに記念の盾を贈呈するわよ
+しっかり頑張りなさいな","Sure. Let's see just how far your practice
+has gotten you.Once you clear the advanced course,
+you can earn special shields for beating
+certain times. How's that for incentive?"
+95,IfSelectExpertCourse_Expert1,"分かったわ日頃の練習の成果がどれ程のものか
+しっかりと見せていただこうじゃないの
+ちなみに上級コースをクリアした暁には
+クリアタイムごとに記念の盾を贈呈するわよ
+……
+あら あなたこれ以上盾が持てないみたいね
+ご褒美の盾が受け取れるように空きを作ってね","Sure. Let's see just how far your practice
+has gotten you.Once you clear the advanced course,
+you can earn special shields for beating
+certain times. How's that for incentive?
+Except...it looks like you have all the
+shields you can carry. Ditch one or I
+can't give you your proper reward!"
+96,Initial_GlassShield,"……
+その背中のモノは！
+近衛の盾じゃない…私にとっては
+壊れやすい盾なんて何の価値もないわ…","*sigh...* Hey... What's that on
+your back?!A royal guard's shield... *yawn*
+Those flimsy pieces of garbage are
+worthless to serious surfers."
+97,Initial_GlassShield1,"……
+その背中のモノは！
+近衛の盾じゃない…私にとっては
+壊れやすい盾なんて何の価値もないわ…","*sigh...* Hey... What's that on
+your back?!A royal guard's shield... *yawn*
+Those flimsy pieces of garbage are
+worthless to serious surfers."
+98,Initial_GoldenShield,"……
+その背中のモノは！
+ゲルド名産 ゲルドの盾じゃない！
+滑りやすさを きちんと考えてあるのよね！","*sigh...* Hey... What's that on
+your back?!That's a Gerudo shield! The Gerudo
+are famous for it! Wow, they put actual
+thought into making it surfable."
+99,Initial_GoldenShield1,"……
+その背中のモノは！
+ゲルド名産 ゲルドの盾じゃない！
+滑りやすさを きちんと考えてあるのよね！","*sigh...* Hey... What's that on
+your back?!That's a Gerudo shield! The Gerudo
+are famous for it! Wow, they put actual
+thought into making it surfable."
+100,Initial_MoonlightShield,"……
+その背中のモノは！
+幻の盾…太陽の盾じゃない！
+滅多にお目にかかれない逸品よ…！","*sigh...* Hey... What's that on
+your back?!That's a radiant shield! You wouldn't
+believe how rare those things are! You
+practically never see them anymore..."
+101,Initial_MoonlightShield1,"……
+その背中のモノは！
+幻の盾…太陽の盾じゃない！
+滅多にお目にかかれない逸品よ…！","*sigh...* Hey... What's that on
+your back?!That's a radiant shield! You wouldn't
+believe how elusive those things are! You
+practically never see them anymore..."
+102,Initial_RoyalShield,"……
+その背中のモノは！
+…王家の盾じゃない！
+ここの小屋にも飾ってるんだけど
+私が今まで出会った盾の中では
+最高峰のデザインと滑りやすさよ！","*sigh...* Hey... What's that on
+your back?!Oooh, a royal shield! I have one hanging
+up in my cabin too. It's hands down the
+best design for surfing I've ever seen!"
+103,Initial_RoyalShield1,"……
+その背中のモノは！
+王家の盾じゃない！私が出会った盾の中では
+最高峰のデザインと滑りやすさよ！","*sigh...* Hey... What's that on
+your back?!Oooh, a royal shield! I have one hanging
+up in my cabin too. It's hands down the
+best design for surfing I've ever seen!"
+104,Initial_SpikeShield,"……
+その背中のモノは！
+鋼鉄リザルシールドじゃない！ そのトゲが
+エッジの効いた滑りには最適なのよ！","*sigh...* Hey... What's that on
+your back?!It's a steel Lizal shield! That spike is
+worth major style points for when you
+want to look hard-core on the slope!"
+105,Initial_SpikeShield1,"……
+その背中のモノは！
+鋼鉄リザルシールドじゃない！ そのトゲが
+エッジの効いた滑りには最適なのよ！","*sigh...* Hey... What's that on
+your back?!It's a steel Lizal shield! That spike is
+worth major style points for when you
+want to look hard-core on the slope!"
+106,Initial_SunShield,"……
+その背中のモノは！
+七宝の盾！！ ゲレンデが溶けるほど
+焦がれた銘品が今目の前に…！！","*sigh...* Hey... What's that on
+your back?!A Daybreaker! Am I dreaming?!
+I've wanted that shield so bad that I've
+seen it in my dreams..."
+107,Initial_SunShield1,"……
+その背中のモノは！
+七宝の盾！！ ゲレンデが溶けるほど
+焦がれた銘品が今目の前に…！！","*sigh...* Hey... What's that on
+your back?!A Daybreaker! Am I dreaming?!
+I've wanted that shield so bad that I've
+seen it in my dreams..."
+108,LetsStart_01,"それじゃ早速 コースに行くわよ
+ついてらっしゃい","Then let's get straight to the slopes.
+Follow me!"
+109,LetsStart_02,さて…競技内容の説明を聞いていく？,"Do you need a rundown on how this
+works?"
+110,LetsStart_03,"あら競技内容くらいは知っているのね！
+手間がかからなくて良かったわ","Oh, so you already know what you're in
+for. Suits me. I hate having to explain to
+casuals anyway."
+111,LetsStart_04,"それじゃ いい滑りを期待してるわ
+準備はいいかしら？""位置について！","I wanna see you shred out there.
+You ready? On your mark..."
+112,NG_00,"え違うの？紛らわしい…
+べ別に期待してたわけじゃないんだからね？","Really? Are...are you sure? I-it's not
+like I was expecting visitors today."
+113,NoPlay_00,"そうよね…現役の時はみんな あんなに
+チヤホヤしてたのに世間って厳しいわね…","Right... I used to be a big deal back in
+my day, but the world moves on fast."
+114,NotHadEnoughRupee,"授業料が足りないみたいね…！
+20ルピー用意してから出直してらっしゃい","Looks like you're too broke to afford the
+instructor's fee. Come back when you
+can scrape together 20 rupees."
+115,Pouch_Check00,"ポーチの整理ができたみたいね！
+はい！約束の盾よ！","Hey, look who made some room in their
+pack! I got that shield I promised you
+right here."
+116,Pouch_Check01,"上級コース ゴール記念の盾を
+あげたいんだけど…","I wish I could give you that prize shield
+for the advance course I was holding
+for you..."
+117,Pouch_Check02,"まだ ポーチの整理ができていないみたいね…
+渡すまで次の練習はお預けよ！","Buuuut you still haven't made any room
+for it in your pack. So I'll keep holding
+on to it for the next time you stop by!"
+118,Pouch_Check03,それじゃあ小屋へ戻りましょうか,"C'mon, let's head back to the cabin."
+119,Pouch_Check04,ポーチの整理ができたら声をかけてね！,"When you find some room in your pack,
+let me know!"
+120,Pouch_Check05,"渡した盾を使った滑り…
+さっそく見せてくれるのね！","I want to see you shred on that shield
+I gave you... Show me what you got!"
+121,RefusePay_00,"あら残念ね！""元・プロに見てもらう
+チャンスなんてなかなかないわよ！","Wow, OK. If you want to pass up the
+chance to get tips from a former pro,
+hey, I won't stop you."
+122,Stop_00,あら どうしたの？,What's up?
+123,Stop_01,"あら…もし途中でやめても
+受け取ったルピーは返せないわよ？","Uh... You know I'm not giving your
+rupees back, right?"
+124,Stop_02,"中途半端で投げ出すのはもったいないけど…
+また次回頑張って頂戴ね！","Feels like a waste to me, but all right.
+Just promise me you'll come back
+sometime and show me what you've got!"
+125,Stop_03,じゃあ頑張って腕前を見せてちょうだいね！,"Great! Now get back out there, and show
+me what you've got!"
+126,TalkForPay_Beginner,"自分の将来に対して投資が出来る
+アスリートとしての第一歩クリアね！","Smart choice. I always say, if you're not
+willing to put your money where your
+mouth is, how serious are you really?"
+127,TellRupee_Beginner,"ふふふ…今のあなたの情熱
+昔の私を思い出すわ！
+ただし！元・プロの指導なんだから
+モチロン タダじゃあないわよ？","Such enthusiasm! I haven't seen anyone
+with passion like that since...well, me!But I'm not just any surfer-come-lately.
+I was the BEST. And that means my
+advice isn't free."
+128,suremi_fire_shield1,"ちょっと！何してるの？！
+やめてちょうだい！",Hey! What's the big idea?! Cut that out!

@@ -1,0 +1,483 @@
+#,Title,JPja,USen
+1,"""0000""",普通のベッド,Regular bed.
+2,"""0001""",ふかふかベッド,Soft bed.
+3,"""0002""",ふかふかのベッドって？,What's the soft bed?
+4,"""0003""",やめる,Never mind.
+5,"""0004""",朝まで,Morning.
+6,"""0005""",昼まで,Noon.
+7,"""0006""",夜まで,Night.
+8,"""0007""",やっぱりやめる,Never mind.
+9,"""0010""",預ける,Board horse.
+10,"""0011""",やめる,Never mind.
+11,"""0020""",連れ出す,Take horse.
+12,"""0021""",やめる,Never mind.
+13,"""0030""",手放す,Let one go.
+14,"""0031""",やめる,Never mind.
+15,"""0032""",はい,Yes.
+16,"""0033""",いいえ,No.
+17,"""0034""",はい,Yes.
+18,"""0035""",やめる,On second thought...
+19,"""0036""",連れて行く,Take horse.
+20,"""0037""",預ける,Board horse.
+21,"""0040""",はい,Yes.
+22,"""0041""",いいえ,No.
+23,"""0042""",はい,OK.
+24,"""0043""",変えたい,Change it.
+25,"""0050""",教えて,I don't.
+26,"""0051""",もう知ってる,"Yes, I do."
+27,"""0052""",馬を捕まえたい,Catching horses?
+28,"""0053""",知ってます,I know how.
+29,"""0062""",連れ出す,Take horse.
+30,"""0063""",預ける,Board horse.
+31,"""0064""",登録,Register horse.
+32,"""0065""",さようなら,Bye.
+33,"""0066""",登録します,"Yes, please."
+34,"""0067""",やめます,"No, thanks."
+35,Advice01,"馬は街道沿いだったら自然と街道に沿って
+走ってくれますよ
+街道を進む場合は馬に道をゆだねて
+景色を楽しんでみてはいかがですか？","If you're riding on a road, your horse 
+will just naturally follow the path, as is
+its instinct.
+Travel by road if you want to leave the
+steering up to your steed and just enjoy
+the scenery!"
+36,Advice02,"馬にとって怖くて苦手な場所は
+どう手綱で操っても動こうといたしません
+そんな時は止まっている時に注目しながら
+ステップ移動で強制的に進ませる事ができますよ
+ただし崖から落ちないように
+気をつけてくださいね","If a horse gets spooked or doesn't like 
+where it's at, it might shut down and
+refuse to move at all.
+If that happens, you can target while
+mounted and then force the horse to
+move step by step.
+Just be sure you don't put your horse
+in a dangerous situation."
+37,Advice03,"馬上から人に話しかける時は
+その人に注目しながら話しかけてください
+ただし ゆっくり移動している時しか
+話しかけられませんのでご注意くださいね","To talk to someone while on horseback,
+just target them first. 
+
+But you won't be able to talk to anyone
+if you're riding too fast, so slow it down."
+38,Advice04,"離れたところにいる所有馬を呼ぶ時は
+口笛で呼べば とんで来てくれますので","If you get separated from your horse,
+just whistle and it'll come running."
+39,Advice05,"馬にはがんばりという拍車をかけて
+高速で走る性能があります
+ただ拍車をかけて高速で走っている時は
+曲がりにくくなりますし…
+障害物にぶつかりやすくなるので
+注意が必要です
+拍車をかける時は
+広い場所でお願いしますね","Horses that have lots of stamina can
+run at top speed for a long time.
+
+However, they can't turn well when
+they're running at top speed.
+
+If your horse can't turn sharply, you're
+more likely to hit obstacles, so think
+before you ask your horse to sprint."
+40,Deliver00,"馬を連れ出すのですね
+どの馬を連れて行きますか？",Which horse do you want to take out?
+41,Deliver01,"今は馬の登録が無いようですね
+
+馬を登録するには野生馬を捕まえて
+こちらまで連れて来てください 
+登録すれば その馬は あなたのものになります","You don't have any registered horses.
+
+
+You'll need to catch a wild horse and
+bring it here for registration. Once
+you've registered it, it becomes yours."
+42,Deliver02, でよろしいですか？,"You wanted , right?"
+43,Deliver03,"それでは は
+こちらでお預かり致します
+しばらく お待ちください","All right, we'll take  into
+our care. Wait right here."
+44,Deliver04,"お待たせいたしました
+ご利用 ありがとうございます","And there you go! Thanks for choosing
+us for all your horsey needs."
+45,Deliver05,"それでは お手続き致します
+しばらく お待ちください","All right, let me handle the paperwork,
+and we'll get you settled."
+46,Deliver06,それでは他の馬になさいますか？,Would you like a different horse?
+47,Deliver07,"それでは今 お連れ中の
+ を呼び戻します
+しばらく お待ちください","All right, we'll get 
+ready for you. Sit tight."
+48,KyoukaiTalk01,"ようこそ ここは馬宿です
+
+あなたが捕まえた野生馬を登録したり
+所有馬を連れ出したり預けたりできます
+もしお泊りを希望のさいは店内の
+カウンターの方におまわりください
+さあ御用は何でしょうか？","Welcome to our stable.
+
+
+We can register a wild horse you've
+caught or retrieve or board your
+existing horses.
+And if you want to stay for a rest, please
+head to the counter inside.
+
+So what'll it be?"
+49,KyoukaiTalk02,"ようこそ ここは馬宿です
+
+野生馬を捕まえて来たのであれば
+その馬を登録することができますよ
+もしお泊りを希望のさいは店内の
+カウンターの方におまわりください
+さあ御用は何でしょうか？","Welcome to our stable.
+
+
+If you've come with a wild horse,
+you can register it with us here.
+
+Or if you want to stay for a rest, please
+head to the counter inside.
+
+So what'll it be?"
+50,KyoukaiTalk03,他に御用はございますでしょうか？,Anything else?
+51,KyoukaiTalk04,"おぉ またまた野生馬を捕まえてきたのですね！
+さっそく登録なさいますか？","Looks like you've caught yourself a new
+steed! Do you want to register it?"
+52,KyoukaiTalk05,そうですか！ それは失礼しました…,Is that so! Pardon me...
+53,KyoukaiTalk06,"いらっしゃいませ！馬宿にようこそ！
+馬の登録連れ出し なんでも お伺いします
+さあ御用はなんでしょうか？","Welcome! Welcome to our fine stable!
+Do you want to register a horse?
+Take one out for a ride?
+How can I help?"
+54,KyoukaiTalk07,"いらっしゃいませ！馬宿にようこそ！
+
+野生馬を捕まえて来たのであれば
+所有馬に ご登録することができます
+さあ御用は何でしょうか？","Hi there! Welcome to our stable!
+
+
+If you catch a wild horse and bring it
+here, you can register it in our network
+of stables.
+Now then, what can I do for you?"
+55,NakedPlayer,寒そうですね…,You must be chilly...
+56,Receive01,"今は所有馬をお連れではないみたいですね
+所有馬をお連れの場合お預かりいたしますので","Sorry, you must register a horse
+before boarding it, buddy!"
+57,Receive02,確かにお預かりしました,Your horse is in our care.
+58,Receive03,"おやめになるのですね
+かしこまりました",So you're not... Understood.
+59,Receive04,"はい…
+それでは またのご利用をお待ちしています",All right... We'll be here if you need us. 
+60,Receive05,"では お連れの馬 を
+お預かりしますね？ よろしいですか？",You want to board ?
+61,Register00,"またまたご冗談…
+野生馬を捕まえておられませんよね…
+野生馬を捕まえるには後ろからゆっくり近づき
+飛び乗ってくださいね","Oh... I see we have a comedian in our
+midst. Quit horsing around, and get
+around to finding a horse!
+To catch a wild horse, slowly approach it
+from behind and hop on—got it?"
+62,Register00_1,"ちょっ… ちょっと お客さん
+その馬って…魔物じゃないんですか？
+さすがにそんな奇怪な馬はこちらで
+お預かりできません…","What in Hylia's name?!
+That's a monster, not a horse!
+
+Sorry, but we can't board that...thing
+here. It might eat the other horses."
+63,Register00_2,"かしこまりました…
+…って
+え？ その馬 もしかして噂に聞くヌシ様？
+
+ひえー！ そんなもの連れてこないでください
+バチがあたりますよ！！","Understoo— Uh...
+
+
+Wh-what is that?
+Can that...THING you're riding be the
+fabled Lord of the Mountain?!
+Why in Hylia's name would you bring
+something like that here? We'll all be
+cursed!"
+64,Register00_3,"はい かしこまりました！
+
+ん？ ちょっと お客さん…
+それって馬ではないですよね…？
+さすがに馬でないものを
+お預かりする事はできません","Not a problem. Let me just—
+
+
+Oh, for the love of Hylia...
+That's not a horse!
+
+We only board horses here, stranger.
+No exceptions."
+65,Register01,"はい かしこまりました！
+
+すいませんが あなたは登録できる上限を
+超えておられるようです…
+どの馬か手放す必要がございますが
+どうなさいますか？","Understoo—
+
+
+I'm sorry, but it seems you've hit your
+registration limit...
+
+You would need to let one of your horses
+go to free up space. What would you like
+to do?"
+66,Register02,そうですか どの馬を手放しますか？,Which horse do you want to release?
+67,Register03,"ここで手放すと二度と戻すことはできませんが
+それでよろしいですね？","If you release this horse here, you may
+not ever see it again.
+You sure about this?"
+68,Register04,"それでは気を取り直して
+新しく連れて来た野生馬を登録致します
+登録される馬を ご確認ください","Now that that's settled, I can register
+this new wild horse you've brought."
+69,Register05,"かしこまりました
+
+登録される馬は こちらになります
+ご確認ください",Gotcha.
+70,Register06, で よろしいですね？,"Are you sure you want to name this
+horse ?"
+71,Register07,"登録を承りました
+そのまま連れて行かれますか？","Your registration is complete. Would you
+like to take your new horse with you?"
+72,Register08,"それでは は
+こちらでお預かりします","All right, we'll take 
+into our care."
+73,Register09,"ありがとう ございます
+またよろしく お願い致します","Thank you.
+We'll see you next time."
+74,Register11,"そうですか…
+別れというのは いつでも寂しいものです…
+ただし ご安心ください この馬は
+馬の保全協会の方で大切に育てていきますので","I see.
+Parting is never easy...
+
+But please rest assured—your horse will
+be treated with great care at the stable."
+75,Register12,"あ…""今回は野生馬の登録を やめるのですね
+
+かしこまりました
+またのご利用 お願い致します","Oh... So you don't want to register this
+wild horse?
+
+Gotcha. We'll be here for you if you
+change your mind."
+76,Register13,"どうか この子にあったお名前を
+つけてあげてください",Please give this little one a fitting name.
+77,Register14,"ありがとうございます
+確かに料金を頂戴致しました",Thanks.
+78,Register15,"おや残念ながら20ルピー
+お持ちのようではないですね…
+ルピーをお持ちでないお客様は馬に乗る資格を
+お持ちになれない という事ですので…
+申し訳ございません","Oh? I'm afraid that you don't
+have 20 rupees.
+
+If you can't afford the registration fee,
+you probably aren't cut out for horse
+ownership. Sorry."
+79,Register16,"登録なさらないのですね
+残念です…","So you won't be registering, then.
+That's unfortunate."
+80,Register17,"それでは自分の所有馬の証として
+馬の名前をお決めください",Please enter a name for your horse.
+81,Register18,"ああ そういえば…
+
+離れたところにいる所有馬を呼ぶ時は
+口笛で呼べば とんで来てくれますよ！","Oh, and by the way...
+
+
+If you get separated from your horse,
+you can whistle and it will come running!"
+82,Register19,"ただ あまり離れてると馬には聞こえませんので
+ご注意くださいね！","But your horse isn't magic. It can't hear
+you if you're too far away, so do keep
+that in mind!"
+83,Register20,"それでは自分の所有馬の証として
+馬の名前をお決めください
+…と ちょっとお待ちください
+
+この馬は もしかしてあの伝説の馬「エポナ」
+じゃないですか…？
+さすがにこの馬においそれと違う名前を
+つけるわけにはいきませんね…
+もう名前は「エポナ」でよろしいですか？","OK, please enter a name for your hors—
+
+
+...Wait a minute!
+
+
+Isn't this Epona, the horse of legend?
+
+
+What are you thinking?!
+You can't rename a horse of legend!
+Pretty sure there's a law against that.
+So Epona it is?"
+84,Register21,"そう言われましても さすがにこの馬に
+違う名前をつけるわけにはまいりません
+名前は「エポナ」で登録しておきますね？","Look, I just told you.
+You can't rename a legendary horse!
+
+Her name must be Epona."
+85,Register22,"ありがとうございます
+
+それでは馬の保全活動と
+馬宿オリジナルのくらと手綱の代金を含めまして
+登録料を20ルピーいただきますが
+よろしいですか？","Not a problem.
+
+
+We charge a registration fee to help
+support our conservation efforts.
+
+The fee also gets you a locally made
+saddle and bridle for your horse.
+The fee is 20 rupees. Is that OK?"
+86,Register23,こちらの馬を登録なさいますか？,You sure this is the one?
+87,Talk01,"いらっしゃいませ
+お泊まりですか？","Welcome!
+Will you be staying with us?"
+88,Talk01_01,"いらっしゃいませ
+おや お客さん ずいぶんお元気な格好で…
+夜や雨の日は冷え込む事もございますので
+十分 お気を付けくださいね
+当馬宿ではふかふかのベッドも
+ございますので是非 お泊りください","Welco—
+Ah... Well, aren't you a confident one?
+
+The weather can get pretty hairy out
+there, but you'll learn that soon enough.
+
+We have soft and warm beds, so think
+about staying the night until you find
+some clothes."
+89,Talk02,またのお越しを！,Come see us again!
+90,Talk03,"お客さん… お金が足りないようですね
+さすがに これではお泊めできませんよ","Sir, you don't have the necessary funds.
+I'm afraid that you can't stay unless
+you pay the full amount."
+91,Talk04,いつまで寝られますか？,Sleep until...
+92,Talk05,いつまで寝られますか？,Sleep until...
+93,Talk06,では ごゆっくり！,Sleep well!
+94,Talk07,それでは ごゆっくり！！,OK. Rest well!
+95,Talk08,"おはようございます よく眠れましたか？
+それでは行ってらっしゃいませ","Good morning.
+I hope you enjoyed your stay!"
+96,Talk09,"よく眠れましたか？
+それでは行ってらっしゃいませ","I hope you enjoyed your stay.
+Have a good day!"
+97,Talk10,"よく眠れましたか？
+それでは行ってらっしゃいませ","I hope you enjoyed your stay.
+Have a good evening!"
+98,Talk11,"おはようございます よく眠れましたか？
+それでは行ってらっしゃいませ","Good morning.
+I hope you enjoyed your stay!"
+99,Talk12,"よく眠れましたか？
+それでは行ってらっしゃいませ","I hope you enjoyed your stay.
+Have a great day!"
+100,Talk13,"よく眠れましたか？
+それでは行ってらっしゃいませ","I hope you enjoyed your stay.
+Have a great evening!"
+101,Talk14,お泊まりですか？,Will you be staying with us?
+102,Talk15,"普通のベッドなら20ルピー
+ふかふかベッドなら40ルピーになります","A regular bed will cost you 20 rupees.
+A soft bed is 40."
+103,Talk16,"ふかふかのベッドは
+馬宿自慢の特製ベッドでございます
+少々お高いですが普通のベッドよりも
+元気になって起きることができますよ","The soft bed is a special bed we're
+proud to offer here at the stable.
+
+It costs more than the regular bed, but
+you'll wake up more energized."
+104,TalkHatu_01,"ようこそ！ ここは馬の管理や
+宿泊ができる馬宿でございます
+…おや？ こちらのご利用は初めてですね？
+馬宿のシステムは熟知されてますか？","Welcome to my stable.
+We deal in all things horse related.
+We also double as an inn.
+Huh... I haven't seen your face before.
+Do you know about the stable system?"
+105,TalkHatu_02,"それでは僭越ながら説明させていただきます
+
+ここでは あなたの所有する馬を預かったり
+連れだしたりすることができます
+また旅の道中野生馬を見たかと思いますが
+その野生馬を捕まえて ここにお連れください
+野生馬をここに連れて来て登録すれば
+自分の馬… つまり所有馬にすることができます
+お1人が所有できる馬の数は最大5頭まで
+もちろん気に入った馬を入れ替えれます
+野生馬を捕まえる方法を
+お聞きになりたいですか？","Then allow me to explain.
+
+
+You can board your horse companions
+with us and then summon them as
+you please from our network of stables.
+You may have come across wild horses
+during your travels...
+
+If you catch one and ride it here to
+register it, it will become your horse
+companion.
+One person can board up to five horses,
+and you're able to swap horses in and
+out as you please.
+Do you...know how to catch a wild
+horse?"
+106,TalkHatu_03,"それでは僭越ながら説明させていただきます
+
+野生馬を捕まえるには背後からゆっくり
+気づかれないように近付いて飛び乗るだけです
+中には暴れ馬などがいるので 
+暴れたらすかさずなだめてください
+そのうち大人しくなるので そうなったら
+ここまで連れてきてください
+ただし野生馬というだけあって
+すぐに人には慣れませんので
+勝手に方向を変えたり スピードを
+落としたりと結構気を使いますよ
+違う方向に進みだしたら 「こちらだよ」 と
+優しく指示してから なだめてあげてください
+そうやって馬と交流していくことで自然と
+懐いて いう事を聞くようになりますからね","OK. To catch a wild horse, all you have to
+do is approach it from behind—slowly, so
+it doesn't notice you—and then hop on.
+But these are wild animals we're talking
+about, so if the horse you're riding starts
+to act up, try soothing it.
+It will eventually settle down, and when
+that happens, bring it to me.
+
+It may take a while for wild horses to get
+used to being ridden.
+
+They may change directions or slow
+down on their own until you earn their
+trust and respect.
+If your horse disobeys your direction,
+you'll want to gently redirect it and
+then calm it.
+And if you continue interacting that way,
+your horse will naturally begin to trust
+you and become more obedient."
+107,TalkHatu_04,"そうですか失礼致しました
+それでは改めて…","Oh, pardon me.
+Let me start over..."
+108,TalkHatu_05,"私から教えられることは以上です
+それでは改めて…","That's all I can tell you about the
+subject, stranger."
+109,TalkHatu_06,旅の方 ずいぶんとお元気そうな恰好で…,"Well, you're looking peppy today,
+stranger!"

@@ -1,0 +1,368 @@
+#,Title,JPja,USen
+1,"""0000""",借りるザラシ,Let's seal the deal!
+2,"""0001""",乗り方教えザラシ,How do I set seal?
+3,"""0002""",借りないザラシ,Seal you later!
+4,"""0003""",スナザラシ？,A sand seal?
+5,"""0004""",捕まえ方教えて,How do I catch one?
+6,"""0006""",さよなら,Good-bye.
+7,"""0007""",歩いてきた,I came on foot.
+8,"""0008""",乗ってきた,I rode here.
+9,"""0009""",スナザラシって何ザラシ,Sand seal? Sealiously?
+10,"""0010""",乗り方教えて,How do I ride one?
+11,Near_01,みんな～しっかり～,"Come on, everybody!"
+12,Near_02,流行は取り入れんとね,I've got to keep up...
+13,Near_03,いそがなきゃ！,I have to hurry!
+14,Near_04,一乗り20ルピーだよ,Sand seals—20 rupees!
+15,Talk_01,"ヴァーサーク！
+
+広大な ゲルド砂漠を渡るなら
+スナザラシは必須！
+一乗りたったの20ルピー！
+盾がないなら50ルピー！
+どう？乗ってかない？","Vasaaq! If you are hoping to cross the
+vast Gerudo Desert, sand-seal surfing is
+the way to do it!
+It's only 20 rupees to rent one!
+Need a shield, too? Just pay 50 rupees!
+What do you say?"
+16,Talk_02,"なに… そのしゃべり方？
+
+もしや外のヴァーイ達の間で流行ってるとか…","What? Is that some kind of slang?
+
+
+I wonder if it's just a thing outside Gerudo Town..."
+17,Talk_03,"なに… そのしゃべり方？
+
+もしや外のヴァーイ達の間で流行ってるとか…
+
+と… ともかく ゲルド砂漠は広いからね
+外に出るならスナザラシは必須だよ
+必要になったら また声かけてよね！","What? Is that some kind of slang?
+
+
+I wonder if it's just a thing outside Gerudo Town...
+
+
+Anyway. The Gerudo Desert is vast.
+You'd be wise to take a sand seal if
+you're traveling beyond town."
+18,Talk_04,"なに… そのしゃべり方？
+
+もしや外のヴァーイ達の間で流行ってるとか…
+
+そ それより
+お代が足りないんだけど…
+スナザラシの世話も タダじゃないからね
+これ以上は安くできないのよ ごめんね","What? Is that some kind of slang?
+
+
+I wonder if it's just a thing outside Gerudo Town...
+
+
+Hrm. It looks like you haven't got
+enough to pay the rental fee.
+
+You know, sand-seal care isn't cheap...
+I hate to say it, but you can't rent one if
+you can't afford it."
+19,Talk_05,"盾…持ってないんじゃない？
+スナザラシに乗るためには盾が必要なの
+盾もつけるなら50ルピーになるけど
+どうする？","Oh, um... Do you not have a shield?
+You need a shield if you want to go
+sand-seal surfing.
+For 50 rupees, I can give you a shield.
+What do you think?"
+20,Talk_07,"ヴァーサーク ザラシ！
+
+広大なゲルド砂漠を渡るなら
+スナザラシは必須ザラシよ！
+一乗りたったの20ルピー！
+盾がないなら50ルピー！
+どう？乗ってかないザラシ？","Vasaaq! If you are hoping to cross the
+vast Gerudo Desert, a sand seal is a
+must! It'd be sealy not to have one!
+It's only 20 rupees to rent one!
+Need a shield, too? Just pay 50 rupees!
+What do you say?"
+21,Talk_08,"では気をつけて！
+サヴォーク ザラシ！","Seal you another time!
+Sav'orq!"
+22,Talk_09,"ゲルド砂漠は広いからね
+外に出るならスナザラシは必須ザラシよ
+どう？ ザラシ語 なかなか様になってるでしょ？
+ふふ…外の流行も取り入れないとね","Anyway... The Gerudo Desert is vast.
+It'd be a sealious mistake not to take a
+sand seal if you're traveling out of town."
+23,Talk_10,"まぁ習うより慣れろって言うし
+一度レンタルしてみたら？","They say practice makes perfect, so why
+not just try for yourself?"
+24,Talk_11,"お代が足りないんだけど…
+
+スナザラシの世話もタダじゃないし ザラシ
+これ以上安くできないのよね ザラシ","Hrm. I seal a problem, though... It looks
+like you haven't got enough to pay the
+rental fee.
+You know, sand-seal care isn't cheap...
+I hate to say it, but you can't rent one if
+you can't afford it."
+25,Talk_12,"盾…持ってないんじゃない？
+スナザラシに乗るためには盾が必要ザラシよ
+盾もつけるなら50ルピーになるけど
+どうするザラシ？","Oh, um... I seal a problem... Do you not
+have a shield? You need a shield if you
+want to go sand-seal surfing.
+For 50 rupees, I can give you a shield.
+What do you think?"
+26,Talk_13,"まぁ習うより慣れろって言うザラシ
+一度レンタルしてみるザラシ？","They say practice makes perfect, so why
+not just try for yourself? I doubt
+anything will go sealiously wrong."
+27,Talk_14,"ヴァーサーク！
+
+来てくれたんだ！
+サークサーク！！
+広大な ゲルド砂漠を渡るなら
+スナザラシは必須！
+一乗りたったの20ルピー！
+盾がないなら50ルピー！
+どう？乗ってかない？","Vasaaq! You came! Sarqso! If you are
+hoping to cross the vast Gerudo Desert,
+sand-seal surfing is the way to do it!
+It's only 20 rupees to rent one!
+Need a shield, too? Just pay 50 rupees!
+What do you say?"
+28,Talk_15,"やっぱり乗ってくザラシ？
+
+一乗りたったの20ルピー！
+盾がないなら50ルピー！ザラシよ？","So you do want to ride after all? It's only
+20 rupees to rent one! Need a shield,
+too? Just pay 50 rupees!"
+29,Talk_16,まぁ 「習うより慣れろ！」 よ！！,"\""Practice makes perfect!\"" That's right!!"
+30,Talk_17,サヴォッタ！,Sav'otta!
+31,Talk_18,サヴァーク！,Sav'aaq!
+32,Talk_19,サヴァサーバ！,Sav'saaba!
+33,Talk_20,"サヴァーク！
+
+アナタ まさか このゲルド砂漠を
+歩いてきた… わけじゃないよね？","Sav'aaq!
+
+
+Oh, wow... Don't tell me you crossed the
+Gerudo Desert on foot?"
+34,Talk_21,"スナザラシは音に敏感な生き物なの
+
+音を立てずに そ～っと近づかないと
+すぐ逃げちゃうのよね
+面倒だから ゲルドの人間は
+ほとんどレンタルだけどね","Sand seals are especially sensitive to the
+sounds around them. The trick is to
+approach very, very slowly...
+It's a pain in the neck, though, so most
+Gerudo just end up renting one instead."
+35,Talk_22,考えるより体で慣れろ…よ！,"You know, the best way for you to learn
+how to do this is by just doing it!"
+36,Talk_23,"捕まえるのが大変だったら
+うちのレンタザラシ屋で…って
+アナタは ヴォーイだったわね…
+
+ウチの店は ゲルドの街の中だから
+残念だけど アナタにはレンタルできないわね","If you're having a hard time catching
+one, come by my shop in Gerudo Town.
+I rent out sand seals and...oh.
+You're a voe...
+My shop is inside the town walls, so
+you won't be able to get in..."
+37,Talk_25,"歩くと砂に足をとられて
+大変だったでしょ？
+砂漠ではスナザラシに乗って移動が
+この辺じゃ常識よ
+私は フラジィ
+ゲルドの街でスナザラシのレンタルやってるの
+お客様を乗せることのできるスナザラシは
+まだまだ少ないから
+こうやって外にいるスナザラシを調教して
+育ててるってわけ
+まぁスナザラシの事でわからないことがあれば
+なんでも聞いて
+これでもスナザラシトレーナーとしては
+けっこう自信あるんだから","Must have been hard to walk through the
+desert—especially having your feet sink
+into the sand.
+It's common sense to travel the desert 
+with sand seals around here. 
+
+My name is Frelly.
+I run a shop in Gerudo Town where I rent
+out sand seals.
+Most people can't take the time to train
+their own sand seals, so I rent out the
+ones I've trained!
+If you need to know anything about
+sand seals, I should be your first stop."
+38,Talk_26,"スナザラシは
+ゲルド砂漠だけにいる生きものよ
+砂漠は砂に足をとられて
+普通に歩くと大変だけど
+スナザラシをうまく操れば砂漠を早く楽に
+移動できるの
+ゲルド族にとっては
+なくてはならない存在よ","Sand seals are animals native to the
+Gerudo Desert Gateway.
+
+It's quite dangerous to cross the desert
+on foot, but if you have a sand seal,
+you'll breeze right along!
+Obviously, sand seals are incredibly
+important to the Gerudo people."
+39,Talk_27,"捕まえるのは大変だし
+スマートにレンタルが今のトレンドよ！
+ウチは大きなスナザラシの看板が目印だから
+すぐわかるはずだし今度立ち寄ってみてよ","Catching them is really tough work. It's
+much easier to save yourself some time
+and just rent one instead!
+My shop in Gerudo Town has a big
+sand-seal statue on it. Just look for
+that, and you'll find me!"
+40,Talk_28,"へぇ… ハイリアのヴォーイでも
+スナザラシを乗りこなせるのがいるとはね
+どう？
+私の旦那に ならない？","Wow... A Hylian voe who has mastered
+sand-seal surfing?
+
+I didn't think it was possible.
+I'm speechless! I think I may need a
+moment..."
+41,Talk_29,"スナザラシの事でわからないことがあったら
+何でも聞いてよ
+こう見えて スナザラシトレーナーとしては
+けっこう自信あるんだから","If you have any questions about
+sand seals, come talk to me. I'm quite
+skilled at training them!"
+42,Talk_30,"ふふ…冗談よ
+
+でもスナザラシを捕まえるのは
+大変だったんじゃない？
+私は フラジィ
+ゲルドの街でスナザラシのレンタルやってるの
+お客様を乗せることのできるスナザラシは
+まだまだ少ないから
+こうやって外にいるスナザラシを調教して
+育ててるってわけ
+まぁスナザラシの事でわからないことがあれば
+なんでも聞いて
+これでもスナザラシトレーナーとしては
+けっこう自信あるんだから","Phew. Anyway... 
+
+
+I bet it was a real challenge to catch
+a sand seal, wasn't it?
+
+My name is Frelly.
+I run a shop in Gerudo Town where I rent
+out sand seals.
+Most people can't take the time to train
+their own sand seals, so I rent out the
+ones I've trained!
+If you need to know anything about
+sand seals, I should be your first stop."
+43,Talk_31,"へぇ… ハイリアのヴァーイでも
+スナザラシを乗りこなせるのが いるとはね
+でもスナザラシを捕まえるのは
+大変だったでしょ？
+私は フラジィ
+ゲルドの街でスナザラシのレンタルやってるの
+お客様を乗せることのできるスナザラシは
+まだまだ少ないから
+こうやって外にいるスナザラシを調教して
+育ててるってわけ
+まぁスナザラシの事でわからないことがあれば
+なんでも聞いて
+これでもスナザラシトレーナーとしては
+けっこう自信あるんだから","Wow... A Hylian vai who has mastered
+sand-seal surfing? Impressive...
+
+My name is Frelly.
+I run a shop in Gerudo Town where I rent
+out sand seals.
+Most people can't take the time to train
+their own sand seals, so I rent out the
+ones I've trained!
+If you need to know anything about
+sand seals, I should be your first stop."
+44,Talk_32,"スナザラシはゲルド族の
+貴重な乗り物なの
+でも外にいるスナザラシは
+まだ調教が終わってないから
+なかなか捕まえるのが難しくてね
+
+だから私達みたいな
+レンタル屋がいるってわけ
+こう見えて スナザラシトレーナーとしては
+けっこう自信あるんだ
+スナザラシの事でわからないことがあったら
+何でも聞いてよ","Sand seals are an important means of
+transportation for the Gerudo. 
+
+But the sand seals in the wild haven't 
+been trained. This makes them especially
+tough to catch.
+Many people find it easier just to rent
+one...
+
+And that's where a skilled sand-seal
+trainer like me comes in!
+
+Come talk to me if you have any 
+questions about sand seals."
+45,Talk_34,"行きたい方向にスナザラシを誘導するだけ
+そんなに難しくないわ
+でも！
+
+スナザラシに乗るには盾が必要だから
+それだけは忘れないようにね","Steering a sand seal is really easy—
+they'll go in whatever direction
+you want. But!
+You need a shield to sand-seal surf,
+so don't forget about that."
+46,Talk_35,"捕まえたら後は行きたい方向に
+スナザラシを誘導するだけザラシよ","Once you get ahold of a sand seal, all
+you need to do is guide it in the
+direction you want to go!"
+47,Talk_37,"ごめんなさい ちょっと後にしてくれる？
+そろそろ店を開けないといけないの","I'm sorry, but can you give me a minute?
+I've still got to open up shop."
+48,Talk_38,"サヴォッタ！
+
+アナタ まさか このゲルド砂漠を
+歩いてきた… わけじゃないよね？","Sav'otta!
+
+
+Oh, wow... Don't tell me you crossed the
+Gerudo Desert on foot?"
+49,Talk_39,"サヴァサーバ！
+
+アナタ まさか このゲルド砂漠を
+歩いてきた… わけじゃないよね？","Sav'saaba!
+
+
+Oh, wow... Don't tell me you crossed the
+Gerudo Desert on foot?"
+50,Talk_40,"まずは実際やってみるのが一番だけど
+わからないことがあれば私に何でも聞いてよ！","Just giving it a shot is best, but if there's
+anything you don't get, let me know!"
+51,Talk_41,"スナザラシは
+ゲルド砂漠だけにいる生きものザラシ
+砂漠は砂に足をとられて
+普通に歩くと大変だけど
+スナザラシをうまく操れば砂漠を早く楽に
+移動できるザラシ
+ゲルド族にとっては
+なくてはならない存在ザラシよ","Sand seals are animals native to the
+Gerudo Desert Gateway.
+
+It's quite dangerous to cross the desert
+on foot, but if you have a sand seal,
+you'll breeze right along!
+Obviously, sand seals are incredibly
+important to the Gerudo people."

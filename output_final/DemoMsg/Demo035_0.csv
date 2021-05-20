@@ -1,0 +1,221 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,"Yes, please."
+2,"""0001""",けっこうです,"Thanks, but no."
+3,"""0003""",やっぱやめとく,Never mind.
+4,"""0004""",ハートの器,Heart Container.
+5,"""0005""",がんばりの器,Stamina Vessel.
+6,"""0009""",やめます,I've had enough.
+7,"""0010""",器を選び直す,A different container.
+8,"""0011""",はい,Yes.
+9,"""0012""",いいえ,No.
+10,"""0013""",詳しく教えて,Tell me more...
+11,"""0015""",さようなら,Good-bye.
+12,"""0017""",返して,Give it back.
+13,"""0018""",ハートで返して,Give me a heart.
+14,"""0019""",がんばりで返して,Give me stamina.
+15,"""0020""",今はいい,I'm all right for now.
+16,"""0024""",なんでもない,Ugh...
+17,"""0025""",しゃべった？！,You can talk?!
+18,"""0026""",器を預ける,Have another one.
+19,"""0027""",器を返して,I want one back.
+20,near00,…,...
+21,talk01,何を恐れているんだ…,What's the worst that could happen?
+22,talk04,…後で泣き付いて来ても知らねぇぜ,"Very interesting choice... Just don't
+come crying to me later."
+23,talk05,"ルピーが足りん…
+返して欲しければ120ルピー用意するんだな","I know from swindles, boy, and I can
+plainly tell that you don't have the
+120 rupees required."
+24,talk16,ならば… ここを去れ,Then... What are you still doing here?
+25,talk17,おまえか…,You...
+26,talk18,"俺にハートの器かがんばりの器を
+預けてくれたら100ルピー渡そう
+もしも器が必要になったら
+どちらでも好きな方を120ルピーで返そう
+つまり…差額20ルピーで
+ハートの器とがんばりの器を交換できるわけだ
+どうだ？悪くない話だろう？
+さっそく取り引きといこうじゃないか","It's simple.I'll give you100 rupeesto
+take one of yourHeart Containersor a
+Stamina Vessel off your hands.
+You can have one back for120 rupees.
+And if it's not the same one you gave
+me, why, I won't tell a soul.
+Exchanging aHeart Container for a
+Stamina Vessel, or vice versa, for only
+20 rupeessounds good, doesn't it?
+You must be salivating at the idea, so
+let's go ahead and strike our bargain."
+27,talk20,ハートの器を返してほしいなら120ルピーだ,"The price to return aHeart Container to
+you will be120 rupees."
+28,talk21,"ハートの器を預け
+100ルピーを手に入れるんだな？","I'll gladly pay you100 rupees""for one
+of yourHeart Containers. Is that what
+you want?"
+29,talk22,がんばりの器を返してほしいなら120ルピーだ,"The price to return aStamina Vessel to
+you will be120 rupees."
+30,talk23,"がんばりの器を預け
+100ルピーを手に入れるんだな？","I'll gladly pay you100 rupees""for one
+of yourStamina Vessels. Is that what
+you want?"
+31,talk26,"今個""器を預かってるが…
+さて どうする？","I have of youressencesso far.
+What now, hmmmm?"
+32,talk31,器を取り引きしに来たんだろ？,"Come to tamper with youressence, yes?"
+33,talk32,"いいえ… か
+なかなか いい返事だ
+俺の声が聞こえているようなので
+話すとしよう","No, eh?Fa ha ha... If you say so.Just know that I'm willing to strike a
+bargain with anyone who can hear
+my voice."
+34,talk33,"俺の手元には まだ器が個あるが…
+ハートの器を さらに返してほしいか？","I still have of youressences...
+Shall I return anotherHeart Container
+to you?"
+35,talk34,ハートの器を さらに預けるか？,"I wouldn't object if you wanted to give
+me moreHeart Containers."
+36,talk35,"俺の手元には まだ器が個あるが…
+がんばりの器を さらに返そうか？","I still have of youressences...
+Shall I return anotherStamina Vessel
+to you?"
+37,talk36,がんばりの器を さらに預けるか？,"I wouldn't object if you wanted to give
+me moreStamina Vessels."
+38,talk37,これ以上ハートの器は減らせないぜ…,"I don't see how you can reduce your
+Heart Containersany further."
+39,talk38,これ以上がんばりの器は減らせないぜ…,"I don't see how you can reduce your
+Stamina Vesselsany further."
+40,talk39,これ以上ハートの器は増やせないぜ…,"I don't see how you can increase your
+Heart Containersany further."
+41,talk40,これ以上がんばりの器は増やせないぜ…,"I don't see how you can increase your
+Stamina Vesselsany further."
+42,talk41,"おい… それ以上ハートの器を減らすと
+命にかかわるぞ","Careful... Give away any more of your
+Heart Containers, and it could have a
+fatal effect on your health."
+43,talk42,"おい… それ以上がんばりの器を減らすと
+立てなくなるぞ","Have a care... Give me any more of your
+Stamina Vessels, and you may not have
+the strength to stand."
+44,talk43,おい… それ以上ハートの器は増やせないぞ,"No, no... I'm afraid you already have all
+theHeart Containersyou possibly can."
+45,talk44,おい… それ以上がんばりの器は増やせないぞ,"No, no... I'm afraid you already have all
+theStamina Vesselsyou possibly can."
+46,talk45,取り引き成立だ…,Then the bargain is struck!
+47,talk47,"今預かっている器は１つもない
+買い取ってやろうか？","I'm currently without any of your
+essences. Are you in the mood to sell?"
+48,talk52,"ほう…
+この俺も まだ捨てたもんじゃないな","Ahhhh...So there are some who still
+pay me homage."
+49,talk53,"まさか… 
+俺の声が聞こえるのか？",You don't say... You can hear my voice?
+50,talk54,"これはおどろいたな
+
+おまえは何を祈っていた？
+命か？ それとも金か？
+どちらにしても おまえにとって
+この俺は おあつらえ向きだろう","Now, that is a surprise.What were you praying for? Long life? 
+Wealth, like so many of your kind?Whichever it was, you came to the
+right place."
+51,talk57,祈りに来たか…,"You came to pray, then... You want what
+everyone wants. Long life and wealth."
+52,talk58,…まだ祈り足りないのか？,"What's wrong, then? Have your prayers
+gone unanswered?"
+53,talk59,フン…,Hmm...
+54,talk65,"どうやら腕は鈍っていなかったようだ
+
+無事に おまえの器を
+預かることができた","My touch is as subtle as ever...Note how I took thatessence from you
+without leaving a mark."
+55,talk68,どちらの器を預けるんだ？,"Which type ofessencewill you surrender
+to me?"
+56,talk69,どちらの器を返すんだ？,Which type ofessenceshall I grant you?
+57,talk77,"命と力を司る神…
+
+それが かつての俺だ
+
+その俺が金と命を取り引きしたのが
+女神ハイリアのお気に召さなかったらしい
+こんな石像に姿を変えられて
+はるかな時が過ぎ去った…
+村人はこの俺を悪魔の像と呼び
+鳥のフンを拭いてくれようともしない
+心を入れ替えたのかと言われれば
+とんでもない
+俺は待っていたのだ
+
+おまえのような
+話のわかるやつが現れる時を…
+…ああ俺としたことが
+久しぶりなので しゃべりすぎたよ","A dealer in life and power...
+That was me, once.Alas, my life-for-money bargains didn't
+sit well with theGoddess Hylia.She trapped me in this stone statue
+long, long ago.The villagers here call me the Horned
+Statue and don't even bother to wipe
+away the bird droppings.
+One would think years upon years of
+such treatment would have made me
+mend my ways...
+One would think wrongly.I have only been biding my time for the
+moment someone who can hear me
+appears.Someone such as you.
+But I've said enough."
+58,talk78,"…おまえはそのままでいい
+何もしなくていい","Then stay that way. No further action on
+your part is required."
+59,talk80,"フフフ… どうやら おまえ…
+
+今までハートの器やがんばりの器を
+増やした事がないらしいな
+器を操作してやりたいが
+今のままでは無理だ
+女神像に器を増やしてもらってから
+また ここに祈りに来るんだな","What's this?You haven't received even one more
+Heart ContainerorStamina Vessel?Such a pity... I was eager to help you
+with a minortransaction. But not if you
+have nothing to trade.
+Consult aGoddess Statueto improve
+yourself, and then return here to pray."
+60,talk82,フフフ…,Fa ha ha...
+61,talk84,"…フフフ だまされたと思ったか？
+
+俺はおまえと長い付き合いをしたい
+だますなんて とんでもない
+さあ どっちにする？","Fa ha ha... Did you think I'd
+deceived you?Perish the thought.I hope that ours
+will be a long and profitable relationship.
+So which will it be?"
+62,talk85,"俺は元々命と力を司る神だ
+
+預かった器をハートでもがんばりでも…
+おまえのお望みの方で返してやれるのだ","As I may have mentioned once or twice,
+I'm a dealer in life and power.I can
+provide a valuable service to you.I takeHeart ContainersorStamina
+Vesselsfrom you...and then, for a price,
+return whichever of the two you like."
+63,talk86,どちらの器で返してほしい？,"Which type of essence would you like
+in return?"
+64,talk87,"よし…
+では じっとしてろ","A wise choice. Now, remain still."
+65,talk88,"怪訝そうな顔をしているが安心しろ
+
+次からは金の力で
+おまえの器を操作してやろう
+いいか まずは俺に
+どちらかの器を100ルピーで売ってくれ
+預けた器を買い戻すなら120ルピーだ
+
+返す時にハートの器かがんばりの器…
+好きな方を おまえに選ばせてやろう
+器を操作してほしくなったら
+いつでも ここに祈りに来い","You look skeptical.Not to worry.Money and life are all as one to me.If you're ready to begin, then first you
+must sell me either type ofessencefor
+100 rupees.
+If you want to buy an essence back,
+the price rises to120 rupees.Before you cry foul, know that you may
+choose which one I return to you:
+aHeart Containeror aStamina Vessel.
+I'm eager to help tamper with your
+essence anytime you want to return
+and pray here."
+66,talk89,それじゃあ取り引きといこうか,"Now then, shall we strike a bargain?"

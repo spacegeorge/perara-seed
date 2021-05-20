@@ -1,0 +1,29 @@
+#,Title,JPja,USen
+1,QL_StolenBook_Desc,"インパの屋敷から宝珠が盗まれた
+何者かが夜の間に忍び込んだようだ
+
+門番であるドゥランやボガードも
+村人以外は見かけておらず謎は深まるばかりだ
+まだ犯人が近くに潜んでいるかもしれない
+夜に怪しい動きをする者がいても
+決して近づかないようにとパーヤに釘を刺された","The heirloom at Impa's manor has been stolen.
+Dorian and Cado, the manor's gatekeepers,
+say that it should have been impossible to
+steal with Paya keeping close watch over it all
+day long.
+
+Your best lead so far is the rumors circulating
+about suspicious figures seen lately atnight."
+2,QL_StolenBook_Finish,"インパの屋敷から宝珠を盗んだ犯人は
+イーガ団だった
+事件は同じくイーガ団であったドゥランが
+組織を抜けようとした為に起こったものだった
+事件を解決に導いたことで宝珠だけでなく
+古代の祠も見つけることができた","It turned out that the heirloom thieves who
+struck Impa's manor belonged to the Yiga Clan.
+The incident was revenge for Dorian attempting
+to leave the guild of assassins.
+
+After you solved the problem, you returned the
+heirloom and discovered a new ancient shrine."
+3,QL_StolenBook_Name,盗まれた宝珠,The Stolen Heirloom

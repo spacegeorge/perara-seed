@@ -1,0 +1,420 @@
+#,Title,JPja,USen
+1,"""0000""",やめマッスル…,"No pay, no way."
+2,"""0001""",はじめマッスル！,Let's do this thing!
+3,"""0002""",遠慮しときます,I'll pass.
+4,"""0003""",やりマッスル！,"Count me in, brother!"
+5,"""0004""",ルール説明して,Explain the rules.
+6,"""0005""",つづけマッスル！,I'll never give up!
+7,"""0006""",あきらめマッスル…,"Yeah, I'm done."
+8,"""0007""",そこ どいて下さい,Um...please move.
+9,"""0008""",さよなら,Riiight. Leaving now.
+10,Talk_00,マッスル！ここはゴロン族の アツいトレーニング場ゴロ！一人前のオトコになるための修行場ゴロ！,"PUMP IT UP, BROTHER!By the gods, I love me some muscle.
+This right here is our hard-core
+training ground, string bean.This is where we come to get RIPPED.
+AND. SHREDDED. It's where Goron boys
+become Goron men, brother!"
+11,Talk_01,"オマエのド根性を見せてくれるゴロか？！
+トレーニングは一回20ルピーゴロ！","You gonna show us your grit?!
+Props, brother! OK, so one training
+session'll cost ya 20 rupees."
+12,Talk_02,"なんと弱気な発言！
+とてもとても残念ゴロォ！
+思い直したらまた来るゴロ！
+オマエの挑戦を待っているゴロ！","Your response is as weak as your biceps!
+I'm disappointed in ya, brother!
+
+Find your grit and rethink some things
+in life, then come back. I'll be waitin'!
+I wanna see what you're made of!"
+13,Talk_03,"ルピーが足りないゴロ！
+それでは トレーニングは受けられないゴロ！","Wha?! Ya don't have enough rupees!
+This is trainin', not charity, brother!"
+14,Talk_04,"トレーニングで集める額は100ルピーゴロ！
+こんな数字 アツいオトコなら余裕ゴロ！
+ルピーが足りなかったら時間内にゴールしても
+失格になるゴロ！気を付けるゴロ！
+では…","You've gotta collect 100 rupees as ya
+climb. A hard-core Goron man should
+be able to handle that no problem!
+Even if ya reach the goal before time
+runs out, if ya don't grab enough
+rupees, ya fail! DON'T FAIL, BROTHER!
+Got it? Good. Then it's finally time for..."
+15,Talk_05,"おお！なんという事だゴロ！
+制限時間を越えてしまったゴロ！
+悔しいだろうが
+拾ったルピーは あげられないゴロ！
+今回は残念だったゴロ！
+オマエの次の挑戦を待っているゴロ！","Huh? What do ya think you're
+doin', brother?! Ya went over
+the time limit!
+I know it seems harsh, but I can't let ya
+keep those rupees! Ya didn't earn 'em.
+
+Tough luck, my minuscule friend.
+But I'll be waitin' if ya wanna take the
+challenge again. Don't let me down!"
+16,Talk_06,"アァメイジンンッグ！！トレーニングは見事に合格ゴロォ！！このハードなトレーニングをクリアするとは…オレ達 ド根性三兄弟の
+四人目を名乗っていいゴロ！
+約束通り この舞台に立たせてやるゴロ！","UNBELIEVABLE!!You've passed our training with the grit
+of a true Goron, my brother! In fact...
+you've earned the right to call yourself...the fourth Goron Blood Brother!!
+
+
+As promised, you are now allowed to
+stand on this sacred platform of Goron
+manliness. A real honor, I know.
+You're officially one of us now!
+Our true Goron brother, brother!
+Welcome to the family!"
+17,Talk_07,"ホット！ここは ゴロン族のトレーニング場ゴロ！
+ガケを登って自分の根性を示すゴロ！
+挑戦したいなら ガケの上にいる
+兄貴に話してみるといいゴロ！","FEEL THE BURN, BROTHER!This hotness here is a training ground
+for manly Goron men. We climb this cliff
+like it's nothin', to prove our grit!
+If you've got some guts in that tiny
+belly of yours, then talk to my big bro
+up top and prove it!"
+18,Talk_08,"マッチョ！ここでやっている ド根性ガケ登りは
+ゴロン族伝統のトレーニングゴロ！
+ルールを知りたいなら ガケの上にいる
+兄貴に話してみるといいゴロ！","BEYOND MACHO!!The Gut Check Challenge is an incredibly
+macho version of traditional Goron
+training, little man.
+If ya wanna learn how it's done, go talk
+to my big bro on top of the cliff!"
+19,Talk_09,"…スウェッ… ト…ト…トレーニングするゴロォ…
+がんばれボク…がんばれ…ゴロ……
+ああ…ボクがリト族なら
+風に乗って…上までひとっ飛び…なのに…","So sweaty... Brother...Hi... I'm trainin'...and sweaty...
+Go me... I can do it... Brother...
+
+Argh... If I were a Rito...I could just fly
+right up there... If only..."
+20,Talk_10,"やらないのかゴロ？！
+オマエならやれると思うゴロ？！
+考えが変わったら また来るゴロ！
+オマエの挑戦を待っているゴロ！","What?! You're backin' down from the
+challenge? But you look so strong!
+Maybe I was wrong about you...
+Come back if ya change your mind.
+I'll be waitin'. Really! I wanna see
+you in action, tiny brother!"
+21,Talk_11,"よーし！ いい返事だゴロ！
+ハンパなく鍛えてやるから覚悟するゴロ！
+アツいトレーニングの内容を説明するゴロ！
+ルールはきわめて簡単ゴロ！","Ha! Good answer, brother!
+We're gonna shred you to pieces,
+little man. Prepare your tiny self! 
+OK, lemme explain how this hard-core
+training works. The rules are dead
+simple. Simple as a deadlift, brother!"
+22,Talk_12,"ロッソ！おお！""急ぐんだゴロ！
+もうトレーニングは始まっているゴロ！
+それとも拾ったルピーを返して
+トレーニングを あきらめてしまうのかゴロ？","It's heatin' up!Huh?! You'd better hurry, brother!
+Your training's already started!
+
+Or are ya here to give up and gimme
+back the rupees ya picked up?"
+23,Talk_13,"…ムッシュ…オマエもガケ登りに挑戦する…ゴロ…？
+オオトコ前ゴロ……
+ああ…ボクがリト族なら
+風に乗って…上までひとっ飛び…なのに…","I'm a manly Goron man... Brother...Oh... Are you takin' the Gut Check
+Challenge too...brother?
+
+That's so...manly... So Goronly even...
+*sigh* If only I had Rito wings...then I
+could just fly right up there... If only..."
+24,Talk_14,"…マスラオ…！オマエはなんて…オトコ前なんだゴロ…！
+頑張れゴロ…頑張れゴロォオ…！","So manly... Brother...You're a true...manly Goron man...
+Do your best... Brother..."
+25,Talk_15,"待て待てゴロ！なんという事ゴロ！
+トレーニングから逃げ出すとは言語道断ゴロ！
+ここから離れすぎたら失格ゴロ！
+拾ったルピー返してもらうゴロ！！
+オマエの次の挑戦を待っているゴロ！","WAIT. ONE. MINUTE. BROTHER!What are ya doin'?! You're runnin'
+away? From training? From a challenge?!
+Unthinkable! Unimaginable! Uncool!
+I'm afraid I'm gonna have to disqualify
+ya this time. That means you've gotta
+gimme back the rupees ya picked up.
+But hey, I'll be here waitin' if ya ever
+wanna try the challenge again!"
+26,Talk_16,"ルールは簡単ゴロ！
+もう一回説明するから よく聞くゴロ！","The rules are dead simple. Simple as a
+deadlift, brother! I'll explain them again,
+so listen closely this time!"
+27,Talk_17,"うおお！足りないゴロ！ルピーが目標に足りてないゴロ！もう一度やればきっといけるゴロ！
+オマエの次の挑戦を待っているゴロ！","NO! Not good enough, brother!Ya didn't pick up enough rupees!
+Not even close, tiny person.But hey, I just know if ya try it again,
+you'll find your inner Goron and prevail!
+I'll be waitin' for ya, brother!"
+28,Talk_18,"…言い忘れてたが トレーニングは有料ゴロ！
+1回20ルピーゴロ！挑戦するゴロ？！","Oh! Almost forgot a tiny detail, tiny man.
+No train, no gain. And no pay, no stay!
+So yeah. It's 20 rupees per attempt.
+You want summa this, brother?!"
+29,Talk_19,"ど どういう事ゴロ？これだけしか集められないとはゴロ！これはオマエの実力ではないはずゴロ！
+オマエの次の挑戦を待っているゴロ！","What happened, brother?!Is that really all the rupees you were
+able to collect?! That's hardly hard-core!I just know this isn't your true power,
+little man! Goron up and try again.
+I'll be waitin' for ya!"
+30,Talk_20,"なんとぉお！！惜しいゴロ！100ルピーに わずかに届いてないゴロ！今回は残念だったゴロ！
+オマエの次の挑戦を待っているゴロ！","WHAAAT?! Tough luck, brother!You were close, but ya didn't quite
+Goron up enough to get 100 rupees.Better luck next time, tiny Hylian!
+I know ya can do it if ya really try.
+I'll be waitin' for ya, brother!"
+31,Talk_21,"ッゴゴ ゴォールゥウウ！！エェックセレントォオーー！！よくやったゴロ！
+では獲得ルピーを確認するゴロ！
+獲得したルピー額は…ルピーゴロォオー！","GOOOOOAAAAL!!That was GLORIOUS!Nice goin', brother! Now let's see
+how many rupees ya scored.
+Looks like ya got... rupees!"
+32,Talk_22,"ガケの下からスタートして制限時間内に
+ここまで登ってくるんだゴロ！
+ただし！登ってくるだけでは ダメゴロ！
+ガケの途中にあるルピーを拾ってくるゴロ！
+時間内にガケを登り指定した額以上のルピーを
+拾ってくれば合格だゴロ！
+時間内に登れなかったり
+途中でやめてしまった時は…
+拾ったルピー返してもらうゴロ！！","Startin' from the bottom, ya gotta climb
+back up here within the time limit.
+
+BUT! Don't fool yourself into thinking it's
+only a climbin' challenge, little man.
+You've gotta pick up rupees as ya go!
+Get up the cliff within the time limit,
+and grab a passable number of rupees.
+Do that, and you pass the test!
+If ya run outta time or decide to give
+up halfway through your climb...
+
+You'll have to return all the
+rupees ya picked up!
+That's life, brother."
+33,Talk_23,"オノレの肉体の限界精神の限界を試す
+アツいトレーニングゴロ！
+では今から…ド根性ガケ登りを始めるゴロ！！","We're gonna help ya push past your
+limits, brother. Your physical, mental,
+AND emotional limits!
+OK, enough messin' around. It's time for
+the hardest of hard-core feats...GUT CHECK CHALLENGE!"
+34,Talk_24,説明は以上ゴロ！,"That's all there is to it, brother!"
+35,Talk_25,"マッシブ！この場所は オレ達 ド根性三兄弟が
+認めた奴しか乗れない特別な舞台ゴロ！
+悪いがどいてもらうゴロ！
+認められたければ トレーニングするゴロ！","BRUTAL!Brutally rude, tiny Hylian! This sacred
+platform is only for true Goron men,
+as decided by the Goron Blood Brothers.
+So shove off, non-brother! If you want
+respect, ya gotta train hard to earn it!"
+36,Talk_26,"よく言ったゴロ！さあ！兄貴のところまで
+全力でアツく登っていくんだゴロ！","Well said, brother!Now go! Use all the grit ya got to climb
+up to where my bro is! Get fired up!"
+37,Talk_27,"わかったゴロ…
+ルピーは全て返してもらうゴロ…
+オノレの限界を知り認めるオマエは
+アツく そしてクールなオトコだゴロ！
+この勇気ある撤退を称えるゴロ！
+そして！再び挑戦する時を待っているゴロ！！","Really? How disappointing. Well then,
+I guess I'll be takin' back those rupees
+you collected.I will say, for you to know and respect
+your limits earns ya some props
+in my book.
+I commend your courageous retreat!
+But! I'll be waitin' for the day ya
+come back to try again, brother!"
+38,Talk_28,ハァ… ハァ…,*pant* *pant*
+39,Talk_29,ド根性ゴロ！,Strength is king!
+40,Talk_30,根性見せるゴロ！,Show me your power!
+41,Talk_31,ド根性ガケ登りぃいい！！スタートゴロォオオーー！！,GUT CHECK CHALLENGE!!GOOOO!
+42,Talk_32,"どくわけにはいかないゴロ！ここは オレ達 ド根性三兄弟が認めたオトコしか
+立てない特別な舞台ゴロ！
+今は うちの末っ子が
+トレーニングの真っ最中ゴロ！
+…とはいえ オマエも
+なかなか根性がありそうなオトコ！
+よし オマエもトレーニングするゴロ！もし このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","I AIN'T MOVIN' A MUSCLE,
+BROTHER! Not a single,
+well-defined muscle!This is a special platform! Sacred even!
+Only real Goron men, as decided by us
+three Goron Blood Brothers, are allowed.
+Besides, my littlest bro is in the middle
+of trainin' right now. A brother does NOT
+interrupt a brother's trainin', brother!
+But I gotta say...ya do seem like a real
+man of action. Almost like you have a
+Goron air about ya. I like it!
+SO WHAT ARE YA WAITIN' FOR,
+BROTHER?! GET TRAININ'!Yeah, that's it! If you can clear our
+hard-core training program, I'll move
+outta your way!"
+43,Talk_33,"マッスル！ここはゴロン族の アツいトレーニング場！
+一人前のオトコになるための修行場ゴロ！
+このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","PUMP IT UP, BROTHER!By the gods, I love me some muscle.
+This right here is our hard-core
+training ground, string bean.This is where we come to get RIPPED.
+AND. SHREDDED. It's where Goron boys
+become Goron men, brother!
+But if you can clear our hard-core
+training program, I'll move outta
+your way!"
+44,Talk_34,"そして…四人目の兄弟よ！
+ド根性ガケには何度でも挑戦できるゴロ！
+さらに難しいコースも用意しているゴロ！
+挑戦したくなったら声をかけるゴロ！！","And good news, fourth brother!
+That means you can do the GUT
+CHECK CHALLENGE all you want!
+As a Goron Blood Brother, you're ready
+for the HARD stuff! Just lemme know
+when you're pumped enough to try it!"
+45,Talk_50,"マッスル！ガマンくらべを耐えたオトコよ よく来たゴロ！
+ここはゴロン族の アツいトレーニング場…
+ド根性ガケ！！さらなる上を目指すオトコの修行場ゴロ！","PUMP IT UP, BROTHER!Hey, you're the guy who won the contest
+of endurance! Welcome to our Goron
+training ground, the home of...
+Gut Check Challenge!!This is where we come to get RIPPED.
+AND. SHREDDED. It's where Goron boys
+become Goron men, brother!"
+46,Talk_51,"簡単に どくわけには いかないゴロ！ここはド根性ガケを制覇した者だけが立てる
+特別な舞台ゴロ！
+今は うちの末っ子が頂上目指して
+トレーニングの真っ最中だゴロ！
+…とはいえ オマエは
+ガマンくらべを耐えた オトコ
+よし オマエもトレーニングするゴロ！もし このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","I AIN'T MOVIN' A MUSCLE,
+BROTHER! Not a single,
+well-defined muscle!This right here is a special platform
+that's only for those who've conquered
+the Gut Check Challenge!
+Besides, my littlest bro is in the middle
+of trainin' right now. A brother does NOT
+interrupt a brother's trainin', brother!
+That said...you ARE the guy who won
+the contest of endurance. So I guess
+my question is...
+WHAT ARE YA WAITIN' FOR,
+BROTHER?! GET TRAININ'!Yeah, that's it! If you can clear our
+extreme training program, I'll move
+outta your way!"
+47,Talk_52,"マッスル！ガマンくらべを耐えたオトコ！
+ここはゴロン族の アツいトレーニング場…
+ド根性ガケ！！このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","PUMP IT UP, BROTHER!Hey, you're the guy who won the contest
+of endurance! Welcome to our Goron
+training ground, the home of...
+Gut Check Challenge!If you can clear this extreme training
+program, I'll move outta your way,
+brother!"
+48,Talk_53,"アァメイジンンッグ！！トレーニングは見事に合格ゴロォ！！このハードなトレーニングも
+ガマンくらべも クリアするとは…
+オレ達 ド根性三兄弟の
+四人目を名乗っていいゴロ！
+約束通り この舞台に立たせてやるゴロ！","UNBELIEVABLE!!You've passed our training with the
+grit of a true Goron, my brother!!Now that you've managed to clear our
+extreme training AND the contest of
+endurance...
+You've earned the right to call yourself...
+the fourth Goron Blood Brother!
+
+As promised, you are now allowed to
+stand on this sacred platform of Goron
+manliness. You're honored, I know.
+Now you're officially and irrevocably one
+of us! Our true Goron brother, brother!
+Welcome to the family!"
+49,Talk_55,"ホット！おお！
+オマエはガマンくらべに耐えたオトコ！
+ここで会ったのも何かの導き！
+ゴロン族のトレーニング場へ よく来たゴロ！
+ガケの上にいる兄貴に話して
+一人前を目指せゴロ！","FEEL THE BURN, BROTHER!Oh! You're the guy who won the contest
+of endurance!
+
+Some undying need for gains must have
+guided you here. I'm sure of it. Welcome
+to our extreme Goron training ground!
+You should talk to my big bro up at the
+top so you can achieve full-on Goron
+manliness, brother!"
+50,Talk_60,"…スウェッ… ト…オマエは…ガマンくらべの… オトコ…
+ボクには…登れない…このガケ…
+オマエなら…できるゴロ…ああ…ボクがリト族なら
+風に乗って…上までひとっ飛び…なのに…","So sweaty... Brother...Oh... You're the guy...from the contest
+of...endurance... I can't climb...
+this cliff...brother...
+But you... I bet you can do it...*sigh* If only I were a Rito...I could just
+fly right up there... If only..."
+51,Talk_70,"マッスル？！ガマンくらべを途中でやめた オトコ！
+こんなところで出会うとは！
+ここはゴロン族の アツいトレーニング場…ド根性ガケ！！さらなる上を目指すオトコの修行場ゴロ！","PUMP IT UP...BROTHER?!Hey, you're the guy who gave up during
+the contest of endurance!
+Didn't think I'd see YOU here.
+This is our extremely hard-core Goron
+training ground, the home of...Gut Check Challenge!!This is where we come to get RIPPED.
+AND. SHREDDED. It's where Goron boys
+become Goron men, brother!"
+52,Talk_71,"どくわけには いかないゴロ！ここは オレ達 ド根性三兄弟が認めたオトコしか
+立てない特別な舞台ゴロ！
+今は うちの末っ子が
+トレーニングの真っ最中ゴロ！
+…とはいえ オマエは
+ガマンくらべも耐えられないオトコ…
+よし オマエもトレーニングするゴロ！もし このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","I AIN'T MOVIN' A MUSCLE,
+BROTHER! Not a single,
+well-defined muscle!This is a special platform! Sacred even!
+Only real Goron men, as decided by us
+three Goron Blood Brothers, are allowed.
+Besides, my littlest bro is in the middle
+of trainin' right now. A brother does NOT
+interrupt a brother's trainin', brother!
+That said...you ARE the guy who failed
+the contest of endurance. So there's
+only one thing for you to do...
+GET TRAININ', BROTHER!Yeah, that's it! If you can clear our
+hard-core training program, I'll move
+outta your way!"
+53,Talk_72,"マッスル！ガマンくらべを途中でやめたオトコ！
+ここはゴロン族の アツいトレーニング場…
+ド根性ガケ！！このトレーニングをクリアできたら
+ここを どいてもいいゴロ！","PUMP IT UP, BROTHER!Hey, you're the guy who gave up during
+the contest of endurance!
+
+This is our extremely hard-core Goron
+training ground, the home of...
+
+Gut Check Challenge!!If you can clear this training program,
+I'll move outta your way!"
+54,Talk_75,"ホット！オマエはガマンくらべを
+途中であきらめたオトコ！
+ガマンくらべを耐えるために
+ここでトレーニングを するといいゴロ！
+ガケの上にいる兄貴に話して
+一人前を目指せゴロ！","FEEL THE BURN, BROTHER!Hey, you're the guy who gave up during
+the contest of endurance!
+
+If you're serious about winnin' the
+contest, you should train here first!
+
+Go on, talk to my big bro up at the top
+so you can achieve full-on Goron
+manliness, brother!"
+55,Talk_80,"…スウェッ… ト…オマエは…
+ガマンくらべを ほったらかしているオトコ…
+でも…ボクはオマエに…
+何も言えない ゴロ……
+ああ…ボクがリト族なら
+風に乗って…上までひとっ飛び…なのに…","So sweaty... Brother...Oh... You're the guy...who turned
+his back on...the contest...
+of endurance...
+But hey... I'm not one...to judge...
+
+
+*sigh* If only I were a Rito...then I could
+just fly right up there... If only..."

@@ -1,0 +1,287 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I'm buying.
+2,"""0001""",売る,I'm selling.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,Yeah.
+7,"""5503""",やっぱりやめる,On second thought...
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"魔物 もういない？ほんとに？
+ほんとに ほんとに？","Are those terrible monsters gone?
+Are they? Really? Truly?"
+11,Atacked01,ボクってほら平和主義だから…,"What you don't know about me is...
+I'm a pacifist..."
+12,Com_Talk_00,どれを売ってくれるの？,What would you like to sell me?
+13,Com_Talk_01,"を売ってくれるの？
+ルピーだけど いい？","Well, I'll give you  rupees.
+How does that suit you?"
+14,Com_Talk_02,"ありがとうね！
+他にも何か あったりする？","A pleasure doing business with you!
+Anything else?"
+15,Com_Talk_02b,どうも ありがとうね！,"Wonderful, wonderful!"
+16,Com_Talk_02c,ありがとうね どうも！,Thank you so much!
+17,Com_Talk_02d,お客さん ありがとうね！,"Thank you, my valued customer!"
+18,Com_Talk_04,そっかぁ…,Very well.
+19,Com_Talk_05,何でも買い取るよ！,I'll gladly buy whatever you have to sell.
+20,Com_Talk_05b,いろいろ買い取るよ！,I'm none too picky about what I'll buy.
+21,Com_Talk_05c,買い取って ロバで運ぶんだ！,"Whatever you sell me, I'll simply pack
+onto my dear donkey here and sell
+somewhere else!"
+22,Com_Talk_05d,お客さん何か売ってよ！,"I'd be ever so grateful if you'd sell me
+something, my friend. I'm sure I'll find
+a willing buyer somewhere."
+23,Com_Talk_06,どれを買ってくれるの？,And what would you like to buy?
+24,Com_Talk_07,"ごめんなさい！""今それ切らしちゃってて…","Oh, sorry! I could have sworn I had
+more, but I seem to be sold out of that."
+25,Com_Talk_08,"ハハ…ルピーが足りないよ
+もっと稼がなきゃね","Oh, dear. What a pity... You don't seem
+to have enough money. Why don't you
+run along and earn a little more?"
+26,Com_Talk_09,"ハハ…ポーチがいっぱい！
+何かを売るか それとも捨てるかしないとね","Oh, dear. What a pity... Your inventory is
+full! You'll just have to sell me
+something. Or perhaps throw it away?"
+27,Com_Talk_10,を買うのね？,"You want that? You know I don't do
+refunds, right?"
+28,Com_Talk_11,ありがとう！,Thank you!
+29,Com_Talk_11b,ありがとう ありがとう！,I am MOST appreciative.
+30,Com_Talk_11c,どうも ありがとうね！,Thank you for your business.
+31,Com_Talk_11d,お客さん ありがとう！,"Thank you, dear patron!"
+32,Com_Talk_12,"お肉に野菜！ カカリコ村の特産品だよ！
+ゆっくり選んでってー！","Fresh meat and vegetables! Straight from
+Kakariko Village! Only the best for you!
+Take your time, and have a good look."
+33,Com_Talk_13,"を売ってくれるのね？
+いくつかな？","Ah, very well. And how many did you
+want to sell me?"
+34,Com_Talk_14,"を個…
+合計ルピーで買い取るけどどう？","Let me see, let me see...
+Oh, math is such a bother.
+I'll give you a total of  rupees. OK?"
+35,Com_Talk_15,それはちょっと買い取れないな！ごめんね！,"I'm afraid you've caught me in a lie.
+That, my entrepreneurial friend, is
+something I simply cannot buy from you."
+36,Com_Talk_16,"ハハハ…冗談きついよー
+服を売るときは脱いでから！","Oh, my... Well, I do appreciate a good
+joke, but I can't exactly buy the clothes
+right off your back."
+37,Com_Talk_20,"こんな天気じゃ商売にならないよー
+仕方ない！とっておきの肉やキノコも売るよ！","Weather like this is bad for business.
+Only one thing for it. I must break out
+my top-quality meats and mushrooms!"
+38,Com_Talk_30,"が個で
+合計ルピーになるけど…いい？","That comes to a total of  rupees.
+That's quite reasonable, yes?"
+39,Com_Talk_31,"を買ってくれるの？
+いくつにする？","Ah, a stupendous choice, my friend.
+You have a good eye for quality. And
+how many?"
+40,Com_Talk_33,"をひとつで いいの？
+それならルピーだけど？","Just one? Well, that does make the math
+easier. That comes to  rupees.
+Do we have a deal?"
+41,Com_Talk_34,"を あるだけ全部だね？
+個でルピーだけど いい？","You want all of them? Why, I might close
+up shop early today! That's  
+rupees. Will that be all right?"
+42,Com_Talk_35,"を個全部だね？
+合計ルピーで買い取るけど いい？","All of them? Do you know something I
+don't know? That'll come to a total of
+ rupees. Do we have a deal?"
+43,Com_Talk_36,"これで最後だよ
+いっぱい買ってくれて ありがとう！","Well, that's everything. Thank you for
+being such an...enthusiastic customer!"
+44,Com_Talk_37,"もう売るものが無くなっちゃった…
+今後の入荷予定表でも見ていく？","I'm afraid I don't have anything left to
+sell! I'll be happy to show you what I've
+got on order, if you like."
+45,Com_Talk_56,"をひとつで いいの？
+ルピーだけどいい？",That will be  rupees. Sound good?
+46,Failed00,魔物は ほんと魔物だからイヤなんだよ…,"Monsters truly are, well, monstrous,
+aren't they..."
+47,Failed01,魔物はほんと キライ…,"Oh, I really am not altogether too
+fond of monsters..."
+48,GoodBye00,はいはい… またね,"Sure, sure. Maybe later, then."
+49,Guardian00,"わっ！ガーディアンだぁ！
+しまった大きな声出しちゃった…","Whoa! A Guardian!
+Oh, no! Why did I yell..."
+50,MSG_Rane_00,"…ねえ ロバくん誰か話しかけてきたから
+ちょっと待っててねー
+あとで カカリコ村まで出かけて
+おいしいニンジン一緒に食べようねー","...There, there, my devoted donkey.
+Looks like I have company, so why don't
+you sit there and be patient a moment.
+Later on, we can go to Kakariko Village
+and find you some yummy carrots to eat,
+so don't you worry."
+51,MSG_Rane_00_1,"ロバくんあとで カカリコ村で
+おいしいニンジン一緒に食べようねー","Darling donkey, later on, we can go to 
+Kakariko Village and find you some
+yummy carrots to eat."
+52,MSG_Rane_00_2,"…んで あなたは
+ひょっとすると お客さん？","...Now what have we here? Could you
+be that most delightful of sights...a
+customer?"
+53,MSG_Rane_01,"ロバくんよく働いてくれたから
+おいしい野菜をあげようね…","My delightful donkey, you've done such
+good work! You get a yummy reward, in
+the form of a vegetal treat!"
+54,MSG_Rane_01_1,ロバくんに おいしい野菜をあげるんだけど…,"Very well, my darling donkey. I shall
+give you a vegetal delight."
+55,MSG_Rane_01_2,"あ！お客さんには もちろん
+お金をいただいて お譲りしてますけど…","Oh! But perhaps it would be better
+to sell them to a paying customer,
+of course..."
+56,MSG_Rane_02,"…はいはい東に行けばカカリコ村
+西に行けば リバーサイド馬宿ですよ","Indubitably. You would want to head east
+from here for Kakariko Village and west
+for the Riverside Stable."
+57,MSG_Rane_02_1,"東に行けばカカリコ村
+西に行けば リバーサイド馬宿 って言ったよね？","Head east for Kakariko Village and west
+for the Riverside Stable. Isn't that right,
+my esteemed equine?"
+58,MSG_Rane_02_2,ねー ロバくんそうだよねー,"Isn't that right, O donkey, my donkey!"
+59,MSG_Rane_02_3,…え？道なんて聞いてない？,"Oh, dear. You weren't asking for 
+directions?"
+60,MSG_Rane_03,"…はいはい料理のコツは2つあります
+よく火を通すことと虫は入れないこと","You must understand, there are two key
+components to cooking: heating the food
+evenly and...not putting any bugs in it."
+61,MSG_Rane_03_1,"料理のコツは よく火を通すことと
+虫は入れないこと って言ったよね？","The trick to proper cooking is even heat
+and no bugs. Isn't that right, my finicky
+friend?"
+62,MSG_Rane_03_2,ねー ロバくんそうだよねー,"You understand, don't you, donkey?
+Of course you do. You understand me."
+63,MSG_Rane_03_3,…え？料理のコツなんて聞いてない？,"Oh, dear. You...weren't asking for
+cooking tips?"
+64,MSG_Rane_04,"ようやく カカリコ村に着いたところでね
+売り物を仕入れる その前に…
+ロバくんのために野菜と岩塩とミルクで
+野菜クリームスープを作ってあげるんだけど…","Well, my dedicated donkey, it looks like
+we've finally reached Kakariko Village.
+I'm anxious to open shop, but first...
+A little dinner for my darling donkey.
+Some veggies, rock salt, and milk make
+for a delightful veggie cream soup."
+65,MSG_Rane_04_1,"カカリコ村で野菜と岩塩とミルクで
+野菜クリームスープを作ってあげて っと…","Now that we've reached Kakariko Village,
+I'll use some rock salt and milk to make
+some veggie cream soup for my donkey."
+66,Near00,ロバと仲良く…,"Get along, li'l donkey..."
+67,Near01,ロバと楽しく…,Love my donkey.
+68,Near02,ロバと一緒に…,Me an' donkey.
+69,Near03,ロバを引き連れ…,Travelin' with my donkey.
+70,Near04,ロバが濡れちゃう…,My donkey's getting wet...
+71,Rest_00,"話せば長くなるかもしれないけど
+ボクとロバくんとの出会い…それは…
+話せば長くなるから話さない","Now, it's a long story, but the way my
+donkey and I met... Well...
+
+I couldn't possibly do justice to it, so
+never you mind."
+72,Rest_01,"ボクとロバくんとの出会い…
+思い出すだけで涙が出てくるよ
+思い出すだけで
+別に話すつもりはないんだよね","It brings a tear to my eye, just thinking
+about the circumstances that brought me
+and my devoted donkey together.
+Oh, don't you mind my woolgathering.
+I had no intention of boring you with
+my tale."
+73,Rest_02,"雨は雲からの休息の贈り物…
+ボクとロバくんは そう思ってるよ","Rain is just the clouds' way of telling
+you, hey, friend, it's time to take a break.
+That's what my donkey and I think."
+74,RetMSG_Rane_00,"ここは湿原のロバ宿…じゃなかった
+湿原の馬宿だよ
+料理と薬の調合なんかは
+馬宿でやっておくといいと思うけど…","This? Oh, this is the Wetland Donkey
+Hotel. No, that's not quite right. It's...the
+Wetland Stable. That's right.
+Stables make for a pleasant place to do
+some cooking or brew up an elixir.
+My donkey does enjoy my culinary crafts."
+75,RetMSG_Rane_00_1,"この湿原の馬宿で
+料理と薬を作っておこうかな…","Oh, look at the time. Perhaps I'd better
+stop at the Wetland Stables and prepare
+dinner—and an elixir or two."
+76,RetMSG_Rane_01,"…はいはいなぜ食材に火を通すかというと
+生のままだと食あたりするからですよ","Oh, dear. You're asking why you should
+cook food? Don't you realize that eating
+raw foods can lead to food poisoning?"
+77,RetMSG_Rane_01_1,"食材に火を通さないと
+食あたりするよねーロバくん？","Cook your food properly, or you'll find
+yourself with a vicious case of food
+poisoning. Don't you agree, donkey?"
+78,RetMSG_Rane_01_2,ねー ロバくんそうだよねー,"You're ever so clever, my little donkey.
+You know all about that!"
+79,RetMSG_Rane_01_3,…え？火を通す理由なんて聞いてない？,"Oh, dear. You mean to tell me that you
+weren't asking what the point of cooking
+your food is? Perhaps I misheard..."
+80,RetMSG_Rane_02,"追い越していった馬は気にしない
+それが ロバをやってくコツだそうだよ
+足は遅いが荷物はたくさん運びます
+それが ロバくんの特徴かな
+え？そんなこと聞いてない？","I don't pay any mind to the horses that
+pass me by. Horses think they're so
+elegant, but give me a donkey any day.
+Slow of foot, to be sure, but strong of
+back and stubborn as a...well, you know.
+That's what's great about donkeys!
+Oh, dear. You mean you weren't asking
+me to pontificate upon the charms of
+the equus donkus, as they are known?"
+81,RetMSG_Rane_02_1,"足は遅いが荷物はたくさん運びます
+ねー ロバくん？","Slow of foot and strong of back. That's
+you, isn't it, my dutiful donkey?"
+82,RetMSG_Rane_03,"…はいはい薬を作りたいなら
+虫と魔物由来の材料を使うんだよ","Of course, if you want to make your own
+elixirs, you'll need to use bugs, not
+to mention some monster parts."
+83,RetMSG_Rane_03_1,"薬を作るなら虫と魔物由来の材料を使う
+って言ったよね？","If you are making elixirs, you need bugs
+and monster parts as ingredients."
+84,RetMSG_Rane_03_2,ねー ロバくんそうだよねー,"Who is just the cleverest donkey in all
+of donkeydom? That's right! You!"
+85,RetMSG_Rane_03_3,…え？薬の作り方なんて聞いてない？,"Oh, dear. Do you mean to tell me that
+you had not asked me how to make
+elixirs?"
+86,RetMSG_Rane_04,"…ねえ ロバくん誰か話しかけてきたから
+ちょっと待っててねー
+カカリコ村から たくさん野菜を運んでくれて
+ごくろうさまだったねー","There, there, my sweet donkey. Looks
+like someone wants to talk to me, so you
+just sit tight for a second.
+You've done such a good job, carrying
+those vegetables all the way from
+Kakariko Village!"
+87,RetMSG_Rane_04_1,"ロバくん カカリコ村から たくさん野菜を
+運んでくれてごくろうさまー","My darling donkey, you've done such a
+good job carrying those vegetables all
+the way from Kakariko Village!"
+88,RetMSG_Rane_04_2,"…んで あなたは
+ひょっとすると お客さん？","Now, what do we have here... Could you
+be a customer?"
+89,SavedLv1_00,ふぅ助かった！ ロバくんも無事だ！,"Phew, I'm saved! My donkey is, too!"
+90,SavedLv1_01,"お客さん！ お客さん！
+大丈夫だった？","My dear and most valuable customer!
+Are you all right?"
+91,SavedLv2_00,"ロバくん！きみを置いて逃げるなんて…
+ボクはどうかしてたよ！","Oh, donkey! I can't believe I abandoned
+you... I was in such a state!"
+92,SavedLv2_01,魔物のバカバカバカー！,"Take that, you moronic monstrosities!"
+93,SavedLv3_00,いざとなると何もできなくなるボク…,"I'm not much use in a crisis,
+as it turns out..."
+94,SavedLv3_01,ロバくんも逃げ足だけは早いかも！,"My donkey may not seem as swift as
+any horse, but you should see him when
+he's running for his life!"
+95,Talk01,"…もしかしてロバくんの荷物が気になってる？
+だったら ちょっと見ていけば？","Say... I see you eyeballing the packs on
+my donkey. Wanna see my goods?"
+96,Talk02,"ロバくん もう少し待っててねー
+お客さんいるからねー","Whoa there, donkey! We've got a guest."
+97,Thanks00,これはお礼…受け取ってよ,"This is for you. Take it, with my
+gratitude."

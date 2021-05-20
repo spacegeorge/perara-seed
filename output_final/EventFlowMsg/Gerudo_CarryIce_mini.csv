@@ -1,0 +1,161 @@
+#,Title,JPja,USen
+1,"""0000""",挑戦する,You've got it!
+2,"""0001""",やめておく,I'll pass.
+3,"""0002""",行ってきます！,I'm on my way!
+4,"""0003""",もう一度運ぶ,Make another run.
+5,"""0013""",払います,Agreed.
+6,"""0014""",やり直したい,I want to start over.
+7,"""0015""",あきらめる,I give up.
+8,"""0016""",あきらめる,I give up.
+9,"""0017""",がんばる,I'll keep going!
+10,"""0018""",あきらめる,No way.
+11,NewText_00,"おや今度はアンチェの手伝いかい？
+
+まぁ氷を持ってきてさえくれたら
+誰でもいいんだけどさ
+それで…氷はまだかい？","Oh? You're helping out Anche now?
+
+
+Well, as long as someone brings me ice, 
+I'm good. So... Any ice for me yet?"
+12,NewText_01,"おや何度も悪いねぇ…
+
+運んできた氷は
+ここに置いてくれるかい？","Sorry to ask so many times...
+
+
+Could you bring the ice here?"
+13,NewText_02,"もちろん いいが…新しい氷にするなら
+更に50ルピー""支払ってもらうことになるぞ？","Of course that's fine, but new ice will be
+an additional 50 rupees. Is that OK?"
+14,NewText_09,"おお良い所に来てくれたな
+また氷をフロスさんに届けてくれないか？
+本来なら私が届けるのだが…
+
+この辺りも魔物が増えてきてな
+氷室を離れられないのだ
+運ぶ前に氷の代金として 50ルピーを
+前払いしてもらうことになるが
+運び終えたら前払いした代金を
+フロスさんから渡してもらえるはずだ
+早く運んで大きい氷を届ければ
+フロスさんも報酬をはずんでくれるだろうよ","Oh! Talk about great timing! 
+Can you go deliver ice to Furosa again?
+
+Usually I'm the one who's supposed to
+deliver it, but...
+
+Lately there've been more and more
+monsters skulking around here, so I
+can't be away from the icehouse.
+Of course, before you carry the ice,
+I'll have to ask you to pay the 50 rupees
+for it in advance.
+Once you've delivered it, Furosa should
+be able to reimburse you for the cost of
+the ice.
+And if you deliver it quickly, Furosa will
+probably reward you for the effort, too."
+15,NewText_10,"おお氷をフロスさんに届けてくれるのか？
+
+氷の代金として 50ルピーを
+前払いしてもらうことになるが…","Oh, you'll deliver the ice to Furosa for
+me?
+
+I'll have to ask you to pay the 50 rupees
+for the ice in advance, though..."
+16,NewText_26,"分秒で運んでくるなんざ
+アンタも慣れたもんだねぇ
+氷の代金と…
+今回の報酬は こんなもんでいいだろう
+それにしても アンチェのヤツ
+良いバイトを見つけたもんだね","You did it in :.? 
+You're like a professional ice deliverer.
+
+Including the price of the ice...
+I'm assuming this reward feels ample
+for services rendered, right?
+Sounds like Anche is happy managing
+the icehouse. Seems to suit her."
+17,NewText_40,"まさか…
+たった分秒で運んでくるとは
+想像以上の速さで言うことナシだよ
+
+それじゃあ氷の代金と…
+報酬は多めにしてあげるよ
+それにしても アンチェのヤツ
+良いバイトを見つけたもんだね","You've got to be kidding me.
+Ice delivered in :.?
+
+That is WAY beyond my expectations!
+You're like a savant at ice running.
+
+Let me reimburse you for the price of
+the ice...and I'd better dig deep for 
+something extra to reward a run like that!
+Anche must be happy...because the ice
+sure seems happy!"
+18,NewText_41,"どうした？
+もたもたしている場合じゃないぞ","Standing around in the desert is a great
+idea if you want to let ALL THE ICE MELT."
+19,NewText_43,氷が溶けてしまった,The ice melted.
+20,NewText_44,"おっそうこなくっちゃ
+運び先は前と同じで…
+ゲルドの街へ行く途中に 
+遺跡群があるのはわかるな？
+そこの出口…街に近い所で
+フロスさんが待っているはずだ","Yes! That's the spirit!
+So you're heading to the same place
+as before...
+There's a group of ruins on the way to 
+Gerudo Town—you know those? Furosa
+should be at the exit nearest to town."
+21,NewText_45,"無理にとは言わないが…
+
+こっちは常に人手不足なんだ
+いつでも歓迎するよ","Hey, look, I'm not going to force you to
+do it—nobody needs a surly ice runner.
+
+But we're always understaffed, so 
+anytime you feel like helping, come by."
+22,NewText_46,"50ルピー持っていないのか？
+それじゃあ頼めないな","You don't have 50 rupees?
+Well, then I can't ask you to do this."
+23,NewText_47,"ルピーが足りないぞ
+今回はあきらめるか？","You don't have enough rupees. 
+Maybe just give up on this for now?"
+24,NewText_48,次は頼んだぞ,I'll be counting on you next time!
+25,NewText_49,"おーい！道から大きく外れてるぞ！
+一度戻ってこい！","Hey! You're getting pretty far off the
+path! Come back here for a minute!"
+26,NewText_50,"仕事を受けておいて寄り道か？まったく…
+氷の代金を前払いでもらっておいてよかったよ","Taking a detour after accepting work?Good grief... Thank goodness I got
+payment for that ice in advance."
+27,Talk_000,"できればまた運んで欲しいんだが…
+もう一度頼まれてくれないかい？
+いいカクテルを出すために
+氷はいくつあっても困らないからさ…
+アンチェから氷を受け取るときに
+また氷の代金50ルピーを払っといておくれ","If you could, I would love it if you'd
+make another run... Think you could
+find it in your heart to go again?
+You need lots of ice to serve good 
+cocktails, you know?
+
+When you get the ice from Anche, make
+sure you pay 50 rupees for it."
+28,Talk_001,"ありがとうよ…
+
+それじゃあ ここで待ってるから
+氷を持ってきておくれよ","Thank you... I'll be waiting here, so 
+please bring me that ice!"
+29,Talk_002,"そうかい…残念だね
+
+また手伝ってくれるなら
+アンチェに声かけてやっておくれよ…","I see... Ah, well. If you feel like helping
+out, then talk to Anche..."
+30,Talk_003,"できればもっと運んで欲しいんだが
+今ごろ アンチェは寝てるだろうしね…
+また今度 よろしく頼むよ","I want to ask you to make another run,
+but Anche will be sound asleep now...
+Come by later, why don't you?"

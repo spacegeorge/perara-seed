@@ -1,0 +1,235 @@
+#,Title,JPja,USen
+1,QL_BalladOfHeroes_Desc,"ゼルダの声が聞こえてきた
+
+四体の神獣を鎮めた今なら回生の祠で
+秘められた新たなる力が手に入れられるという
+
+回生の祠に向かい
+最初の端末にシーカーストーンを戻そう","Zelda's voice spoke to you...
+
+She said that because you have tamed all
+four Divine Beasts, you can now unlock
+the powerful force hidden within.
+
+Head to theShrine of Resurrection and
+return the Sheikah Slate to its terminal."
+2,QL_BalladOfHeroes_Finish,"導師ミィズ・キョシアに力を示し
+神獣繰りの試練を全て克服した！
+導師から授かったマスターバイク零式は
+アイテムから使うことが出来る
+外に出ると吟遊詩人のカッシーワが
+完成した英傑たちの詩を聴かせてくれた
+その詩は 英傑に任命された日のことを
+思い出させた","The power within prevailed! You proved your
+worthiness to Monk Maz Koshia by completing
+all of the Divine Beast Tamer's Trials. Your gift,
+theMaster Cycle Zero, can be found with your
+Runes. After the trial, you met with Kass,
+who sang the completedChampions' Ballad
+for you. The song helped you recall the distant
+day you were appointed as a Champion..."
+3,QL_BalladOfHeroes_Name,Ｅｘ 英傑たちの詩,EX The Champions' Ballad
+4,QL_BalladOfHeroes_Retire,"回生の祠で端末にシーカーストーンを戻すと
+虚空から不思議な剣が現れた
+
+この剣を使い始まりの台地の4か所で
+魔物を討伐しなければならない
+
+回生の祠に戻った剣を手に取れば
+試練が再開するようだ","After returning the Sheikah Slate to the terminal
+in the Shrine of Resurrection, a mysterious
+weapon appeared out of nowhere.
+
+You must use it to defeat all monsters at
+four locations within the Great Plateau.
+
+The trial will begin again once you take hold
+of the weapon that has returned to the
+Shrine of Resurrection."
+5,QL_BalladOfHeroes_Retire_Dungeon04,"回生の祠で端末にシーカーストーンを戻すと
+虚空から不思議な剣が現れた
+
+その剣を使い始まりの台地の4か所で魔物を倒した
+それによって出現した祠を克服しよう
+
+回生の祠に戻った剣を手に取れば
+試練が再開するようだ","After returning the Sheikah Slate to the terminal
+in the Shrine of Resurrection, a mysterious
+weapon appeared out of nowhere.
+
+Using it, you were able to defeat all monsters at
+four locations within the Great Plateau. Now you
+must also conquer the Shrines that appeared.
+
+The trial will begin again once you take hold
+of the weapon that has returned to the
+Shrine of Resurrection."
+6,QL_BalladOfHeroes_Step01,"回生の祠で端末にシーカーストーンを戻すと
+虚空から不思議な剣が現れた
+
+この剣を使い始まりの台地の4か所で
+魔物を討伐しなければならない
+
+剣を手に取れば試練が始まるようだ","After returning the Sheikah Slate to the terminal
+in the Shrine of Resurrection, amysterious
+weapon appeared out of nowhere.
+
+You must use it to defeat all monsters at
+four locations within the Great Plateau.
+
+The trial will begin once you take hold
+of theweapon."
+7,QL_BalladOfHeroes_Step02,"一撃の剣は その名の通り一撃で相手を倒せるが
+剣を持つ者も一撃で倒される状態になるようだ
+始まりの台地のマップに示された場所で
+魔物を討伐しよう
+
+試練をやめたいときは始まりの台地を出れば
+剣が手元から離れ回生の祠に戻るらしい
+まだ討伐していない魔物の拠点は4つだ","The One-Hit Obliterator, as the name suggests,
+can defeat enemies in one-hit. However,
+the wielder will also be defeated in one hit.
+Defeat the monsters at the locations marked
+on the map within the Great Plateau.
+
+If you wish to quit this trial, simply leave the
+Great Plateau. The weapon will leave your
+hands and return to the Shrine of Resurrection.
+
+There arefour monster bases remaining."
+8,QL_BalladOfHeroes_Step02_Dungeon01,"一撃の剣は その名の通り一撃で相手を倒せるが
+剣を持つ者も一撃で倒される状態になるようだ
+マップに示された場所で魔物を討伐しよう
+
+試練をやめたいときは始まりの台地を出れば
+剣が手元から離れ回生の祠に戻るらしい
+まだ討伐していない魔物の拠点は3つだ
+出現した祠を克服しよう","The One-Hit Obliterator, as the name suggests,
+can defeat enemies in one hit. However,
+the wielder will also be defeated in one hit.
+Defeat the monsters at the locations marked
+on the map. If you wish to quit this trial,
+simply leave the Great Plateau. The weapon
+will leave your hands and return to the
+Shrine of Resurrection.
+
+There arethree monster bases remaining.
+Conquer each Shrine that appears."
+9,QL_BalladOfHeroes_Step02_Dungeon02,"一撃の剣は その名の通り一撃で相手を倒せるが
+剣を持つ者も一撃で倒される状態になるようだ
+マップに示された場所で魔物を討伐しよう
+
+試練をやめたいときは始まりの台地を出れば
+剣が手元から離れ回生の祠に戻るらしい
+まだ討伐していない魔物の拠点は2つだ
+出現した祠を克服しよう","The One-Hit Obliterator, as the name suggests,
+can defeat enemies in one hit. However,
+the wielder will also be defeated in one hit.
+Defeat the monsters at the locations marked
+on the map. If you wish to quit this trial,
+simply leave the Great Plateau. The weapon
+will leave your hands and return to the
+Shrine of Resurrection.
+
+There aretwo monster bases remaining.
+Conquer each Shrine that appears."
+10,QL_BalladOfHeroes_Step02_Dungeon03,"一撃の剣は その名の通り一撃で相手を倒せるが
+剣を持つ者も一撃で倒される状態になるようだ
+マップに示された場所で魔物を討伐しよう
+
+試練をやめたいときは始まりの台地を出れば
+剣が手元から離れ回生の祠に戻るらしい
+まだ討伐していない魔物の拠点は1つだ
+出現した祠を克服しよう","The One-Hit Obliterator, as the name suggests,
+can defeat enemies in one hit. However,
+the wielder will also be defeated in one hit.
+Defeat the monsters at the locations marked
+on the map. If you wish to quit this trial,
+simply leave the Great Plateau. The weapon
+will leave your hands and return to the
+Shrine of Resurrection.
+
+There isone monster base remaining.
+Conquer each Shrine that appears."
+11,QL_BalladOfHeroes_Step03,"始まりの台地での試練を克服した！
+最後の祠から外に出ると一撃の剣が
+四つの光に分かれ ハイラル各地に散っていった
+
+今回の試練には まだ続きがあるようだ
+一体 どんな試練が待っているのだろうか
+
+マップに示された場所に向かおう残るはか所だ","You completed the trials of the Great Plateau!
+After conquering the last shrine, the One-Hit
+Obliterator split into four glowing orbs and
+scattered to different parts of Hyrule.
+
+There seems to be more to this trial...
+What challenges await?
+
+Go to the areas marked on the map.
+Locations remaining:"
+12,QL_BalladOfHeroes_Step04,"記憶の中の強敵 カースガノンを倒し
+四つの石碑が示す試練を全て克服した！
+
+だが この試練はまだ終わりでは無いようだ
+
+回生の祠に最後の試練への扉が開かれたらしい
+もう一度回生の祠に向かおう","In a realm of memory, you defeated the powerful
+Phantom Ganons of the four Divine Beasts.
+You have also completed the four trials
+inscribed on the stone monument.
+
+But this trial is far from over.
+
+The door to the final trial in theShrine of 
+Resurrection has opened. Return there
+once more."
+13,QL_BalladOfHeroes_Step05,"回生の祠の端末にシーカーストーンを戻すと
+部屋が大きく揺れ下降していった！
+
+この祠自体が試練の為のカラクリだったようだ
+地下へ降りていくと巨大な空間が広がっていた
+
+この迷宮を突破しよう","When you returned the Sheikah Slate to the
+terminal at the Shrine of Resurrection,
+the room shook and descended.
+
+The shrine itself must have been designed to
+play a part in the trial... Once you reached the
+underground, an enormous space was revealed.
+
+Conquer the labyrinth."
+14,QL_BalladOfHeroes_Step06,"試練の迷宮の最深部に辿り着いた！
+
+導師ミィズ・キョシアに試練を終えたことを
+伝えようとしたとき彼自身が立ち上がり
+最後の試練が始まった！
+
+導師ミィズ・キョシアと戦い
+神獣を繰る者に相応しい力を示そう","You reached the deepest area of the
+trial's labyrinth!
+
+Before you could report your completion of the
+trial to Monk Maz Koshia, he rose before you
+and the final trial started.
+
+Display your power by fighting Monk Maz Koshia
+and proving you are worthy of mastering
+a Divine Beast."
+15,QL_BalladOfHeroes_Step2_Dungeon4,"一撃の剣は その名の通り一撃で相手を倒せるが
+剣を持つ者も一撃で倒される状態になるようだ
+
+試練をやめたいときは始まりの台地を出れば
+剣が手元から離れ回生の祠に戻るらしい
+
+魔物の拠点を全て討伐した
+出現した祠を克服しよう","The One-Hit Obliterator, as the name suggests,
+can defeat enemies in one hit. However,
+the wielder will also be defeated in one hit.
+
+If you wish to quit this trial, simply leave the
+Great Plateau. The weapon will leave your
+hands and return to the Shrine of Resurrection.
+
+You have defeated all of the monster bases.
+Conquer each Shrine that appears."

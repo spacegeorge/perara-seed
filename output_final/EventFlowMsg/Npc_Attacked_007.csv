@@ -1,0 +1,80 @@
+#,Title,JPja,USen
+1,After00,"いざ ゲルドの街へ！
+待ってろよ！未来のオレの妻よ！","Time to hit Gerudo Town in style!
+Wouldn't want to disappoint my future
+wife by running late!"
+2,Atacked00,"くそっ なんでこんなところに魔物が？！
+やっぱり最近の異変のせいなのか！","Why are there monsters here, anyway?!
+Is it because of all the weirdness going
+on everywhere?"
+3,Atacked01,"ふう…
+危ない危ない","Whew... I nearly ended up dead.
+Or worse—scarred!"
+4,Failed00,"まったく誰だよ…
+砂漠は魔物も住めない環境だ って言ってたのは
+そこらじゅう うようよしてやがるじゃねぇか…
+これも最近の異変のせいかねぇ","I'm positive they said even monsters
+couldn't survive in this desert heat,
+but they're everywhere!
+You think it's because of the weirdness
+that's been going on lately?"
+5,Failed01,"ああぁ… いててて…
+なんだよ砂漠にも普通に魔物いるじゃないか",Aaaaah! Noooo! I'm too pretty to die!
+6,GoodBye00,"オレたちは ゲルドの街を目指して
+旅をしてるんだ
+ほら オレたちって イケてるだろ？
+そこに行けば きっとモテモテだぜ！
+いくら兄ちゃんが剣に長けているといっても
+その顔じゃ モテるのは難しいだろうな…","Gerudo Town, here we come! We're
+young, we're single, and we're on our
+way to a burg full of ladies!
+I bet they'd dig your way with a sword,
+fella. Too bad about your face, though."
+7,Guardian00,"早く逃げろ！
+ガーディアンが来るぞ！",Hoof it! There's a Guardian coming!
+8,Meeting00,"えっ？！
+お前が知ってるんじゃないのかよ…","I'm leading the way?! What?! When did
+we decide this?"
+9,Meeting02,"オレたちは ゲルドの街を目指して
+旅をしてるんだ
+まあ その前に こんな広い砂漠で迷ったら
+ひとたまりもないが…
+街までたどり着いたら人生変わるってもんよ！
+ディルが場所を知っていてよかったぜ！","We're on our way to Gerudo Town. 
+Course, we need to make it out of this
+huge desert first.
+But Dillie knows the way, so we should
+be fine. Once we get there, we're hitting
+the big time!"
+10,Meeting03,"いや… オレは街の場所は知らないぜ
+相棒が案内してくれるんだろ？","Uh, I thought you knew the way. I was
+following you, right? Uh-oh..."
+11,Near00,ゲルドの街 どこだ…,Where IS that town?
+12,PairAtacked00,仲間がまだ…魔物に…,"Help! My pal is still tangling with those
+monsters!"
+13,PairAtacked01,"オレはいいから
+ディルを助けてやってくれ！",I'm fine! Go help Dillie!
+14,PairFailed00,ディル…無事でいてくれ…,"Dillie... Don't die on me, pal..."
+15,PairFailed01,なんてこった… ディルが…,They can't take Dillie! They just can't!
+16,SavedLv1_00,"いやー兄ちゃん強いんだねえ
+ほんの気持ちだけど受け取ってくれ","Whoa, you sure pack a punch, fella.
+I can respect that."
+17,SavedLv1_01,"やるねえ兄ちゃん
+助かったよ
+ほんの気持ちだけど受け取ってくれ","Good hustle, fella. You saved our skin."
+18,SavedLv2_00,"いやー兄ちゃん強いんだねえ
+ほんとに助かったよ
+お礼をさせてもらうよ","Whoa, that was some show of strength.
+We better get to where we're going
+before you beat us there!"
+19,SavedLv2_01,"兄ちゃんのおかげで助かったよ
+ほんとに ありがとう
+お礼をさせてもらうよ","Nice save, fella! Keep up the good work!"
+20,SavedLv3_00,"兄ちゃんは命の恩人だ！
+ぜひ お礼をさせてくれ！","My life was flashing before my eyes for
+a second. But thanks to you, my troubles
+are over!"
+21,SavedLv3_01,"いったい兄ちゃん何者なんだい？
+ぜひ これを受け取ってくれ！","Where'd you learn how to do THAT?!
+And more importantly, can you teach
+me? Here, I'll give you this!"

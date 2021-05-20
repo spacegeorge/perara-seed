@@ -1,0 +1,225 @@
+#,Title,JPja,USen
+1,"""0000""",特に何も…,"Nothing, really."
+2,"""0008""",見張り？,Keep an eye out?
+3,"""0012""",さようなら,Good-bye.
+4,"""0013""",ルッタって？,Ruta?
+5,"""0014""",名前の最後が「ダ」？,Your name...?
+6,"""0015""",そんな人を探している,I'm looking for you.
+7,"""0016""",気になっただけ,Just curious.
+8,near00,…,...
+9,talk00,"はっ！東門異常無しゾラ！
+
+…
+
+……","Yes, sir! East gate is all clear, sir!
+
+
+..."
+10,talk01,"今の所異常ありませんゾラ！
+
+あぁ これはリンク様","Nothing to report, sir!
+
+
+Oh... It's you, Link."
+11,talk02,はっ！こちら異常無しゾラ！,"Yes, sir! Nothing to report, sir!"
+12,talk03,"これは リンク様！
+お懐かしゅうございますゾラ！
+私は…100年前 よく遊んでもらった
+ジョアダに ございますゾラ","Oh! Well, if it isn't Master Link!
+Aren't you a sight for sore eyes?
+
+We...used to play together all the time.
+That was 100 years ago. My name
+is Gaddison."
+13,talk04,"それにしても…
+リンク様は100年前と全くお変わりないゾラ…
+…おっと！
+おしゃべりが過ぎました
+私は今は一人の兵士として
+ここ東門の門番を拝命 仕っているゾラ
+東の貯水湖が溢れないよう
+見張りを兼ねて…
+それではまた後でお話しするゾラ","And what's more...you don't seem
+to have changed much in the last
+100 years...
+Oh, but I shouldn't be making idle
+chitchat just now.
+
+I'm supposed to be fulfilling my officially
+appointed duty by keeping watch
+at the east gate.
+I must maintain my surveillance of the
+East Reservoir Lake. We can chat later."
+14,talk06,さて私にご用ゾラ？,Now then. What can I help you with?
+15,talk07,"リンク様…
+確かに我が名は ジョアダに ございますゾラ","Master Link... Indeed, my name
+is Gaddison."
+16,talk08,"左様で…
+協力できる事がございましたら何なりと…","I see... If there's anything I can help you
+with, please do not hesitate to ask."
+17,talk09,"何やら訳有りのご様子ゾラね…
+詳しい事情を教えていただきたいゾラ","It seems to me that you have something
+on your mind... Care to let me in?"
+18,talk10,"はい…はい…なるほど…
+
+名前の最後が「ダ」で
+神父ができる者…ですか…","Yes, yes... I see...
+
+
+Someone whose name ends with \""son\""
+who can also act as a priest...is what
+you seek?"
+19,talk11,"申し訳ございません リンク様…
+
+私は血生臭い兵士
+とても神父なぞは務まりませんゾラ…
+しかし里には元神父の
+カポーダという者が おりまして…
+今なら共同寝所におられるはず
+一度訪ねられては どうゾラ？","I'm sorry, Master Link...
+
+
+I am a blood-stained soldier. I could
+never be a priest.
+
+But back in the domain, there is Kapson,
+who was a priest in the past.
+
+Kapson should be in the sleeping
+chamber. Why don't you go visit him?"
+20,talk12,それが如何しましたゾラ？,What about it?
+21,talk13,"しかし私は兵士
+とても神父なぞできる身では ございませんゾラ
+代わりにカポーダという元神父が
+里の共同寝所に居るはずなので
+一度訪ねられては どうゾラ？","I am a soldier. I could never be a priest.
+
+
+But Kapson used to live that life.
+He should be in the sleeping chamber.
+Why don't you go visit him?"
+22,talk14,"リンク様見てください
+久しぶりに晴れましたゾラ！
+まさか シド王子が
+本当にルッタの水を止めたゾラ？","Hey! Link! Please take a look. For the
+first time in what feels like an eternity,
+the skies have cleared!
+I wonder if Prince Sidon really managed
+to stop Ruta's water assault..."
+23,talk15,"神獣 ヴァ・ルッタを鎮めてくれたのが
+まさか リンク様だなんて！","Link! To think you were the one to
+appease the Divine Beast Vah Ruta!"
+24,talk16,"100年ぶりに現れたと思ったら
+ビックリするようなことを！
+さぞかしお疲れでしょう…
+里で ゆっくりしていくといいゾラ","What a surprise...for you to show up 
+here after 100 years!
+
+Please take it easy, and enjoy your time
+here in the domain!"
+25,talk17,強さも100年前と お変わりないゾラね！,"Wow, your strength hasn't diminished
+at all in the last 100 years!"
+26,talk18,"神獣 ヴァ・ルッタを鎮めてくださり
+ありがとうございますゾラ！","Thank you for appeasing the
+Divine Beast Vah Ruta!"
+27,talk19,"これで里にも
+観光客が増えてくれれば最高ですゾラ","It would be best if we started getting
+more tourists again..."
+28,talk20,これで私も安心して任務に就けますゾラ！,"Now I can have some peace of mind and
+return to my mission!"
+29,talk21,"シド王子が連れてきた ハイリア人と言うのが
+まさか リンク様ゾラ？","The Hylian that Prince Sidon brought
+here... Don't tell me that was you,
+Master Link!"
+30,talk22,"そうです
+東の貯水湖の見張りを していますゾラ","That's right. I'm supposed to keep an
+eye on East Reservoir Lake."
+31,talk23,"ルッタのせいで
+ずっとずっと この雨…
+ですので湖の貯水量が臨界に近づいたら
+王室に伝達せねばなりませんゾラ","It's been raining like mad lately,
+and all because of Ruta.
+
+If the heavy rainfall causes the reservoir
+to reach a critical level, I'm to report to
+the royal family immediately."
+32,talk24,はい それでは,Yes. See you later!
+33,talk25,"ルッタの放水で
+今にも湖があふれそうだったのですが
+今は増水は ほぼ確認されなくなりましたゾラ","Ruta was spouting water, and the lake
+was in danger of flooding... But now,
+there's been no increase in water level!"
+34,talk26,他に聞きたい事が ございますゾラ？,Is there anything else you'd like to ask?
+35,talk27,"今東の貯水湖が決壊してしまったら
+このゾーラの里は ひとたまりもないですゾラ…","If East Reservoir Lake were to burst,
+Zora's Domain would be destroyed..."
+36,talk28,"ルッタは俗称でして
+正しくは神獣 ヴァ・ルッタと呼ばれてますゾラ
+私の記憶では100年前 ミファー様が乗り込み
+厄災と戦った神獣…
+リンク様なら ご存知かと思いましたゾラ…","Ruta is its nickname. Its full and proper
+name is the Divine Beast Vah Ruta.
+
+If memory serves, 100 years ago Lady
+Mipha rode inside of it...and used the
+Divine Beast to fight the Calamity.
+I would have thought you'd already know
+that, Master Link..."
+37,talk30,"しかし今回現れた神獣は
+ただの洪水の元凶…
+シド王子と セゴン様が一度
+ルッタを止めに向かいましたゾラが
+神獣を止めるには もっと電気の矢を
+撃ち込まないといけない との事ゾラ
+しかし いくら鬼のセゴン様と言えども
+あれ以上電気の矢に触れ続けるのは…","However, now the Divine Beast is
+causing terrible floods...
+
+Prince Sidon and Seggin tried to stop
+Ruta... But to stop the Divine Beast,
+they needed more shock arrows.
+No matter how much of a demon Seggin
+seems...even he couldn't touch those
+shock arrows for long enough."
+38,talk31,"しかし一時の事を思えば
+ルッタの放水も マシになったような…
+セゴン様が電気の矢で
+ルッタの動きを封じたのでしょうゾラか…？","Hmm, but Ruta's water spouting seems
+to have subsided a bit...
+
+Did Seggin manage to fire those
+shock arrows after all?"
+39,talk32,"しかし まだ油断はできませんゾラ
+ルッタが貯水湖に居る限りは…","Still, you'd best not let your guard down.
+As long as Ruta is in the reservoir..."
+40,talk33,ところで私にご用ゾラ？,So did you need anything from me?
+41,talk34,"そういえば同じく名前の最後が「ダ」である
+カポーダ様が ここから出て行かれたゾラ
+確かアッカレ地方に向かわれると
+おっしゃってたゾラ
+ミカウ湖やルル湖の滝を上れば
+アッカレ地方には かなりの近道となるゾラが…","Oh, that reminds me! The Zora whose
+name ends in \""son,\"" just like mine does,
+has left the domain. His name is Kapson.
+I believe he said he was heading to the
+Akkala region.
+
+Just climb the waterfalls at Mikau Lake
+or Lulu Lake. That will offer you a pretty
+decent shortcut to Akkala."
+42,talk35,"あのお年で山越えとは
+いやはや ご健在でなによりゾラ","Hmm, but for him to be crossing the
+mountains at his age... Good gracious!
+I'm glad he's in good health, at least."
+43,talk36,"もしかして リンク様がカポーダ様を
+誘ったゾラ？","Could it be that you're the one who
+invited Kapson?"
+44,talk37,"同じく名前の最後が「ダ」である カポーダ様が
+ここからアッカレ地方に向かわれたゾラ
+確かにミカウ湖やルル湖の滝を上れば
+アッカレ地方には かなりの近道となるゾラ","The Zora whose name ends in \""son,\""
+just like mine does, left for the Akkala
+region. His name is Kapson.
+Just climb the waterfalls at Mikau Lake
+or Lulu Lake. I believe that will offer you
+a pretty decent shortcut to Akkala."

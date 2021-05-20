@@ -1,0 +1,74 @@
+#,Title,JPja,USen
+1,"""0000""",ふつうのベッド,A regular bed.
+2,"""0001""",マッサージ付き,A bed and massage.
+3,"""0002""",やめる,"No, thanks."
+4,"""0003""",朝まで,Until morning.
+5,"""0004""",昼まで,Until noon.
+6,"""0005""",夜まで,Until night.
+7,"""0006""",やっぱりやめる,I changed my mind.
+8,"""0007""",マッサージって？,A massage?
+9,Talk01,"ふつうのベッドなら20ルピー""
+ゴロン式マッサージ付きなら80ルピーゴロ！","A regular bed will cost ya 20 rupees.
+If ya wanna throw in a Goron massage,
+that'll run ya 80 rupees."
+10,Talk02,無理は禁物ゴロよォ！,Don't overwork yourself!
+11,Talk03,"お客さぁん…お金が足りないゴロ
+さすがにこれでは お部屋を貸せないゴロ…","Hey, buddy... You're, uh, low on funds.
+I can't let ya stay unless ya pay."
+12,Talk04,ふつうのベッドで いつまで寝るゴロ？,"How long do ya wanna sleep
+on the regular bed?"
+13,Talk05,マッサージ付きで いつまでゴロゴロするゴロ？,"A room and a massage, got it.
+How long do ya wanna rest for?"
+14,Talk06,じゃあ ゆっくり休んでいくゴロ！,All right! Sleep well!
+15,Talk07,じゃあ岩ベッドで横になるゴロよ！,"Go ahead and lay down on the rock bed.
+Time to loosen up those tiny muscles!"
+16,Talk08,おはようゴロ！,Good mornin'!
+17,Talk09,"よく眠れたゴロか？
+それでは行ってらっしゃいゴロ！","Did ya sleep well? Of course ya did!
+Take care, brother!"
+18,Talk10,"マッサージ どうだったゴロ？
+それでは行ってらっしゃいゴロ！","How was the massage? Amazing, right?
+Take care, brother!"
+19,Talk11,いらっしゃ～いゴロ！！,"Well, well..."
+20,Talk12,夜中までお疲れ～ゴロ！！,"You must be sooo tired, buddy!
+Runnin' around at this hour!"
+21,Talk13,"お客さん ゴロン式マッサージは初めてゴロか？
+
+ゴロン式マッサージは硬ーい岩ベッドの上で
+力を込めて体をほぐしていくゴロよ
+でも全然痛くないから
+安心してゴロゴロしてればいいゴロ！
+目覚めはスッキリ！
+元気ゴリゴリ間違いなしゴロ！","New to the art of Goron massage,
+I take it? That's OK. First time for
+everything, as they say.
+A Goron-style massage is done on top of
+a hard rock bed. Pressure is applied to
+your body to squeeeeze the tension out.
+But I'll tell ya, it doesn't hurt one bit.
+Mostly. Honestly, I doze off sometimes!
+
+When it's all over, you'll sleep like a
+rock and feel great when ya wake up.
+You'll be all limber and full of energy!"
+22,Talk14,"ヘイヘイ兄さん聞いてる？
+
+ルーダニアが大人しくなって
+火山弾が降らなくなったんだってな！
+外に出ねぇ俺にゃ関係ないけどな…
+
+それじゃあ今日も商売といくゴロ！","Hey, buddy. Have ya heard?
+
+
+Rudania has stopped stirrin' up trouble,
+and the magma bombs have stopped too!
+
+Of course, I don't go outside,
+so it makes no difference to me.
+
+Anyhoo... Time to get back to business!"
+23,Talk15,ヘ～イ！,Hey!
+24,Talk16,"お～い！ ボイコン！""頼んだぞ～！","Hey, Volcon! We got a customer!"
+25,Talk17,"マッサージ どうだったゴロ？
+それでは行ってらっしゃいゴロ！","How was the massage? Amazing, right?
+Take care, brother!"

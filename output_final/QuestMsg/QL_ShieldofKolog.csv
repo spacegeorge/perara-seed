@@ -1,0 +1,26 @@
+#,Title,JPja,USen
+1,QL_ShieldofKolog_Desc,"コログの森で ダミダミから試練を
+受ける事になった
+
+準備ができたらダミダミに話しかけよう","You've decided to undergo the trial Damia
+gave you in Korok Forest.
+
+Talk to Damia when you're ready to begin."
+2,QL_ShieldofKolog_Finish,"森人の剣と森人の弓と森人の盾
+
+これらを装備したまま
+目的地までたどり着き
+古代の祠を発見した","You arrived at your destination with
+the forest dweller's sword,
+forest dweller's bow, and
+forest dweller's shield equipped.
+There, you found an ancient shrine."
+3,QL_ShieldofKolog_Name,燃えずのしれん,The Test of Wood
+4,QL_ShieldofKolog_Retire,,
+5,QL_ShieldofKolog_Step010,"森人の剣と森人の弓と森人の盾
+
+これらを装備したまま
+目的地に向かおう","With the forest dweller's sword,
+forest dweller's bow, and
+forest dweller's shield equipped,
+head for your destination."

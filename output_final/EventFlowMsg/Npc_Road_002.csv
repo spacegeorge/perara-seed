@@ -1,0 +1,348 @@
+#,Title,JPja,USen
+1,"""0000""",買おうかな,I'll buy some meat.
+2,"""0001""",売ろうかな,I'd rather sell.
+3,"""0002""",さようなら,"I'm good, thanks."
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,I'll buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"くっそ…魔物め～
+俺が相手だ！","Go on, get! Dang ol' monsters!
+You wanna fight? Is that it?"
+11,Atacked01,"魔物のヤロー…
+いつでも かかって来い！","You gotta be real tough to go toe-to-
+toe with some of the monsters out here."
+12,Com_Talk_00,何があるんだ？,Whatcha got?
+13,Com_Talk_01,"を売るんだな？
+ルピーになるけど いいか？",I'll give you  rupees. Sound good?
+14,Com_Talk_02,"ありがとな！
+他にも売りたいものは あるか？",Great! You wanna sell anything else?
+15,Com_Talk_02b,ありがとな助かるぜ！,"Thanks! You're doin' me a real
+service here."
+16,Com_Talk_02c,ありがとな！,Thank you much!
+17,Com_Talk_02d,まだ何かあるかい？,Anything else I can do for you?
+18,Com_Talk_04,そりゃ残念だな…,"Well, that's a shame."
+19,Com_Talk_05,何でも買い取るぜ！,"Whatever you're sellin', I'm buyin'!"
+20,Com_Talk_05b,売る物あるなら見せてみな！,"If you've got somethin' to sell,
+show me what it is!"
+21,Com_Talk_05c,何か売ってくれるのか？,You gonna sell me somethin' or what?
+22,Com_Talk_05d,とりあえず見せてみなよ,Why don't we just take a little look-see?
+23,Com_Talk_06,どれが欲しいんだい？,Which one did you want?
+24,Com_Talk_07,ごめん そいつは切らしてるんだ,"Sorry, I'm fresh out."
+25,Com_Talk_08,"ルピーが足りないな
+冷やかしは お断りだぜ","What are you tryin' to pull? You don't
+have enough rupees!"
+26,Com_Talk_09,"ポーチがいっぱいだぜ
+売るか捨てるかして空きを作ってくれ","Your inventory's full up. You gotta make
+some room. Maybe toss some stuff or,
+I don't know, sell it to me?"
+27,Com_Talk_10,"をお買い上げ…
+って事で いいんだな？",Everything look good to you?
+28,Com_Talk_11,"肉はボンゴ…
+それだけ覚えて帰ってくれな","Remember, if you want meat, you want
+Mezer! That's my motto."
+29,Com_Talk_11b,ありがとな,Thank you.
+30,Com_Talk_11c,肉が欲しい時は いつでも声をかけてくれよ,"If you're after some choice meat,
+you come find me, all right?"
+31,Com_Talk_11d,ありがとな兄ちゃん,"Thanks, pal!"
+32,Com_Talk_12,"上ケモノ肉に上トリ肉…
+自分へのご褒美に どうだ？","Mm, you can't beat raw prime meat,
+unless you've got raw bird thigh! 
+Nothing compares to rare!"
+33,Com_Talk_13," だな？
+いくつ売ってくれるんだい？","And how many did you want
+to sell me?"
+34,Com_Talk_14,"を個で
+合計ルピーになるけど いいか？","I could do  rupees.
+Sound good?"
+35,Com_Talk_15,"それは ちょっと買えないな
+申し訳ないが…","You want me to buy what?
+No, thanks! I'm not interested."
+36,Com_Talk_16,"着てる服は脱いでから売ってくれよ
+わるいけど中身はいらないぜ","If you're fixin' to sell your clothes, you
+might want to take 'em off first. But
+not in front of me!"
+37,Com_Talk_20,"この天気でも冒険とは頭が下がるよ
+こんな日は極上ケモノ肉を販売するぜ！","Look at you, chasing after adventure
+no matter the weather! You know what
+you need? Some raw gourmet meat!"
+38,Com_Talk_30,"が個で
+合計ルピーになるけど いいか？","That comes to  rupees.
+Sound good?"
+39,Com_Talk_31,"で いいんだな？
+いくつ買う？",And how many are you after?
+40,Com_Talk_33,"をひとつだけ？
+それならルピーだけど…",Let's say  rupees. Sound good?
+41,Com_Talk_34,"を あるだけ全部だね？
+個でルピーだけど いいか？","You want to buy all I've got? Sure thing!
+It'll be  rupees for all , OK?"
+42,Com_Talk_35,"を個全部だね？
+それなら合計ルピーで買い取るぜ？","You want to sell all of them, right? I'll
+buy them all for  rupees, OK?"
+43,Com_Talk_36,"これで最後だ
+いっぱい買ってくれて うれしいぜ！","That's the last of it. I'm afraid I've sold
+every last thing I've got."
+44,Com_Talk_37,"今日は売るものが もう無いぜ…
+入荷予定の一覧だけでも見ていくかい？","I don't have anything left to sell today...
+Tell you what, though. You want a quick
+peek at what I'll be ordering next?"
+45,Com_Talk_56,"をひとつだけ？
+それならルピーだけど いいか？","That comes to  rupees.
+Sound good?"
+46,Failed00,"助けに来るのが遅えよ…
+危うく やられるところだったぜ","What took you so long? I was about to
+be some fiend's meaty treat!"
+47,Failed01,"くっそ…
+ひでえ目にあったぜ！","Gosh... Being eaten was about the last
+thing I wanted to spend my day doing!"
+48,GoodBye00,"それじゃあな
+お互い がんばろうぜ！","Thanks for stoppin' by.
+Good luck out there!"
+49,Guardian00,"おい おい おい おい！早く逃げろ！
+ガーディアンが来るぞ！","Oh man, oh man, oh man! Get outta
+here! There's a Guardian a-comin'!"
+50,MSG_Futa_00,"ん？ なんだ？
+そんな顔して どうした…
+腹減って何か分けてほしいってんなら
+俺に声かけたのは正解だな
+なぜなら俺は肉の行商人だからな！","Huh? What's the matter?
+Why the grumbles?
+
+Well, if it's your tummy that's grumblin', 
+you're talkin' to the right guy. I'm a
+butcher, as luck would have it!
+I'd be happy to sell you whatever
+I've got in stock."
+51,MSG_Futa_00_1,"腹が減ったのか？
+だったら肉の行商人の俺に任せろ！","You hungry? Then you're talkin' to the
+right meat man!"
+52,MSG_Futa_01,"ん？ どうした？
+俺から生肉の匂いがするってのか？
+だとしたらビンゴだ！
+そして俺はボンゴだ…肉を売って歩いてる
+正解のご褒美に肉料理の基本を教えてやろう
+
+ジュージューと よく焼く事！
+
+それと持っていればの話だが…
+岩塩を加えると うまさ倍増だ！","What? You smell it, don't you? 
+Like raw meat, wafting through the air?
+Well, you guessed right! It's me!
+I'm Mezer. I'm a wandering butcher.
+Huh. That sounds a touch weird when
+I say it out loud like that.
+How 'bout I whet your appetite with a
+little cooking tip? I've got just the thing
+to make your cuisine sizzle!
+All you gotta do...is add a dash of
+rock salt to double your dish's
+deliciousness!"
+53,MSG_Futa_01_1,"肉料理の基本は よく焼く事！
+岩塩を加えると うまさ倍増だ！
+その肉なら俺が売ってやるぞ","The secret to delicious meat is to grill
+it well! And adding a dash of rock salt
+doubles down on the deliciousness.
+You feel that sensation? That's your
+mouth watering. That's what makes me
+such a good salesman right there."
+54,MSG_Futa_02,"どうした？""道に迷ったか？
+
+カカリコ村なら まだまだ北だが
+双子馬宿なら すぐそこだぜ
+いつもは馬宿で肉を売っているけど
+何なら ここで売り買いしてもいいぜ","What's goin' on with you?
+Are you lost or somethin'?
+
+Kakariko Village is a ways north of here.
+If you're goin' to Dueling Peaks Stable,
+it's not much farther from here.
+You can usually find me at the stables,
+but if you can't wait, we can do a little
+business right here."
+55,MSG_Futa_02_1,"カカリコ村なら まだまだ北だ
+肉がほしいなら ここで売り買いしてもいいぜ","Kakariko Village is a bit farther north of
+here. If what you're looking for is a little
+fresh meat, I'm willing to trade with you."
+56,MSG_Futa_03,"どうした？""話し相手がほしいか？
+
+俺は肉の話しか できないぜ？
+
+肉の話というか肉を売る話だけど
+それでよければ さっそく…","What's up? You lookin' for someone
+to talk to?
+
+Fine by me, as long as we're talkin'
+meat, 'cuz that's all I really have
+that's worth talking about.
+Finest meat in the land, a-yup.
+You, uh, fixin' to buy some?"
+57,MSG_Futa_03_1,"肉の話というか肉を売る話だけど
+それでよければ さっそく…","Speaking of meat, and I'm sure we were,
+I'm selling some, so if you want to buy,
+let's get down to business!"
+58,MSG_Futa_04,"ん？馬宿の中で休まないのかって？
+
+そりゃあ ふかふかベッドで寝たいけど
+馬宿に泊まるだけの売り上げがなくてね
+何なら兄ちゃん…
+肉を買ってくれるか？","Huh? You got opinions about where
+I rest my head at night? Well, I can't
+see how it's any of your business.
+Sure, I'd love to stay in a nice, comfy
+bed. Who wouldn't? But the meat trade
+ain't exactly rakin' in the dough.
+Why not help a fella out by stockin'
+up, as long as you're here?"
+59,MSG_Futa_04_1,"兄ちゃん
+俺の売ってる肉を買ってくれるか？","Hey. Hey, buddy. You wanna buy
+some meat?"
+60,Near00,肩ロース…,Top-quality steak!
+61,Near01,すじ肉…,Tasty meats!
+62,Near02,肩ロース… レバー…,Farm fresh and ready!
+63,Near03,サーロイン…,Juicy sirloin!
+64,Near04,雨かよ…,It's raining...
+65,Rest_00,"ん？""俺か？
+たまには休まないと体がきつくてな
+もちろん休んでるのは体だけ
+商売の方は休まずやってるぜ
+売り物は…肉だ","Huh? Me? I gotta rest sometime,
+don't I? Of course, my body may
+need rest, but meat waits for no one!
+So you better believe I'm open for
+business. I sell...meat."
+66,Rest_01,"天気が悪い時は無理せず休む
+少なくとも俺はそうしてるぜ
+もちろん休んでるのは体だけ
+商売の方は休まずやってるよ
+売り物は…肉だ","When the weather's taken a turn for
+the worse, it's best to take it easy and
+catch up on your rest.
+At least that's what I do. Of course, the
+weather may be crummy, but meat waits
+for no one!
+So you better believe I'm open for
+business. I sell...meat."
+67,Rest_02,"ひゃー！""降ってきやがった！
+こりゃ しばらく雨宿りだな
+もちろん雨宿りしながらでも
+商売の方は休まずやってるぜ
+売り物は…肉だ","Oh, man! It's raining fierce out! Guess
+I'll have to take cover for a while.
+
+But even though I'm wet to the bone,
+meat waits for no one!
+
+So you better believe I'm open for
+business. I sell...meat."
+68,RetMSG_Futa_00,"なんだよ… その憐れむような顔は
+
+こんな朽ちたような冴えない場所でも
+俺にとっては くつろぎの空間なんだ
+同情するなら肉を買ってくれ！
+
+…お安くしとくぜ","What? Don't give me that look!
+
+
+Yeah, maybe it's a bit of a wasteland
+here... But I find it peaceful, being all
+alone out in the wilderness.
+If you've got time to judge, you've got
+time to buy some meat from me!
+Maybe I can even cut you a deal."
+69,RetMSG_Futa_00_1,同情するなら肉を買ってくれ！,"You know what would cheer me up right
+now? If you bought some of my meat.
+That's what."
+70,RetMSG_Futa_01,"どうした？
+その顔… さては腹ペコ君か？
+腹が減っては冒険もできまい…
+肉を焼いて食ったら元気が出るぞ
+ちょっと待ってろ
+俺が肉を売ってやるから…","What is it? That face... Is that...the face
+of hunger? You can't adventure on an
+empty stomach.
+Grill some meat to get your strength
+back! In fact, why don't you give me
+a sec, and I'll sell you some meat."
+71,RetMSG_Futa_01_1,"腹ペコなんだろ？
+俺が肉を売ってやろう","What's the matter? Aren't you hungry?
+I'll sell ya some meat."
+72,RetMSG_Futa_02,"ん？どうした？
+その顔… さては塩分が足りてないか？
+だとしたら ちょうどよかった
+俺は岩塩を売っている
+肉も売ってるから
+一緒に買ってったらどうだ？","Huh? What's your problem?
+You look real salty... Wait, is that what
+you're after? Well, you're in luck!
+I sell rock salt and meat, and I tell you
+what, they do go great together!"
+73,RetMSG_Futa_02_1,"塩分が足りてないなら岩塩を売ってやろう
+ついでに肉もどうだ？","If you're not getting enough salt in your
+diet, I'll sell you some rock salt. And
+why not some meat while I'm at it?"
+74,RetMSG_Futa_03,"ん？ どうした？
+歩きすぎて疲れちゃったか？
+双子馬宿なら すぐそこだってのに
+もし気力がヤバいなら肉でも食え
+たしかこの辺りに肉を売ってるやつが…
+
+あっ俺か！","Huh? What's the matter with you?
+You look right tuckered out. You know,
+Dueling Peaks Stable is real close.
+If you're feelin' a mite peckish, I've
+got just the thing to get your strength
+back. A nice hunk o' meat!"
+75,RetMSG_Futa_03_1,"双子馬宿なら すぐそこだ
+体力がヤバいなら肉を売ってやろう","Dueling Peaks Stable is right over there.
+If you're feeling too tired to make it, how
+about a little meat to charge you up?"
+76,RetMSG_Futa_04,"ん？肉を買いに来たのか？
+
+これから自分の寝ぐらに帰るところだけど
+もちろん商売が優先だ
+それに ケモノやトリの肉が売れることで
+俺は魚や野菜を食うことができる","Huh? You fixin' to buy some meat?
+
+
+I was just about to set myself down
+for some sleep, but business always
+comes first! And meat is my business!
+I'll let you in on a little secret of mine...
+Personally? I don't touch the stuff. I'm
+more of a fruit-and-veggies guy myself."
+77,RetMSG_Futa_04_1,"自分の寝ぐらに帰るところだけど
+客がいるなら そっちが優先だ","I was just headed back to my camp, but
+customers come first. Well...second,
+because meat always comes first!"
+78,SavedLv1_00,"ふぅ""食べられちまうとこだったぜ！
+俺の肉なんか うまくないって！","Phew! I coulda sworn I was about to
+get eaten! Which would have been bad
+for everyone, because I taste AWFUL."
+79,SavedLv1_01,"ふぅ！
+あぶねぇ… あぶねぇ…","Phew! Sure is dangerous out here.
+I probably...shouldn't have gone alone..."
+80,SavedLv2_00,"くっそ！
+魔物にとっちゃ俺は餌かよ！","Aw, dang! I guess I'm nothin' but a
+walkin' pile of monster grub!"
+81,SavedLv2_01,"くっそ！
+売り物の肉の匂いに誘われたのかな！","Aw, dang! They must have been
+lured by the many fine meats I've
+got here in my bag!"
+82,SavedLv3_00,"やれやれ…
+俺が肉になるところだったぜ！","Oh me, oh my... I coulda sworn I was
+gonna be somethin's dinner right there!"
+83,SavedLv3_01,"やれやれ…
+売り物の肉も かろうじて無事だったぜ","Oh me, oh my... At least my delicious
+selection of meats didn't get damaged!"
+84,Talk01,"もちろん俺の売る肉はすべて上物！
+損はさせないぜ","I carry only the finest meats.
+I guarantee these are top-choice
+provisions, or your rupees back!"
+85,Talk02,"他はどうする？
+遠慮なんか するんじゃないぜ","Anything else you need? Be a shame
+to let all this meat go to waste."
+86,Thanks00,"助けてくれてありがとよ
+礼受け取ってくれよ","Thank you for saving me. Here, I want
+you to have this."

@@ -1,0 +1,371 @@
+#,Title,JPja,USen
+1,"""0000""",その通り,That's right.
+2,"""0001""",違います,"No, it's not."
+3,"""0002""",分かりました,I'll listen.
+4,"""0003""",やめとく,Maybe later...
+5,"""0004""",テバって？,Who's Teba?
+6,"""0005""",リーバル様って？,Who's Master Revali?
+7,"""0006""",メドーって？,Medoh?
+8,"""0007""",さようなら,Bye.
+9,"""0008""",退魔の剣って？,Sword?
+10,"""0009""",オオワシの弓って？,Great Eagle Bow?
+11,"""0011""",メドーは？,How's Medoh?
+12,TerrorArrow,ホホーッ！,Hoohoo!
+13,TerrorBomb,ホゥ？,Hoo?
+14,TerrorExplosion,ホホーッ！！,Hoohooh!
+15,TerrorSword,ホホッ？！,Hoohoo?!
+16,near00,う～む…,Hmmm...
+17,near01,おお！,Ah!
+18,talk00,"おや お客人ですかな？
+
+…
+
+……ホホッ！
+
+その腰に付けたるは まさか…
+
+…申し遅れました
+私は リトの村の族長 カーン","Ah, a visitor.
+Welcome to...
+
+...
+
+
+Oh. OH!
+
+
+That object on your hip...
+Could it be...
+
+Forgive me. Where are my manners?
+I am Kaneli, elder of Rito Village."
+19,talk01,"ホホーッ！やはり！
+
+となると あなたもリーバル様と同じく
+神獣 ヴァ・メドーに乗り込める英傑のお一人…
+いや…英傑様は全員100年前にお亡くなりに…
+という事は シーカーストーンを受け継ぎし末裔…
+ああ すいません""考え事を…","Oh, my! So it is true!
+
+
+That means you must be a Champion
+like Master Revali—one of the few able to
+board Divine Beast Vah Medoh!
+No... What am I thinking? The Champions have all
+been dead for 100 years. This boy must be a mere
+descendant...an inheritor of the Sheikah Slate.
+Ah, forgive me..."
+20,talk02,"ホッ ホゥ…
+見間違いでしたか…","Hoo hoo...
+So I was mistaken..."
+21,talk03,ホッ ホゥ…,Hoo hoo...
+22,talk04,"ありがとうございます
+
+あなたを英傑の末裔と見込んで
+改めてお願いが… 
+それは…
+
+今正に空を回遊する神獣 ヴァ・メドーを
+止めていただきたいのです
+神獣を止めるには選ばれし英傑が
+ヤツを内部から制御するしかない…
+村の者に こう説明したところ""気の逸った若者…
+テバとハーツがメドーの偵察に行きました
+その時メドーの攻撃を浴びてしまい
+ハーツが負傷してしまったのです
+英傑の末裔様 お願いでございます
+
+メドーの攻撃を免れたテバは怒りに任せて
+たった一人でメドーを討たんとしております
+テバを探し出し共に神獣 ヴァ・メドーを
+止めてくださらんか","Thank you. Truly.
+
+
+Now that I know you have the blood of a
+Champion, there is something I must ask
+of you.
+How shall I put this...
+
+
+I would like you to deal with
+Divine Beast Vah Medoh.
+The giant beast circling above us.
+Only a chosen one, a Champion, can stop
+a Divine Beast. You must enter the beast
+and bend it to your will.
+I tried explaining this to the more
+headstrong Rito warriors, but they
+wouldn't listen to reason.
+Teba and Harth tried to confront Medoh,
+but it did not go well, and Harth was
+injured.
+Teba escaped unscathed, but I fear he
+now plans to face Medoh alone. 
+
+As a descendant of the Champions,
+perhaps you can help us.
+
+Please. Find Teba. If you work together,
+you may be able to stop
+Divine Beast Vah Medoh."
+23,talk05,他に知りたい事は ございますか？,"Is there something else you wish to
+know?"
+24,talk06,"この村の上空を回遊する巨大な鳥
+ご覧になりましたか？
+あれが神獣 ヴァ・メドーにございます
+
+神獣…それは厄災ガノンを討ち倒すべく
+建造された古代シーカー族の遺産
+しかし全ての神獣は100年前
+厄災ガノンの手に落ちたのです
+その神獣が こうして突如現れ
+罪も無き村人に危害を加えてくるとは…
+厄災ガノン復活の予兆でしょうか…","Did you perchance see that giant bird up
+there? Soaring high above our village?
+
+That...is Divine Beast Vah Medoh.
+
+
+The Divine Beasts. Our misbegotten
+inheritance from the ancient Sheikah.
+Created eons ago to defeat Ganon.
+In an ironic turn of events, the Divine
+Beasts were taken over by the same evil
+force they were created to defeat.
+But that was 100 years ago. To think the
+Divine Beasts would suddenly reappear
+and begin attacking innocent people...
+Could this foretell the return of Ganon?"
+25,talk07,"私達に ご協力いただけるなら
+事の詳細を お話ししましょう","If you mean to help us, then allow me
+to fill you in on the particulars."
+26,talk09,"あなたの腰に付けたるは
+シーカーストーンではござらんか？","That there on your hip.
+Is that not a Sheikah Slate?"
+27,talk10,"テバに お会いになりましたか！
+
+フム… しかし神獣 ヴァ・メドーを鎮めるまで
+帰って来ないと…
+相変わらず聞き分けの無い…
+一人で立ち向かうなぞ あまりにも無謀…","So you've met Teba.
+
+
+Hmm... He says he will not come back
+until he has destroyed
+Divine Beast Vah Medoh?
+There is not a reasonable bone in that
+boy's body. Facing Medoh alone is
+unthinkably reckless..."
+28,talk11,"神獣 ヴァ・メドーに一人で立ち向かうなぞ
+あまりにも無謀……
+誰か協力してくれる者は
+この村にはおらんものか…","Facing Divine Beast Vah Medoh alone
+is unthinkably reckless...
+
+If you could help Teba, or at least talk
+some sense into him, I'm sure his family
+would be very grateful."
+29,talk12,"…おぉ！よくご無事で！
+神獣 ヴァ・メドーを鎮められたのですな！
+村の頂上に鎮座した あの姿が何よりの証拠
+まことに神々しい…","You have done it! And you survived,
+at that! You conquered
+Divine Beast Vah Medoh!
+To think the beast has taken up
+roost at the top of the village!
+It looks simply...divine."
+30,talk13,"お渡しした弓は英傑リーバル様も使われた
+リト伝統の工法で作られた大弓
+その弓は取り回しの悪さゆえ""恥ずかしながら
+現在のリトの者で使いこなせる者はおりません
+幸いな事に修理方法は
+今でも引き継がれております
+詳しくは弓職人のハーツを訪ねてみてください","That bow I gave you is the finest in the
+land, crafted in the Rito tradition. The
+Champion Revali once called it his own.
+I will not lie—the bow is difficult to
+handle. No Rito alive is capable of using
+it to its full potential.
+Fortunately, our bowyer, Harth, knows
+the bow well. You should talk to him for
+details."
+31,talk14,"テバとは拙宅の隣に住む
+リトの村の戦士
+先日神獣 ヴァ・メドーの偵察に向かった若者
+張本人でございます
+彼は ハーツと二人で偵察に向かったのですが
+その時にハーツがメドーに撃たれ退却しました
+怒ったテバは今度は無謀にも
+一人でメドー討伐に行ってしまいました
+しかし まだメドーが回遊しておるという事は
+テバはまだ たどり着いていないのでしょう…
+今彼が どこに行ったのかは
+私には分かりかねます
+テバの妻のサキなら
+彼の所在を知っているやもしれません","Teba is a warrior of Rito Village.
+He lives right next door to my humble
+abode.
+He's the one who decided to confront
+Divine Beast Vah Medoh. He set off
+alongside another villager named Harth.
+Unfortunately, Harth was shot down by
+Medoh and had to retreat.
+
+This defeat only made Teba more
+determined. I fear he has set out to face
+Medoh by himself.
+As you can see, Medoh is still flying
+about up there. I hope Teba is OK.
+
+Teba's wife Saki may be able to tell you
+more about his whereabouts."
+32,talk15,"リーバル様とは 100年前に実在した
+リトの村の戦士でございます
+文献によれば風のように空を翔け
+身の丈もある大弓を軽々と扱ったのだとか
+その実力が認められ当時のハイラル王より
+神獣 ヴァ・メドーの操縦を任されたのです
+しかし リーバル様は厄災ガノン討伐のため
+神獣に乗り込んだ後命を落とされたと聞きます
+100年前神獣 ヴァ・メドーの中で
+一体何が あったのでしょうか…","Master Revali was a fierce warrior from
+Rito Village who died 100 years ago.
+
+According to the stories, he flew like the
+wind itself and wielded a bow twice his
+own size with ease.
+His skill was recognized by King Rhoam,
+and he was entrusted to control
+Divine Beast Vah Medoh.
+Master Revali lost his life while piloting
+the Divine Beast during the great battle
+with Calamity Ganon.
+What could have happened inside 
+Divine Beast Vah Medoh 100 years ago
+to kill such a celebrated warrior?"
+33,talk16,"それでは英傑の末裔様
+メドーを…そしてテバを お願いします","You, descendant of the Champions...
+Please stop Medoh...and help Teba."
+34,talk18,"末裔様恥を忍んで再度お願い申し上げます
+是非 テバとメドーを…よろしくお願いします","Champion descendant, it pains me to ask
+again but... Please, help Teba and stop
+Medoh. I beg of you."
+35,talk19,それはさておき…,But never mind that now...
+36,talk20,"英傑の末裔様…
+あなたが飛行訓練場で会った者
+その者こそが テバ本人でございます
+
+戦士としての腕は確かなのですが
+相変わらず聞き分けが無いようで…","Champion descendant...
+The Rito you met at the Flight Range was
+in fact none other than Teba...
+He is the fiercest of warriors, but I
+cannot say he was ever one to listen..."
+37,talk21,"して…その腰に付けたるは
+シーカーストーンではござらんか？","Now then...is that not a Sheikah Slate
+dangling from your hip?"
+38,talk23,末裔様…,Champion descendant...
+39,talk24,重ね重ね ありがとうございました,"A thousand times, thank you."
+40,talk26,"英傑の末裔様…後生でございます
+この爺の話を聞いてくださらんか","Champion descendant... If you would
+listen to this old man's request, you
+would have my eternal gratitude."
+41,talk27,"英傑の末裔様…今気づいたのですが
+お持ちになっている その剣は…
+まさか退魔の剣…
+
+そのお姿…100年前 リーバル様と共に戦った
+ハイリア人の英傑様 そのもの
+まさか あなたは…
+","Champion descendant... I have only just
+realized. That sword you have in your
+possession...
+Could it be the sword that seals the
+darkness?The Hylian Champion who fought
+alongside Master Revali 100 years ago...
+
+Could...that be you?"
+42,talk28,"それにしても流石は末裔様…
+
+その実力は 100年前リーバル様と共に戦った
+ハイリア人の英傑様に匹敵するのでは…
+ただひとつ違うとすれば退魔の剣…","What you did was miraculous. Though I
+should expect nothing less of one from
+the bloodline of a Champion.
+Why...you are almost the equal of the
+very Hylian Champion who fought with
+Master Revali 100 years ago...
+All you lack is the sword that seals the
+darkness."
+43,talk29,"あなたが退魔の剣を持っておられれば
+まさに瓜二つでございますな","If you had the sword that seals the
+darkness in your possession, you would
+be the spitting image..."
+44,talk30,"ハイリアの英傑様は何処かの森に眠る
+退魔の剣を佩いていたという噂です","They say the Hylian Champion wielded
+the sword that seals the darkness that
+now sleeps deep within the forest."
+45,talk31,"ハイリアの英傑様は迷いの森に眠る
+退魔の剣を佩いていたという噂です","They say the Hylian Champion wielded
+the sword that seals the darkness that
+now sleeps in the Lost Woods."
+46,talk32,"ハイリアの英傑様は ここから東…
+迷いの森に眠る退魔の剣を佩いていたとか","They say the Hylian Champion wielded
+the sword that seals the darkness that
+sleeps in the Lost Woods east of here."
+47,talk34,私に答えられる事なら なんなりと,I am happy to answer anything I can.
+48,talk36,"いやはや ご冗談を…
+
+あなたがお持ちの その剣
+それこそが退魔の剣ではございませんか
+言い伝えではハイリアの英傑様は
+その剣で厄災ガノンに立ち向かったのだとか
+末裔様…先祖より受け継ぎし その剣
+片時も手放してはなりませんぞ","No, no, I was only joking...
+
+
+That sword you have there.
+That is indeed the sword that seals the
+darkness, is it not?
+Legend has it that the Hylian Champion
+fought against Ganon with that very
+sword.
+Champion descendant... That sword is a
+precious gift from your ancestors...
+You must never let it go."
+49,talk37,"神獣 ヴァ・メドー…
+
+リトの英傑 リーバルが操りし""封魔の巨像
+そして…","Divine Beast Vah Medoh...
+
+
+An ancient Sheikah weapon with the
+power to seal evil. It was once piloted by
+the Rito Champion, Revali..."
+50,talk38,"言い伝えが確かなら
+「神獣より放たれし光厄災を封じ込めん」と
+神獣 ヴァ・メドーは今後 この村の守り神となり
+あなたと共に語り継がれていくことでしょう
+ホーッ ホッホッホッ","If the legends are true, \""the light from
+the Divine Beasts will ravage the
+Calamity.\""
+For now, Divine Beast Vah Medoh will
+become the protector of this village
+and live on in legend...alongside you.
+Hoo hoo hoo..."
+51,talk39,……おお そうだ！ お礼を差し上げねば,"...Oh, yes! Of course!
+I must reward you properly!"
+52,talk40,他に何かございますかな？,Was there anything else?
+53,talk41,お客人…,A guest...
+54,talk42,"そこの宝箱の中身を どうぞお持ち下さいませ
+きっと あなたのお役に立つことでしょう","Feel free to take what you find in that
+treasure chest. You will get more use out
+of it than I."
+55,talk43,ホッ ホゥ…,Hoo hoo hoo...
+56,talk44,"あなたの実力は まるで100年前の
+ハイリアの英傑様のようでございます
+ただひとつ違うとすれば退魔の剣…","Your skills rival those of the Hylian
+Champion who lived 100 years ago.
+
+All you lack is the sword that seals the 
+darkness."

@@ -1,0 +1,692 @@
+#,Title,JPja,USen
+1,"""0000""",はい,I am.
+2,"""0002""",ちょっと考えます…,I don't know...
+3,"""0005""",ハテノ村って？,Hateno Village?
+4,"""0006""",わかった,Understood.
+5,"""0007""",四体の神獣？,Four Divine Beasts?
+6,"""0008""",四神獣のこと教えて,Four Divine Beasts?
+7,"""0009""",記憶を取り戻したい,My memories?
+8,"""0010""",行ってくる,I won't fail.
+9,"""0011""",どこに行けばいい？,Where should I go?
+10,"""0013""",1万年前のこと,"10,000 years ago?"
+11,Anataha00,"どうした？
+
+この我を初めて見るかのような
+その眼…
+我はインパじゃ…
+インパの名くらいは覚えておるじゃろう？","What is the matter?
+
+
+You are looking at me as though I am a
+stranger to you. Those eyes... They lack
+the light of familiarity.
+It is I, courageous one. Impa.
+Surely you must at least remember
+the name Impa?"
+12,Anataha01,しかしじゃ！,However!
+13,Anataha02,"姫様が命を懸け其方に残した言葉…
+そのお言葉を賜うこと… それすなわち
+其方も命を懸ける覚悟を決めるということ
+
+とは言え記憶を失った今の其方に
+押し付けることはできん
+姫様のお言葉を賜う覚悟ができたら
+また ここへ来るがよかろう","These words, which the princess risked
+her life to leave you... Well, if you are to
+hear them...
+You must be prepared to risk your life
+as well.
+
+But I am afraid that burden may be too
+much to bear while you are still without
+your memories.
+I leave the choice to you. When you feel
+you are ready to receive the princess's
+message, return to me."
+14,Anataha03,"其方…やはり記憶が…
+
+まあ今はむしろ それが救いかもしれん
+
+リンクよ…
+もそっと近くへ","I see... So you have lost your memory.
+
+
+Well, it matters not. In fact, that may
+actually be a blessing in disguise for
+the time being.
+Dearest Link... Please come a bit closer."
+15,Anataha06,100年前…,A hundred years ago...
+16,Anataha07,"そう…
+ハイラル王国が滅びた 100年前のあの時…
+ゼルダ様は最後の希望として
+倒れた其方を聖なる眠りにつかせ…
+そしてお1人で… たったお1人で
+厄災ガノンの元へ向かわれたのじゃ…","Yes... A hundred years ago, the kingdom
+of Hyrule was destroyed.
+
+After you fell, Princess Zelda's final wish
+was to place you in a sacred slumber.
+
+And then...all alone... Alone she went
+to face Ganon."
+17,Anataha08,"そのゼルダ姫…
+其方に向けたある言葉を この我に残された
+そのお言葉を其方に伝える日を
+我は100年…待っておったというわけじゃ","Before Princess Zelda went to nobly
+meet her fate...she entrusted me with
+some words she wished to say to you.
+I have been waiting 100 years to
+deliver the princess's message."
+18,CarryingBlueFireEXMini02,"ほほぅ…
+
+プルアに振り回されておると聞いたが
+意外と元気そうじゃのう","Huh...
+
+
+I heard Purah was giving you the
+runaround, but you seem just fine."
+19,CarryingBlueFireEXMini03,"どれ…""見せてみよ",Now then... Let me see.
+20,CarryingBlueFireEXMini05,"おお… これは間違いなく
+100年前 ゼルダ様が お撮りになった写し絵","Aha! This is, without a doubt, the Camera
+that Princess Zelda used 100 years ago."
+21,CarryingBlueFireEXMini06,"……姫様の想い出である この写し絵の地を巡れば
+其方の記憶取り戻すことができるやも知れんの","...
+
+
+It could be that if you visit the locations
+within those pictures, you will be able
+to restore some of your lost memories."
+22,ChottoMatte00,"ゼルダ様は未だお1人で
+厄災ガノンと戦われておる
+ゼルダ様を… このハイラルを救えるのは
+其方だけ… さあ はよう向かうのだ","Princess Zelda is fighting Calamity Ganon
+all alone.
+
+You are the only one who can save her—
+the only one who can save Hyrule.
+Now go. You must!"
+23,Connective_CarryingBlueFireEXMini,"すまんの…
+話がそれてしまったが…","I apologize... It seems I strayed from
+the topic at hand."
+24,Connective_Comp_Find_4Relic,"ところで…
+もしやと思ったが…","By the way... How are you faring
+thus far?"
+25,Connective_Demo309_0,それはそうと…,"Ah, that's right..."
+26,Connective_Find_4Relic_One,"ところで…
+もしやと思ったが…","I am curious how your adventure is
+going so far..."
+27,Connective_Find_4Relic_TwoOrMore,ところで…,By the way...
+28,Connective_Give_ChampionShirt,"おおっ
+そうじゃった そうじゃった","Ah, that's right..."
+29,Connective_PictureMemory_All,それはそうと…,"Ah, that's right..."
+30,FirstTalk00,…やっと目覚めおったか,...So you're finally awake.
+31,FirstTalk01,"久しいのう リンク…
+
+すっかり年をとってしまったが
+覚えておるじゃろ？","It has been quite a long time...Link.
+
+
+I am much older now, but...
+you remember me, don't you?"
+32,FirstTalk02,"姫様が命を懸け其方に残した言葉…
+生半可な覚悟の者に伝えることはできん
+其方…命を懸ける覚悟はできたか？","The words that the princess risked her
+life to impart to you...I cannot pass them
+on to someone who lacks conviction.
+Are you prepared to risk your life
+for the greater good?"
+33,FirstTalk05,"よかろう…
+
+其方は記憶を失うておるでのう
+順を追って話していくとしようかの…","Very well.
+
+
+Since you have lost your memory, I will
+recount for you all that has happened..."
+34,FirstTalk06,"よかろう…
+
+其方は記憶を失うておるでのう
+何度でも語ろうぞ…","Very well. Since you lost your memory,
+I will gladly tell you as many times as
+you need me to."
+35,FirstTalk07,"…そして 100年前
+
+予言された厄災ガノンの復活に備えるべく
+1万年前の伝説に倣い我々は準備を急いだ
+しかし結果は…
+
+我らは彼奴を侮っておった…
+
+そして二度と同じことを繰り返さぬよう
+姫様は其方に この言葉を託されたのじゃ…","A hundred years ago...
+
+
+in preparation for the foretold revival of
+Ganon, we strove to follow the lead of
+our ancestors of 10,000 years prior.
+But...in the end...
+
+
+Despite our best efforts and careful
+planning, we underestimated his power.
+
+In order to avoid ever making that grave
+mistake again, the princess left you
+these words..."
+36,FirstTalk08,"…そして 100年前
+
+予言されたガノンの復活に備えるべく
+1万年前の伝説に倣い我々は準備を急いだ
+しかし結果は…
+
+我らは彼奴を侮っておった…
+
+我らは二度と
+同じことを繰り返してはならぬ
+姫様は其方に
+このハイラルの未来を託されたのじゃ","A hundred years ago...
+
+
+in preparation for the foretold revival of
+Ganon, we strove to follow the lead of
+our ancestors of 10,000 years prior.
+But...in the end...
+
+
+Despite our best efforts and careful
+planning, we underestimated his power.
+
+We must never again make that mistake.
+The princess has left the future of Hyrule
+in your hands."
+37,FirstTalk_consecutive,"…どうした
+
+もしかして決心が鈍ったわけではあるまいな！
+
+お前は目覚めたばかり…
+すぐに厄災ガノンを倒せとは言わん
+まずは
+その壊れたシーカーストーンを直さんとな
+急ぎハテノ村の古代研究所に向かうがよい","Is something wrong?
+
+
+Do not tell me the steel has slipped from
+your spine...
+
+I realize you have just awoken. I am
+not suggesting that you must defeat
+Calamity Ganon right this moment.
+For now, you should focus on getting
+that broken Sheikah Slate fixed.
+
+Hurry to the research lab in
+Hateno Village."
+38,Give_ChampionShirt_00,"姫様の記憶に触れ
+其方も少しは昔の事を思い出したじゃろう…
+忘れんうちに
+これを其方に渡しておかねばの","Now that you have seen some of the
+princess's memories, you must have
+started to remember certain things...
+Here. I will hand this over to you now,
+before I forget."
+39,Give_ChampionShirt_10,"これは姫様から預かっておった
+其方の衣じゃ
+英傑となった其方のために誂えられた特別な代物
+手荒く扱うでないぞ","This is something of yours that I have
+been keeping safe, by request of
+the princess.
+This clothing was specially made for
+you when you became a Champion.
+Please handle it with care."
+40,Kotoba00,『四体の神獣を解放せよ』と…,"Free the four Divine Beasts.
+That is what she said."
+41,NakedPlayer,服ぐらい着とかぬか！,Put on some clothes!
+42,Sayonara00,"ほぅ…以前の其方であれば
+我が聞くまでもなく突き進んでおったが…
+まぁよい…其方の覚悟が決まったら
+また我の元へ来るがよい","Oh? I see...
+
+
+There was a time when you would have
+fearlessly charged forward on such a
+challenge without a moment's hesitation.
+Well, it is what it is. In any case, please
+return here once your heart remembers
+what your mind has forgotten."
+43,Sayonara01,"100年待つことのできた この我が
+一時も待てんと言うとでも思うかの？
+大事な決断じゃ
+ゆっくりと考えるがいい","I have been waiting for 100 years.
+Needless to say, I can certainly wait
+a bit longer, if I must.
+This is an important decision. You must
+not make it lightly. Please take your
+time thinking it over."
+44,SecondTalk01,"…まだ このようなところにおるとは
+
+シーカーストーンは ゼルダ様が其方に託した
+厄災ガノンに通ずる唯一の道しるべ
+今のままでは その力を十分に発揮することは
+できんじゃろう…","You're still here?
+
+
+Princess Zelda gifted that Sheikah Slate
+to you. It is the only guide that can lead
+you to Calamity Ganon.
+But you cannot use it to its full potential
+in its present state..."
+45,SecondTalk01_ch3,急ぎハテノ村に向かうのじゃ,Hurry to Hateno Village.
+46,SecondTalk01_ch4,急ぎハテノ村に向かうのじゃ,Hurry to Hateno Village.
+47,Shinju00,"四神獣… それは厄災ガノンに倒された
+四人の英傑が操った古代シーカーの兵器のこと
+ゴロン族ダルケルが操った
+神獣 ヴァ・ルーダニア
+リト族リーバルが操った
+神獣 ヴァ・メドー
+ゾーラ族ミファーが操った
+神獣 ヴァ・ルッタ
+ゲルド族ウルボザが操った
+神獣 ヴァ・ナボリス","The four Divine Beasts are the ancient
+Sheikah weapons wielded by the four
+Champions who Ganon defeated.
+The Divine Beast Vah Rudania,
+controlled by Daruk of the Gorons.
+
+The Divine Beast Vah Medoh,
+controlled by Revali of the Rito.
+
+The Divine Beast Vah Ruta,
+controlled by Mipha of the Zora.
+
+And the Divine Beast Vah Naboris,
+controlled by Urbosa of the Gerudo."
+48,Shinju01,"神獣達の力なくして
+ガノンに立ち向かうのは困難を極めるじゃろう…
+100年前ガノンに奪われてしまった
+神獣に乗り込み再び我らの手に取り戻すのじゃ
+神獣達の手がかりは
+ハイラルの各地に住む四つの部族の元にあろう","It would be extremely ill-advised to face
+Ganon without the power of the Divine
+Beasts to help you...
+You must infiltrate the Divine Beasts that
+were stolen away by Ganon 100 years
+ago and bring them back to our side.
+More information about these Divine
+Beasts can be found by locating the
+four races scattered across Hyrule."
+49,Shinju02,"しかし其方…
+すでに あやつ等に会たようだの
+その体からみなぎる皆の力…
+
+ホッホッ…
+いらん心配だったようじゃな","You... You have already found them.
+Yes, I can feel their power emanating
+from you even now...
+Ha! It would seem I had no cause
+to worry after all."
+50,Shinju4,"写し絵の地を一か所でも
+訪れることができたなら
+またここへ戻ってくるがよい
+
+其方に渡したいものがあるでのぅ","Come back here once you have tried
+going to at least one of those locations.
+
+There is something I wish to give to you."
+51,Shinju_01,ほほぅ…,Ha! I see...
+52,Shinju_02_Electric,ウルボザの力を手に入れたか…,"So, you've gained the power of Urbosa."
+53,Shinju_02_Fire,ダルケルの力を手に入れたか…,"So, you've gained the power of Daruk."
+54,Shinju_02_Water,ミファーの力を手に入れたか…,"So, you've gained the power of Mipha."
+55,Shinju_02_Wind,リーバルの力を手に入れたか…,"So, you've gained the power of Revali."
+56,Shinju_03,"まだ一体とはいえ神獣を厄災ガノンの手より
+取り戻してくれたこと…礼を言うぞ","I thank you for freeing one of the
+Divine Beasts from Calamity Ganon's
+control... But there are others still."
+57,Shinju_04_Electric,"ウルボザの力は雷の力…
+邪悪な力から其方を護ってくれよう","Urbosa's power is that of lightning.
+It will help you put evil in its place."
+58,Shinju_04_Fire,"ダルケルの力は守りの力…
+邪悪な力から其方を護ってくれよう","Daruk's power is that of defense.
+It will protect you from evil."
+59,Shinju_04_Water,"ミファーの力は癒しの力…
+力尽きた其方を救ってくれよう","Mipha's power is that of healing.
+It will aid you when your strength
+has been exhausted."
+60,Shinju_04_Wind,"リーバルの力は風の力…
+邪悪な力から其方を護ってくれよう","Revali's power is that of wind.
+It will prove to be most useful."
+61,Shinju_05_Electric,"ゲルド族 ウルボザが操った
+神獣 ヴァ・ナボリス","Divine Beast Vah Naboris also remains.
+That one was controlled by Urbosa
+of the Gerudo."
+62,Shinju_05_Fire,"ゴロン族 ダルケルが操った
+神獣 ヴァ・ルーダニア","Divine Beast Vah Rudania also remains.
+That one was controlled by Daruk
+of the Gorons."
+63,Shinju_05_Water,ゾーラ族 ミファーが操った神獣 ヴァ・ルッタ,"Divine Beast Vah Ruta also remains.
+That one was controlled by Mipha
+of the Zora."
+64,Shinju_05_Wind,"残る神獣は リト族 リーバルが操った
+神獣 ヴァ・メドー","Still, the Divine Beast Vah Medoh
+remains. That one was controlled
+by Revali of the Rito."
+65,Shinju_05_noko_Electric,"残る神獣は
+ゲルド族 ウルボザが操った神獣 ヴァ・ナボリス","Still, the Divine Beast Vah Naboris
+remains. That one was controlled
+by Urbosa of the Gerudo."
+66,Shinju_05_noko_Fire,"残る神獣は ゴロン族 ダルケルが操った
+神獣 ヴァ・ルーダニア","Still, the Divine Beast Vah Rudania
+remains. That one was controlled
+by Daruk of the Gorons."
+67,Shinju_05_noko_Water,"残る神獣は ゾーラ族 ミファーが操った
+神獣 ヴァ・ルッタ","Still, the Divine Beast Vah Ruta remains.
+That one was controlled by Mipha
+of the Zora."
+68,Sukuitai00_ch3,"ともかく先を見失ったときは
+シーカーストーンの導きに従うことじゃな…","In any case... If you ever lose
+your way, simply look to your
+Sheikah Slate to guide you."
+69,Sukuitai00_ch4,"ともかく先を見失ったときは
+シーカーストーンの導きに従うことじゃな…","In any case... If you ever lose
+your way, simply look to your
+Sheikah Slate to guide you."
+70,Talk02,"100年前…
+姫様と其方は共にあった…
+日々己の運命に立ち向かう姫様にとって
+其方の存在は癒しであり励みであった…","A hundred years ago, you and the
+princess were quite close.
+
+You were a comfort and an encouraging
+presence to her as she struggled
+each day to fulfill her destiny."
+71,Talk03,"だからこそ姫様は其方を信じ
+お1人でガノンと戦っておられるのじゃ…","That is why she believes in you...
+and why she has the strength
+to fight Ganon all alone."
+72,Talk04,"リンクよ…
+
+姫様を…
+
+たったお1人で 100年も戦われておる姫様を…
+どうか…救ってやってくれ…","Link.
+
+
+The princess...
+
+
+Please hurry and save our princess!
+She has been fighting all alone for
+100 years."
+73,Talk05,すべてを見てきたようじゃの…,"It seems you have visited all of
+the locations."
+74,Talk_00,"記憶は戻っておらんかもしれんが
+其方は一度彼奴に敗れておる…","You may not remember your last meeting
+with Ganon, but it did not end well for
+you."
+75,Talk_00_ch3,しっかりと身支度を整えねばならんぞ,"If you want a different outcome this 
+time around, you'll need to be properly
+equipped."
+76,Talk_00_ch4,しっかりと身支度を整えねばならんぞ,"If you want a different outcome this 
+time around, you'll need to be properly
+equipped."
+77,Talk_02,残る神獣の手がかりは ここにあろう…,"You should be able to find the general
+location of any remaining Divine Beasts
+on your map."
+78,Talk_06,"しっかりと姫様のお言葉に
+従っておるようじゃの…
+神獣達の魂が鎮まり
+邪悪な力も弱まっておる
+姫様も それを感じておることじゃろう…","It seems you are doing well in following
+the princess's words.
+
+The spirits of some Divine Beasts have
+been appeased, and the powers of
+evil have weakened.
+The princess must sense this as well..."
+79,Talk_07,"感じるんじゃ…
+
+あやつらの存在を…","I sense it...
+
+
+Their presence."
+80,Talk_07_2,"ダルケル… ウルボザ… リーバル… ミファー…
+
+100年前…我も命を懸けて戦ったのじゃ…
+皆とともにな…
+しかし我は…皆を守ることは できなんだ…
+
+志半ばで命を失い きっと無念であっただろうと
+思って過ごしておった…
+しかし この清々しいまでの気配…
+
+皆 あきらめては おらんかったんじゃのぅ…
+
+皆も其方に再会でき
+さぞ嬉しかったことであろうのぅ…","Daruk. Urbosa.
+Revali. Mipha.
+
+A hundred years ago, I put my life on
+the line to fight alongside everyone.
+
+But...I could not protect them.
+
+
+They died without fulfilling their
+destinies. I have lived all this time
+thinking they died in vain.
+But this energy I feel from
+their presence...
+
+It seems they have not given up.
+
+
+I can also sense...that they were all
+overjoyed to see you again."
+81,Talk_08,"さあ皆の志は1つ！
+
+厄災ガノンの力が弱まっておる今こそ機なり！
+姫様の元へ向かうんじゃ！","Now you all serve the same purpose!
+
+
+Now it is time to attack Calamity Ganon,
+while he is weak! Hurry to the princess!
+Go, now!"
+82,Talk_09,"神獣達の加護があろうが
+厄災ガノンの守りは強固…
+其方も心して行くのだぞ","Even with blessings of the Divine Beasts
+on your side, you must be careful.
+Calamity Ganon will be well protected.
+Be prepared for anything!"
+83,Talk_10,厄災ガノンはハイラル城にいるはずじゃ,"I believe you will find Calamity Ganon
+in Hyrule Castle."
+84,Talk_12_ch3,"我は語ることしかできぬが
+語れることは何でも語ろうぞ","All I can do is tell you what took place...
+and so I shall. I will tell you all that
+I know."
+85,Talk_12_ch4,"我は語ることしかできぬが
+語れることは何でも語ろうぞ","All I can do is tell you what took place...
+and so I shall. I will tell you all that
+I know."
+86,Talk_13,"ゼルダ様の記憶は
+其方の記憶でもある…
+写し絵の場所を訪れれば
+記憶を取り戻すことができるやもしれん…
+すべてを巡ることができたら
+また戻ってくるがよい","Princess Zelda's memories are your
+memories as well.
+
+Visit the locations chronicled by the
+Camera, and you may be able to
+recover bits of your memory.
+Once you have visited all of
+the locations, return to me."
+87,Talk_14,"…ん
+
+おお…
+
+やっと その剣も主の元へ戻ったか
+ほっほ… やはり其方は そうでなくてはのぅ
+その退魔の剣は其方と対をなす物…
+
+互いがあってこそ
+力を発揮できるというものじゃ
+姫様が その剣と其方にかけた想いを
+無駄にせぬようにな","Hm?
+
+
+Ah...
+
+
+So the sword has been returned to
+its rightful owner. Heh, just as I
+expected of you, hero.
+The sword that seals the darkness is
+your counterpart...
+
+So long as that blade is at your side,
+you shall wield enormous power.
+
+The princess risked everything for you
+and that sword. Do not forget that,
+and do not waste this chance."
+88,Talk_15,"ふぁっふぁっふぁ…
+懐かしいのぅ
+100年前も其方は その英傑の服を
+毎日着ておったでのぅ
+まるで あの頃に戻ったようだわい…
+
+リンクよ…
+姫様を…ゼルダ様を頼んだぞ…","Ha! How strange...
+
+
+To think, 100 years ago, you wore that
+Champion's tunic every day. I feel as
+though I've been transported in time...
+Link... Our princess...
+you must rescue her!"
+89,Talk_16,"ゼルダ様の記憶は其方の記憶でもある…
+
+思い出さずとも何か感じるものはあろう…","Princess Zelda's memories are your
+memories as well.
+
+Even if you do not remember,
+you must surely feel something
+stirring in your heart..."
+90,Talk_17,"最後のゼルダ様の想い出の地…
+
+その場所がどこかは我にもわからぬ…
+
+しかし記憶はなくとも ゼルダ様と共に過ごした
+其方であれば きっとたどり着けるじゃろう","The final location of Princess Zelda's
+lost memories...
+
+Even I do not know where it is.
+
+
+But although you do not remember,
+you spent much time with the princess.
+I have faith you will find it somehow."
+91,Talk_18,"厄災ガノンの力が弱まっているとはいえ
+姫様のお力が いつまで持つか…","Though Ganon's power is weak, I do not
+know how much longer the princess
+will be able to hold out."
+92,Talk_18_ch3,姫様を…ゼルダ様を頼んだぞ,"The princess...our Zelda...I leave her life
+in your hands."
+93,Talk_18_ch4,姫様を…ゼルダ様を頼んだぞ,"The princess...our Zelda...I leave her life
+in your hands."
+94,Talk_19,"ゼルダ様の記憶は
+其方の記憶でもある…
+写し絵の場所を訪れれば
+記憶を取り戻すことができるやもしれん…
+写し絵の地を一か所でも
+訪れることができたなら
+またここへ戻ってくるがよい
+
+其方に渡したいものがあるでのぅ","Princess Zelda's memories are your
+memories as well.
+
+Visit the locations chronicled by the
+Camera, and you may be able to
+recover bits of your memory.
+If you manage to visit even one of
+those locations...come back and
+see me.
+After all, there is still something I wish
+to give you."
+95,Talk_19_ch3,"すでに其方は彼奴と戦う力を身に着けておるはず
+姫様を頼んだぞ","You should have everything you need to
+confront Ganon. I leave the princess's
+life in your hands."
+96,Talk_19_ch4,"すでに其方は彼奴と戦う力を身に着けておるはず
+姫様を頼んだぞ","You should have everything you need to
+confront Ganon. I leave the princess's
+life in your hands."
+97,Talk_20,"宝珠が盗まれてからというもの
+パーヤは ずっとあの調子じゃ
+しかし…
+まさか宝珠が盗まれてしまうとはのう…
+力を借りたいところじゃが
+其方には使命がある…","Paya has been like that ever since the
+Sheikah heirloom was stolen... To think
+that it would be taken, just like that.
+We would like your help, of course,
+but we understand you have an
+important mission to complete."
+98,Talk_20_ch3a,我は其方を姫様の元に導くまでじゃ…,"I am only here to help guide you to
+the princess..."
+99,Talk_20_ch3b,我は其方を姫様の元に導くまでじゃ…,"I am only here to help guide you to
+the princess..."
+100,Talk_20_ch4a,我は其方を姫様の元に導くまでじゃ…,"I am only here to help guide you to
+the princess..."
+101,Talk_20_ch4b,我は其方を姫様の元に導くまでじゃ…,"I am only here to help guide you to
+the princess..."
+102,TerrorArrow,落ち着くのじゃ！,Settle down!
+103,TerrorBomb,ここで騒ぐでない,Don't be a fool...
+104,TerrorExplosion,なんということを！,What are you doing?!
+105,TerrorFire,冗談が過ぎるぞ！,The joke has gone too far!
+106,TerrorSword,ここで騒ぐでない,Don't be a fool...
+107,ThirdKioku02,"その東の果てで光っておるのがハテノ村
+大厄災の被害を免れた数少ない村のひとつじゃ","The location shining on the eastern edge
+is Hateno Village.
+
+It is a small village... One of the very few
+places that avoided suffering significant
+damage during the Great Calamity."
+108,ThirdKioku03,"其方はゼルダ様の…
+このハイラルの希望なのじゃ
+さあ もう後戻りはできん
+己の心に従い突き進むがよい！","You are Princess Zelda's only hope...
+and Hyrule's, as well...
+
+You cannot turn back now.
+Follow your heart and
+seize your destiny!"
+109,ThirdShinju02,"シーカーストーンの光が其方を導いてくれよう
+その場所にいる部族の長に会ってくるのだ","The Sheikah Slate will guide you on
+your way. You must go where it tells
+you and meet with each leader there."
+110,hime00,"これはこれは！
+
+記憶を失おうとも其方は変わらぬな
+
+正義感だけで突き進まんとする
+その真面目さは昔のままじゃ","Ha!
+
+
+Not a memory to your name, yet you are
+as intent as ever to charge forward with
+only courage and justice on your side.
+You have not changed a bit.
+Once a hero, always a hero."
+111,kioku_00,"しかし…
+そのシーカーストーンは まだ完全ではない…","...It seems to me that your Sheikah Slate
+is not yet complete."
+112,kioku_01,"ゼルダ様が残されたそれは道しるべ…
+そして其方の記憶そのものじゃ
+そうだのう…","The device Princess Zelda left you is
+your guide and also your memory.
+
+Now, let's see..."
+113,kioku_02,"ハテノ村の古代研究所なら
+力になってくれるかもしれんぞ？","Someone at the research lab in
+Hateno Village might be able to
+help you..."

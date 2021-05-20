@@ -1,0 +1,202 @@
+#,Title,JPja,USen
+1,"""0008""",さよなら,Bye.
+2,"""0011""",買い取って,I wanna sell.
+3,"""0012""",クラコレ？,Claree Collection?
+4,"""1000""",買った！,I'll take it!
+5,"""1001""",やめておく,Never mind.
+6,"""5500""",はい,OK.
+7,"""5501""",いいえ,Never mind.
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5508""",ぜんぶ売る,All of them.
+10,ClerkAsk00,"はルピー！
+安いでしょ？","So...that'll be  rupees.
+A real steal, isn't it?"
+11,Com_Talk_00,どの品を買い取ればいいですか？,What would you like to sell?
+12,Com_Talk_01,"なら…
+ルピーってとこですかね？","Hmm... That'll net you...
+ rupees. Deal?"
+13,Com_Talk_02,嬉しい！！ いいモン手に入れちゃった！,"Yay, I'm sooo thrilled!
+What a great haul!"
+14,Com_Talk_02b,やった！ これ欲しかったんですよー！,Yay! I've been wanting this!
+15,Com_Talk_02c,"ラッキー！
+これ…狙ってたんですよね！","How lucky am I?
+I was eyeing that!"
+16,Com_Talk_02d,"こんなの買い取れるなんて思ってなかったから
+ちょっとビックリ… ありがと！！！","I never thought I could buy such a thing!
+I'm still in shock! Thanks a bunch!"
+17,Com_Talk_04,"そうなんですねー…
+それ欲しかったですけど…",Hmm... I had my eye on that...
+18,Com_Talk_05,"買える物なら何でも買い取っちゃいますよー！
+遠慮なく おっしゃってくださいね！","I'll buy anything that can be bought!
+Don't hold back. Just sell, sell, sell!"
+19,Com_Talk_05b,いっぱい買い取っちゃいますよ～,I'll buy a lot from you—just wait and see!
+20,Com_Talk_05c,"いらない物は この際ウチで
+ぜーんぶ売っちゃってくださいね！","If you don't need something, why not
+use this opportunity to sell it?"
+21,Com_Talk_05d,"他には何かありますか？
+全部でも買い取っちゃいますよ！","Do you have anything else?
+I'll buy everything you have, if you want!"
+22,Com_Talk_13,"ですか？
+いくつ買い取りましょう？",How many would you like to sell?
+23,Com_Talk_14,"が個っと…
+それならルピーってとこで どうですか？","So ... That's  rupees.
+Do we have a deal?"
+24,Com_Talk_15,"あー… それはごめんなさい
+あんまり興味ないです…","Oh... I'm sorry, but I'm not interested in
+that sort of thing."
+25,Com_Talk_16,"それって…今着てるやつ… ですよね？
+うーん… ちょっとウチでは引き取れない… かな","Wait, but...isn't that what you're wearing
+right now?! Um... I don't think I can buy
+that from you right this moment..."
+26,Com_Talk_33,"が1個っと…
+それならルピーってとこで どうですか？","Just one? That'll be  rupees.
+Sound good?"
+27,Com_Talk_35,"""全部ですか？
+なら…買取額はルピーでいいですか？","All of them? In that case...the grand total
+would be  rupees. Is that OK?"
+28,Com_Talk_60,"ならルピー
+これはもう買うしかないでしょ？！","Hmm... That will cost ya  rupees.
+What a steal!"
+29,Com_Talk_61,"あら残念…
+お気に召しませんでした？","Oh...that's a shame. What's wrong?
+You don't like it?"
+30,FirstTalk00,"いらっしゃーい
+呉服屋『忍杏亭』へようこそ
+ウチにあるのはクラコレの特別な服ばかり！
+
+特にそこにある忍びスーツは
+今シーズンイチオシとなっております！
+不用品の買い取りもいたしてますので
+いつでもお声掛けくださーい","Welcome to Enchanted,
+my high-end boutique!
+
+We exclusively stock the special
+garments of the Claree Collection!
+
+In fact, that stealth chest guard over
+there is highly recommended!
+
+Oh, and we also buy anything you
+don't need, so just talk to me when
+you're ready!"
+31,FirstTalk01,"いらっしゃーい
+呉服屋『忍杏亭』へようこそ
+裸でいきなり現れるから
+てっきり変態かと思っちゃったけど…
+ウチはクラコレの特別な服ばかり！
+
+お兄さんみたいに服に無頓着な方でも
+大満足な品ぞろえですよー！
+特にそこにある忍びスーツは
+今シーズン イチオシとなっております！
+不用品の買い取りも いたしておりますので
+いつでも お声掛けくださーい","Welcome to Enchanted,
+my high-end boutique!
+
+The fact that you showed up out of
+nowhere—and stark naked, no less—
+means you're likely a total creep.
+But that's no business of mine! Anyhoo...
+Here, we exclusively stock the special
+garments of the Claree Collection!
+I'm certain even someone like you,
+who has given up on clothes altogether,
+will find something you like here!
+In fact, that stealth chest guard over
+there is highly recommended!
+
+Oh, and we also buy anything you
+don't need, so just talk to me when
+you're ready!"
+32,Near00,服はいかが？,Need some new clothes?
+33,Near01,いい服あるよ,Our clothes are the tops!
+34,Near02,こんばんはー,Good evening!
+35,Talk00,いつでもどうぞ～,Come back anytime!
+36,Talk01,"ココにあるのはクラコレの特別な服ばかり！
+ゆっくり見てってくださいねー！","Everything here is part of the specially
+curated Claree Collection. Please,
+take your time looking around!"
+37,Talk06,"ちょっとちょっと！
+気が付いたら すっからかんじゃないですか！
+あ… でもこれって…
+もう仕事しなくていい… ってこと？
+ふふっ… しばらくラズリやおばあちゃんと
+旅行でもいこうかな～！","Hold on a minute! It seems we've
+sold out our entire stock!
+
+So... I guess that means...
+I don't have to work anymore!
+
+Heh! Maybe I'll take a vacation!
+Ooh, yeah! I'll bring Lasli or my
+granny along too!"
+38,Talk07,"クラコレっていったら
+クラリコレクションに決まってるじゃないですか
+私のおススメなんで
+ホントに おススメですよー！
+それぞれの服には それぞれの機能があって
+それぞれだから それぞれ見てってくださいね！","The Claree Collection! As in a high-end
+collection curated by me, Claree.
+BUT OF COURSE.
+I've personally selected each and every
+item in here using my flawless fashion
+sense.
+It's all HIGHLY recommended.
+Each item has its own unique features
+and abilities, so take a good look!"
+39,Talk08,"ありがとうございまーす！
+すっごくお似合いになると思いますよー！！","Thanks! That'll look great on you!
+Really!"
+40,Talk14,"まだ他にも何かご用ですか？
+なんでも聞いてくださいねー！","Do you need something else?
+Go on—ask me anything!"
+41,Talk17,"ありがとーございまーす！
+いい買い物しちゃいましたね！","Thanks! You've made a great purchase!
+Really!"
+42,Talk19,"お店休めたら どこ行こうかな…
+せっかくだし 『ラブポンド』探してみようかな…","Once I get out of here, where should I go?
+Hmm, maybe I'll try to find that pond...
+The one that promises love..."
+43,Talk20,"ここにいると外の世界のモンが珍しくって！
+色々見たいし いつでも売りに来てくださいねー","Being stuck in this tiny town, I get pretty
+excited about stuff from the outside...
+
+I'm always happy to take a look at what
+you've collected, so come back if you
+ever want to sell anything!"
+44,Talk24,"それ良くないですか？
+忍杏亭限定の特別な装束なんですよー
+それを着ると足音が出にくくなるから
+狩りなんかで使うと重宝しますよー
+…その分 ちょっと防御力は
+弱くなりますけどね","Isn't that lovely? It's a limited-edition
+Enchanted exclusive!
+
+While you wear it, your footsteps are
+nearly soundless, so it's perfect for
+hunting and stuff.
+Oh, but it offers very little defense. Small price
+for the extra stealth..."
+45,Talk25,"いらっしゃーい
+呉服屋『忍杏亭』へようこそ
+特にそこにある忍びスーツは
+今シーズンイチオシとなっております！
+それを着ると足音が出にくくなるから
+狩りなんかで使うと重宝しますよー
+…その分 ちょっと防御力は
+弱くなりますけどね","Welcome to Enchanted,
+my high-end boutique!
+
+By the by, that stealth chest guard
+over there is highly recommended.
+
+While you wear it, your footsteps are
+nearly soundless, so it's perfect for
+hunting and stuff!
+Oh, but it offers very little defense. Small price
+for the extra stealth..."
+46,Talk26,"ありがとーございまーす！
+また仕入れときますね！",Thanks! I'll be sure to stock up for ya!
+47,Talk27,"ありがとーございまーす！
+大切に着てくださいね！",Thanks! Take good care of it!
+48,TerrorSword,やめて！,Stop that!

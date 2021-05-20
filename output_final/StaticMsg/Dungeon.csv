@@ -1,0 +1,472 @@
+#,Title,JPja,USen
+1,Dungeon000,タ・ムールの祠,Tah Muhl Shrine
+2,Dungeon000_master,タ・ムール,Tah Muhl
+3,Dungeon000_sub,炎を伝えて,Passing the Flame
+4,Dungeon001,ジノ・ヨーの祠,Jee Noh Shrine
+5,Dungeon001_master,ジノ・ヨー,Jee Noh
+6,Dungeon001_sub,静と動の選択,On the Move
+7,Dungeon002,サ・ダージュの祠,Sah Dahaj Shrine
+8,Dungeon002_master,サ・ダージュ,Sah Dahaj
+9,Dungeon002_sub,炎のちから,Power of Fire
+10,Dungeon003,ハワ・カイの祠,Hawa Koth Shrine
+11,Dungeon003_master,ハワ・カイ,Hawa Koth
+12,Dungeon003_sub,エレキの伝達,The Current Solution
+13,Dungeon004,キワ・ザタスの祠,Zalta Wa Shrine
+14,Dungeon004_master,キワ・ザタス,Zalta Wa
+15,Dungeon004_sub,２つの球は空への導き,Two Orbs to Guide You
+16,Dungeon005,ネヅ・ヨマの祠,Ne'ez Yohma Shrine
+17,Dungeon005_master,ネヅ・ヨマ,Ne'ez Yohma
+18,Dungeon005_sub,押し出す力,Pushing Power
+19,Dungeon006,ヤオ・マーヨの祠,Yah Rin Shrine
+20,Dungeon006_master,ヤオ・マーヨ,Yah Rin
+21,Dungeon006_sub,審判を下すは鉄の箱,A Weighty Decision
+22,Dungeon007,ヴァシ・リャコの祠,Bosh Kala Shrine
+23,Dungeon007_master,ヴァシ・リャコ,Bosh Kala
+24,Dungeon007_sub,風の導き,The Wind Guides You
+25,Dungeon008,ヴォリダ・ノの祠,Bareeda Naag Shrine
+26,Dungeon008_master,ヴォリダ・ノ,Bareeda Naag
+27,Dungeon008_sub,大砲,Cannon
+28,Dungeon009,ワ・モダイの祠,Owa Daim Shrine
+29,Dungeon009_master,ワ・モダイ,Owa Daim
+30,Dungeon009_sub,時よ止まれ,Stasis Trial
+31,Dungeon010,ケー・ノイの祠,Kay Noh Shrine
+32,Dungeon010_master,ケー・ノイ,Kay Noh
+33,Dungeon010_sub,エレキのちから,Power of Electricity
+34,Dungeon011,モンヤ・トマの祠,Monya Toma Shrine
+35,Dungeon011_master,モンヤ・トマ,Monya Toma
+36,Dungeon011_sub,つながる放物線,Drawing Parabolas
+37,Dungeon012,ウータ・ドの祠,Voo Lota Shrine
+38,Dungeon012_master,ウータ・ド,Voo Lota
+39,Dungeon012_sub,風の道,The Winding Route
+40,Dungeon013,カツ・トサの祠,Katosa Aug Shrine
+41,Dungeon013_master,カツ・トサ,Katosa Aug
+42,Dungeon013_sub,カツ・トサのからくり,Katosa Aug Apparatus
+43,Dungeon014,カム・ユオの祠,Kam Urog Shrine
+44,Dungeon014_master,カム・ユオ,Kam Urog
+45,Dungeon014_sub,時を刻む歯車,Trial of Passage
+46,Dungeon015,トト・イサの祠,Toto Sah Shrine
+47,Dungeon015_master,トト・イサ,Toto Sah
+48,Dungeon015_sub,トト・イサのからくり,Toto Sah Apparatus
+49,Dungeon016,ルッコ・マの祠,Rucco Maag Shrine
+50,Dungeon016_master,ルッコ・マ,Rucco Maag
+51,Dungeon016_sub,５つの炎,Five Flames
+52,Dungeon017,シベ・ニーロの祠,Shee Vaneer Shrine
+53,Dungeon017_master,シベ・ニーロ,Shee Vaneer
+54,Dungeon017_sub,双子の記憶,Twin Memories
+55,Dungeon018,ラー・クアの祠,Rok Uwog Shrine
+56,Dungeon018_master,ラー・クア,Rok Uwog
+57,Dungeon018_sub,突きのちから,Power of Reach
+58,Dungeon019,ダウ・ナエの祠,Dow Na'eh Shrine
+59,Dungeon019_master,ダウ・ナエ,Dow Na'eh
+60,Dungeon019_sub,３つの箱,Three Boxes
+61,Dungeon020,シ・ダゴズの祠,Sheem Dagoze Shrine
+62,Dungeon020_master,シ・ダゴズ,Sheem Dagoze
+63,Dungeon020_sub,並列思考,Moving in Parallel
+64,Dungeon021,トー・ヤッサの祠,Toh Yahsa Shrine
+65,Dungeon021_master,トー・ヤッサ,Toh Yahsa
+66,Dungeon021_sub,うずもれた秘密,Buried Secrets
+67,Dungeon022,キヨ・ウーの祠,Keo Ruug Shrine
+68,Dungeon022_master,キヨ・ウー,Keo Ruug
+69,Dungeon022_sub,命運は星の数,Fateful Stars
+70,Dungeon023,シェモ・ラタの祠,Sheh Rata Shrine
+71,Dungeon023_master,シェモ・ラタ,Sheh Rata
+72,Dungeon023_sub,光が時を刻む間に,Speed of Light
+73,Dungeon024,ミーズー・ヨの祠,Mezza Lo Shrine
+74,Dungeon024_master,ミーズー・ヨ,Mezza Lo
+75,Dungeon024_sub,３つの知恵,Ancient Trifecta
+76,Dungeon025,ケハ・ラマの祠,Kayra Mah Shrine
+77,Dungeon025_master,ケハ・ラマ,Kayra Mah
+78,Dungeon025_sub,欲望の坂,Greedy Hill
+79,Dungeon026,シモ・イトセの祠,Shae Mo'sah Shrine
+80,Dungeon026_master,シモ・イトセ,Shae Mo'sah
+81,Dungeon026_sub,揺れる炎,Swinging Flames
+82,Dungeon027,ルヨ・タウの祠,Rota Ooh Shrine
+83,Dungeon027_master,ルヨ・タウ,Rota Ooh
+84,Dungeon027_sub,門をくぐる者,Passing of the Gates
+85,Dungeon028,ショラ・ハの祠,Shora Hah Shrine
+86,Dungeon028_master,ショラ・ハ,Shora Hah
+87,Dungeon028_sub,青き炎,Blue Flame
+88,Dungeon029,ヒロ・ヒラの祠,Hila Rao Shrine
+89,Dungeon029_master,ヒロ・ヒラ,Hila Rao
+90,Dungeon029_sub,流れに乗せて,Drifting
+91,Dungeon030,ジュニ・シの祠,Joloo Nah Shrine
+92,Dungeon030_master,ジュニ・シ,Joloo Nah
+93,Dungeon030_sub,ジュニ・シのからくり,Joloo Nah Apparatus
+94,Dungeon031,モア・キシトの祠,Mo'a Keet Shrine
+95,Dungeon031_master,モア・キシト,Mo'a Keet
+96,Dungeon031_sub,道を切り開くは鉄の球,Metal Makes a Path
+97,Dungeon032,ダコ・タワの祠,Dako Tah Shrine
+98,Dungeon032_master,ダコ・タワ,Dako Tah
+99,Dungeon032_sub,エレキの通り道,Electric Path
+100,Dungeon033,ダタ・クスの祠,Daka Tuss Shrine
+101,Dungeon033_master,ダタ・クス,Daka Tuss
+102,Dungeon033_sub,沈んだ救い手,Sunken Scoop
+103,Dungeon034,マ・カヤの祠,Kah Yah Shrine
+104,Dungeon034_master,マ・カヤ,Kah Yah
+105,Dungeon034_sub,求めるは瞬発力,Quick Thinking
+106,Dungeon035,アコ・ヴァータの祠,Akh Va'quot Shrine
+107,Dungeon035_master,アコ・ヴァータ,Akh Va'quot
+108,Dungeon035_sub,風車,Windmills
+109,Dungeon036,シ・ジトの祠,Sho Dantu Shrine
+110,Dungeon036_master,シ・ジト,Sho Dantu
+111,Dungeon036_sub,２つのバクダン,Two Bombs
+112,Dungeon037,シャオ・ヨの祠,Shae Loya Shrine
+113,Dungeon037_master,シャオ・ヨ,Shae Loya
+114,Dungeon037_sub,狙うは刹那,Aim for the Moment
+115,Dungeon038,マ・オーヌの祠,Oman Au Shrine
+116,Dungeon038_master,マ・オーヌ,Oman Au
+117,Dungeon038_sub,磁力のちから,Magnesis Trial
+118,Dungeon039,ミャマ・ガナの祠,Myahm Agana Shrine
+119,Dungeon039_master,ミャマ・ガナ,Myahm Agana
+120,Dungeon039_sub,ミャマ・ガナのからくり,Myahm Agana Apparatus
+121,Dungeon040,ヤカー・マタの祠,Kaam Ya'tak Shrine
+122,Dungeon040_master,ヤカー・マタ,Kaam Ya'tak
+123,Dungeon040_sub,大きなちから,Trial of Power
+124,Dungeon041,ジャ・バシフの祠,Ja Baij Shrine
+125,Dungeon041_master,ジャ・バシフ,Ja Baij
+126,Dungeon041_sub,破壊のちから,Bomb Trial
+127,Dungeon042,リ・モナの祠,Rin Oyaa Shrine
+128,Dungeon042_master,リ・モナ,Rin Oyaa
+129,Dungeon042_sub,風を遮るもの,Directing the Wind
+130,Dungeon043,クイ・タッカの祠,Kuh Takkar Shrine
+131,Dungeon043_master,クイ・タッカ,Kuh Takkar
+132,Dungeon043_sub,融けゆく氷,Melting Ice Hazard
+133,Dungeon044,シベ・ニャスの祠,Shee Venath Shrine
+134,Dungeon044_master,シベ・ニャス,Shee Venath
+135,Dungeon044_sub,双子の記憶,Twin Memories
+136,Dungeon045,ハユ・ダマの祠,Ha Dahamar Shrine
+137,Dungeon045_master,ハユ・ダマ,Ha Dahamar
+138,Dungeon045_sub,導きは水より現れる,The Water Guides
+139,Dungeon046,シャダ・アダの祠,Shada Naw Shrine
+140,Dungeon046_master,シャダ・アダ,Shada Naw
+141,Dungeon046_sub,隠された赤い壁,Red Giveaway
+142,Dungeon047,リ・ダヒの祠,Ree Dahee Shrine
+143,Dungeon047_master,リ・ダヒ,Ree Dahee
+144,Dungeon047_sub,見切りの極意,Timing Is Critical
+145,Dungeon048,ジズ・カフィの祠,Ze Kasho Shrine
+146,Dungeon048_master,ジズ・カフィ,Ze Kasho
+147,Dungeon048_sub,ジズ・カフィのからくり,Ze Kasho Apparatus
+148,Dungeon049,カヤ・ミワの祠,Kaya Wan Shrine
+149,Dungeon049_master,カヤ・ミワ,Kaya Wan
+150,Dungeon049_sub,水より現れし盾,Shields from Water
+151,Dungeon050,サイ・ウートの祠,Shai Utoh Shrine
+152,Dungeon050_master,サイ・ウート,Shai Utoh
+153,Dungeon050_sub,傾きを止めるもの,Halt the Tilt
+154,Dungeon051,カマ・ラヒの祠,Maka Rah Shrine
+155,Dungeon051_master,カマ・ラヒ,Maka Rah
+156,Dungeon051_sub,心の準備,Steady Thy Heart
+157,Dungeon052,ノッキ・ミヒの祠,Gee Ha'rah Shrine
+158,Dungeon052_master,ノッキ・ミヒ,Gee Ha'rah
+159,Dungeon052_sub,同時に,Tandem
+160,Dungeon053,シャ・タワの祠,Sha Warvo Shrine
+161,Dungeon053_master,シャ・タワ,Sha Warvo
+162,Dungeon053_sub,隠されし風の道,Path of Hidden Winds
+163,Dungeon054,カオ・マカの祠,Ka'o Makagh Shrine
+164,Dungeon054_master,カオ・マカ,Ka'o Makagh
+165,Dungeon054_sub,道をつなぐもの,Metal Doors Open the Way
+166,Dungeon055,ドゥンバ・タの祠,Dunba Taag Shrine
+167,Dungeon055_master,ドゥンバ・タ,Dunba Taag
+168,Dungeon055_sub,コツコツと,Build and Release
+169,Dungeon056,ミーロ・ツヒの祠,Mirro Shaz Shrine
+170,Dungeon056_master,ミーロ・ツヒ,Mirro Shaz
+171,Dungeon056_sub,力の加減,Tempered Power
+172,Dungeon057,ワゴ・カタの祠,Wahgo Katta Shrine
+173,Dungeon057_master,ワゴ・カタ,Wahgo Katta
+174,Dungeon057_sub,鉄の橋,Metal Connections
+175,Dungeon058,モ・ラタニアの祠,Mogg Latan Shrine
+176,Dungeon058_master,モ・ラタニア,Mogg Latan
+177,Dungeon058_sub,揺れに合わせて,Synced Swing
+178,Dungeon059,カ・オキョの祠,Kah Okeo Shrine
+179,Dungeon059_master,カ・オキョ,Kah Okeo
+180,Dungeon059_sub,風の使い手,Wind Guide
+181,Dungeon060,グコ・チセの祠,Daqo Chisay Shrine
+182,Dungeon060_master,グコ・チセ,Daqo Chisay
+183,Dungeon060_sub,５つの鉄塊,The Whole Picture
+184,Dungeon061,ショダ・サーの祠,Shoda Sah Shrine
+185,Dungeon061_master,ショダ・サー,Shoda Sah
+186,Dungeon061_sub,成功のタイミング,Impeccable Timing
+187,Dungeon062,シャ・ゲマの祠,Sha Gehma Shrine
+188,Dungeon062_master,シャ・ゲマ,Sha Gehma
+189,Dungeon062_sub,移動と固定,Shift and Lock
+190,Dungeon063,キマ・ズースの祠,Kema Zoos Shrine
+191,Dungeon063_master,キマ・ズース,Kema Zoos
+192,Dungeon063_sub,途切れる放物線,A Delayed Puzzle
+193,Dungeon064,ダカ・カの祠,Daqa Koh Shrine
+194,Dungeon064_master,ダカ・カ,Daqa Koh
+195,Dungeon064_sub,滞空時間,Stalled Flight
+196,Dungeon065,トゥミ・ンケの祠,Keh Namut Shrine
+197,Dungeon065_master,トゥミ・ンケ,Keh Namut
+198,Dungeon065_sub,氷柱のちから,Cryonis Trial
+199,Dungeon066,カ・ムーの祠,Kah Mael Shrine
+200,Dungeon066_master,カ・ムー,Kah Mael
+201,Dungeon066_sub,地に落ち天に昇る,Drop and Rise
+202,Dungeon067,キュ・ラムヒの祠,Qua Raym Shrine
+203,Dungeon067_master,キュ・ラムヒ,Qua Raym
+204,Dungeon067_sub,釣り合う力,A Balanced Approach
+205,Dungeon068,ヤ・ナーガの祠,Ya Naga Shrine
+206,Dungeon068_master,ヤ・ナーガ,Ya Naga
+207,Dungeon068_sub,天を破る,Shatter the Heavens
+208,Dungeon069,イオ・ソオの祠,Ishto Soh Shrine
+209,Dungeon069_master,イオ・ソオ,Ishto Soh
+210,Dungeon069_sub,手に取る勇気,Bravery's Grasp
+211,Dungeon070,サオ・コヒの祠,Soh Kofi Shrine
+212,Dungeon070_master,サオ・コヒ,Soh Kofi
+213,Dungeon070_sub,力の試練序位,A Minor Test of Strength
+214,Dungeon071,プマ・ニットの祠,Pumaag Nitae Shrine
+215,Dungeon071_master,プマ・ニット,Pumaag Nitae
+216,Dungeon071_sub,力の試練序位,A Minor Test of Strength
+217,Dungeon072,ダ・カソーの祠,Dah Kaso Shrine
+218,Dungeon072_master,ダ・カソー,Dah Kaso
+219,Dungeon072_sub,力の試練序位,A Minor Test of Strength
+220,Dungeon073,カタ・チュキの祠,Katah Chuki Shrine
+221,Dungeon073_master,カタ・チュキ,Katah Chuki
+222,Dungeon073_sub,力の試練序位,A Minor Test of Strength
+223,Dungeon074,ニア・ネアの祠,Noya Neha Shrine
+224,Dungeon074_master,ニア・ネア,Noya Neha
+225,Dungeon074_sub,力の試練序位,A Minor Test of Strength
+226,Dungeon075,ダヒ・シーノの祠,Dah Hesho Shrine
+227,Dungeon075_master,ダヒ・シーノ,Dah Hesho
+228,Dungeon075_sub,力の試練序位,A Minor Test of Strength
+229,Dungeon076,ササ・カイの祠,Sasa Kai Shrine
+230,Dungeon076_master,ササ・カイ,Sasa Kai
+231,Dungeon076_sub,力の試練中位,A Modest Test of Strength
+232,Dungeon077,ケニィ・シカの祠,Ke'nai Shakah Shrine
+233,Dungeon077_master,ケニィ・シカ,Ke'nai Shakah
+234,Dungeon077_sub,力の試練中位,A Modest Test of Strength
+235,Dungeon078,ミッダ・ロキの祠,Mijah Rokee Shrine
+236,Dungeon078_master,ミッダ・ロキ,Mijah Rokee
+237,Dungeon078_sub,力の試練中位,A Modest Test of Strength
+238,Dungeon079,ナミカ・オズの祠,Namika Ozz Shrine
+239,Dungeon079_master,ナミカ・オズ,Namika Ozz
+240,Dungeon079_sub,力の試練中位,A Modest Test of Strength
+241,Dungeon080,シ・タタンケの祠,Shoqa Tatone Shrine
+242,Dungeon080_master,シ・タタンケ,Shoqa Tatone
+243,Dungeon080_sub,力の試練中位,A Modest Test of Strength
+244,Dungeon081,ムオ・ジームの祠,Muwo Jeem Shrine
+245,Dungeon081_master,ムオ・ジーム,Muwo Jeem
+246,Dungeon081_sub,力の試練中位,A Modest Test of Strength
+247,Dungeon082,チャス・ケタの祠,Chaas Qeta Shrine
+248,Dungeon082_master,チャス・ケタ,Chaas Qeta
+249,Dungeon082_sub,力の試練極位,A Major Test of Strength
+250,Dungeon083,ティナ・キョザの祠,Tena Ko'sah Shrine
+251,Dungeon083_master,ティナ・キョザ,Tena Ko'sah
+252,Dungeon083_sub,力の試練極位,A Major Test of Strength
+253,Dungeon084,ツツア・ニマの祠,Tutsuwa Nima Shrine
+254,Dungeon084_master,ツツア・ニマ,Tutsuwa Nima
+255,Dungeon084_sub,力の試練極位,A Major Test of Strength
+256,Dungeon085,キマ・コササの祠,Kema Kosassa Shrine
+257,Dungeon085_master,キマ・コササ,Kema Kosassa
+258,Dungeon085_sub,力の試練極位,A Major Test of Strength
+259,Dungeon086,ガオマ・アサの祠,Goma Asaagh Shrine
+260,Dungeon086_master,ガオマ・アサ,Goma Asaagh
+261,Dungeon086_sub,力の試練極位,A Major Test of Strength
+262,Dungeon087,ミョス・シノの祠,Mozo Shenno Shrine
+263,Dungeon087_master,ミョス・シノ,Mozo Shenno
+264,Dungeon087_sub,力の試練極位,A Major Test of Strength
+265,Dungeon088,ヒャ・ミウの祠,Hia Miu Shrine
+266,Dungeon088_master,ヒャ・ミウ,Hia Miu
+267,Dungeon088_sub,力の試練極位,A Major Test of Strength
+268,Dungeon089,サス・コサの祠,Saas Ko'sah Shrine
+269,Dungeon089_master,サス・コサ,Saas Ko'sah
+270,Dungeon089_sub,力の試練極位,A Major Test of Strength
+271,Dungeon090,スマ・サマの祠,Suma Sahma Shrine
+272,Dungeon090_master,スマ・サマ,Suma Sahma
+273,Dungeon090_sub,スマ・サマの祝福,Suma Sahma's Blessing
+274,Dungeon091,グ・アチトーの祠,Gorae Torr Shrine
+275,Dungeon091_master,グ・アチトー,Gorae Torr
+276,Dungeon091_sub,グ・アチトーの祝福,Gorae Torr's Blessing
+277,Dungeon092,マ・ノラの祠,Maag No'rah Shrine
+278,Dungeon092_master,マ・ノラ,Maag No'rah
+279,Dungeon092_sub,マ・ノラの祝福,Maag No'rah's Blessing
+280,Dungeon093,ラキュ・ウロの祠,Raqa Zunzo Shrine
+281,Dungeon093_master,ラキュ・ウロ,Raqa Zunzo
+282,Dungeon093_sub,ラキュ・ウロの祝福,Raqa Zunzo's Blessing
+283,Dungeon094,ト・カユーの祠,Tho Kayu Shrine
+284,Dungeon094_master,ト・カユー,Tho Kayu
+285,Dungeon094_sub,ト・カユーの祝福,Tho Kayu's Blessing
+286,Dungeon095,クン・シダジの祠,Kuhn Sidajj Shrine
+287,Dungeon095_master,クン・シダジ,Kuhn Sidajj
+288,Dungeon095_sub,クン・シダジの祝福,Kuhn Sidajj's Blessing
+289,Dungeon096,キュカ・ナタの祠,Qukah Nata Shrine
+290,Dungeon096_master,キュカ・ナタ,Qukah Nata
+291,Dungeon096_sub,キュカ・ナタの祝福,Qukah Nata's Blessing
+292,Dungeon097,クグ・チデの祠,Korgu Chideh Shrine
+293,Dungeon097_master,クグ・チデ,Korgu Chideh
+294,Dungeon097_sub,クグ・チデの祝福,Korgu Chideh's Blessing
+295,Dungeon098,ダ・チョカヒの祠,Daag Chokah Shrine
+296,Dungeon098_master,ダ・チョカヒ,Daag Chokah
+297,Dungeon098_sub,ダ・チョカヒの祝福,Daag Chokah's Blessing
+298,Dungeon099,タロ・ニヒの祠,Ta'loh Naeg Shrine
+299,Dungeon099_master,タロ・ニヒ,Ta'loh Naeg
+300,Dungeon099_sub,タロ・ニヒの教え,Ta'loh Naeg's Teaching
+301,Dungeon100,キハ・ウの祠,Keeha Yoog Shrine
+302,Dungeon100_master,キハ・ウ,Keeha Yoog
+303,Dungeon100_sub,キハ・ウの祝福,Keeha Yoog's Blessing
+304,Dungeon101,ダ・キキーの祠,Dagah Keek Shrine
+305,Dungeon101_master,ダ・キキー,Dagah Keek
+306,Dungeon101_sub,ダ・キキーの祝福,Dagah Keek's Blessing
+307,Dungeon102,ヅナ・カイの祠,Zuna Kai Shrine
+308,Dungeon102_master,ヅナ・カイ,Zuna Kai
+309,Dungeon102_sub,ヅナ・カイの祝福,Zuna Kai's Blessing
+310,Dungeon103,ディラ・マの祠,Dila Maag Shrine
+311,Dungeon103_master,ディラ・マ,Dila Maag
+312,Dungeon103_sub,ディラ・マの祝福,Dila Maag's Blessing
+313,Dungeon104,ラノ・クヒーの祠,Lanno Kooh Shrine
+314,Dungeon104_master,ラノ・クヒー,Lanno Kooh
+315,Dungeon104_sub,ラノ・クヒーの祝福,Lanno Kooh's Blessing
+316,Dungeon105,トゥ・カロの祠,Tu Ka'loh Shrine
+317,Dungeon105_master,トゥ・カロ,Tu Ka'loh
+318,Dungeon105_sub,トゥ・カロの祝福,Tu Ka'loh's Blessing
+319,Dungeon106,マーム・ラノの祠,Maag Halan Shrine
+320,Dungeon106_master,マーム・ラノ,Maag Halan
+321,Dungeon106_sub,マーム・ラノの祝福,Maag Halan's Blessing
+322,Dungeon107,ミィ・スゥの祠,Misae Suma Shrine
+323,Dungeon107_master,ミィ・スゥ,Misae Suma
+324,Dungeon107_sub,ミィ・スゥの祝福,Misae Suma's Blessing
+325,Dungeon108,キト・ワワイの祠,Ketoh Wawai Shrine
+326,Dungeon108_master,キト・ワワイ,Ketoh Wawai
+327,Dungeon108_sub,キト・ワワイの祝福,Ketoh Wawai's Blessing
+328,Dungeon109,リター・ズモの祠,Ritaag Zumo Shrine
+329,Dungeon109_master,リター・ズモ,Ritaag Zumo
+330,Dungeon109_sub,リター・ズモの祝福,Ritaag Zumo's Blessing
+331,Dungeon110,キョシ・オーの祠,Korsh O'hu Shrine
+332,Dungeon110_master,キョシ・オー,Korsh O'hu
+333,Dungeon110_sub,キョシ・オーの祝福,Korsh O'hu's Blessing
+334,Dungeon111,タワ・ジヌの祠,Tawa Jinn Shrine
+335,Dungeon111_master,タワ・ジヌ,Tawa Jinn
+336,Dungeon111_sub,タワ・ジヌの祝福,Tawa Jinn's Blessing
+337,Dungeon112,ラーナ・ロキの祠,Lakna Rokee Shrine
+338,Dungeon112_master,ラーナ・ロキ,Lakna Rokee
+339,Dungeon112_sub,ラーナ・ロキの祝福,Lakna Rokee's Blessing
+340,Dungeon113,シ・クチョフの祠,Shae Katha Shrine
+341,Dungeon113_master,シ・クチョフ,Shae Katha
+342,Dungeon113_sub,シ・クチョフの祝福,Shae Katha's Blessing
+343,Dungeon114,シ・ヨタの祠,Shai Yota Shrine
+344,Dungeon114_master,シ・ヨタ,Shai Yota
+345,Dungeon114_sub,シ・ヨタの祝福,Shai Yota's Blessing
+346,Dungeon115,ロナ・カータの祠,Rona Kachta Shrine
+347,Dungeon115_master,ロナ・カータ,Rona Kachta
+348,Dungeon115_sub,ロナ・カータの祝福,Rona Kachta's Blessing
+349,Dungeon116,カザ・トッキの祠,Qaza Tokki Shrine
+350,Dungeon116_master,カザ・トッキ,Qaza Tokki
+351,Dungeon116_sub,カザ・トッキの祝福,Qaza Tokki's Blessing
+352,Dungeon117,ジター・サミの祠,Jitan Sa'mi Shrine
+353,Dungeon117_master,ジター・サミ,Jitan Sa'mi
+354,Dungeon117_sub,ジター・サミの祝福,Jitan Sa'mi's Blessing
+355,Dungeon118,ト・クモの祠,To Quomo Shrine
+356,Dungeon118_master,ト・クモ,To Quomo
+357,Dungeon118_sub,ト・クモの祝福,To Quomo's Blessing
+358,Dungeon119,ターノ・アの祠,Tahno O'ah Shrine
+359,Dungeon119_master,ターノ・ア,Tahno O'ah
+360,Dungeon119_sub,ターノ・アの祝福,Tahno O'ah's Blessing
+361,Dungeon120,ヨーワカ・イルタの祠,Yowaka Ita Shrine
+362,Dungeon120_master,ヨーワカ・イルタ,Yowaka Ita
+363,Dungeon120_sub,平常のこころ,Collected Soul
+364,Dungeon121,キヒロテ・モーの祠,Kihiro Moh Shrine
+365,Dungeon121_master,キヒロテ・モー,Kihiro Moh
+366,Dungeon121_sub,箱の中身,Inside the Box
+367,Dungeon122,エツィ・コリマの祠,Etsu Korima Shrine
+368,Dungeon122_master,エツィ・コリマ,Etsu Korima
+369,Dungeon122_sub,導きは光,Path of Light
+370,Dungeon123,ロヒッタ・チグの祠,Rohta Chigah Shrine
+371,Dungeon123_master,ロヒッタ・チグ,Rohta Chigah
+372,Dungeon123_sub,止めるが安全の策,Stop to Start
+373,Dungeon124,サタ・カダの祠,Sato Koda Shrine
+374,Dungeon124_master,サタ・カダ,Sato Koda
+375,Dungeon124_sub,柱の支え,Support and Guidance
+376,Dungeon125,キオ・ダフナの祠,Kee Dafunia Shrine
+377,Dungeon125_master,キオ・ダフナ,Kee Dafunia
+378,Dungeon125_sub,融かしの加減,The Melting Point
+379,Dungeon126,マウ・エルーヤの祠,Mah Eliya Shrine
+380,Dungeon126_master,マウ・エルーヤ,Mah Eliya
+381,Dungeon126_sub,鉄と柱の階段,Secret Stairway
+382,Dungeon127,ノイエ・ロジーの祠,Noe Rajee Shrine
+383,Dungeon127_master,ノイエ・ロジー,Noe Rajee
+384,Dungeon127_sub,導くは四本の風,The Four Winds
+385,Dungeon128,キハ・トゥサの祠,Kiah Toza Shrine
+386,Dungeon128_master,キハ・トゥサ,Kiah Toza
+387,Dungeon128_sub,珠を導きしは己,Master the Orb
+388,Dungeon129,シリト・ゲオマの祠,Shira Gomar Shrine
+389,Dungeon129_master,シリト・ゲオマ,Shira Gomar
+390,Dungeon129_sub,狙いを定めるは静止,Aim for Stillness
+391,Dungeon130,カミラ・オムナの祠,Kamia Omuna Shrine
+392,Dungeon130_master,カミラ・オムナ,Kamia Omuna
+393,Dungeon130_sub,軌道予測,Moving Targets
+394,Dungeon131,リノ・ヒミカの祠,Rinu Honika Shrine
+395,Dungeon131_master,リノ・ヒミカ,Rinu Honika
+396,Dungeon131_sub,炎を遮るもの,Block the Blaze
+397,Dungeon132,シャド・ロンの祠,Sharo Lun Shrine
+398,Dungeon132_master,シャド・ロン,Sharo Lun
+399,Dungeon132_sub,死角の見極め,Blind Spots
+400,Dungeon133,ケーベ・タワの祠,Keive Tala Shrine
+401,Dungeon133_master,ケーベ・タワ,Keive Tala
+402,Dungeon133_sub,大小の選択,Big or Small
+403,Dungeon134,タタカマ・シミリの祠,Takama Shiri Shrine
+404,Dungeon134_master,タタカマ・シミリ,Takama Shiri
+405,Dungeon134_sub,２つの使い道,Dual Purpose
+406,Dungeon135,ルネ・コリバーの祠,Ruvo Korbah Shrine
+407,Dungeon135_master,ルネ・コリバー,Ruvo Korbah
+408,Dungeon135_sub,力の試練 極位＋,A Major Test of Strength+
+409,EnduranceDungeon,剣の導師の祠,Sword Monk's Shrine
+410,EnduranceDungeon01,剣の導師の祠,Sword Monk's Shrine
+411,EnduranceDungeon01_floor,剣の試練中位,Middle Trials
+412,EnduranceDungeon01_floor10_sub,地下１０階,Underground Floor 10
+413,EnduranceDungeon01_floor11_sub,地下１１階,Underground Floor 11
+414,EnduranceDungeon01_floor12_sub,地下１２階,Underground Floor 12
+415,EnduranceDungeon01_floor13_sub,地下１３階,Underground Floor 13
+416,EnduranceDungeon01_floor14_sub,地下１４階,Underground Floor 14
+417,EnduranceDungeon01_floor15_sub,地下１５階,Underground Floor 15
+418,EnduranceDungeon01_floor16_sub,地下１６階,Underground Floor 16
+419,EnduranceDungeon01_floor1_sub,地下１階,Underground Floor 1
+420,EnduranceDungeon01_floor2_sub,地下２階,Underground Floor 2
+421,EnduranceDungeon01_floor3_sub,地下３階,Underground Floor 3
+422,EnduranceDungeon01_floor4_sub,地下４階,Underground Floor 4
+423,EnduranceDungeon01_floor5_sub,地下５階,Underground Floor 5
+424,EnduranceDungeon01_floor6_sub,地下６階,Underground Floor 6
+425,EnduranceDungeon01_floor7_sub,地下７階,Underground Floor 7
+426,EnduranceDungeon01_floor8_sub,地下８階,Underground Floor 8
+427,EnduranceDungeon01_floor9_sub,地下９階,Underground Floor 9
+428,EnduranceDungeon01_master,剣の導師,Sword Monk
+429,EnduranceDungeon01_master_00,剣の導師,Sword Monk
+430,EnduranceDungeon01_sub,剣の試練中位,Middle Trials
+431,EnduranceDungeon02,剣の導師の祠,Sword Monk's Shrine
+432,EnduranceDungeon02_floor,剣の試練極位,Final Trials
+433,EnduranceDungeon02_floor10_sub,地下１０階,Underground Floor 10
+434,EnduranceDungeon02_floor11_sub,地下１１階,Underground Floor 11
+435,EnduranceDungeon02_floor12_sub,地下１２階,Underground Floor 12
+436,EnduranceDungeon02_floor13_sub,地下１３階,Underground Floor 13
+437,EnduranceDungeon02_floor14_sub,地下１４階,Underground Floor 14
+438,EnduranceDungeon02_floor15_sub,地下１５階,Underground Floor 15
+439,EnduranceDungeon02_floor16_sub,地下１６階,Underground Floor 16
+440,EnduranceDungeon02_floor17_sub,地下１７階,Underground Floor 17
+441,EnduranceDungeon02_floor18_sub,地下１８階,Underground Floor 18
+442,EnduranceDungeon02_floor19_sub,地下１９階,Underground Floor 19
+443,EnduranceDungeon02_floor1_sub,地下１階,Underground Floor 1
+444,EnduranceDungeon02_floor20_sub,地下２０階,Underground Floor 20
+445,EnduranceDungeon02_floor21_sub,地下２１階,Underground Floor 21
+446,EnduranceDungeon02_floor22_sub,地下２２階,Underground Floor 22
+447,EnduranceDungeon02_floor23_sub,地下２３階,Underground Floor 23
+448,EnduranceDungeon02_floor2_sub,地下２階,Underground Floor 2
+449,EnduranceDungeon02_floor3_sub,地下３階,Underground Floor 3
+450,EnduranceDungeon02_floor4_sub,地下４階,Underground Floor 4
+451,EnduranceDungeon02_floor5_sub,地下５階,Underground Floor 5
+452,EnduranceDungeon02_floor6_sub,地下６階,Underground Floor 6
+453,EnduranceDungeon02_floor7_sub,地下７階,Underground Floor 7
+454,EnduranceDungeon02_floor8_sub,地下８階,Underground Floor 8
+455,EnduranceDungeon02_floor9_sub,地下９階,Underground Floor 9
+456,EnduranceDungeon02_sub,剣の試練極位,Final Trials
+457,EnduranceDungeon_floor,剣の試練序位,Beginning Trials
+458,EnduranceDungeon_floor10_sub,地下１０階,Underground Floor 10
+459,EnduranceDungeon_floor11_sub,地下１１階,Underground Floor 11
+460,EnduranceDungeon_floor12_sub,地下１２階,Underground Floor 12
+461,EnduranceDungeon_floor1_sub,地下１階,Underground Floor 1
+462,EnduranceDungeon_floor2_sub,地下２階,Underground Floor 2
+463,EnduranceDungeon_floor3_sub,地下３階,Underground Floor 3
+464,EnduranceDungeon_floor4_sub,地下４階,Underground Floor 4
+465,EnduranceDungeon_floor5_sub,地下５階,Underground Floor 5
+466,EnduranceDungeon_floor6_sub,地下６階,Underground Floor 6
+467,EnduranceDungeon_floor7_sub,地下７階,Underground Floor 7
+468,EnduranceDungeon_floor8_sub,地下８階,Underground Floor 8
+469,EnduranceDungeon_floor9_sub,地下９階,Underground Floor 9
+470,EnduranceDungeon_master,剣の導師,Sword Monk
+471,EnduranceDungeon_sub,剣の試練序位,Beginning Trials

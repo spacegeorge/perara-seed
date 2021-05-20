@@ -1,0 +1,498 @@
+#,Title,JPja,USen
+1,Weapon_Lsword_001_Desc,"各地を旅する冒険者が愛用する両手持ちの剣
+魔物との戦いではその重さを生かし
+敵の構えた盾を吹き飛ばすことができる","A basic two-handed sword often
+wielded by aspiring adventurers.
+Its immense weight can knock enemies'
+shields right out of their hands."
+2,Weapon_Lsword_001_Name,旅人の両手剣,Traveler's Claymore
+3,Weapon_Lsword_001_PictureBook,"各地を旅する冒険者が愛用する両手持ちの剣
+魔物との戦いではその重さを生かし
+敵の構えた盾を吹き飛ばすことができる","A basic two-handed sword often
+wielded by aspiring adventurers.
+Its immense weight can knock enemies'
+shields right out of their hands."
+4,Weapon_Lsword_002_Desc,"戦闘用に改良された両手剣
+大きく重いので扱いはむずかしいが
+頑丈な作りで長く戦うことができる","A two-handed sword designed for combat.
+It's heavy and hard to use but has decent
+build quality and durability."
+5,Weapon_Lsword_002_Name,兵士の両手剣,Soldier's Claymore
+6,Weapon_Lsword_002_PictureBook,"戦闘用に改良された両手剣
+大きく重いので扱いはむずかしいが
+頑丈な作りで長く戦うことができる","A two-handed sword designed for combat.
+It's heavy and hard to use but has decent
+build quality and durability."
+7,Weapon_Lsword_003_Desc,"ハイラル城を守っていた騎士の中でも
+特に力に自信がある者が携えていた大剣
+刃の切れ味も洗練されている","Only the most confident of Hyrule Castle's
+knights carried this two-handed sword. Its
+cutting edge is finely honed."
+8,Weapon_Lsword_003_Name,騎士の両手剣,Knight's Claymore
+9,Weapon_Lsword_003_PictureBook,"ハイラル城を守っていた騎士の中でも
+特に力に自信がある者が携えていた大剣
+刃の切れ味も洗練されている","Only the most confident of Hyrule Castle's
+knights carried this two-handed sword. Its
+cutting edge is finely honed."
+10,Weapon_Lsword_004_Desc,"ボコブリンが本能のままに作った無骨なこん棒
+当たり所によっては かなりの威力で
+構えた盾を吹っ飛ばすことができる","A clunky club made by a Bokoblin. If you
+swing it at an enemy's shield, it may be
+able to knock the shield out of your
+foe's hand."
+11,Weapon_Lsword_004_Name,ボコバット,Boko Bat
+12,Weapon_Lsword_004_PictureBook,"ボコブリンが本能のままに作った無骨なこん棒
+当たり所によっては かなりの威力で
+構えた盾を吹っ飛ばすことができる","A clunky club made by a Bokoblin. If you
+swing it at an enemy's shield, it may be
+able to knock the shield out of your
+foe's hand."
+13,Weapon_Lsword_005_Desc,"ボコブリンが攻撃力を高める工夫として
+動物の骨で作ったトゲを付け足したボコバット
+実際直撃すると結構なダメージを受ける","After much consideration by Bokoblins on
+how to improve the Boko bat, they simply
+attached sharp spikes to it. A skilled fighter
+can cause immense damage with this."
+14,Weapon_Lsword_005_Name,トゲボコバット,Spiked Boko Bat
+15,Weapon_Lsword_005_PictureBook,"ボコブリンが攻撃力を高める工夫として
+動物の骨で作ったトゲを付け足したボコバット
+実際直撃すると結構なダメージを受ける","After much consideration by Bokoblins on
+how to improve the Boko bat, they simply
+attached sharp spikes to it. A skilled fighter
+can cause immense damage with this."
+16,Weapon_Lsword_006_Desc,"ボコバットに化石の骨を組み合わせた こん棒
+強敵を殴り倒すのに十分な強度と攻撃力を持つ
+ボコブリンの中でも一部の猛者だけが手にする","Used by only the toughest Bokoblin warriors,
+this Boko bat has been fortified by fossilized
+bone. It boasts a high durability and is strong
+enough to beat down powerful foes."
+17,Weapon_Lsword_006_Name,竜骨ボコバット,Dragonbone Boko Bat
+18,Weapon_Lsword_006_PictureBook,"ボコバットに化石の骨を組み合わせた こん棒
+強敵を殴り倒すのに十分な強度と攻撃力を持つ
+ボコブリンの中でも一部の猛者だけが手にする","Used by only the toughest Bokoblin warriors,
+this Boko bat has been fortified by fossilized
+bone. It boasts a high durability and is strong
+enough to beat down powerful foes."
+19,Weapon_Lsword_010_Desc,"モリブリンが好んで使う簡素なこん棒
+硬い木を材料に作られているが
+雑な作りなため すぐに壊れてしまう","A crudely fashioned club favored by Moblins.
+It's carved from a sturdy tree but is sloppily
+made, so it breaks easily."
+20,Weapon_Lsword_010_Name,モリブリンバット,Moblin Club
+21,Weapon_Lsword_010_PictureBook,"モリブリンが好んで使う簡素なこん棒
+硬い木を材料に作られているが
+雑な作りなため すぐに壊れてしまう","A crudely fashioned club favored by Moblins.
+It's carved from a sturdy tree but is sloppily
+made, so it breaks easily."
+22,Weapon_Lsword_011_Desc,"改良されたモリブリンの両手武器
+殴りつける面に動物の骨がくくりつけられており
+相手に与えるダメージが格段に高まった","Animal bone has been affixed to this
+Moblin club to greatly improve its damage."
+23,Weapon_Lsword_011_Name,トゲモリブリンバット,Spiked Moblin Club
+24,Weapon_Lsword_011_PictureBook,"改良されたモリブリンの両手武器
+殴りつける面に動物の骨がくくりつけられており
+相手に与えるダメージが格段に高まった","Animal bone has been affixed to this
+Moblin club to greatly improve its damage."
+25,Weapon_Lsword_012_Desc,"太古の獣の骨を取り付けた モリブリンバット
+斧のように先端に重心がある作りになっており
+これを扱えるモリブリンは戦い慣れていて危険","The bone of an ancient beast has been
+affixed to this Moblin club, further increasing
+its damage. Moblins carrying these in battle
+are particularly dangerous."
+26,Weapon_Lsword_012_Name,竜骨モリブリンバット,Dragonbone Moblin Club
+27,Weapon_Lsword_012_PictureBook,"太古の獣の骨を取り付けた モリブリンバット
+斧のように先端に重心がある作りになっており
+これを扱えるモリブリンは戦い慣れていて危険","The bone of an ancient beast has been
+affixed to this Moblin club, further increasing
+its damage. Moblins carrying these in battle
+are particularly dangerous."
+28,Weapon_Lsword_013_Desc,"小型ガーディアンが装備する武器
+幅広で薄い刀身は古代の力によって作られており
+高い攻撃力を持つが構造的に壊れやすい","A weapon used by Guardian Scouts.
+Its unique blade was forged using ancient
+technology. Although powerful, its unusual
+shape causes it to break easily."
+29,Weapon_Lsword_013_Name,ガーディアンアクス,Ancient Battle Axe
+30,Weapon_Lsword_013_PictureBook,"小型ガーディアンが装備する武器
+幅広で薄い刀身は古代の力によって作られており
+高い攻撃力を持つが構造的に壊れやすい","A weapon used by Guardian Scouts.
+Its unique blade was forged using ancient
+technology. Although powerful, its unusual
+shape causes it to break easily."
+31,Weapon_Lsword_014_Desc,"出力強化されたガーディアンアクス
+この武器には戦闘だけでなく障害物を焼き切り
+進路を確保する用途があったと考えられている","This ancient battle axe's damage output
+has been increased to maximum. It's sharp
+enough to cut through almost anything, so
+it may have been used to forge new routes."
+32,Weapon_Lsword_014_Name,ガーディアンアクス+,Ancient Battle Axe+
+33,Weapon_Lsword_014_PictureBook,"出力強化されたガーディアンアクス
+この武器には戦闘だけでなく障害物を焼き切り
+進路を確保する用途があったと考えられている","This ancient battle axe's damage output
+has been increased to maximum. It's sharp
+enough to cut through almost anything, so
+it may have been used to forge new routes."
+34,Weapon_Lsword_015_Desc,"敵を一撃で両断するために最大限まで出力が
+強化されたガーディアンアクス金属製の武器では
+出しにくい高い切断力を古代技術が実現している","This ancient battle axe's damage output is
+scaled up to peak performance. Ancient
+technology makes it possible to enhance
+cutting power beyond metal weapons' limits."
+35,Weapon_Lsword_015_Name,ガーディアンアクス++,Ancient Battle Axe++
+36,Weapon_Lsword_015_PictureBook,"敵を一撃で両断するために最大限まで出力が
+強化されたガーディアンアクス金属製の武器では
+出しにくい高い切断力を古代技術が実現している","This ancient battle axe's damage output is
+scaled up to peak performance. Ancient
+technology makes it possible to enhance
+cutting power beyond metal weapons' limits."
+37,Weapon_Lsword_016_Desc,"ライネルが携える両手武器剣というより 
+ただの金属の塊と言った方が良いが ライネルの
+力で振られると大抵の物を粉砕する凶器となる","This two-handed weapon is favored by the
+Lynels. It may be more accurate to call it a
+lump of metal than a weapon, but if wielded
+by a Lynel, it can pound you into a fine dust."
+38,Weapon_Lsword_016_Name,ライネルの大剣,Lynel Crusher
+39,Weapon_Lsword_016_PictureBook,"ライネルが携える両手武器剣というより 
+ただの金属の塊と言った方が良いが ライネルの
+力で振られると大抵の物を粉砕する凶器となる","This two-handed weapon is favored by the
+Lynels. It may be more accurate to call it a
+lump of metal than a weapon, but if wielded
+by a Lynel, it can pound you into a fine dust."
+40,Weapon_Lsword_017_Desc,"硬度の高い金属が先端に取り付けられ
+打撃力と耐久性が増した ライネルの両手武器
+圧倒的な重量で盾や鎧ごと敵を叩き潰す","This Lynel-made two-handed weapon has
+been reinforced to increase its durability
+and striking power. Its overwhelming heft
+will crush your foe, shield and all."
+41,Weapon_Lsword_017_Name,獣王の大剣,Mighty Lynel Crusher
+42,Weapon_Lsword_017_PictureBook,"硬度の高い金属が先端に取り付けられ
+打撃力と耐久性が増した ライネルの両手武器
+圧倒的な重量で盾や鎧ごと敵を叩き潰す","This Lynel-made two-handed weapon has
+been reinforced to increase its durability
+and striking power. Its overwhelming heft
+will crush your foe, shield and all."
+43,Weapon_Lsword_018_Desc,"デスマウンテン山頂から取れる特殊な金属を
+使う事によって桁外れな重さを持った両手武器
+振り下ろされる一撃は比類なき破壊力を誇る","This Lynel-made two-handed weapon is
+immensely heavy thanks to a rare metal
+from Death Mountain's peak. The power of
+its downward swing is in a class all its own."
+44,Weapon_Lsword_018_Name,獣神の大剣,Savage Lynel Crusher
+45,Weapon_Lsword_018_PictureBook,"デスマウンテン山頂から取れる特殊な金属を
+使う事によって桁外れな重さを持った両手武器
+振り下ろされる一撃は比類なき破壊力を誇る","This Lynel-made two-handed weapon is
+immensely heavy thanks to a rare metal
+from Death Mountain's peak. The power of
+its downward swing is in a class all its own."
+46,Weapon_Lsword_019_Desc,"腕だけになっても動き続けている モリブリンの骨
+長くて太い骨は武器として使うに十分な
+打撃力を持つが非常にもろく壊れやすい","A Moblin bone that continues to move even
+after being detached from its body. The bone
+is thick enough to be used as a weapon but
+is extremely brittle and easily broken."
+47,Weapon_Lsword_019_Name,モリブリンの骨,Moblin Arm
+48,Weapon_Lsword_019_PictureBook,"腕だけになっても動き続けている モリブリンの骨
+長くて太い骨は武器として使うに十分な
+打撃力を持つが非常にもろく壊れやすい","A Moblin bone that continues to move even
+after being detached from its body. The bone
+is thick enough to be used as a weapon but
+is extremely brittle and easily broken."
+49,Weapon_Lsword_020_Desc,"長く放置されて錆びついてしまった大剣
+武器として使う事はできるが耐久性は低く
+何度か使うと簡単に壊れてしまう","A two-handed sword not properly cared for.
+Although it can be used as a weapon, its
+durability is very low. Don't expect it to
+last for more than a few strikes."
+50,Weapon_Lsword_020_Name,錆びた両手剣,Rusty Claymore
+51,Weapon_Lsword_020_PictureBook,"長く放置されて錆びついてしまった大剣
+武器として使う事はできるが耐久性は低く
+何度か使うと簡単に壊れてしまう","A two-handed sword not properly cared for.
+Although it can be used as a weapon, its
+durability is very low. Don't expect it to
+last for more than a few strikes."
+52,Weapon_Lsword_023_Desc,"古のシーカー族の技術が使われた両手剣
+青い刃が刀身に沿って回転する特殊な
+構造をしており高い切断力で敵を切り裂く","This two-handed sword was forged using
+ancient Sheikah technology. Its unique
+rotating blades give it impressive cutting
+power that will slice enemies to shreds."
+53,Weapon_Lsword_023_Name,古代兵装・大剣,Ancient Bladesaw
+54,Weapon_Lsword_023_PictureBook,"古のシーカー族の技術が使われた両手剣
+青い刃が刀身に沿って回転する特殊な
+構造をしており高い切断力で敵を切り裂く","This two-handed sword was forged using
+ancient Sheikah technology. Its unique
+rotating blades give it impressive cutting
+power that will slice enemies to shreds."
+55,Weapon_Lsword_024_Desc,"ハイラル王家の直属部隊に与えられた大剣
+その刃から繰り出される強力な攻撃は
+立ち向かう者の心まで砕いたと言われる","A two-handed sword issued to the Hyrulean
+royal family's immediate guard detail.
+Its powerful strikes are said to crush an
+opponent's body and resolve alike."
+56,Weapon_Lsword_024_Name,王家の両手剣,Royal Claymore
+57,Weapon_Lsword_024_PictureBook,"ハイラル王家の直属部隊に与えられた大剣
+その刃から繰り出される強力な攻撃は
+立ち向かう者の心まで砕いたと言われる","A two-handed sword issued to the Hyrulean
+royal family's immediate guard detail.
+Its powerful strikes are said to crush an
+opponent's body and resolve alike."
+58,Weapon_Lsword_027_Desc,"特殊な金属を用いてゾーラ族が作った大剣
+ゾーラは槍を好むため あまり使う者がいないが
+美しい刀身の意匠で ハイリア人には人気が高い","Although the Zora prefer spears to swords,
+they made this two-handed weapon using
+a special metal. It found popularity among
+Hylians for its unique design."
+59,Weapon_Lsword_027_Name,ゾーラの大剣,Silver Longsword
+60,Weapon_Lsword_027_PictureBook,"特殊な金属を用いてゾーラ族が作った大剣
+ゾーラは槍を好むため あまり使う者がいないが
+美しい刀身の意匠で ハイリア人には人気が高い","Although the Zora prefer spears to swords,
+they made this two-handed weapon using
+a special metal. It found popularity among
+Hylians for its unique design."
+61,Weapon_Lsword_029_Desc,"ゲルド族の兵士中でも剣術に優れた者だけが
+装備する事を許された大剣
+見た目より軽く作られており扱いやすい","Only the most talented Gerudo sword fighters
+carry this two-handed sword. It's actually
+much lighter than it appears and is
+surprisingly easy to wield."
+62,Weapon_Lsword_029_Name,ゲルドの両手剣,Golden Claymore
+63,Weapon_Lsword_029_PictureBook,"ゲルド族の兵士中でも剣術に優れた者だけが
+装備する事を許された大剣
+見た目より軽く作られており扱いやすい","Only the most talented Gerudo sword fighters
+carry this two-handed sword. It's actually
+much lighter than it appears and is
+surprisingly easy to wield."
+64,Weapon_Lsword_030_Desc,"戦いに特化した両刃のオノ
+重量があり使いこなすのに熟練した技術が必要
+そのため いつしか達人の名が付くようになった","This double-sided axe was designed with
+fighting in mind. It's a bit unwieldy, so it
+requires a well-practiced technique to
+use efficiently."
+65,Weapon_Lsword_030_Name,達人のオノ,Double Axe
+66,Weapon_Lsword_030_PictureBook,"戦いに特化した両刃のオノ
+重量があり使いこなすのに熟練した技術が必要
+そのため いつしか達人の名が付くようになった","This double-sided axe was designed with
+fighting in mind. It's a bit unwieldy, so it
+requires a well-practiced technique to
+use efficiently."
+67,Weapon_Lsword_031_Desc,"鉄でできた大きな金づち
+元々は鉱石をたたき割るのに使われていたが
+武器としても結構強い","This large iron sledgehammer was originally
+used for mining, but it works reasonably well
+as a weapon too."
+68,Weapon_Lsword_031_Name,鉄のハンマー,Iron Sledgehammer
+69,Weapon_Lsword_031_PictureBook,"鉄でできた大きな金づち
+元々は鉱石をたたき割るのに使われていたが
+武器としても結構強い","This large iron sledgehammer was originally
+used for mining, but it works reasonably well
+as a weapon too."
+70,Weapon_Lsword_032_Desc,"山の木こりが愛用する木を切り倒す道具
+素早く木を切り倒すことができる","A woodcutter's tool of choice for felling trees.
+Its formidable weight and uneven balancing
+make it a slow, inefficient weapon."
+71,Weapon_Lsword_032_Name,木こりのオノ,Woodcutter's Axe
+72,Weapon_Lsword_032_PictureBook,"山の木こりが愛用する木を切り倒す道具
+素早く木を切り倒すことができる","A woodcutter's tool of choice for felling trees.
+Its formidable weight and uneven balancing
+make it a slow, inefficient weapon."
+73,Weapon_Lsword_033_Desc,"古の時代にゴロンの鍛冶職人が デスマウンテンの
+炎を使って鍛えたといわれている魔法の剣
+刀身が赤く輝いている時に振るえば炎を吹き出す","This magic-infused greatsword was forged
+in the fires of Death Mountain by Goron
+smiths in an ancient age. Attack when the
+blade glows red to expel flames."
+74,Weapon_Lsword_033_Name,火炎の大剣,Great Flameblade
+75,Weapon_Lsword_033_PictureBook,"古の時代にゴロンの鍛冶職人が デスマウンテンの
+炎を使って鍛えたといわれている魔法の剣
+刀身が赤く輝いている時に振るえば炎を吹き出す","This magic-infused greatsword was forged
+in the fires of Death Mountain by Goron
+smiths in an ancient age. Attack when the
+blade glows red to expel flames."
+76,Weapon_Lsword_034_Desc,"ヘブラ山脈の永久凍土に眠る鉱石を
+精錬して作られたといわれる魔法の剣
+刀身が青く輝いている時に振るえば冷気を放つ","This magic-infused greatsword was forged
+by smelting ore found in the Hebra
+Mountains' permafrost. Attack when the
+blade glows blue to expel freezing air."
+77,Weapon_Lsword_034_Name,氷雪の大剣,Great Frostblade
+78,Weapon_Lsword_034_PictureBook,"ヘブラ山脈の永久凍土に眠る鉱石を
+精錬して作られたといわれる魔法の剣
+刀身が青く輝いている時に振るえば冷気を放つ","This magic-infused greatsword was forged
+by smelting ore found in the Hebra
+Mountains' permafrost. Attack when the
+blade glows blue to expel freezing air."
+79,Weapon_Lsword_035_Desc,"大昔のハイラル王家に仕えた鍛冶職人が
+ハイラル丘陵の落雷を用いて鍛錬したと言われる
+魔法の剣金色に輝いている時は雷撃を発する","This magic-infused greatsword was forged
+by the Hyrulean royal family using lightning
+from the Hyrule Hills. Attack when the blade
+glows golden to expel lightning."
+80,Weapon_Lsword_035_Name,雷電の大剣,Great Thunderblade
+81,Weapon_Lsword_035_PictureBook,"大昔のハイラル王家に仕えた鍛冶職人が
+ハイラル丘陵の落雷を用いて鍛錬したと言われる
+魔法の剣金色に輝いている時は雷撃を発する","This magic-infused greatsword was forged
+by the Hyrulean royal family using lightning
+from the Hyrule Hills. Attack when the blade
+glows golden to expel lightning."
+82,Weapon_Lsword_036_Desc,"分厚く硬い金属で作られたゴロンの両手剣
+刃は付いておらず斬れ味は全くないが 
+その硬度と重量で相手を叩きつぶす事ができる","A Goron-made two-handed weapon. It's
+made from thick, hard metal and has no
+cutting edge, so it relies on its sheer
+weight to crush all opponents."
+83,Weapon_Lsword_036_Name,石打ち,Cobble Crusher
+84,Weapon_Lsword_036_PictureBook,"分厚く硬い金属で作られたゴロンの両手剣
+刃は付いておらず斬れ味は全くないが 
+その硬度と重量で相手を叩きつぶす事ができる","A Goron-made two-handed weapon. It's
+made from thick, hard metal and has no
+cutting edge, so it relies on its sheer
+weight to crush all opponents."
+85,Weapon_Lsword_037_Desc,"ゴロンシティ周辺で採掘された希少な金属で
+作られた両手剣先端に重心があり
+遠心力と重量で敵を粉砕する武器","A two-handed weapon forged from a rare
+metal mined in Goron City. Its center of
+gravity is at its tip, so it uses centrifugal force
+and its sheer weight to smash opponents flat."
+86,Weapon_Lsword_037_Name,岩砕き,Stone Smasher
+87,Weapon_Lsword_037_PictureBook,"ゴロンシティ周辺で採掘された希少な金属で
+作られた両手剣先端に重心があり
+遠心力と重量で敵を粉砕する武器","A two-handed weapon forged from a rare
+metal mined in Goron City. Its center of
+gravity is at its tip, so it uses centrifugal force
+and its sheer weight to smash opponents flat."
+88,Weapon_Lsword_038_Desc,"漁船に備え付けられている道具
+本来武器ではないが護身用には十分使える
+水に強い木材で作られており結構丈夫","Made for paddling boats, but it was made
+sturdy enough to fight strong currents.
+Maybe it's useful for self-defense in a pinch."
+89,Weapon_Lsword_038_Name,船のオール,Boat Oar
+90,Weapon_Lsword_038_PictureBook,"漁船に備え付けられている道具
+本来武器ではないが護身用には十分使える
+水に強い木材で作られており結構丈夫","Made for paddling boats, but it was made
+sturdy enough to fight strong currents.
+Maybe it's useful for self-defense in a pinch."
+91,Weapon_Lsword_041_Desc,"シーカー族にのみ伝わる片刃の剣
+伝統的な技術で丁寧に鍛えられており
+すばらしい斬れ味を持つ野太刀とも呼ばれる","A single-edged sword seldom seen in Hyrule.
+This weapon is passed down through the
+Sheikah tribe and has an astonishingly
+sharp edge ideal for slicing."
+92,Weapon_Lsword_041_Name,残心の太刀,Eightfold Longblade
+93,Weapon_Lsword_041_PictureBook,"シーカー族にのみ伝わる片刃の剣
+伝統的な技術で丁寧に鍛えられており
+すばらしい斬れ味を持つ野太刀とも呼ばれる","A single-edged sword seldom seen in Hyrule.
+This weapon is passed down through the
+Sheikah tribe and has an astonishingly
+sharp edge ideal for slicing."
+94,Weapon_Lsword_045_Desc,"土を掘り起こし畑をたがやすのに使われる農具
+畑仕事に耐えられるような丈夫な作りをしており
+使いようによっては十分武器になる","A farming tool primarily used for tilling fields.
+Its fine craftsmanship is sturdy enough
+to withstand backbreaking fieldwork, but
+its battle applications are untested."
+95,Weapon_Lsword_045_Name,畑のクワ,Farming Hoe
+96,Weapon_Lsword_045_PictureBook,"土を掘り起こし畑をたがやすのに使われる農具
+畑仕事に耐えられるような丈夫な作りをしており
+使いようによっては十分武器になる","A farming tool primarily used for tilling fields.
+Its fine craftsmanship is sturdy enough
+to withstand backbreaking fieldwork, but
+its battle applications are untested."
+97,Weapon_Lsword_047_Desc,"シーカー族が古代技術の粋を集めて作った大剣
+厄災から王国を守るために用意されたが
+耐久性に難があったため実用性は低かった","The Sheikah used the very essence of
+ancient technology to forge this greatsword.
+It was designed to oppose the Calamity, but
+its low durability made it impractical in battle."
+98,Weapon_Lsword_047_Name,近衛の両手剣,Royal Guard's Claymore
+99,Weapon_Lsword_047_PictureBook,"シーカー族が古代技術の粋を集めて作った大剣
+厄災から王国を守るために用意されたが
+耐久性に難があったため実用性は低かった","The Sheikah used the very essence of
+ancient technology to forge this greatsword.
+It was designed to oppose the Calamity, but
+its low durability made it impractical in battle."
+100,Weapon_Lsword_051_Desc,"両手で振るう必要があるほど巨大なブーメラン
+狩猟用だった物を戦闘用に改良しており
+湾曲した内側に刃がある扱いが非常に難しい","This massive boomerang requires two hands.
+Originally used for hunting, it was modified
+for use as a weapon. The blades on the
+inner curves make it a bit tricky to wield."
+101,Weapon_Lsword_051_Name,ビッグブーメラン,Giant Boomerang
+102,Weapon_Lsword_051_PictureBook,"両手で振るう必要があるほど巨大なブーメラン
+狩猟用だった物を戦闘用に改良しており
+湾曲した内側に刃がある扱いが非常に難しい","This massive boomerang requires two hands.
+Originally used for hunting, it was modified
+for use as a weapon. The blades on the
+inner curves make it a bit tricky to wield."
+103,Weapon_Lsword_054_Desc,"英傑ダルケルが携えていた最硬級の大剣
+ダルケルはこの大剣を軽々と振るっていたが
+人間が使いこなすには かなりの熟練が必要","This two-handed weapon was once wielded
+by the Goron Champion Daruk. Daruk made
+swinging it around look easy, but a Hylian
+would need an immense amount of strength."
+104,Weapon_Lsword_054_Name,巨岩砕き,Boulder Breaker
+105,Weapon_Lsword_054_PictureBook,"英傑ダルケルが携えていた最硬級の大剣
+ダルケルはこの大剣を軽々と振るっていたが
+人間が使いこなすには かなりの熟練が必要","This two-handed weapon was once wielded
+by the Goron Champion Daruk. Daruk made
+swinging it around look easy, but a Hylian
+would need an immense amount of strength."
+106,Weapon_Lsword_055_Desc,"シーカー族の持つ刀造りの技術を両刃の剣に
+用いた珍しい武器片刃の剣の扱いに
+慣れていないハイラルの騎士のために作られた","A curious double-edged sword crafted using
+Sheikah technology. It was originally made
+for Hyrulean knights unfamiliar with single-
+edged blades."
+107,Weapon_Lsword_055_Name,無心の大剣,Edge of Duality
+108,Weapon_Lsword_055_PictureBook,"シーカー族の持つ刀造りの技術を両刃の剣に
+用いた珍しい武器片刃の剣の扱いに
+慣れていないハイラルの騎士のために作られた","A curious double-edged sword crafted using
+Sheikah technology. It was originally made
+for Hyrulean knights unfamiliar with single-
+edged blades."
+109,Weapon_Lsword_056_Desc,"木を伐り倒すと時々手に入る不思議な葉っぱ
+一振りするだけで大きな風を巻き起こし
+軽いものなら吹き飛ばすことができる","A single swing of this giant, sturdy leaf can
+create a gust of wind strong enough to blow
+away light objects. These will sometimes fall
+off trees as they're chopped down."
+110,Weapon_Lsword_056_Name,コログのうちわ,Korok Leaf
+111,Weapon_Lsword_056_PictureBook,"木を伐り倒すと時々手に入る不思議な葉っぱ
+一振りするだけで大きな風を巻き起こし
+軽いものなら吹き飛ばすことができる","A single swing of this giant, sturdy leaf can
+create a gust of wind strong enough to blow
+away light objects. These will sometimes fall
+off trees as they're chopped down."
+112,Weapon_Lsword_057_Desc,"黄昏の魔物と戦った勇者の世界で 6人の賢者達が
+魔王を封印するために創ったと言われる大剣
+その刀身は神秘的な白い輝きを放っている","The Six Sages are said to have forged this
+longsword to seal a demon king in the world
+where the hero fought against the beasts of
+twilight. The blade shines with a holy luster."
+113,Weapon_Lsword_057_Name,六賢者の剣,Sword of the Six Sages
+114,Weapon_Lsword_059_Desc,"ゴロンの名匠が時を超えて旅をした勇者のために
+作ったと言われる伝説的な剛剣
+匠の業が光る抜群の切れ味を持つ","A legendary greatsword forged by a Goron
+craftsman for a hero who traveled through
+time. The exceptionally sharp cutting edge
+is a testament to the craftsman's mastery."
+115,Weapon_Lsword_059_Name,ダイゴロン刀,Biggoron's Sword
+116,Weapon_Lsword_060_Desc,"月が落ちてくる世界の勇者が所持していたと
+言われている異形の大剣 これを手にした者は
+まさに鬼神のごとき戦いぶりを見せるという","A peculiar greatsword allegedly used by a
+hero from a world in which the moon
+threatened to fall. It slashes wildly in battle
+as if possessed by a fierce deity."
+117,Weapon_Lsword_060_Name,鬼神の大剣,Fierce Deity Sword
+118,Weapon_Lsword_074_Desc,"イーガ団の幹部が携える風変りな刀
+熟練した使い手が精神統一して振り抜くと
+その特殊な形状によって真空の刃が作り出される","This sword is favored by high-ranking
+members of the Yiga. When wielded by a
+proficient fighter, its unique shape cleaves
+the very wind and creates a vacuum."
+119,Weapon_Lsword_074_Name,風斬り刀,Windcleaver
+120,Weapon_Lsword_074_PictureBook,"イーガ団の幹部が携える風変りな刀
+熟練した使い手が精神統一して振り抜くと
+その特殊な形状によって真空の刃が作り出される","This sword is favored by high-ranking
+members of the Yiga. When wielded by a
+proficient fighter, its unique shape cleaves
+the very wind and creates a vacuum."

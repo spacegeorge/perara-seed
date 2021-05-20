@@ -1,0 +1,191 @@
+#,Title,JPja,USen
+1,"""0002""",雨は大丈夫？,Aren't you cold?
+2,"""0004""",びしょぬれ…,You're drenched!
+3,"""0005""",わかった,OK.
+4,"""0006""",イーガ？,Yiga Clan?
+5,"""0007""",さよなら,Good-bye.
+6,Talk07,"インパ様が待っておられます
+どうぞ中へお入りください","Lady Impa is waiting.
+Please hurry inside."
+7,Talk08,"ハイラルの雷は金属に落ちやすいんです
+雨の日はご注意ください","Metallic objects attract lightning.
+Please be careful on rainy days."
+8,Talk09,"我々シーカー族は
+英知の民として知られていました
+その技術は 1万年前に起った厄災の際
+ガノンを封じる要となり
+一時は神の力とさえ言われ称えられましたが
+次第にそれは国にとって脅威とされ
+シーカー族は疎まれる存在となり
+国を去らざるを得なくなりました…
+その時に我らのように
+技術を捨て普通に生活する者もいれば
+王国に恨みを持ち
+ガノンに忠誠を誓う者もあらわれました
+それがイーガ団と呼ばれる者達なのです
+
+奴らの使命はガノンに仇なす者を排除すること…
+貴方様も どうかお気を付けください","We of the Sheikah tribe have long been
+heralded as a people of great wisdom.
+
+Our technology became the key to
+sealing Ganon away during the Great
+Calamity, some ten thousand years ago.
+At one point, our technology was praised
+as the power of the gods...but eventually
+the people turned on it. Turned on us.
+Our creations came to be viewed as a
+threat to the kingdom. The Sheikah
+became outcasts, forced into exile.
+Some, like us, chose to cast off our
+technological advances and strove
+to live normal lives.
+Others fostered a hatred toward the
+kingdom that shunned them. These sad
+souls swore their allegiance to Ganon.
+They now call themselves the Yiga Clan.
+
+
+Their sole mission is to eliminate all who
+stand against Ganon. Please, dear hero...
+be careful out there."
+9,Talk10,失礼いたしました,Please forgive us for behaving so rudely.
+10,Talk11,なに奴！ ここはインパ様のお屋敷,"You there! Who are you?! How dare you
+trespass upon Lady Impa's abode!"
+11,Talk12,"知らなかったこととはいえ
+大変失礼いたしました…
+最近イーガ団が不審な動きをしておりまして…
+いやはや面目ございません","Though it was simple ignorance, I must
+apologize again for my actions.
+
+Lately the Yiga Clan has been stirring up
+trouble. We are all on high alert. Still...
+That is no excuse for my behavior."
+12,Talk13,"知らなかったこととはいえ
+大変失礼いたしました…
+最近イーガ団が不審な動きをしておりまして…
+いやはや面目ございません
+インパ様が待っておられます
+どうぞ中へお入りください","Though it was simple ignorance, I must
+apologize again for my actions.
+
+Lately the Yiga Clan has been stirring up
+trouble. We are all on high alert. Still...
+That is no excuse for my behavior.
+In any case, Lady Impa is waiting.
+Please come inside."
+13,Talk14,"ご心配には及びません
+これはシーカー族に伝わる民族衣装
+いつ何時でも任務をこなせるよう
+どんな状況にも耐えうるよう作られた物ゆえ
+これしきの雨は何ともありませんよ","No need to worry yourself. Upon my
+person, I bear the traditional Sheikah
+tribe garb.
+It is designed to withstand any condition
+so that we may always fulfill our duties.
+Rain like this is no concern at all."
+14,Talk15,"インパ様は それはもう長い間
+貴方様を待ち続けておられました
+私からも お伝えしたいことはありますが
+とにかくまずは インパ様をお訪ねください","Lady Impa has been waiting on you for a
+long time.
+
+There is much I would like to tell you
+as well... But first, please hurry and see
+what Lady Impa has to say."
+15,Talk16,"インパ様は それはもう長い間
+貴方様を待ち続けておられました
+貴方様は我らシーカー族の希望…
+さあ早く インパ様をお訪ねください","Lady Impa has been waiting on you for a
+long time.
+
+You are the lone hope of the 
+Sheikah tribe... Please, hero.
+Hurry to Lady Impa's side."
+16,Talk17,"はっはっは
+そう見えますかな？
+シーカー族はかつて自らの英知を
+神の力と呼ばれるまでに高めた部族です
+この衣装は その当時の技術を
+駆使して作られた特注品なのです
+どんな天候にも耐えうるよう作られており
+雷にやられることもありません
+びしょ濡れで重そうに見えますが
+着心地は不思議と軽やかなんですよ","Ha! Is that how I appear?
+
+
+You know... The Sheikah tribe was once
+renowned for its technological ingenuity.
+
+There were even those who believed
+we had the power of the gods at our
+command.
+This outfit I wear was specially designed
+using that very technology.
+
+It was made to withstand any condition,
+including all types of weather. Even a
+lightning strike poses no threat.
+It may look sopping wet and heavy with
+rain, but I assure you, it is dry as a bone
+and light beyond reason."
+17,Talk18,お…男の人！,A man?!
+18,Talk19,"ひぃ…！！
+近うございます
+わ…若い殿方とは
+言葉を交わしたことさえ ほとんどなく…
+ささ…屋敷の中で祖母が待っております！
+中へ…中へお入りくださいませ！","AHHHH!
+
+
+Master...Master Link! You...you're very
+close to me right now! I just...
+
+My...my grandmother is waiting for you
+at her abode. Please hurry to her!"
+19,Talk21,"忘れたわけではなくて言葉がうまく…
+私は パ… パ…パヤパヤ…
+パーヤと申します！","Oh, it's not that I forgot...I'm just bad
+with speaking. As for me, my name is
+Pa... Paaa... Paaay...
+Oh! My name is Paya!"
+20,Talk22,…えっ？それは？！,Huh? Is that—?!
+21,Talk23,"ん？それは…
+シーカーストーン？
+ということは お主…
+いや貴方様は もしや…","Hm? 
+
+
+Is that...a Sheikah Slate?
+
+
+But that would mean you are...
+No, it's not possible. Can it be?"
+22,Talk25,"お話はインパ様より伺っております
+どうぞ奥にお進みください","Of course we have heard the legends
+from Lady Impa herself. Please, friend...
+Go ahead and step inside."
+23,Talk26,シーカーストーン？！,It's...a Sheikah Slate!
+24,Talk27,"もしや貴方様は祖母が話してくれた
+リン…リン…あの…","Could you be the hero my grandmother
+told me about? What was his name?
+Li... Lin... Ummm..."
+25,Talk28,"自分の名前ですから当たり前でしたね…
+申し訳ございません
+幼き頃より祖母から
+貴方様のことは伺っておりました
+ど… どうぞ中へお入りください
+祖母が ずいぶんと待ちかねております","I know I should be able to say that easily,
+seeing as how it's my own name and all.
+
+I'm so...sorry.
+
+
+Anyway, my grandmother's been awaiting
+your return ever since I was little.
+
+Plea...please hurry inside. "
+26,Talk29,あっ言えた…,Phew! I got it out...
+27,near00,！！,Whoa!
+28,near01,？？,Huh?!
+29,near03,あわわわ…,Waaaaah...

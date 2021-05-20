@@ -1,0 +1,85 @@
+#,Title,JPja,USen
+1,AncientArrow_Desc,"古の技術が使われた短剣状の刃を矢尻に転用
+した武器古代エネルギーの力で敵を消滅させる
+ガーディアンに対しても高い威力を発揮する","An arrow created using ancient technology.
+To be struck with one is to be consigned to
+oblivion in an instant. It deals devastating
+damage—even against Guardians."
+2,AncientArrow_Name,古代兵装・矢,Ancient Arrow
+3,AncientArrow_PictureBook,"古の技術が使われた短剣状の刃を矢尻に転用
+した武器古代エネルギーの力で敵を消滅させる
+ガーディアンに対しても高い威力を発揮する","An arrow created using ancient technology.
+To be struck with one is to be consigned to
+oblivion in an instant. It deals devastating
+damage—even against Guardians."
+4,AncientArrow_Spec,古代の力による特大ダメージ,The ancient arrowhead deals massive damage.
+5,BombArrow_A_Desc,"魔物に対抗するために作り出された強力な矢
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A powerful arrow designed to destroy
+monsters. The explosive powder packed into
+the tip ignites on impact, dealing massive
+damage to anything caught in the blast."
+6,BombArrow_A_Name,バクダン矢,Bomb Arrow
+7,BombArrow_A_PictureBook,"魔物に対抗するために作り出された強力な矢
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A powerful arrow designed to destroy
+monsters. The explosive powder packed into
+the tip ignites on impact, dealing massive
+damage to anything caught in the blast."
+8,BombArrow_A_Spec,爆発による大ダメージ,"Explodes on impact, dealing massive damage."
+9,BrightArrowTP_Desc,,
+10,BrightArrowTP_Name,光の矢,Light Arrows
+11,BrightArrowTP_Spec,,
+12,BrightArrow_Desc,,
+13,BrightArrow_Name,光の矢,Light Arrows
+14,BrightArrow_Spec,,
+15,ElectricArrow_Desc,"電気の力が封じられた矢
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","An arrow imbued with the power of electricity.
+It breaks apart on impact, channeling
+electricity into nearby objects. It's incredibly
+effective against metal or anything wet."
+16,ElectricArrow_Name,電気の矢,Shock Arrow
+17,ElectricArrow_PictureBook,"電気の力が封じられた矢
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","An arrow imbued with the power of electricity.
+It breaks apart on impact, channeling
+electricity into nearby objects. It's incredibly
+effective against metal or anything wet."
+18,ElectricArrow_Spec,電撃による武装解除,Electrocutes and disarms enemies.
+19,FireArrow_Desc,"炎の力が封じられた矢
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","An arrow imbued with the power of fire.
+It breaks apart on impact, igniting objects in
+the immediate area. It's incredibly effective
+against cold things."
+20,FireArrow_Name,炎の矢,Fire Arrow
+21,FireArrow_PictureBook,"炎の力が封じられた矢
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","An arrow imbued with the power of fire.
+It breaks apart on impact, igniting objects in
+the immediate area. It's incredibly effective
+against cold things."
+22,FireArrow_Spec,燃焼による追加ダメージ,"Ignites flammable targets, causing extra damage."
+23,IceArrow_Desc,"氷の力が封じられた矢
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","An arrow imbued with the power of ice.
+It breaks apart on impact, freezing
+objects in the immediate area. It's
+incredibly effective against hot things."
+24,IceArrow_Name,氷の矢,Ice Arrow
+25,IceArrow_PictureBook,"氷の力が封じられた矢
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","An arrow imbued with the power of ice.
+It breaks apart on impact, freezing
+objects in the immediate area. It's
+incredibly effective against hot things."
+26,IceArrow_Spec,凍結による行動停止,Freezes enemies in place.
+27,NormalArrow_Desc,"もっとも普通に使われている矢
+丈夫な木を削って作られている","A common arrow. Its shaft was carved from
+the wood of a sturdy tree."
+28,NormalArrow_Name,木の矢,Arrow
+29,NormalArrow_PictureBook,"もっとも普通に使われている矢
+丈夫な木を削って作られている","A common arrow. Its shaft was carved from
+the wood of a sturdy tree."
+30,NormalArrow_Spec,特になし,None

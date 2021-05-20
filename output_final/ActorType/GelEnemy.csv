@@ -1,0 +1,45 @@
+#,Title,JPja,USen
+1,Enemy_Chuchu_Electric_Junior_Name,エレキチュチュ,Electric Chuchu
+2,Enemy_Chuchu_Electric_Junior_PictureBook,"電気をまとったゲル状の下級魔族
+体の大きさによって体力が違う
+うかつに手を出すと破裂し放電するため危険
+槍で遠くから突けば安全に始末できる
+","This low-level gel monster is engulfed in 
+electricity. Its strength varies depending on
+its size. It tends to explode if attacked from
+close range, so the use of spears, arrows,
+and other ranged weapons is advised."
+3,Enemy_Chuchu_Fire_Junior_Name,ファイアチュチュ,Fire Chuchu
+4,Enemy_Chuchu_Fire_Junior_PictureBook,"炎をまとったゲル状の下級魔族
+体の大きさによって体力が違う
+うかつに手を出すと破裂し爆発するため
+槍で遠くから突くのが安全策だ","This low-level gel monster is engulfed in
+flames. Its strength varies depending on its
+size. It tends to explode if attacked from
+close range, so the use of spears, arrows,
+and other ranged weapons is advised."
+5,Enemy_Chuchu_Ice_Junior_Name,アイスチュチュ,Ice Chuchu
+6,Enemy_Chuchu_Ice_Junior_PictureBook,"冷気をまとったゲル状の下級魔族
+体の大きさによって体力が違う
+うかつに手を出すと破裂し
+冷気をまき散らすため危険
+槍で遠くから突くのが安全策だ
+","This low-level gel monster is engulfed in 
+freezing-cold air. Its strength varies depending
+on its size. It tends to explode if attacked from
+close range, so the use of spears, arrows,
+and other ranged weapons is advised."
+7,Enemy_Chuchu_Junior_Name,チュチュ,Chuchu
+8,Enemy_Chuchu_Junior_PictureBook,"ハイラル全土に生息するゲル状の下級魔族
+地面や木の上から突然姿を現わし
+体の大きさによって体力が違う
+彼らが落とすゼリーは
+熱したり冷やしたり電気を与えたりすることで
+性質が変わるという
+","This low-level, gel-based monster can be
+found all over Hyrule. It tends to spring its
+attacks on unsuspecting prey from the
+ground or from trees. Its strength varies by
+size, and the type of jelly it drops varies
+depending on whether the Chuchu was
+heated up, cooled down, or shocked."

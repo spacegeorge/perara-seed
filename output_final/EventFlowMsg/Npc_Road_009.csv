@@ -1,0 +1,212 @@
+#,Title,JPja,USen
+1,Atacked00,もうヤダ…,"Ugh, I'm really tired of this... Seriously..."
+2,Atacked01,ああ もう何この状況…,"Oh, geez... How'd I get myself into
+this mess..."
+3,Failed00,魔物めー！おぼえてやがれよー！,Curse those monsters! I'll remember this!
+4,Failed01,痛えんだよー！魔物のやろー！,That really hurt! Curse those monsters!
+5,Guardian00,ねえ！来るよ？逃げなきゃ！！,Hey! It's heading this way! Run!!
+6,MSG_Firo_00,"なあに？声をかけてみただけ？
+私はこれからウオトリー村に行くの…
+魚と果物が おいしいっていうから
+ダイエットには もってこいだと思ってさぁ","What is it? Oh, just thought you'd come
+and talk to me, then? Well, I'm on my
+way to Lurelin Village.
+They say the fish and fruit there are
+really fantastic, so I thought I'd go there
+and add them to my diet!"
+7,MSG_Firo_00_1,"これからウオトリー村に行くの…
+
+魚と果物が おいしいっていうから
+ダイエットには もってこいだと思ってさぁ","I'm on my way to Lurelin Village...
+
+
+They say the fish and fruit there are
+really delicious, so I thought I'd try and
+add them to my diet!"
+8,MSG_Firo_01,"あっ ねえねえ！ちょっと聞いていい？
+あなたって魚と果物の料理は得意？
+組み合わせを覚えるまでは
+いろいろと微妙なことになっちゃわな～い？","Oh, hey! Hey! Have you got a second?
+I wanted to ask... Are you good at
+cooking with fish or fruit?
+You've had a lot of success combining
+those ingredients, right?"
+9,MSG_Firo_01_1,"あなたって魚と果物の料理は得意？
+
+組み合わせを覚えるまでは
+いろいろと微妙なことになっちゃわな～い？","Have you had a lot of success cooking
+fish or fruit dishes?
+
+You haven't ended up with dubious meals
+while you're learning new recipes,
+have you?"
+10,MSG_Firo_02,"恋愛成就の名所かぁ…
+
+あ…ひとりごと聞かれたし…
+
+南の方にあるっていう
+ラブポンドのことを思ってただけ…
+地図で形だけは見たことあるけど
+ほんとにハート型で ちょっとびっくりしたな…","A famous place where love can become
+a reality, huh...
+
+Oh, sorry! I was talking to myself there.
+I was just thinking about a place called
+Lover's Pond...
+They say it's to the south, and I think I
+saw it on a map once...
+
+It's literally heart shaped, which was
+surprising to me...but I don't know
+what I expected."
+11,MSG_Firo_02_1,"南の方にあるっていうラブポンド…
+
+地図で形だけは見たことあるけど
+ほんとにハート型で ちょっとびっくりしたな…","Lover's Pond, which they say is to the
+south...
+
+And it's literally heart shaped, which
+was surprising to me...but I don't know
+what I expected."
+12,MSG_Firo_03,"なあに？何か情報がほしいの？
+
+肉料理は体力回復に適していて
+魚料理は けっこう特殊効果が期待できるのだ
+…こんな感じでいい？","What's that? Did you want some
+information from me? Let's see...
+
+Meat dishes are well suited for refilling
+your health, and you can expect some
+special effects from dishes with fishes.
+Hehe. Is that the sort of thing you're
+curious about?"
+13,MSG_Firo_03_1,"肉料理は体力回復に適していて
+魚料理は けっこう特殊効果が期待できるのよ","Meat dishes are really great for helping
+you recover your health. Fish dishes can
+contain pretty-special effects, though!"
+14,MSG_Firo_04,"ウオトリー村から船で東に向かうと
+サイハテノ島に行けるのよ！
+って突然こんなこと言われても
+そんな感じの顔になるだけよねー！ねー！","If you take a boat and head east of
+Lurelin Village, you can get all the way
+out to Eventide Island!
+Ha! Such a sudden revelation, I'd expect
+nothing less than for you to make that
+face!"
+15,MSG_Firo_04_1,"ウオトリー村から船で東に向かうと
+サイハテノ島に行けるのよ！","If you hop on a boat and head east of
+Lurelin Village, you can get to
+Eventide Island!"
+16,Near00,今日の気分は…,I feel very...something.
+17,Near01,この気分…,This feeling...
+18,Near02,元気出さなきゃ…,I've gotta cheer up...
+19,Near03,一日が終わる…,Almost done with today...
+20,Near04,雨かよ！,Rain—seriously?!
+21,Rest_00,"フィローネ街道って
+暖かくて魚や果物が有名なのよね！","That's right! The Faron Highroad!
+It's warm and known for its fish and fruit!"
+22,Rest_01,"なんか落ち込むわー
+雨やんだら元気出ると思うけど","This rain is really bringing me down.
+I'm sure I'll feel better when things clear
+up, though... *sigh*"
+23,Rest_02,"私ってよく お天気屋だねって言われるんだー
+天気予報屋さんってわけじゃなくてさー","People often tell me that I can be a bit
+temperamental. That...doesn't mean I'm
+getting sick or anything..."
+24,RetMSG_Firo_00,"フンフフン♪
+このレイクサイド馬宿で私…
+いろんな料理を試してみて
+レシピをいっぱい増やそうと思うんだー！","♪La dee da dee da!♪ 
+
+
+Lakeside Stable is a great place for me to
+cook loads of different dishes and
+increase the number of recipes I know!"
+25,RetMSG_Firo_00_1,"ここで いろんな料理を試してみて
+レシピをいっぱい増やそうと思うんだー！","I think I'm gonna try and cook a bunch
+of different dishes! It's always good to
+know a ton of different recipes!"
+26,RetMSG_Firo_01,"なあに？ヒマなの？
+レイクサイド馬宿を さらに西に行ってみたら？
+高原の馬宿っていうのがあるんだけど
+そこに行くまでに魔物けっこういるから","What's up? Feeling bored?
+Looking for adventure? Why don't you
+travel west of the Lakeside Stable, then?
+There's a place out there called
+Highland Stable. But be careful—there's
+a bunch of monsters on the way."
+27,RetMSG_Firo_01_1,"レイクサイド馬宿を さらに西に行ってみたら？
+
+高原の馬宿っていうのがあるんだけど
+そこに行くまでに魔物けっこういるから","What about trying to head further west
+of Lakeside Stable?
+
+There's a place called Highland Stable,
+but you're bound to run into a bunch of
+monsters on your way there..."
+28,RetMSG_Firo_02,"ヤッホー！
+あははなんか気分よくって！
+ここから南の方にある ラブポンドで
+パートナー探しでも しようかな～！","Heya! Wheeee! I'm feeling SO darn good
+today!
+
+I think I might head south of here to
+Lover's Pond and try to find myself
+a partner, yessir!"
+29,RetMSG_Firo_02_1,"ここから南の方にある ラブポンドで
+パートナー探しでも しようかな～！","I think I might head south of here and
+find Lover's Pond! Maybe fortune will
+smile on me and I'll find a partner!"
+30,RetMSG_Firo_03,"ねぇ私のことお天気屋だって思う？
+機嫌の差が激しいって思う？！
+…そんなこと聞かれても わかんないよね
+ごめん…お詫びにいいこと教えてあげる！
+ウオトリー村の魚は脂がノッてて
+焼いたらもう うまいのなんのって！","Hey! Do you think I'm...temperamental?
+You do? You don't? Do you?! You think
+I've got random mood swings, huh?!
+Er, sorry... Here, I'll share some nice info
+I came across as my form of apology.
+
+The fish in Lurelin Village are pretty fatty.
+As a result, I hear they're incredibly
+delicious when you grill them!"
+31,RetMSG_Firo_03_1,"ウオトリー村の魚は脂がノッてて
+焼いたらもう うまいのなんのって！
+いいこと聞けて うれしいでしょ？","The fish around Lurelin Village are pretty
+fatty... That means they're unbelievably
+delicious if you grill them!
+Are you glad I was here to give you such
+a great tip? Of course you are!"
+32,RetMSG_Firo_04,"なあに？何かほしいの？
+食べるものじゃなくて情報でもいい？
+じゃあ言います…
+
+ウオトリー村には海沿いに遺跡があるらしい！
+
+もう一回言おうか？もういいよね","What now? Whaddya want? *grouse*
+I don't have any food for your belly, but
+I do have some food for thought...
+Apparently, there are ruins on the coast
+near Lurelin Village!
+
+That's all! Did you get all that?
+It was pretty short, after all."
+33,RetMSG_Firo_04_1,"あれ もう一回言ってほしいの？
+
+ウオトリー村には海沿いに遺跡があるらしい！
+以上！","What? You want to hear the helpful info I
+gave you again? The really short info?
+OK...
+Apparently, there are ruins not too far
+from the coast near Lurelin Village!
+That's it!"
+34,SavedLv1_00,もう大丈夫だよね？だよね？,"It's safe now, right? Right?"
+35,SavedLv1_01,もう大丈夫でしょ？でしょ？,"Everything's OK now, isn't it? Isn't it?"
+36,SavedLv2_00,もうダメかと思ったー,I thought I was a goner for sure!
+37,SavedLv2_01,なんか悪運強いかもー！,Uh—I think I've got really bad luck!
+38,SavedLv3_00,ありがとう助けてくれて…,Thank you...for saving me...
+39,SavedLv3_01,強いんだね…ありがと…,You're pretty strong... Thanks.
+40,TerrorAnimal,やれやれ…,Give me a break...
+41,TerrorEnemy,もうヤダ…,Is this the end?
+42,Thanks00,お礼しなきゃね,"I've got to give you a reward, huh..."

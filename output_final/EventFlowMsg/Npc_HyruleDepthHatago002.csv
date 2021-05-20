@@ -1,0 +1,29 @@
+#,Title,JPja,USen
+1,"""0000""",料理鍋？,Cooking pot?
+2,"""0001""",何でもない,I'll pass.
+3,Near00,さてと…,All right now...
+4,Near01,ごはんよー！,Dinnertime!
+5,Near02,たくさん食べてね,Eat up now.
+6,Near_RunRain00,いやだわ…,Don't want to...
+7,Near_RunRain01,雨だわ…,"Rain, hm..."
+8,Near_Sleep00,グー… グー…,Zzz... Zzz...
+9,Near_Sleep01,もうこんな時間ね…,I overslept...
+10,Talk00,料理鍋を ご利用ですか？,Would you like to use the cooking pot?
+11,Talk01,"馬宿での お食事はセルフとなります
+どうぞ料理鍋は ご自由にお使いください","We don't serve food at the stable.
+Please, use this cooking pot."
+12,Talk02,"ご用件は主人のインブリーへ お願いします
+道案内でしたら見習いのトロット君へ どうぞ","Talk to our master Embry if you have
+needs, and ask the apprentice Trott if
+you need directions."
+13,Talk03,"ここじゃ ぬれますよ
+馬宿の中へ どうぞ","You'll get wet standing around outside.
+Please, use the stable for shelter."
+14,Talk04,"この雨じゃ料理鍋は使えませんね…
+ご宿泊は いかがでしょう？","Can't use the cooking pot in this rain...
+Why not stay the night?"
+15,Talk05,"すみませーん
+ちょっと休憩中ですので…",Huh? It's late. We can talk later.
+16,Talk06,"たくさん野菜を食べてね…
+むにゃ むにゃ…","Veggies are good for you, and they're
+very yummy. Mmm..."

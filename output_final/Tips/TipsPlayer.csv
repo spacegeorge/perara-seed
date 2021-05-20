@@ -1,0 +1,211 @@
+#,Title,JPja,USen
+1,Album_00,"ハイラル図鑑ウツシエで撮ったものは ハイラル図鑑に登録することができる。 
+登録できる物は生き物・魔物・素材・武器・お宝だ。","Hyrule CompendiumImages captured with your Camera are logged in your
+Hyrule Compendium. Things that can be logged include wildlife,
+monsters, ingredients, and weapons."
+2,Horse_00,"馬の登録野生馬を捕まえたら馬宿まで連れて行って登録するとよい。 
+自分の愛馬になれば いつでも呼び出せるようになる。","Registering HorsesOnce you've tamed a wild horse, you can register it by taking it
+to a stable. Do this, and you'll be able to call your beloved steed
+to your side whenever you please."
+3,Horse_01,"野生馬を捕まえる背後から しゃがんで静かに近づくのがよい。
+馬の真後ろにいる時に気づかれると蹴られてしまうので注意が必要だ。","Wild HorsesIf you see a wild horse you'd like to ride, crouch down so you can
+approach it quietly from behind. Take heed, though—if the horse
+notices you while you're directly behind it, it will kick you!"
+4,Horse_02,"馬を呼ぶ所有馬は マップに居場所が表示されている。
+近くにいる馬はで呼ぶと駆けつけてくれる。","Calling Your HorseHorses you have registered are displayed on the map. If one of
+them is nearby, call it with and it will come running."
+5,Horse_03,"馬のしつけ捕まえたばかりの野生馬は あまり言うことを聞かないが
+一緒に冒険すればするほど懐いて賢くなっていく。","Training Your HorseHorses that you have just caught won't listen to much of what you tell
+them to do. The more time you spend adventuring with your steed,
+the better behaved it will become."
+6,Horse_04,"馬をなだめる捕まえた野生馬が暴れて言うことを聞かない時はでなだめるとよい。
+繰り返すうちに懐いて素直になっていく。","Calming Your HorseWhen a wild horse that you're riding starts to act out or ignore you,
+try soothing it with. If you keep this up, it will become more
+obedient over time."
+7,Horse_05,"馬の気性気性の荒い馬もいれば臆病な馬もいる。
+臆病な馬で敵に向かって行くとひるんでしまう。","Horse TemperamentsJust as some horses have a naturally wild temperament, some horses
+are inherently shy. If you try to approach monsters atop a shy steed,
+it will become frightened and try to turn away."
+8,Horse_06,"愛馬との旅懐いている馬は街道に沿って進んでくれる。
+たまには走るのを馬にまかせて あたりを見回してみるのもよい。","The Steed Takes the LeadObedient horses will follow pathways without being told to.
+Leave the running up to your loyal steed every once in a while
+so you can enjoy the scenery!"
+9,Horse_07,"馬の襲歩馬を最高速で走らせることを襲歩という。
+襲歩させるには馬を走らせてだ。","GallopingRunning your horse at max speed is called galloping. Press to
+increase your horse's speed until it reaches a full gallop."
+10,Horse_08,"馬の襲歩馬によって襲歩できる数は違っている。
+たくさん襲歩できる野生馬を見つけて愛馬にするのがよい。","GallopingThe number of times you can increase your speed depends on
+each horse. If you find a horse with a high number of spurs,
+consider keeping it as your companion."
+11,Horse_09,馬の気性気性の荒い馬で無理やり速度を上げようとすると振り落とされてしまう。,"Horse TemperamentsTrying to force a rowdy and untamed horse to speed up will likely
+result in you being tossed to the ground."
+12,Horse_10,"馬の襲歩襲歩で突っ込めば小さな敵を蹴散らすこともできるが
+小回りがきかないので注意が必要だ。","GallopingYou can run down smaller monsters atop your galloping steed,
+but don't forget that you cannot make quick turns when traveling
+this way."
+13,Horse_11,"馬の歩法速度が上がるにつれて常歩・速歩・駈歩・襲歩と足の運び方が変わっていく。
+で速度を上げで速度を落として馬を操る。","Horse GaitsAs your horse's speed increases—between walk, trot, canter,
+and gallop—their gait changes as well. Use to increase
+your speed, and use to decrease it."
+14,Horse_12,"馬のステップ移動馬を停止させを押しながらで ステップ移動ができる。
+怖がって嫌がる場所や狭い場所で立ち往生してしまった時に使うとよい。","Horse StepsWhile totally motionless, if you press and hold, your horse 
+will take careful steps in any direction with. Do this if your
+horse balks or when you find yourself stuck somewhere."
+15,IceMaker_00,アイスメーカー水面に氷の柱を作って上に登ったり物を押し上げることができる。,"CryonisUse this power to create a pillar of ice on the water's surface.
+Such pillars can be used for lifting objects or climbing."
+16,IceMaker_01,アイスメーカー氷の柱は再び照準を合わせてで壊すことができる。,"CryonisAn ice pillar can be broken by lining your reticle up with it
+and pressing."
+17,IceMaker_02,"アイスメーカーで自分の足元を狙えば直接氷の柱の上に乗ることができる。
+照準に戻したい時は再びだ。","CryonisAim at your feet with to create an ice pillar directly beneath you.
+Press again to return to the reticle."
+18,Magnetglove_00,マグネキャッチ金属製の物であれば どれだけ重くても持ち上げることができる。,"MagnesisWhen you find a metallic object, you can use this power to lift it up
+and move it around freely, regardless of how heavy it is."
+19,Magnetglove_01,マグネキャッチ水中に沈んでいる金属製の物を引き上げることができる。,MagnesisUse this power to lift up metallic objects hidden in water.
+20,Magnetglove_02,マグネキャッチ重い金属製の物を振り回したり落下させれば攻撃手段にもなる。,"MagnesisTo save wear and tear on your weapons, try swinging heavy metallic
+objects around or dropping them on foes' heads."
+21,Map_00,"望遠鏡とピン望遠鏡であたりを眺めている時に気になる物や場所を見つけたら
+でピンを打ち マップに目印を付けることができる。","Scope TipWhen you find an object or place of interest while looking through
+your scope, press to place a pin on your map in that location
+so you won't forget about it."
+22,Map_01,"マップピンピンは望遠鏡を眺めながら打つだけではなく
+シーカーストーンのマップからも打ったり消したりすることができる。","Map PinsNot only can you drop pins while looking through the scope, but
+you can also add or delete pins from the map on your Sheikah Slate."
+23,Map_02,"マップのスタンプシーカーストーンのマップは スタンプを配置することができる。
+気になる物の位置を覚えておきたい時は スタンプの種類を使い分けるとよい。","Map StampsYou can stamp the map on your Sheikah Slate with reminders
+of important discoveries, like the location of a cooking pot or
+something unusual you want to investigate later."
+24,Player_00,"泳ぐコツ泳いでいる時にで加速することができる。
+がんばり過ぎて溺れないよう多用は禁物だ。","Swimming TipWhen in the water, you can swim faster using. Be careful not to
+overuse this, lest your stamina run low and you drown."
+25,Player_01,"崖登りのコツ急いでいる時はでジャンプすると素早く登ることができる。
+がんばりゲージの消費が多いので使いどころに注意が必要だ。","Climbing TipIf you're in a hurry to climb somewhere, you can scale a wall quicker
+by using. Doing so uses up a lot of stamina, so make sure you
+have enough to make it to the top!"
+26,Player_02,"崖登りのコツ険しい傾斜ほど がんばりゲージの消費が多い。
+より高く登るには緩やかな壁を選ぶのが重要だ。","Climbing TipThe stamina required for climbing increases with the steepness of
+the cliff. To climb higher while using less stamina, it's important
+to find walls that have a gentler slope."
+27,Player_03,"ダッシュを押しながら移動すると走ることができる。
+敵の攻撃を避けたり急ぎたい時に有効だ。","SprintingMove around while holding to sprint. This is useful for evading
+monster attacks or whenever you're in a hurry."
+28,Player_04,"パラセールパラセールがあれば高いところから飛び降りても平気だ。
+で見回しながら安全な降下地点を探すとよい。","ParagliderWith the paraglider, you can glide down from high places with ease.
+Use to scope out a safe spot to land."
+29,Player_05,"魚獲りのコツ泳いでいる時にで加速すれば
+魚に逃げられる前に近づくことができる。","Fishing TipIf you use to dash while swimming, you can get up close to a
+school of fish before they swim away."
+30,Player_06,"崖登りのコツ雨の日は滑るので がんばりの消費が多い。
+崖を登るなら晴れの日がよい。","Climbing TipIn rainy weather, cliffs become slippery and may not be possible
+to scale. Wait for clear weather before attempting to climb a steep
+cliff whenever possible."
+31,Player_07,"盾サーフィン盾を構えながら ジャンプしてで盾に乗ることができる。 
+盾の耐久力を消耗するが坂を滑り降りて速く移動したい時に有効だ。","Shield SurfingIf you jump while your shield is out, you can climb aboard it
+using. This will knock some durability off of the shield, but it's
+an effective way to travel downhill quickly!"
+32,Player_08,"基本操作冒険に必要な基本操作は
+ポーズメニューのシステム画面で いつでも確認することができる。","Basic ControlsTake a peek at your controls at any time by opening the menu
+and checking under System."
+33,Player_09,"ハートの回復採集した植物や狩りで手に入れた肉を食べると ハートが回復する。
+そのまま食べてもいいが料理することで回復量を増やすことができる。","Restoring HeartsYou can replenish your health by consuming fruits and veggies
+you've collected, as well as meat you've acquired through hunting.
+Eat ingredients raw, or cook them to increase their healing properties."
+34,Player_10,"カメラリセットを押せば リンクの背後にカメラが戻る。
+注目する物があれば そちらを向く。","Resetting the CameraPress to quickly shift the camera behind Link. If there's an object
+nearby that you can focus on, the camera will target it."
+35,Player_11,"注目する敵や人物の近くでを押せば注目することができる。
+注目中は相手の周囲をぐるぐると回るように移動する。","TargetingPress while near a monster or a person to target it.
+When locked on to something, you can freely circle around it."
+36,Player_12,"平行移動リンクの向きを変えずに移動したい時は
+を押しながら平行移動するとよい。","StrafingIf you want to move side to side without changing the direction
+you're facing, try moving sideways while pressing."
+37,Player_13,"がんばりゲージ崖を登っていると がんばりゲージを消費する。
+ゲージが空っぽになると手を放して落下してしまう。","Stamina WheelIf your stamina runs out while climbing, you will lose your
+grip and fall."
+38,Player_14,"がんばりゲージ泳いでいると がんばりゲージを消費する。
+ゲージが空っぽになると溺れてしまう。","Stamina WheelSwimming depletes your stamina. If this runs out while you're
+swimming, you will sink below the water and, unless you've run out
+of hearts, be returned to dry land."
+39,Player_15,"ハシゴハシゴを登る時は がんばりゲージは消費しない。
+ただしでジャンプして登る時は がんばる必要がある。","LaddersClimbing ladders will not deplete your stamina. However,
+using to jump up a ladder will."
+40,Player_16,物を押す丸太や木箱は押して動かすことができる。,"Pushing ObjectsBarrels and boxes can be pushed around. Use this to
+your advantage!"
+41,Player_17,ベッドで寝る朝・昼・夜好きな時間まで寝ることができ ハートが全回復する。,"BedtimeSleeping in a bed allows you to sleep until morning, noon, or night.
+It also replenishes your hearts."
+42,Player_18,弓のコツ高い所から飛び降りながら弓を引き絞ると集中力が増す。,"Archery TipDraw your bowstring while jumping from a high place to briefly
+slow down time so that you can aim with greater accuracy."
+43,Player_19,"木のてっぺん細い木の上では できることは限られる。
+望遠鏡であたりを見回し目的地を見定めるのに利用するとよい。","TreetopsThe things you can do atop small trees are limited, but they have
+their uses. Use them to scout an area with your scope. It's a
+handy way to decide your next destination!"
+44,Player_20,"宿屋に泊るベッドで寝て ハートを全回復させるだけでなく
+さらにルピーを払って ハートの上限を増やすこともできる。","Resting at an InnSleeping overnight in a bed can do more than just fully replenish your
+hearts. If you spend more for a comfier bed, you can temporarily
+increase your hearts!"
+45,Player_21,"攻撃を避ける注目しながらとで後ろに宙返りできる。
+敵の攻撃を避ける時に有効だ。","Dodging AttacksWhile targeting an enemy, execute a backflip by holding and
+pressing. This move is useful for dodging enemy attacks."
+46,Player_22,崖登りのコツ崖を登っている時にとで手前に飛び降りることができる。,"Climbing TipUse and to kick off from the surface you're currently
+climbing."
+47,Player_23,"崖登りのコツ崖を登っている時にとで手前に飛び降りることができる。
+そのままパラセールを開いて滑空すると行動範囲が格段に広がる。","Climbing TipUse and to kick off from the surface you're currently
+climbing. If you use the paraglider right afterward to glide, you can
+reach many new places."
+48,Player_24,"パラセールパラセールで滑空中も がんばりゲージを消費する。 
+上空でがんばりゲージが空っぽにならないよう注意が必要だ。","ParagliderSoaring with the paraglider depletes your Stamina Wheel.
+Be careful to monitor your stamina so you don't run out midflight."
+49,Player_25,"注目の切り替え注目する対象が複数ある時は
+を押し直せば対象を切り替えることができる。","Changing FocusWhen there are multiple things to lock on to, press again to
+switch your focus."
+50,Player_26,"崖登りのコツせり出した地形の裏側や建物の天井などでは体を支え切れない。
+無理に登ろうとしても落下してしまう。","Climbing TipOverhangs that curve outward and the underside of ceilings are too
+difficult to hang on to. If you try to climb these surfaces anyway,
+you will fall."
+51,RemoteBomb_00,リモコンバクダン丸型は坂で転がり四角型は転がらない。,"Remote BombsThe spherical bombs will roll downhill, whereas the cube-shaped
+bombs will not. Make sure to use the right bomb for the landscape!"
+52,RemotoBomb_02,"リモコンバクダン爆風で敵にダメージを与えられるだけでなく
+もろい壁や岩を破壊することもできる。","Remote BombsThese bombs are useful not only for dealing damage to monsters.
+They can also be used to break rocks and weak walls."
+53,RemotoBomb_03,"リモコンバクダン×風リモコンバクダンは見た目よりも軽く風の影響を受け易い。
+風で転がしたり飛ばすこともできる。","Remote Bombs and WindRemote Bombs are lighter than they appear. Use the wind to your
+advantage to roll them in a certain direction or to blow them farther
+than you could throw them on your own."
+54,SheikSensor_00,"シーカーセンサー試練の祠を探知できる。
+見つけるには反応が大きくなる方へ向かうとよい。","Sheikah SensorUse this power to detect the location of shrines. Simply head in the
+direction where the reading is strongest."
+55,SheikSensor_01,"シーカーセンサー＋パワーアップしたシーカーセンサー＋は
+ハイラル図鑑に登録されている物を探知の対象にすることができる。","Sheikah Sensor +The Sheikah Sensor + can detect objects that are logged
+in your Hyrule Compendium."
+56,StopTimer_00,ビタロック特定の物の時間を止めることができる。,"StasisThis power allows you to halt time for certain objects, completely
+stopping them in place."
+57,StopTimer_01,"ビタロックビタロックで止めた物に衝撃を与えると
+時間が動き出した時に溜まった力が一気に解放される。","StasisAttacking objects stopped by Stasis will make them build up energy.
+This energy will then be released once the time-halting effect ends."
+58,StopTimer_02,"ビタロック×バクダン樽ビタロックでバクダン樽を止めて衝撃を与えると
+樽を吹っ飛ばした先で爆発させることができる。","StasisFreezing a Bomb Barrel using Stasis and then attacking it
+will cause it to fly off and explode at its point of impact."
+59,Warp_00,"ワープシーカーストーンのマップから祠や塔へワープすることができる。
+目的地の近くまでワープすれば移動時間を短縮することが可能だ。","Travel GatesYou can travel instantly to shrines and towers using the map on
+the Sheikah Slate (). If there's somewhere you need to be,
+travel to a shrine or tower near your destination to get there faster."
+60,Wolf_01,"ウルフリンクシーカーセンサーに反応があると
+ウルフリンクは その場所まで導いてくれる。","Wolf LinkIf your Sheikah Sensor picks up a signal, Wolf Link will lead you
+to its source."
+61,Wolf_02,"ウルフリンクウルフリンクに注目して「まて」で その場に待機させることができる。
+待機中に「こい」で再びついてきてくれるようになる。","Wolf LinkWolf Link will remain still if you select Stay while locked on to him.
+Select Come while he's waiting to make him follow you again."
+62,Wolf_03,"ウルフリンク口笛を吹くと ウルフリンクを自分の近くに呼び戻すことができる。
+再度amiiboをタッチすると自分の近くにワープさせることもできる。","Wolf LinkWhistle to call Wolf Link to your location. If you tap the amiibo a
+second time, you can recall him close to you."
+63,Wolf_04,ウルフリンク異世界から召喚されたウルフリンクは普通の人間には見ることができない。,"Wolf LinkWolf Link is summoned from another plane of existence
+and can't be seen by other people in this world."
+64,Wolf_05,"ウルフリンクウルフリンクは目の前にある食べ物を食べてハートを回復する。
+貴重な食材を食べられたくない時は「まて」で その場に待機させるとよい。","Wolf LinkWolf Link will eat whatever food is in front of him to regain his
+hearts. If you don't want him to eat rare ingredients, use the Stay
+command to have him stay in place while you collect them."
+65,Wolf_06,ウルフリンクウルフリンクは力尽きない限り一日に何度でも召喚することができる。,"Wolf LinkAs long as Wolf Link doesn't run out of hearts, you can summon him 
+as many times as you want in a single day."
+66,amiibo_01,amiiboアイテム同じamiiboは一日に1回しか使うことができない。,amiibo RuneSome amiibo may only be used once per day.
+67,amiibo_02,"amiiboアイテムamiiboをかざすと冒険に役立つものが出現する。
+宝箱には武器や矢束が入っていることもある。","amiibo RuneUse an amiibo to summon forth an item that may be useful
+to you on your adventure!"

@@ -1,0 +1,308 @@
+#,Title,JPja,USen
+1,"""1501011""",ディスクを入れてください｡,Please insert a disc.
+2,"""1501013""","本体のUSB端子に
+USB記録メディアを接続してください｡","Connect a USB storage device to one of
+the USB ports."
+3,"""1501014""","本体のSDカードスロットに
+SDカードを差し込んでください｡",Insert an SD card into the SD card slot.
+4,"""1501021""","ディスクを読み取れませんでした｡
+
+ディスクイジェクトボタンを押して
+ディスクを取り出し､
+レーベル面の向きが正しいか､
+ディスクにWii UまたはWiiのマークが
+表示されているかを確認してください｡","The disc could not be read.
+
+Press the EJECT Button, remove
+the disc, and check that the label side
+is facing the proper direction and
+displays either the Wii U or Wii logo."
+5,"""1501023""","このUSB記録メディアは使用できません｡
+
+使用できるUSB記録メディアについては
+任天堂ホームページのサポート情報を
+ご覧ください｡","This USB storage device cannot
+be used.
+
+For a list of supported USB
+storage devices, please visit
+support.nintendo.com."
+6,"""1501024""","このSDカードは使用できません｡
+
+使用できるSDカードについては
+Wii U電子説明書「SDカードを使う」を
+ご覧ください｡","This SD card cannot be used.
+
+For information on supported SD cards,
+please visit support.nintendo.com."
+7,"""1501031""","ディスクを読み取れませんでした｡
+ディスクが汚れている可能性があります｡
+
+ディスクイジェクトボタンを押して
+ディスクを取り出し、柔らかい布で
+中心から外側に向かって
+軽く拭いてください｡
+
+以上の操作で解決しない場合は
+Wii U取扱説明書(冊子)をご覧になり､
+任天堂サービスセンターに
+エラーコードをお伝えください｡","The disc could not be read. It might
+be dirty.
+
+Press the EJECT Button, remove
+the disc, and clean it gently, using
+a soft cloth to wipe outward from
+the center.
+
+If that does not resolve the issue,
+make a note of the error code and
+visit support.nintendo.com."
+8,"""1501044""","SDカードのエラーが発生しました｡
+SDカードを取り出してください｡","An error relating to the SD card has
+occurred.
+
+Please make a note of the error code,
+remove the SD card, and then visit
+support.nintendo.com."
+9,"""1501063""","USB記録メディアが
+書き込み禁止になっています｡
+
+お使いのUSB記録メディアの
+取扱説明書をご覧になり､
+書き込み禁止状態を解除してください｡","The USB storage device is
+write-protected.
+
+Please refer to the manual for the
+device and disable write-protection."
+10,"""1501064""","SDカードが書き込み禁止になっています｡
+
+SDカードの書き込み禁止スイッチを
+解除してください｡","This SD card is write-protected.
+
+Please move the write-protection
+switch on the SD card to the
+unlocked position."
+11,"""1501071""","ほかのゲームのディスクが入っています｡
+
+ディスクを入れ替えてください｡","The disc currently in the console
+is for a different game.
+
+Please insert the correct disc."
+12,"""1501090""","エラーが発生しました｡
+
+本体にディスクが入っている場合は､
+ディスクイジェクトボタンを押して
+ディスクを取り出してください｡
+
+本体の電源をOFFにして
+コンセントからACアダプターを抜いたあと､
+Wii U取扱説明書(冊子)をご覧になり､
+任天堂サービスセンターに
+エラーコードをお伝えください｡","An error has occurred.
+
+If there is a disc in your console, press
+the EJECT Button and remove the disc.
+
+Make a note of the error code and
+turn the Wii U console power off, and
+then unplug the AC adapter from the
+outlet and visit support.nintendo.com."
+13,"""1510101""","コントローラーとの通信が切断されました｡
+
+電源ボタン以外のボタンを押してください｡
+反応がない場合は、乾電池を交換または
+バッテリーパックを充電してから
+もう一度ボタンを押してください｡","Communications with the controller
+have been interrupted.
+Please press any button other than the
+POWER Button. If there is no response,
+replace or recharge the batteries as
+appropriate and try again."
+14,"""1550100""","セーブデータを作るための
+空き容量が足りません｡
+
+本体設定の「データ管理」で
+データを整理してください｡","There is not enough free space to
+create save data.
+
+Please go to Data Management in
+System Settings to make space."
+15,"""1550205""",ディスクを入れてください｡,Insert the disc.
+16,"""1550213""","USB記録メディアが
+書き込み禁止になっています｡
+
+お使いのUSB記録メディアの
+取扱説明書をご覧になり､
+書き込み禁止状態を解除してください｡","The USB storage device is
+write-protected.
+
+Please refer to the manual for the
+device and disable write-protection."
+17,"""1559000""","セーブデータの作成に失敗しました｡
+
+本体の電源をOFFにして
+コンセントからACアダプタを抜いたあと､
+Wii U取扱説明書(冊子)をご覧になり､
+任天堂サービスセンターに
+エラーコードをお伝えください｡","Save data could not be created.
+
+Please make note of the error code,
+and then turn off the console's power,
+unplug the Wii U console's AC adapter
+from the outlet, and visit
+support.nintendo.com."
+18,"""1650101""","Wii U GamePadと通信できませんでした｡
+GamePadの画面をご覧ください｡
+
+GamePadのバッテリー残量が
+なくなっている場合は、充電してください｡","Unable to communicate with the
+Wii U GamePad. Please check
+the Wii U GamePad screen.
+
+If the Wii U GamePad battery has
+run low, please recharge it."
+19,"""1680300""","amiiboのデータ書き込み/
+読み込み中にエラーが発生しました｡
+もう一度お試しください｡","An error occurred while trying to write
+or read amiibo data. Please try again."
+20,"""1680400""",amiiboではありません｡,"The device you used is
+not an amiibo figure."
+21,"""1680409""","正常なamiiboではありません｡
+
+このエラーが何度も発生する場合は
+Wii U取扱説明書(冊子)に記載されている
+任天堂サービスセンターに
+お問い合わせください｡","This is an invalid amiibo.
+
+If the problem persists, please
+visit support.nintendo.com."
+22,"""1680500""","amiiboのデータが壊れています｡
+
+このWii U本体に保存されている
+データで復旧しますか?","The amiibo data is corrupted.
+
+Would you like to restore it with
+data saved on this console?"
+23,1680500_NX,"amiiboのデータが壊れています。
+
+この本体に保存されているデータで
+復旧しますか？","The amiibo data is corrupted.
+
+Would you like to restore the amiibo
+with data saved on this system?"
+24,"""1680510""","amiiboのデータが壊れています｡
+このamiiboを使ったことのある
+ゲーム機本体であれば復旧できます｡
+もしくは、本体設定の「amiibo設定」で
+初期化を行ってください｡","The amiibo data is corrupted.
+
+If you have used this amiibo on a
+Nintendo device before, then you can
+use that device to restore the data.
+If not, please reset the amiibo via
+System Settings ⇒ amiibo Settings."
+25,1680510_NX,"amiiboのデータが壊れています｡
+
+このamiiboを使ったことのあるゲーム機本体
+で復旧をためすか、またはHOMEメニューの
+（設定）→「amiibo」から
+amiiboを初期化してください｡","The amiibo data is corrupted.
+You can restore the data if you have a
+Nintendo device that has accessed this
+amiibo before. You can also reset the
+amiibo by returning to the HOME Menu
+and selecting (System Settings)
+⇒ amiibo."
+26,"""1680530""","amiiboへオーナーとニックネームを
+登録してください｡","Please register an owner and
+nickname for the amiibo."
+27,"""1680550""","他のゲームのデータが
+書き込まれているため
+使用できません｡
+
+amiiboのデータを消去して
+書き込めるようにしますか?","This amiibo already has data from
+another software title written to it.
+
+Do you want to delete that data so
+that this software can write to it?"
+28,"""1680570""",別のamiiboがタッチされました｡,This is not the same amiibo.
+29,"""1680590""",対応していないamiiboです｡,This amiibo is not supported.
+30,"""1681800""","本体保存メモリーに異常があります｡
+本体の電源をOFFにして
+やり直してください｡
+
+このエラーが何度も発生する場合は
+Wii U取扱説明書(冊子)に記載されている
+任天堂サービスセンターに
+お問い合わせください｡","The system memory is corrupted.
+
+Please turn off the Wii U console
+and try again.
+
+If the problem persists, please
+make a note of the error code and
+visit support.nintendo.com."
+31,"""1681999""","amiiboのデータ書き込み/
+読み込み中にエラーが発生しました｡
+もう一度お試しください｡","An error occurred while trying to write
+or read amiibo data. Please try again."
+32,"""1682001""","エラーが発生しました｡
+もう一度お試しください｡
+
+書き込み中のエラーの場合は
+amiiboのデータが破損した
+可能性があります｡","An error has occurred.
+
+Please try again later.
+
+Please note, if this error occurred
+while data was being written,
+amiibo data may have been lost."
+33,"""1689999""","amiiboのデータ書き込み/
+読み込み中にエラーが発生しました｡
+本体の電源をOFFにして
+やり直してください｡
+
+このエラーが何度も発生する場合は
+Wii U取扱説明書(冊子)に記載されている
+任天堂サービスセンターに
+お問い合わせください｡","An error occurred while trying to write
+or read amiibo data. Please turn off
+the Wii U console and try again.
+
+If the problem persists, please visit
+support.nintendo.com."
+34,"""1999999""","エラーが発生しました｡
+
+本体の電源をOFFにして
+やり直してください｡
+
+やり直しても同じエラーが発生する場合は
+Wii U取扱説明書(冊子)に記載されている
+任天堂サービスセンターへ
+お問い合わせください｡","An error has occurred.
+
+Please turn off the Wii U console
+and try again.
+
+If the problem persists, please
+visit support.nintendo.com."
+35,"""5000000""","ゼルダの伝説 ブレス オブ ザ ワイルドは
+ソフトの更新をしないと
+ゲームを始める事はできません。
+
+Wii Uメニューに戻ります。","You must perform a system update
+to play The Legend of Zelda:
+Breath of the Wild.
+
+Returning to Wii U menu."
+36,Btn101,OK,OK
+37,Btn150,終了する,Close
+38,Btn206_L,やめる,Cancel
+39,Btn206_R,復旧する,Restore
+40,Btn207_L,やめる,Cancel
+41,Btn207_R,登録する,Register
+42,Btn208_L,やめる,Cancel
+43,Btn208_R,消去する,Delete
+44,Title,エラーコード：,Error Code:

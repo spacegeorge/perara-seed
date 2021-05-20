@@ -1,0 +1,148 @@
+#,Title,JPja,USen
+1,"""0000""",旅の者です,I'm a traveler.
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",はい,Yes.
+4,"""0003""",いいえ,No.
+5,"""0006""",前金？,A...down payment?
+6,"""0007""",要りません,I don't need money.
+7,"""0008""",…,...
+8,"""0009""",やっぱやめる,"Actually, never mind."
+9,"""0010""",倒してきた,Guardians kaput!
+10,"""0011""",あなたって？,Who are you?
+11,near00,ハァ…,Haaah...
+12,near01,う～ん…,Hmmm...
+13,talk00,なんだね？ チミは…,What's the deal? You're...
+14,talk01,フン…,Hmpf...
+15,talk02,"細かい事は気にしない
+じゃあ はい","I don't care about the details.
+Here, take it."
+16,talk03,"下賤な庶民と口を利く暇なぞ無いんですが…
+まあいいでしょう
+チミ…そんな身なりだから
+きっとお金に困っているでしょう？","I normally don't have time to mingle with
+commoners...but I have a feeling about
+you. I'll make an exception this time.
+Your clothes...
+I'm guessing you're a little hard up for
+cash. Am I right?"
+17,talk04,正直でよろしい,I appreciate your honesty.
+18,talk05,"じゃ前金で
+100ルピー差し上げましょう","So for the down payment...
+I'd say 100 rupees sounds fair, yes?"
+19,talk06,"ホーッ ホッホ！
+受け取りましたね！
+それじゃ私の言う事を聞いてください","Hoh ho ho!
+So you accept, then? Excellent!
+
+Now, listen to what I have to say."
+20,talk07,"この村の西に広がるターリン湿地…
+あそこってガーディアンが居るんでしょう？
+しかも2体も！
+
+アレってアレでしょう？
+1体でも充分 お強いんでしょう？
+だからチミ…ターリン湿地で歩いている
+ガーディアンを2体とも ぶっ倒してください","The Torin Wetland lies to the west of
+here. You're aware that there are
+Guardians there? Not just one, either...
+Two of them!!
+
+
+You know how dangerous they are...
+
+
+So, sonny boy... I'd like you to find and
+wallop both of them in Torin Wetland.
+Then come and see me."
+21,talk09,お手,Hand!
+22,talk10,だから言ったじゃないですか…,Didn't I tell you...
+23,talk11,"庶民とのコミュニケーションも
+セレブの務め… か
+私は ハギ
+「泣く子も黙る剛腕ハギ」とは私の事ですよ
+私は…全てを手に入れてしまってね
+
+最近は命のやり取りを見るくらいしか
+楽しみが無いんですよ
+空しい…全てが…","I suppose I must endure engaging with the
+common folk if I hope to get something done...
+
+You've no doubt heard of the ferocious
+Hagie? That's me. But I...got everything
+I wanted.
+Lately my days have felt so empty.
+The only things that thrill me now are
+true risks to life and limb.
+Everything else just feels...hollow."
+24,talk12,"100ルピー欲しいのでしょう？
+じゃ はい","I'm sorry? You don't want the 100
+rupees? All right, then."
+25,talk13,ん～…弱りました…,Hmm... And you are...
+26,talk15,まだ私に用ですか？,Do you need something else from me?
+27,talk16,チミか…,It's you...
+28,talk17,"…嘘ついてもダメですよ
+
+これだから庶民は…","...If you think you can put one over on
+me, I have grave news for you, sonny.
+
+Just the sort of shoddy, corner-cutting job I expect
+from the common rabble..."
+29,talk19,"分かったらターリン湿地を歩いている
+ガーディアンを2体！倒して来てください","If you're clear on the deal, then go take
+out the two Guardians walking around
+Torin Wetland."
+30,talk20,"はいはい分かってます
+
+あなたはターリン湿地の歩いている
+ガーディアンを 2体倒しました！
+…これでいいんでしょう？
+
+約束通り残りの褒美を取らせます
+はい じゃぁ
+お手","OK. OK. I saw the whole thing.
+You did splendidly. I'll give you the
+rest of the reward, as I promised."
+31,talk21,"なんですか その不満そうな顔は…
+
+前金の方が多いじゃないかって？
+
+これだから庶民は…
+
+その「前金＝少額」という固定概念こそが
+庶民の発想なのですよ
+とにかくチミは用済みです
+あっち行ってください","Why do you look so disappointed?
+It can't be because the reward is lower
+than the down payment, can it?
+You commoners with your notions and
+assumptions...
+
+The whole idea that a down payment is a
+small part of the final payment is an idea
+entirely unique to the common folk!
+In any case, our business is concluded.
+Go over there. Or anywhere, really.
+Anywhere that isn't. Right. Here."
+32,talk22,"私は…全てを手に入れた
+
+しかしお金では どうしても
+手に入らない物も あるんですよ…","I...got everything I wanted.
+
+
+But I'll tell you, there are some things
+out there... Things that all the money in
+the world can't get you..."
+33,talk23,はぁ…弱ったな…,Haaah... I've grown weak...
+34,talk24,"娘の体調がよくなったって事は
+この別荘は もう要らない…？ うーむ…","My daughter's health has improved...
+Does that mean that we don't need this house
+anymore? Hmmm..."
+35,talk26,"さて今日も家族と日向ぼっこですよ
+邪魔なんで あっち行きなさい","I'm going sunbathing with my family.
+You're in my way—cease to be so."
+36,talk27,はぁ…私はどうすれば…,Haah... What can I do...
+37,talk28,"いい夕焼けです…
+心が洗われるようです","What a beautiful sunset...
+My soul feels cleansed."
+38,talk29,"今日も一日
+いい日向ぼっこができました…っと",I'm so glad I was able to sunbathe today.

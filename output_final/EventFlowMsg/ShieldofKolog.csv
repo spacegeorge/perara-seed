@@ -1,0 +1,122 @@
+#,Title,JPja,USen
+1,"""0000""",やってみたい,I'm ready.
+2,"""0001""",また今度,Maybe later.
+3,"""0002""",挑戦する,Let's do this.
+4,"""0003""",まだ待って,Wait a second.
+5,"""0004""",がんばってみる,I'll never give up!
+6,"""0005""",終わりにする,I give up...
+7,Npc_Kokiri011_R_001,しれんいかがッスかー,Are you ready?
+8,Npc_Kokiri011_R_011,"やあ ゆうしゃサマ！待ってたよ！
+
+コログしれんでも一番難しいといわれる
+燃えずのしれんは コチラ！
+コログしれん武器セットを装備したまま
+目的地まで たどり着けば成功だ
+やってみるかい？","Hey, hero guy! I was told you'd be
+coming.
+
+But do you really think you're ready for
+the Test of Wood?! Some say it's the
+hardest of the Korok Trials.
+But it's not complicated—all you need to
+do is equip this Korok weapon set and
+reach the shrine at the back of the area.
+Are you ready to try it?"
+9,Npc_Kokiri011_R_031,"そうかい
+興味が出たら またヨロシク","I see. Well, come back when you're
+ready."
+10,Npc_Kokiri011_R_041,"目的地は この奥にある祠だ
+…さぁ行ってこい！","All you have to do is reach the shrine in
+the back of the area. Off you go!"
+11,Npc_Kokiri011_R_071,"おっと
+
+そこから先に進みたいなら
+申し込みが必要だ","Hold it.
+
+
+You can't go in there unless you're
+taking on the trial."
+12,Npc_Kokiri011_R_081,"ここでは燃えずのしれんに挑戦できるぞ
+
+コログのしれん武器セットを装備したまま
+目的地までたどり着けば成功だ
+やってみるかい？","You can sign up for the Test of Wood
+here.
+
+To pass the test, you just need to equip
+the Korok weapon set and reach the
+goal. Nothing to it!
+Want to give it a try?"
+13,Npc_Kokiri011_R_091,"おっと
+
+そこにある装備は持ってくなよ！
+欲しけりゃ しれんに挑戦するんだな","HEY!
+
+
+That equipment is for trial participants
+only!"
+14,Npc_Kokiri011_R_101,"あっ？！
+
+ちょっと！
+なんなんだよーっ？！","GAAAH!
+
+
+Knock it off, pyro!"
+15,Npc_Kokiri011_R_111,"ふぅ…
+
+なんとか火消し成功…","Phew...
+
+
+That was a close one."
+16,Npc_Kokiri011_S10_021,しれんの準備待ちだ,Gotta get the area ready...
+17,Npc_Kokiri011_S10_031,"ん？なんだ ポーチがいっぱいじゃないか武器と盾と弓のポーチに ひとつずつ空きを
+作ってきてくれないと始められないぞ","Huh? Your inventory is full!You need to make some space for a
+sword, a shield, and a bow before we
+can get started."
+18,Npc_Kokiri011_S10_051,"よーし行ってこい！剣も弓も盾も装備したまま
+壊しても外しても ダメだぞ","All right. Go get 'em!You have to keep the sword, bow, and
+shield equipped the whole time. If they
+break or you unequip them, you're out!"
+19,Npc_Kokiri011_S10_061,準備ができたら声をかけてくれ,Let me know when you're ready.
+20,Npc_Kokiri011_S10_071,さっそく燃えずのしれんに挑戦するかい？,Are you ready to take the Test of Wood?
+21,Npc_Kokiri011_S20_001,"はい ダメー！ しゅーーりょーー！！森人の剣と森人の弓と森人の盾を
+すべて装備したままでないと失格だぞ！","DISQUALIFIED! You lose!You have to keep all three forest-dweller
+items equipped the whole time!
+
+That's the forest dweller's sword,
+the forest dweller's bow, and the
+forest dweller's shield."
+22,Npc_Kokiri011_S20_051,ゴーーーールッ！！,Gooooooooal!
+23,Npc_Kokiri011_S20_052,"到着おめでとう！
+燃えずのしれん達成だ！
+さあ ゆうしゃサマ！
+祠で祝福が待ってるぞ","CONGRATULATIONS!
+You've passed the Test of Wood!
+
+Well done, hero man!
+Happiness awaits you at the shrine."
+24,Npc_Kokiri011_S20_053,"あ そうそうまた しれんやりたくなったら
+オレの所へ来いよなー
+ほんじゃーねー","Oh, yeah!If you ever want to do the trial again,
+just let me know.
+See ya!"
+25,Npc_Kokiri011_S20_061,"ちょっとちょっと！
+ゆうしゃサマ！
+こっちに戻ってきたら
+しれんはリタイアだけど いいのか？","Hey, guy!
+
+
+Where are you going?! The trial is 
+thataway! You're not Cuccoing out,
+are ya?"
+26,Npc_Kokiri011_S20_071,"おやおや ゆうしゃサマってば
+森の霧に迷っちゃったのかい？
+もうしれんは終わりにする？","Oh, my, hero guy!
+Did you get lost in the mist?
+Do you want to give up on the trial?"
+27,Npc_Kokiri011_S20_081,"残念だったね ゆうしゃサマ…
+まあこりずにまた挑戦してみてよ
+もしかして今すぐ再挑戦したい？","Too bad, Mr. Hero...
+We all fail sometimes.
+
+Do you want to try again right away?"

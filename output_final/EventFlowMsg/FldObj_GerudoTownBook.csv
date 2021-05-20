@@ -1,0 +1,188 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,"Yes, please."
+2,"""0001""",けっこうです,"No, thanks."
+3,"""0004""",特殊効果,Special Effects?
+4,"""0005""",薬,Extraordinary Elixirs?
+5,"""0006""",妖精,Fairies?
+6,"""0007""",読むのをやめる,That's enough.
+7,"""0008""",大成功料理,Cooking for Success?
+8,"""0009""",マモノエキス,Monster Extract?
+9,"""0010""",買いとってもらう,A Fortune in Food?
+10,"""0011""",読むのをやめる,That's enough.
+11,talk00,高すぎて読めない…,It's too high up to read...
+12,talk01,"その本は今は亡き天才シェフの
+ラ・ターム氏が執筆した本だ
+ここだけの話…
+かつて先生が愛したヴォーイだそうだ…
+届かないなら
+私が読んでやろうか？","That book was written by an amazing
+chef, Aurie Taamu.
+
+Just between us... He was the voe that our teacher
+was in love with once. Or so I hear...
+
+If you can't reach it, would you like me
+to read it for you?"
+13,talk02,『ラ・タームの料理手帳②』,"Chef Aurie Taamu, Vol. 2"
+14,talk03,"ふふっ ゲルド用の家具は
+お前にはちょっと大きいようだな","Feeling intimidated by the size of our
+Gerudo items, maybe?"
+15,talk04,"ほとんどの素材は料理に使うと
+特殊な効果を発揮するのである
+ヒンヤリという名の付く素材には
+耐暑の効果
+マックスという名の付く素材には
+体力を通常時よりも引き上げる効果
+等 その効果は素材によって様々なのである
+
+同じ効果を持つ素材同士を組み合わせると
+その効果や持続時間が アップするのだが
+違う効果を持つ素材を一緒に調理すると
+特殊な効果は消えてしまうので注意するように
+ちなみに私ラ・タームと同じく
+せっかちな御仁には
+移動速度が上がるゴーゴー素材を使った料理が
+おススメである","Most ingredients can imbue their meals
+with some unique effects.
+
+Ingredients that have cold properties
+can help you resist heat.
+
+Ingredients that have hearty properties
+can fully heal you and grant you
+temporary bonus vitality!
+There are many other effects to be found
+among ingredients. You just have to
+experiment!
+And don't forget! Combining ingredients
+with the same effect may increase the
+effect's strength or duration...
+But combining ingredients with different
+effects may cancel their enhancing
+effects out, so you must be careful.
+I, Aurie Taamu, am admittedly quite
+impatient, so I always have speed-
+increasing hasty foods on hand!"
+16,talk05,"虫系の素材と魔物系の素材を組み合わせる事で
+『薬』を調合できるのである
+『薬』は料理と同じく鍋で作ることが可能であり
+使う素材が貴重なほど効果も高くなるのである
+さらにどんぐりや小鳥の木の実を合わせる事で
+体力回復効果がプラスされることも教えておこう
+ちなみに私ラ・タームと同じく
+虫が怖くて触れないというご婦人方
+薬と同じ効果を発揮する
+料理もありますので ご安心あれ","You can cook up an elixir by mixing a
+bug part and a monster part together.
+
+Elixirs can be made in pots, just like
+food, and with valuable ingredients,
+the elixir's effect will get stronger!
+You can also add acorns or Chickaloo
+tree nuts to impart your elixir with minor
+healing properties.
+However... I, Aurie Taamu, am deathly
+afraid of insects and would never even
+think of touching them.
+Fortunately, there are regular meals that
+you can cook which will produce the
+same effects as elixirs."
+17,talk06,"この世には妖精さんが存在し
+清い心の持ち主の前に姿を現すと言われている
+一説によると妖精さんの力を借りることで
+特別な料理ができるとか…
+ちなみに私 ラ・タームは
+妖精さんに憧れ清い身を守り続けて35年
+そろそろ妖精さんからのお迎えが
+来てもおかしくないのである","It is said that fairies truly do exist in the
+world, but that they will only appear
+before an individual with a pure soul.
+One theory suggests that some special
+kind of cooking might be possible if you
+used the power of a fairy...
+I, Aurie Taamu, have been a pure soul
+for over 35 years. I expect my fairy will
+arrive any day now..."
+18,talk07,『ラ・タームの料理手帳①』,"Chef Aurie Taamu, Vol. 1"
+19,talk08,"特別上手にできた料理を
+我々は『大成功料理』と呼んでいるのだ
+大成功した料理は効果のレベルと効果時間が
+通常よりも増すことが わかっているのである
+一度に使う素材の種類が多いほど
+大成功料理になりやすいのだが
+赤い月の不思議な光と共に作った料理は
+必ず大成功するらしいのである
+ちなみに私ラ・タームは夕方には眠くなるため
+未だに赤い月を見たことがないのである","Sometimes you'll witness incredible
+success in your cooking adventures.
+
+When this happens, the strength and
+duration of your cooked food's effects
+will increase well beyond normal.
+Using more than the usual number of
+ingredients is a sure way to boost the
+effects of your food.
+But I've also heard rumors that the light
+of the red moon can have a positive
+effect on your cooking as well.
+I haven't checked this myself, though.
+I get sleepy in the evenings, so I've
+never even seen the red moon."
+20,talk09,"マモノエキスはどんな料理に入れても
+効果を発揮する特殊な素材なのである
+マモノエキス1つあれば
+効果のレベル効果時間を増幅できるのである
+ただし それらの効果の幅はマチマチで
+
+大きな効果が発揮されることもあれば
+ろくでもない料理ができてしまうこともある
+ちなみに私ラ・タームは
+迷った時は運任せ なのである","Monster extract is an ingredient that
+boosts the effects of any dish that it has
+been added to.
+With just one monster extract, you can
+raise the power and duration of the
+effects of your dish.
+However, you never really know
+quite how the dish will turn out.
+
+Sometimes it will raise the effect by a lot,
+and other times... Well, not so much.
+
+However, I, Aurie Taamu, am not a man
+who relies solely on luck!"
+21,talk10,"料理は商人に
+買い取ってもらえるのである
+素材そのままよりも
+料理したほうが高く売れ
+また入れた素材の数が多ければ多いほど
+高く買い取ってもらえるのである
+なぜ このラ・タームが
+そんなことを知ってるのかって？
+それは…友人が金を工面するために
+よく買い取ってもらっていたからなのだ
+あくまで哀れな友人の話なのである","There are many in the world who will
+gladly pay for the dishes a chef creates!
+
+A cooked meal can easily sell for more
+than the individual components you
+used to make it.
+And don't forget, the more ingredients
+you pour into a meal, the greater the
+value of that meal! That's basic math!
+Did I learn all this from experience? No,
+of course not! I learned it from a friend!
+A dear friend! Who was a great chef!
+I can't recall his name right now, but he
+was a friend, to be sure!"
+22,talk11,"さすが ラ・タームシェフだな
+何度読んでも勉強になるよ","This collection of Aurie Taamu's notes
+is so amazing! I feel like I learn
+something new each time I read it."
+23,talk12,"さすが ラ・タームシェフ…
+名言ばかりで感動するよ","Chef Aurie Taamu sure did leave
+behind a lot of pretty meaningful quotes.
+He was just so inspiring..."
+24,talk13,"なんだ？
+読みたいんじゃなかったのか？","What? You're not interested in reading
+it at all?"

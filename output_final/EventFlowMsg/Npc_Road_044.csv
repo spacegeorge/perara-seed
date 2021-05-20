@@ -1,0 +1,338 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I want to buy.
+2,"""0001""",売る,I want to sell.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,Sounds good.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of 'em.
+10,Atacked00,"…プハァ
+息を止めてたら苦しくなってきたぜ…","URP! Yeesh, holding my breath isn't
+working at all..."
+11,Atacked01,"魔物め クソッ…
+硬い食材でも ぶつけてやろうかな…","Monsters! Maybe I should try throwing
+a hard ingredient at them..."
+12,Com_Talk_00,どれを売ってくれるんだ？,What would you like to sell me?
+13,Com_Talk_01,"うーん…だと
+ルピーになるなぁ…",Hmm... I can offer you  rupees.
+14,Com_Talk_02,"ありがとうな！
+他にも何か あったりするか？",Thanks! Got anything else?
+15,Com_Talk_02b,"どうもねありがとうな！
+他にもあれば買い取るぜ…","Thanks! If you have anything else,
+let me know and I'll buy it."
+16,Com_Talk_02c,"ありがとうな！
+…で まだ買い取れるけど どうかな？","Thanks! I can buy more, if you want.
+So how about it?"
+17,Com_Talk_02d,"あんたは いい客だ
+他にも売りたいものが もしあれば…","You're a great customer! If there's 
+anything else you wanna sell,
+just say the word."
+18,Com_Talk_04,そうか わかった,"I see, I see."
+19,Com_Talk_05,何でも買い取るぜ…,I'll buy anything!
+20,Com_Talk_05b,なんか買おうか？,Did you want me to buy something?
+21,Com_Talk_05c,何か売りたいものはあるかい？,Do you have anything you wanna sell?
+22,Com_Talk_05d,何でも買い取るよ… ほんと…,"I'll buy anything! Really, I mean it!"
+23,Com_Talk_06,どれを買うんだい？,What do you want to buy?
+24,Com_Talk_07,あ… すまん！ それは今切らしてて・・・,Oh... Sorry! I'm all out at the moment.
+25,Com_Talk_08,"おやおや…？ルピーが…
+足りないみたいだけど…","HUH? Rupees... You don't seem to 
+have enough of them."
+26,Com_Talk_09,"ポーチがいっぱいみたいだなあ？
+中のものを売るか捨てるかしないと…","Your pouch is full. You'll have to sell or
+discard some of your stuff."
+27,Com_Talk_10,になるが…買うか？,Excellent choice! So wanna buy it?
+28,Com_Talk_11,ありがとうな！,Thank you!
+29,Com_Talk_11b,ほんと ありがとうな！,Thanks!
+30,Com_Talk_11c,ありがとうな！ ほんとに…,Thank you! Really!
+31,Com_Talk_11d,ありがとう…,Thank you so much.
+32,Com_Talk_12,"ゆっくり見てってくれ！
+どれをとっても一級品だぜ！","Take a good look! Every item is
+top of the line!"
+33,Com_Talk_13,"を売りたいのか？
+いくつ売ってくれるんだ？","I'd love to buy that! How many will you
+sell me?"
+34,Com_Talk_14,"を個だと・・・
+〆てルピーになるけど いいか？","Let's go with  rupees.
+That OK?"
+35,Com_Talk_15,"ああ それは…
+うちでは買い取れないな","Oh... Sorry, I can't buy that!"
+36,Com_Talk_16,"服を売ってくれるのはいいけど
+着たままじゃなぁ…","I'm happy to buy clothes from you but...
+not ones you're currently wearing."
+37,Com_Talk_20,"天気が悪いときは取っておきを売る…
+ゴロンの香辛粉なんて貴重だぜ！","When the weather's bad, I gotta sell my
+best goods to make up for it... Like this!
+Goron spice is super rare!"
+38,Com_Talk_30,"が個で…
+えっと…ルピーかな…?",So...? That'll be  rupees.
+39,Com_Talk_31,"を買うのか？
+いくつ必要だ？",Great choice! How many?
+40,Com_Talk_33,"をひとつだけ？
+オッケールピーでどうだ！",Only one? How about  rupees?
+41,Com_Talk_34,"を全部？！オッケー！
+個だからルピーになるぞ？","All of them?! Of course!
+So for , that'll be
+ rupees."
+42,Com_Talk_35,"を全部売るのか？！
+個持ってるならルピーで買うぜ！","You're gonna sell all of 'em?!
+OK, so for , that'll be
+ rupees!"
+43,Com_Talk_36,"おお売り切れちまった！
+俺の食材気に入ってくれたようだな！","Whoa! I'm all sold out!
+Glad you like my ingredients!"
+44,Com_Talk_37,"すまん！今日はもう店じまいだ！
+今探してる食材のリストなら見せられるが…","Oh, sorry! I'm actually closed for the day.
+If you want, I can show you the list of
+ingredients I'm looking to restock."
+45,Com_Talk_56,"を ひとつだけだな？
+じゃあルピーだ！",Only one? That'll be  rupees!
+46,Failed00,"おい…あんたは大丈夫だったか？
+俺は一度死んだわ…","You... Are you OK? I just about died
+of fright out there."
+47,Failed01,怖くて泣きそうだったぜまったくよ！,I'm so scared I could cry! Goodness!
+48,GoodBye00,さすらいの料理人！覚えておいてくれよな！,"I'm the traveling chef! And don't you
+forget it!"
+49,Guardian00,アレが来やがった！走るぞ！,It's after us! Ruuuun!
+50,MSG_Ichika_00,"さすらいの料理人 マッツをお探しで？
+だったら俺だ よく見つけたなハッハッハ
+俺は今ミナッカレ馬宿からイチカラ村まで
+食材を探して旅をしているんだ","Are you looking for the traveling chef
+called Stamm? It's your lucky day!
+He is me! Ha ha ha!
+I'm currently looking for the ultimate
+ingredients from South Akkala Stable
+to Tarrey Town."
+51,MSG_Ichika_00_1,"ミナッカレ馬宿からイチカラ村を往復して
+究極の食材を探してるんだ","I'm looking for the ultimate ingredients
+from South Akkala Stable to Tarrey Town."
+52,MSG_Ichika_01,"誰が呼んだか さすらいの料理人…
+ああ俺が自分で呼んだのかハッハッハ
+料理ってのは組み合わせを考えるのが
+楽しいし有意義なんだな
+例えば手足の疲れを回復させたいときは
+ガンバリバチのハチミツと リンゴ…とかな","When people call for the traveling chef,
+Stamm appears!! Whoopsie, did I just
+call for myself? Ha ha ha!
+What I'm trying to do is create a dish
+that anyone would desperately crave
+whether they know it or not.
+For example, if they're feeling sluggish,
+courser bee honey and an apple are just
+the ticket."
+53,MSG_Ichika_01_1,"例えば手足の疲れを回復させたいときは
+ガンバリバチのハチミツと リンゴだよ","If you're feeling sluggish,
+courser bee honey and an
+apple are just the ticket."
+54,MSG_Ichika_02,"俺は さすらいの料理人 マッツだ
+
+肉料理は体力回復の効果が大きい
+魚料理は特殊能力が最初からついている
+それぞれの利点を生かして
+いまの自分の体がほしがる料理を作ることだ","I'm the traveling chef, Stamm!
+
+
+Meat dishes give you loads of energy!
+And fish dishes are just plain special!
+
+Take advantage of each ingredient when 
+cooking so you can make what your body
+needs most!"
+55,MSG_Ichika_02_1,"肉料理は体力回復！魚料理は特殊能力！
+覚えておくといいぞ","Meat dishes are a great pick-me-up! 
+Fish dishes are yummy and special!
+These are good things to keep in mind!"
+56,MSG_Ichika_03,"あんたは冒険家だな？
+だとしたら栄養補給は重要だな
+秘境に食材の店はないだろうし
+専任の料理人が同行してるわけでもない
+俺があんたの親だったら
+あんたの食生活が心配になるだろうな","You're an adventurer, aren't you?
+Well then! You need to stock up
+on some healthy foods! 
+Think about it—when you're in the
+middle of nowhere, there aren't a lot of
+shops selling quality ingredients.
+I'm willing to guess you don't have
+cooks that follow you around making you
+tasty treats. Nail on the head, hm?"
+57,MSG_Ichika_03_1,"俺があんたの親だったら食生活が心配になるが
+顔色を見れば だいたいわかるぞ
+あんたは まあまあうまくやっている
+だけど もっとうまくやれるはずだな","If you were my kid, I'd worry endlessly
+about your health. Oh, but one glance at
+your face tells me how you're doing...
+You're so-so right now. But you can
+do better! Ha ha ha!"
+58,MSG_Ichika_04,"俺は さすらいの料理人 マッツだ
+少し偉そうだが実際少し偉いのでしかたない
+よく空腹が一番のスパイスだなんて言うが
+だったら俺たち料理人はハラペコには敵わない
+なにくそ！と俺なんかは思うね","I'm the traveling chef, Stamm! I may
+sound a tad arrogant, but I'm very
+important, so what can be done?
+They say that hunger is the best sauce...
+or is it love? I forget.
+
+But that means us cooks will never be
+better than a starving chef or a fool
+in love. I think that's bogus!"
+59,MSG_Ichika_04_1,"空腹が一番のスパイスだとか
+料理は愛情などと言うが…
+それでも マッツさんの料理には敵わないと
+言わせるまで料理人としてがんばるつもりさ！","They say that hunger is the best sauce...
+or it might have been love, I dunno.
+
+Regardless, I intend to make people say
+nothing can compete with Stamm's food!
+I won't stop until I succeed!"
+60,Near00,キノコは香りに…,Mushrooms for aroma...
+61,Near01,肉は力に…,Meat for power...
+62,Near02,魚は健康に…,Fish for nutrition...
+63,Near03,果実は食後に…,Fruit for dessert...
+64,Near04,濡れたくないなあ…,I don't wanna get wet...
+65,Rest_00,"究極の料理を作るための食材を求めて
+ミナッカレ馬宿とイチカラ村を往復しているよ
+声をかけてくれれば販売もするからね！","To make the ultimate dish, I'm looking for
+the best ingredients. 
+
+That's why I go back and forth between 
+South Akkala Stable and Tarrey Town!
+I sell stuff too, so hit me up anytime!"
+66,Rest_01,"雨は緑を育み緑は動物を育む
+俺の料理は人を育み食べた人の代金が俺を育む
+そういうことだな ハッハッハ！","The rain helps grow lots of green plants!
+Green plants help animals, and all of
+that helps me too!
+My dishes help people, and the money
+I get from selling them helps me more!
+It's a beautiful world, ha ha ha!"
+67,Rest_02,"食材を雨に濡らしたくないなあ…
+しばらくここで雨宿りするか","I don't want to get my ingredients wet...
+Maybe I'll just stay here until the rain 
+clears up!"
+68,RetMSG_Ichika_00,"俺は さすらいの料理人 マッツだ
+
+ちなみに この世界では
+虫を使ったものは料理ではなく薬になる
+料理人と虫は あまり縁がないんだな
+虫嫌いの俺には いいことだハッハッハ","I'm the traveling chef, Stamm! I believe
+everything is an ingredient waiting
+to happen.
+However, in reality, it's not always that
+simple. If I tried to stew a leather shoe
+and serve it, I bet it wouldn't go well.
+Even so, I'm not giving up! "
+69,RetMSG_Ichika_00_1,"この世界では
+虫を使ったものは料理ではなく薬になる
+料理人と虫は あまり縁がないんだな
+虫嫌いの俺には いいことだ","When you use bugs and monster parts
+to cook, what you end up with are elixirs.
+
+Chefs don't usually deal with bugs.
+That's perfect for someone like me
+who's terrified of them!"
+70,RetMSG_Ichika_01,"この街道の南には
+アッカレ湖が広がっていてね実にすばらしい！
+いやいや景色の話じゃなくて
+湖で泳いでいる食材たちの話さ
+だって景色は食えないだろ？ハッハッハ","Just south of this road, you'll find
+Lake Akkala! It's great! Oh, whoa.
+I'm not talking about the view.
+I'm talking about the ingredients that are
+swimming in the lake. I mean, come on.
+You can't eat a view, right? Ha ha ha!"
+71,RetMSG_Ichika_01_1,"アッカレ湖には よい食材が
+おいしそうに泳いでいるんだ
+食材が生えてたり落ちてたり飛んでたり…
+俺にとっては市場みたいな土地だよ ここは","Lake Akkala has great ingredients just
+swimming around in all their glory
+and deliciousness!
+There are also ingredients that grow
+there, and those that have fallen there,
+and those that fly around there...
+To me, the world is a giant market!"
+72,RetMSG_Ichika_02,"俺は さすらいの料理人だけど
+たまには サボりたいと思うこともあるわけで
+東のアッカレ湖でゆっくり仮眠でも…
+
+なんて思ったけど腹を減らした俺の客が
+ミナッカレ馬宿で待ってるんだったハッハッハ","I'm the traveling chef, but...
+I'm not always traveling.
+
+There are times when I need to take a
+break from life on the road.
+
+Taking a nap at Lake Akkala to the east
+sounds nice...but I have customers
+waiting at South Akkala Stable! Ha ha ha!"
+73,RetMSG_Ichika_02_1,"今日の俺は東はアッカレ湖から
+西はミナッカレ馬宿まで！
+そう さすらいの料理人なんだぜ！","Today I go from Lake Akkala to the east
+to South Akkala Stable, to the west!
+Such is the life of a traveling chef!"
+74,RetMSG_Ichika_03,"俺は さすらいの料理人 マッツだ
+
+料理ってのは味を楽しむだけじゃなくて
+体力や精神力の回復はもちろんのこと…
+耐暑耐寒耐電耐火に なんと静粛性まで！
+
+料理があるから旅を続けられるってわけだ","I can't seem to make the dishes I picture
+in my head... Blah, what happened to
+my inspiration?!
+At times like this, I always say...
+nothing beats eating a delicious meal!
+
+It not only heals your heart and soul,
+it can also make you heat, cold, shock,
+or fire resistant! Or even stealthier!
+Dishes are the best! Thanks to cooking,
+I can move forward in life! I'm so glad I
+became a cook in this crazy world. Ha!"
+75,RetMSG_Ichika_03_1,"悩んだときは とにかく食べる！
+腹減ったときも とにかく食べる！
+体力や精神力の回復はもちろんのこと
+耐暑耐寒耐電耐火… なんと静粛性まで！
+いやあ この世界の料理ってすごいもんだな！","When you don't know what to do,
+just eat! Oh, and also eat when you're
+hungry. That's important too.
+It not only heals your heart and soul,
+it can also make you heat, cold, shock,
+or fire resistant!
+Wow, the dishes that exist in this world
+are really amazing!"
+76,RetMSG_Ichika_04,"俺は さすらいの料理人 マッツだぜ
+
+アッカレ湖の北を通ってミナッカレ馬宿まで
+今はもっぱら食材探しの旅をしてる","I'm the traveling chef, Stamm!
+
+
+I'm hunting for ingredients from north of
+Lake Akkala to the South Akkala Stable!"
+77,RetMSG_Ichika_04_1,"アッカレ湖の北からミナッカレ馬宿まで
+最高の食材を求めて往復してるんだ","I'm selling the ingredients I find when
+I go back and forth from north of
+Lake Akkala to South Akkala Stable!
+They're all top quality ingredients!
+Naturally!"
+78,SavedLv1_00,"いやー""助かったよ！",Wow! Thanks for the help!
+79,SavedLv1_01,助けてくれてありがとう！,Thanks for helping me!
+80,SavedLv2_00,"いやー""助かったぜ！
+ほんとにありがとう！","Wow! Thanks for the help!
+Really, thanks so much!"
+81,SavedLv2_01,"魔物は恐ろしいな！
+助けてくれて ありがとう！","Monsters are too scary! Thank you for
+helping me!"
+82,SavedLv3_00,なんとか命だけはつながった！,I barely made it out alive!
+83,SavedLv3_01,"魔物のやつ俺の食材を狙ってやがった…
+あんたのおかげで俺も食材も助かったぜ！","How dare those nasty monsters come
+after my ingredients! Thanks to you,
+my livelihood is safe!"
+84,Talk01,"ところで俺の集めた食材を見ていきなよ
+どれも新鮮だぜ！","Hey now! Why not take a quick look
+at the ingredients I've gathered, eh?
+They're all fresh!"
+85,Talk02,他に何かあるか？,Do you need anything else?
+86,Thanks00,お礼のしるしだ遠慮はいらない,"Consider this a thank-you. Go on,
+no need to be modest!"

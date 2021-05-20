@@ -1,0 +1,15 @@
+#,Title,JPja,USen
+1,"""0000""",このデータは削除できません,Cannot delete data.
+2,"""0001""",削除する,Delete
+3,"""0002""",キャンセル,Cancel
+4,"""0003""",未対応,No Target
+5,"""0004""",これを探す,Target with Sensor
+6,"""0015""",ワープする,Travel
+7,"""0016""",今はワープできません,You can't travel from here.
+8,"""0017""",スタンプ変更,Edit stamp
+9,"""0018""",スタンプを削除,Delete stamp
+10,"""0019""",スタンプに変更,Change to stamp
+11,"""0020""",ピンを削除,Delete pin
+12,"""0021""",脱出する,Leave This Area
+13,"""0022""",今は脱出できません,You can't leave right now.
+14,"""0023""",冒険手帳をひらく,Open Adventure Log

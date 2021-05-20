@@ -1,0 +1,220 @@
+#,Title,JPja,USen
+1,"""0000""",はい,"Yes, please!"
+2,"""0001""",うーん…,Hmm...
+3,"""0002""",ルビーの頭飾り,Ruby?
+4,"""0003""",サファイアの頭飾り,Sapphire?
+5,"""0004""",トパーズの耳飾り,Topaz?
+6,"""0006""",アクセサリー？,Accessories?
+7,"""0007""",さよなら,Good-bye.
+8,"""0008""",火打ち石をあげる,Here's some flint.
+9,"""0009""",どうしたの？,What's the matter?
+10,"""0010""",さよなら,Good-bye.
+11,Near,何とかしないと…,I have to do something...
+12,Talk_01,なんて挨拶してる余裕なんてないのよ…,"Great! You got the last of my free time
+with that greeting."
+13,Talk_02,"サークサーク！
+
+でも いいのかしら…見ず知らずのヴァーイに
+こんなに親切にしてもらっちゃって…
+お礼をしたいんだけど…
+ずっと店も閉めてたから今手持ちがなくて…
+そうだ！
+
+火打ち石も手に入ったことだし
+お礼にアクセサリーを どれか1つ如何かしら？","Sarqso!
+
+
+But...I can't take this all from you with
+just a sarqso. We hardly know each
+other, and you've been so nice...
+The shop's been closed so long,
+I hardly have any inventory...
+
+Oh, of course! Now that I have some
+flint, I could make a jeweled accessory
+for you if you're interested in something."
+14,Talk_03,"あら… お気に召さなかったかしら？
+
+でもお礼しないと私の気持ちがおさまらないし
+1つ選んでもらえないかしら？","I'm sorry that these are all I have to offer
+to show my appreciation...
+
+But really...I need to give you something
+to feel OK about accepting your help.
+Could you please pick one?"
+15,Talk_06,"アラ貴女…
+
+何度も来てもらって悪いけど…
+
+火打ち石がないことには
+アクセサリーが作れなくて お店は開店休業なの
+どこかに火打ち石10個譲ってくれる
+親切なヴァーイがいれば別だけど…","Oh, you...
+
+
+I'm sorry you keep coming here for
+nothing...
+
+Without flint, I can't process jewels, so
+I can't sell anything in my shop.
+
+It'd be a different story if a kind,
+generous vai were to give me 10 pieces
+of flint, though..."
+16,Talk_08,"ウチはルビーやサファイアなんかを使って 
+アクセサリーを作ってるの
+宝石にはそれぞれ力が宿っててね
+身に着けるとその加護を受けられるの","I use rubies, sapphires, and other gems
+to make accessories. 
+
+Each gem type has its own power that it
+can transfer to whoever wears it."
+17,Talk_09,"わざわざ来てもらったのに
+ごめんなさいね","I'm sorry that you came all the way
+to see me for nothing."
+18,Talk_10,"貴女のために作った新作よ！
+いいのができたんじゃないかしら！","Brand-new, especially for you!
+I think it turned out really well!"
+19,Talk_11,"貴女のおかげで
+お店も再開できたし
+アクセサリーが欲しいならいつでもいらっしゃい
+貴女ならいつでも特別価格だから
+他のお客さんにはナイショ…ね","Thanks to you, I got the shop running
+again, so if you ever need an accessory,
+please come by for a special discount.
+Just...don't tell my other customers, OK?"
+20,Talk_12,"ふふっ これを選ぶって思ってたわ
+じゃあ ちょっと待ってて下さるかしら？","Teehee, I thought you might pick that
+one. Please give me a moment..."
+21,Talk_13,"ふふっ思った通り
+私もこれが貴女に一番似合うかなって思ってたわ
+でも今はポーチに空きがないみたいね…
+荷物を整理してから また来てくれるかしら？","Teehee, I thought you might pick that
+one. Just give—
+
+Hang on. It doesn't seem like you've got
+room for this right now. Perhaps you can
+make some room and come back?"
+22,Talk_14,"早く お礼をさせてもらいたいんだけど…
+
+好きなアクセサリーは決まったかしら？","I'd like to give you something as thanks.
+
+
+Have you decided on an accessory
+you'd like?"
+23,Talk_15,"でも火打ち石がないことには
+何もできなくって…","There's nothing I can do about not
+having any flint, though..."
+24,Talk_16,"何度も来てもらって悪いけど…
+
+火打ち石がないことには
+アクセサリーも作れないし店は開店休業なの
+はぁ… どこかに火打ち石10個譲ってくれる
+親切なヴァーイとかいないかしら…","Sorry you keep coming here with nothing
+to show for the trip...
+
+Without flint, I can't make any
+accessories, so the shop is closed
+for now.
+It would be a different story if a kind,
+generous vai were to give me 10 pieces
+of flint, though..."
+25,Talk_17,えっ…,Uh...
+26,Talk_18,"えっ？？
+
+これ…譲ってくれるの？",What?! You're just...giving these to me?
+27,Talk_19,"ルビーにはね寒さをしのげる耐寒効果があるの
+ルビーの頭飾りがお好みかしら？","Rubies have the power to grant cold
+resistance. So you'd like a ruby circlet?"
+28,Talk_20,"サファイアには暑さをしのげる耐暑効果があるの
+サファイアの頭飾りがお好みかしら？","Sapphires have the power to grant heat
+resistance. So you think you'd like a
+sapphire circlet?"
+29,Talk_21,"トパーズには感電を防ぐ耐電効果があるの
+トパーズの耳飾りがお好みかしら？","Topaz has the power to grant electric
+resistance. So you think you'd like
+topaz earrings?"
+30,Talk_23,"私は ハンドメイドでアクセサリーを作るお店を
+経営してるんだけど
+アクセサリーの加工に必要な
+火打ち石を切らしちゃってて…
+10個…そう10個あれば
+何とかなるんだけど…
+火打ち石10個譲ってくれる
+親切なヴァーイが現れてくれたら
+たんまり お礼を弾むんだけどね…
+
+まぁ""世の中そんなにうまくは
+行かないわよね","I manage a shop that specializes in
+handmade accessories, but I've run out
+of flint. I need it to make my items.
+If only I had 10... Just 10... If some kind
+vai would give me 10 pieces of flint, 
+I could offer a nice reward...
+I can dream all I want, though... Nothing
+goes that smoothly in the real world."
+31,Talk_24,"貴女 ハイリア人でしょ？
+わざわざ来てもらったのに ごめんなさいね
+ウチの店はしばらく休業よ","You're a Hylian, right? Listen, I'm sorry
+you came all this way, but my shop is
+gonna have to close for a bit."
+32,Talk_25,"ん～
+気持ちは嬉しいんだけどね…
+火打ち石は10個そろってないと
+意味がないの…","Hmm. Well, I do appreciate the gesture...
+
+
+But unless I have 10 pieces of flint to
+get started with, there's no point..."
+33,Talk_26,"なんて挨拶してる余裕なんてないのよ…
+
+神獣が大人しくなって
+これから お客さんが増えるって時に
+こんなことになるなんて…","I haven't really got the time to be
+greeting people, honestly...
+
+Now that the Divine Beast has finally
+calmed down, there should be a rush of
+customers any second...
+So why did something like this have to
+happen to me now, of all times?"
+34,Talk_27,ほんとに…困ったもんだわ,"I'm in a bit of a jam, really..."
+35,Talk_28,"はぁ…
+どうしたもんかしら…","Hahh... Oooh, what to do, what to do..."
+36,Talk_29,"ごめんなさいね…
+
+何度来てもらっても
+今は何にもできないのよ…","Vasaaq...
+
+
+Not that I have any reason to be
+greeting people..."
+37,Talk_30,"ごめんなさい…
+
+まだ火打ち石が手に入らなくて
+何もできないのよ…
+はぁ… どこかに火打ち石10個譲ってくれる
+親切なヴァーイとかいないかしらね…","I'm sorry... I still haven't gotten my
+hands on any flint. I can't really make
+anything without it.
+Hah... I wonder if a kind, generous
+vai would give me 10 pieces of flint..."
+38,Talk_31,"ごめんなさい…
+まだ火打ち石が手に入らなくて
+アクセサリー作りどころじゃないのよ…
+
+はぁ… どこかに火打ち石10個譲ってくれる
+親切なヴァーイとかいないかしらね…","I'm sorry... I haven't been able to get any
+flint yet, so I'm not in a position to make
+any accessories right now...
+Hmm, I wonder if I'd be able to work if
+a kind, generous vai were to give me 10
+pieces of flint, though..."
+39,Talk_32,"でも火打ち石がないことには
+何もできなくって…",I can't do anything without some flint...
+40,Talk_33,サヴォッタ…,Sav'otta...
+41,Talk_34,サヴァーク…,Sav'aaq...
+42,Talk_35,サヴァサーバ…,Sav'saaba...
+43,Talk_36,サヴォッタ！,Sav'otta!
+44,Talk_37,サヴァーク！,Sav'aaq!
+45,Talk_38,サヴァサーバ！,Sav'saaba!

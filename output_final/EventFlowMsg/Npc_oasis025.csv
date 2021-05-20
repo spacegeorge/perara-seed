@@ -1,0 +1,175 @@
+#,Title,JPja,USen
+1,"""0000""",入ります！,I'd love to!
+2,"""0001""",遠慮します,I'll pass.
+3,Raimei_CK_001,"サヴォーテン！
+それは雷鳴の兜ではないか！
+それを被ることを許されるなど
+王族以外ではありえんことだ…
+確かにお前がいなければ
+今の平穏はなかったかもしれんが…
+お前は本当は何者だ…？
+
+ふふっ しかし理由はどうであれ
+それを手にしたということは
+お前は我らゲルドの仲間！
+
+いつでも我が隊に入隊できるよう
+お前の席をあけて待っているからな！","Sa'oten! That's the Thunder Helm,
+isn't it?!
+
+It's absolutely unheard of for anyone
+other than a member of the chief's family
+to wear it...
+If it's true that your help was critical in
+bringing peace back to the desert...
+
+Just who are you, anyway?
+
+
+Oh, it doesn't matter what your reasons
+are. That you have that helmet clearly
+shows you are a friend to the Gerudo!
+I'll keep a spot open with my troops for
+you, so you can join us anytime!"
+4,Talk_02,"なんだ貴様は！
+ここは族長様にお仕えする兵士達の詰所
+特に今は賊のせいで
+いつも以上に警戒状態にある
+一般人が観光気分で
+入ってきていいところではないぞ！","What are you doing in here?! This is the
+barracks for the chief's guards, not a
+place for tourists to gather.
+We're on high alert after the recent
+theft, so you should clear out."
+5,Talk_04,サヴァサーバ！,Sav'saaba!
+6,Talk_05,サヴァーク！,Sav'aaq!
+7,Talk_06,サヴォッタ！,Sav'otta!
+8,Talk_07,"また貴様か！
+
+兵士達は賊のせいで ピリピリしてるんだ！
+頼むから これ以上厄介事を増やさないでくれ","You again?! The guards are already 
+tense, thanks to those thieves. Please 
+don't make it worse for them!"
+9,Talk_08,"また貴様か！
+何度言ったらわかるんだ！","You again?! How many times do I have
+to tell you before you get it?!
+Get. Out. Of. Here!"
+10,Talk_09,"なんだと？ ビューラ様が？
+
+それはすまなかった！
+私はここの兵士達を束ねている隊長のチークだ
+先日 イーガ団という賊に我が国の神器が奪われ
+みな ピリピリしていてな…
+賊のアジトがカルサー谷に
+あることは つきとめたのだが…
+兵士達も疲れ切っていて
+ちょうど人手がないか探していたのだ","What? Buliara sent you?
+
+
+My apologies! I'm the officer in charge
+of the soldiers, Captain Teake.
+
+The chief's heirloom was stolen by
+thieves belonging to the Yiga Clan
+the other day, so everyone is on edge...
+We've determined that the Yiga's hideout
+is in Karusa Valley, but...
+
+The soldiers are all exhausted, so
+I was just thinking about requesting
+some extra help..."
+11,Talk_10,"本当は我々だけの力で
+やるべきことなのだが
+兵士達も疲れ切っていてな…
+
+カルサー谷に イーガ団のアジトがあるとは
+わかっていても なかなか踏み込めないんだ…
+手伝ってくれると言うなら協力は惜しまぬ
+兵士達からも話を聞くといい","This should be something we take care of
+on our own, but the soldiers are just
+so exhausted...
+We know the Yiga Clan hideout is in
+Karusa Valley, but we can't find a way
+to get in...
+Your help in this matter is more than
+welcome. Please talk with the other
+soldiers if you have time."
+12,Talk_11,"ビューラ様から聞いたぞ！
+よくぞ我が国の神器を取り戻してくれた！
+これで族長様も
+少しは安堵されよう…
+残るは あの神獣のみか…
+
+本当の意味での安堵は
+まだ先になりそうだが
+ともかく今回の一件
+心から感謝していること忘れないでくれ","I heard all about it from Buliara! You've
+done well to bring our chief's heirloom
+back to us!
+Now the chief should finally be able to
+relax a little...
+
+All that's left is that Divine Beast...
+
+
+In any case, I thank you from the bottom
+of my heart for your help in this case.
+I won't forget it."
+13,Talk_12,"勇敢なハイリアのヴァーイよ！
+
+お前であればすぐに隊長クラスだぞ！
+よかったら我が隊に入らないか？","Oh, brave Hylian vai! Will you consider
+joining our forces?"
+14,Talk_13,"はっはっは… それは心強い！
+
+しかし族長様から聞いているぞ
+お前には大事な使命があるのだろう？
+それが終わった時…
+その時…我々は喜んでお前を迎えよう！","Ha ha ha! That's reassuring to hear!
+
+
+However, I already spoke with the chief
+about you... You're on a very important
+mission, aren't you?
+Once you've finished that task, we'd
+gladly accept you alongside us!"
+15,Talk_14,"そうか…残念だ…
+
+しかし族長様から聞いているぞ
+お前には大事な使命があるのだろう？
+終わったらまた顔を見せにきてくれ
+我々はいつでもお前を迎えるぞ！","Oh, really? I'm sorry to hear that...
+
+
+It makes sense, though. I already spoke
+with the chief about you... You're on a
+very important mission, aren't you?
+Maybe once that has been handled,
+you'll reconsider your answer..."
+16,Talk_16,"我らゲルド族が戦いにおいて
+ハイリア人に学ぶことがあるとはな
+どうだ その腕を
+我が隊で活かしてみないか？","To think that the Gerudo would be able
+to learn something of combat from a
+Hylian...
+Will you consider joining our forces?"
+17,Talk_17,"みんな聞いてくれ！
+
+このハイリアのヴァーイが
+我々に協力してくれることになった!
+しっかりサポートしてやってくれ！","Hey, everyone! Listen up!
+
+
+This Hylian vai has agreed to help us,
+so offer her any information you can!"
+18,Talk_18,"これで今日からお前も
+我々の仲間も同然だ！
+わからないことがあれば
+兵士達から話を聞くといい","Consider yourself a part of our unit!
+If you have any questions, my troops
+will be happy to help."
+19,TerrorArrow,それをどうする気だ？,You can't be serious...
+20,TerrorBomb,なんだ それは？！,What the heck?!
+21,TerrorExplosion,なんだ？賊か？！,What? A trespasser?!
+22,TerrorFire,あつっ早く火を消せ,Hot! Put that fire out!
+23,TerrorSword,私に勝てるとでも？,Think you can beat me?

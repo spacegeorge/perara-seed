@@ -1,0 +1,185 @@
+#,Title,JPja,USen
+1,"""0000""",アクセサリーって？,Accessories?
+2,"""0001""",買い取って,I've got things to sell.
+3,"""0002""",さよなら,Good-bye.
+4,"""5500""",はい,Sure.
+5,"""5501""",いいえ,No.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5508""",ぜんぶ売る,I'll sell them all.
+8,Com_Talk_00,"ポーチの整理も
+ヴァーイのたしなみですものね","Any self-respecting vai would have her
+inventory well organized."
+9,Com_Talk_01,"でいいのかしら？
+それならルピーでいかが？","That's what you've decided on? I can
+give you  rupees."
+10,Com_Talk_02,"サークサーク！
+もう サヴォーク？",Sarqso! Is it already time to say sav'orq?
+11,Com_Talk_02b,美しいものでよかったわ,I'm glad it's such a beautiful item.
+12,Com_Talk_02c,サークサーク,Sarqso!
+13,Com_Talk_02d,"いい品じゃない
+サークサーク","What a great item.
+Sarqso."
+14,Com_Talk_04,"迷うしぐさも ヴォーイを射止める技の1つ
+貴女…心得てるわね","Oh, to waver on a decision... That is one
+such way to heighten anticipation."
+15,Com_Talk_05,"時には大胆に…
+それもヴァーイとして美しくあるための秘訣よ","To act boldly when the time is right...
+That truly makes a vai beautiful."
+16,Com_Talk_05b,"他にもまだある？
+美しいものなら嬉しいけど…","Care to sell anything else?
+Hopefully something of great beauty..."
+17,Com_Talk_05c,"不思議よね貴女にとっては不用品でも
+私にとっては嬉しい物だったりするんですもの","It's interesting how one vai's trash 
+is another vai's treasure."
+18,Com_Talk_05d,"美しいものなら
+もっと見せてもらいたいわね","If it's beautiful,
+please show it to me!"
+19,Com_Talk_13,"？
+おいくつかしら？",How many?
+20,Com_Talk_14,"を個なら…
+ルピーでどうかしら？","So , then?
+How does  rupees sound?"
+21,Com_Talk_15,"ごめんなさい…
+それは ちょっと… お断りしていいかしら","I'm sorry, but I have to decline buying
+that. I really am sorry..."
+22,Com_Talk_16,"ここで脱ぐのかしら？
+それは美しいヴァーイとは言えないわね…","You're going to undress here? Even for
+a vai as beautiful as yourself, there are
+some societal rules you should follow..."
+23,Com_Talk_33,"を1つだけね？
+それならルピーでいい？","Just one, right?
+In that case, how's  rupees
+sound to you?"
+24,Com_Talk_35,"を個全部ね？
+なら合わせてルピーでどうかしら？","All  of them? Then it'll be
+ rupees altogether, OK?"
+25,Com_Talk_60,"がお好みなのかしら？
+ルピーで貴女のものにできるわよ",That can be yours for  rupees. 
+26,Com_Talk_61,"ふふ ゆっくり選んでいってちょうだい
+ヴォーイも宝石も焦らずじっくり選ばないとね","Take your time choosing. You've gotta 
+take your time when selecting gems
+and voe."
+27,Talk001,"貴女のおかげで やっと普通の生活に戻れたわ
+色々ありがとう
+貴女はいつでも特別価格よ
+
+気に入ったアクセサリーがあったら
+遠慮なく手に取ってみてね","Thanks to your hard work, our lives are
+finally back to normal. Sarqso!
+
+To show my thanks, I'll offer you a
+special price. Just pick up any accessory
+you're interested in."
+28,Talk002,"店が再開して マッカラもアクセサリー作り
+張り切ってるわ
+ほんとにサークサーク","Ever since reopening the shop, Cara
+has been enthusiastic about making
+accessories, too!
+I'm incredibly grateful! Sarqso!"
+29,Talk006,ふふっ サークサーク,"Heehee, sarqso."
+30,Talk007,"宝石にはそれぞれ力が宿っててね
+身に着けるとその加護が受けられるの
+たとえば…ルビーなら耐寒の力
+サファイアなら耐暑の力… とかね
+私はその力を利用して
+サークレットやイヤリングを作ってるの
+ただ材料の入手が難しくて…
+
+だからウチは材料と交換して作るスタイルに
+させていただいてるの","You see, each gem contains its own
+special power. Wearing one will grant you
+a form of protection.
+For example, sapphires offer resistance
+to intense heat, and rubies have the
+power to resist chilling temperatures.
+I'm able to craft circlets or earrings that
+channel these powers to protect the
+wearer.
+Sadly, the materials to make such items
+are difficult to get ahold of... That's why
+you have to bring me the materials."
+31,Talk008,"手間はかかるけど
+それ以上に満足していただけるはずよ
+それに うちのアクセサリーは
+ユニセックスだから
+ヴォーイへのプレゼントとしても
+喜ばれてるのよ","It'll take some time, but there's nothing
+that'll satisfy you more than that.
+
+Oh, and don't forget that voe and vai
+alike can enjoy these. They're great gifts
+if you want to impress someone, hehe."
+32,Talk009,"またどうぞ
+何事も売り時を逃さないようにね","Come again!
+Don't ever pass up a chance to sell
+something!"
+33,Talk012,"火打ち石も十分あるし
+今日からは休まず営業するわよ
+アクセサリーが欲しいなら
+商品を直接選んでくれるかしら？","I have enough flint now, so I can work
+every day! If you want any accessories,
+could you pick them yourself?"
+34,Talk013,"美しいものを身に着けると
+ヴァーイはより輝く…
+貴女を輝かせるアクセサリーに出会ったら
+教えてくれるかしら？","When a vai wears something beautiful,
+it makes her absolutely sparkle.
+
+Can you let me know if you see
+an accessory that makes you
+sparkle?"
+35,Talk014,"宝石とヴァーイは惹かれあう…
+
+貴女がコレだと思ったものが
+運命のアクセサリーよ
+気になるのがあったら
+直接選んで教えてくれるかしら？","There is a certain special connection
+between a vai and fine jewelry.
+
+Whatever accessory you feel a tie to...
+That is your destined accessory.
+
+If there's anything that catches your eye,
+can you let me know?"
+36,Talk015,"貴女がいなかったら
+このお店どうなってたことか…
+本当に サークサーク","I don't know what would have happened 
+to my shop without you!
+I'm incredibly grateful! Sarqso!"
+37,Talk016,"ふふっ貴女に宝石のご加護が
+ありますように…","Heehee. May you have the protection of
+the gems."
+38,Talk017,"サークサーク！
+そのアクセサリー貴女のイメージにピッタリよ","Sarqso! That accessory really is your
+style!"
+39,Talk018,"サークサーク
+その宝石のご加護がありますように…","Sarqso. May you have the
+protection of that gem."
+40,Talk019,"神獣は大人しくなったけど
+お陰で街の中が騒がしくなっちゃったわね
+ふふっ私知ってるのよ…
+貴女が今回の神獣鎮圧に関わってるってこと…
+自分の手柄をひけらかさない
+その奥ゆかしさ…私も見習わなくっちゃね
+それで… ゲルドを救ったヒロインが
+私に何かご用かしら？","With the Divine Beast calmed, the town
+has really returned to its lively self.
+
+Oh, but don't think I don't know... You
+played a part in calming the Divine
+Beast...
+You're not the type to brag about your
+accomplishments, though. I can tell.
+I could learn a thing or two from you...
+Anyway... What does the heroine of
+Gerudo Town need from me today,
+I wonder?"
+41,Talk020,"私が貴女だったら
+ゲルドの街を救ったヒロインとして
+銅像ぐらい作ってもらうけどね…
+ふふっ もちろん宝石いっぱいちりばめてね","If I were you, I'd have had them put up a
+great big statue in honor of my saving
+Gerudo Town...
+Heheh, and it would be absolutely
+covered in jewels, of course."
+42,Talk021,ヴァーサーク,Vasaaq.

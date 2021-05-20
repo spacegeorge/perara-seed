@@ -1,0 +1,164 @@
+#,Title,JPja,USen
+1,"""0000""",最初のページへ,First page.
+2,"""0001""",最後のページへ,Last page.
+3,"""0002""",今は読まない,Don't read.
+4,"""0003""",次のページへ,Next page.
+5,"""0004""",前のページへ,Previous page.
+6,"""0005""",読むのを止める,Done.
+7,talk00,"「古の詩を求める旅の記録をここに残す」
+カッシーワ","\""I leave here a record of my search for
+the ancient songs of Hyrule.\""
+- Kass"
+8,talk01,"「樹海スグラントの古の詩」
+
+フィローネ地方の樹海スグラントには
+その土地に古くから伝わる詩があるようだ
+その詩の中には龍や大蛇も出てくるらしい
+果たして今でも龍や大蛇など いるのだろうか…","\""The ancient song of Pagos Woods.\""
+
+
+It seems that a song has been passed
+down through the ages in the
+Pagos Woods area of Faron.
+The song references mythical creatures
+such as dragons and giant serpents.
+
+I wonder if such creatures ever really
+existed. Or perhaps they still exist today!"
+9,talk02,"「西ハイラル平原の古の詩」
+
+西ハイラル平原の南側にあるジェド橋
+その近くには輪の形をした無数の岩がある
+その岩にまつわる古の詩があるらしい
+いったい どのような詩だろうか…？","\""The ancient song of the
+West Hyrule Plains.\""
+
+On the south side of the
+West Hyrule Plains, there is a bridge
+called Jeddo Bridge.
+Near this bridge, there are a number of
+circular rocks with holes in their centers.
+
+Peculiarly enough, these rocks are
+apparently mentioned in an ancient song
+from the area.
+It sounds rather odd, but I hope to find
+out more about this ancient rock song."
+10,talk03,"「アラブー平野の古の詩」
+
+ラネール地方の南アラブー平野には
+獣にまつわる古の詩があるそうだ
+アラブー平野はカカリコ村の北東にある
+村で休憩してから調べに行くことにしよう","\""The ancient song of Rabia Plain.\""
+
+
+Apparently Rabia Plain in the northern
+part of Hateno is home to an ancient
+song about beasts.
+Rabia Plain is northeast of
+Kakariko Village. I'll likely stop by the
+village during my search for the song."
+11,talk04,"「ゲルドの塔の古の詩」
+
+ゲルドの塔という塔に関わる
+古の詩が あることがわかった
+ゲルドの塔 がどこにあるのか分からなかったが
+つい最近世界各地に謎の塔が出現した
+おそらく ゲルド地方に出現した塔が
+ゲルドの塔だと思われる","\""The ancient song of Gerudo Tower.\""
+
+
+I've heard word there is an ancient
+song about a tall structure called
+Gerudo Tower.
+I don't know where this Gerudo Tower is,
+but mysterious towers have popped up
+all around Hyrule recently.
+This Gerudo Tower may be the tower that
+appeared in the Gerudo region."
+12,talk05,"「コーラル湖の古の詩」
+
+フィローネ地方のコーラル湖にある巨岩に
+古の詩の言い伝えが あるようだ
+あの辺りは激しい雷雨になることが多いらしい
+調べに行くときには万全の準備をしなければ…","\""The ancient song of Calora Lake.\""
+
+
+Apparently there is an ancient song
+about the giant boulder in Calora Lake
+in the Faron region.
+I hear that area is prone to violent
+thunderstorms. I'll need to prepare
+before I go searching for the song."
+13,talk06,"「ホロン湾の古の詩」
+
+ラネール地方のホロン湾には
+風にまつわる古の詩があるそうだ
+ホロン湾では常に強い風が吹いているという
+行く際には十分注意しなくては…","\""The ancient song of Horon Lagoon.\""
+
+
+I hear there is an ancient song about a
+place in Lanayru called Horon Lagoon.
+
+The winds in Horon Lagoon are
+supposed to be very intense. I may need
+to travel the area on foot."
+14,talk07,"「キタノ湾の古の詩」
+
+キタノ湾の沖に不思議な形をした岩の柱があり
+そこにまつわる古の詩があるらしい
+何でも古の勇者が いずれまた復活するであろう
+厄災に備え蓄えを隠したそうだ
+古の勇者の蓄え…一体どのくらい
+巨万の富が隠されているのだろうか…？","\""The ancient song of Kitano Bay.\""
+
+
+It seems there is an ancient song about
+an oddly shaped stone pillar in the open
+water of Kitano Bay.
+It details something that was hidden
+there before the Great Calamity to be
+claimed by a lost hero.
+I'm not sure what's hidden there, but if
+it's meant for a lost hero, it must be
+worth a fortune!"
+15,talk08,"「ワシュアの丘の古の詩」
+
+そして このワシュアの丘にも
+赤い月の夜にまつわる古の詩がある
+いつ起こるか分からない赤い月の夜…
+あの短い夜の間に何かが起こるのだろうか…？","\""The ancient song of Washa's Bluff.\""
+
+
+I've heard whispers of an ancient song
+about the \""night of the red moon\""
+traditionally sung in Washa's Bluff.
+No one quite knows why the red moon
+rises. Or what happens in the span of
+that night."
+16,talk09,"これらが私が発見した
+古の詩のすべてである
+これらをすべて現世の勇者に伝えられる日が
+来ることを願いつつ旅を続けることにする","These are all of the ancient songs that I
+have discovered.
+
+I will continue my journey, hoping the
+day will come when I can pass them on
+to the Champion of Hyrule."
+17,talk10,"私が発見した古の詩… これらすべてを
+ついに現世の勇者に伝えることができた
+今は亡き師匠との約束を ようやく果たせた…
+きっと師匠も喜んでくださっているだろう
+家族たちには寂しい思いをさせてしまった…
+一度リトの村に帰ることにする","I have finally managed to pass all of the
+ancient songs on to the Champion of
+Hyrule.
+And I have finally fulfilled my promise to
+my late teacher.
+
+I imagine I've made my teacher very
+happy...wherever he is. But my family has
+been without me too long.
+My quest complete, I now return to
+Rito Village."

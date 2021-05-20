@@ -1,0 +1,406 @@
+#,Title,JPja,USen
+1,"""0000""",あちらの男性からです,A gift from that guy.
+2,"""0001""",なんでもありません,Who knows?
+3,"""0004""",しのび草あげる,If you say so...
+4,"""0005""",あげない,Get your own!
+5,"""0012""",そんなつもりじゃ…,No problem.
+6,"""0013""",ライバルですね,Nope. Rival time!
+7,"""0014""",まかせて！,Sure!
+8,"""0015""",断る,Ehhh...
+9,Boy00,"はは…空も泣いてるのかな…
+僕と同じですね…","Hah, I'm lucky it's crying...er...I mean,
+raining today..."
+10,Boy01,"彼女に気持ちを伝えられないなら
+このまま雷に打たれて果てても僕は本望です…","If there's no way to win her heart, I may
+as well stand here until the lightning
+strikes me down..."
+11,Boy02,"彼女に気持ちを
+伝えられないなら…
+せめて命尽きるまで
+あの美しい姿を目に焼き付けようと思います…","If there's no way for me to win her heart,
+then I hope to at least burn the memory
+of her beauty into my mind forever..."
+12,Boy04,ありがとうございます！！！,Thank you!
+13,Boy05,"そう・・・""ですよね・・・
+
+このしのび草が朽ちた時
+僕の恋も終わることでしょう…","...I suppose I can understand your
+hesitation.
+
+Though, I think that my blue nightshade
+will have dried out and died before I find
+the nerve to do this myself..."
+14,Boy06,"このしのび草は
+お返ししますね",I'll give you back this blue nightshade.
+15,Boy07,"あっ僕からのプレゼントってこと
+きちんと伝えてくださいね！","Oh! And don't forget to mention it's a
+present from ME!"
+16,Boy08,"僕の来世の分までの
+一生分のお願いですからね！
+しっかり僕の気持ち
+伝えてきてくださいね！","Remember—this is a request carrying all
+the weight of this life and the next. Tell
+her how I feel. Please!"
+17,Boy10,"ひぃぃ…
+ご ごめんなさい！！！
+も… もしかしてしのび草…
+お嫌い… でした？","Eeek, I'm sorry!!!
+
+
+Could...could it be that you don't
+like blue nightshade?"
+18,Boy11,"ひぃぃ…
+ち ちがいます！ ちがいます！！
+し""しのび草は
+自分が一番好きな花でありまして！
+運命の人と出会ったら その花を贈ろうと
+ずっと決めておりまして…","N-no...
+Th-that's not it!
+
+Blue nightshade just happens to be my
+favorite flower! Long ago, I decided to
+give my true love this flower..."
+19,Boy12,へっ？,What do you mean?
+20,Boy13,"ダ ダメだぞ！
+あの人は僕が先に見つけたんだからな！","H-hey! I'm trying to work up the courage
+to talk to her. Just... Let me, yeah?"
+21,Boy14,"そんな… お願いです！
+彼女はきっと僕の運命の女性なんです！
+このチャンスを逃したくないのです！
+お願いします！
+お礼は必ずしますので！","But... Please! I beg you! She's the girl
+of my dreams—I know it! I'll pay you
+back, just... Please!"
+22,Boy15,"や…やっぱりダメだ…
+諦められない！
+でもやっぱり…足がすくんで動けない…
+
+一生のお願いです！
+いや！来世の分まで含めます！
+お願いですからしのび草を
+彼女に渡してきて もらえないでしょうか？","I...I can't give up! But I also can't get
+my legs to move...
+
+I beg of you... Please fulfill my one wish
+in this life. It can be my wish in the next
+life too, if that helps!
+Just please...give the blue nightshade 
+to her for me!"
+23,Boy18,"僕は運命の人に出会った時は
+しのび草で告白すると決めているんです
+しのび草さえあれば
+今すぐにでも彼女の下に向うのに…
+それにしても彼女…
+
+しのび草のイメージに
+ピッタリだとおもいませんか？","I decided long ago that when I meet the
+girl of my dreams, I'll hand her a
+blue nightshade and confess my love!
+If I had a blue nightshade, I'd head
+straight over to that woman...
+
+I mean, imagine her and a 
+blue nightshade...
+
+That'd make a beautiful scene. Don't
+you think?"
+24,Boy23,"あっ そうなの？
+
+よかった～
+
+あっ僕はワビスケっていいます！
+
+実は僕…道に迷って
+途方に暮れていたんですが…","...Phew.
+
+
+I'm so glad! Oh, by the way, my name
+is Wabbin!
+
+To be honest, I lost my way earlier."
+25,Boy24,"ぐぬぬ…
+絶対負けんぞ！","Grrr...
+I won't let you stand in the way of my
+destiny!"
+26,Boy25,"ああ…やっぱりダメだ…
+彼女を見ると…足がすくんで動けない…
+も…申し訳ないですが…
+このお花彼女に渡してもらえないでしょうか？","Ah... I just... Ugh.
+When I look at her, my legs freeze up.
+My throat goes dry. I...I can't do it.
+Please, could you take my gift to her?"
+27,Boy26,"雷雨にも物怖じしない あの立ち姿…
+美しすぎますよね！","A little rain and lightning doesn't scare
+her at all. Just look at her standing
+over there... So beautiful!"
+28,Boy27,"雨が降ってることを忘れるぐらいの
+堂々とした あの立ち振る舞い…
+美しすぎますよね！","She stands there, completely unfazed
+by the rain falling around her...
+So splendid!"
+29,Boy28,僕は一日中彼女に目が釘付けなんです…,I can't tear my eyes away from her...
+30,Boy29,"彼女に話しかけたいのですが…
+今は女の子の喜ぶものも持ってないし…
+せめてしのび草でもあれば…","I want to talk to her, but I don't have
+anything worthy of being a gift. If only
+I had blue nightshade..."
+31,Boy30,"彼女に話しかけたいのですが…
+今は女の子の喜ぶものも持ってないし…
+せめてしのび草でもあれば…
+
+そうそう… こんな香りなんですよねぇ…
+
+こんな…
+
+って もしかして
+しのび草""持ってるんじゃないですか？
+お願いします！
+そのお花譲ってくれませんか！","I want to talk to her, but I don't have
+anything worthy of being a gift. If only
+I had blue nightshade...
+Ahh, the smell of it... I can almost
+imagine it right now. It's so clear, almost
+like...it's...
+Wait, do you have some blue nightshade
+on you right now?
+
+Please! You must give me that flower!
+It couldn't be more important!"
+32,Boy31,"しのび草を手に入れるためには
+ここを離れなければならない…
+しかし離れたら…
+
+彼女を見れなくなってしまう…
+
+ううっ…僕はどうしたら…","I'll need to leave this place if I want to
+find any blue nightshade...but if I go,
+she might leave too..."
+33,Boy32,"ありがとう！！！！
+
+これで彼女のハートを…","Thank you!!!
+This is so perfect! It's exactly what I
+needed!"
+34,Boy33,ズキューン！！！！,Ohh la la!
+35,Boy34,"ふと前を見たら こんなヘンピなところなのに
+すっごいキレイな女性がいて
+これはキツネにでも化かされているか…
+はたまた幽霊なのか…
+なんて事も思ったんですが
+
+彼女が何であろうと
+僕の理想の女性であることは変わらない
+だから意を決して告白することに決めたんです！","I closed my eyes for a minute, and when
+I opened them, the most beautiful woman
+I've ever seen was standing before me.
+At first I thought I was dreaming...or that
+she was a ghost or something.
+
+I mean, it's not every day you run into a
+gorgeous woman in the middle of
+nowhere...
+But figment of my imagination or not, it
+was love at first sight.
+
+And so I've decided to gather my
+courage and go confess my feelings to
+her!"
+36,Boy35,"えっ あっ ハイ！ ありがとうございます！
+もちろん お受けいたします！","Oh! Uh, sure! Asking so directly, how
+could I possibly say no?!"
+37,Boy36,"い… いまの聞きました？
+
+僕告白されちゃいました！
+
+生まれて初めて告白されたのが
+運命の人からなんて！
+感激すぎて…
+
+うう… 
+生まれてよかった…
+アナタには感謝してもしきれません…
+これ僕の気持ちです…","Oh, wow! Did you hear that?!
+She said she likes me, and she wants to
+go out!
+This is the first time anyone has ever said
+they like me, and for it to come from the
+woman of my dreams...
+This is such an amazing feeling...
+
+
+I'm so glad I was born into this world...
+
+
+There's no way I can truly thank you, but
+please take this as a token of my thanks."
+38,Boy37,"ひぃぃ～
+これで お許しを！","I... No, of course not!
+Here, this is what I meant to give you!"
+39,Lady01,"お前…
+私の運命のヴォーイか？
+……
+
+なわけないか…
+
+伝説のラブポンドってここ… だよな？
+
+池の向こう側に
+変なヴォーイがいるだけなんだが…
+ほんとにココであってるのか…","Are you...
+Could you be the voe I am destined to
+meet?
+No... No, I don't think so. But then...
+This IS the pond of legend, is it not?
+The one where a person finds true love?
+Yet all I see right now is that strange
+voe on the other side of the pond.
+Could I be at the wrong one?"
+40,Lady02,なんだ？,What's this?
+41,Lady03,"まぁ…あのヴォーイも
+そこまで悪くはないんだが…
+ヴァーイから声をかけるのは
+負けだと習ったからな
+そのぐらいの常識は心得ているつもりだ
+
+しかし こんなにかわいいヴァーイがいるのに
+声をかけてこないなど習ってないぞ！
+どうなってるんだ！","Well, that voe over there doesn't seem
+so bad, but...I was always told not to
+make the first move.
+But all he's doing is looking over here,
+then quickly looking away. Does he have
+no idea what to do next?"
+42,Lady05,この花を贈ってきたのは お前か？,"So you're the one who gave me
+the flowers!"
+43,Lady06,"嫌いなわけあるか！
+一番好きな花だ！
+お前 なぜそれを知っていた…
+もしや…賊のスパイか？","Why would you say that? This is my
+favorite kind of flower! How did you
+know that anyway? Are you a Yiga spy?!"
+44,Lady07,"運命…
+
+これが運命というヤツなのか…
+
+となると お前が運命のヴォーイなのだな？
+よし受けて立とうではないか
+では改めて言うがいい！","Your true love...
+So this is what they call destiny...
+
+You're the voe that destiny has chosen
+for me, then? All right! Go ahead and
+speak your piece!"
+45,Lady08,"ほぅ…
+
+この花を あのヴォーイが…","I see... So...you're delivering these
+flowers for that voe over there?"
+46,Lady09,"それで…
+あちらのヴォーイが何だというのだ？
+…お前ら
+
+私をからかってるのか！
+
+冷やかしで ヴォーイがヴァーイに
+声をかけることは重罪だぞ！
+声をかけるなら
+しっかり覚悟をもってこい！","So... What about that voe over there?
+
+
+You...
+
+
+Wait, are you guys mocking me? You
+know it isn't wise to upset a Gerudo...
+We're a strong and proud people."
+47,Lady10,"冷やかしで ヴォーイがヴァーイに
+声をかけることは重罪だぞ！
+声をかけるなら
+しっかり覚悟をもってこい！","Wait, are you guys mocking me? You
+know it isn't wise to upset a Gerudo...
+We're a strong and proud people."
+48,Lady11,……,...
+49,Lady16,サヴォッタ,Sav'otta.
+50,Lady17,サヴァーク,Sav'aaq.
+51,Lady18,"こんな雨の中出会えるとは…
+
+お前…
+私の運命のヴォーイか？
+……
+
+なわけないか…
+
+伝説のラブポンドってここ… だよな？
+
+池の向こう側に
+変なヴォーイがいるだけなんだが…
+ほんとにココであってるのか…","I didn't think I'd meet you during
+a downpour...
+
+Are you... Could you be the voe I am
+destined to meet?
+
+No... No, I don't think so. But then...
+This IS the pond of legend, is it not?
+The one where a person finds true love?
+Yet all I see right now is that strange
+voe on the other side of the pond.
+Could I be at the wrong one?"
+52,Lady19,"こんな雷雨の中出会えるとは…
+
+お前…
+私の運命のヴォーイか？
+……
+
+なわけないか…
+
+伝説のラブポンドってここ… だよな？
+
+池の向こう側に
+変なヴォーイがいるだけなんだが…
+ほんとにココであってるのか…","I didn't think I'd meet you in the middle
+of a thunderstorm...
+
+Are you... Could you be the voe I am
+destined to meet?
+
+No... No, I don't think so. But then...
+This IS the pond of legend, is it not?
+The one where a person finds true love?
+Yet all I see right now is that strange
+voe on the other side of the pond.
+Could I be at the wrong one?"
+53,Lady20,偽りは ないようだな…,I don't sense any deceit from you...
+54,Lady21,"へっ？
+
+ではない！
+ヴォーイからヴァーイに贈る アレだ！","No, that's not right at all!
+
+
+I'm talking about what a voe says
+to a vai!"
+55,Lady22,"「好きです」とか「付き合ってください」とか
+そういうやつだ！","You know, something like, \""I like you,\"" or,
+\""Please, go out with me!\"""
+56,Lady23,な…,Wh...
+57,Lady24,"何だ その金額は！
+
+私への気持ちが
+そんな はした金だと？","What? That's it?!
+
+
+That's all you're willing to offer him for
+everything he's done for you?!"
+58,Lady25,まぁ いいだろう,Much better.
+59,Lady26,"おい お前！
+
+…お前には
+まぁ…世話になったな！
+お前にも私のような良いヴァーイが
+見つかることを祈っているぞ","Hey, you!
+
+
+I guess I owe you too... I hope you have
+as much luck finding someone as I did...
+thanks to you!"
+60,Lady27,サヴァサーバ,Sav'saaba.
+61,Near_01,ズキューン！,Ohh la la!
+62,Near_04,本当にここなのか…？,Am I in the right place?

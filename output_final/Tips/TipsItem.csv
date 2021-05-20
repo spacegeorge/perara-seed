@@ -1,0 +1,88 @@
+#,Title,JPja,USen
+1,Armor_00,防具をそろえる同じ種類の帽子・服・ズボンを装備すると特別な効果が得られる物もある。,"Armor SetsWearing the top, bottom, and headwear from the same set can earn
+you some bonus effects."
+2,Material_00,"素材集め素材には料理に使える食材だけでなく様々な種類と使い道がある。
+見つけたら積極的に採取しておくとよい。","Collecting IngredientsThere are many more ingredients than those used for cooking food.
+Collect and experiment with different ingredients to make all sorts
+of things!"
+3,Material_01,"料理のコツ一度に たくさんの材料を使って料理すれば
+より効果の高い料理を作ることができる。","Cooking SecretsUsing more of an effect-imparting ingredient when cooking will
+increase that effect in the resulting dish."
+4,Material_02,"魔物の素材魔物を倒して手に入れた素材は トカゲやチョウなどと一緒に料理鍋で煮込めば
+特別な効果を持った薬を作ることができる。","Monster IngredientsIf you combine monster parts dropped by fallen foes in a cooking pot
+with things like lizards and butterflies, you can create elixirs with
+special effects."
+5,Material_03,"食材を焼くキノコや魚は焼くことで より美味しくなる。
+ただし食材の持つ特別な効果は なくなってしまう。","Roasting IngredientsThrow ingredients like mushrooms or fish directly into a fire to roast 
+them and up their health benefits. Keep in mind that roasting an
+ingredient won't activate its potential special effect."
+6,Material_04,"妖精の効果妖精をポーチに入れておくと
+リンクが倒れてしまった時に ハートを回復してくれる。","Fairy EffectsIf you keep a fairy in your pouch, it will automatically restore some
+hearts when you fall in battle."
+7,Material_05,"宝石鉱床を壊すと稀に手に入る宝石は
+お店に持っていくと高値で買い取ってもらえる。","GemsThe gems that sometimes drop when you break ore deposits fetch
+a high price when sold."
+8,Material_06,"料理鍋手に持った食材を放り込んで ワイルドに調理することができる。
+火が消えている時は使えない。","Cooking PotsCook up some wild cuisine by throwing together some ingredients
+and seeing what happens. You can't cook with an unlit pot."
+9,Material_07,草を刈る草を刈ると隠れていた虫が飛び出してくることがある。,"Cutting GrassWildlife taking shelter in the grass will sometimes jump out when you
+cut down their hiding place."
+10,Material_08,小岩を持ち上げる小岩の下に隠れていた生き物が飛び出してくることがある。,"No Stone UnturnedWildlife taking shelter under a rock will sometimes jump out when you
+lift up their hiding place."
+11,Material_09,"オクタ風船オクタ族を倒して手に入れられる この風船は膨らむと強力な浮力を発生する。
+風船を手に持ち浮かせたい物の近くに置けば空中に浮上させることができる。","Octo BalloonWhen inflated, this sac obtained from defeating Octoroks is
+extremely buoyant. Place one near something you want to lift
+to make it float into the air."
+12,Material_10,妖精の効果妖精に料理を手伝ってもらうと料理の効果を高めることができる。,"Fairy EffectsIf you have a fairy help you cook, the tonic you produce together
+restores a great deal of hearts."
+13,Material_11,"気温の影響（高温）火山の高温地帯では火がなくても素材を地面に置くだけで燃えてしまう。
+食材をさっと焼けば簡易的に調理することもできる。","Scorching ClimatesIn the extreme heat of volcanic regions, ingredients will cook simply
+by placing them on the ground. Use this to your advantage to
+prepare meals on the go."
+14,Material_12,"気温の影響（寒冷）一部の素材は氷点下の場所に置いたり氷水に入れると凍ってしまう。
+食材によっては それによって美味しくなることもある。","Freezing ClimatesSome ingredients will freeze if submerged in ice-cold water or when
+left out in frigid regions. There are a few ingredients that taste
+even better frozen."
+15,Material_13,"魚獲りのコツエサとなる食材を魚のいる近くに投げ入れると寄って来る。
+魚によって好みのエサがあるらしい。","Luring FishTossing ingredients that serve as bait near fish in the water will
+attract them. Different bait works on different kinds of fish."
+16,Material_14,ここ掘れワンワン犬にエサを与えて懐かれると いいことがあるらしい。,"What's That, Pooch?If you befriend a dog, it may lead you to something interesting."
+17,Material_15,"素材の効果特別な効果を持つ素材は別々の効果を掛け合わせることなく使うと
+その効果を持った料理や薬を作ることができる。","Ingredient EffectsCertain ingredients give elixirs or dishes special properties.
+But don't get greedy: ingredients with different effects will
+cancel each other out."
+18,Material_16,"料理や薬の効果効果を持った料理や薬は後から使った物の効果が優先される。
+発揮中の効果の種類や時間は失われてしまうので注意が必要だ。","Ingredient EffectsYou can only enjoy one effect from a dish or elixir at any given time.
+If you're relying on an active effect, be careful not to cancel it
+by eating something with a new effect."
+19,Weapon_00,"装備品の消火木製の武器や盾に火がついてしまった時は
+装備を外せば火を消すことができる。","Where's the Fire?When a wooden weapon or shield catches fire, you can extinguish
+it by unequipping the burning item."
+20,Weapon_01,"武器の耐久力武器によって耐久力は異なる。
+大事な時に武器を失わないよう状態は常に把握しておくべきだ。","Weapon DurabilityDurability varies with every weapon. Always be aware of the condition
+of your equipment. A weapon breaking at the wrong time is never
+a good thing."
+21,Weapon_02,"武器を投げる武器が壊れそうになったら思い切ってで投げて攻撃するとよい。
+当たれば ダメージ倍増だ。","Throwing WeaponsIf your weapon is close to breaking, try throwing it at an enemy
+using. It will double your damage if it hits!"
+22,Weapon_03,"特別な弓世界には一度に複数の矢を放つことができる弓が存在する。
+その威力は絶大だが不思議にも矢の消費量は1本だけである。","Special BowsA few bows fire multiple arrows at once. They offer several times
+the power of normal bows, while strangely only consuming one
+arrow at a time."
+23,Weapon_04,"武器の使い方木製品に火をつければ たいまつの代わりになり
+金属製品で鉱床や火打ち石を叩くと火種となる火花を飛ばすことができる。","More Than a WeaponMetal weapons create sparks that can be used to light a fire.
+Furthermore, if you set a wooden weapon on fire, it can be
+used as a torch."
+24,Weapon_06,ブーメランで投げると大きく弧を描いて戻ってくる。,"BoomerangsThrow a boomerang with, and it will fly in a large arc before
+returning to you. What goes around comes around!"
+25,Weapon_07,"効果付きの武器通常の武器よりも耐久力や攻撃力が優れている
+特別な効果を持つ武器が手に入ることがある。","Weapon BonusesSome weapons you'll come across have special properties that set
+them apart from others of their class, such as superior durability or
+above-average attack power."
+26,Weapon_08,"フィニッシュブロー効果の武器この効果のある武器で連続で斬りつけた時
+最後のダメージが 2倍になるという特別な効果を発揮する。","Critical HitWhen using a weapon with this bonus, the last hit in a series of
+attacks will deal double the damage."
+27,Weapon_09,"マスターソードハートが満タンの時にで剣ビームを撃つことができる。
+ハートの数が多いほど剣ビームの飛距離が伸びる。","Master SwordWhen your hearts are full, you can fire a beam from the sword
+with. The more Heart Containers you have, the further the
+beam's range."

@@ -1,0 +1,201 @@
+#,Title,JPja,USen
+1,"""0000""",いいですよ,That's fine.
+2,"""0001""",やっぱり後で…,Let's do it later...
+3,"""0002""",わかった,Yes.
+4,"""0003""",ぜひ！,Please!
+5,"""0004""",また今度,Some other time.
+6,Talk00,やぁ またお会いしましたね,"Ah, we meet again!"
+7,Talk01,"古の詩を求める旅も一段落して
+今はこうして娘たちと音楽で戯れています
+私には何の力もありませんが この平穏が
+いつまでも続くよう詩に願いを乗せています","I'm taking a moment's rest from my
+calling to enjoy some musical frivolity
+with my daughters.
+Though it may not be within my power, 
+I commit my wish as song...that this
+peace might last forever."
+8,Talk02,"……ところで折り入ってお願いがあります
+あなたに お聴かせしたい詩があるのです
+もし よろしければ夜にもう一度
+ここに来ていただけませんか？
+すみませんが よろしくお願いします","...By the by, I've something I must ask
+of you. I need you to hear a song.
+
+If it pleases you, could you come back
+here later? After the sun is down?
+Ever so sorry for the trouble."
+9,Talk03,"もしよろしければ夜にもう一度
+ここに来ていただけませんか？
+あなたにお聴かせしたい詩があるのです
+よろしくお願いします…","If it pleases you, could you come
+back here again at night?
+
+I've a song that I need you to hear.
+Most pleadingly..."
+10,Talk04,"お待ちしておりました
+来ていただいて ありがとうございます","Ah, there he is.
+Thank you for coming."
+11,Talk05,"そうですか…
+では また気が向いたら お願いします","Very well then...
+Let me know when you are free. "
+12,Talk06,"ありがとうございます…
+お話ししたいのは私の師匠についてです","Thank you ever so much.
+I wanted to talk to you about my teacher."
+13,Talk07,"私の師匠は ハイラル王家に仕える
+シーカー族の宮廷詩人でした
+当時王家には美しい姫様がおられ
+師匠と年齢も近かったそうです
+そして かなわぬ恋と知りながら
+師匠は恋に落ちてしまったのです……
+ですが姫様は いつしか お付きの近衛騎士に
+想いを寄せるようになりました
+師匠は嫉妬しました……
+近衛騎士とて貴族や王族ではないのに と
+そんな時 かの大厄災が起こったのです","My teacher was of the Sheikah tribe.
+He was the court poet for the Hyrulean
+royal family.
+At the time, there was a beautiful
+princess in the royal family, quite close
+to my teacher in age, apparently.
+Though he must have known it was
+doomed to be unrequited, my teacher 
+fell in love with her...
+But the princess herself only had eyes
+for her escort, her own knight attendant.
+
+My teacher was consumed with
+jealousy... He fumed that the knight was
+neither nobility nor royalty himself.
+And then the Calamity struck."
+14,Talk08,"師匠の詩""受け取っていただき
+ありがとうございました
+もしよろしければ もう一度
+お聴かせしましょうか？","Thank you for accepting my teacher's
+song.
+
+I'll sing it again, if you wish."
+15,Talk09,おや？ やはり お聴きになりますか？,Oh? Are you ready to hear it now?
+16,Talk10,"お話ししたいことも ありますので
+少し長くなりますが構いませんか？","I wish to speak with you, so this will
+take some time. Is that all right?"
+17,Talk11,"師匠は大厄災の時真っ先に
+故郷のカカリコ村に向かって逃げました
+その途中偶然体を張って姫様を守った
+近衛騎士を見たのです
+そして村の長であるインパ様から
+事の次第を聞いた師匠は決心しました
+厄災を封印した古の勇者の詩 これを調べて
+いつか戻ってくる近衛騎士に伝えよう と
+そして姫様を救っていただきたい と……
+それが私に遺した師匠の最後の言葉でした","My teacher fled the Calamity and
+returned to his hometown of
+Kakariko Village.
+But on his way, he witnessed the
+princess's knight sacrifice himself to
+protect the princess.
+The elder of Kakariko Village, Impa,
+explained these circumstances to him,
+and his mind was made up.
+He would seek the songs of the hero
+who sealed the Calamity away in an
+age past... 
+so they could be passed on to the
+knight once he returned.
+
+All so that the princess might be saved...
+Those were my teacher's last words,
+passed on now through me."
+18,Talk12,"ハイラルの近衛騎士""己が身をもって
+姫巫女の盾となり""力尽き倒れる","Her appointed knight gives his life,
+Shields her figure, and pays the price."
+19,Talk13,"……師匠は この厄災を鎮める勇者が
+必ず現れると信じて詩を作りました
+この詩は あなたにお聴かせしないと
+いけない詩なのです","...My teacher believed a hero would
+appear to beat back the Calamity. He
+poured that belief into a song.
+And that song is what I need you to hear."
+20,Talk14,"……""近衛騎士殿
+今は亡き師匠の詩受けていただけますか？
+ありがとうございます
+あなたならきっと そう言っていただけると……
+姫様はたいそう美しい方だったと
+いつも師匠から聞かされていました
+私もぜひお会いして姫様のための詩を
+作って差し上げたいものです……
+長い話に付き合っていただき
+ありがとうございました…","So...appointed knight.
+Will you accept this song from my 
+departed teacher?
+Thank you so much!
+I knew you would. I was sure of it.
+
+My teacher would often speak of the
+princess's beauty. I would love to meet
+her and craft a song worthy of her...
+Thank you for spending this time with
+me."
+21,Talk15,"その騎士を想い""姫巫女の力
+ついに放たれ""厄災を""城に封ず","The princess's love for her fallen knight
+awakens her power / And within the
+castle the Calamity is forced to cower."
+22,Talk16,"近衛騎士""回生の祠にて傷を癒し
+永き眠りから目覚めん","But the knight survives!
+In the Shrine of Resurrection he sleeps,
+Until from his healing dream he leaps!"
+23,Talk17,"幾多の試練を乗り越え
+力を取り戻せし その騎士…","For fierce and deadly trials await.
+To regain his strength. Fulfill his fate."
+24,Talk18,"現世の勇者となりて""再び厄災に挑み
+姫巫女を""魔の手より""奪還す","To become a hero once again!
+To wrest the princess from evil's den."
+25,Talk19,"古の勇者ら""封印せし厄災
+万年の時を経て ついに蘇る","An ancient hero, a Calamity appears,
+Now resurrected after 10,000 years."
+26,Talk20,"古の詩を求める旅も一段落して
+今はこうして故郷で詩を奏でています
+……ところで折り入ってお願いがあります
+あなたに お聴かせしたい詩があるのです","I'm taking a moment's rest from my
+tireless search for the ancient songs to
+perform in my hometown. 
+...By the by, I've something I must ask
+of you. I've a song that I need you to
+hear."
+27,Talk21,おや？夜が明けてしまいましたね…,Hmm... It's long past dawn now.
+28,Talk22,"勇者と姫巫女 ともに手を取り
+再びハイラルに""光を取り戻さん…","The hero, the princess—hand in hand—
+Must bring the light back to this land."
+29,Talk23,ありがとうございます では…,Thank you. Well then...
+30,Talk24,"わかりました…
+また気が向いたら お越しください
+私には詠うことしかできませんが……
+あなたの無事を お祈りしています","Of course.
+Please let me know if you want to hear
+it again.
+I can do naught but sing, but I pray for
+your safety."
+31,Talk25,"師匠の詩 お聴きいただき
+ありがとうございました
+私には詠うことしかできませんが…
+あなたの無事を お祈りしています","Thank you for listening to my teacher's
+song.
+
+I can do naught but sing, but I pray for
+your safety."
+32,Talk26,"師匠の詩""受け取っていただき
+ありがとうございました
+もしまた お聴きになりたかったら
+夜にもう一度 お越しいただけますか？
+今は子供たちが放してくれませんので…
+すみませんが よろしくお願い致します","Thank you for listening to my teacher's
+song.
+
+If you want to hear the song again,
+you'll need to come back at nighttime.
+
+That's the only time my kids will leave
+me alone..."
+33,TerrorArrow,危ないっ！,Stop it!
+34,TerrorExplosion,うわーっ！,WAAAAAA!
+35,TerrorFire,うわっ,Ack!
+36,TerrorSword,危ないっ！,Knock it off!

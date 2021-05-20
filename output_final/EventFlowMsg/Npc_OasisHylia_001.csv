@@ -1,0 +1,173 @@
+#,Title,JPja,USen
+1,"""0000""",氷室？,Icehouse?
+2,"""0001""",飲みすぎないようにね,Don't drink too much.
+3,"""0002""",どこにあるの？,Where is it?
+4,"""0003""",さよなら,Good-bye.
+5,Talk_01,"おはようございまーす！
+
+じゃなくて""サヴォッタ！
+
+いや～ ゲルド語は難しいよね～
+頑張って覚えようとはしてるんだけどね～","Good morning!
+No, wait—I mean...sav'otta!
+
+Gerudo words... Gotta practice..."
+6,Talk_02,"ぷは～っ
+
+これよこれ！
+
+ここのお酒はね
+この近くにある氷室の氷を使ってるから
+こんな砂漠でも
+キンッキンのお酒が飲めるのよね","Ahhhh! This really hits the spot! Nothing
+like a cool drink to take some of the
+edge off the heat.
+All of the drinks here are made using ice
+from the nearby icehouse.
+
+That's why we're able to have ice-cold
+drinks, even in the middle of the desert!"
+7,Talk_03,"やっぱり ここのアクセサリー
+キレイだなぁ…
+でも素材になる宝石も持ってないし
+お値段も お高めだしなぁ…
+私には まだ早いかな…","The accessories here sure are pretty...
+But I don't have any of the materials to trade, and
+buying one outright would be so expensive...
+I guess it's just not time for me to own one..."
+8,Talk_04,"ヒンヤリダケもいいけど
+
+夜は寒くなるし
+ここはやっぱりポカポカダケかな…","Chillshrooms are great, but the nights here are so
+cold... Maybe I should get some sunshrooms 
+instead..."
+9,Talk_05,"サヴァーク！
+
+こんにちはって
+サヴァーク だよね？
+やっぱりいいよね その服…
+
+涼しげだし私も買おうかな～","Sav'aaq!
+
+
+I hope that was \""hello\""...
+
+
+Oh, I really like those clothes. They
+look nice and cool in this hot weather.
+Maybe I should buy some, too..."
+10,Talk_06,"えっと… コンバンハ ってなんだっけ？
+
+あっ！
+
+サヴァサーバ！
+
+酒場にはもう行った？
+ゲルドの街に来たからには顔出しとかないとね","Um... What was \""good evening\"" again?
+Oh!
+
+Sav'saaba! Have you been to the
+canteen yet? Anyone who comes to
+Gerudo Town absolutely must go there!"
+11,Talk_07,"氷室ってのは地中に穴を掘って作った
+氷の保管場所のことだよ
+この辺りだとゲルド高地から氷を切り崩して
+保管してるみたいよ","The icehouse is an ice depository that
+was made by digging a hole in the
+ground.
+It sounds like they cut ice from the
+nearby Gerudo Highlands, take it 
+there, and then store it."
+12,Talk_08,"大丈夫大丈夫！
+あと一杯だけにしとくし～","Oh, I'm fine! I'm only gonna have
+one more."
+13,Talk_09,"ここの正門でて左の方行ったら
+遺跡があるんだけど そこを抜ければ氷室だよ","Go out the main gate and head left.
+First you'll see some ruins... Just go
+past them and you'll see the icehouse."
+14,Talk_10,"えっと～
+さよならは…
+あっ
+
+サヴォーク！","Oh, darn... What was it...
+Good-bye... Good-bye... Sav...
+
+Oh! Sav'orq!"
+15,Talk_11,"…美人にしか見えないキノコ
+
+…ちょっと …見えた …かも？","Mushrooms that only beautiful people can see...
+I think...maybe I'm starting to see something?"
+16,Talk_12,"あ～っ やっぱり その服
+ファッションパッションに売ってたやつだよね～
+私も買おうかどうか迷ってたんだ～
+
+着心地はど… お？
+
+…って アナタ…
+もしかして…
+……オトコノコ？","Ah, aren't those the clothes sold at
+Fashion Passion? I was thinking about
+buying some myself...
+How do they feel? Comfy?
+
+
+Say, are you, uhh... I really don't know
+how to say it... Might you be...
+A boy?"
+17,Talk_13,"やっぱり そうだよね～
+
+すごいじゃん！
+よくバレずに ここに来られたね
+まぁ… ゲルド族の人達って
+あまり細かいこと気にしなさそうだもんね
+でも安心して
+このことは誰にも言わないから
+なんたって今は
+同じハイリアのヴァーイだもんね～","You are! I knew it!
+
+
+It's really impressive—you getting in
+here without anyone else noticing!
+
+Don't need to worry. I won't tell a soul.
+Just a little secret between us Hylian
+vai, right? Hehehe."
+18,Talk_14,"せっかくだし
+ゲルド語 たくさん覚えて帰りたいよね～","Might as well learn as much of the
+Gerudo language as I can while I'm here,
+right?"
+19,Talk_15,"このお酒ヴァーイミーツヴォーイって言って
+このお店の看板商品なんだって～
+氷室の氷とのマリアージュも最高だし
+何杯でもイケちゃうのよね～","The name of this drink is Noble Pursuit.
+It's the signature product of this store.
+
+It really pairs wonderfully with ice from
+the icehouse."
+20,Talk_16,"ふふ… それにしても
+うまく変装したね
+話しかけられるたびに
+本物の女の子だと思っちゃうもん","Hehe, I have to say... You really make a convincing
+girl... I know your secret, and I'm still fooled every
+time you walk up!"
+21,Talk_17,"あれ…ここってアクセサリー屋さんだよね…？
+商品がないみたいだけど まだ開いてないのかな？","Huh? This is an accessory shop, isn't it?
+I don't see any accessories on display.
+Are they not open yet?"
+22,Talk_18,"ここの名物
+ヴァーイミーツヴォーイを飲みに来たんだけど
+氷が切れてて作れないんだってさ
+
+氷室まで行けば氷はあるみたいだけど
+今は人手が足りなくて取りに行けないんだって","I came here to drink the specialty,
+Noble Pursuit, but apparently they can't
+make it because they're out of ice.
+They could get ice from the icehouse,
+but that'd leave the canteen unstaffed..."
+23,Talk_19,"あーあ誰か
+氷室まで行って氷とってきてくれないかなぁ","Ahhh... It'd be nice if someone would
+go to the icehouse and get some ice.
+I really hope that happens soon..."
+24,Talk_20,"大丈夫大丈夫！
+これお水だから～","Oh, don't worry!
+This is just water, actually..."

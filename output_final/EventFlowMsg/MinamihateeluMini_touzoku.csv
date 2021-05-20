@@ -1,0 +1,109 @@
+#,Title,JPja,USen
+1,"""0000""",ラムダの財宝って？,So... Misko's treasure?
+2,"""0001""",わかった,I...see.
+3,"""0002""",払う,Deal!
+4,"""0003""",払わない,No way!
+5,Talk00,ちょっと待て ブリセン,Prissen! Hang on!
+6,Talk01,"…それでさ兄さん
+ラムダの財宝のありかなんだけどさ…","I've got the scoop on Misko's treasure,
+and it's great! Listen up, Dak..."
+7,Talk02,"おい ブリセン
+しゃべりすぎだぜ！",Prissen! You're going to give it all away!
+8,Talk03,"ご…ごめんよ兄さん
+…つい","Sorry, Dak... I got carried away."
+9,Talk04,"とにかく俺たちは大事な話をしてるんだ
+何か用があるなら他の奴らをあたってくれよ","Anyway, we're busy here, dude.
+If you need something, take it up
+with someone else."
+10,Talk05,"なんだ？
+弟が言ったことなら忘れるんだな","You again? Pay no mind to my little bro's
+chatter from before. He's got a penchant
+for running his mouth with crazy talk."
+11,Talk06,"チッ…
+ごまかせなかったか…","Ahhh shoot. Welp. Can't say I didn't try
+to throw him off..."
+12,Talk07,"それでいい…ラムダの財宝は大物トレジャー
+競争相手は少ない方がいいからな","Anyway. Misko's treasure—not that we
+were talking about such a thing—is only
+for the BEST of treasure hunters. 
+That probably rules you out, bub.
+
+
+The fewer people after it, the better.
+And we've still got the scoop!"
+13,Talk08,"兄さん話してもいいんじゃないかな
+僕たちでもなかなか解けない謎なんだ
+こんな素人に
+どうせあの謎はわかりっこないよ","Hey, Dak... Why don't we just tell him?
+Maybe he'll leave us alone if we do.
+
+I mean, if we can't figure this riddle out,
+there's no way someone like him will be
+able to."
+14,Talk09,…そうだな…,"...That's a good point.
+
+"
+15,Talk10,へへっ確かに,Heh. Good deal.
+16,Talk11,"金がないヤツには用はない
+まっ あきらめるんだな","Well, I've got nothing to say to some
+bum without even two rupees to rub
+together."
+17,Talk12,兄さん やったね！,"Way to go, Dak. You did it!"
+18,Talk13,"ラムダは宝の隠し場所を
+暗号にして残してたって話さ
+ラムダの手下だったヤツの
+子孫の親戚から聞いたんだ確かなネタだぜ！","Misko hid the location of the treasure in
+some kind of strange secret code.
+
+I heard this from a former dog walker of
+one of Misko's underling's descendant's
+neighbors. As solid a lead as any."
+19,Talk14,"そんな確かな筋の知り合いがいるなんて！
+兄さんはさすがだね！","Just knowing someone with good intel
+like that? Exactly what I'd expect from
+you, Dak!"
+20,Talk15,"この謎は神童と呼ばれたドミダク兄さんですら
+手こずる難解な謎なんだ
+素人が手を出すだけ時間の無駄だろうよ","But this riddle has even I, Domidak,
+the premier treasure hunter,
+scratching my head.
+So that you can tell how challenging my
+work is, I'll tell it to you. You'll never
+solve it, though."
+21,Talk16,"『若き橋架かる川面の源流の
+闇夜に浮かぶ天の白滝』","The little twin steps over the little river.
+My cave rests above that river's source."
+22,Talk17,"100ルピーだ
+
+本当なら1000ルピーはくだらない特ダネだぜ
+どうする？兄ちゃん","It'll be 100 rupees to learn what
+we know.
+
+Truth is, it'd be a steal to get this
+exclusive scoop for 1,000 rupees...
+So what do you say?"
+23,Talk18,"何だお前俺らの話を
+勝手に聞いてんじゃねぇよ","Hey, buddy! What's your problem? You
+aren't being incredibly rude and listening
+to our conversation, are you?"
+24,Talk19,"俺らはトレジャーハンターなんだ！
+大盗賊ラムダの財宝は俺らのもんだぜ！","We're treasure hunters, on the trail of
+our latest score... The treasure of the
+great bandit Misko! It's as good as ours!"
+25,Talk20,"さすが最強のトレジャーハンター！
+金のニオイは逃さない！ さすがだね兄さん！","That's the keen sense of the strongest
+treasure hunter at work! No gold left
+behind—not by Domidak!
+You're great, Dak!"
+26,Talk22,"しかし俺たちが狙ってるのは
+あの大盗賊ラムダの財宝だ
+もし見つけたら一攫千金…
+一夜で大金持ちだ
+そんな情報をタダで手に入れようってのは
+虫が良すぎるよなぁ","We're after nothing less than the
+treasure of Misko, the Great Bandit!
+Finding it would mean incredible riches...
+I'm not about to give this information
+away for free. I'm no fool!"
+27,near00,うーむ…,Hrm...
+28,near01,きっとあそこだよ！,I bet it's over there!

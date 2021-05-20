@@ -1,0 +1,418 @@
+#,Title,JPja,USen
+1,"""0000""",買います,I'll take it.
+2,"""0001""",さようなら,Bye.
+3,"""0002""",教えてください！,Tell me your secrets!
+4,"""0003""",けっこうです,Not interested.
+5,"""0004""",守りの極意？,Secret art?
+6,"""0005""",回避ジャンプ,Dodge jump.
+7,"""0006""",ガードジャスト,Perfect block.
+8,"""0007""",見たかも…,I saw that...
+9,"""0008""",見てない…,I saw nothing...
+10,"""0009""",横跳び,Side jump.
+11,"""0010""",バク宙,Backflip.
+12,"""0013""",料理？,Cookin'?
+13,Near00,カボチャはいらんかの,Want some pumpkins?
+14,Near01,雨なんぞに負けんでの,Rain won't stop ME!
+15,Near02,ほっほっほ,Aha ha!
+16,Near03,このっ！ このっ！,Hyah! Hyah!
+17,Near04,また育てんとのぅ,I need to grow more...
+18,Near05,今日も良い天気だのぅ,Another beautiful day...
+19,Near06,恵みの雨だのぅ,"Ah, the rain of life!"
+20,Near07,腹がへったのぅ,So hungry...
+21,Near08,疲れもふきとぶのぅ,My stress just melts away!
+22,Near09,カボチャが一番じゃ…,Pumpkins are superior...
+23,Near10,家に戻るとするかのぅ,I should head home.
+24,Near11,今日も疲れたのぅ,I'm exhausted today.
+25,SupriseHouse,ほ ほぅ？！,Baaah! Hm?!
+26,SupriseHouse_00,"なんじゃ… お前さんか…
+
+ばあさん以外が家にいることなんてないもんでな
+ビックリさせんでくれよ","Oh! It's you.
+
+
+No one's usually home, other than
+my wife. So, yeah... Don't scare me
+like that!"
+27,SupriseHouse_01,……,...
+28,Talk00,"ヨロイカボチャ""気に入ってくれたかのぅ？",Did you enjoy that fortified pumpkin?
+29,Talk01,"ほっほっほ
+そいつを選ぶとは意外と目利きだのぅ","Ha! You've got a keen eye to pick
+that one."
+30,Talk02,"ほっほっほ
+全部なくなってしもうたのぅ
+手塩にかけたカボチャたちが
+誰かの役に立つのは うれしいものよのぅ
+次はもっと立派なのが作れるよう
+頑張らんとのぅ","I'm so glad my beloved pumpkins are
+useful to somebody.
+
+I'll work extra hard to grow an even
+better batch next time!"
+31,Talk03,"ふむぅ…
+とびきりウマいのにのぅ…","Mmm... It's really delicious, though..."
+32,Talk04,"ほっほっほ
+ヨロイカボチャが欲しいんかのぅ？
+今畑に向かっとるでのぅ
+もう少し待ってくれんかのぅ","Ha! You wanna buy a fortified pumpkin,
+don'tcha? Of course ya do! As it were,
+I'm heading to the fields right now...
+Mind waiting just a bit longer?"
+33,Talk05,"すまんのぅ これから夕飯でのぅ
+カボチャなら また明日にしてくれんかのぅ","Sorry, mister. It's dinnertime now.
+If this is about my pumpkins,
+can it wait until tomorrow?"
+34,Talk06,"はルピー
+お1つ いかがかのぅ？","That'll cost ya  rupees.
+Interested?"
+35,Talk07,"やはり ばあさんのつくる
+ヨロイカボチャの料理が1番だのぅ
+ニンジンなんぞより
+よっぽど ウマいのぅ","My wife's fortified pumpkin dishes
+are the best.
+
+Way better than a barrel o' carrots,
+that's for sure!"
+36,Talk08,"お楽しみの所悪いがのぅ
+
+この梅園は ばあさんが大切にしとるもんでのぅ
+大切に頼むでなぁ","Sorry to interrupt, but...
+
+
+This plum garden is very special to 
+my wife. Please be considerate
+of that."
+37,Talk09,…そこに誰かおるのか？,Who's there?
+38,Talk10,"こんな夜更けに どうしたのかのぅ…
+
+足腰の鍛錬こそ防御の初歩だからのぅ
+こうやって夜は走っとるんじゃ
+『守りの極意』も身につけるには
+鍛錬が一番だからのぅ","What are you doing out in the middle
+of the night?
+
+As for me, the first step to achieving
+great defense is training your legs.
+That's why I'm running at this hour.
+Training is the best way to learn the
+secret art of defense, after all."
+39,Talk11,"ほっほっほ… シーカー族は知力に長けた民族
+武力だけでは愛するものは守れぬからのぅ
+まぁ戦い方は人それぞれじゃが
+これぐらいは覚えとかんとなぁ","The Sheikah tribe is exceedingly wise.
+That is because you cannot protect
+what you love with force alone.
+I know everyone has their own way of
+fighting, but please try to remember that."
+40,Talk12,"この村にある祠には はるか昔に
+剣聖と称された達人が祀られておってのぅ
+彼らの試練を乗り越えれば
+守りの極意が身につくと言われておるが
+その『試練』が何なのかは
+誰もまだわかっていないんじゃ…
+しかし いつ『試練』が訪れてもいいように
+常に鍛錬しとかんとな","Long ago, a wise master known simply
+as the swordsman was enshrined—
+right in this village, no less.
+It is said that if you overcome his trial,
+you will master the secret art of defense.
+
+However, no one knows exactly what
+this \""trial\"" entails...
+
+That is why I must stay vigilant with my
+training, so that I am ready whenever
+this trial presents itself to me!"
+41,Talk13,"攻撃こそ最大の防御なんてほざいとる
+暴力じじいもいるが
+守りを極める者こそが
+最強だとワシは思うがのぅ","There are savage old men out there who
+do nothing but prattle on about how the
+best defense is a good offense...
+But I know better. I believe that one
+who masters the art of defense is the
+strongest of all."
+42,Talk14,"注目し敵の動きをとらえた状態で横にジャンプ
+それをワシらは横跳びとよんどるよ
+守りといえども
+見た目は かっこよくあらねばのぅ","Keep focusing on the enemy, and jump to
+the side. We call this a side jump.
+
+Heh, see that? You get to look stylish 
+even while minding your defenses!"
+43,Talk16,"ほっほっほ… この村にお前さんのような
+若者なんて めずらしいねぇ","Ha! It's rare to see a young lad
+like you in a village like this!"
+44,Talk18,"ヨロイカボチャは身体を強くしてくれるでのぅ
+ワシは バアさんに料理してもらって
+毎日くっとるんじゃ","Fortified pumpkins make you stronger.
+I ask the old lady to keep 'em cookin'
+so I can eat some every day."
+45,Talk19,"ほっほっほ冗談じゃよ
+あまりにも真面目な顔してたもんでのぅ","Ha! I'm just pullin' your leg! You looked
+so serious, I couldn't help but goad
+ya a bit."
+46,Talk20,"おっ おおう お前さん…
+な…何か用かのぅ…","OH! Oh... It's you.
+Wh-what do you need?"
+47,Talk21,"カカリコ村の名産ヨロイカボチャじゃ
+ワシが丹精込めて作ったでのぅ ウマいぞい
+もっと欲しければ分けてやるでのぅ
+ワシがいる時に畑に来るといい","Fortified pumpkins are Kakariko Village's
+specialty. I put my heart and soul into
+every one of 'em. They're delicious.
+If you want more, I can give you some.
+Just stop by the fields and say hello."
+48,Talk22,"今日はもう遅いでなぁ
+そろそろ家に帰るとするかのぅ",It's getting late. I should head home.
+49,Talk23,"ほっほっほ相変わらず
+あの暴力じいさん
+「攻撃こそ最大の防御」
+
+などと叫んでおったのぅ
+ご苦労なこったのぅ…","Ha! That old geezer is as savage
+as ever.
+
+He's always running around yelling
+nonsense like, \""The best defense is
+a good offense!\"""
+50,Talk24,"若い頃は村中を ダッシュで走り回り
+息切れ知らずのナーキンと呼ばれていたが…
+いくら鍛錬しても
+老いには勝てんわい","When I was young, I used to dash
+through the village like the wind.
+
+People knew me as the Olkin who never
+ran out of breath, never slowed down.
+
+Unfortunately, you can't outrun aging...
+no matter how hard you train.
+Trust me, I've tried."
+51,Talk25,"他にも極めたい技があれば
+遠慮なく言うといいでなぁ","If there are any other skills you'd like
+to learn, just let me know."
+52,Talk26,"こんな雨の夜に どうしたのかのぅ…
+
+足腰の鍛錬こそ防御の初歩だからのぅ
+こうやって夜は走っとるんじゃ
+『守りの極意』を身につけるには
+鍛錬が一番だからのぅ","What are you doing out on
+such a rainy night?
+
+As for me, the first step to achieving
+great defense is training your legs.
+That's why I'm running at this hour.
+Training is the best way to learn the
+secret art of defense, after all."
+53,Talk27,"み…見られてしもうたか…
+
+ゴスティンとは
+昔っからそりが合わなくてのぅ…
+一緒に猟にでても ワシはしゃがんで
+ソロソロ近づいとるのに アイツときたら…
+「攻撃が1番じゃー！」
+
+と叫びながら すぐに突っ込んで行くもんで
+いっつも獲物が逃げてしまってのぅ…
+その上素材屋にカボチャは置かんの一点張り…
+
+ワシが一体何をしたというのだ…
+それが くやしゅうてのぅ…","It seems...you caught me.
+
+
+I could never get along with Steen...
+no matter how I tried.
+
+Even when we'd go hunting together,
+I'd slowly crouch down to get close to
+our prey, but he'd just charge in yelling.
+\""Offense is kiiing!\""
+That's what he'd bellow.
+Annoyed the tar outta me.
+Needless to say, our prey always ran...
+On top of that, he just refuses to sell
+my pumpkins in his shop!
+But... My, what have I done?
+I'm just so mortified..."
+54,Talk28,"ほっほっほ ならいいわい
+
+…ただ今ちょっと忙しいでのぅ
+
+用があるなら
+後にしてくれんかのぅ","Ha! Then I suppose all is well.
+
+
+However... I'm a tad busy right now.
+
+
+If ya need something, mind coming
+back later?"
+55,Talk29,"お前さん…まさか
+イーガ団じゃなかろうのぅ……","You aren't...part of the Yiga Clan,
+are you?
+
+...
+"
+56,Talk30,"でもお前さんに見られて我に返れたわい
+
+畑を荒らして憂さ晴らしするのは
+今日で お終いにするとしようかのぅ…","But being caught in the act makes
+me realize what I've become...
+
+As of today...I'll stop taking my anger
+out on the crops."
+57,Talk31,"ジャンプは回避の基本だからのぅ
+この2つは覚えておきたいところだのぅ","Jumping is one of the basics of dodging.
+You'll want to at least master these
+two skills."
+58,Talk32,"注目し敵の動きを捉えた状態で後ろにジャンプ
+それをワシらは バク宙とよんどるよ
+ほっほっほ どうじゃ こんなじいさんでも
+ハイカラな言葉をよく知っておろう","Keep focusing on your foe, and then
+jump back. We call this a backflip.
+
+Ha! See that? Even an old man like me
+knows what's hip and cool!"
+59,Talk34,"厄災ガノンに忠誠を誓った者達を
+我々はイーガ団と呼んでおる
+奴らはガノンに敵対する者には容赦ない…
+先日の大地震以降何やら動きも活発でのぅ
+でもお前さんをイーガ団だとは思っとらんよ
+そのぐらい ワシにもわかるでのぅ…","We call those who swear allegiance to
+Calamity Ganon the Yiga Clan. They...
+
+Well, let's just say they don't take kindly
+to those who would stand against Ganon.
+
+It seems they're active again, ever since
+that big earthquake the other day.
+
+But don't worry. I don't think you're part
+of that awful Yiga Clan. I can figure that
+much out just by lookin' at ya."
+60,Talk35,"ヨロイカボチャを使って料理をすると
+守りの力が上がる カチコチ料理ができるんじゃ
+ヨロイカボチャを
+多めに入れるのが ミソでのぅ
+お前さんも色々試してみるといい","Use a fortified pumpkin in your cooking
+to make a dish as firm as my abs.
+Food like that will increase your defense.
+Putting lots of fortified pumpkin in the
+dish is key. Go on—experiment a bit!"
+61,Talk36,"「攻撃こそ最大の防御」と
+騒ぎ立てる暴力じいさんもおるが…
+ワシは「防御こそ最大の攻撃」だと
+信じておるでのぅ","There's a hotheaded geezer who says,
+\""The best defense is a good offense.\"" 
+Poppycock, I say!
+I firmly believe the best offense
+is a good defense."
+62,Talk37,…ワシがばあさんを守ってやるでのぅ…,I'll protect you...my sweet wife...
+63,Talk39,まあ気を悪くせんでくれ,"Well, whaddaya know."
+64,Talk41,"お楽しみの所悪いがのぅ
+少々 やりすぎなんじゃなかろうかのぅ
+この梅園は ばあさんが大切にしとるもんでのぅ
+大切に頼むでなぁ","Sorry to bother you when you're having
+a good time, but... Don't you think
+you're going a bit overboard?
+This plum garden is very special to
+my wife. Please be considerate
+of that."
+65,Talk42,"お前さん何しとるんじゃ！
+ここにあった梅の木はどうした？
+ここは ばあさんが大切にしとる梅園でのぅ…
+ばぁさん悲しむだろうのぅ…
+お前さんにとっては
+単なる梅かもしれんが
+それを宝物のように思っている人が
+いるということを忘れてはならんぞ","WHAT ARE YOU DOING?! What happened
+to the plum trees?!
+
+This plum garden is very special to my
+wife. She's going to be awfully sad...
+
+They might just be plums to you, but to
+some people, they're little treasures.
+
+Don't you forget that!"
+66,Talk43,"今日もいい汗 かいたわい
+さぁ飯にするかな","Oof, I worked my tail off today!
+Now time for some grub!"
+67,Talk44,"ばあさんの作る
+カチコチ料理は世界一でのぅ…
+ヨロイカボチャが
+たんまり入っとるんじゃ","My wife's tough dishes are made from
+fortified pumpkins. They're out of
+this world.
+There are A LOT of fortified pumpkins
+in that recipe, I tell ya what."
+68,Talk45,"雨も降ってきたでのぅ
+ワシもそろそろ家に帰るとするかのぅ","It's raining now... I suppose I should
+head home."
+69,Talk46,"今日も いい汗かいたわい
+雨で冷えんうちに飯で温まろうかのう","Phew! I worked my tail off today.
+I should warm up with some grub
+before I catch a cold in this rain."
+70,Talk47,"なんだか疲れたでのぅ
+今日はもう休むとしようかのぅ","I'm feeling worn out all of a sudden...
+Probably time to turn in."
+71,Talk48,ん？,Hm?
+72,Talk49,"おおおおぅっ！
+お前さんまだいたのか？？","OH! Oh... You're still here, eh?"
+73,Talk50,"…また見られてしもうたか…
+
+しかし思いとどまろうと思っても
+積年の恨みが ワシを突き動かしてしまうんじゃ
+いや…昔の恨みはもう良い…
+ただ…
+未だ カボチャを素材屋に置いてくれんのは
+どうしても許せんのだ！","You caught me again...
+
+
+I try to stop myself, but this grudge has
+grown over the years. It takes me over.
+
+No! The past is behind me! It really is...
+
+
+Still...I just can't stand the fact
+that he refuses to stock my
+pumpkins at his shop!"
+74,Talk51,"しかし理由はどうあれ
+こんなことはやってはならんよのぅ…
+改めて お前さんに見られて
+我に返れたわい
+畑を荒らして憂さ晴らしするのは
+今日で お終いにするとしようかのぅ…","But whatever the reason may be, I plain
+shouldn't be doing such things...
+
+I've come to my senses now that you've
+caught me again. Thank you.
+
+As of today...I'll stop taking my anger
+out on the crops."
+75,Talk52,"ま… まだ
+こんな所におったのか…
+今日は色々あったが こんな夜こそ
+鍛錬して余計なことを考えんようにせんとな
+守りの極意を極めるためには
+鍛錬が一番だからのぅ","You... You're still here?
+
+
+A lot happened today, but it's the perfect
+night to train and try to get my mind off
+the foolish things that distract it.
+Training is the best way to learn the
+secret art of defense, after all."
+76,Talk53,"立派なカボチャだ勝手にとったら怒られそうだ
+主がいる時に また来よう","That's a mighty fine pumpkin...
+You'll get in big trouble if you
+take it without permission.
+Come back when the owner is here."
+77,Talk54,ありがたいのぅ,Thank goodness!
+78,Talk55,"まあ気を悪くせんでくれ
+これは お詫びの代わりだで","Please don't hold it against me.
+Here, take this in exchange."
+79,Talk56,……,...
+80,TerrorArrow,年寄りは大切にせんか,Respect your elders!
+81,TerrorBomb,青いカボチャとな？！,A blue pumpkin?!
+82,TerrorSword,カボチャは助けてくれ,Save the pumpkins!

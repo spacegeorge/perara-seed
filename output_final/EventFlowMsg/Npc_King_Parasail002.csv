@@ -1,0 +1,155 @@
+#,Title,JPja,USen
+1,"""0000""",声が聞こえた,I heard a voice.
+2,"""0001""",……,...
+3,"""0002""",わからない,No.
+4,"""0003""",……,...
+5,"""0004""",行きたい,I do.
+6,"""0005""",……,...
+7,"""0006""",それ ください,Hand it over!
+8,"""0007""",パラセール？,Paraglider?
+9,"""1000""",あなたは？,And you are?
+10,"""1001""",さようなら,Bye.
+11,Anataha00,"今更 わしのことを知ってどうするつもりじゃ
+
+わしは… もう随分長く ここに独りで
+住みついておる変わりもんの じじいじゃよ","Only now you want to know who I am?!
+Well...I'm just an old man. One who has
+roamed this land for a long, long time."
+12,Appear01,いやはや… おどろいたわい,"My, my... It would seem we have
+quite the enigma here."
+13,Appear02,"大地から次々と
+塔が姿を現しおった…
+おそらく… このハイラルの大地に眠っていた
+力が呼び覚まされたのだ","This tower and others just like it
+have erupted across the land,
+one after another.
+It is almost as though...a long-dormant
+power has awoken quite suddenly."
+14,Appear03,"して…
+塔の上は どうであった？","If you do not mind me asking...
+Did anything...odd occur while
+you were atop that tower?"
+15,Appear04,"ほう…
+城の方から声が聞こえたとな","Well now! A voice, you say?"
+16,Appear05,"隠さんでもいい
+
+塔の上での一部始終は
+わしも こっそりと覗かせてもらったのでな","You need not conceal the truth from me.
+Truth be told, I saw the whole thing
+unfold from afar."
+17,Appear06,"その様子じゃと… お主は城の方から
+誰かの声を聞いた… といったところかのう？","Although I could not hear anything, I did
+see you react as if you heard something
+coming from the direction of the castle..."
+18,Appear07,図星のようじゃな,"Hit the nail on the head, did I?"
+19,Appear08,お主は その声に心当たりはないのか？,"And did you happen to recognize this
+mysterious voice?"
+20,Appear09,"…そうか
+それは何とも心苦しいのう","I see. Well, that is unfortunate."
+21,Appear10,"赤の他人の わしには話したくないか？
+まあ それでもいいが…","It seems I have some work to do as far as
+earning your trust goes. I suppose that is
+understandable."
+22,Appear11,"お主も見たであろう
+あの城を包み込む禍々しい怨念の塊を…","I assume you caught sight of that
+atrocity enshrouding the castle."
+23,Appear12,"あれの名は…""厄災ガノン
+
+今から100年前… この地にあった国
+ハイラル王国を滅亡させた元凶じゃ
+突如として現れた ヤツによって
+街は破壊され多くの民たちの命が奪われた
+そして今日まで100年もの間…
+
+王国の象徴であったハイラル城に あのような
+姿で憑りついたまま… その動きを止めておる","That...is Calamity Ganon.
+One hundred years ago, that vile entity 
+brought the kingdom of Hyrule to ruin.
+It appeared suddenly and destroyed
+everything in its path. So many innocent
+lives were lost in its wake.
+For a century, the very symbol of our
+kingdom, Hyrule Castle, has managed
+to contain that evil. But just barely.
+There it festers, building its strength for
+the moment it will unleash its blight upon
+the land once again.
+It would appear that moment is fast
+approaching..."
+24,Appear13,"…もしや お主
+あの城へ行きたいのか？","I must ask you, courageous one...
+Do you intend to make your way to
+the castle?"
+25,Appear14,そう言うと思っておったぞ,I had a feeling you would say that.
+26,Appear15,"…行く気なのじゃな
+黙っていても目を見ればわかる","You need not say a word. Your eyes
+reveal the determination within."
+27,Appear16,"じゃが ここは陸の孤島…
+この絶壁の台地から出ることは不可能じゃ","Here, on this isolated plateau, we are
+surrounded on all sides by steep cliffs,
+with no way down."
+28,Appear17,"もし飛び降りようものなら…
+地面に叩きつけられ ひとたまりもないじゃろう","If you were to try to jump off, well...
+no death could be more certain.
+Or more foolish."
+29,Appear18,"まあ わしのように
+パラセールを持っていれば話は別じゃがな","Of course, if you had a paraglider
+like mine, that would be quite
+another story."
+30,Appear19,"ふぉっ ふぉっ ふぉっ
+いいじゃろう
+じゃが… タダというわけにはいかん","Oho! Certainly! Why not? But there is no
+such thing as a free item in this world,
+you know."
+31,Appear20,"ふぉっ ふぉっ ふぉっ
+さっき わしが降りてきたときに使った道具じゃ
+お主に くれてやってもいいが…
+タダというわけにはいかん","Oho! Piqued your interest, have I?
+Yes, I didn't come soaring down here
+on my own feathery wings, you know!
+Worry not—I will happily agree to give
+you my paraglider. But not for nothing."
+32,Appear21,"そうじゃな…
+
+では あるところに眠る お宝と交換
+というのはどうじゃ？","Let's see now...
+
+
+How about I trade it for a bit of treasure
+that slumbers nearby?"
+33,Appear22,わしに ついてまいれ,Come. Let me show you something.
+34,ClearTerrorEnemy,むう…,Hmm...
+35,GoodBye00,"パラセールが欲しいのじゃろう？
+お宝楽しみにしておるぞ","Treasure for the paraglider.
+A fair exchange, I believe."
+36,GoodBye01,楽しみにしておるぞ,"I am looking forward to your
+successful return."
+37,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+38,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+39,Talk00,"焦るでない…
+もう少しばかり先じゃ ついてまいれ",Don't be hasty now. Just follow me.
+40,Talk01,"今 わしの見ている先に
+怪しげに光る祠のようなものが見えるな？","Do you see that structure there?
+The one shining with a strange light?"
+41,Talk02,"あれは塔が地面からせり出したのと同時に
+あのように光り始めたのじゃ","It began glowing at the exact moment
+those towers rose up from the ground."
+42,Talk03,"ああいう場所には
+たいがい お宝が眠っておるものよ","I would think such a place might house
+some sort of treasure, wouldn't you?"
+43,Talk04,"わしの見ている先にある光る祠から
+お宝を取ってくるのじゃ","I want you to go there and fetch me
+any treasure you find inside."
+44,Talk05,"わしの見ている先にある光る祠から
+お宝を取ってくるのじゃ","I want you to go to that shrine there and
+fetch me any treasure you find inside."
+45,Talk06,さあ早う光る祠から お宝を取ってこい,"Go on! Fetch me any treasure you find
+inside that shrine."
+46,TerrorArrow,何をする！,What is this?!
+47,TerrorBomb,何じゃ？,What is it?!
+48,TerrorEnemy,ひぃーっ！,Whoa!
+49,TerrorExplosion,ぬわーっ！,Huh?!
+50,TerrorFire,あちゃっ,Toasty...
+51,TerrorImpulse,ひぃーっ！,Whoa!
+52,TerrorInsect,ひぃーっ！,Whoa!
+53,TerrorSword,やめんか！,Easy there!

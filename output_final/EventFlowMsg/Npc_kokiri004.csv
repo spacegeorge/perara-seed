@@ -1,0 +1,181 @@
+#,Title,JPja,USen
+1,"""0000""",売りたい,I want to sell.
+2,"""0001""",ここって？,What is this place?
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,I'm buying.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,何を売りたイの？,Do you want to sell something?
+11,Com_Talk_01,"？
+ルピーで買い取るワよ？","I'll give you  rupees for that, OK?"
+12,Com_Talk_02,"ありがトね！
+他にも何か売りたいものは あるかシら？","Thanks! Is there anything else you want
+to sell?"
+13,Com_Talk_02b,"ゆうしゃサマから売ってもらえて うれしいワ！
+もっと売ってもらえるかシら？","I want to buy things from you, Mr. Hero!
+Will you sell me more?"
+14,Com_Talk_02c,"買い取った ゆうしゃサマのもの
+大事にしまっておクわ","I'll take good care of the things I bought
+from you, Mr. Hero!"
+15,Com_Talk_02d,さあさあ どんどん売っテね！,Come on. Sell me some stuff!
+16,Com_Talk_04,"あら やめておくノね
+いいノよ","Oh, you changed your mind?
+That's OK."
+17,Com_Talk_05,きのこじゃなくても買い取るワよ,"It doesn't have to be a mushroom, you
+know. I'll buy anything."
+18,Com_Talk_05b,ゆうしゃサマのものなら何でも買い取るワよ！,"I'll buy anything of yours, Mr. Hero!"
+19,Com_Talk_05c,なになに？ なにがあルの？,Oooh! Whatcha got? Whatcha got?
+20,Com_Talk_05d,くんくん… ゆうしゃサマのかおり…,"*sniff sniff*
+You smell nice, Mr. Hero!"
+21,Com_Talk_13,"？
+いくつ売ってくれるのかシら？",How many will you sell me?
+22,Com_Talk_14,"を個で
+ぜんぶでルピーになるけどいいかシら？","I'll buy  of them for  rupees.
+Is that OK?"
+23,Com_Talk_15,それはうちでは買い取れないのヨね,I can't buy that from you.
+24,Com_Talk_16,装備中の服は一度脱いでからにしてくレる？,Would you mind unequipping that first?
+25,Com_Talk_33,"は
+ルピーになるけどいいかシら？",I can offer  rupees. Is that OK?
+26,Com_Talk_34,"を全部？！
+個でルピーだけど大丈夫？","All of them? OK!
+It'll be  rupees for  of them."
+27,Com_Talk_35,"を個全部ね？
+合計ルピーで買い取るワよ！","OK. I'll buy  of them for
+ rupees!"
+28,Com_Talk_50,"？
+ルピーになるけどいいかシら？",That'll be  rupees. Is that OK?
+29,Com_Talk_51,"？
+いくつ欲しいのかシら？",How many do you want?
+30,Com_Talk_52,"が個だと
+合計ルピーになるけどいいかシら？","It'll be  rupees for  of those.
+Does that work?"
+31,Com_Talk_53,"あら やめておくノね
+いいノよ","Oh, you changed your mind?"
+32,Com_Talk_54,"ルピーが足りないワよ…
+さすがに ただでは あげられなイわ…","You don't have enough rupees!
+I can't just give them away for free,
+you know..."
+33,Com_Talk_55,"荷物がパンパンみたイよ…
+
+頭に乗せるとか背中にはやすとか できないナら
+荷物を減らしてきテね","It looks like your pouch is full to
+bursting...
+
+If you can't carry them on your head or
+grow them on your back, you'll just have
+to make space in your inventory."
+34,Com_Talk_56,"は
+ルピーになるけどいいかシら？","That'll be  rupees, please!"
+35,Npc_kokiri004_Near000,きのこきのこきのこ～,"Mushrooms, mushrooms!"
+36,Npc_kokiri004_Near020,きのこ採ってくるワね,I need more mushrooms...
+37,Npc_kokiri004_Sell000,"ゆうしゃサマが もうすぐ来るって
+デクの樹サマから聞いてたカら
+おなかペッコリかしら～と思って
+森のきのこを かき集めてきたワよ
+何か売りたいものがあるナら
+声をかけてちょうだイね","The Great Deku Tree told us you'd
+be coming, Mr. Hero!
+
+I thought you might be hungry...so I
+went out and gathered a bunch of forest
+mushrooms for you!
+If you have something you want to sell,
+just let me know, OK?"
+38,Npc_kokiri004_Sell010,ありがトね！,Thanks!
+39,Npc_kokiri004_Sell010b,"ゆうしゃサマが買ってくれて
+うれしイわ！","Thanks for buying my mushrooms,
+Mr. Hero!"
+40,Npc_kokiri004_Sell010c,きのこを採ってきて良かっタわ,I'm glad I thought to go pick mushrooms!
+41,Npc_kokiri004_Sell010d,いっぱい食べテね！,"Eat your fill, OK?"
+42,Npc_kokiri004_Sell020,"きのこ買ってくれて ありがトね！
+また採ってくるワね
+あのねゆうしゃサマが もうすぐ来るって
+デクの樹サマに聞いてたカら
+おなかペッコリかしら～と思って
+森のきのこを かき集めてきたワよ
+何か売りたいものがあるナら
+声をかけてちょうだイね","Thanks for buying my mushrooms!
+I'll go pick some more.
+
+The Great Deku Tree said you'd show up,
+Mr. Hero!
+
+I thought you might be hungry...so I
+went out and gathered a bunch of forest
+mushrooms for you!
+And just let me know if you want to sell
+any of your stuff, OK?"
+43,Npc_kokiri004_Sell030,"きのこ買ってくれて ありがトね！
+また採ってくるワね","Thanks for buying my mushrooms!
+I'll go pick some more."
+44,Npc_kokiri004_Talk000,"アラ…？アラアラアラ～！
+待ってたワよ
+ゆうしゃサマが もうすぐ来るって
+デクの樹サマから聞いてたカら
+おなかペッコリかしら～と思って
+森のキノコを かき集めてきたワよ","Huh? 
+You're here, you're here!
+I've been waiting for you!
+The Great Deku Tree was right!
+He said you would come, Mr. Hero.
+
+I thought you might be hungry...so I
+went out and gathered a bunch of forest
+mushrooms for you!"
+45,Npc_kokiri004_Talk010,"わたしはきのこ屋さん！
+おいしいきのこ怪しいきのこよりどりきのこ！
+ホラホラ買って買って！
+それとも何か買い取ってほしいのかシら？","Welcome to the Spore Store!
+My shrooms are delicious, suspicious,
+but never malicious!
+Look around! Buy something!
+Or would you rather sell something?"
+46,Npc_kokiri004_Talk020,"わたしはきのこ屋さん！
+日は暮れたけどキノコは元気よ！
+ホラホラ買って買って！
+それとも何か買い取ってほしいのかシら？","Welcome to Spore Store! The sun
+has set, but my mushrooms are still
+as lively as ever.
+Look around! Buy something!
+Or would you rather sell something?"
+47,Npc_kokiri004_Talk030,"ゆうしゃサマが
+こんなに キノコ好きだったなんて…
+また森へ採りにいってくるワね
+
+買い取りならできるけど
+何か売りたいものは あるかシら？","I had no idea you liked mushrooms so
+much, Mr. Hero...
+
+I'll have to go out to forage for more
+mushrooms!
+
+I'd love to buy something from you.
+Is there anything you want to sell?"
+48,Npc_kokiri004_Talk040,"いらないもの ドシドシ持ってきテね！
+きのこじゃなくても いいのヨ！","Bring anything you don't need to me!
+It doesn't even have to be a mushroom!"
+49,Npc_kokiri004_Talk050,"そうそう夜に光るきのこもあるのヨ
+覚えておくといいワ！","That's right! There are mushrooms out
+there that glow in the dark.
+You should remember that!"
+50,Npc_kokiri004_Talk060,きのこたくさん買ってくれて ありがトね！,Thanks for buying so many mushrooms!
+51,Npc_kokiri004_Talk070,"ここはデクの樹サマの おなかの中ヨ
+ふんいきのいい ウロでシょ？
+ゆうしゃサマのためにお店を開こうって
+みんなで決めて かざりつけタの！
+からだのおっきい ゆうしゃサマには
+きゅうくつかもだケど…
+ゆっくりお買いものしていっテね！","We're technically inside the
+Great Deku Tree's stomach, you know.
+Try not to think too hard about it.
+We all decided to open shops in
+preparation for your visit, so the Great
+Deku Tree let us set up shop here.
+But you're a lot bigger than us, so it
+probably feels a little cramped for you.
+
+Anyway, take your time and enjoy
+shopping!"

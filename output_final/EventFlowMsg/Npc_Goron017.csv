@@ -1,0 +1,134 @@
+#,Title,JPja,USen
+1,"""0000""",マグロックって？,Igneo Talus?
+2,"""0001""",あなたって？,Who are you?
+3,"""0002""",ブロハンって？,Who's Rohan?
+4,"""0003""",いえ…,Nope.
+5,"""0004""",マグロック倒した,I beat an Igneo Talus.
+6,"""0005""",いいよ,Sure!
+7,"""0006""",ダメ,No.
+8,"""0007""",ブロハンに言った？,Did you tell Rohan?
+9,near00,ンゴゴゴゴォ～～！,*snoooore*
+10,near01,ズビビビビーッ！,*SNOOOORE*
+11,near02,んむむむ…,Hrmhrm...
+12,talk00,"こちらはゴロンの名匠
+ブロハン師匠のお屋敷ゴロ","This is the house of the distinguished
+Goron artisan...Master Rohan!"
+13,talk01,"ブロハン様は お仕事の真っ最中ゴロ
+
+話すなら
+粗相の無いように お願いするゴロ","I'm afraid Master Rohan is hard at work.
+If you wanna talk to him, be sure to
+approach him carefully."
+14,talk02,"しかしブロハン様は もうお休みゴロ
+
+宿屋に泊まるか ひまをつぶして
+また明日来るゴロ","Well, Master Rohan is resting now...
+You should get some sleep at the inn
+or kill time and come back tomorrow."
+15,talk04,"しかし ブロハン様は
+まだお目覚めになってないゴロ
+ブロハン様は いつも10時に起床されるので
+御用なら その時に来るといいゴロ","But Master Rohan isn't awake yet.
+He greets the day every morning at 10.
+If you wanna see him, come back then."
+16,talk05,そろそろ寝る時間ゴロが…,It's almost time to sleep...
+17,talk06,寝る時間だが急用なら承るゴロ,"It's time I got some sleep...but if ya
+really need somethin', I don't mind."
+18,talk07,んが？ んぐ…,Hrmph? Hrm...
+19,talk09,"早くダルニア湖のマグロックを倒して
+ブロハン師匠に認めてもらわないと…","I've got to hurry and beat the Igneo Talus at
+Darunia Lake... Earn Master Rohan's approval..."
+20,talk10,"それにしてもダルニア湖のマグロック…
+誰か勝手に倒してくれんゴロか…","It'd sure be nice if someone heroic showed up to
+beat the Igneo Talus at Darunia Lake... If only..."
+21,talk11,何の用ゴロ,You need somethin'?
+22,talk12,"ブロハン師匠は歴代の技を継承する
+神聖な鍛冶職人ゴロ","Master Rohan is a godly blacksmith.
+He's responsible for keepin' the
+ancient arts alive!"
+23,talk13,またゴロ,See ya later.
+24,talk14,何の用ゴロ？,Need somethin'?
+25,talk15,"俺の名はフーゴーゴロ
+
+ブロハン師匠の跡を継ぐため
+修行の日々を送ってるゴロ","My name is Fugo.
+
+
+I've been trainin' hard so that I can
+carry on Master Rohan's work one day."
+26,talk16,"マグロックってのは
+全身が溶岩でできている デカブツの事ゴロ
+ゴロンシティ周辺に何体か居て
+かなりの数を やっつけたゴロが
+ダルニア湖のマグロックのトコには
+どうしても たどり着けないゴロ","The Igneo Talus is a huge beast whose
+body is made of lava. There are a few of
+'em around Goron City.
+I defeated a whole lot of 'em, but no
+matter how hard I try, I can't reach
+the Igneo Talus at Darunia Lake."
+27,talk17,"あそこはゴロンシティから近いようで
+行くのが難しいゴロ…","That place is fairly close to Goron City,
+but it's extremely difficult to get there..."
+28,talk19,"師匠も若い時はマグロックと戦って
+腕力をつけたそうゴロ
+噂では全世界のマグロックと戦い
+勝利したとか…
+う～～んすごいゴロ…","Master fought the Igneo Talus when he
+was young, and he got stronger that way.
+
+Some say he fought every Igneo Talus
+that exists in the world and beat 'em all!
+
+Hrm... I hope I'm that amazing one day."
+29,talk20,"なななんと！
+キミダルニア湖のマグロックを倒したゴロ？
+その手柄俺に100ルピーで譲ってくれゴロ！
+","Whaaaa—?! You say you beat the
+Igneo Talus at Darunia Lake?!
+
+Hmm...I have an idea. How about ya
+sell me that achievement for a cool
+100 rupees?"
+30,talk21,そうか…,I see...
+31,talk22,"よし！商談成立！
+じゃ これ","YESSS! The deal is done!
+Here ya go, brother!"
+32,talk23,"あありがとう！
+後で師匠にマグロックの事言ってみるゴロ！
+これで免許皆伝間違いなしゴロ！","Thanks! Thanks so much!
+
+
+I can't wait to tell Master about the
+Igneo Talus!"
+33,talk24,ん…,Hmm...
+34,talk25,"そして自分にも他人にも
+とっっっても厳しい人ゴロ
+かく言う俺も修行と称し ゴロンシティ周辺の
+マグロックを片付けるよう言われてるゴロが
+ダルニア湖のマグロックの所には
+どうしても たどり着けないゴロ
+はァ…誰か代わりに行ってくれないゴロか…","He's really strict with everyone—
+me included.
+
+In my case, he told me to beat every
+Igneo Talus around Goron City as
+part of my training.
+But I can't get to the Igneo Talus
+at Darunia Lake. *siiiigh*
+
+If only someone would go in my place..."
+35,talk26,何の用ゴロ？,Need somethin'?
+36,talk27,"ダルニア湖のマグロックを倒した事は
+まだ言えてないゴロ","I still haven't been able to tell him
+I defeated the Igneo Talus at
+Darunia Lake."
+37,talk28,"俺が倒したわけじゃないから
+なかなか言い出しにくいゴロよ…
+免許皆伝への道は まだまだ遠いゴロね","I haven't worked up the nerve to tell
+him yet since I technically didn't
+defeat it myself.
+I've got a long way to go before he
+trusts me enough to teach me
+his real secrets..."
+38,talk30,何の用ゴロ？,Need somethin'?

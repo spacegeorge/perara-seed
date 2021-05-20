@@ -1,0 +1,699 @@
+#,Title,JPja,USen
+1,"""0001""",写し絵を追加する,I need a picture.
+2,"""0002""",連動って？,Sensor targeting?
+3,"""0003""",所長？,Director?
+4,"""0004""",ありがとう,Thank you.
+5,"""0005""",あなたは？,Who are you?
+6,"""0006""",さようなら,Bye.
+7,"""0007""",どうして名前を？,You know my name?
+8,"""0008""",写し絵って？,Pictures?
+9,"""0009""",違います,"No, I'm not."
+10,"""0010""",シーカーストーンって？,Sheikah Slate?
+11,"""0011""",古代研究って？,Ancient Tech Lab?
+12,"""0012""",楽に？,Is it hard?
+13,"""0013""",いいよ,Sure.
+14,"""0014""",ダメ,No.
+15,"""0015""",まだ,Not yet.
+16,"""0016""",はい,Yes.
+17,"""0017""",大丈夫,I'm good.
+18,"""0018""",要る,I want them.
+19,"""0019""",要らない,You can keep them.
+20,"""0020""",お願いします,Please...
+21,"""0021""",やめときます,Never mind.
+22,"""5500""",はい,Yes.
+23,"""5501""",いいえ,No.
+24,"""5502""",買う,I'll take it.
+25,"""5503""",やっぱりやめる,I've changed my mind.
+26,"""5504""",何か買う,I'm here to shop.
+27,"""5505""",何か売る,I'm here to sell.
+28,"""5506""",やめとく,Good-bye.
+29,"""5507""",ぜんぶ買う,I'd like all of them.
+30,Com_Talk_00,現在追加できる写し絵は こちらです,"These are the pictures you can currently
+add."
+31,Com_Talk_06,どちらを お買い上げになりますか？,Would you like to buy one?
+32,Com_Talk_10,"を お買い上げですね
+ルピーになりますが よろしいですか？","I have to charge you  rupees for
+the .
+Boss's orders!"
+33,Com_Talk_11,ありがとうございました,Thank you for supporting our research.
+34,Com_Talk_30,"を枚でしたら
+ルピーですが よろしいですか？","You want  of the
+s?
+That will be  rupees."
+35,Com_Talk_31,"ですね？
+いくつお買い上げになりますか？","Sure, I can sell you some
+s.
+How many would you like?"
+36,Com_Talk_34,"を全部ですか…
+枚でルピー必要ですよ？","You want to buy all of the 
+s?
+It'll be  rupees for all  of them."
+37,TerrorArrow,わわっ！,Arrrgh!
+38,TerrorBomb,リモコンバクダン？！,A Remote Bomb?!
+39,TerrorSword,それはっ…！,Stop that!
+40,near00,う～む…,Hmm...
+41,talk00,"これだけの数の書物を ご覧になるのは
+初めてでございましょう？
+ここには古代の文明に関する文献が
+集められておりましてですね…
+その数たるや なんと…","I imagine you've never seen so many
+books in one place. Pretty incredible,
+isn't it?
+We've gathered all of Hyrule's known
+literature on ancient civilizations here.
+
+As for the actual number of books, well..."
+42,talk01,"あーっ！私としたことが！
+自己紹介を忘れてました！","Ah! Where are my manners? I nearly
+forgot to introduce myself!"
+43,talk02,"インパ様に お会いになったようですね
+
+それでは そのシーカーストーンに
+基本アイテムを復活させましょうか…
+…とその前に あなたにお伝えせねば
+ならない事が山ほどありまして…
+例えば我々の研究の歴史そしてその成果
+その後で このハテノ古代研究所を案内し…
+…","So you've met with Lady Impa.
+
+
+Well then, let's take a look at that
+Sheikah Slate. I'll try to restore some of
+its basic functionality.
+But I need to tell you something first.
+A lot of somethings, actually...
+
+I'll start with the history of the research
+we're doing here, as well as our findings.
+
+After that, I'll give you a tour of the
+Hateno Ancient Tech Lab."
+44,talk03,"私は シモンと申します
+
+あなたは…
+
+リンクさんですよね？","My name is Symin.
+
+
+You are...
+
+
+Link, right? "
+45,talk04,インパ様から全て聞いています,Lady Impa caught me up to speed.
+46,talk05,"かしこまりました
+それでは僭越ながら…
+まずはマップから
+ハイラル図鑑を開いてください
+そして素材の項目からポカポカダケの写し絵を
+選び「これを探す」…としてください
+そうすればシーカーセンサー＋がポカポカダケを
+探知してくれますよ","I see. I must apologize for being so
+forward, but could you please open your
+Hyrule Compendium?
+I need you to select the picture of the
+sunshroom and tune the sensor to it.
+
+And with that, the Sheikah Sensor + is
+set to find sunshrooms."
+47,talk06,"まるでハイラル図鑑が過去の記憶を
+取り戻したかのようですね！","It seems the Hyrule Compendium
+recovered a picture from the past!"
+48,talk07,"所長！""聞いてください所長！
+なんと本物のシーカーストーンですよー！","Director! Listen, Ms. Director!
+This is a REAL Sheikah Slate!"
+49,talk08,"ああ そうでした…
+所長の紹介がまだでしたね","Oh, that's right...
+I haven't introduced our director."
+50,talk09,"かしこまりました
+それではこれは私達の晩御飯にでも…","Understood. Well, I'll prepare these a bit
+later. I'm trying out a new recipe for
+tonight's dinner."
+51,talk10,"所長なら今ちょうどあちらに…
+
+あの方こそがハテノ古代研究所の所長にして
+古代研究の第一人者…プルア様です","Ms. Purah happens to be right over
+there...
+
+As the Hateno Ancient Tech Lab director,
+Ms. Purah is the world's foremost
+authority on ancient Hyrule culture."
+52,talk100,"申し訳ございませんが
+ルピーが足りないようです…","I am dreadfully sorry, but you appear to
+be light on rupees..."
+53,talk101,"誠に申しあげにくいのですが
+所持金が足りないようです…","I am sorry to have to tell you this, but it
+appears you do not have sufficient funds
+on hand..."
+54,talk102,"すいませんが お金が足りないようです…
+無料なのは初回のみですので…","Sorry, but we need more rupees than
+you currently possess. Only the first time
+was free..."
+55,talk103,"残念ですが お金が足りないようです
+私達もギリギリなので いくばくかのご協力を…","Unfortunately, you don't seem to have
+enough rupees. We operate on a tight 
+budget here. You understand, I'm sure."
+56,talk104,"その封筒の女性の正体は…
+まさか…","The woman in that picture...
+You don't suppose it's..."
+57,talk11,"私は研究者としてのプルア様に心酔する者で
+幸運なことに助手をまかせられております
+ところで リンクさんだけには
+知っておいてほしいことがありまして…
+じつは所長…
+見た目こそ少女なのですが…
+い… いや私の口からお話しするのは
+やはり ちょっと…
+恐れ入りますが
+プルア様本人から聞いてみてください","I have the utmost respect for Ms. Purah 
+and all she's accomplished. I'm honored
+to be her assistant.
+On that note, Link...
+
+
+You see, the director may look like a
+young girl, but...
+
+Well...maybe it's not my place to be
+telling you these things.
+
+You should talk to Ms. Purah herself."
+58,talk12,おはようございます,Good morning.
+59,talk13,こんにちは,Hello.
+60,talk14,こんばんは,Good evening.
+61,talk15,はいはい,Ah...
+62,talk16,はい それでは…,OK then...
+63,talk17,"シーカーストーンとは私達シーカー族の祖先が
+世に安寧をもたらすために開発した万能機器…
+シーカーストーンに入っているアイテムも
+我らシーカー族が開発したものなんですよ
+それにしても所有者がリンクさんでよかった！
+これが悪いヤツの手に渡ると それはもう…","The Sheikah Slate is a device that our
+Sheikah ancestors developed to bring
+peace and order to Hyrule.
+The runes contained in your
+Sheikah Slate are also something we
+Sheikah developed.
+I'm so relieved to know that you'll be
+using this device for the betterment of
+Hyrule, Link.
+If such a device fell into the hands of
+evil... I shudder to think what might
+happen."
+64,talk18,ご用は何でしょう？,What do you need?
+65,talk19,他にご用は おありですか？,Is there anything else you need?
+66,talk20,"アイテムは以上…ですか
+なるほど
+あれ？ おかしいな
+基本アイテムが入ってないとは…
+何らかの理由で
+欠損してしまったのかもしれませんね","So that's it for runes... But... Hmm...
+
+
+Strange... It doesn't seem like you
+have the basic runes...
+
+I don't understand why they're missing.
+There must be some reason..."
+67,talk21,"古代研究とは… シーカー族の研究者達が
+神話の時代からの文献を長年に渡り解析""実装し
+神獣や祠を地政学構造学的見地から紐解き
+長年に渡り研究 改良を重ね復元する事で…
+…あ！ ごめんなさい""難しかったですかね？
+
+とどのつまり この一言に集約されます","The Hateno Ancient Tech Lab is where
+we Sheikah researchers study the
+scientific contributions of our ancestors.
+We aim to apply our findings to the
+world of today and to unravel the
+mystery of the shrines and Divine Beasts.
+I'm personally interested in exploring
+these entities from a geopolitical and
+structural-engineering point of view.
+The potential of using modern methods
+to reconstruct and iterate upon the past
+is simply too...
+Oh! Putting you to sleep, am I?
+
+
+Well, speaking in terms that may be of
+interest to you..."
+68,talk22,古代研究とは…,"The Hateno Ancient Tech Lab has one
+unshakable objective:"
+69,talk23,"幾度となく起こり上がる厄災…
+ガノンを如何に効率よく封じ込めるか
+如何に先人達の英知を継承し改良していくか
+という研究です","To develop technology to effectively
+seal Ganon, the infinite evil that has
+plagued Hyrule throughout time.
+We believe this can be achieved by
+studying and improving upon the
+creations of those who came before us."
+70,talk24,"シーカーストーンを持った青年が現れたら
+力を貸してあげるようにと
+その者こそが""回生の眠りより覚めし希望…
+名はリンクであると…
+あーっ！私としたことが！
+大事な報告を忘れてました！
+リンクさん
+あなたにではなくてですね…","You see...we were told, \""A young man
+holding a Sheikah Slate will appear. And
+you must do all you can to help him.
+He will be the hope that awakens from
+the Slumber of Restoration. His name will
+be Link.\""
+Oh, dear! I forgot to tell you something
+very important."
+71,talk25,"ここにある勇導石で そのアイテムを
+復活させる事も可能なんですが…
+それにはカカリコ村のインパ様から
+お許しを頂く必要がありましてね…","You can use the Guidance Stone here to
+reboot those runes.
+
+But before you can do that, you'll need
+approval from Lady Impa in
+Kakariko Village."
+72,talk26,"シーカーストーンの基本アイテムを
+復活させたい思いは私も同じですが…
+そのためには我らがシーカー族の最高権威
+インパ様のお許しが必要です
+ここから西の カカリコ村におられるので
+彼女のお許しを もらってきてくださいな","I certainly share your desire to restore
+the basic runes in your Sheikah Slate.
+
+But before you can do that, you'll need
+approval from Lady Impa, the highest
+authority in our tribe.
+She resides west of here in
+Kakariko Village. You should
+go see her to get approval."
+73,talk27,"シーカーセンサー＋の使い方をまとめた本を
+私の机に置いておきましたので
+それは後程読んでいただくとして…","The detailed instructions are written
+down in the book on the desk there.
+You should read them."
+74,talk28,"そうそうシーカーセンサー＋の詳しい使い方は
+机の上の本に まとめてありますので
+また読んでみてくださいね","The detailed instructions for the
+Sheikah Sensor + are written down in the
+book on the desk there.
+You should read them when you get a
+chance."
+75,talk29,ありがとうございます！,Thank you.
+76,talk30,"シーカーセンサー＋…
+ついに手に入れましたね
+これね すごく便利なんですよ
+
+文献によればウツシエで撮った物を探知できる
+との事です
+私から説明するのもなんなので…
+習うより慣れろ！実際使ってみましょう","You've acquired the Sheikah Sensor +!
+That should really come in handy.
+
+With that, you can sense things that
+you've captured with your Camera.
+
+Explaining won't do it justice—why not
+learn by trying? Let's give it a shot,
+so to speak."
+77,talk31,"ポカポカダケを探すなら""ウツシエで
+そこのポカポカダケを撮影してみてください
+そしてハイラル図鑑から センサー登録すれば
+シーカーセンサー＋が探知してくれるんです！","If you want to find a sunshroom with
+your sensor, you'll first need to capture
+a sunshroom with your Camera.
+Then in the Hyrule Compendium, you can
+set your Sheikah Sensor + to alert you
+anytime you're near a sunshroom!"
+78,talk32,ポカポカダケを持って来てくれたんですね,I see you've brought the sunshrooms.
+79,talk33,"ハイラル図鑑と連動した
+シーカーセンサー＋は どうでしたか？
+探す物を試練の祠に戻したかったら
+マップからシーカーセンサーを選び
+試練の祠を選択してくださいね
+
+あ それから…
+別件で お話ししたい事がございますので
+また お暇な時にでも お声掛けください","So? Was the Sheikah Sensor + to your
+liking?
+
+Oh, yes... I just remembered there was
+something else I wanted to talk to you
+about.
+Stop by when you have time to talk."
+80,talk34,じゃあ そうですね…,Let's see here.
+81,talk35,"お願いしたポカポカダケですが
+まだ3個""集められてないようですね…
+もう一度探索の方法を ご説明しましょうか？","Huh? You don't seem to have the three
+sunshrooms I requested...
+
+Do you want me to explain the sensor
+function to you again?"
+82,talk36,"無事ポカポカダケを撮影できたようですね
+ありがとうございました","It seems like you got a picture of a
+sunshroom! Excellent."
+83,talk37,"じゃ リンクさんがお持ちのポカポカダケ
+3個 いただいてもよろしいでしょうか？","OK, now please hand over those three 
+sunshrooms."
+84,talk38,じゃ お礼にこれを…,Here you go.
+85,talk39,"そうですか残念です…
+
+また気が変わったら お願いしますね","Oh, that's too bad...
+
+
+Let's hope you change your mind."
+86,talk40,"かしこまりました
+それでは…",Very well.
+87,talk41,"勇導石ちゃん使うなら次回から有料だかんね！
+研究所の運営に ご協力を♪","And it won't be free from now on, either!
+Keeping a lab like this running has
+expenses, you know!"
+88,talk42,"リンクさん お待ちしておりました
+シーカーストーンを修理されに来たんですよね
+私はシモンと申します
+
+このハテノ古代研究所にて
+プルア様の古代研究の助手をしております
+分からないことがございましたら
+なんなりと質問してくださいね","I'm sorry to keep you waiting, Link.
+You came to get your Sheikah Slate fixed,
+correct? 
+My name is Symin. I work here at the
+Hateno Ancient Tech Lab as Lady
+Purah's research assistant.
+If you have a question, please don't
+hesitate to ask it."
+89,talk43,"ふふっ…リンクさん
+耳より情報です！
+シーカーセンサー＋で探索できる物が
+今すぐ増やせますよ！","Link... I've got some news that should
+be music to your ears!
+
+I've found a way to help you search for
+new objects using the Sheikah Sensor +!"
+90,talk44,"アタシの可愛い勇導石ちゃんを
+無料で使わすのはアレだけど…
+どうなるのか アタシも見てみたいし
+最初の1回だけ無料で使ってもいいヨ♪","I don't normally like to let people use my
+little Guidance Stone for free, but...
+
+I kind of want to see what'll happen, so
+just this once I'll let it pass."
+91,talk45,"…との事なので恐縮なのですが
+シーカーストーンを…ね？","Well... You heard her. Could you go and
+use the Sheikah Slate over there?"
+92,talk46,はい それでは…,"Very well, then..."
+93,talk47,"リンクさん…試しにシーカーストーンを
+勇導石に かざしてもらえますでしょうか？","Link, as a test, could you try
+touching the Sheikah Slate to
+the Guidance Stone?"
+94,talk48,"ん…？お礼としてマックストリュフを3個
+渡そうと思ったのですが持てないようですね
+どうされます？要ります？","Hmm... I was going to give you three 
+hearty truffles in return, but it looks
+like you can't hold any more.
+Do you want them?"
+95,talk49,お金は取るけどなー♪,Thanks for the moola!
+96,talk50,"分かりました
+それでは話を進めさせていただいて…",Very well. Let's get started.
+97,talk51,チェッキー！,Check it!
+98,talk52,お！おおっ…これは！,Oh! Wow. This is...
+99,talk53,"なら お持ちのマックストリュフを売るなりして
+ポーチに空きを作って また来てくださいね","Then get rid of some of the
+hearty truffles you have,
+and come back."
+100,talk54,"…
+
+あれここ驚くところなのですが…
+じゃ少し説明させていただきますね
+研究を進めていたところ ここの勇導石に
+まだ過去の写し絵が残っていたんです！
+それらの写し絵を抽出して
+リンクさんのハイラル図鑑に追加すれば
+シーカーセンサー＋を使った探索が
+グッと楽になるはずです","...
+
+
+Please feel free to show your excitement.
+Anyway...
+
+As I was conducting my research, I found
+that there were still some pictures of
+the past left on the Guidance Stone!
+If you add those pictures to your
+Hyrule Compendium, you can search for
+their subjects with the Sheikah Sensor +."
+101,talk55,"かしこまりました…しかし
+ハイラル図鑑には まだ空きがあるようです","You know, it looks like you still have
+space in the Hyrule Compendium."
+102,talk56,…だそうです,Yes... What she said.
+103,talk57,それでは早速勇導石のスイッチ…,"Let's go ahead and turn on the
+Guidance Stone."
+104,talk58,"ポカポカダケなら
+研究所の裏に生えているはずです
+それをウツシエで撮ったら
+私に報告してください","There should be a sunshroom growing
+behind the lab. 
+
+Go take a picture of it with the Camera,
+and let me know when you've done it."
+105,talk59,"困った人ですね…
+下りてから話してくださいますか？","I didn't think you'd be so...childish.
+I'll talk to you when you come down from
+there."
+106,talk60,"高い所は危ないですよ？
+下りて来ていただけませんか？","You realize you might break the lab
+equipment if you fall from up there,
+don't you? Come down please."
+107,talk61,"しかし勇導石の写し絵は
+ハイラル図鑑に移動しちゃったようです…
+これだと入れ直す事はできないので
+上書きには注意してくださいね","It appears the picture from the
+Guidance Stone was transferred to 
+your Hyrule Compendium.
+You can't restore transferred pictures,
+so be careful of overwriting it."
+108,talk62,よろしいですか？,Is that OK?
+109,talk63,"ポカポカダケを撮影したついでと言っちゃ
+なんですが
+そのポカポカダケを3個
+私の所まで持って来てもらえます？
+すぐ北のエキスパの森に生えてるはずなので…
+それをシーカーセンサー＋で…是非！","This seems like a nice opportunity to ask
+if you'd mind bringing me three
+sunshrooms.
+You can find sunshrooms growing
+in Retsam Forest, I believe... The
+Sheikah Sensor + should make it a snap!"
+110,talk64,"リンクさん！""写し絵を全て
+手に入れられたんですね！
+凄い！
+俗に言う コンプリートというヤツですよ！
+こういう時は記念に何か差し上げるべきですが
+当研究所は いつもカツカツで…
+あっ…あれがいいか…
+
+それでは こんなものでよろしければどうぞ
+
+ここの本に挟まってたんですけど
+私が持ってたら怒られますんで…","Link! My goodness! Have you really
+collected EVERY picture?!
+
+Incredible! I never dreamed that I might
+someday see a complete collection.
+
+This level of dedication to research
+deserves a reward, but I'm not sure
+the lab budget has room for one...
+Although... If he's that passionate about
+pictures, maybe...
+
+Well, it will have to do. Here. I found
+this sandwiched in a book. I have no
+interest in it myself, so..."
+111,talk65,"さて…続きはウツシエで撮影するか
+ここの勇導石で追加するか…","You can fill in open slots by taking
+pictures with the Camera or using
+the Guidance Stone."
+112,talk66,"ご寄附さえ頂ければ いつでも
+写し絵を追加致しますよ","As long as you contribute a donation, 
+I'll add a picture whenever you like."
+113,talk67,"え？""今更ですか？！
+
+もう自己紹介するほどでもないと思いますが
+どうしてもと おっしゃるのなら…","Huh? Me?
+
+
+Sorry, I've never been very good at
+introductions..."
+114,talk68,"私は シモンと申します
+
+研究者にあこがれて""運良くここで
+働かせてもらっている助手でございます
+研究に没頭しているおかげで
+彼女ができた事が無いのが悩みの種ですが…","My name is Symin.
+
+
+I was lucky enough to land a position in
+this lab as the director's assistant.
+It's been a dream come true! But...
+I've been so engrossed in my research
+that I haven't had time to find a
+girlfriend..."
+115,talk69,言い訳とは見苦しいゾ♪,Hmph... Sounds like an excuse to me.
+116,talk70,やっぱり努力が足りないですかね… トホホ…,"I guess I'm just not trying hard enough...
+Heh..."
+117,talk71,ま～～た言ってる♪,That's an understatement...
+118,talk72,"その後ハイラル図鑑を開いて
+ポカポカダケの写し絵を登録すれば…
+なんとシーカーセンサー＋が
+近くのポカポカダケを探知してくれるんです！","After that, simply open your
+Hyrule Compendium and register your
+sunshroom picture with the sensor.
+Once you do that, the Sheikah Sensor +
+will detect sunshrooms nearby!"
+119,talk73,"間違ってポカポカダケをポーチに入れたなら
+どこかに置いてから撮影してもいいですよ","If you accidentally picked the sunshroom
+before taking a picture of it, just drop it
+somewhere and snap away."
+120,talk74,"ポカポカダケの写し絵
+撮って来ていただけましたか？","Were you able to take a picture of a
+sunshroom?"
+121,talk75,それでは確認をば…,Let me confirm...
+122,talk76,"じゃ次は""ハイラル図鑑を開いて
+ポカポカダケの写し絵を登録してみてください
+そしたらなんと…
+
+シーカーセンサー＋がポカポカダケを
+探知してくれますよ！","Next, open your Hyrule Compendium and
+tune the sensor to your picture of the
+sunshroom.
+The Sheikah Sensor + will then be able
+to sense sunshrooms!"
+123,talk77,"まずは研究所の裏のポカポカダケを
+ウツシエで撮って来てもらえますか？","First, go take a picture of a sunshroom
+with the Camera. There is one behind the
+lab."
+124,talk78,"あれ？ポカポカダケの写し絵は
+どこにも無いような…","Hmm... I don't see a picture of a
+sunshroom in your album."
+125,talk79,"……ん？
+
+も… もしや その腰のモノは？！
+シーカー…","...Hmm?
+
+
+Is that... That thing on your waist?
+Is that a Sheikah..."
+126,talk80,"いや間違い無い
+本物のシーカーストーンじゃないですか！
+じつはこの私恥ずかしながら
+実物を見るのは初めてでしてね
+実際に どんなアイテムが入ってるのか
+教えていただけると大変参考になるのですが","There's no mistaking it. That's a real
+Sheikah Slate, isn't it?!
+
+I've never actually seen one in person!
+
+
+If you could just show me the runes
+on it, I'd be most appreciative."
+127,talk81,"ビタロック…ふむふむ
+マグネキャッチ…はいはい
+リモコンバクダンにアイスメーカーと
+それからそれから？","Stasis... Ah.
+Magnesis... Yes, yes.
+
+The Remote Bomb and Cryonis...
+And what else? Let's see..."
+128,talk82,"それですとハイラル図鑑の空きの関係で
+追加できる写し絵が枚になりますが…","Let's see how many pictures we can add
+to your Hyrule Compendium. Ah, it looks
+like you have space for ."
+129,talk83,ハイラル図鑑に写し絵を追加しました,Hyrule Compendium updated.
+130,talk84,"リンクさん写し絵を全て集めてしまうなんて
+流石ですね！
+私から して差し上げる事は
+これ以上 ございません
+それでもまた こうして遊びに来てくださいね","Link, I am incredibly impressed you have
+managed to collect all the pictures!
+
+There is nothing more I can offer you,
+but I wouldn't mind your company
+every now and then."
+131,talk85,"…あれ？
+
+まだ写し絵を追加できると思ったのですが…
+なぜか今は無理なようですね","...Huh?
+
+
+I thought I could still add a picture, 
+but it looks like I can't right now."
+132,talk86,"もしかして他の選択肢が隠れてるのか…
+どうすれば出て来るのでしょう？","I have a feeling some options are still
+hidden. But I'm not sure what can be 
+done to make them appear."
+133,talk87,"う～ん…研究によれば
+もっと写し絵を追加できるはずなんですが…","Hmm... According to my research,
+you should still be able to add
+more pictures..."
+134,talk88,ご用は何でしょう？,What do you need?
+135,talk89,楽に？って リンクさん…,"Hard? No, no, not at all..."
+136,talk90,"シーカーセンサーが
+シーカーセンサー＋に パワーアップしたので
+ハイラル図鑑と連動し登録されてある写し絵を
+探索できるようになりましたよね？
+だから ここの勇導石に眠る写し絵を
+ハイラル図鑑に どんどん追加していけば
+欲しい素材などを探索しやすくなり
+旅の一助になるかな と思った次第です","The Sheikah Sensor has been powered
+up to the Sheikah Sensor +.
+
+It can now access a picture registered in
+your Hyrule Compendium, allowing you
+to search for the subject of the picture.
+I trust you now see the benefit of adding
+pictures to your Hyrule Compendium.
+
+It makes it much easier to search for
+items you need, reducing one more
+burden you face in your travels."
+137,talk91,もう一度 ご説明して差し上げましょうか？,Shall I explain it all once more?
+138,talk92,"それでは早速
+勇導石にシーカーストーンをかざして…","Now then, go ahead and place your
+Sheikah Slate on the Guidance Stone."
+139,talk93,他にご用は おありですか？,Do you need anything else?
+140,talk94,"ウツシエで撮影した写し絵は
+アルバムに保存されます
+と同時に撮影した物が生き物魔物素材武器
+お宝だと自動でハイラル図鑑に追加されます
+ハイラル図鑑に追加された物なら何でも
+シーカーセンサー＋で探索できますから
+色んな物を撮影すればするほど
+冒険を有利に進められると思います","Pictures you take with the Camera
+are stored in the album.
+
+Pictures of living things, monsters,
+materials, weapons, treasure, etc. are
+also added to the Hyrule Compendium.
+You can track anything that has been
+added to the Hyrule Compendium with
+your Sheikah Sensor +.
+So take pictures of everything you can,
+as doing so will help you tremendously!"
+141,talk95,"写し絵は これ以上追加できませんので
+一覧を見るだけになりますが よろしいですか？","You can't add any more pictures.
+But you can look at them if you'd like
+to do that. How's that sound?"
+142,talk96,"すいませんが その種類の写し絵は
+もう追加できないようですね","Sorry, but I can't sell you any more
+of those pictures."
+143,talk97,"その種類の写し絵は
+全て そろっているようですよ？","You already have all of that type
+of picture..."
+144,talk98,"リンクさんその種類の写し絵は
+これ以上存在しないようです","Link, you already have every such
+picture we sell."
+145,talk99,"残念ですが その種類の写し絵は
+勇導石には もう無いようですね…","Unfortunately, there are no more
+pictures of that sort left in the 
+Guidance Stone..."

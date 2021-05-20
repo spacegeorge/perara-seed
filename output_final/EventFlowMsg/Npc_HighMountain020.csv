@@ -1,0 +1,74 @@
+#,Title,JPja,USen
+1,"""0002""",朝まで,Until morning.
+2,"""0003""",昼まで,Until noon.
+3,"""0004""",夜まで,Until night.
+4,"""0005""",やっぱりやめる,"Actually, never mind."
+5,"""0006""",普通のベッド,Standard bed.
+6,"""0007""",リトの羽毛ベッド,Rito-down bed.
+7,"""0008""",リトの羽毛ベッド？,Rito-down bed?
+8,near00,いらっしゃ～い,Welcome!
+9,talk00,"普通のベッドなら20ルピー
+リトの羽毛ベッドなら80ルピーだよ","A standard bed will run you 20 rupees.
+A Rito-down bed will cost you
+80 rupees."
+10,talk01,"わかった
+疲れを感じたら いつでも来なよ","All right.
+Stop by again whenever you are feeling
+tired."
+11,talk02,"ん？ ルピー足りないみたいだね
+
+しっかり稼いでから また来なよ","Hmm? Looks like you are short on
+rupees.
+
+Come back after you save up."
+12,talk03,いつまで寝るんだい？,How late would you like to sleep?
+13,talk04,じゃ気を付けて,All right. Take care.
+14,talk05,おはよう よく眠れたかい？,Good morning. Hope you slept well.
+15,talk06,"こんにちは
+とっくに お日さんは上ってるよ","Hello. The sun has been up for quite
+some time."
+16,talk07,"よく眠れたかい？ こんな夜に起きるなんて
+何か理由が あるんだろうけど……","Did you sleep well?
+You must have a reason to get up in the
+middle of the night like this..."
+17,talk08,こんな天気の中 お疲れさんだねぇ,"It must have been tough braving this
+weather."
+18,talk10,おやおや雨に降られたのかい？,Did you get wet out in the rain?
+19,talk11,夜分まで お疲れさんだねぇ,"Only Stalkoblins have reason to be up
+this late, traveler."
+20,talk12,よく来てくれたね,Thanks for stopping by.
+21,talk13,ここはリトの御宿ツバメの巣だよ,"This is Swallow's Roost, Rito Village's
+premiere—and only—inn."
+22,talk14,"じゃ朝になったら起こしてやるから
+それまで ゆっくり休んでいきな","All right. I will wake you come morning.
+Sweet dreams."
+23,talk15,"じゃ昼になったら起こしてやるから
+それまで ゆっくり休んでいきな","All right. I will wake you up at noon.
+Pleasant dreams."
+24,talk16,"じゃ夜になったら起こしてやるから
+それまで ゆっくり休んでいきな","All right. I will wake you come nighttime.
+Rest up until then."
+25,talk17,"おはよう 
+リトの羽毛ベッドは よく眠れただろう？","Good morning! Did you sleep well on the
+Rito-down bed?"
+26,talk18,"リトの羽毛ベッドは どうだった？
+熟睡できただろう？","How was the Rito-down bed?
+Feeling fully rested?"
+27,talk19,"もう夜だよ
+リトの羽毛ベッドだと ずっと寝られるだろう？","Night has already fallen, though I do not
+blame you for sleeping in.
+That Rito-down bed is hard to beat."
+28,talk20,"リトの羽毛ベッドは我らリト族の繊毛を使った
+ふわふわのベッドだよ
+そこら辺の馬宿のベッドとは
+比べ物にならないほど休まるよ
+朝起きたら元気間違いなし！
+一度お試しあれ","The Rito-down bed is made using only
+genuine Rito feathers.
+
+I will warn you—sleep a night on this
+bed, and you will never want to sleep on
+a stable bed ever again!
+Should you not wake up full of energy in
+the morning, I'll eat my own tailfeathers!
+GUARANTEED!"

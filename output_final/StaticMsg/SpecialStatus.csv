@@ -1,0 +1,43 @@
+#,Title,JPja,USen
+1,AddGuardPlus_Name,盾ガードアップ大 +,Shield Guard Up +
+2,AddGuard_Name,盾ガードアップ +,Shield Guard Up +
+3,AddLifePlus_Name,耐久アップ大,Durability Up +
+4,AddLife_Name,耐久アップ,Durability Up
+5,AddPowerPlus_Name,攻撃力アップ大 +,Attack Up +
+6,AddPower_Name,攻撃力アップ +,Attack Up +
+7,AllSpeed_Name,移動力アップ,Speed Up
+8,AttackUp_Name,攻撃アップ,Attack Up
+9,Cb_AncientWeaponPowUp_Name,古代武器攻撃力アップ,Ancient Proficiency
+10,Cb_ChargeAttackEnergy_Name,タメ攻撃がんばり長持ち,Charge Atk. Stamina Up
+11,Cb_DecSwimEnergy_Name,加速泳ぎがんばり長持ち,Swim Dash Stamina Up
+12,Cb_DecWallJumpEnergy_Name,壁登りジャンプがんばり長持ち,Climbing Jump Stamina Up
+13,Cb_MasterSwordPowUp_Name,マスターソード剣ビーム強化,Master Sword Beam Up
+14,Cb_NightGlow_Name,ガイコツ変装・骨武器得意,Disguise; Bone Atk. Up
+15,Cb_NightMoveSpeedUp_Name,夜間移動スピードアップ,Night Speed Up
+16,Cb_ResistElectric_Name,しびれダメージ減少,Shock Damage Resist
+17,Cb_ResistFire_Name,炎無効,Fireproof
+18,Cb_ResistFreeze_Name,凍結無効,Unfreezable
+19,Cb_ResistHot_Name,暑さガード,Heat-Resistant
+20,Cb_ResistLightning_Name,雷無効,Unshockable
+21,Cb_TerrorAndNightMoveSpeedUp_Name,夜間移動スピードアップ,Night Speed Up
+22,ClimbSpeedUp_Name,壁登りスピードアップ,Climb Speed Up
+23,Critical_Name,フィニッシュブロー,Critical Hit
+24,DefenseUp_Name,防御アップ,Defense Up
+25,ExGutsMaxUp_Name,MAXがんばり,Extra Stamina
+26,Fireproof_Name,炎ガード,Flame Guard
+27,GutsRecover_Name,がんばり回復,Stamina Recovery
+28,LifeMaxUp_Name,MAXハート,Extra Hearts
+29,LongThrow_Name,ロングスロー,Long Throw
+30,Quietness_Name,静かさアップ,Stealth Up
+31,RapidFire_Name,速射,Quick Shot
+32,ReduceAncientEnemyDamge_Name,古代兵器耐性アップ,Guardian Resist Up
+33,ResistCold_Name,寒さガード,Cold Resistance
+34,ResistElectric_Name,エレキガード,Shock Resistance
+35,ResistFreeze_Name,凍結無効,Unfreezable
+36,ResistHot_Name,暑さガード,Heat Resistance
+37,ResistLightning_Name,雷無効,Lightning Proof
+38,SandMoveSpeedUp_Name,砂上スピードアップ,Sand Speed Up
+39,SnowMovingSpeed_Name,雪上スピードアップ,Snow Speed Up
+40,SpreadFire_Name,5連射,Five-Shot Burst
+41,SurfMaster_Name,サーフィン滑りアップ,Shield Surf Up
+42,SwimSpeedUp_Name,泳ぎスピードアップ,Swim Speed Up

@@ -1,0 +1,151 @@
+#,Title,JPja,USen
+1,"""0000""",いつの間に？,How did you...
+2,"""0001""",ワープした？,Did you...fly here?
+3,"""0002""",覚えてる,"No, I remember."
+4,"""0003""",忘れた…,"Yep, I forgot..."
+5,"""0004""",どうして知ってるの？,How do you know?
+6,"""0005""",わかった！,I got it.
+7,"""1002""",コツを教えて,Help me out here.
+8,"""1003""",さようなら,Bye.
+9,"""1004""",はい！,Yes!
+10,Clear1_00,"自信たっぷりじゃが
+まだ 1つしか克服できとらんじゃないか","Your confidence is to be admired...
+but you've only cleared one shrine."
+11,Clear2_00,"良い返事じゃ
+祠は 2つ克服できたようじゃのう","A spirited answer! Yes, it appears you
+have cleared two shrines now."
+12,Clear3_00,"自信たっぷりな返事をすると思うたら
+祠を もう 3つも克服したとな？
+じゃが…
+残り1つが なかなか見つからないものよのう","You have cleared three shrines now.
+Good work.
+
+However...there is still one more that
+eludes you, correct?"
+13,FirstTalk00,"こんな老いぼれに後れを取るとは
+お主も まだまだじゃのう","I'm surprised it took you so long to
+catch up with an old man like me!"
+14,FirstTalk01,"ふぉっ ふぉっ ふぉっ
+年の功というやつじゃ",Oho ho! Leave an old man his secrets.
+15,FirstTalk02,"ふぉっ ふぉっ ふぉっ
+
+ワープなど せんでも
+お主に負けるような わしではないわ","Oho ho! So you think an old man like me
+needs to fly to stay ahead of you?
+
+I still have a few tricks left in me."
+16,FirstTalk03,"遅い遅い待ちくたびれたぞ
+もう一度 ワープの方法を教えてやろうか","Well, you certainly took your time.
+Did you forget how to travel instantly?"
+17,FirstTalk05,"シーカーストーンのマップを開いて
+青い印のついた塔や祠を選ぶのじゃ
+一度マップに登録された場所であれば
+瞬時に移動できる… そう覚えておくがいい","Open the map on your Sheikah Slate,
+and select one of the blue tower or
+shrine icons.
+If you've registered that location to the
+map, you can travel there instantly."
+18,FirstTalk06,"お主が祠を探している様子を
+ここから ずっと見ておったぞ","I was observing you the entire time you
+were searching for the shrines..."
+19,FirstTalk07,"ものを探すには高いところから見回す のが一番
+そう言ったじゃろう
+ここは残りの祠を探す絶好のポイントじゃ","It's best to search for things from a
+high vantage point. I doubt you need
+a reminder of that, though.
+Taking in the view here can teach you
+much about shrine locations..."
+20,FirstTalk08,"さてさて…
+
+お主を ここに呼んだのは
+ここが祠を探すのに絶好のポイントだからじゃ","Now then...
+
+
+I wanted you to join me up here so you
+could use this as a vantage point to
+search for shrines."
+21,FirstTalk09,"さてさて…
+シーカーストーンの望遠鏡は使っておるか？
+ここからは全ての祠が見える
+祠を見つけたら ピンを打って目印にするのじゃ","Now then... Have you been using the
+scope on your Sheikah Slate?
+
+You can see all the shrines from up here.
+When you find one, just stick a pin in it."
+22,FirstTalk10,"お主シーカーストーンに
+望遠鏡の機能があることは気づいておるか？
+望遠鏡を覗いて祠を見つけたら
+ピンを打って目印にすることができるのじゃ","Did you know about the scope
+on your Sheikah Slate?
+
+Look through it, and you can stick a pin
+anywhere you'd like to mark on the map."
+23,FirstTalk11,"ピンはマップでも打つことや消すことができる
+お主の思うところに ピンを打ってみるがいい","The pins on your map serve as reference
+points for your travels. Just stick a pin
+anywhere you're interested in!"
+24,FirstTalk12,"ふぉっ ふぉっ ふぉっ
+
+年の功… というやつじゃ
+信じる信じないは お主の勝手じゃがな","Oho ho! 
+
+
+Just a few tricks I've picked up
+after many, many years in the wild...
+You may take my advice or leave it."
+25,FirstTalk13,"年の功… と言うたじゃろう
+信じる信じないは お主の勝手じゃがな","Experience, wisdom...instinct?
+Call it what you will and believe
+it only if you so please."
+26,FirstTalk14,さっそく ここから見回してみるがよかろう,"Go ahead and take a look if you feel
+inclined to do so."
+27,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+28,GoodBye02,"ふぉっ ふぉっ ふぉっ
+パラセールまで あと2つじゃ","Oho ho! Wonderful! Just two more until
+you can have my paraglider."
+29,GoodBye03,"ふぉっ ふぉっ ふぉっ
+パラセールまで あと1つじゃ","Oho ho! Fantastic! Just one more until
+you can have my paraglider."
+30,Kotsu00,"コツで思い出したが…
+
+新しく覚えた操作は
+ポーズ画面で いつでも確認できるのじゃ","I just remembered something that may
+help you.
+
+You can review some of the abilities
+you've learned on the pause screen."
+31,Kotsu01,"祠を探すならシーカーストーンの
+望遠鏡を使うといいじゃろう","If you're searching for shrines, use the
+scope on your Sheikah Slate."
+32,Kotsu02,"何度も言わせるでない
+いざとなったら己だけが頼りじゃ
+操作は ポーズ画面で確認するがいい","Must I keep repeating myself?
+You really need to learn some
+self-reliance, my friend.
+Just check the pause screen if you ever
+need a reminder of what you can do."
+33,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+34,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+35,Near01,あと1つ…,One more...
+36,Near02,あと2つ…,Two more...
+37,Near03,あと3つ…,Three more...
+38,Talk00,祠は見つかったか？,Having trouble finding the shrines?
+39,Talk01,"のう お主…
+いつまで そんな格好でおるつもりじゃ","So... How long were you planning on
+going au naturel? Just curious."
+40,Talk02,じきに日が沈むのう,The sun will set soon.
+41,Talk03,夜の台地は静かじゃのう,The plateau is so quiet at night...
+42,Talk05,祠探しは はかどっておるかの？,"Your shrine search is going well,
+is it not?"
+43,Talk06,"して…
+祠探しは はかどっておるかの？","So then... Can I surmise that your shrine
+search is going well?"
+44,TerrorArrow,何をする！,What is this?!
+45,TerrorBomb,何じゃ？,What is it?!
+46,TerrorExplosion,ぬわーっ！,Huh?!
+47,TerrorFire,あちゃっ,Toasty...
+48,TerrorImpulse,ひぃーっ！,Whoa!
+49,TerrorSword,やめんか！,Easy there!

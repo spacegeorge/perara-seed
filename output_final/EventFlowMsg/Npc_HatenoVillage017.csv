@@ -1,0 +1,148 @@
+#,Title,JPja,USen
+1,"""0000""",これは何？,What's this thing?
+2,"""0001""",何してるの？,What are you up to?
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",迷子です,I'm lost.
+5,"""0004""",泥棒です,I'm a thief.
+6,"""0005""",旅の者です,I'm a traveler.
+7,near00,グー… グー…,Zzz... Zzz...
+8,near01,♪～,♪
+9,near02,ねむ…,So tired...
+10,talk00,夜風が涼しいね,"The night wind is cold, eh?"
+11,talk01,今日は生憎だね…,What an ugly day...
+12,talk02,"僕は今から寝るところなんだよ
+後の仕事は愛する妻に任せてあるからね","I'm headed to bed. The day shift is up to
+my lovely wife."
+13,talk03,それじゃあね…,See you later.
+14,talk04,"ああ それそれその青い炎…
+なんで君が持ってるのか わからないけど
+久しぶりに復活ってことかな？","Carrying the blue flame, I see. It's been
+a while since I've seen anyone rekindle
+it. Is it finally back for good?"
+15,talk05,"青い炎を運ぶのは若者に任せちゃった…
+って感じなのかな？","Huh. I always thought if anyone would
+carry the blue flame, it would be the
+director, not some wandering youth."
+16,talk06,僕は今から仕事さ…,It's about time I started work...
+17,talk07,"僕は今から寝るんだよ
+夜はずっと働いてるからね","It's bedtime for me. I spend nights
+working, so I have to get my sleep in
+where I can."
+18,talk08,"う～ん…
+もう僕の番かい？
+……ふう
+
+えーっと…
+
+ところで…""君は誰だい？","Hrrrmmm...is it my turn already?Ah, well. Say, not to pry, but...I have to
+ask. Who are you supposed to be?"
+19,talk09,"仕事の関係で昼と夜が逆なんだ
+もう少し寝かせてくれないかい？","The demands of my job mean that
+nights and days are switched for me.
+So please let me sleep just a bit more."
+20,talk10,"君こそどうしたんだい？
+こんな夜中に","Funny, that was going to be my question
+to you! What are you doing skulking
+around in the dead of night?"
+21,talk11,"ははは迷子か… 
+
+まぁ人というのは誰しも人生の森の迷子…
+みたいなものだからね","Hahaha, really? Well, they say everyone
+is lost in the woods of life. Or words
+to that effect."
+22,talk12,"宿屋なら坂を下った橋の向こうだよ
+ちゃんとしたベッドで ぐっすり眠れるよ","The inn is down the hill, past the bridge.
+They've got soft beds and reasonable
+rates there if you want a night's sleep."
+23,talk13,"ははは泥棒ごっこかい？
+はいはい逮捕逮捕…これでいいかい？","Haha, you want to play guards and
+bandits? Sure, OK. \""You're under arrest!\""
+Satisfied?"
+24,talk14,どうしたんだい？,Something I can do for you?
+25,talk15,"これかい？
+僕も よく知らないんだけど…
+ハテノ古代研究所の所長さんが
+青い炎を灯しているのを見た事があるよ","This? Good question. I'm not quite
+sure myself.But apparently the director at the
+Hateno Ancient Tech Lab lights it
+with a blue flame."
+26,talk16,"ハテノ古代研究所なら この坂をずっと上って
+さらに小高い丘の上さ
+煙突から常に煙が出てる あそこだよ
+
+変わり者の爺さん婆さんしかいないから
+子供以外は誰も近づかないけどね","The Hateno Ancient Tech Lab is at the
+top of this hill. Mark the smoke pouring
+from the chimney, and you'll find it.
+Nobody lives there but a weird old man
+and a strange old lady. Only the kids in
+town are foolish enough to go near it."
+27,talk17,"ごらんの通り風車の番をしているんだ
+愛する妻と二人でね
+…あ愛する妻は今 ここにはいないよ
+愛する妻と交代で… っていう意味なんだ
+あまりに僕の愛が強すぎるから
+交代制にして会う時間を少なくしてるんだよ","What's it look like? I'm keeping watch
+over the windmills. My devoted wife and
+I stand guard day and night.
+She's not here right now, I mean. It's
+more of a...time-sharing sort of thing.My love for her is so powerful that she
+suggested we take shifts. That way it
+feels more special when we're together!"
+28,talk18,"風車の番を してるんだよ
+
+風車が同じスピードで回ってくれないと
+粉のひき具合に ムラができるからね","I'm watching the windmills. They have
+to maintain a steady speed or the
+consistency of the flour will be off."
+29,talk19,"昔ハテノ古代研究所の所長さんが
+青い炎を灯しているのを見た事があるけど
+なぜ火をつけてるか…
+誰が聞いても教えてくれなかったそうだよ","I saw the Hateno Ancient Tech Lab
+director lighting the blue flame long
+ago, but I never found out why.
+She never was one for explaining herself
+to ordinary folks."
+30,talk20,"はいはい泥棒さん
+
+ちなみに ウチには盗むようなものは
+ほとんど無いからね
+あるとしてもそれは僕のこの胸から
+あふれてこぼれた妻への愛だけさ","Sure, robber man, sure. You're wasting
+your time here; we have nothing worth
+stealing.
+My most valuable possession is my
+wife's boundless love for me."
+31,talk21,"迷子と言われても
+僕はここから動けないしなぁ…
+宿屋ならいつでも開いてるから
+とりあえず行ってみるといいよ","Be that as it may, I'm in no position to
+show you around. But the inn is always open. You might
+try them."
+32,talk22,"以前はハテノ古代研究所の所長さんが
+道端のしょく台に つけて回ってたな","It was once a common sight to see the
+Hateno Ancient Tech Lab's director go
+around setting the lanterns alight."
+33,talk23,"以前はハテノ古代研究所のプルアさんが
+道端のしょく台に つけて回ってたな","It was once a common sight to see Ms.
+Purah of the Hateno Ancient Tech Lab go
+around setting the lanterns alight."
+34,talk24,"ハテノ古代研究所の所長さんも
+もう ご高齢だろうから","The Hateno Ancient Tech Lab's
+director has to be getting up there
+in years by now."
+35,talk25,プルアさんも もう ご高齢だろうから,"Ms. Purah has to be getting up there
+in years by now."
+36,talk26,やぁ迷子さん,"Well hello there, lost boy."
+37,talk27,やぁ泥棒さん,"Uh-oh, it's the robber man! Hide your
+jewels and heirlooms!"
+38,talk28,やぁ,Hey there.
+39,talk29,ところで君は…,"So what's your business out of doors
+tonight?"
+40,talk30,君は本当は何者だい？,What are you really doing out tonight?
+41,talk31,やぁおはよう,Hello and good morning.
+42,talk32,やぁこんにちは,Hello and good day.
+43,talk33,やぁこんばんは,Hello and good evening.
+44,talk34,"そうか
+まぁアブナイ奴じゃなさそうで安心したよ","Are you, now. Well, that's fine. You seem
+harmless enough."

@@ -1,0 +1,262 @@
+#,Title,JPja,USen
+1,"""0000""",近衛の剣を交換する,It's yours.
+2,"""0001""",近衛の両手剣を交換する,It's yours.
+3,"""0002""",近衛の槍を交換する,It's yours.
+4,"""0003""",近衛の弓を交換する,It's yours.
+5,"""0004""",近衛の盾を交換する,It's yours.
+6,"""0005""",交換しない,I can't trade now.
+7,"""0006""",聞きたい,Tell me...
+8,"""0007""",いや大丈夫,"Nope, I'm good."
+9,"""0008""",ゴロン式で！,Goron style!
+10,"""0009""",リト式で！,Rito style!
+11,"""0010""",ゾーラ式で！,Zora style!
+12,"""0011""",他のやり方で！,Another way!
+13,"""0012""",ゲルド式で！,Gerudo style!
+14,"""0013""",シーカー式で！,Sheikah style!
+15,"""0014""",自分のやり方で！,My own way!
+16,talk_00,"ここから北に行くと見える城行ったことある？
+100年前に滅んだと言われる ハイラル城……
+あそこ昔の武器とか結構お宝が手に入るから
+たまに それを頂戴しに行ってたのよ
+なかでも近衛シリーズって呼ばれる
+すんごい武器があるらしくて
+武器コレクターの間では有名でね
+私も一度見てみたいんだけどさ…
+最近妙な霧が出てきてから
+魔物も機械のバケモノも活発になって……
+もう忍び込むのは危険すぎるわ
+あなたも命が惜しかったら近づかないことね","Have you gone to the giant castle north
+of here? That's Hyrule Castle.
+
+It's said to have fallen to ruin over a
+hundred years ago.
+
+I used to sneak in there to salvage
+ancient treasures, but it's too dangerous
+to go in there now.
+These days it's surrounded by an eerie
+mist and savage machine-like creatures.
+
+Back when it was safer, I went in looking
+for this ultra-rare equipment that once
+belonged to the royal guard.
+It's legendary among collectors, but I
+was never able to find any..."
+17,talk_01,"ハイラル城…… きっと まだ沢山
+知らないお宝が眠ってるんでしょうね","I bet you there are still all kinds of 
+treasures hidden away in Hyrule Castle
+that we don't even know about..."
+18,talk_hint00,"えっ？ お城に侵入する気なの？
+いろんな方法があるけど…聞いていく？","What?! You're planning to break into the
+castle? There are various ways to get in.
+You want some advice?"
+19,talk_hint01,お城に侵入する方法…聞いていく？,"Do you want me to give you some advice
+on getting into the castle?"
+20,talk_hint02,"まぁ危険だから近づかないことを勧めるわ
+どうしても行くなら準備をしっかりね","It's deathly dangerous near there so I
+can't recommend it, but if you're set on
+going, make sure you're prepared."
+21,talk_hintGerudo,"ゲルド式ね
+勇気とテクニックに自信があるならこれね
+お城の周辺にはガーディアンっていう
+機械のバケモノがウロウロしてるけど
+ビームで狙われてもひるまずに
+城下町から馬でいっきに駆け抜けるの！
+悪路を走るだけでも難しいけど
+弓の腕にも自信があるなら
+ガーディアンの目を狙って
+動きを止めるっていう手もあるわね","Gerudo style? If you have faith in your
+courage and technique, this is for you.
+
+There are machine-like monsters called
+Guardians lurking around the castle.
+
+Even if they target you with their lasers,
+don't back down. Just gallop past
+through the ruins of castle town!
+It won't be easy, but if you're confident
+in your archery skills, just aim for the
+Guardians' eyes.
+Hitting them in their eyes will stun them
+long enough for you to slip past
+unharmed."
+22,talk_hintGoron,"ゴロン式ね
+根性と頑丈さに自信があるならこれね
+行き方は単純明快！
+城の正門から真っ直ぐ正面突破よ
+とにかく体力やスタミナを回復する食べ物を
+たくさん持っていくのがコツね","Right, Goron style. Do this if you have
+faith in your willpower and strength.
+The way in is simple and clear.
+Storm the castle's front gates! The key
+here is to bring along food that will
+restore your health and stamina."
+23,talk_hintRito,"リト式ね
+空を滑空できる手段があるならこれね
+まずはこの平原を東か西に出て
+お城の北の山にぐるっと回り込むの
+そこからお城に向かって飛べば
+堀を越えて着陸できそうよ","Rito style? If you're comfortable sailing
+through the air, this method is for you.
+
+Just head east or west from these plains,
+and swing 'round up the mountain to the
+north of the castle.
+Then just fly down toward the castle from
+there, over the moat, and find a safe spot
+to land."
+24,talk_hintSelect00,各種族の得意分野で挑むのはどうかしら？,"The best way to get into Hyrule Castle is
+to employ the styles of the people of
+Hyrule, obviously."
+25,talk_hintSelect01,それ以外だと…,"Another way, huh?"
+26,talk_hintSelect02,他のも聞く？,Want to hear other ways?
+27,talk_hintSelect03,ゴロン？ リト？ ゾーラ？ それとも…？,"So what's your style?
+Goron? Rito? Zora?
+Or another way?"
+28,talk_hintSelect04,ゲルド？ シーカー？ それとも…？,Gerudo? Sheikah? Or something else?
+29,talk_hintSelf,"ふぅん…
+そんなに自信があるなら
+ガーディアンをバッタバッタとなぎ倒しながら
+進んでいく勇者式っていうのはどう？
+…冗談よ
+絶対にそんな無謀なことしないでね","If you're so confident, you should do it
+like the legendary hero himself and just
+crush all the Guardians on your way in.
+...Ah, just joking.
+Heh... I'm just messing with you.
+Only a fool would try that."
+30,talk_hintShiekah,"シーカー式ね
+私はこの方法で侵入してるの
+遠くからじっくり観察して
+敵が少ない裏口から忍び込むっていう手ね
+私が発見した入口教えてあげる
+一つ目は東坑道！
+まずはお城の東のフェンサ橋を渡って
+お城を左手に眺めながら丘を登っていくの
+よく見るとお城の中腹に坑道の入口が見えるわ
+夜だと夜光石が光ってて分かりやすいかな
+二つ目は北の船着き場！
+お城の西の島にある桟橋から
+筏でぐるっと北側に回り込んだらたどり着くわ
+私が知っているのはこれだけよ","Sheikah style, eh?
+This is the method I use.
+
+Observe from a distance, and then try to
+sneak in a back entrance where there
+aren't many monsters patrolling.
+I'll tell you about the two entrances I've
+found. The first one is called
+East Passage.
+To find it, cross Helmhead Bridge to the
+east of the castle, and with the castle on
+your left, climb up the hill.
+Look closely and you'll see an entrance
+to a tunnel in the middle of the castle.
+
+The luminous stones near the entrance
+sparkle at night, making it easy to find.
+
+The second entrance is the docks.
+
+
+From the island west of the castle, use
+the raft near the dock to sail to the
+north side. You'll find the docks there.
+Those are the only hidden entrances I
+know of."
+31,talk_hintZora,"ゾーラ式ね
+滝登りできる手段があるならこれね
+お城の周りって堀で囲まれてて
+泳いで渡るには厳しいけど
+何か所か枯れてない滝があるから
+そこからいっきに滝登りで上に行けそうね","Ah, Zora style. If you're a strong
+swimmer who can swim up streams and 
+waterfalls, this is a good option.
+There's a moat surrounding the castle.
+It's a little tough to swim through, but
+there are a few waterfalls still running.
+Just swim up one of those and you
+should be able to make it."
+32,talk_notSell,"はぁ…仕方ないわね…
+残念だけど諦めるわ…","I guess it wasn't meant to be...
+Wish I had something else to offer you."
+33,talk_sellDiamond,"これで近衛シリーズの武器が全部集まったわ！
+本当に ありがとう！
+また近衛シリーズの武器を持ってきてくれたら
+私のルビーと交換するわ！
+全種類そろったけど
+まだまだ集め足りないのよね！","I've finally collected everything in the
+royal guard's series! Thank you!
+
+I'll trade you a ruby for another
+royal guard weapon.
+
+I already have the entire set, but I want
+to keep collecting them!"
+34,talk_sellDone,"ほんと？！
+ありがとう！！",Really?! Thank you!
+35,talk_sellPorchFull,"これ以上は持てないようね
+ポーチを整理したら また来て","Looks like you're full up. Come again
+after you make room in your pouch."
+36,talk_sellWeaponBow00,ねぇ その弓…,"Hey, that bow..."
+37,talk_sellWeaponBow01,ルビーと交換しない？,Will you trade it for a ruby?
+38,talk_sellWeaponBow02,サファイアと交換しない？,Will you trade it for a sapphire?
+39,talk_sellWeaponBow03,トパーズと交換しない？,Will you trade it for a topaz?
+40,talk_sellWeaponBow04,ダイヤモンドと交換しない？,Will you trade it for a diamond?
+41,talk_sellWeaponLSword00,ねぇ その大剣…,"Hey, that big sword..."
+42,talk_sellWeaponLSword01,ルビーと交換しない？,Will you trade it for a ruby?
+43,talk_sellWeaponLSword02,サファイアと交換しない？,Will you trade it for a sapphire?
+44,talk_sellWeaponLSword03,トパーズと交換しない？,Will you trade it for a topaz?
+45,talk_sellWeaponLSword04,ダイヤモンドと交換しない？,Will you trade it for a diamond?
+46,talk_sellWeaponShield00,ねぇ その盾…,"Hey, that shield..."
+47,talk_sellWeaponShield01,ルビーと交換しない？,Will you trade it for a ruby?
+48,talk_sellWeaponShield02,サファイアと交換しない？,Will you trade it for a sapphire?
+49,talk_sellWeaponShield03,トパーズと交換しない？,Will you trade it for a topaz?
+50,talk_sellWeaponShield04,ダイヤモンドと交換しない？,Will you trade it for a diamond?
+51,talk_sellWeaponSpear00,ねぇ その槍…,"Hey, that spear..."
+52,talk_sellWeaponSpear01,ルビーと交換しない？,Will you trade it for a ruby?
+53,talk_sellWeaponSpear02,サファイアと交換しない？,Will you trade it for a sapphire?
+54,talk_sellWeaponSpear03,トパーズと交換しない？,Will you trade it for a topaz?
+55,talk_sellWeaponSpear04,ダイヤモンドと交換しない？,Will you trade it for a diamond?
+56,talk_sellWeaponSword00,ねぇ その剣…,"Hey, that sword..."
+57,talk_sellWeaponSword01,ルビーと交換しない？,Will you trade it for a ruby?
+58,talk_sellWeaponSword02,サファイアと交換しない？,Will you trade it for a sapphire?
+59,talk_sellWeaponSword03,トパーズと交換しない？,Will you trade it for a topaz?
+60,talk_sellWeaponSword04,ダイヤモンドと交換しない？,Will you trade it for a diamond?
+61,talk_showWeapon00,"…これは……
+……すごい…",This is...incredible.
+62,talk_showWeapon01,"ありがとう良いもの見せてもらったわ
+私もまた探しに行ってみようかな","Thank you. You have shown me
+something truly spectacular. I need to go
+out and find one of these myself."
+63,talk_showWeapon02,これはお礼よ,Here's a token of my appreciation.
+64,talk_showWeaponBow,"ちょ ちょっと！
+あなたが持ってるその弓見せてくれる？！","Wait just a minute! Can you show me
+that bow you've got there?!"
+65,talk_showWeaponLSword,"ちょ ちょっと！
+あなたが持ってるその大剣見せてくれる？！","Wait just a minute! Can you show me
+that big sword you've got there?!"
+66,talk_showWeaponShield,"ちょ ちょっと！
+あなたが持ってるその盾見せてくれる？！","Wait just a minute! Can you show me
+that shield you've got there?!"
+67,talk_showWeaponSpear,"ちょ ちょっと！
+あなたが持ってるその槍見せてくれる？！","Wait just a minute! Can you show me
+that spear you've got there?!"
+68,talk_showWeaponSword,"ちょ ちょっと！
+あなたが持ってるその剣見せてくれる？！","Wait just a minute! Can you show me
+that sword you've got there?!"
+69,talk_sleep00,"何よ！宿屋で寝てる女を起こすなんて
+何考えてるの？！少しは遠慮してよね！","HEY! You've got some gall waking up a
+sleeping stranger! Show a little respect!"
+70,talk_sleep01,"だからぁ もう寝たいんだってば！
+あっちいっててよ！",I'M SLEEPY! GO AWAY!
+71,talk_sleep02,"何よ！宿屋で寝てる女を起こすなんて……
+しかも裸？！
+この変態！近寄らないでよね！！","HEY! You've got some nerve waking
+up a sleeping stranger. And...
+WHERE ARE YOUR CLOTHES?!
+GET AWAY FROM ME, YOU CREEP!"
+72,talk_sleep03,"裸で夜中に話しかけないでよね
+この変態！！","Here's some friendly advice—don't wake
+up strangers when you're not wearing
+clothes, you little creep."

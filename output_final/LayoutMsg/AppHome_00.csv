@@ -1,0 +1,287 @@
+#,Title,JPja,USen
+1,"""0000""",アイテム,Runes
+2,"""0001""",選ぶ,Select
+3,"""0002""",戻る,Back
+4,"""0003""",ズーム,Zoom
+5,"""0004""",回転,Rotate
+6,"""0005""",移動,Move
+7,"""0006""",選択削除,Delete
+8,"""0007""", 削除する,Delete
+9,"""0008""",シーカーセンサー,Sheikah Sensor
+10,"""0009""",一括選択,Select All
+11,"""0010""",一括解除,Deselect All
+12,"""0011""",脱出する,Leave Area
+13,"""0012""",マップ,Map
+14,"""0013""",アルバム,Album
+15,"""0014""",ハイラル図鑑,Hyrule Compendium
+16,"""0015""",？？？,？？？
+17,"""0016""",センサー登録,Target with sensor
+18,"""0017""",探す物に設定,Target with sensor
+19,"""0018""",マップに戻る,Return to map
+20,"""0019""",足跡モード,Hero's Path Mode
+21,"""0020""",Rune,Rune
+22,"""0021""",Album,Album
+23,"""0022""",Hyrule Compendium,Hyrule Compendium
+24,"""0023""",再生,Play
+25,"""0025""",速度切替,Change Speed
+26,"""0036""",早戻し/早送り,Back/Forward
+27,"""0039""",やめる,Pause/Cancel
+28,"""0040""",アイコン表示切替,Icon Display
+29,Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_00,"a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+","a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+"
+30,Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_01,"
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+","
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+"
+31,Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_00,"
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+"
+32,Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_01,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+"
+33,Pa_ScanningLine_00-T_DecoD_00,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+34,Pa_ScanningLine_00-T_DecoU_00,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE

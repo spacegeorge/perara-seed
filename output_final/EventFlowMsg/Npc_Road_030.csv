@@ -1,0 +1,254 @@
+#,Title,JPja,USen
+1,"""0000""",買う,What have you got?
+2,"""0001""",売る,Look what I've got.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,I'll buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"このままじゃ…
+旅の予定が ズレちゃうッスよね？","Might be time to think about adjusting
+my travel plans..."
+11,Atacked01,"魔物なんか相手にしていたら…
+命がいくつあっても足りないッスよ？","So you deal with monsters often,
+do you? I bet a man like you could
+use some of my food supplies!"
+12,Com_Talk_00,どれを売ってくれるッスか？,What have you got for me?
+13,Com_Talk_01,"を売るッスか？
+ルピーに なるッスけど？",I'd pay  rupees for that.
+14,Com_Talk_02,"ありがとうッス！
+他にも売りたいものは あるッスか？","Thanks! Was that all, or is there more?"
+15,Com_Talk_02b,どうも ありがとうッス！,Thanks a bundle!
+16,Com_Talk_02c,ありがとうッス！,Thanks!
+17,Com_Talk_02d,ありがたいッス！,I appreciate your business!
+18,Com_Talk_04,そりゃ残念ッス！,What a shame!
+19,Com_Talk_05,何でも買い取るッス！,I'll buy anything!
+20,Com_Talk_05b,売る物あるなら見せてほしいッス！,"If you have stuff to unload, go ahead and
+show me!"
+21,Com_Talk_05c,なんか売ってくれるッスか！,Gonna sell me something?
+22,Com_Talk_05d,とりあえず見せてほしいッス！,"I'm interested in seeing what you've got
+for sale."
+23,Com_Talk_06,どれが欲しいッスか？,Which one did you want?
+24,Com_Talk_07,ごめん今そいつは切らしてるッス！,"Sorry, but I'm fresh out of that one!"
+25,Com_Talk_08,"ルピーが足りないッスよ！
+冷やかしは かんべんッス！","No rupees, no sale! I'm here to sell
+my wares not to fool around!"
+26,Com_Talk_09,"ポーチがいっぱいッスよ！
+売るか捨てるかして空きを作るッス！","Your pouch looks full. There must be a
+few things in there you don't need,
+right? Go ahead, clear them out!"
+27,Com_Talk_10,"を買うってことで
+いいッスか？",You all set with that?
+28,Com_Talk_11,どうも ありがとうッス！,Thanks a bundle!
+29,Com_Talk_11b,ありがとうッス！,Thanks a bundle!
+30,Com_Talk_11c,ありがとうッスッス！,Thanks a heap!
+31,Com_Talk_11d,ありがとうッスッスッス！,Thanks a heap!
+32,Com_Talk_12,"今売れるものは こんだけッス！
+どうぞ！",This is all I got right at the moment.
+33,Com_Talk_13," ね？
+いくつ売ってくれるッスか？","And how many of those are you looking
+to unload?"
+34,Com_Talk_14,"を個で
+合わせてえっと…ルピーッスけど？","The whole shebang will be...
+ rupees. How's that grab you?"
+35,Com_Talk_15,それは買い取れないッス！,"Aw, I wouldn't part you with that!"
+36,Com_Talk_16,"あの いいッスか？
+売りたい服は着てちゃだめッス！","I'm not gonna buy the clothes off your
+back! What do you take me for?"
+37,Com_Talk_20,"こんな天気だから サービスサービス！
+ガンバリカブトってやつを売るッスよ！","Tell you what, for being such a trooper
+and coming to shop in this weather, I'll
+also sell you this energetic rhino beetle!"
+38,Com_Talk_30,"が個で
+ルピーッスけど いいッスか？","The whole shebang will be...
+ rupees. How's that grab you?"
+39,Com_Talk_31,"を買うッスか？
+いくつッスか？","Oh, yeah? How many?"
+40,Com_Talk_33,"を ひとつだけッスか？
+んじゃルピーッス！","Just one, huh? How about
+ rupees?"
+41,Com_Talk_34,"を全部ッスね？
+個でルピーだけどいいッスか？","All of them? Really? In that case...
+How about  rupees?"
+42,Com_Talk_35,"を個全部！
+合計ルピーになるッスけど いいスか？","So ? In that case... How about
+ rupees?"
+43,Com_Talk_36,"これで最後ッス
+いっぱい買ってくれて うれしいッス",That's all of it. Thanks for the business!
+44,Com_Talk_37,"もう今日は売るものがなくなったッス
+たくさん買ってくれて どうもッス
+入荷予定の品物リストだけでも見るッスか？","I'm all cleaned out! Thanks for all your
+business. Do you...want to look at what
+I'll be stocking up on soon?"
+45,Com_Talk_56,"を ひとつッスか？
+んじゃルピーッス！","Just one, huh? That'll run you
+ rupees!"
+46,Failed00,"魔物チャン もういないッスか？
+だったら今のうちに逃げるッスよ！","Monsters all clear? Then now's the time
+to beat feet!"
+47,Failed01,"いてて…まあ痛いは痛いけど
+ゲルド族の女の子に蹴られた痛さに比べたら…","Ouch! That stung, but not as bad as
+my pride after asking out a Gerudo."
+48,GoodBye00,いい旅をッス！,Please visit again!
+49,MSG_Gerud_00,"ゲルド族の女性と仲良くなりたいッスね～
+おっと！""下心抜きで商売相手としてッスよ？
+…と思って ここまで来たものの…
+街の中に男は入れてもらえないんスよね～","I wish I could get closer to one of these
+Gerudo ladies. Not for anything bad,
+I mean! Just as a business partner!
+That's the whole reason I came, only to
+find out that men aren't allowed in town.
+Figures, don't it?"
+50,MSG_Gerud_00_1,"ゲルド族の女性と仲良くなりたいッス
+…と思って ここまで来たものの…
+街の中に男は入れてもらえないんスよね～","I came all this way to get to know these
+Gerudo ladies better...only to find out
+that they don't let men in town."
+51,MSG_Gerud_01,"この辺りで超バカでかいバケモノ見たッスか？
+正直恐くて砂漠に入りたくないッスよ～
+んでも！
+
+ゲルド族の子と仲良くなりたいんで
+目をつむって駆け抜けてでも街をめざすッス！","Didja get a load of that giant stompy
+monster? Who'd brave the desert with
+that thing around?
+On the other hand... I GOTTA get to
+know these Gerudo ladies better!Think I'll just chance it and make a mad
+dash for town!"
+52,MSG_Gerud_01_1,"正直恐くて砂漠地帯に入りたくないッスけど
+女の子のため駆け抜けてでも街をめざすッス！","Truth be told, I'm too scared to go into
+the desert. Maybe I'll just make a mad
+dash for town so I can meet the ladies!"
+53,MSG_Gerud_02,"ムフフフ～カラカラバザールで
+ゲルド族の子と おしゃべりするの楽しいッス～
+おっと誤解なきよう！ これも仕事ッス！
+仕入れた食糧を売ってるだけッスよ！
+リンゴとか！","Kicking back in the Kara Kara Bazaar,
+making small talk with the lovely
+Gerudo... Good times, good times.
+Hey, don't get me wrong! It's all part of
+the job! You have to make friends to
+make money. Want some apples?"
+54,MSG_Gerud_02_1,"仕事とはいえ ゲルド族の子と
+おしゃべりするの楽しいッス～","Nothing like a line of work that lets you
+make small talk with Gerudo ladies."
+55,MSG_Gerud_03,"ゲルド族の子って
+みんなオレより背が高くて魅力的ッス！
+ゲルドの街で女の子たちに囲まれて暮らしたいッス…","They sure make these Gerudo ladies tall,
+don't they? What a bunch of beauts!
+Now if they'd just let me move into Gerudo Town..."
+56,MSG_Gerud_03_1,"ゲルド族って魅力的ッス！
+
+ゲルドの街で女の子たちに囲まれて暮らしたいッス…","Fine-looking ladies, these Gerudo, every
+last one of them. It's a crying shame they
+won't let me move into their town..."
+57,MSG_Gerud_04,"この馬宿に もっとゲルド族の子が
+来てくれたらいいなって思ってるッス！
+そして すべての女性にリンゴと愛を捧げたいッス…","I wish more of those Gerudo ladies would
+come by this stable! I have so many apples
+for them...apples and love..."
+58,MSG_Gerud_04_1,"もっとゲルド族の子が
+来てくれないッスかね…","I hope we'll see more and more Gerudo
+ladies come visit this place..."
+59,Near00,女の子…,"Don't be shy, ladies..."
+60,Near01,ゲルドの娘…,Gerudo ladies... Whew!
+61,Near02,モテモテ…,What do Gerudo want?
+62,Near03,ハーレム…,They'll ALL come running!
+63,Rest_00,"君も ゲルド族と仲良くなりたいッスね？
+恥ずかしがることないッスよ
+背が高くて強くて美しくて強くて
+そのうえなんとすごく強いという！","You got a thing for Gerudo girls too?
+That's OK, buddy. Nothing to be
+ashamed of!
+What's not to love? They're tall, strong,
+beautiful...strong... I mentioned how
+strong they are, right?"
+64,RetMSG_Gerud_00,"なんとか街の中に入れないものかなぁ…おっと！ なんでもないッス！
+ひとりごとッス！ひとりごとッス！","There must be some way in...Oh! Don't mind me, ha ha! I wasn't
+talking to nobody about nothing!"
+65,RetMSG_Gerud_00_1,"なんとか街の中に入れないものかなぁ…
+
+おっと！今のは大きめのひとりごとッス！","There has to be SOME way in there...Whoa! Just thinking out loud. Don't
+mind me."
+66,RetMSG_Gerud_01,"ゲルドの街とカラカラバザールの間は
+神獣が通る ちょっとした危険地帯なんスよね
+それでも ゲルド族の子とお近づきになりたくて
+砂漠地帯をひた走る俺ッス！","That old Divine Beast makes the road
+between Kara Kara Bazaar and
+Gerudo Town a dangerous place.
+But I'm too keen on getting to know
+those Gerudo ladies to let that stop me!
+I'll dash right on through the desert!"
+67,RetMSG_Gerud_01_1,"ゲルドの街とカラカラバザールの間は
+神獣が通る危険地帯なんスけど
+ゲルド族の子がいると思うと…","I get nervous thinking of that Divine
+Beast roaming around. But Gerudo Town
+is just past it... How can I say no?"
+68,RetMSG_Gerud_01_2,"砂漠って魔物も多いし砂嵐もヒドイし
+ちょっとした危険地帯なんスよね
+それでも ゲルド族の子とお近づきになりたくて
+砂漠地帯をひた走る俺ッス！","The desert's just monsters and bad
+sandstorms through and through. They
+call it a wasteland for a reason.
+But what else is a man supposed to do
+if he wants to meet Gerudo ladies?
+Wasteland, here I come!"
+69,RetMSG_Gerud_01_3,"砂漠は危険地帯なんスけど
+この先にゲルド族の子がいると思うと…","The desert's rough going, no two ways
+about it, but what else is a man to do if
+he wants to meet Gerudo ladies?"
+70,RetMSG_Gerud_02,"カラカラバザールは ゲルド族の女性が多くて
+華やかッスね！
+思わず口元が ニンマリしちゃうッス…
+
+ニンマリといえば ニンマリバッタ売ってるッス
+…おっと""ガンバリバッタの間違いッス！","Kara Kara Bazaar is brimming with
+Gerudo ladies! I get antsy just thinking
+about them!
+Say, speaking of antsy things, how about
+some restless crickets?"
+71,RetMSG_Gerud_02_1,"いや～ ゲルド族の女性はいいッスね～
+ニンマリが止まらないッス","I get antsy around these Gerudo
+knockouts. Restless as a cricket.
+Is that a phrase? It is now!"
+72,RetMSG_Gerud_03,"おわっと？！
+…なんだハイリア人ッスか～
+ゲルドの街に賊が出たって噂を聞いてたから
+びっくりしたッスよ～","Wh-who goes there?! Oh...just a Hylian.Someone told me there were thieves in
+Gerudo Town, and I've been jumping at
+shadows ever since!"
+73,RetMSG_Gerud_03_1,"ゲルドの街に賊が出たって噂を聞いてたから
+ちょっと警戒してるんッスよ～","I haven't had any peace of mind
+since I heard there were thieves in
+Gerudo Town."
+74,RetMSG_Gerud_04,"今度こそゲルドの街に入って
+女の子たちに囲まれて…
+いや誤解ッス！
+女の子たちに囲まれて商売したいって話ッス！","I'll get into Gerudo Town and cozy up to those
+ladies if it's the last thing I do...Hm? Oh, just sales stuff. I mutter so
+no one learns my important business
+secrets!"
+75,RetMSG_Gerud_04_1,"ももちろん商売最優先ッスよ！
+恋とかそういうのは二の次ッス！","Business is my top priority! Wh-why,
+what else would I be interested in?"
+76,SavedLv1_00,何とか助かったッス！ おかげさまッスね！,I'm still kicking! Thanks mostly to you.
+77,SavedLv1_01,ちょろいもんッスね！さすがッス！,Scared? Me? Never!
+78,SavedLv2_00,いやー命がいくつあっても足りないッスね！,Whew... I feel like a cat on his ninth life!
+79,SavedLv2_01,魔物に襲われたら逃げるが勝ちッスよ！,"The surefire answer for not getting killed
+by monsters is to run far, far away!"
+80,SavedLv3_00,どうせなら女の子に襲われたいッス！,"If I have to have something pounce on
+me, why couldn't it be a lady?!"
+81,SavedLv3_01,"魔物チャンよりも…
+ゲルド族の女の子のほうが怖いッスよ！","The only thing scarier than monsters...
+are those Gerudo ladies!"
+82,Talk01,"まっそれはともかく店開き店開き！
+ちょっとしたモンッスけどね","The emporium is open! Come one, come
+all! All the little bits and bobs you need
+to spice up your dishes!"
+83,Talk02,…んで他には何か？,"And will that be all for you, or can I
+interest you in something else?"
+84,Thanks00,"でもほんと助かったっスよ！
+これ受け取ってほしいっス！","Good save! I'll give you a little bonus
+for that one!"

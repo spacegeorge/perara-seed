@@ -1,0 +1,60 @@
+#,Title,JPja,USen
+1,QL_FindDungeon_1stClear,"祠から出てくると再び老人が現れた
+この台地には全部で4つの祠が存在し
+その全ての祠で克服の証を手に入れたとき
+パラセールと交換してくれるという
+
+祠を探すなら高いところから見回すのが良いと
+再び塔の上まで登るように促された
+シーカーストーンを使って ワープできるらしいが…","The old man explained that there are a total of
+four shrines on the plateau. He said that he will
+give you the paraglider once you have acquired
+the Spirit Orb from all of the shrines.
+He told you to survey the plateau from the top
+of the tower to find the remaining shrines. He
+also pointed out that you can use your
+Sheikah Slate if you need to travel quickly."
+2,QL_FindDungeon_AllClear,"台地にある全ての祠で克服の証を手に入れると
+再び老人が現れた
+
+4つの祠が交わる場所で待っている
+そう告げると老人は姿を消した…","After you acquired the Spirit Orbs from the
+shrines, the old man told you that he'll be
+waiting inthe place centered amid the four 
+shrines, before mysteriously disappearing..."
+3,QL_FindDungeon_Desc,"塔を降りたとき再び現れた老人が言うには
+かつて この地を統べていたハイラル王国は
+100年前厄災ガノンにより滅ぼされたのだという
+
+この台地を降り声が聞こえたハイラル城へ行くには
+老人が持っている パラセールが必要だ
+あるところに眠るお宝と交換してくれるらしい","After your descent from the tower, the old man
+told you that the kingdom of Hyrule was
+destroyed 100 years ago byCalamity Ganon.
+
+You heard a voice coming from Hyrule Castle,
+but you cannot reach it unless you leave the
+plateau using the paraglider.
+
+The old man said that he will give you the
+paraglider in exchange for the treasure that lies
+within a hidden location somewhere..."
+4,QL_FindDungeon_Finish,"あの老人は なんとハイラル王の幽霊だった
+そして美しい女性の声の主は ゼルダ姫であり
+今も尚 あの怨念に包まれたハイラル城のどこかで
+ガノンを抑え続けているという…
+
+「ガノンを倒し ゼルダ姫を救ってやってくれ」
+そう告げて パラセールを託すと
+役目を終えたかのように姿を消した…","The old man you were talking to informed you
+that he was King Rhoam. The voice you heard
+coming from Hyrule Castle was Princess Zelda.
+
+The princess is trapped inside the castle, which
+is shrouded in Malice, fighting against Ganon...
+
+The king's ghost left you with one last
+directive: rescue Princess Zelda and defeat
+Ganon. He gave you the paraglider now that
+his duty is done."
+5,QL_FindDungeon_Name,閉ざされた台地,The Isolated Plateau

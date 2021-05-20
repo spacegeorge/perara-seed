@@ -1,0 +1,489 @@
+#,Title,JPja,USen
+1,"""0000""",ここで何しているの？,What brings you here?
+2,"""0001""",さようなら,Good-bye.
+3,"""0004""",リーバルのこと教えて,Tell me about Revali.
+4,"""0005""",さようなら,Bye.
+5,"""0006""",他のことが聞きたい,Tell me something else.
+6,"""0007""",退魔の剣って？,Sword?
+7,"""0008""",オオワシの弓って？,Great Eagle Bow?
+8,"""0009""",メドーって？,Medoh?
+9,"""0010""",リーバルのこと教えて,Tell me about Revali.
+10,"""0011""",なんでもない,Never mind.
+11,"""0012""",行ってらっしゃい！,Take care.
+12,"""0013""",待って！,Not yet.
+13,"""0014""",わかった,Sure thing.
+14,"""0015""",リーバルのこと教えて,Tell me about Revali.
+15,"""0016""",テバは？,Where's Teba?
+16,"""0017""",カーンは？,Where's Kaneli?
+17,"""0018""",神獣 ヴァ・メドー？,Divine Beast?
+18,"""0019""",龍は？,The dragon?
+19,"""0020""",さようなら,Can't talk now.
+20,"""0021""",詳しく聞かせて,Tell me more!
+21,"""0022""",また今度,Maybe later.
+22,"""0023""",オルドラのこと,About Dinraal?
+23,"""0024""",フロドラのこと,About Farosh?
+24,"""0025""",ネルドラのこと,About Naydra?
+25,"""0026""",他のこと,Tell me other things.
+26,"""0027""",龍のこと,Let's talk dragons.
+27,"""0028""",炎をまといし龍って？,The flame dragon?
+28,"""0029""",日記？,Diary of Revali?
+29,"""0030""",四つの的の試練知ってる？,The four targets trial?
+30,"""0031""",四つの的の試練知ってる？,The four targets trial?
+31,Npc_HighMountain004_Near00,ホッ ホゥ,Hoo hoo...
+32,Npc_HighMountain004_Talk00,"ホゥ…？""末裔様…
+何かを聞きたそうな目をしていらっしゃる","Hoo hoo... Hello, Champion descendant.
+You look like you're sitting on a question
+that would like to hatch."
+33,Npc_HighMountain004_Talk01,"リーバル様のことをお尋ねで？
+ホッ ホゥ… これはなんという偶然でしょう
+実は少し前リーバル様の日記が発見されまして
+我らが英傑様の日記ですから皆はもう大喜び…
+しかし誰もが簡単に見てよいものでは
+ありませんので…
+私の判断でリーバル様を師と仰ぐ
+テバに管理を任せました","You're curious about Master Revali?
+Hoo hoo! What perfect timing.
+
+We recently found The Diary of Revali.
+We were all excited to locate such a
+personal item of the Champion's.
+However, not just anyone has the right
+to read something of that nature... 
+
+That's why I left Teba in charge of it,
+since he so admires Master Revali."
+34,Npc_HighMountain004_Talk02,ホッ ホゥ…,Hoo hoo...
+35,Npc_HighMountain004_Talk04,私に答えられる事なら なんなりと,I am happy to answer anything I can.
+36,Npc_HighMountain004_Talk05,何についてお話ししましょう？,What shall I speak of?
+37,Npc_HighMountain004_Talk07,他に何かございますかな？,Was there anything else?
+38,Npc_HighMountain004_Talk08,私に答えられる事なら なんなりと,I am happy to answer anything I can.
+39,Npc_HighMountain004_Talk09,他に何かございますかな？,Was there anything else?
+40,Npc_HighMountain004_Talk10,"ホゥ…？""テバですか…
+家にはいませんでしたか？
+彼は リトの英傑リーバル様に憧れ
+この村の戦士になりました
+息子のチューリもリーバル様のような
+立派な戦士に… と望んでいるようです
+テバの妻の サキなら
+所在を知っているのではないでしょうか
+テバの家でしたら拙宅のすぐ隣ですサキも出かけているかもしれませんが
+この村のどこかには いると思いますよ","Hoo hoo... You wish to know where
+Teba is? A good question. All I know
+is he has not been in the village lately.
+He always aspired to be like our
+Champion Revali...to become a
+valued warrior for Rito Village. 
+He also harbors the hope that his son,
+Tulin, will share in his dream of becoming
+a great warrior like Master Revali.
+Ah, yes... Perhaps Teba's wife, Saki,
+knows where he is. 
+
+If you're curious, Teba's home is right
+next door to my own humble abode."
+41,Npc_HighMountain004_Talk12,私に答えられる事なら なんなりと,I am happy to answer anything I can.
+42,Npc_HighMountain004_Talk13,何についてお話ししましょう？,What shall I speak of?
+43,Npc_HighMountain004_Talk14,他に何かございますかな？,Was there anything else?
+44,Npc_HighMountain004_Talk15,"炎をまといし龍ですか…実はこのところククジャ谷の付近で
+頻繁に目撃されているのですが…
+何やら普段とは様子が異なるらしく
+村に危害が及ばぬか不安を抱えておりました
+今""調査のために村の門番のナズリーを
+見張りに行かせているところです","Hoo hoo! So you wish to hear
+about the blazing dragon?Well, you're in luck. A dragon was
+recently spotted near Tanagar Canyon.
+
+It's acting a bit odd, so we're concerned
+it may eventually cause trouble for
+our village.
+That is why I have asked the village
+guard, Mazli, to keep a close eye
+on the creature."
+45,Npc_HighMountain004_Talk16,他に何かございますかな？,Was there anything else?
+46,Npc_HighMountain004_Talk17,"ホッホゥ…""リーバル様の日記は
+彼が愛した飛行訓練場で見つかったそうです
+テバが持ち帰り
+自宅に保管しているはずですよ","Hoo hoo... The historic Diary of Revali
+was recently found at the Flight Range
+our Champion so adored.
+Teba took the diary to his home
+for safekeeping."
+47,Npc_HighMountain004_Talk19,"あ いえ…""何でもありません
+失礼しました
+ところで""私に何かご用でしたか？","Hoo? Ah... Never mind. My apologies.
+
+
+Did you need something from me?"
+48,Npc_HighMountain004_Talk20,"ホゥ…？""末裔様…
+何かを聞きたそうな目をしていらっしゃる","Hoo? Champion descendant... You look
+like you want to ask me something."
+49,Npc_HighMountain004_Talk21,"あ いえ…""何でもありません
+失礼しました
+ところで""私に何かご用でしたか？","Hoo? Ah... Never mind. My apologies.
+
+
+Did you need something from me?"
+50,Npc_HighMountain011_Near00,見張りも楽じゃないぜ,Lookout duty is tough...
+51,Npc_HighMountain011_Near01,そろそろ休むか,I should get some rest.
+52,Npc_HighMountain011_Talk00,ん…アンタか,Oh... It's you.
+53,Npc_HighMountain011_Talk01,"ん？""旅の人かい？",Hmm? A traveler?
+54,Npc_HighMountain011_Talk02,こんなところで会うとはな,What a pleasant surprise.
+55,Npc_HighMountain011_Talk03,"俺は族長からの指示で
+この辺りに現れる龍を見張りに来たんだ","I came here because the elder tasked me
+with keeping watch on the dragon that
+appears around here."
+56,Npc_HighMountain011_Talk04,"デカいな…""暴れないとは分かっていても
+身体が小刻みに震えちまう…","It's so colossal... I know it won't
+harm us, yet my body can't help
+but shiver..."
+57,Npc_HighMountain011_Talk05,"近ごろ頻繁に目撃されるようになってな
+村まで来るんじゃないかと心配してるのさ
+メドーの件があったからな
+不安になるのも無理はないぜ
+特に危険もなさそうなんで
+そろそろ村に戻ろうかね","It's been appearing quite frequently
+these days. Everyone's worried it's
+going to cause trouble for the village.
+After the incident with Medoh, I can't
+blame them for worrying.
+
+So far everything seems fine. I'll be
+heading back to the village soon."
+58,Npc_HighMountain011_Talk06,"そういや…角が光らなくなってるな
+ありゃ いったい何だったんだ？","Come to think of it...the horns don't glow
+anymore. I wonder what that means..."
+59,Npc_HighMountain011_Talk07,おぅ,Don't let me keep you.
+60,Npc_HighMountain011_Talk08,俺に何か用かい？,Do you need something?
+61,Npc_HighMountain011_Talk10,"近ごろ頻繁に目撃されるようになってな
+村まで来るんじゃないかと心配してるのさ
+メドーの件があったからな
+不安になるのも無理はないぜ
+今のところ危険はなさそうだが
+まぁ もうしばらく見張っているかね","It's been appearing quite frequently
+these days. Everyone's worried it's
+going to cause trouble for the village.
+After the incident with Medoh, I can't
+blame them for worrying.
+
+So far everything seems fine. However...
+Just to be safe, I'll be scoping things out
+for a while yet."
+62,Npc_HighMountain011_Talk11,"そういや…龍のヤツは夜中になると
+決まって この谷を通るんだが…
+そのとき角が光り出すんだ
+何かを誘うかのような魅惑的な輝きなんだぜ…","Come to think of it...the dragon always
+flies through this valley at night.
+
+When it does, its horns light up.
+There's something about that
+light that's truly captivating."
+63,Npc_HighMountain011_Talk12,"俺は族長からの指示で
+あの龍を見張ってるんだ","The elder requested that I watch for
+the dragon that appears around here."
+64,Npc_HighMountain011_Talk13,"そういや…龍のヤツは この時間帯になると
+決まってこの谷を通るんだが
+見てみろよ""角が光ってるだろ？
+何かを誘うかのような魅惑的な輝きだ…","Come to think of it...the dragon always
+flies through this valley at night.
+
+...Look! Do you see? Its horns light up.
+There's something about that light
+that's truly captivating."
+65,Npc_HighMountain011_Talk14,"こうして近くで見てみると相当デカいが
+おとなしいやつでな""危険はなさそうだ","It's colossal for sure, but if you look
+closely, it seems so tranquil. I can't
+help but believe it means us no harm."
+66,Npc_HighMountain011_Talk15,"しかし…こうもデカいとよ""暴れないとは分かっていても
+身体が小刻みに震えちまうぜ…","Still...When I'm near something that enormous,
+my body shivers of its own accord,
+even if my mind knows it won't hurt me."
+67,Npc_HighMountain011_Talk16,"村まで来るんじゃないかと
+心配してるみたいだが
+特に危険はなさそうなんで
+そろそろ村に戻ろうかね","Everyone's worried it's going to cause
+trouble for the village...but everything
+seems fine.
+I think I'll head back."
+68,Npc_HighMountain011_Talk17,"村のてっぺんの神獣 ヴァ・メドー
+見に来たんだろ？","Let me guess—you've come to see
+Divine Beast Vah Medoh."
+69,Npc_HighMountain011_Talk18,"村のてっぺんの神獣 ヴァ・メドー
+見に来たんだろ？","Let me guess—you've come to see
+Divine Beast Vah Medoh."
+70,Npc_HighMountain011_Talk19,"ああ""龍の見張りは終わりだ
+特に危険はなさそうだったんでな
+こうして村に戻ってきたってワケさそうそう""村に戻ってきてから龍について
+色々と調べてみたんだが…","Ah, yes. There's no need for me to keep
+watch on the dragon anymore. It simply
+doesn't seem to mean us any harm.
+That's why I was able to return to
+the village. I'm confident we're safe.Oh! That reminds me. I've done a bit of
+research about the dragon..."
+71,Npc_HighMountain011_Talk20,"お アンタも龍について
+興味が湧いてきたかい？","Ah. So you're developing an interest
+in dragons too, I take it?"
+72,Npc_HighMountain011_Talk21,"オルドラっつーのは俺がククジャ谷まで
+見張りに行ってた龍のことだな
+オルディン山脈の付近でも
+目撃されているらしいぜ
+特にオルディンの大化石っつー巨大な化石の
+上から眺めるのが通の楽しみ方なんだとよ
+ホントかどうかは分からねぇがな","Dinraal is the one I journeyed all the way
+to Tanagar Canyon to see.
+
+I hear it's been spotted near the
+Eldin Mountains as well.
+
+They say standing atop the massive fossil
+called the Eldin Great Skeleton is the
+best way to see it.
+Then again, I have no idea how much of
+what I just relayed is true..."
+73,Npc_HighMountain011_Talk22,"フロドラはハイリア湖やフロリア湖で
+目撃されているらしいぜ
+特にハイリア大橋のド真ん中
+噴水のある辺りからの眺めが絶景なんだとさ
+一度見に行ってみたいもんだね","Farosh has been spotted at Lake Hylia
+and Lake Floria.
+
+I hear you can get a breathtaking view
+of it from dead center on the right
+side of the Bridge of Hylia.
+I would love to see such a sight."
+74,Npc_HighMountain011_Talk23,"ネルドラと言えばラネール山だなラネール参道の東側の辺りでも
+目撃されてるってウワサだぜ
+雪山は リト族の俺には大したことないが
+ハイリア人のアンタには少々キビシイかもな
+もし行くってんなら
+しっかり防寒対策するべきだな","Naydra is usually associated with
+Mount Lanayru.I hear it was also spotted east of
+Lanayru Road.
+
+Snowy mountains aren't a problem for
+Ritos like myself, but the journey might
+prove difficult for a Hylian like you.
+Be sure to prepare for extreme cold
+if you intend to go there."
+75,Npc_HighMountain011_Talk24,"構わねぇよ
+しっかし神獣 ヴァ・メドーには参ったぜ","Hmm. Divine Beast Vah Medoh sure
+caused a lot of turmoil around here..."
+76,Npc_HighMountain011_Talk25,他に聞きたいことある？,"Is there anything else you'd like
+to chat about?"
+77,Npc_HighMountain011_Talk26,"俺はこの間までククジャ谷の辺りに
+現れるっていう龍を見張りに行ってたんだ
+間近で見ると スゲェ迫力だったぜアンタは村のてっぺんの神獣 ヴァ・メドー
+見に来たんだろ？","I used to take lookout duty near
+Tanagar Canyon to keep an eye on
+the dragon that appears there.
+It is truly a sight to behold!Speaking of, you came to see the
+Divine Beast Vah Medoh at the top
+of our village, right?"
+78,Npc_HighMountain011_Talk27,"この村 こないだまで神獣 ヴァ・メドーっつー
+デカいのが飛んでてな
+いろいろあって
+やっと最近落ちついたところなんだよ","There was this big beast called
+Divine Beast Vah Medoh flying above
+the village up until a while ago.
+But someone took care of it, and things
+have finally settled down."
+79,Npc_HighMountain011_Talk28,"しかも俺は その後ククジャ谷の辺りに
+現れるっていう龍を見張りに行ってよ
+神獣 ヴァ・メドーだ龍だって
+ったく大変だったぜ","After all that, I went to Tanagar Canyon
+to keep an eye on the dragon that is
+said to appear there.
+The Divine Beast Vah Medoh and
+a mysterious dragon... Geez.
+We can't catch a break!"
+80,Npc_HighMountain011_Talk29,他に質問ある？,Any other questions?
+81,Npc_HighMountain011_Talk30,他に質問ある？,Any other questions?
+82,Npc_HighMountain011_Talk31,"知ってるか？ この間の龍は
+オルドラっつー名前なんだってよ","Did you know...that the dragon
+I mentioned before has a name?
+It's Dinraal."
+83,Npc_HighMountain011_Talk32,"そのときの龍は
+オルドラっつー名前なんだってよ",That dragon...is named Dinraal.
+84,Npc_HighMountain011_Talk33,"しかも あんなのが あと2体もいるらしいぜたしか残りは…
+フロドラとネルドラだったかな","Apparently there are two more of those
+creatures in Hyrule.I believe the other ones are called...
+Farosh and Naydra."
+85,Npc_ValleyVillage010_Talk00,"ん？ どうした…？
+何か言いたそうだが","Hm? What is it? If I'm not mistaken,
+there's something on your mind."
+86,Npc_ValleyVillage010_Talk01,"…リンク""俺達リト族や鳥は羽ばたきで前に進み
+翼が風を受けて生まれる揚力で飛んでいる
+だから自力で垂直に上昇することは出来ない…
+昔のリト族は それが当たり前と思い込んでいた
+だが その思い込みを打ち砕いたのが
+リーバル様だ
+あの人は自ら上昇気流を発生させ
+一気に垂直上昇する技を持っていたんだ
+戦闘において即座に相手の上を取れることが
+どれだけ有利なことかは お前にも分かるだろ？
+そんなことが出来る奴に俺は勝てる気がしない
+…だが""今に俺はリーバル様を超えてみせる
+その為に あの技…
+リーバルの猛りを いつか必ず会得してやる","Link. As you know, us Rito use our wings
+to fly forward. The wind lifts us up into
+the glorious sky above.
+However, we cannot ascend on our own.
+
+
+The Rito tribe used to believe this was an
+irrevocable truth...until Master Revali's
+feat changed everything.
+He learned to create his own updraft and
+crafted a unique skill that allowed him to
+ascend straight up into the air.
+I'm sure you can understand the great
+advantage of being above your foe.
+As a warrior, I...am lacking in that way.
+However, I swear on the sacred sky
+above that someday I will surpass
+Master Revali.
+To that end, I'm determined to master
+his skill...to teach myself Revali's Gale."
+87,Npc_ValleyVillage010_Talk02,そうか,I see.
+88,Npc_ValleyVillage010_Talk03,"さてと…
+
+傷も癒えてきた事だし""俺はそろそろ
+チューリを連れて飛行訓練場に行こうと思う
+チューリにはリーバル様のような
+立派な戦士になってもらいたいんでな","Well then...
+
+
+My wounds are just about healed, so I 
+guess it's time for me to take Tulin
+to the Flight Range.
+I'm hoping Tulin grows up to be a
+distinguished warrior like Master Revali."
+89,Npc_ValleyVillage010_Talk04,"さてと… チューリを連れて
+飛行訓練場に行くとするか","Well then... I should probably get Tulin
+over to the Flight Range. "
+90,Npc_ValleyVillage010_Talk05,"おまえか… しばらくだな
+
+メドーが落ち着いた今
+チューリの訓練を再開したんだ
+なんだったら チューリに
+おまえの弓捌きを見せてやってくれないか？
+多少言葉遣いが俺に似てしまったが…
+悪気は無いはずだ","It's you... Haven't seen you in a while.
+Now that Medoh's calmed down, I've
+started training Tulin again.
+If you have the time, would you mind
+showing Tulin how you handle a bow?He gets his bluntness from me, but he
+doesn't mean anything by it. Don't let
+whatever he says get to you."
+91,Npc_ValleyVillage010_Talk06,"チューリに おまえの弓捌きを
+見せてやってくれないか？
+上級者の動きを見て盗む…
+そういう訓練も あるはずだからな","Would you mind showing Tulin how you
+handle a bow?Watching a master at work and trying to
+copy their techniques is a good start
+when it comes to training, after all."
+92,Npc_ValleyVillage010_Talk07,"チューリに おまえの弓捌きを見せてやってくれ
+何かの参考になるかも知れん","Show Tulin how you handle a bow. It
+could set a good example for him."
+93,Npc_ValleyVillage010_Talk08,"頼んだぞ
+チューリがそこで待ってるからな","I'm counting on you, warrior.
+Tulin is awaiting your arrival."
+94,Npc_ValleyVillage010_Talk09,"族長か？""族長ならリトの村の自宅だろう
+いつものように揺り椅子に揺られているはずだ
+そういや""族長からチューリにリーバル様の話を
+してもらおうと思っていたのを忘れていたな
+だが""今はチューリの訓練が先決か","The elder? I imagine he's at his home
+in Rito Village. Yes, it's safe to assume
+he's in his favorite rocking chair.
+That reminds me. I was hoping the elder
+could speak to Tulin about Master Revali.
+
+Hmm... But perhaps Tulin's training
+should come first."
+95,Npc_ValleyVillage010_Talk10,"さて… チューリに おまえの弓捌きを
+見せてやってくれないか？","Warrior... Might I trouble you to show
+Tulin how you handle a bow?"
+96,Npc_ValleyVillage010_Talk12,"ん？ どうした…？
+何か言いたそうだが","Hm? What is it? If I'm not mistaken,
+there's something on your mind."
+97,Npc_ValleyVillage010_Talk13,"さてと…
+
+傷も癒えてきた事だし""俺はそろそろ
+チューリを連れて飛行訓練場に行こうと思う
+チューリにはリーバル様のような
+立派な戦士になってもらいたいんでな","Well then...
+
+
+My wounds are just about healed, so I 
+guess it's time for me to take Tulin
+to the Flight Range.
+I'm hoping Tulin grows up to be a
+distinguished warrior like Master Revali."
+98,Npc_ValleyVillage010_Talk14,"さてと… チューリを連れて
+飛行訓練場に行くとするか","Well then... I should probably get Tulin
+over to the Flight Range. "
+99,Npc_ValleyVillage010_Talk15,"四つの的を刹那に射る ？
+そういう詩を聴いて来たのか？
+…四つの的に一瞬で矢を当てるって事だよな？
+そんなこと誰に… いや待てよ
+そういや""昔リーバル様が飛行訓練場で そういう
+芸当をやってみせたって話を聞いた事がある
+…リンク お前もそれに挑戦するつもりだな？
+目を見れば分かる","A challenge of four targets? Hm, and you
+heard about it in a song?
+
+Shooting four targets...at once, perhaps?
+Why does that sound familiar?
+
+Ah, of course! I've heard Master Revali
+accomplished something similar at the
+Flight Range.
+Are you going to attempt the same, Link?
+Yes, of course you are. I can see it in
+your eyes."
+100,Npc_ValleyVillage010_Talk16,ん？ まだ何かあるのか？,Hm? Was there anything else?
+101,Npc_ValleyVillage010_Talk17,"おまえか… しばらくだな
+
+メドーが落ち着いた今
+チューリの訓練を再開したんだ
+なんだったら チューリに
+おまえの弓捌きを見せてやってくれないか？
+多少言葉遣いが俺に似てしまったが…
+悪気は無いはずだ","It's you... Haven't seen you in a while.
+Now that Medoh's calmed down, I've
+started training Tulin again.
+If you have the time, would you mind
+showing Tulin how you handle a bow?He gets his bluntness from me, but he
+doesn't mean anything by it. Don't let
+whatever he says get to you."
+102,Npc_ValleyVillage010_Talk18,"チューリに おまえの弓捌きを
+見せてやってくれないか？
+上級者の動きを見て盗む…
+そういう訓練も あるはずだからな","Would you mind showing Tulin how you
+handle a bow?Watching a master at work and trying to
+copy their techniques is a good start
+when it comes to training, after all."
+103,Npc_ValleyVillage010_Talk19,"チューリに おまえの弓捌きを見せてやってくれ
+何かの参考になるかも知れん","Show Tulin how you handle a bow. It
+could set a good example for him."
+104,Npc_ValleyVillage010_Talk20,"さて… チューリに おまえの弓捌きを
+見せてやってくれないか？","Warrior... Might I trouble you to show
+Tulin how you handle a bow?"
+105,Npc_ValleyVillage010_Talk21,"四つの的を刹那に射る ？
+そういう詩を聴いて来たのか？
+…四つの的に一瞬で矢を当てるって事だよな？
+そんなこと誰に… いや待てよ
+そういや""昔リーバル様が ここでそういう
+芸当をやってみせたって話を聞いた事がある
+…リンク お前もそれに挑戦するつもりだな？
+目を見れば分かる","A challenge of four targets? Hm, and you
+heard about it in a song?
+
+Shooting four targets...at once, perhaps?
+Why does that sound familiar?
+
+Ah, of course! I've heard Master Revali
+accomplished something similar.
+
+Are you going to attempt the same, Link?
+Yes, of course you are. I can see it in
+your eyes."

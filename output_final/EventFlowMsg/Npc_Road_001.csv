@@ -1,0 +1,298 @@
+#,Title,JPja,USen
+1,"""0000""",買おうかな,Maybe I'll buy.
+2,"""0001""",売ろうかな,Maybe I'll sell.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,"I'll buy, sure."
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"くそっ
+用心棒がくたばるわけにはいかねえぜ","So it's to be violence, then. Very well. 
+A watchman of my caliber won't fall to 
+the likes of these louts."
+11,Atacked01,"くそっ魔物のやつ俺をなめやがって…
+こう見えても俺は まあまあの用心棒だぞ","Curse your dark hearts, monsters! 
+You think me an easy mark?
+I am a watchman, and I do not flee!"
+12,Com_Talk_00,とりあえず見せてみな,"For starters, why don't you show me
+what you have?"
+13,Com_Talk_01,"を売るんだな？
+ルピーってとこだけど いいか？","You want to sell that?
+How does  rupees for it sound?"
+14,Com_Talk_02,"ありがとよ！
+他にも売りたいものは あるかい？","My thanks! Is there anything else you
+want to sell?"
+15,Com_Talk_02b,オッケー ありがとよ！,"Very well, thanks!"
+16,Com_Talk_02c,ありがとよ！,My thanks!
+17,Com_Talk_02d,ありがとな！,Thanks!
+18,Com_Talk_04,そうか…オッケー,Oh... Very well.
+19,Com_Talk_05,何でも買い取るぜ！,I'll buy anything!
+20,Com_Talk_05b,何でも買い取るけど？,There's nothing I won't buy!
+21,Com_Talk_05c,何か売ってみないか？,Care to sell something?
+22,Com_Talk_05d,売りたいものは あるか？,Anything you wish to sell?
+23,Com_Talk_06,気になる物は あるか？,Anything catch your eye?
+24,Com_Talk_07,悪いね今そいつは切らしてるんだ,"Sorry, I'm out of that right now."
+25,Com_Talk_08,"ルピーが足りないぜ
+冷やかしは やめてくれな","You don't have enough rupees. 
+So I'd advise stopping shopping."
+26,Com_Talk_09,"ポーチがいっぱいだぜ
+売るか捨てるかして空きを作ってくれよ","You don't have enough room, I'm afraid.
+You should sell or toss some stuff."
+27,Com_Talk_10,を買うんだな？,You want to buy that?
+28,Com_Talk_11,"備えあれば憂いなし！
+あんた いい買い物をしたな","Naught to fear if you have the right gear!
+That's an excellent purchase."
+29,Com_Talk_11b,大切に使うんだぜ！,Use it well!
+30,Com_Talk_11c,あんたなら うまく使いこなせるよ！,I know you'll make good use of it!
+31,Com_Talk_11d,"あんた買い物上手だ
+そいつが いつかあんたを助けるはずだぜ","You're an exceptional shopper.
+Or maybe I'm an exceptional seller?"
+32,Com_Talk_12,"矢ばっかりで すまんが
+あればあるほどうれしいのが矢という物だ","I apologize for only having arrows.
+But arrows are something that you can
+never have too many of, am I right?"
+33,Com_Talk_13," だな？
+いくつ売ってくれるんだい？","Willing to part with it, huh?
+How many are you selling? "
+34,Com_Talk_14,"を個で
+合わせてルピーになるけど いいか？","OK,  of them. Got it.
+How does  rupees sound?"
+35,Com_Talk_15,"そいつは俺には買い取れない
+すまんな…",I can't buy that from you. Sorry...
+36,Com_Talk_16,着てる服は脱いでから売ってくれよな！,"Now that's just weird. I'm not buying
+your gear while you're still wearing it."
+37,Com_Talk_20,"こんな天気でも冒険とは恐れ入った
+せっかくだし矢を少し多めに売ってやるぜ！","I'm amazed you're out adventuring in
+this weather. To reward your fortitude,
+I'll throw in extra arrows today!"
+38,Com_Talk_30,"が個で
+合わせてルピーになるけど いいか？","OK,  of them. Got it.
+How does  rupees sound?"
+39,Com_Talk_31,"を買うんだな？
+いくつ必要だ？","Got your eye on that, huh?
+How many do you need?"
+40,Com_Talk_33,"を ひとつだな？
+ルピーだぜ！",Just one? That'll be  rupees!
+41,Com_Talk_34,"を あるだけ全部だな？
+個でルピーだけど いいか？","All my stock? That's a total of ,
+so it'll be  rupees, OK?"
+42,Com_Talk_35,"を個全部だな？
+合計ルピーで買い取るけど いいか？","So,  of them? All right, then.
+I'll buy them for  rupees, OK?"
+43,Com_Talk_36,"これで最後だ
+いっぱい買ってくれて ありがとよ！","And that's the last of those.
+Thanks for your largesse!"
+44,Com_Talk_37,"もう今日は手持ちの矢がないんだ
+仕入れる予定の矢だけでも見ていくか？","I'm all out of arrows for today.
+Want to see the arrows I'm planning to
+restock later?"
+45,Com_Talk_56,"を ひとつだけ？
+ルピーだけど いいか？","Just one? That'll be  rupees.
+That OK?"
+46,Failed00,"いくら俺が用心棒でも一人じゃ無理だぜ！
+もうちょい早く助けに来てほしかった…","I may be a seasoned watchman, but no
+one could have handled that alone!
+I wish you had arrived sooner..."
+47,Failed01,"いてて…俺一人じゃ魔物討伐は無理だ！
+あんたも一緒に戦ってほしかったな…","Owww... Even I can't handle a monster
+attack of such ferocity by myself!
+If only you'd fought beside me..."
+48,GoodBye00,オッケー！またな！,OK! Farewell!
+49,Guardian00,"早く逃げろ！ガーディアンが来るぞ！
+太刀打ちできるような相手じゃねえぞ！","Go! Run! A Guardian is coming! 
+We don't stand a chance against the
+likes of that thing!"
+50,MSG_Bado_00,"…この俺が？何をしてるのかって？
+怪しい奴がいないか見回りをしてるところだ！
+ここはハイラル平原の南西だ
+魔物の多い地帯だから気をつけろって話だ！","...Who, me? What am I doing, you ask?
+I'm on patrol, keeping the watch!
+I am a watchman!
+This southwest corner of Hyrule Field is
+awash in monsters and suspicious types, 
+so you've got to tread carefully!"
+51,MSG_Bado_00_1,"怪しい奴がいないか見回りをしてるところだ！
+魔物の多い地帯だから気をつけろよ！","I'm on patrol, keeping the watch!
+Monsters abound, so watch yourself!"
+52,MSG_Bado_01,"昔々 この辺りに闘技場があったが
+今では魔物がすみつく廃墟と化しているんだ！
+まあ ある意味
+今でも人と魔物との闘技場ってわけだ！","A long time ago, there used to be an
+arena for combat nearby, but it's fallen
+to ruin and is a home for foul monsters.
+I suppose you could say it still IS an
+arena for combat, but more the life-or-
+death-against-monsters variety."
+53,MSG_Bado_01_1,"昔々 この辺りにあった闘技場は
+今では魔物がすみつく廃墟と化しているんだ！","A long time ago, there used to be an
+arena for combat nearby, but it's fallen
+to ruin and is a home for foul monsters."
+54,MSG_Bado_02,"なあ あんた…
+「ヌシ」ってのを知ってるか？
+ここから北西のサトリ山に出やがるらしいが…
+そもそも「ヌシ」ってのは何なんだ？","Say... Have you heard tell of the
+Lord of the Mountain?
+
+They say he appears on Satori Mountain,
+northwest of here...but what is he?
+The Lord of the Mountain..."
+55,MSG_Bado_02_1,"「ヌシ」ってのを知ってるか？
+ここから北西のサトリ山に出やがるらしいぜ","Have you heard of the Lord of the
+Mountain? It's said that he appears on 
+Satori Mountain, northwest of here."
+56,MSG_Bado_03,"馬宿の北方面は比較的安全と言われるが
+だからといって見回りは怠らないぜ！","They say the north side of the stable is
+relatively safe, but even so, I won't shirk
+my patrol duties! I am a watchman!"
+57,MSG_Bado_03_1,"安全と言われていようが見回りは怠らない
+それが用心棒ってもんだぜ！","They say it's relatively safe, but I won't
+shirk my patrol duties! I always watch!
+That's what it means to be a watchman!"
+58,MSG_Bado_04,"この先 ハイラル丘陵の手前にあるサトリ山には
+「ヌシ」っていうのがいると聞く…
+あの辺には普段動物がほとんどいないんだが…
+「ヌシ」が現れると動物が集まってくるらしい
+だけど その「ヌシ」ってのは
+そもそも何なんだよ？！","The Lord of the Mountain is said to
+make Satori Mountain its home... 
+That's just ahead, before Hyrule Ridge.
+Animals rarely appear there, but...they
+say if this lord appears, the animals will
+heed its call and gather.
+But just what in the world could it be?
+What is this lord creature?!"
+59,MSG_Bado_04_1,"この先にある サトリ山辺りには
+普段動物がほとんどいないんだが…
+「ヌシ」が現れると動物が集まってくるらしい","Normally, few animals make their home
+around Satori Mountain, just ahead...
+
+But they say an appearance by the
+Lord of the Mountain calls to the souls
+of the animals and makes them gather."
+60,Near00,さあ見回り見回り…,"Now, back to my patrol..."
+61,Near01,旅人の安全を…,A watchman watches...
+62,Near02,じき日が暮れるな…,Sunset pretty soon...
+63,Near03,夜の見回り…,"Ugh, night patrol..."
+64,Near04,降ってきやがった！,RAIN!
+65,Rest_00,"あんた もしかして俺と同じ用心棒か？
+旅人にしては俺と同じ匂いを感じるんだよな","You're not a watchman like me, are you?
+Yet I fear we both have the stink of long
+travel upon us. We are fragrant."
+66,Rest_01,"雨は視界を遮り集中力を奪う
+慣れない土地をふらつくのは危険だぜ！","Rain obstructs one's view and steals
+one's concentration. If you aren't familiar
+with the area, it's dangerous to wander!"
+67,Rest_02,"雨は視界を遮り集中力を奪う
+あんたも ここで雨宿りしていったらどうだ？","Rain obstructs one's view and steals
+one's concentration. Why don't you take
+shelter from the rain here, too?"
+68,RetMSG_Bado_00,"おい一人歩きは危ないぞ！
+砂漠方面には手強い魔物がたくさんいる
+それでも行くというのなら武器を揃えて
+自分の身は自分で守ることだな","Hey, it's dangerous to travel alone!
+Monsters of great strength haunt the
+way to the desert.
+If you insist on going, make sure you
+have proper weapons equipped so you
+can protect yourself."
+69,RetMSG_Bado_00_1,"砂漠方面には手強い魔物がたくさんいるぞ
+行くのなら自分の身は自分で守ることだな","Monsters of great strength lie in wait on
+the road to the desert. If you insist on
+going, you'll have to protect yourself."
+70,RetMSG_Bado_01,"ここからすぐ東の岩山の裏に
+古代の闘技場跡地があるんだが…
+今じゃ魔物が巣食う恐ろしい廃墟だ
+武器をあさる盗賊以外は近づきやしない","On the other side of those rocky
+mountains to the east are the ancient
+Coliseum Ruins...
+It's a fell place, teeming with monsters.
+Only scavengers hunting for weapons
+dare to go near the ruins."
+71,RetMSG_Bado_01_1,"東の岩山の裏にある古代の闘技場跡地は
+今じゃ魔物が巣食う恐ろしい廃墟だぜ","The ancient Coliseum Ruins on the
+other side of those rocky mountains to
+the east are alive with fell monsters."
+72,RetMSG_Bado_02,"馬宿前の崖からハイラル城の跡が見えるだろ？
+そこには伝説級の武器が眠るという話だ
+それも ひとつやふたつじゃないらしいが…
+いいか？危険だから絶対にやめておけよ！","You can see the remains of Hyrule Castle
+from the cliff in front of the stable, right?
+They say legendary weapons sleep there.
+And not just one or two, either...
+But do not be tempted! It's far too
+dangerous to approach, so stay away!"
+73,RetMSG_Bado_02_1,"ハイラル城の跡に伝説級の武器が眠るというが
+危険だから絶対に取りに行くんじゃないぞ！","They say legendary weapons sleep in the
+remains of Hyrule Castle, but it's far too
+dangerous, so don't be tempted!"
+74,RetMSG_Bado_03,"地震とともに塔が現れた頃から
+魔物の数も増えてきてると思わないか？
+旅を続けたいなら武器や装備を揃えて
+自分の身は自分で守ることだな！","Ever since that earthquake when the
+towers appeared, doesn't it seem like
+monsters roam in greater numbers?
+If you want to keep traveling, you'd do
+well to load up on weapons and gear so
+you can defend yourself!"
+75,RetMSG_Bado_03_1,"旅を続けたいなら武器や装備を揃えて
+自分の身は自分で守ることだな！","If you want to keep traveling, you'd best
+prepare weapons and equipment so
+you can defend yourself!"
+76,RetMSG_Bado_04,"あんたリトの村に行きたいんだろ？
+だったら道なりに北！タバンタ辺境をめざせ！
+ただし ガーディアンに会いたくなかったら
+東から迂回した方が利口かもな！","You want to go to Rito Village, right?
+Then just follow the road north.
+Head for the Tabantha Frontier!
+But...if you don't want to run into any
+Guardians, it may be wiser to take a
+detour to the east!"
+77,RetMSG_Bado_04_1,"リトの村に行きたいんなら道なりに北！
+タバンタ辺境を通った方が近いぜ
+ただし あの辺には ガーディアンがいるから
+東から迂回した方が利口かもな！","If you want to go to Rito Village, follow
+the road north. Cutting through the
+Tabantha Frontier is the fastest route.
+But there are a bunch of Guardians in
+that area, so it may be wiser to take a
+detour to the east!"
+78,SavedLv1_00,"そこそこ やるじゃないか
+腕利き用心棒の俺ほどではないにしても","You handle yourself rather well.
+You're not quite as adept as a seasoned
+watchman like me, but really, who is?"
+79,SavedLv1_01,"様子を見させてもらったが
+そこそこ やるじゃないか","I was just taking an observer role to see
+how the situation would play out, but
+you seem to have handled it fairly well."
+80,SavedLv2_00,"た…助けてもらったことは内緒で頼む
+なにしろ俺 これでも用心棒なんで…","Let's... Let's just keep this \""rescue\""
+between us, shall we? Yes, let's do.
+I am a watchman, after all..."
+81,SavedLv2_01,"ま…魔物に恐れをなしたわけじゃないぞ
+なにしろ俺 これでも用心棒なんで…","It's... It's not as though I've started
+fearing monsters or anything like that.
+I am a watchman!"
+82,SavedLv3_00,"つ…つまり…命あっての用心棒だ！
+今回はあれだったが次は俺が助けてやる！","Inexplicable... Though I nearly fell, I am
+a watchman! And though you saved me
+today, I shall save you tomorrow! Maybe."
+83,SavedLv3_01,"お…俺は用心棒だが
+用心棒にも用心棒が必要かもしれん…","I... I am a watchman! But...perhaps even
+watchmen need watchers to watch over
+them now and then..."
+84,Talk01,"…ところで話は変わるが
+最近は冒険のための装備を売って歩いてる
+用心棒だけじゃ食っていけなくてね…","Say, on an entirely different topic...
+I've recently begun selling adventuring
+gear as I travel.
+Doing work as a watchman certainly
+fills my soul, but not my pockets..."
+85,Talk01_1,"何事も用心するに越したことはない
+冒険のための装備なら まかせてくれ！","You can really never be too prepared.
+If you need proper gear for adventuring, 
+you've come to the right fellow!"
+86,Talk02,準備は万端か？,Need anything else?
+87,Thanks00,"まあ…""礼ぐらいは しておこうか","Well... I guess a token of my gratitude
+would be appropriate."

@@ -1,0 +1,149 @@
+#,Title,JPja,USen
+1,"""0000""",どうしてそれを…,How did you know?!
+2,"""0001""",パラセールは？,"Paraglider, please?"
+3,"""0002""",どういうこと？,What do you mean?
+4,"""0003""",話が違う！,That wasn't the deal!
+5,"""0004""",増えた…？,So I need more now?
+6,"""0005""",ウソ…でしょ？,Are you joking?
+7,"""0006""",わかった！,Got it!
+8,"""1000""",詳しいね,You sure know a lot...
+9,"""1001""",さようなら,Bye.
+10,"""1002""",どうしたらいい？,What do I do?
+11,Appear01,"どうやら克服の証を手に入れたようじゃな…
+まずは よくやったと誉めてやろう","It seems you managed to get your hands
+on a Spirit Orb. Well done!"
+12,Appear02,千里眼 …というやつじゃ,"Clairvoyance! Oho, or perhaps just
+something similar."
+13,Appear03,"歳を取ると目の前の物は見え難くなるが
+逆に隠された物が見通せるようになるのじゃ","As one gets older, it can become more
+difficult to see what is right before
+one's own eyes...
+However, that which was once hidden
+from view can often be crystal clear."
+14,Appear04,"誰にでも身につくもの ではないがのう
+ふぉっ ふぉっ ふぉっ","But perhaps that is not true for
+everyone! Oho ho!"
+15,Appear05,"待て待て まずは と言ったろう…
+気が早いヤツじゃ","I encourage you to slow down for
+a moment, my courageous friend."
+16,Appear06,"しかし塔の出現といい この祠といい
+全ては お主の腰のそれ…","The appearance of those towers and
+the awakening of this shrine..."
+17,Appear07,シーカーストーンとやらに縁があるようじゃな,"It is all connected to that Sheikah Slate
+you carry on your hip there."
+18,Appear08,"シーカーストーンと聞いて
+わしも思い出したのじゃが…","It has been quite some time since I have
+seen that Sheikah Slate..."
+19,Appear09,人の話を聞けい！,I have yet to finish speaking!
+20,Appear10,"その昔 この地にはシーカー族という
+高度な文明を持った民がおってな…
+その叡智の力によって この地を幾度となく
+脅かした厄災を払ったそうじゃ","Long ago, a highly advanced tribe known
+as the Sheikah inhabited these lands.
+
+The great power of their wisdom saved
+this kingdom time and time again."
+21,Appear11,"彼の文明は遥か昔に絶えた… と聞いていたが
+まさか こんな祠に隠されておったとはな…","But their ancient technology disappeared
+long ago... Or so it is said.
+
+It is interesting, however, to think...
+how something like that survived all
+this time, hidden away in a shrine."
+22,Appear12,"よいか
+こうした祠は この地に いくつも存在する","These shrines are tucked away in
+numerous places all across this land."
+23,Appear13,"この台地にも あと3つほどあったはずじゃ
+
+その全ての祠で克服の証を手に入れたとき
+お主にパラセールを渡してやろう","On this plateau alone, I believe there are
+still three more.
+
+Bring me the treasure from each of
+those shrines...and I will give you
+my paraglider."
+24,Appear14,"うむ…少し気が変わってのう
+だが お主であれば そう大したことでもあるまい","Oh? Well, I suppose I changed my mind.
+I'm sure that won't be a problem for a
+young go-getter like you!"
+25,Appear15,"わしは お宝とは言ったが 1つとは言っておらん
+お主であれば 1つも4つも そう変わるまいて","I said \""treasure,\"" but I never said there
+would only be one treasure.
+
+Whether it's one treasure or four,
+what's the difference for a young
+go-getter like yourself?"
+26,Appear16,"その代り祠探しのコツを教えてやろう
+
+祠に限らず ものを探すには
+高いところから見回す のが一番じゃ
+そうじゃのう…","Since I'm feeling generous, I will also
+teach you a trick for finding shrines.
+
+It's always best to survey the area by
+looking around from a high point.
+Let's see here..."
+27,Appear17,もう一度 さっきの塔に登ってみたらどうじゃ？,"How about you make your way to the top
+of that tower again?"
+28,Appear18,"ふぉっ ふぉっ ふぉっ
+
+慌てるでない
+もうひとつ いいことを教えてやろう","Oho ho!
+
+
+I am afraid not. But do not worry!
+I have another little trick to share
+with you for your effort."
+29,Appear19,"慌てるでない
+もうひとつ いいことを教えてやろう","I admire your eagerness! But allow me to
+teach you something else before you go."
+30,Appear20,シーカーストーンのマップを見るがいい,"Take a look at the map on your
+Sheikah Slate."
+31,Appear21,"お主が出てきた この祠
+そして塔にも青い印がついておるじゃろう？","See those blue icons? You should
+recognize the cave where you woke,
+the shrine you came from, and the tower."
+32,Appear22,"シーカーストーンの力を使えば
+その場所にワープできる… と聞いたことがある","You can travel instantly to any of those
+places with the Sheikah Slate."
+33,Appear23,"と言うても昔の話じゃ…
+嘘か真かは わからんがな","Or so I heard quite some time ago...
+I do not know if it actually works
+as such."
+34,ClearTerrorEnemy,むう…,Hmm...
+35,ClearTerrorGuardian,危なかったのう…,That was close...
+36,GoodBye00,早う行け,Go on. Time is of the essence!
+37,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+38,Kotsu00,"ふぉっ ふぉっ ふぉっ
+年寄りは何でも知っておるものじゃ
+ほれ さっそく試してみんか？","Oho ho! When you have been around
+as long as I have, you pick up a thing
+or two. Go on, why not try it out?"
+39,Kotsu01,"シーカーストーンのマップを開いて
+青い印のついた塔を選ぶのじゃ
+さすれば瞬時に そこまで移動できるそうな…
+試してみるといいじゃろう","Open the map on your Sheikah Slate,
+and select the blue tower icon.
+
+You'll be able to travel there instantly
+that way."
+40,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+41,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+42,Talk00,"塔の上まで ワープしてみることじゃ
+そこから眺めれば祠などすぐに見つかるぞ","Try traveling to the top of the tower.
+From there, you should be able to scout
+the location of another shrine."
+43,Talk01,ほれ残りの祠を探すため塔に登るのじゃ,"Go on! Get to the top of that tower,
+and find those remaining shrines!"
+44,TerrorArrow,何をする！,What is this?!
+45,TerrorBomb,何じゃ？,What is it?!
+46,TerrorEnemy,ひぃーっ！,Whoa!
+47,TerrorExplosion,ぬわーっ！,Huh?!
+48,TerrorFire,あちゃっ,Toasty...
+49,TerrorGuardian,ガーディアンじゃっ！,A Guardian!
+50,TerrorImpulse,ひぃーっ！,Whoa!
+51,TerrorInsect,ひぃーっ！,Whoa!
+52,TerrorSword,やめんか！,Easy there!

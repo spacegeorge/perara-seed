@@ -1,0 +1,365 @@
+#,Title,JPja,USen
+1,"""0000""",最初のページへ,First page.
+2,"""0001""",最後のページへ,Last page.
+3,"""0002""",今は読まない,Don't read.
+4,"""0003""",次のページへ,Next page.
+5,"""0004""",前のページへ,Previous page.
+6,"""0005""",読むのを止める,Stop reading.
+7,talk00,"古代技術アイテム 「アンチエイジ」開発日記
+絶対見ちゃダメ！ by プルア","Research diary for anti-aging rune.
+CLASSIFIED! For Purah's eyes only!"
+8,talk01,"○月×日
+
+新アイテム「アンチエイジ」の開発を開始する
+仕様通りに実装すれば若返りが可能になるはず
+この「アンチエイジ」が完成すれば退役軍人を
+若返らせ ハイラルの軍隊を増強する事で
+厄災ガノンが復活した際には
+強大な防衛力と なりえるだろう
+軍人だけでなく労働力の増加も期待できる
+是非平和的利用に役立てたい","Date: ???
+
+
+Work has finally begun on my anti-aging
+rune. If all goes to plan, I believe it will
+effectively reverse the aging process.
+This technology will enable us to make
+retired warriors young again, thereby
+strengthening the Hyrulean army.
+When Calamity Ganon inevitably returns,
+we'll be ready. Our offense will be solid,
+and our defense impenetrable.
+The need for this tech pains me, but I
+truly hope to use it to attain everlasting
+peace for all."
+9,talk02,"△月□日
+
+新アイテム「アンチエイジ」のβ版が完成した
+早速自作のシーカーストーンに機能追加する
+私自身が被験者となるため アンチエイジを
+シモンが起動 そして私に照射してもらう事に
+照射20秒後全身に倦怠感と発熱を感じたので
+実験は中止
+猛烈な眠気もあり今日は早めに就寝
+明日からアンチエイジの解析をやり直す事にする","Date: ???
+
+
+The beta version of my anti-aging rune
+is complete. I have already added it to
+the Sheikah Slate I made for myself.
+Since I am to be the test subject of this
+experiment, Symin booted up the rune
+and directed its rays at my body.
+After 20 seconds of exposure, I felt
+extreme fatigue and broke into a fever,
+forcing us to cease the experiment.
+Unable to stay awake, I went to bed
+immediately. Tomorrow I will try to
+figure out what went awry."
+10,talk03,"アンチエイジ照射後二日目
+
+全身の倦怠感はやや緩和
+
+鏡を見てみると頭髪が床まで伸び
+溝のように深かった皺が ほぼ無くなっている
+アンチエイジの実装は間違っていなかったようだ
+ただし この驚異的な若返り速度は想定外だった
+シモンを叩き起こし すぐに全身の診断を決行
+身長 体重視力から血液検査心電図骨密度……
+ここでできる限りの全ての検査の結果
+シーカー族の50代女性の値が出ている事が判明
+と言う訳で一晩で70歳以上の若返りに成功か
+明日目覚めたら胎児になってなければよいが","Anti-Aging Experimental Trial
+Day 2
+
+My extreme full-body fatigue has slightly
+improved, for which I am grateful. Still,
+I do not recognize the face in my mirror.
+My hair is thick again and floor-length.
+My wrinkles, once deep as trenches,
+have vanished without a trace.
+It seems the anti-aging effect works.
+However, I did not expect the reversal
+to happen so frighteningly fast.
+This morning I kicked Symin awake and
+had him run a full physical exam on me.
+
+My height, weight, vision, bone density,
+heart, blood... We tested everything we
+could, pushing our facility to its limit.
+Our discoveries were startling. My results
+were typical of a Sheikah woman in her
+early 50s.
+In other words, I reversed my age by
+more than 70 years in a single night.
+
+I can only hope I do not awaken to find
+I have the body of a newborn baby..."
+11,talk04,"アンチエイジ照射後三日目
+
+漲る気力と共に起床
+こんなに眠れたのは何十年ぶりの事だろう
+すぐに鏡で自分の姿をチェック
+若かりし日の自分が そこに居た
+シモンの診断結果では全ての数値が
+シーカー族女性の 30歳前後の値を示していた
+30歳…大厄災で世界が崩壊した後
+ようやく研究を再開できるようになった時期
+シーカーセンサーなどの アイテム類の
+機能拡張の研究を始めたのも この頃
+この子達の機能拡張が完成したのは
+私が80歳の時だったろうか
+いずれにせよ この子達は
+いづれ目覚めし天才剣士クンに託すつもりだ
+そして ゼルダ姫を飲み込んだ厄災…
+ガノン討伐の助力になればと切に願う","Anti-Aging Experimental Trial
+Day 3
+
+I awoke with an abundance of energy.
+It has been decades since I slept so well.
+
+Upon waking, I immediately checked the
+mirror, only to be greeted by a youthful
+version of myself.
+According to Symin's examination,
+I have the body of a Sheikah woman
+in her 30s.
+Thirty years old... I was around that age
+when I was first able to continue my
+research following the Great Calamity.
+The first thing I did was try to figure out
+how to expand the functionality of the
+Sheikah Sensor.
+I was around 80 years old when that
+expansion was completed. I intend to
+bequeath this tech to our sleeping hero.
+I hope to the gods that he will be able to
+assist in the destruction of the Calamity
+that swallowed our Princess Zelda whole."
+12,talk05,"アンチエイジ照射後四日目
+
+起床後 いつもの健康診断を実行
+各種数値は シーカー族女性の20歳くらいのそれ
+当たり前だけど 100年前の私にそっくり
+そして大厄災が起こったのも ちょうどその時
+ガノン… 
+
+一万年に渡り音沙汰が無かったらしいが
+つい100年前に溜めた力を解放したと言うのか
+思い出したくもない無慈悲なる破壊と殺戮…
+ハイラル城を ゼルダ姫を…我々は全てを失った
+いや…正確には「全て」ではなかった
+
+100年前の私の元に
+全身を挫傷した青年が担ぎ込まれた
+その青年の名は リンク
+
+リンク……
+
+ハイラル城の歴史上 最年少で昇格し
+ゼルダ姫直属の近衛騎士に抜擢された天才剣士
+その天才剣士クンですら厄災ガノンの前では
+かような姿と成り果てるのか… と思ったものだ
+ハイラル王家と我らシーカー族の学者は
+太古より因縁があるが選択の余地は無かった
+爆風の中 ゼルダ姫の残したシーカーストーンと
+天才剣士クンを回生の祠まで担ぎ込み
+詳細な臨床実験もできていない
+回生の眠りを その天才剣士クンに施した
+それが当時の私にできた事の全てだった","Anti-Aging Experimental Trial
+Day 4
+
+After today's routine physical, the results
+show that I have the body of a Sheikah
+woman in her 20s.
+I haven't felt this good in a century!
+This is all taking me back to when the
+Great Calamity happened...
+Ganon had been dormant for 10,000
+years. Perhaps his power had been
+building all that time.
+The slaughter that followed was arbitrary
+and merciless. The destruction complete.
+
+We lost everything... Hyrule Castle,
+Princess Zelda... Well, perhaps not 
+everything was lost.
+A youth named Link was brought to me a
+hundred years ago, covered in wounds
+and on death's doorstep.
+Link... So young, yet so courageous.
+
+
+He was the youngest knight to have ever
+been appointed to the Imperial Guard at
+Hyrule Castle.
+He was also a gifted swordsman who was
+selected as captain of Princess Zelda's
+personal guard.
+I thought his skills would be enough to
+defeat Ganon in glorious fashion...
+
+Since ancient times, the royal family of
+Hyrule and us Sheikah researchers have
+had a strong bond. Their pain is our own.
+We took the swordsman and the
+Sheikah Slate Princess Zelda left
+behind to the Shrine of Resurrection.
+Although the Slumber of Restoration had
+not been fully tested, we decided to put
+the swordsman under to save his life.
+It was the best we could do..."
+13,talk06,"アンチエイジ照射後五日目
+
+起床後目視にて赤い発疹を確認
+
+成分を分析すると…… ただのニキビだった
+
+健康診断の数値を見るに体力や精神年齢は
+10代中盤にまで退行しているっぽい
+それにしても最近シモンの目つきがマジエロい
+なんなのアイツ マジムカツク……
+血液検査とか言いながらベタベタ触ってくるし
+それくらい自分でできるっつーの…
+しかし今後の実験はどうしようかな
+
+外のかまどの青い炎も弱まってきたし
+このまま勇導石が ストップしなきゃいいけど…","Anti-Aging Experimental Trial
+Day 5
+
+I awoke to something horrifying...
+a scarlet lump scarring my
+otherwise youthful face.
+After analyzing this monstrosity,
+I have come to the conclusion that
+it is just a pimple. A big one.
+The results of today's physical exam
+indicate that my body and mind have
+reverted to those of a teenager.
+I feel like Symin looks at me differently.
+Which irritates me. I got angry when he
+insisted on running my blood test for me.
+I mean, really! What even! I can do it all
+by myself! ...In any case, I wonder what
+experiment I should focus on next.
+The blue flame in the furnace outside is
+growing weaker by the day. I do hope the
+Guidance Stone doesn't stop working..."
+14,talk07,"アンチエイジ照射後六日目
+
+またまた若返って
+見た目も体力も 6歳くらいになったぽい
+背が縮んじゃって高い所の物も取れないし
+チョー不便
+ってか回生の眠りに就いた天才剣士クンは
+いつになったら起きてくれるんだろ？
+このまま目覚めてくれないと
+シーカーセンサーとかの機能拡張が持ち腐れだ
+でも運よく目覚めたとしても
+ここまで来てくれる保証は無いような？
+リンクを叩き起こしに行きたいケド
+シモンは頼りになんないし……
+6歳の体では色々面倒だから
+年齢を進めるアイテムを開発しよっと","Anti-Aging Experimental Trial
+Day 6
+
+My age reversal has progressed
+further still. I now look and feel
+like a 6-year-old.
+My height has regressed so much that
+I can no longer reach things in high
+places. It's super annoying.
+Where is that genius swordsman we
+placed in the Slumber of Restoration,
+anyway? Wake up, already!
+If he doesn't awaken soon, my feature
+expansions for the Sheikah Sensor will
+go to waste.
+But even if he does manage to wake up,
+how can I be sure he'll find me here?
+
+I want to go and just kick Linky awake,
+but I doubt Symin would help me. It'd be
+hard with my 6-year-old body anyway.
+Instead, I think I'll begin working on a
+rune to un-reverse my aging process."
+15,talk08,"アンチエイジ照射後七日目
+
+朝の健康診断は昨日と同じ6歳の数値
+若返りは止まったかナ？
+ほんでもって年齢を進めるためのアイテム
+「ブーストエイジ」のβ版が一旦完成♪
+仕様的には アンチエイジを可逆化し
+出力を高めて照射すればいい… はず
+で自作のシーカーストーンに その機能を
+追加しようとしたら勇導石が止まっちゃった！
+外のかまど見たら青い炎消えてるし！
+
+なので シモンを古代炉に行かせたけど
+失敗するわ雨は降るわで ラチが明かないし
+アタシが行ったら行ったで
+村の女の子に見つかって散々だったし…","Anti-Aging Experimental Trial
+Day 7
+
+This morning's exam results indicated
+that I am still age 6, same as yesterday.
+Perhaps my age-reversal has stopped.
+As luck would have it, today I also
+finished developing the beta version
+of an age-boosting rune! ♪
+If successful, this should be able to
+reverse the effects of the anti-aging
+rune. I hope it will, anyway.
+All I need to do is increase the output
+and expose myself to its rays...
+
+However, when I tried to add this feature
+to the Sheikah Slate I made, I found that
+the Guidance Stone had stopped!
+What's more, the blue flame in the
+furnace outside has gone out!
+
+I sent Symin to the ancient furnace,
+but he was too clumsy and it was
+raining and nothing went to plan.
+So I had to go down there to help,
+but a girl in the village saw me.
+What a mess I've made..."
+16,talk09,"このままだと研究もできないどころか
+ガス灯しか つけられないし どうしよ……","Not only am I unable to continue my
+research in this state, I can only work
+by the light of gas lamps. What to do..."
+17,talk10,"◎月◇日
+
+なんと あのリンクがやって来た！
+実に100年ぶりである
+予想通り記憶喪失だった……
+
+回生の眠り…… やっぱりあれは ちゃんと
+臨床試験しとくべきだった
+まぁでも リンクに
+勇導石を再稼働してもらったし
+おかげで研究くらいはできるようになった
+流石 ハイラルの天才剣士♪
+これを機に また色々お願いしようと画策中","Date: ???
+
+
+I can't believe it... Our hero, Linky,
+has awoken from his 100-year slumber!
+As expected, he has lost his memory.
+The Slumber of Restoration... I really
+should have done a test run on that
+thing first. Well, live and learn.
+In any case, he got the ancient furnace
+working, so now I can start my research
+once again. Finally!! ☆
+Only a truly gifted and heroic swordsman
+like him could have achieved all that. ♪
+
+Speaking of...this seems like a good
+opportunity to get him to do some
+other chores for me too, heh. ☆"
+18,talk11,"このままだと研究もできないどころか
+ガス灯しか つけられないし どうしよ……","Not only am I unable to continue my
+research in this state, I can only work
+by the light of gas lamps. What to do..."

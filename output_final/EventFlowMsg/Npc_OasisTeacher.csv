@@ -1,0 +1,363 @@
+#,Title,JPja,USen
+1,"""0000""",見学する,I'll observe.
+2,"""0001""",やめておく,"No, thanks."
+3,"""0002""",ハートミルクスープ？,Creamy heart soup?
+4,"""0003""",さよなら,Good-bye.
+5,"""0004""",そうですね！,Yeah!
+6,"""0005""",それはどうかと…,I'm not sure...
+7,TerrorArrow,お 落ち着きなさい！,C-calm down!
+8,TerrorBomb,何をする気？,What're you trying to do?!
+9,TerrorExplosion,きゃぁ！,Eeek!
+10,TerrorFire,や やめなさい！,"S-stop it, please!"
+11,TerrorSword,な なんなの？！,Wh-what?!
+12,near00,あら…,"Oh, my..."
+13,talk00,"あら…私の恋のＡＢＣレッスンを
+受けたいのかしら？","Oh... Would you be interested in my
+class on interacting with voe in the world
+outside this town?"
+14,talk01,"みなさ～ん
+
+この可愛いヴァーイに日頃のお勉強の成果を
+見せて差し上げましょう
+では…
+
+ステキヴォーイが歩いてきます
+アナタ達なら どうする？","OK, everyone!
+Let's show our cute observer what we've
+been learning in class!
+Now then...
+
+
+You're walking down the street on your
+way somewhere, and a handsome voe
+you've never met approaches..."
+15,talk02,"ハイ！
+
+さりげなく ハンカチーフを落とします！","Oh!
+
+
+I would wave casually to him but also
+keep myself prepared in case he's a
+distraction for a bandit ambush!"
+16,talk03,"プシャンちゃんは古典派なのね
+
+ハンカチは柄物というより
+少しだけレースが付いた上品な物がおススメよ","Excellent thinking, Pasha! That's a
+prudent approach to a new situation.
+
+Remember that sometimes voe may look
+suspicious but are just being wary due to
+the sight of a daunting Gerudo."
+17,talk04,"ハイ！
+
+足をくじいたふりをします！","Oh!
+
+
+I would enthusiastically greet him,
+approaching with a smile and with my
+hands clearly empty!"
+18,talk05,"まぁ ディショーナちゃん
+そのあざとさ…
+大事なことよね～
+
+その時には ズボンじゃなくて
+スカートをはいておくと よりセクシーよ","Wow, Dina, that's a very optimistic
+approach to take!
+
+Being overtly friendly is an excellent way
+to put the stranger's mind at ease."
+19,talk06,"ハイ！
+
+力ずくで仕留めます！","Oh!
+
+
+I would walk casually toward him and
+then strike a fierce blow when he least
+suspected it!"
+20,talk07,"リッスンちゃん…
+
+それは犯罪よ…","Risa...
+
+
+That would be a crime..."
+21,talk08,"あら…私の恋のＡＢＣレッスンを
+受けたいのかしら？
+そんなに急がなくても
+レッスンは みんなが集合してからよ
+急いては事を仕損じる…恋も同じよ","Oh... Are you interested in sitting in on
+my class \""Voe and You\""? It may even
+teach you a thing or two!
+There's no hurry—we won't be starting
+until everyone has arrived."
+22,talk09,"アナタ…
+心に決めた人はいる？","Do you already care deeply for
+someone?"
+23,talk10,"この子達は まだヴォーイと
+触れ合ったこともないの…
+運命の人に巡り合った時に
+射止められるよう後押しするのが私の役目なの","These young vai have never even met a
+voe before.
+
+It's my duty to help prepare them for
+what they'll encounter in the world
+beyond Gerudo Town, good and bad."
+24,talk11,"あら アナタもヴォーイハントのレッスン
+受けたいのかしら？
+夜は私のお家で お料理教室をやってるの
+良かったらおいでなさいな","Oh, are you interested in the classes I
+teach to vai before they set off from
+Gerudo Town?
+I teach a cooking class at my house at
+night. If you want, please stop by!"
+25,talk12,"あら…私の恋のお料理レッスンを
+受けたいのかしら？
+ヴォーイを射止めたいなら
+一緒にどうかしら…？
+と言いたいところなんだけど
+今日レッスンしようと思ってた
+ハートミルクスープのレシピが
+ちょっと思い出せないのよね…","Oh... Would you be interested in my
+cooking class?
+
+I'm sure even with what you may already
+know from your travels, you'd learn
+something in my class!
+However, while I'd love to invite you to
+join us...
+
+I can't seem to remember the recipe for
+the creamy heart soup I was planning to
+make for today's lesson."
+26,talk13,"ハートミルクスープをマスターすれば
+ヴォーイも マスターできるといわれていてね
+フレッシュミルクとビリビリフルーツと
+ヒンヤリメロンが1つずつ
+あとはハート型の野菜が2つ必要なんだけど…
+
+そのハート形の野菜がなんだったのか…
+どうしても思い出せないのよね…","They say that a Gerudo who masters
+making creamy heart soup can master
+almost anything in the world.
+I know you need some fresh milk, one
+voltfruit, one hydromelon...and
+two heart-shaped vegetables...
+But I just can't seem to remember...
+Grrr, what was that heart-shaped
+vegetable?"
+27,talk14,"あら私のヴォーイハントのレッスン
+受けたいのかしら？
+恋のABC教室なら兵舎の中よ
+良かったらおいでなさいな","Oh, are you interested in the classes I
+teach to vai before they set off from
+Gerudo Town?
+My \""Voe and You\"" class is in the
+barracks. If you'd like, please stop by."
+28,talk17,"う～ん
+
+今日のレッスンは
+ハートミルクスープにしようと思ってたのに
+肝心のレシピが
+ちょっと思い出せないのよね…
+フレッシュミルクとビリビリフルーツと
+ヒンヤリメロンが1つずつ
+あとはハート型の野菜が２つあれば
+ハートミルクスープが作れるんだけど…
+ハート形の野菜って
+なんだったかしら…
+でも まぁいつか思い出せるでしょう…
+良いヴァーイは立ち止まったりはしないの","Hmm...
+
+
+I was planning on creamy heart soup for
+the lesson today, but I'm being a bit
+forgetful, it seems.
+I know that I need some fresh milk, one
+voltfruit, one hydromelon, and two
+heart-shaped vegetables...
+I just can't recall what the heart-shaped 
+vegetable was...
+
+Well, I'm sure it'll come back to me
+eventually... Can't afford to lose my
+momentum in life!"
+29,talk18,"まぁ いつか思い出せるでしょう…
+いいヴァーイは立ち止まらないものなの","Well, I'm sure it'll come back to me
+eventually... Can't afford to lose my
+momentum in life!"
+30,talk19,サヴォッタ！,Sav'otta!
+31,talk20,サヴァーク！,Sav'aaq!
+32,talk21,サヴァサーバ！,Sav'saaba!
+33,talk23,"あら… アナタ…
+また恋のレッスンを受けたいのかしら？","Oh, it's you. Did you want to observe
+the \""Voe and You\"" class?"
+34,talk24,"みなさ～ん
+
+どんなリクエストにも笑顔で応えるのが
+ステキヴァーイになる一歩！
+また この可愛いヴァーイに
+皆さんの日頃の成果を見せて差し上げましょう
+では…
+
+ステキヴォーイが倒れています
+アナタ達なら どうする？","Attention, everyone! Let's get started!
+We can show this cute vai what we've
+been learning in class!
+Now then...
+
+
+In your travels, you come upon an
+injured voe lying on the ground. What do
+you do?"
+35,talk25,"ハイ！
+
+すぐに病院に運びます！","Oh!
+
+
+I immediately lift him up over my
+shoulder and carry him to the nearest
+person who can treat him!"
+36,talk26,"さすがプシャンちゃん
+的確な行動ね
+ただ… アナタが担いで運んじゃダメよ
+ヴォーイはか弱いヴァーイに弱いんだから","That's a very proactive answer, Pasha!
+
+
+Always be aware that an injured person
+may have non-visible injuries before you
+move them, though!"
+37,talk27,"ハイ！
+
+その場で薬を作り
+手当します！","Oh!
+
+
+I would determine what was the matter
+and make a medicine on the spot
+to treat him!"
+38,talk28,"ヴォーイは手作りのものに弱い…
+
+さすが ディショーナちゃん
+ヴォーイ心をおさえてるわね！","Great answer, Dina!
+
+
+Just be careful that the voe doesn't have
+some sort of allergy to the ingredients
+in your medicine!"
+39,talk29,"ハイ！
+
+誰にも見つからないように
+家に連れて帰ります！","Oh!
+
+
+I would secretly bring him back to my
+home, where I could help him gradually
+recover! "
+40,talk30,"リッスンちゃん…
+
+それも犯罪よ…","Risa...
+A sweet sentiment...
+But also basically kidnapping."
+41,talk31,"昼は恋愛教室
+夜は料理教室
+やりすぎって周りから言われることもあるけど
+恋愛に やりすぎなんてないと思わない？","During the day, it's \""Voe and You.\""
+At night it's the cooking classes.
+
+People around me say it's a bit much,
+but I say as long as there is something to
+learn, why not keep learning?"
+42,talk32,"みなさ～ん
+
+どんなリクエストにも笑顔で応えるのが
+ステキヴァーイになる一歩！
+また この可愛いヴァーイに
+皆さんの日頃の成果を見せて差し上げましょう
+では…
+
+なんと！ ステキヴォーイが声をかけてきました
+アナタ達なら どうする？","Attention, everyone! Let's get started!
+We can show this cute vai what we've
+been learning in class!
+Now then...
+
+
+You are suddenly approached by a voe
+whose attention you've sought, and he
+abruptly engages you in conversation."
+43,talk33,"ハイ！
+
+悩む振りをしてみます！","Hrm...
+
+
+I would pretend that I don't know how to
+speak his language."
+44,talk34,"さすがプシャンちゃん
+ジラしは上級テクニックよ
+徐々に心を開いてる感じを演技するのは
+なかなか難しいから
+しっかり練習しておくようにね","That's an interesting approach, Pasha!
+You could inspire some curiosity in the
+voe by doing that...
+Remember: it isn't unrealistic that the
+voe may actually speak the language you
+pretend to know, too!"
+45,talk35,"ハイ！
+
+まずは相手の装備品をチェックします！","Oh!
+
+
+I would take the up-close opportunity to
+determine his social standing based on
+the clothes he's wearing!"
+46,talk36,"まぁ そこに気が付くなんて
+ディショーナちゃん なかなかやるわね
+わかりやすいのは装備の中でも装飾品よ
+さりげなくチェックするようにね","Ah, good thinking, Dina.
+
+
+Just remember that sometimes all of
+someone's good clothes are dirty, so
+they might wear something more casual."
+47,talk37,"ハイ！
+
+すぐに婚姻の契りをかわします！","Oh!
+
+
+I would grab his hand and twist his wrist
+until he agreed to marry me!"
+48,talk38,"リッスンちゃん…
+
+あとで先生とゆっくり話しましょうか…","Wha... You'd...
+
+
+Risa... Let's talk after class."
+49,talk39,"あら…
+アナタも私の恋のレッスンを受けたいの？
+私はワーシャよ
+
+昼は恋愛教室
+夜は料理教室を開いて
+ゲルドのヴァーイ達に
+恋のABCを教えてるの
+よかったら アナタも一緒にいかが？","Oh... Are you interested in taking my
+class \""Voe and You\""?
+I'm Ashai.
+During the day I teach a class on the
+voe of the world, and at night I teach
+cooking classes.
+Why don't you join us?"
+50,talk40,"ふふ…
+アナタ ウブな顔してわかってるじゃない","Heehee...
+You're wearing such an innocent
+expression, but you understand, yeah?"
+51,talk41,"あら…
+アナタ まだヴォーイ心がわかってないのね
+私のレッスン
+受けたほうがいいんじゃないかしら？","Oh, dear...
+It sounds like you don't yet understand.
+
+Perhaps you should consider taking my
+lessons, hm?"
+52,talk42,サヴォッタ！,Sav'otta!
+53,talk43,サヴァーク！,Sav'aaq!
+54,talk44,サヴァサーバ！,Sav'saaba!

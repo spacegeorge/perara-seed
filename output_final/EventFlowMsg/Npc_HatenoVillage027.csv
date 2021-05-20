@@ -1,0 +1,71 @@
+#,Title,JPja,USen
+1,"""0000""",何が？,What?
+2,"""0001""",ごめんね,Sorry.
+3,near00,うふふ…,Hee hee...
+4,near02,う～ん…,Umm...
+5,near03,てっしゅ～,Retreat!
+6,near04,グゥ… グゥ…,Zzz... Zzz...
+7,talk00,"うわぁ…！
+
+今から スパイごっこするから
+付いてこないでよね～","Whoa! Keep your space!
+
+
+Us spies are on a top-secret mission!
+Don't follow us or you'll blow our cover!"
+8,talk01,"あ…ボク これ見たことある～
+プルアのバーチャンが運んでたヤツだ～","Ahh... I've seen this before...
+Ol' granny Purah was carrying it."
+9,talk02,"お兄さんはプルアのバーチャンの何なの？
+うふふ…","Hey, mister... Just how do you know
+Purah, anyway?"
+10,talk03,スパイ2号眠いから帰ります…,"I'm sleepy, so I'm going home...
+Let's be spies some more tomorrow."
+11,talk04,スパイごっこは また今度…,"I'm sleepy, so I'm going home..."
+12,talk05,シーカー族の女の子…むにゃむにゃ…,A girl... Zzz...
+13,talk06,研究所に…シーカー族の女の子…,At the research lab... There's a girl...
+14,talk07,"シーカー族の女の子""ホントに居んのかな～？",Is there really a girl there?
+15,talk08,"シーカー族の女の子""出て来ないなぁ…
+クーリンのヤツ嘘ついてんのかなぁ…？","There aren't any girls around here...
+Was Karin lying to us?"
+16,talk09,"あ～ボク これ見たことある～
+研究所の所長さんが運んでたヤツだ～","Ahh... I've seen this before...
+The director was carrying it."
+17,talk10,"お兄さんは所長さんの何なの？
+うふふ…","Hey, mister, how do you know the
+director? Heehee..."
+18,talk11,セファーロそっちは どお～？,Sefaro! How do things look over there?
+19,talk12,ダメだなー！出て来ねぇ！,No luck! There's nothing here!
+20,talk13,う～ん眠い…,Ughh... I'm so sleepy...
+21,talk14,スパイごっこうふふ…,We're playing spies. I love espi'nage!
+22,talk15,今日は出てくるかな～あの娘…,"I wonder if we'll see her today...
+That girl, I mean..."
+23,talk16,変わった様子はないぞー！,The girl... She won't come out!
+24,talk17,"セファーロシーカー族の女の子""見えたぁ？",Sefaro! Have you seen the girl?
+25,talk18,うぅ～…,Ummm...
+26,talk19,ちょっとぉ～…,"Hey, hey..."
+27,talk20,"そこに立たれると
+見えないんだなぁ～…",I can't see anything if you stand there...
+28,talk21,見えないから どいてぇ～…,I can't see! Move!
+29,talk22,う…うん,Ya... Yeah.
+30,talk23,"シーカー族の女の子だよぉ
+
+目が大きくて可愛いんだって～
+クーリンが言ってた
+最近引っ越してきたのかなぁ？
+
+お友達になりたいな～","I heard that there is a Sheikah-tribe girl
+who is super cute with really big eyes.
+Karin said as much!"
+31,talk24,"シーカー族の女の子
+雨でよく見えないや…","I'd like to go visit that Sheikah-tribe girl,
+but I really hate fighting the rain..."
+32,talk25,"晴れたらシーカー族の女の子…
+見えるようになるかなぁ？","I wonder if I can see that Sheikah-tribe
+girl once the sun comes out..."
+33,talk26,"ただでさえ雨で見えにくいんだから
+どいてぇ～…","It's hard enough to see with just the
+rain, but you're also in the way!"
+34,talk27,"そこに立つの やめてよぉ～
+晴れてても見えないのに…","You're ruining a beautiful, sunny time
+by just standing there, y'know?"

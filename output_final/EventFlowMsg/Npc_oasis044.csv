@@ -1,0 +1,222 @@
+#,Title,JPja,USen
+1,"""0001""",買い取って！,Buy from me!
+2,"""0002""",さよなら,Good-bye.
+3,"""0005""",旦那？,Your husband?
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,Buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,まずは品を見せてもらわないとね,"First, you'll have to show me what
+you've got..."
+11,Com_Talk_01,"で いいんだね？
+それだと…ルピーってとこだね","In that case, it'll be  rupees."
+12,Com_Talk_02,"サークサーク！
+毎度～！",Sarqso! Thank you!
+13,Com_Talk_02b,"サークサーク！
+これ旦那が好きなやつなんだよ！","Sarqso! Just what my husband has
+been looking for!"
+14,Com_Talk_02c,"サークサーク！
+これ持って帰ったら旦那も喜ぶよ！","Sarqso! My husband will be very
+pleased with this little pickup!"
+15,Com_Talk_02d,"これ欲しかったんだ！
+サークサーク！",Just what I was looking for! Sarqso!
+16,Com_Talk_04,"ちょっと残念…
+まぁ いいけど","Oh, that's too bad...
+Oh, well."
+17,Com_Talk_05,他にも売れるものありそう？,"Got anything else you might want
+to sell?"
+18,Com_Talk_05b,"そろそろ旦那の誕生日なんだ！
+だから色々売ってくれたら嬉しいな","It's almost my husband's birthday! I'm
+happy to buy anything from you—I might
+find a great present for him!"
+19,Com_Talk_05c,"良い物あったら旦那にプレゼントしたいし
+じゃんじゃん売ってよ！","If you have anything good, I'd like to
+give it to my husband as a present. Sell
+me everything!"
+20,Com_Talk_05d,"もっと他にない？
+できれば色々買い取りたいんだけど？","Anything else? If I can, I'd like to buy
+anything you have to sell, you know?"
+21,Com_Talk_13,"で いいんだね？
+それで いくつ？","All right, how many?"
+22,Com_Talk_14,"を個で
+合計ルピーで買い取るけどいい？","That's  of them?
+I'll pay you  rupees."
+23,Com_Talk_15,"それはちょっと…
+うちでは買い取れないかな",I can't buy that from you...
+24,Com_Talk_16,着てる服はさすがに無理だよ…,"Of course, it's impossible for me to buy
+clothes that you're still wearing..."
+25,Com_Talk_33,"を1つね？
+それならルピーでいい？","Just one, right?
+In that case, is  rupees OK?"
+26,Com_Talk_34,"を全部だね？
+なら個でルピーだよ","All of them?! I've got  left, so that
+would be  rupees."
+27,Com_Talk_35,"を個全部だね？
+なら合わせてルピーでどう？","All of yours? OK, sure. How about
+ rupees?"
+28,Com_Talk_50,"は
+ルピーだよ？","That's  rupees, you know."
+29,Com_Talk_51,"？
+いくつ包もうか？",How many should I wrap up for you?
+30,Com_Talk_52,"が個だね？
+それならルピーだよ？","All right,  of them... In that case,
+it'll be  rupees!"
+31,Com_Talk_53,"ちょっと残念…
+まぁ いいけど","Oh, that's too bad...
+Oh, well."
+32,Com_Talk_54,"ルピー…
+足りないね…",You don't have enough rupees...
+33,Com_Talk_55,"荷物がいっぱいみたいだし
+売るか捨てるかしてきてくれない？","Looks like your inventory is full. Can you
+sell something or throw something
+away?"
+34,Com_Talk_56,"単品だね？
+それならルピーだよ","Just one, then?
+That'll be  rupees."
+35,Near001,新鮮さならウチが一番,Only the freshest!
+36,Near002,今日は店じまいだな…,Time to close up...
+37,Talk_01,"サヴォッタ
+朝ごはんは もう食べた？
+ウチの旦那もそうだけど
+よその民族はヴォーイも小さくて
+ちゃんと食べてるのか
+いつも心配になるんだよね…","Sav'otta.
+Have you already eaten this morning?
+
+My husband says it, and I agree with
+him—voe from other places are so tiny...
+I wonder if you people eat enough..."
+38,Talk_02,いつでも待ってるよ,I'll be waiting!
+39,Talk_03,"私たちは眠らなくても平気だけどさ
+砂漠は気温差が激しいからね
+しんどいと思ったら
+アンタ達は ちゃんと寝ないといけないよ","We're fine getting less sleep than most
+folks, but with how dangerous the desert
+can be, it's good to stay alert...
+If you start feeling tired, be sure to
+take a break and get a good night's rest!"
+40,Talk_05,"全てお買い上げ
+サークサーク
+旦那も喜ぶよ","Sarqso from myself and my husband
+for buying everything."
+41,Talk_06,サークサーク！,Sarqso!
+42,Talk_07,"サークサーク！
+ウチの旦那も喜ぶよ","Sarqso!
+My husband will be happy, too."
+43,Talk_09,"サヴァサーヴァ
+
+ここは眠らない街だからね…
+いつでもお店はあいてるよ
+お陰で旦那のもとへは
+滅多に戻れないんだけどね…","Sav'saaba...
+This is a city that doesn't sleep,
+so this store is always open.
+Unfortunately, being so busy means I
+don't often make it home to my
+husband..."
+44,Talk_11,"サヴァーク
+
+良い食事をとるには良い食材を選ばないとね
+ウチのは旦那が作ってるから安心だよ","Sav'aaq. You know, the best meals are
+made from the best ingredients...
+
+That's what my husband says, anyway.
+He's the one who does all the cooking,
+so I take him at his word."
+45,Talk_12,"…もしかして試食品狙い？
+残念だけど ウチはそういうのやってないんだ
+でも味は絶対保証するし
+安心して買ってってよ","...Oh, were you hoping for some
+samples?
+
+Sorry, but we don't really do that...
+I can guarantee that the flavor will be to
+your liking, though!"
+46,Talk_13,"私はこう見えて
+もう結婚してるんだ！
+新婚ってやつさ！
+
+露天商してるヴァーイは
+ほとんど みんな結婚してるんじゃないかな？
+結婚したヴァーイはみんな外に住んでて
+時々こうやってこの街に出稼ぎに来るんだよ
+なかなか旦那には会えないけど
+稼がないと生活できないしね
+だから じゃんじゃん買うか売るかしてってよ","Oh, yes. And a newlywed, too! Many of
+the vendors who work these stalls are
+married, in fact.
+It's pretty typical of married vai to live
+outside these walls, really. But we come
+back to sell our wares, of course!
+It does mean I don't see my husband all
+that often, but we have to make a living.
+
+So buy and sell all you like!"
+47,Talk_14,"サークサーク
+ウチのは旦那が作ったヤツだから おいしいよ","Sarqso! I hope my husband stocked us
+up with enough."
+48,Talk_15,"サークサーク！
+
+料理したいなら お向かいにある
+共同キッチン使いなよ
+火は自分で点けなきゃいけないけどね","Sarqso! If you want to do some cooking,
+feel free to use that pot right over there.
+You'll have to light the fire, though."
+49,Talk_16,"サークサーク！
+旦那にまた採ってきてもらわないとね","Sarqso! I gotta remember to tell my
+husband to get some more!"
+50,Talk_17,"いや～ あのナボリスが
+大人しくなったそうじゃないか？
+さすがは ウチの族長様だよ！
+
+これでここも以前のように
+観光客で にぎわうことだろうよ
+…ああ でもそうなったら
+今以上に旦那の元へ戻れなくなっちゃうか…
+でも活気がないゲルドの街なんて
+ゲルドの街じゃないからね
+私も頑張んないとね！","Wowww! Naboris sure seems to have
+finally calmed down, huh? I knew our
+chief could do it!
+I guess that means the tourists will come
+back, and this place will be lively and
+bustling again.
+Aww... If that happens, I'll have even
+fewer chances to slip away to visit
+my husband...
+Oh, what am I saying?! If Gerudo Town
+isn't bustling, then it just isn't
+Gerudo Town, you know?
+I guess I'll have to do my part, too!"
+51,Talk_18,サヴァーク,Sav'aaq!
+52,Talk_19,サヴォッタ,Sav'otta!
+53,Talk_20,サヴァサーバ,Sav'saaba!
+54,Talk_21,"いや～ あのナボリスが
+大人しくなったそうじゃないか？
+さすがは ウチの族長様だよ！
+
+これでここも以前のように
+観光客で にぎわうことだろうよ
+…ああ でもそうなったら
+今以上に旦那の元へ戻れなくなっちゃうか…
+いやでも たくさん売れたほうが
+仕入れを理由に会いにいけるか…
+でもまぁ とりえずは
+アンタが買い占めた分を仕入れとかないとね","Wowww! Naboris sure seems to have
+finally calmed down, huh? I knew our
+chief could do it!
+I guess that means the tourists will come
+back, and this place will be lively and
+bustling again.
+Aww... If that happens, I'll have even
+fewer chances to slip away to visit
+my husband...
+But... As long as I sell out of my stock,
+I can go see him when I restock
+the store!
+Anyway, the first thing I need to do is
+to restock everything that's been
+bought!"
+55,Talk_22,ヴァーサーク,Vasaaq.

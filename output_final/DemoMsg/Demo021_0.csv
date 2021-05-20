@@ -1,0 +1,81 @@
+#,Title,JPja,USen
+1,"""0000""",行きます！,Let's go.
+2,"""0001""",準備する,I need to prepare.
+3,"""0002""",飛行訓練場へ戻る,Back to Flight Range.
+4,"""0003""",戻る,Let's go back.
+5,"""0004""",戻らない,Let's keep going.
+6,talk00,"着いたぞ！
+
+ここまで高いと流石の俺でも凍えるぜ！","All right. It's showtime.
+
+
+Man, even I feel like I'm going to freeze
+up here!"
+7,talk01,"そして… あのデカいのが神獣 ヴァ・メドーだ
+
+フン… またバリアか小賢しい…
+
+どうした リンク？
+ビビって声も出ないか？
+さ～て""作戦のおさらいをしようか","There'sDivine Beast Vah Medoh.
+
+
+It has itsbarrier up again.
+What a pain...
+
+What's wrong, Link?
+Too scared to talk?
+
+Let's go over the plan."
+8,talk02,よし！じゃあ砲台を頼んだぞ！,All right.Now go blow up thosecannons!
+9,talk03,フム しっかりな,Hnnn. Keep it together.
+10,talk04,"おいおい どうした…""本当に戻るのか？","Are you sure? You really want to go
+back?"
+11,talk05,分かった… ひとまず地上へ戻るとしよう,"Understood. Let's head back to the 
+ground for a bit."
+12,talk06,準備ができたら行くぞ！,We can move whenever you're ready!
+13,talk07,準備は整ったか？だったら行くぞ！,You ready?Let's go.
+14,talk08,ふむ… じゃあ行けるか？,You...still good to go?
+15,talk09,"前回はやられちまったが今回はそうはいかねぇ
+バクダン矢は装備したか？","Last time could have gone better, but
+we've got it this time. Are you all good
+onbomb arrows?"
+16,talk10,"しかし この寒さはキツいな
+体が温まるモン食ってから行けよ！","But, man, it's cold. Make sure you eat
+something that will warm you upbefore
+you go!"
+17,talk12,"あの砲台が見えるか？
+俺が囮になって砲台の攻撃を引き付ける
+その間に おまえがバクダン矢で砲台を壊す
+ここまでは OKだな？
+一時退避したくなったら布を広げて
+ひたすら上昇すれば捕まえて背中に乗せてやる
+それからメドーのバリアは狙うだけ無駄だ
+近付き過ぎて触るなよ
+最後に…""何度も言うが
+寒さ対策だけは忘れるなよ","You see thosecannons? I'll draw their
+fire.
+
+While I'm doing that, use your
+bomb arrowstodestroy the cannons.
+Got it so far?
+If you need to withdraw for a bit, just
+spread your cloth and floatstraight up
+in the updraft for a while.
+I'll take that as a sign that we need to
+regroup.
+
+Don't bother aiming for anything covered
+byMedoh's barrier. It's impenetrable.
+
+And whatever you do, don't get close
+enough to touch it.
+
+And finally—I know I've said this a few
+times already, but don't forget yourcold
+protection."
+18,talk13,"俺が囮になって砲台の攻撃を引き付ける
+おまえがバクダン矢で砲台を壊す…
+頼んだぞ","I'll draw thecannonfire. Meanwhile, you
+destroy the cannons with your
+bomb arrows. And be quick about it."

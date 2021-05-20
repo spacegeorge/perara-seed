@@ -1,0 +1,183 @@
+#,Title,JPja,USen
+1,"""0000""",引き受けた,Leave it to me!
+2,"""0001""",ごめんなさい,No can do.
+3,"""0002""",どうぞ！,I've got it right here.
+4,"""0003""",もう ちょっと待ってて,I'll do my best.
+5,Near_00,巨大クジラはやはり…,The leviathans...
+6,Near_01,巨大クジラはなぜ…,How did they go extinct?
+7,Near_02,絵さえあれば…,If only we had a picture...
+8,Near_03,巨大な…,Leviathan...
+9,Near_04,クジラ…,Bones...
+10,talk-Gamyo01,"俺は巨大クジラは世界の砂漠化による
+水不足で絶滅したと思ってる！","My theory is that the leviathans of
+ancient times went extinct due to a
+sudden, cataclysmic drought long ago!"
+11,talk-Gamyo04,"くっ… ここで巨大クジラの
+議論を続けていても らちが明かねぇな…","Hmph... Debating the cause of extinction
+of the leviathans accomplishes nothing
+without proof."
+12,talk-Gamyo05,"俺はゲルド地方の巨大クジラの骨を
+見てみたいんだ！","I must see that leviathan skeleton from
+the Gerudo region..."
+13,talk-Gamyo07,"絵が ないじゃないか！
+持ってきてから言ってくれよ！","Hey, you don't have the picture!
+Show it to me once you have it."
+14,talk-Gamyo08,"わぉ！３つの巨大クジラの骨の絵を
+そろえてくれたんだな！
+ありがとうよ！
+約束の報酬持っていきな！","Whoa! You got pictures of all three
+leviathan skeletons!
+
+Thank you. Here's the reward we agreed
+upon."
+15,talk-Gamyo09,"この調子で他の兄弟たちの分も
+よろしく頼むな！","I'm sure my brothers would appreciate
+your help with their pictures too."
+16,talk-Gamyo10,"報酬は奮発して300ルピーだ！
+よろしく頼むぜ！","I'll give you 300 rupees!
+I'm sure you could use it."
+17,talk-Gamyo11,"俺は巨大クジラが世界の砂漠化で滅んだ説の
+証拠固めを進めるぜ！
+後の二人の分も よろしくな！","I'm moving forward with my theory that
+the leviathans died out due to global
+desertification!
+Please help my broth—
+Er...my colleagues out too!"
+18,talk-Gamyo12,"アンタの絵があれば百人力だぜ！
+ありがとうよ！","Your pictures will do wonders for our
+research! Thanks again!"
+19,talk-Negyui01,"僕は巨大クジラは氷河期の到来により
+絶滅したと考えてるんだ…","My theory is that the leviathans of
+ancient times went extinct due to an
+extended ice age..."
+20,talk-Negyui04,"むぅ… ここで巨大クジラの
+議論を続けていても らちが明かないね…","Mah... Mere words won't solve the
+mystery of leviathan extinction.
+We need proof!"
+21,talk-Negyui05,"僕はヘブラ地方の巨大クジラの骨を
+見てみたいんだけど…","I'd really like to see the leviathan
+skeleton in the Hebra region..."
+22,talk-Negyui07,"絵を持っていないじゃないか…まぁヘブラ地方の骨は
+特に探すのが難しいらしいんだ
+何でも閉ざされた洞窟の奥深くに あるとか…
+ごめんね""詳しくは知らないんだ","But you're not carrying the picture...Not that I'm surprised—I imagine the
+skeleton located in the Hebra Mountains
+is incredibly hard to find in all that snow.
+Now that I think about it, the only way it
+would be preserved in such conditions is
+if it were nestled away in a deep cave..."
+23,talk-Negyui08,"わぁ！３つの巨大クジラの骨の絵
+本当に そろえてくれたんだね！
+ありがとう""感謝してもしきれないよ！
+これはほんの気持ち""受け取ってね！","WOW! You got pictures of all three
+leviathan skeletons! I can't thank you
+enough!
+Please. Take your reward."
+24,talk-Negyui09,"この調子で他の兄弟たちの分も
+しっかり頼んだよ！","Please help my other brothers out in the
+same way!"
+25,talk-Negyui10,"そうだよね すぐには見つからないよね…
+気長に待ってるから よろしくね","Yeah, you probably wouldn't survive the
+journey anyway. But I'll be here if you
+change your mind."
+26,talk-Negyui11,"君の絵を見ながら氷河期の到来説を
+じっくり考えさせてもらうよ！","I'll continue to research my ice-age
+extinction hypothesis while analyzing
+the picture you provided."
+27,talk-Negyui12,"僕は君の絵で巨大クジラが氷河期の到来で
+滅んだ説の立証をしてみるよ！
+後の二人の分も よろしくね！","Using your picture, I'll be able to prove
+my hypothesis that the leviathans died
+out due to the onset of an ice age.
+My two fellow researchers may need
+your help too."
+28,talk-Orak00,"私は巨大クジラは火山の大噴火により
+絶滅した説を信じている…！","My theory is that the leviathans of
+ancient times went extinct due to a
+violent volcanic eruption..."
+29,talk-Orak02,"うーん… ここで巨大クジラの
+議論を続けていても らちが明かないな…","Well... Arguing about the leviathans
+means nothing without some manner of
+evidence."
+30,talk-Orak04,"やぁ君か どうだい？
+やっぱり引き受けてくれる気になったのかい？","Hey, stranger. Would you be willing to
+do a little job for us? We'll pay you."
+31,talk-Orak05,"…おや？ これは失礼
+つい夢中になって…
+私たちは巨大クジラが なぜ絶滅したのか？
+について研究しているのだが…
+巨大クジラの骨が眠るという場所が見つからず
+ここで空論ばかり交わしているんだ
+おおよその場所は検討がついているんだが…北東のオルディン地方""北西のヘブラ地方
+南西のゲルド地方 どこも険しい場所ばかりでね","...Oh? Pardon me.
+I've gotten ahead of myself.
+*ahem*
+Why did the leviathans go extinct?
+That is the question we scientists are
+trying to answer.
+However, we haven't yet located any
+leviathan remains, so we're stuck with
+theories for the time being.
+But we do have a general idea of where
+such remains might be found...The Eldin Mountains in the northeast,
+the Hebra region in the northwest, and
+the Gerudo region in the southwest.
+The climates of these regions are rather
+extreme."
+32,talk-Orak06,"君""見たところ なかなか旅慣れているようだし
+どうだろう？私達の代わりに…
+３つの巨大クジラの骨""一部でも構わないから
+詳細な絵を描いてきてもらえないか？
+特に欲しいのは頭の部分だから
+頭がある程度描かれていれば大丈夫だ
+成功した暁には報酬として
+300ルピー""出そう！","You've got the look of someone who's
+done a fair bit of adventuring.
+
+Would you be willing to find these
+leviathan bones and draw a picture
+of them?
+What I especially want to see is the head
+of the animal. If you can get just a bit of
+it in the picture, that'd be adequate.
+Do this for me, and I'll give you
+300 rupees as a reward."
+33,talk-Orak07,"そうか仕方ないね…
+もし気が変わったら また声をかけてくれ","I see. That's rather unfortunate.
+Come back if you change your mind."
+34,talk-Orak08,"本当かい？！""助かるよ！ それじゃ
+300ルピー""用意して待ってるからね！","Excellent. You are a lifesaver in the most
+literal sense. I'll be waiting here with
+your 300 rupees!"
+35,talk-Orak09,"私はオルディン地方の巨大クジラの骨を
+見てみたいんだが…","I really need to see the leviathan bones
+from the Eldin region."
+36,talk-Orak10,"おお！３つの巨大クジラの骨の絵を
+そろえてくれたんだね！
+君に頼んで正解だったよ！
+これは約束の報酬だ！""受け取ってくれ！","Ah! You got pictures of all three 
+leviathan skeletons!
+
+My thanks. Here's your reward."
+37,talk-Orak11,"この調子で他の兄弟たちの分も
+よろしく頼むよ！","Please assist my brothers with their
+research goals as well."
+38,talk-Orak12,"何だ？""絵なんか持ってないじゃないか！
+冗談は よしてくれよ！","Is this funny to you? You think this is a
+game?! Don't come back until you have
+the picture!"
+39,talk-Orak13,"あぁ""焦っても しかたないしな…
+待ってるから よろしく頼むよ","Well, I'm not going to beg you...
+But, yes! Please do your best."
+40,talk-Orak14,"君の絵を基に私は巨大クジラが火山の噴火で
+滅んだ説の検証を進めるよ！
+他の兄弟たちの分も よろしく頼んだよ！","I intend to prove my theory that the
+leviathans died out due to a major
+volcanic eruption!
+You'll need to help the other two
+secure their pictures in order for 
+me to disprove their theories."
+41,talk-Orak15,"君の絵を見ながら じっくり
+自分の説を検証させてもらうよ！","I shall conduct further research on my
+hypothesis while making careful study
+of your picture!"

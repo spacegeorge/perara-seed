@@ -1,0 +1,35 @@
+#,Title,JPja,USen
+1,QL_Thunder_Sword_Desc,"『古の勇者天の稲妻を導き
+大岩に眠る勇者の試練への道を開く』
+
+カッシーワから教えてもらった
+古の詩の謎を解き
+勇者の試練を見つけ出そう","\""When a lost hero calls down lightning
+from the sky / The monk responds from
+a giant mound""on high.\""
+
+Solve the riddle of the song you learned from
+Kass and seek out the hero's trial."
+2,QL_Thunder_Sword_Finish,"『古の勇者天の稲妻を導き
+大岩に眠る勇者の試練への道を開く』
+
+雷で砕けた岩の中から
+古代の祠が姿を現した","\""When a lost hero calls down lightning
+from the sky / The monk responds from
+a giant mound""on high.\""
+
+You found an ancient shrine inside the rock 
+that you shattered with lightning!"
+3,QL_Thunder_Sword_Name,稲妻が開く試練,A Song of Storms
+4,QL_Thunder_Sword_Step010,"『古の勇者天の稲妻を導き
+大岩に眠る勇者の試練への道を開く』
+
+雷を落とすことで
+大きな岩が砕け散り
+岩の中から古代の祠が姿を現した","\""When a lost hero calls down lightning
+from the sky / The monk responds from
+a giant mound""on high.\""
+
+By attracting a lightning strike, you shattered
+the large rock and revealed an ancient shrine
+concealed within."

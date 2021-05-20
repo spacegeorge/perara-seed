@@ -1,0 +1,100 @@
+#,Title,JPja,USen
+1,QL_BalladOfHeroRito_Desc,"一撃の剣が散っていった先には石碑が現れていた
+そこに刻まれた地図には次の試練が示された
+吟遊詩人のカッシーワからは試練に関わりが
+ありそうな詩を聴くことが出来た
+一つは炎をまといし龍の角を射抜き
+一つは疾風と成りて光輪をくぐり
+一つは四つの的を刹那に射る
+克服すべき試練は あと3つだ","The scattered One-Hit Obliterator led you to a
+location where a stone monument with a map of
+trials appeared. Kass's song seems related...
+
+One,shoot the flame dragon's horn.
+Two,race down a peak rings adorn.
+Three,shoot four targets to win.
+Champion, the trials begin!
+
+You still havethree trials to complete."
+2,QL_BalladOfHeroRito_Finish,"己の恐れが生み出した記憶の幻影
+風のカースガノンを倒し試練を克服した！
+
+カッシーワから臨場感溢れる英傑リーバルの詩を
+聴いた時 100年前の情景が目に浮かんだ
+
+試練を克服したことで 聖なる力が高まり
+英傑リーバルの猛りが強化された","You defeated the phantasm of Windblight
+Ganon, which was born from your own
+memories and fears.
+
+Kass's composition, entitledChampion Revali's
+Song, was so true and moving that it allowed
+you to visualize a memory from 100 years ago.
+
+By conquering the trial, your sacred power has
+increased and Revali's Gale has become
+more efficient than ever."
+3,QL_BalladOfHeroRito_Name,Ｅｘ 英傑リーバルの詩,EX Champion Revali's Song
+4,QL_BalladOfHeroRito_Seek1stDungeon,"一撃の剣が散っていった先には石碑が現れていた
+そこに刻まれた地図には次の試練が示された
+吟遊詩人のカッシーワからは試練に関わりが
+ありそうな詩を聴くことが出来た
+一つは炎をまといし龍の角を射抜き
+一つは疾風と成りて光輪をくぐり
+一つは四つの的を刹那に射る
+克服すべき試練は あと2つだ","The scattered One-Hit Obliterator led you to a
+location where a stone monument with a map of
+trials appeared. Kass's song seems related...
+
+One,shoot the flame dragon's horn.
+Two,race down a peak rings adorn.
+Three,shoot four targets to win.
+Champion, the trials begin!
+
+You still havetwo trials to complete."
+5,QL_BalladOfHeroRito_Seek2ndDungeon,"一撃の剣が散っていった先には石碑が現れていた
+そこに刻まれた地図には次の試練が示された
+吟遊詩人のカッシーワからは試練に関わりが
+ありそうな詩を聴くことが出来た
+一つは炎をまといし龍の角を射抜き
+一つは疾風と成りて光輪をくぐり
+一つは四つの的を刹那に射る
+克服すべき試練は あと1つだ","The scattered One-Hit Obliterator led you to a
+location where a stone monument with a map of
+trials appeared. Kass's song seems related...
+
+One,shoot the flame dragon's horn.
+Two,race down a peak rings adorn.
+Three,shoot four targets to win.
+Champion, the trials begin!
+
+You still haveone trial to complete."
+6,QL_BalladOfHeroRito_Seek3rdDungeon,"へブラ地方の石碑が示す 3つの試練を克服した
+
+最後の祠でメドーの証を3つ集めた時
+導師から神獣に向かうように言われた
+一体何が待ち受けているのだろうか
+
+鎮座している神獣 ヴァ・メドーの元へ行こう","You completed the three trials inscribed on the
+stone monument in the Hebra region.
+
+After you collected three of Medoh's Emblems,
+the monk told you to head to the Divine Beast.
+What awaits you there?
+
+Go to the Divine Beast Vah Medoh to find out."
+7,QL_BalladOfHeroRito_ToRemains,"神獣 ヴァ・メドーの元に辿り着いたとき
+再び導師の声が聞こえ新たな試練が始まった！
+
+己の恐れが生み出した記憶の幻影
+風のカースガノンが現れた！
+
+与えられた道具のみで倒し試練を克服しよう！","When you reached Divine Beast Vah Medoh,
+you heard the monk's voice again, and a new
+trial began!
+
+A phantasm of Windblight Ganon, born from
+your own memories and fears, appeared to
+challenge your resolve.
+
+Complete the trial usingonly the tools provided!"

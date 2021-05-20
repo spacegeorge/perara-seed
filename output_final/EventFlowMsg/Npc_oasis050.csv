@@ -1,0 +1,343 @@
+#,Title,JPja,USen
+1,"""0000""",もちろん！,Of course!
+2,"""0001""",さようなら,Gotta go!
+3,"""0003""",えーっと…,Uhh...
+4,"""0004""",しきたり？,Search?
+5,"""0005""",大変ですね,Sounds rough.
+6,"""0006""",なんで？,Why the rush?
+7,"""0007""",アレですよねー,No male Gerudo...
+8,"""0008""",いるよ！,Go to Tarrey Town!
+9,"""0009""",そうですよ,I am. Why?
+10,"""0011""",売りに来た,I came to sell.
+11,"""0012""",サヴァーク！,Sav'aaq!
+12,"""0013""",残念ながら…,Unfortunately...
+13,"""0015""",えっ？,What?!
+14,"""0016""",おめでとう！,Congratulations!
+15,"""0017""",はい,Yes.
+16,"""0018""",いいえ,No.
+17,"""0019""",そうなんだ！,No kidding!
+18,"""5500""",はい,OK.
+19,"""5501""",いいえ,Never mind.
+20,"""5503""",やっぱりやめる,Never mind.
+21,"""5508""",ぜんぶ売る,All of them.
+22,Com_Talk_00,ゆっくり選んでね,Take your time.
+23,Com_Talk_01,"を売るのね？
+ルピーになるけど いい？","I'd say... rupees.
+Is that enough for you?"
+24,Com_Talk_02,"サークサーク""他には？",Sarqso. Need anything else?
+25,Com_Talk_02b,"うん引き取らせてもらうわ
+他は どうかしら？","OK, I'll go ahead and take that off your
+hands. Anything else?"
+26,Com_Talk_02c,"了解
+他に買い取る物は あるかしら？","Got it. Is there anything else you'd like
+to sell?"
+27,Com_Talk_02d,"オッケー この際だから
+要らない物なら何でも売るといいわ","OK! It's a special occasion, so I'll buy
+anything that you don't need anymore."
+28,Com_Talk_04,了解,Got it.
+29,Com_Talk_05,何でも買い取らせてもらうわ,I'll be happy to buy anything from you.
+30,Com_Talk_05b,ゆっくり選んでくれたらいいわ,Take your time making your choice.
+31,Com_Talk_05c,さぁ どれを売ってくれるのかしら？,"All right, what would you like to sell?"
+32,Com_Talk_05d,さぁ どれを買い取ればいい？,Which would you like to sell?
+33,Com_Talk_11,サークサークお役にたてて嬉しいわ,Sarqso. Glad to be of service.
+34,Com_Talk_11b,サークサークあなたにこそ似つかわしいわ,Sarqso! It suits you.
+35,Com_Talk_11c,サークサークきっと似合うと思うわ,Sarqso. I'm sure it'll look good on you.
+36,Com_Talk_11d,サークサーク気に入ってもらえると嬉しいわ,Sarqso. I'm glad you like it.
+37,Com_Talk_13,"を売るのね？
+いくつ？","That's what you're selling?
+How many?"
+38,Com_Talk_14,"が個だと
+全部でルピーになるけど いい？","So  of them? It'll
+be  rupees, OK?"
+39,Com_Talk_15,それはウチでは買い取れないわ,"Oh, I can't buy that from you."
+40,Com_Talk_16,"私に脱がせろっていうの？
+自分で脱いでから売ってちょうだい","You're trying to sell me the clothes off
+your back! If you want to sell it, at least
+take it off first."
+41,Com_Talk_33,"を１つだけね？
+それならルピーだけどいい？","Just one, right? In that case,
+let's say  rupees, OK?"
+42,Com_Talk_35,"を個全部？
+じゃルピーで買い取るわ？","All  of them? I'd say...
+rupees would be a fair price. OK?"
+43,Com_Talk_60,"？
+それならルピーよ",That'll be  rupees.
+44,Com_Talk_61,"残念ね…
+他のも見ていくのかしら？","Too bad...
+Can I interest you in anything else?"
+45,near00,ふぅ…,Phew...
+46,near01,ヴァ～サ～ク,Vasaaq!
+47,talk00,誰？,Who are you?
+48,talk01,…さようなら,Good-bye.
+49,talk02,あなた…よく見たらヴォーイじゃない,"You...you're a voe, aren't you?"
+50,talk03,何？,What?
+51,talk04,用が無いなら話しかけないで,"Don't bother me if you have nothing to
+say."
+52,talk05,"う～ん…きゃしゃなヴォーイは
+ママは許してくれなそうだな
+あ ごめんなさい
+
+私は パウダ
+ゲルドの街から来たの","Hmm... No. I bet Mama would have a
+problem with a delicate voe like you.
+
+Oh, yes, I'm Rhondson. I hail from
+Gerudo Town."
+53,talk06,"あぁ… あなたみたいな
+ハイリア人には関係無い話だけど…
+ゲルドの民は私くらいの歳になると
+周りがうるさくてね","Ugh... I don't know why I'm even saying
+this—it's no business of a Hylian like
+you, but...
+I'm constantly being bothered by my
+mother over not having found the love
+of my life..."
+54,talk07,"…知らない？
+
+ゲルドの民が適齢期になると
+街を出て婿を探す風習…
+いわゆる 「ヴォーイ・ハント」ね","You don't know? Really?
+
+
+It's incredibly rare for a male to be born
+to the Gerudo. For our own survival as a
+people, we travel to find husbands..."
+55,talk08,"そう「ヴォーイ・ハント」
+
+ゲルドの民は適齢期になると
+街を出て婿を探さなくてはいけない アレ","Exactly. Since it's so rare for a voe to be
+born to a Gerudo, we seek out husbands
+from the world beyond Gerudo Town."
+56,talk09,"私 こう見えても
+お料理 お習字 お裁縫…
+一通りの教養は あるつもりなんだけど
+この辺のヴォーイは求めてないみたい","I've proven myself to be a gifted tailor,
+but none of the voe I've met seem to
+appreciate a well-hemmed garment.
+I was hoping my craft would help me find
+a mate, but it doesn't seem like there's
+much work for a tailor around here."
+57,talk10,"はぁ…どこかに私に似つかわしい
+ヴォーイは居ないかしら？","I wonder if there really is someone out
+there for me..."
+58,talk11,"はぁ…どこかに私に似つかわしい
+ヴォーイは居ないかしら？","I wonder if there really is someone out
+there for me..."
+59,talk12,"イチカラ村の…エノキダ
+って人が作業着を繕って欲しいの？
+それくらい お安い御用だけど
+アッカレ地方は ちょっと遠いわね
+でも ここに居てもラチが明かないし
+そのイチカラ村とやらで ヴォーイ・ハントかな…","Hudson in Tarrey Town needs
+a tailor? It's something, I suppose...
+
+The Akkala region is kinda far away.
+But maybe I need to travel. Getting far
+away from a village full of vai...
+But it's not like I'm accomplishing
+anything by staying here. I can continue
+my search in Tarrey Town..."
+60,talk13,…サヴォッタ,Sav'otta.
+61,talk14,…サヴァーク,Sav'aaq.
+62,talk15,…サヴァサーバ,Sav'saaba.
+63,talk16,…ふぅ,*sigh*
+64,talk17,"私は今日も ヴォーイ・ハントよ
+
+お料理 お習字 お裁縫…
+バッチリなつもりなんだけど…","I'm still considering how to continue my
+search. I've mastered tailoring... I have
+dozens of other skills...
+I just don't understand what voe are
+looking for..."
+65,talk18,うん…,Yeah...
+66,talk19,"それにしても こんなしきたり…
+もうウンザリ","This search for the love of my life...
+I'm so exhausted by it."
+67,talk20,ヴァーサーク私に用かしら？,Vasaaq! Did you need me for something?
+68,talk21,"あら？ゲルドの民族衣装…
+懐かしいわ","Oh? Traditional Gerudo clothing...
+How nostalgic."
+69,talk22,どれを売ってくれるのかしら？,What would you like to sell?
+70,talk23,サヴォークまた来てね,Sav'orq. Come back soon.
+71,talk24,"私の事覚えてる？
+パウダよ","Heehee... Don't you remember me?
+I'm Rhondson!"
+72,talk25,"エノキダの作業着なら
+毎日のように繕ってるわ
+それにしても エノキダの作業着…
+汗臭くて やんなっちゃう
+彼と話しても つっけんどんだし…
+本当 つまらないヴォーイね
+せっかくここまで ヴォーイ・ハントに来たのに
+あんなのしか居ないのかしら…","I've had to mend Hudson's work
+clothes every single day. It's impressive
+how quickly he wears them down...
+Besides the holes... They reek so much
+of sweat, it's...actually pretty rough to
+work on them.
+I tried to bring it up to him, but he got
+defensive almost immediately.
+
+You know, I came out here to continue
+my search for a husband... I wonder if
+he's the only kind of voe I'll find..."
+73,talk26,"あら全部買ってくれたのね
+サークサーク","Oh! You bought everything!
+Sarqso."
+74,talk28,"私の手作り防具
+ゆっくり見てってちょうだいね","Please take your time looking. This
+armor was all handmade, by the way."
+75,talk29,"今は「サヴォッタ」よ？
+ふふ…","You should say \""sav'otta\"" now!
+Heehee..."
+76,talk30,"そうね""今の時間はサヴァークね","Yes, \""sav'aaq\""! That is correct!
+Heehee..."
+77,talk31,"今は「サヴァサーバ」よ？
+ふふ…","You should say \""sav'saaba\"" now!
+Heehee..."
+78,talk32,"ここに来てから毎日のように
+エノキダの作業着を繕ってるわ
+そう言えば エノキダが
+岩を壊してる時に出てきた宝石を くれたわ
+案外 いい人なのかも知れない…
+ぶっきらぼうだけど","I've had to mend Hudson's work
+clothes every single day. It's impressive
+how quickly he wears them down...
+Speaking of which, Hudson gave me
+a gem he found after breaking a rock.
+
+He may actually be a good person...
+Though he is quite direct."
+79,talk34,"そうそう知ってるかも知れないけど
+
+私…エノキダと婚約したの","Oh, maybe you've already heard, but...
+Hudson and I are engaged!"
+80,talk35,"列席してくれてありがとうね
+
+これからも夫婦共々 よろしくね","Thank you so much for coming! And
+thank you for helping me honor
+Gerudo tradition...
+I hope you'll continue to support both
+of us!"
+81,talk36,"あれからエノキダとは
+なんだかんだで うまくやってるわ
+いつでも遊びに来てちょうだいね","Since the wedding, Hudson and I
+have been getting along pretty well.
+Come back and visit us anytime!"
+82,talk37,"情報ありがとう
+一旦お家で大きな荷物取ってくるわね
+じゃイチカラ村で会いましょう","Thanks for all the information. I'm gonna
+go home and pack a huge bag. It'll be a
+long journey all the way there...
+I'll no doubt see you again in
+Tarrey Town."
+83,talk39,ふふ…びっくりした？,Heehee... Were you surprised?
+84,talk40,ふふ…ありがとう,Heehee... Sarqso.
+85,talk41,"エノキダって働く事以外能が無いけど
+ま それもいいかな？って
+詳しくはエノキダに聞いてみて","Hudson isn't all that great at things
+besides his chosen profession, but...
+I guess that isn't a huge deal, is it?
+You should talk to him if you want
+to know more."
+86,talk42,"挙式なんだけど…
+あなたも列席してくれるかしら？","We're holding a ceremony...
+I was wondering if you'd like to attend?"
+87,talk43,"サークサーク！
+
+でも今は神父を探してる所なの
+
+衣装は無くても何とかなるけど…
+
+神父役を グレーダ君やペーダ君に
+やってもらうワケには…ねぇ","Sarqso. We're actually actively looking
+for a priest right now.
+
+Getting the proper clothes to wear isn't
+a problem at all, but...
+
+It's not like we can ask Greyson or
+Fyson to preside for us."
+88,talk44,あら そう…,"Oh, I see..."
+89,talk45,"とりあえず神父がカポーダさんに
+決まってよかったわ
+なので今まさに式の準備にかかってて
+こう見えて私もエノキダも ちょっと忙しいのよ
+エノキダの上司も呼ばなきゃだし
+息が詰まりそう…","For now, I'm glad we decided to have
+Kapson preside over the ceremony.
+
+We're in the middle of preparing,
+actually. Both Hudson and I are
+pretty busy.
+We've got to invite Hudson's boss,
+too..."
+90,talk46,"エノキダの上司と後輩を
+呼んで来てくれたのね","You went and called on Hudson's
+boss and coworker for us?"
+91,talk47,"でも今の時間は
+お二人とも お休みでしょうし…
+式は明るい時に始めたいから
+その時エノキダに話してくれる？","But right now those two are probably
+taking a break...
+
+I'd like the ceremony to start when it's
+bright outside, so when the time comes,
+can you talk to Hudson for me?"
+92,talk48,"今日は式を始めるには打ってつけだわ
+
+エノキダに話して式を始めましょう","Today's the ideal day to start the
+ceremony.
+
+Talk to Hudson, and let's get it started!"
+93,talk49,すぅ…すぅ…,*snoooooze*
+94,talk50,"可愛いヴァーイね
+あなたも ヴォーイ・ハント？","What a cute vai.
+Are you out seeking the love of your
+life, as well?"
+95,talk51,お互い頑張りましょうね,"Well, good luck to both of us!"
+96,talk52,あら そう…,"Oh, I see..."
+97,talk53,あれ…聞き間違いかしら？,Huh... Not the answer I expected...
+98,talk54,"ヴァーイ…
+あなたも ヴォーイ・ハント？","Vai...
+Are you seeking out the love of your
+life, as well?"
+99,talk55,"この娘…暑さにやられて
+言ってる事が無茶苦茶だわ…","This poor girl... I wonder if she even has a plan
+for a life beyond our home..."
+100,talk56,"え…なになに？藪から棒に…
+詳しく聞かせて","Eh? What is it? So abrupt, too...
+Let me hear the details."
+101,talk57,"そこから下りてくれないかしら？
+子供じゃあるまいし","Hey, can you please get down?
+You aren't a child anymore, you know."
+102,talk58,"机に乗るのは やめた方がいいわ
+育ちが分かるわよ？","You should really quit climbing on tables
+like that. It doesn't reflect well on your
+upbringing at all..."
+103,talk59,"机に乗るなんて…
+やっていい事と悪い事があるわ","I can't believe you climbed up there...
+You know there are certain things you
+just shouldn't do, right?"
+104,talk60,"机に乗っちゃダメよ
+小さい頃教えてもらわなかった？","Don't climb up on tables. Didn't anyone
+ever teach you how rude that is?"
+105,talk61,"結婚式…ドタバタだったけど
+無事に終わってよかったわ
+あのドレス""私の手作りなの
+
+でも エノキダのくれた宝石を散りばめたら
+重くなっちゃって参ったわ…
+まぁ長い人生 いろいろあると思うけれど
+今後ともよろしくね","The wedding ceremony...wasn't what I
+expected, but it was special all the same.
+
+Did you like the dress? I made it myself.
+
+
+Although Hudson wanted me to weave
+the gems he mined into it, so every step
+down the aisle was a struggle.
+Well, that's life for you, with all its twists
+and turns. I hope you'll stick with us
+through them."

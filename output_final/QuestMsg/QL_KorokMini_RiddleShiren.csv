@@ -1,0 +1,83 @@
+#,Title,JPja,USen
+1,QL_KorokMini_RiddleShiren_Desc,"ハイラルのなぞなぞしれんに
+挑戦することになった
+
+「小さくて赤くて まあるくて シャリっとした
+ あまーいの なーんゾナ？」
+
+正解が分かったら それを入手して
+ナモミンのところへ持っていこう","You have decided to take on the
+Riddles of Hyrule trial.
+
+\""Small, red, round, and sweet!
+Bring me one of this simple treat!\""
+
+Once you know the answer,
+bring the item to Walton!"
+2,QL_KorokMini_RiddleShiren_Finish,"ナモミンから出された
+5つ全てのなぞなぞに正解した
+
+これで コログの究極のしれん
+『ハイラルのなぞなぞしれん』を達成した！","You answered all five of Walton's riddles,
+completing the Riddles of Hyrule trial!"
+3,QL_KorokMini_RiddleShiren_Name,ハイラルのなぞなぞしれん,Riddles of Hyrule
+4,QL_KorokMini_RiddleShiren_Step010,"1つ目のなぞなぞに正解し
+次の問題を出された
+
+「カカリコ村名産！
+ カッチコチの野菜って なーんゾナ？」
+
+正解が分かったら それを入手して
+ナモミンのところへ持っていこう","You answered the first riddle correctly.
+The second riddle is:
+
+\""Kakariko Village's specialty fruit!
+Its rock-hard flesh is quite resolute!\""
+
+Once you know the answer,
+bring the item to Walton!"
+5,QL_KorokMini_RiddleShiren_Step020,"2つ目のなぞなぞに正解し
+次の問題を出された
+
+「暑いところにある料理すると
+ ポカポカするダケのもの なーんゾナ？」
+
+正解が分かったら それを入手して
+ナモミンのところへ持っていこう","You answered the second riddle correctly.
+The third riddle is:
+
+\""This sultry shroom will warm your bones.
+It makes its home in warmer zones.\""
+
+Once you know the answer,
+bring the item to Walton!"
+6,QL_KorokMini_RiddleShiren_Step030,"3つ目のなぞなぞに正解し
+次の問題を出された
+
+「ビリビリに強くなっちゃいマス！
+ なーんゾナ？」
+
+正解が分かったら それを入手して
+ナモミンのところへ持っていこう","You answered the third riddle correctly.
+The fourth riddle is:
+
+\""Its scales and tail will zap you, no doubt!
+This shocking swimmer is called a...fish.\""
+
+Once you know the answer,
+bring the item to Walton!"
+7,QL_KorokMini_RiddleShiren_Step040,"4つ目のなぞなぞに正解し
+次の問題を出された
+
+「ツメはツメでも ヒのついたツメは
+ なーんゾナ？」
+
+正解が分かったら それを入手して
+ナモミンのところへ持っていこう","You answered the fourth riddle correctly.
+The fifth riddle is:
+
+\""If stepped on by this, you will go poof!
+It starts with an H and ends with an oof!\""
+
+Once you know the answer,
+bring the item to Walton!"

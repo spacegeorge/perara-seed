@@ -1,0 +1,350 @@
+#,Title,JPja,USen
+1,"""0000""",かまどに点火したよ,The furnace is lit.
+2,"""0002""",プルアは子供だよ,I met a child.
+3,"""0003""",プルアって誰？,Who's Purah?
+4,"""0004""",知ってる！,I know!
+5,"""0005""",知らない,I didn't know.
+6,"""0006""",やりましょう！,Let's do it!
+7,"""0008""",古代兵装って？,Ancient soldier gear?
+8,"""0009""",古代炉？,Ancient furnace?
+9,"""0010""",チェリーちゃん？,Cherry?
+10,"""0011""",さようなら,Bye.
+11,"""0012""",話して！,Tell me!
+12,"""0013""",話さなくていい,You don't have to.
+13,"""0014""",はい,Yes.
+14,"""0015""",いいえ,No.
+15,"""0016""",ルピー？,Rupees?
+16,"""0017""",その通り！,That's right!
+17,"""0018""",あなたは？,Who are you?
+18,"""0019""",プルアは若返った,Purah got younger.
+19,near00,ウゴイテマスヨー,"Busy, busy..."
+20,near01,ソザイ ヲ イレテネ,Put in the materials!
+21,near02,イジョウ ナシ,Ready and waiting.
+22,near03,エイギョウ チュウ,Open for business.
+23,near04,……,...
+24,near05,ヘイ！,Oho!
+25,near06,ハフ…,*huff* *huff*
+26,talk00,"ユー…まさか…リンク？
+",Are you...the one called...Link?
+27,talk01,"ハフ……ユーが本物のリンクなら
+話さねばならん事が あるんじゃが…
+さて どうやったらユーが
+本物のリンクである事を証明できるかの？
+100年前にできた身体の傷でも見れば
+本物のリンクかどうか分かるんじゃがのゥ","Hm? Hm. That's too bad. If you WERE
+the legendary Link, there would be
+something important I'd need to tell you.
+But how can I determine with full
+certainty whether or not you are the
+true hero? Yes, how indeed? Hm?
+Hm, hm, yes. If you can show me the
+wounds your body suffered 100 years
+ago, that should prove you are truly Link."
+28,talk02,"ジャスト… ユーの身体の無数の傷跡…
+覚えておるぞ
+ほとんど塞がっとるが 100年前
+ユーが厄災で受けた傷と一致しておるな","Hm? Hm! Hmm... Yes, the number of
+scars on your body...just as I remember.
+
+Most seem to have healed, but they do
+line up with the scars I know you got
+during the Great Calamity 100 years ago."
+29,talk03,"…じゃろうと思った
+だったらゲットアウト…出てってくれんかの","Hm. Just as I thought. Then get out. 
+Get out now—right this moment."
+30,talk04,"ハハン？プルアに子供が出来た？
+
+何？！プルア自身が若返って…子供に？！
+リアリィ？マジ？
+フムムム…まだあのハチャメチャが続くんか…
+
+オケィ…まぁ彼女の事だから
+おおかた人体実験に失敗したんじゃろ…","Hm? Purah? A child?
+
+
+What?! She really has a kid? Hmm. Or do
+you mean that Purah aged backward...
+and SHE is now a child?
+Hm? Are you certain?
+Hm! So she's as crazy as ever.
+
+Okeydoke. Knowing her, I'm guessing
+she screwed up some experiment.
+Hm, hm, yes. Typical."
+31,talk05,"オケオケ""知らなんだら別にエエ","Hm, yes, OK. That's fine if you
+don't know."
+32,talk06,…バイザウェイの閑話休題,"Let us return to the subject at hand, hm?"
+33,talk07,"ユーは あの厄災が
+再び力を盛り返してるのは知ってる？","Did you know that the Calamity is
+regaining its power?"
+34,talk08,"フム…それなら
+ウィらの経緯を話さんでいいかの？","Hmm, I see. Then I don't need to tell you
+my story, hm?"
+35,talk09,"オゥマイガッ！ それなら
+ウィらの経緯を話した方がいいかの？","Are you serious?! Well then, I suppose
+I should tell you my story, hm?"
+36,talk10,"ウィら シーカー族研究者の目的…それは
+
+時を超え復活する厄災を
+完全に世の中から消し去る事
+アンド…特に今回は厄災に捕われておる
+ゼルダ様も お救いせねばならん
+ウィらの研究は完成にこぎつけたが
+厄災を倒すには歳を取り過ぎた…
+バァット
+
+幸いな事に ウィらが生きている間に
+ユー… リンクが目覚めてくれた
+ザ タイム ハズ カム…時は満ちた！","The goal of our Sheikah research lab is
+simple, really. We aim to destroy the
+Calamity that has endured across time...
+to rid Hyrule of its dark influence...
+and above all...to rescue Princess Zelda,
+who is now a prisoner of the Calamity.
+We have worked ourselves to the bone
+conducting our research. For a time,
+I feared I'd pass before we could prevail.
+HOWEVER! You, Link, managed to
+awaken before this old sack of flesh
+gave out. That means...
+THE TIME IS NOW! Hm, yes, yes!"
+37,talk100,"ワープ地点として
+アッカレ古代研究所を マップに登録します","Akkala Ancient Tech Lab has been added
+to your map as a travel gate."
+38,talk11,厄災を討つのじゃ！,We must destroy the Calamity!
+39,talk12,バァット！ でもね？,Hm! Hm? Did you catch all that?
+40,talk13,"ミー？
+
+オーマイガッ！
+
+興奮して自己紹介を忘れとったわ…
+それでは改めて…","Hm? Me?
+
+
+Are you serious?!
+
+
+It seems I got so excited I forgot to
+introduce myself! I'll start over, hm?"
+41,talk14,バィバーイ,"Yes, bye!"
+42,talk15,"チェリーちゃん…
+いや シーカーレンジの調子が悪くて
+古代兵装作るのがインポシボゥ…不可能ね
+
+ハァ…また古代炉から
+青い炎""持って来なきゃだわ","Ah...  The ancient oven... You see, it's a
+bit out of sorts right now, so it's
+impossible to make ancient soldier gear.
+Hm... Yes, I suppose we'll have to
+carry the blue flame over from the
+ancient furnace again."
+43,talk16,"古代兵装ちぅのは ウィらシーカー族が開発した
+古の力を纏った装備品じゃ
+古代兵装の作り方はイーズィー…簡単
+
+ガーディアンが落とす古代素材とルピーを
+
+チェリーちゃん
+…いや シーカーレンジに放り込むだけ
+バァット しかし…シーカーレンジの調子が
+戻らん事には どうにもならんがのゥ…","Ancient soldier gear is something we
+Sheikah developed with ancient power.
+It's easy to make it. Yes, hm! A breeze!
+Just take the ancient materials
+that the Guardians drop...
+And some rupees...
+And toss them into Cherry. I mean...
+into the ancient oven. Yes. That.
+
+However! The ancient oven is still out
+of sorts. Hmm... Who do we know who
+can do something about that?"
+44,talk17,"古代炉とは言うなれば
+エネルギーの溜まり場じゃ
+ここから西のコーヨウ台地に あるんじゃが
+そこの青い炎を外のかまどにつければ
+チェリーちゃん…
+いや シーカーレンジの調子も戻ろうて
+バァット…この歳じゃと
+山を越え川を渡るのが億劫での…
+妻は妻でチェリーちゃんに嫉妬して
+青い炎を持って来てくれんし…ハァ…","An ancient furnace can be simply
+described as a singular place that
+gathers massive amounts of energy.
+Get the blue flame from Tumlea Heights,
+put it in the furnace, and then Cherry...
+I mean...the ancient oven will be fixed.
+However! At my age, it's not so easy to
+climb mountains and cross rivers. Hm.
+
+And my wife is jealous of Cherry, so she
+refuses to get the blue flame for me...
+*sigh*"
+45,talk18,ロベリー！,Robbie!
+46,talk19,アイシー あい分かった それでは…,"Hm! Yes, I see. In that case..."
+47,talk20,"ユー！ リンク！聞いてくれ！
+
+たった今チェリーちゃんの調子が
+戻って来たんじゃ！
+これこそ愛の力…
+ミーの愛がチェリーちゃんを動かしたんじゃ！
+…
+
+……
+
+…サンキュ
+
+まぁ とにかく…
+チェリーちゃんを動かしてくれた礼じゃ","You! Link! Listen up, hm!
+
+
+My darling Cherry is back to normal!
+Such is the power of love... My love
+made Cherry well again!
+...
+
+
+Oh... Well, thank you. Yes, quite.
+
+
+Now then, please take this as a gift of
+my gratitude now that Cherry is fixed!"
+48,talk21,"チェリーちゃんは古代兵装・矢以外にも
+色んな古代兵装を作れるぞィ
+欲しけりゃ古代素材とルピーを
+チェリーちゃんに渡すんじゃ","In addition to ancient arrows, Cherry can
+make all kinds of ancient soldier gear.
+
+If you're looking to acquire some,
+give your ancient materials...
+and rupees...to Cherry."
+49,talk22,"ん？んん～～？！
+
+ユー！まさかリンク？！
+
+フォーーー！！
+
+それにしても
+今日は なんともビジー…慌ただしい
+100年ぶりにリンクに会うわチェリーちゃん…
+いやシーカーレンジは動いとるわ…
+…サンキュてっきり ミーの愛の力で
+動き出したのかと思ゥたわィ","Hm? Hmmmmmm?!
+
+
+Don't TELL me...you're Link?!
+
+
+Whoa!
+
+
+Today is eventful, hm? Yes, downright
+crazy! To think I'd get to see Link
+100 years after he went to sleep.
+On top of that, Cherry...I mean,
+my ancient oven...is finally up
+and running again!
+Thank you, hm! Heh, though at first
+I truly believed she started working
+again by the power of my love..."
+50,talk23,アンドASAP ミーとユーの協力で,"Then let's do it, hm? The two of us,
+as soon as possible, yes. Let's..."
+51,talk24,"フム…ユーをリアリィ本物のリンクと認めよう
+それでは改めて…","Hm. Yes, I acknowledge you as the
+real Link. So let us begin again..."
+52,talk25,"ミーはガーディアン研究の第一人者にして
+このアッカレ古代研究所の所長…","I am the lead Guardian researcher and
+director of the Akkala Ancient Tech Lab."
+53,talk26,"それにしても ユー……
+よく一人で こんなヘンピな場所まで来れたのゥ
+さては プルアの婆さんに会って
+ハー…彼女の力を借りたんじゃろ？","In any case... I really am impressed that
+you made it all the way out to this
+rather remote location.
+Did you, perchance, meet Purah and
+borrow her power?"
+54,talk27,"チェリーちゃん… いや シーカーレンジは
+古代兵装を作るために ミーが作った機械じゃ","Cherry...that is, the ancient oven...
+is a machine I made to create
+ancient soldier gear."
+55,talk28,"なかなかプリチー…可愛いじゃろ？
+
+ミーのファストラヴ…初恋の子の名なんじゃが
+妻には不評での…","Isn't she adorable? Yes, hm?
+
+
+My first love... She shares the name of
+my first love, you see. My wife...isn't as
+crazy about her as I am."
+56,talk29,"「チェリーちゃん」ちぅと妻が怒るんで
+「シーカーレンジ」と呼ぶ事にしとるんじゃ","Yes, when I call her Cherry, my wife gets
+angry and throws things. That's why I
+call her the ancient oven now."
+57,talk30,ユー！今こそウィらシーカー族と力を合わせ…,"You! Now is the time to join forces with
+us Sheikah, yes?"
+58,talk31,厄災を討ち倒すんじゃ！,"Conquer the Calamity, hm!"
+59,talk32,ヘイ ユー…ここで何をしている？,"Hey, you! What are you doing here?"
+60,talk33,ん？んん？,Hmmm... Hm?
+61,talk34,んんん～？！,Hmmm?
+62,talk35,"その古代兵装を作ってくれるチェリーちゃん…
+いや このシーカーレンジの調子が悪くてね…
+ハァ…また古代炉から
+青い炎""持って来なきゃだわ…","Cherry...erm, the ancient oven...
+creates ancient soldier gear. But I fear
+she's out of sorts at the moment.
+Hm. I'm afraid someone will have to
+bring the blue flame from the
+ancient furnace again..."
+63,talk36,他に質問は あるかの？,Do you have any other questions?
+64,talk37,ドクトーール…,Doctooooor...
+65,talk38,はぁ…誰か青い炎つけてくれんかの…,"Hm... I wish someone would light the furnace
+outside with the blue flame..."
+66,talk39,"聞こえとったか…
+
+許せ リンク…
+
+ウィら研究者は ハイラル城が破壊されてから
+研究費が下りなくなってしもゥた
+だから ウィらを助けると思って！
+ルピーを…プリーズ！","Did you hear that?
+
+
+Ah! Forgive me, Link.
+
+
+Ever since the fall of Hyrule Castle,
+we haven't had much in the way of
+funds for our research.
+That's why I thought you might be willing
+to help us out! With rupees. 
+Lots of them. I BEG OF YOU!"
+67,talk41,"フォオオ！ そうじゃ！
+
+ユーとミーが協力して厄災を討つんじゃ！
+
+そんなワケでユー…前置きが長くなったが
+ミーからは古代兵装を提供しようと思う","Yes! That is correct!
+
+
+You and I are going to join forces
+to put an end to the Calamity!
+
+And on that note... Sorry for the long
+preamble, but I'd like to provide you
+with some ancient soldier gear."
+68,talk42,まずは これを渡しておこう,"To start, I'll hand these over."
+69,talk43,"それは シーカー族秘伝の英知の結晶…
+そして ミーが改良に改良を重ねた
+対厄災用兵器…言うなれば
+超超超凄い古代兵装の一つ""名付けて…","They are made using secret Sheikah
+technology. With the addition of my
+upgrades, they have morphed into...
+Anti-Calamity weapons! So to speak...
+Needless to say, they are an incredibly
+powerful type of ancient soldier gear.
+I like to call them..."
+70,talk44,古代兵装・矢！！,Ancient arrows!
+71,talk90,ナ……ン……,Wha...is...
+72,talk91,ヤ……ワ……,The...mat...
+73,talk92,……ンデ……ス,An...it's...
+74,talk93,……オ ……スカ,I...it's...

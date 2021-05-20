@@ -1,0 +1,59 @@
+#,Title,JPja,USen
+1,QL_Gerudo_CarryIce_Desc,"古代の祠の前でパクトという
+ゲルド人が倒れていた
+彼女を元気にさせなければ
+中には入れなさそうだ
+ヴァーイミーツヴォーイが飲みたいと
+うわ言のように つぶやいている","A Gerudo named Pokki has collapsed in front
+of the ancient shrine. You'll have to find a way
+to revive her if you want to get inside. She was
+barely coherent, but it sounded like she was
+muttering about wanting to drink something
+calledNoble Pursuit."
+2,QL_Gerudo_CarryIce_Gerudo_CarryIce_Delivered,"酒場の主に氷を届けた
+
+これでキンキンに冷えた
+ヴァーイミーツヴォーイが作れるだろう
+古代の祠で倒れているパクトに
+この事を早く伝えてあげよう","You delivered the ice to the owner of
+the canteen.
+
+She's now able to make ice-cold Noble Pursuits.
+She's asked that you go back to Pokki and let
+her know that a drink is waiting for her.
+Pokki had collapsed in front of the shrine."
+3,QL_Gerudo_CarryIce_Gerudo_CarryIce_Finished,"キンキンに冷えたヴァーイミーツヴォーイの事を
+パクトに伝えたところ
+ゲルド酒場に飛んで行ってしまった
+
+これでゆっくり
+古代の祠に入れそうだ","When you told Pokki about the ice-cold Noble
+Pursuit, she flew off in the direction of the
+Gerudo canteen.
+
+You can enter the shrine anytime you want."
+4,QL_Gerudo_CarryIce_Gerudo_CarryIce_Get,"アンチェから氷を分けてもらった！
+
+砂漠の暑さで溶けないように注意しながら
+遺跡で待ち合わせているフロスの所まで
+氷を運ぶ必要がありそうだ","You got Anche to give you some ice!
+
+You now have to carry the ice back to Furosa,
+who waits at the exit of the ruins north of town.
+With the blazing heat of the desert, it'll be a 
+challenge toget back without the ice melting."
+5,QL_Gerudo_CarryIce_Gerudo_CarryIce_bar,"ヴァーイミーツヴォーイはゲルド酒場の
+名物酒だった
+しかし今は氷を切らしていて作れないという
+
+街の北にある氷室にいるアンチェから
+氷を分けてもらおう
+ただし明るい内に行く必要がありそうだ","Noble Pursuit is a famous drink from the
+Gerudo canteen. Unfortunately, it can't be
+made right now because they're all out of ice.
+
+You'll need to go to the icehouse north of
+Gerudo Town and ask Anche to give you some
+ice. You can only get Anche's help while it's
+bright out, though."
+6,QL_Gerudo_CarryIce_Name,うるわしの美酒を求めて…,The Perfect Drink

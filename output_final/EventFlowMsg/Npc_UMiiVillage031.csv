@@ -1,0 +1,360 @@
+#,Title,JPja,USen
+1,"""0000""",誰だっけ？,Who are you again?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",思い出した！,I remember!
+4,"""0003""",何してるの？,What are you doing?
+5,"""0004""",いいと思う！,Good idea!
+6,"""0005""",どうしたの？,What's wrong?
+7,"""0006""",例えば？,Enough what?
+8,"""0007""",手伝うよ！,I'll help out!
+9,"""0008""",いいから！,I don't mind!
+10,"""0009""",うんうん,Uh-huh.
+11,"""0012""",持って来たよ！,I brought them!
+12,"""0013""",まだだった,Not yet.
+13,"""0014""",いいよ！,Sure!
+14,"""0015""",やっぱダメ,Nope! Bye!
+15,"""0016""",ウソ？！,No way!!
+16,"""0017""",お相手は？,To who?
+17,"""0018""",おめでとう！,Congratulations!
+18,"""0019""",意外過ぎる…,What a surprise!
+19,"""0020""",来賓？,Guests?
+20,"""0021""",なるほど,I see.
+21,"""0022""",もちろん！,Of course!
+22,"""0023""",お似合いですね！,You're a cute couple!
+23,"""0024""",ちょっと待って,Wait a second.
+24,"""0025""",泣いてるの？,Are you crying?
+25,"""0026""",はい,Yes.
+26,"""0027""",いいえ,No.
+27,"""0091""",もう少しヒントを…,Where are they?
+28,"""0092""",キャンセル,Cancel
+29,"""0094""",腕っぷし？,Physical strength?
+30,"""0095""",お裁縫？,Tailoring?
+31,"""0096""",物流？,So a traveling trader?
+32,"""0097""",神父？,"Priest-like, huh..."
+33,near00,よっ！,Yo!
+34,near01,ほっ！,Hoh!
+35,near02,ふんっ！,Hmph!
+36,near03,やっ！,Yah!
+37,near04,…,...
+38,talk00,さて次なんだが…,"Well, next is..."
+39,talk01,また会ったな,We meet again.
+40,talk02,サクラダ工務店の大工 エノキダだ,"I'm one of the Bolson Construction
+contractors. The name's Hudson."
+41,talk03,俺もだ,Me too.
+42,talk04,"辞令により ここで一から村を作ることにした
+
+村の名前は…""イチカラ村だ","Since I've been transferred here, I've
+decided to build a village from scratch.
+
+Every village needs a name, though.
+I think I'll call it...Tarrey Town."
+43,talk05,しかし…,However...
+44,talk06,"会社の在庫で家一軒建てられたものの
+村を作るには何もかも足りない","I built a house to store the village
+supplies in, but there just isn't enough..."
+45,talk07,人モノ金,"Enough anything... People...
+Money... Stuff..."
+46,talk08,"……やめておけ""得する事は何も無い","But why? There's nothing in it
+for you."
+47,talk09,助かる…,You're a lifesaver...
+48,talk10,"じゃ早速だが
+人を呼ぶにも住む家が必要だ
+なので薪の束を10本""持って来てくれないか？","Well...I suppose to get started, we'll
+need houses for people to live in. We
+can't invite them until we have homes.
+Do you think you can bring me
+10 bundles of wood?"
+49,talk11,"それだけあれば会社の在庫と合わせて
+新しい家を建てられるはずだ","If you bring me that, I can combine
+it with what I've already got and get
+started on new houses."
+50,talk12,"薪の束を10本""持って来てくれたのか？",Did you bring the 10 bundles of wood?
+51,talk13,"その薪の束""もらってもいいのか？",Excellent! Can I have them?
+52,talk14,"取り急ぎ薪の束を10本""持って来てくれ","Hurry up and bring me 10 bundles of
+wood, will you? I want to get to building."
+53,talk15,"今の会社の在庫だけでは
+家が建てられんのでな","I haven't got enough supplies in the
+storehouse to build houses yet."
+54,talk16,"腕っぷしが強いと言えば
+ゴロン族が真っ先に挙がるが…","Yeah, if we're talking about brute
+physical strength, and we are, a Goron
+would be my first choice..."
+55,talk17,"ここらの岩をどかして
+土地を作りたい
+なので ここの岩を壊せる様な
+腕っぷしの強いヤツを探してくれないか？","These boulders are driving me nuts.
+I want to move them out of the way so
+we can develop the land underneath.
+It'd really help me out if you could find
+someone with enough brute physical
+strength to bust them apart."
+56,talk18,おっと それから…,"Oh, and one last wrinkle..."
+57,talk19,"サクラダ工務店の社是に則り
+名前の最後が「ダ」で終わらないと ダメだ
+世界のどこかに そんなヤツが居たら
+このイチカラ村に来るよう言ってくれ","Yeah, in accordance with the official
+Bolson Construction policy, that
+someone's name must end in \""son.\""
+If you run into anyone that fits with what
+I've said, send them here to
+Tarrey Town for me."
+58,talk21,"ゴロン族を連れてきてくれたんだな
+ありがとう
+流石ゴロン族だ…確かな腕っぷし
+すごい勢いで岩を撤去してくれている
+名前もグレーダとププンダで申し分ない
+
+岩を壊したら出た鉱石を ププンダが売り始めた
+また挨拶するといいだろう","You sent some Gorons back here.
+That's perfect. The brute strength of a
+Goron is undeniable.
+Those boulders don't stand a chance
+against them... And with names like
+Greyson and Pelison, they'll fit right in.
+Also, Pelison started selling the ore
+found within the boulders.
+You should go say hello again."
+59,talk22,"もっと人を呼ぶためには住む家が必要だ
+なので薪の束を20本""持って来てくれないか？","So before more people can move here,
+we need homes for them to live in.
+Can you bring me 20 bundles of wood?"
+60,talk23,"薪の束を20本""持って来てくれたのか？",Did you bring the 20 bundles of wood?
+61,talk24,"取り急ぎ薪の束を20本""持って来てくれ","Hurry up and bring me 20 bundles of
+wood, will you? I want to get to building."
+62,talk25,"裁縫が上手と言えば…
+ゲルド族を当たれば居るかも知れないが…","If we're talking about tailoring...
+there could be someone among the
+Gerudo who's good at that."
+63,talk26,"一日中作業をしていたら
+すぐに作業着が傷んでしまってな…
+なので裁縫が上手なヤツを
+探してくれないか？","Working such long hours every day really
+wears on my clothes.
+
+Could you look for someone who's got a
+gift for tailoring for me?"
+64,talk27,"サクラダ社長とカツラダが
+来てくれたようだが長旅の疲れが出たようだ
+式なら別の日にやればいい","Karson and President Bolson 
+just arrived. I can only imagine how tired
+they are from their long journey.
+We should hold the ceremony on
+another day."
+65,talk28,"おまえも今日は休むがいい
+
+宿なら そこのカポーダの宿に行けば
+タダで泊まらせてくれるだろう","You should take today to rest, too.
+
+
+If you need a place to stay, talk to
+Kapson. He'll probably let you stay for
+free."
+66,talk29,"社長とカツラダの事を考えて
+式は別の日にする","Think of how tired the big boss and
+Karson must be. Let's have the
+ceremony on another day."
+67,talk30,"神父ができそうな神聖な種族と言えば
+ゾーラ族が真っ先に挙がるが…","If we're looking for a people
+devout enough to have a priest-like
+person...I'd suggest the Zora."
+68,talk31,"ゲルド族を連れてきてくれたんだな
+ありがとう
+早速作業着を繕ってもらった
+しかも いい匂いがする
+名前もパウダで申し分ない
+
+彼女は裁縫の腕を活かし服屋を開業したようだ
+また挨拶するといいだろう","You found someone from the Gerudo.
+Thank you.
+
+She was able to patch every last hole in
+my work clothes before I could blink.
+She's pretty...er, amazing!
+And since her name is Rhondson, I have
+no objections.
+
+I hear she's decided to continue putting
+her skills to use by opening a clothing
+shop. You should stop by and say hello."
+69,talk32,"人を呼ぶためには さらに住む家が必要だ
+なので薪の束を30本""持って来てくれないか？","So before more people can move here,
+we need more homes for them to live in.
+Can you bring me 30 bundles of wood?"
+70,talk33,"薪の束を30本""持って来てくれたのか？",Did you bring the 30 bundles of wood?
+71,talk34,"取り急ぎ薪の束を30本""持って来てくれ","Hurry up and bring me 30 bundles of
+wood, will you? I want to get to building."
+72,talk35,"物流と言えば…リト族なら飛び回って
+いろいろ仕入れられそうなもんだが…","Oh, that's a good thought...
+Rito can fly around, so they should be
+able to retrieve and deliver supplies."
+73,talk36,"いよいよ村らしくしたいのだが
+そのためには物流を作らないとな
+そんな訳で よろず屋を招きたいんだが
+俺達にはそのノウハウも物流のコネも無い
+なので物流も含めて
+よろず屋ができそうなヤツを探してくれないか？","It's finally starting to look like a town
+around here. Which is exactly why we
+need to set up some distribution.
+I'd like to get a general store up and
+running, but there's no one with the
+connections and qualifications to run it.
+Do you think you could keep an eye out
+for someone who knows about
+distribution and can run a general store?"
+74,talk37,そんなに都合よく居るもんだろうか…,"Good luck! You'll need it... This seems
+like a real long shot."
+75,talk38,ありがとう,Thank you.
+76,talk39,"リト族を連れてきてくれたんだな
+ありがとう
+早速開業してもらった
+実家が よろず屋らしいな
+名前もペーダで申し分ない
+
+彼自身が飛び回り仕入れた物を売っている
+また見て行くといいだろう","You managed to find a Rito and bring him
+back here. Thank you.
+
+He wasted no time getting a general
+store up and running—apparently his
+family runs one too.
+And with a name like Fyson,
+he'll fit right in!
+
+He's selling things that he's picked up
+while flying around. You should really go
+check out the store."
+77,talk40,"もっと人を呼ぶためには さらに家が必要だ
+なので薪の束を50本""持って来てくれないか？","So before we can call more people here,
+we need even more homes for them.
+Can you bring me 50 bundles of wood?"
+78,talk41,"薪の束を50本""持って来てくれたのか？",Did you bring the 50 bundles of wood?
+79,talk42,"取り急ぎ薪の束を50本""持って来てくれ","Hurry up and bring me 50 bundles of
+wood, will you? I want to get to building."
+80,talk43,さて次は手前味噌なんだが…,"I actually wanted to talk about something
+a little personal..."
+81,talk44,婚約した,"Oh, not that kind of personal.
+Actually, I got engaged."
+82,talk45,本当だ,It's true.
+83,talk46,そこのパウダだ,To Rhondson.
+84,talk47,ありがとう,Thank you.
+85,talk48,余計なお世話だ,"You say that, but for some reason, I
+think you mean the opposite..."
+86,talk49,"しかし式を挙げるにも
+神父が居ない事には話にならん
+なので 
+神父ができそうなヤツを探してくれないか？","Anyway, we want to have a little
+ceremony to celebrate, but we need
+someone priest-like to officiate.
+Could you look for someone priest-like
+for us?"
+87,talk50,この度 パウダと結婚する事になった,Now Rhondson and I can be married!
+88,talk51,"ゾーラ族を連れてきてくれたんだな
+ありがとう
+聞けば彼は
+現役時代神父だったらしいな
+名前もカポーダで申し分ない
+
+しかし…よくもまぁ これだけ都合よく
+名前の最後が「ダ」の者が居たもんだ","You found a Zora? Thank you...really.
+
+
+He and I talked earlier, and he said that
+he literally was a priest before he retired.
+You can't get more priest-like than that.
+And his name is Kapson, so I have no
+objections there.
+
+It really is amazing that you were able to
+find someone priest-like who also had
+an acceptable name..."
+89,talk52,"後は式を挙げるだけだが
+来賓を招かないとな","Of course, we'll have to invite guests in
+order to hold a ceremony..."
+90,talk53,社長のサクラダと後輩のカツラダだ,"Well, I'm talking about my boss, Bolson,
+and my subordinate, Karson."
+91,talk54,"しかし式の準備もあって多忙でな…
+代わりに呼びに行ってくれないか？","However, I've got to prepare for the
+ceremony, so my hands are full...
+Could you invite them for me?"
+92,talk55,それじゃあ頼んだぞ,Excellent. I'm counting on you.
+93,talk56,"サクラダ社長と カツラダが来たら
+式を開始する
+居場所は おそらくハテノ村だ
+俺の代わりに呼んできてくれないか","Once Karson and the boss Bolson get
+here, we can start the ceremony.
+
+They're probably still in Hateno Village.
+Can you invite them for me?"
+94,talk57,二人を誘ってくれたんだなありがとう,"You extended my invitation for me.
+Thank you."
+95,talk58,"さて サクラダ社長とカツラダが
+首を長くして待っている
+式を始めるか","Now then, Karson and the boss Bolson
+are waiting for things to begin...
+
+Shall we start the ceremony?"
+96,talk59,"分かった
+心の準備が出来たら呼んでくれ","I understand... This is an exciting event
+for me too. When you've collected
+yourself, come talk to me."
+97,talk60,"承知した
+
+じゃ列に並んでくれ","Understood.
+
+
+Then let's join the gathering."
+98,talk79,…そうだこれを受け取ってくれ,All right. This is for you.
+99,talk80,"参列してくれてありがとう
+…グスン","Thank you for attending the ceremony.
+...*sniff*"
+100,talk81,…目にゴミが入っただけだ,What? No. Just something in my eye...
+101,talk82,"さてイチカラ村だが すっかり村らしくなった
+
+全てはおまえのおかげだ礼を言う","And now Tarrey Town looks like a real
+town at long last.
+
+This was all possible because of you. 
+I can't thank you enough for all the hard
+work you did."
+102,talk83,"ここの岩をどけている時に出たものだ
+
+俺やパウダには こういうのは必要ない
+持って行け","These were found inside the boulders we
+smashed when we were clearing land.
+
+Rhondson and I have no use for them.
+You can take them."
+103,talk84,"…と思ったが
+ダイヤモンド3個は持てないみたいだな
+売るなり捨てるなりして また来るといい","Well, I want to give them to you, but it
+looks like you haven't got room
+for three diamonds."
+104,talk85,おまえか,It's you.
+105,talk86,やぁ,Hey.
+106,talk87,"俺はここでパウダと暮らす
+
+おまえは…
+やる事があるんだろう？","Rhondson and I are very happy to live
+here now.
+
+So... Isn't there something important
+you should be doing?"
+107,talk88,"だったら早く行け
+
+おまえは世界を股に掛ける漢
+こんな小さな村に留まる器ではないはずだ","Then get to it.
+
+
+You've traveled the world helping folks,
+but there's more that need helping. You
+don't have the luxury of tarrying here."
+108,talk89,"そうか…
+だったら ゆっくりしていくといい","I see... In that case, stay as long as you
+like, OK?"
+109,talk90,ほぅ,Oh.
+110,talk91,どうも,Hello.
+111,talk95,"おい…
+
+ヒントも何も社長とカツラダなら
+ハテノ村に居るだろう？","You know where they are. The boss and
+Karson are in Hateno Village, right?"

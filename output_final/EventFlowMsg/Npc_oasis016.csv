@@ -1,0 +1,197 @@
+#,Title,JPja,USen
+1,"""0000""",アナタは何してるの？,What are you doing?
+2,"""0001""",観光です,Sightseeing.
+3,"""0002""",ここで何してるの？,Whatcha doing here?
+4,Talk_01,"このイチゴすごいんだよ！
+土に埋めたら
+ニョキニョキニョキッ！
+
+って生えてきたんだよ！
+
+あのイチゴはきっと
+魔法のイチゴだったんだよ！","Wildberries are amazing! Yeah! Yeah!
+When I buried one in the ground...
+
+SHLOOP! SHLOOP! SHLOOP!
+
+
+More and more sprouted up, one after
+the other!
+
+I think that first wildberry must have
+been a MAGIC wildberry!"
+5,Talk_02,"あのイチゴすごいんだよ！
+土に埋めたら
+ニョキニョキニョキッ！
+
+って生えてきたんだよ！
+
+あのイチゴはきっと
+魔法のイチゴだったんだよ！","Wildberries are amazing! Yeah! Yeah!
+When I buried one in the ground...
+
+SHLOOP! SHLOOP! SHLOOP!
+
+
+More and more sprouted up, one after
+the other!
+
+I worked so hard to clean up the rubbish
+and make the earth here happy, but...
+
+I think that first wildberry must have 
+been a MAGIC wildberry!"
+6,Talk_03,"えへへ～
+
+まだママにはナイショなんだけどね
+ティクルね ここにフルーツの畑を作るんだ！
+そんでもってお腹いっぱいフルーツ食べるの！
+
+まだ何を植えるかは
+決まってないんだけど…
+たっくさんできたら
+お姉ちゃんにも分けてあげるね！","Heehee! I'm still keeping it a secret from
+Mama, but I'm growing a fruit
+garden here!
+Then I can eat all the fruit I want until
+my tummy gets filled right up!
+
+I haven't figured out what I want to
+plant here yet, though...
+
+If I grow a lot, I'll share some of it
+with you, OK?"
+7,Talk_04,"ごめん お姉ちゃん 
+ティクル急いでるんだ！
+またね！
+サヴォーク！","Sorry, lady, but I'm in a hurry!
+
+
+See ya! Sav'orq! "
+8,Talk_05,"ティクルのママね
+フルーツたくさん売ってるよ！
+すっごく美味しいから
+外国のお姉ちゃんも買っていってよ
+じゃあ サヴォーク！
+お姉ちゃん！！","My mama sells a bunch of fruit! They're
+super yummy, so you should buy some,
+vai-from-out-of-town!
+Anyway, sav'orq!"
+9,Talk_06,…フルーツいっぱい食べるんだ…,I'm gonna eat a lot of fruit...
+10,Talk_07,…イチゴいっぱい食べるんだ…,I'm gonna eat a lot of wildberries...
+11,Talk_08,"ティックルの畑～♪
+ティックルの畑～♪","♪Dalia's garden!♪
+♪Dalia's garden!♪"
+12,Talk_09,"ティクルのママね
+フルーツたくさん売ってるよ！
+すっごく美味しいから
+外国のお姉ちゃんも買っていってよ
+でもイチゴのことはママには内緒ダヨ！！","My mama sells lots of fruit!
+
+
+They're all super yummy, so you should
+buy some, vai-from-out-of-town!
+
+But don't tell Mama about the wildberries, OK?!"
+13,Talk_10,"ティクルのママね
+フルーツたくさん売ってるよ！
+すっごく美味しいから
+外国のお姉ちゃんもどお？
+でもイチゴのことはママには内緒ダヨ！！","My mama sells lots of fruit!
+
+
+They're all super yummy, so how about
+you try some, vai-from-out-of-town?
+
+But don't tell Mama about the wildberries, OK?!"
+14,Talk_11,サヴォッタ！,Sav'otta!
+15,Talk_12,サヴァーク！,Sav'aaq!
+16,Talk_13,サヴァサーバ！,Sav'saaba!
+17,Talk_14,"外国のお姉ちゃんが
+こんなところで何してるの？","What's a vai from out of town doing in
+a place like this?"
+18,Talk_15,"え～ ここはティクルの秘密の場所なんだから
+観光しに来ちゃだめだよ！
+あっ観光なら
+ティクル良い場所知ってるよ！
+南東門の辺りにね
+女神様のお人形さんがあるんだ！
+あんまり人もいないし
+ママが アナバスポットだって言ってたよ！","Aw, but this is my secret field! You can't
+come sightseeing here!
+
+Oh, but if you want to go sightseeing, I
+know some good spots for it!
+
+There's a Goddess Statue near the
+southeast gate!
+
+Not many people go there, so Mama says
+it's a good, little-known spot!"
+19,Talk_16,どうしたのお姉ちゃん？,"What's up, lady?"
+20,Talk_17,"まだママにはナイショなんだけどね
+ティクルね ここにフルーツの畑を作るんだ！
+まだ何を植えるかは
+決まってないんだけど…
+たっくさんできたら
+お姉ちゃんにも分けてあげるね！","Umm... I feel like I told you about this
+already, but...
+
+The truth is...
+
+
+I'm growing a secret fruit garden here!
+But don't tell anyone—it's a secret.
+I haven't even told Mama!
+I haven't figured out what I want to
+plant yet, though...
+
+If I'm able to grow a lot, I'll share some
+of it with you, OK?"
+21,Talk_18,"ここはティクルの秘密の場所なんだから
+観光しに来ちゃだめだよ！
+観光なら南東門の辺りにある
+女神様のお人形さんのところにでも行ったら？
+あんまり人もいないし
+ママが アナバスポットだって言ってたよ！","This is my secret place, you know! You
+can't do any sightseeing around here!
+
+If you want to go sightseeing, why don't
+you go and visit the Goddess Statue at 
+the southeast gate?
+Not many people go there, so Mama says
+it's a good, little-known spot!"
+22,Talk_19,"あっ ティクルのイチゴが！
+
+悪い子はオシオキなんだよ！
+
+今度悪いことしたら
+オシオキだからね！！","Ah, my wildberries!
+
+
+That's bad! You're bad!
+
+
+And bad people get punished! Next time
+you do something bad, you'll get it!"
+23,Talk_20,"あっまた悪いことしてる！
+
+悪い子はオシオキだからね！！","AHHH! You did another bad thing!
+
+
+Bad people get punished!"
+24,Talk_21,"ふふっ
+イ・チ・ゴは返してもらったよ！","Heehee! Berries are great, but money is
+even more great!"
+25,Talk_22,"うーん…
+やっぱ オシオキはやめとく
+だって このイチゴさん
+また ニョキニョキ生えてくるから！","Hmm... Maybe you don't need to get
+punished after all...
+
+I can just plant this wildberry and it will
+come back up like SHLOOP! SHLOOP!
+SHLOOP!"
+26,Talk_23,"ティックルの ティックルの イッチゴちゃん～♪
+はっやく生っえて こっないかな～♪","♪Dalia's berries...
+Taste so light and airy...♪"

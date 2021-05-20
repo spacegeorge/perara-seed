@@ -1,0 +1,252 @@
+#,Title,JPja,USen
+1,"""0000""",どこにいるの？,Where is she?
+2,"""0001""",わかった,"OK, will do."
+3,"""0003""",お師匠さまのこと教えて,Your mentor?
+4,"""0004""",おやすみ,Good night.
+5,"""0005""",実は…,"Well, you see..."
+6,"""0006""",お師匠さま？,Mentor?
+7,"""0007""",へぇ…,You don't say...
+8,"""0008""",なんでわかるの？,How did you know?
+9,"""0009""",違います,Nope.
+10,Near00,アイタタ…,Ouch...
+11,Near01,おやおや,Hrm...
+12,SupriseHouse,ひゃっ！,Eek!
+13,Talk01,"おお旅のお方…
+少し足を挫いてしまいましてねぇ…","Traveler! I'm sorry, but I seem to have
+twisted my ankle..."
+14,Talk02,"さようでございましたか…
+
+そのシーカーストーンは
+選ばれし者の証…
+もう その事を知る者は
+少なくなってしまいましたがね…
+我々シーカー族は ずっと貴方様を
+お待ち申し上げておりました
+さあ まずは我らが長である
+インパ様の元へ お行きなされ","Yes. I see...
+
+
+That Sheikah Slate is a symbol. It means
+you are the hero of legend.
+
+Though there are few who know of such
+legends anymore...
+
+But we Sheikah have been waiting
+for you for a very long time.
+
+Please...before all else, I must insist that
+you meet with our leader, Lady Impa."
+15,Talk03,"インパ様のお屋敷は
+あちらのハゴロモ滝の下でございます","Lady Impa's house is below
+Lantern Falls—just over there."
+16,Talk04,"それにしても…""貴方様にお会いできるなんて…
+長生き してみるものですねぇ","In any case... It was a real honor to meet
+you. Heh, I suppose you're used to that,
+having lived as long as you have."
+17,Talk05,まずはインパ様のお屋敷に お行きなされ,"Before all else, go to Lady Impa's house."
+18,Talk06,"見たところ そのシーカーストーンは
+まだその力を十分に発揮できてないご様子
+お師匠様ならば
+きっと お力になれることでしょう
+まぁ…
+
+その…
+
+少し変わり者ではありますが…","It seems you haven't yet been able to
+get that Sheikah Slate fully functioning.
+I'm certain my mentor can help you.
+However...
+
+
+Um...
+
+
+Just know that this mentor of mine is...
+a bit odd..."
+19,Talk07,"ほっほっほ…
+プルアは私の師でございますゆえ…
+大厄災の時何があったのかも
+伝え聞いて おりますでのぅ…
+シーカーストーンは姫様が大切にされていたもの
+姫様の思い出が つまったものでございます
+無事貴方様の手に渡り
+姫様も喜ばれていることでしょう","Heh... You see, Purah is my mentor.
+
+
+Through her, I have heard much
+about what took place during the
+Great Calamity.
+The princess took special care of that
+Sheikah Slate. It carries so many of
+her memories within it.
+I am certain she would be happy to know
+it made its way safely to you."
+20,Talk08,"お師匠様のおります ハテノ村は
+ここよりも はるか東の彼方…道中お気をつけて","My mentor is in Hateno Village.
+It's to the far east of here.
+I wish you safe travels."
+21,Talk09,"見たところ そのシーカーストーンは
+まだその力を十分に発揮できてないご様子
+お師匠様ならば
+きっと お力になれることでしょう","It seems you haven't yet been able to
+get that Sheikah Slate fully functioning...
+I'm certain my mentor can help you."
+22,Talk10,"まあまあ こんなボロ屋まで
+お越しいただいて…","Well now, I must thank you for taking
+the time to come all the way here to
+this dilapidated place."
+23,Talk11,"こんな所まで お越しいただいてるのに
+こんな姿で申し訳ありませぬ…
+この婆に何かご用でございますか？","I'm so sorry you've traveled this far
+just to see me...in this state...
+
+If only I had heeded my mentor's
+warning...
+
+I may look frightful, but is there
+something I can do for you?"
+24,Talk14,"ほっほっほ…
+
+それにしても
+その英傑の服… よくお似合いでございます
+リンク様が腕を通された姿を
+この目で見れる日がくるとは…
+夢のようでございます","Heh. Well, I'll be... That Champion's tunic
+certainly suits you.
+
+Master Link, I never thought I would
+see you in that with my own eyes...
+It's like a dream come true."
+25,Talk18,よっこらしょっと…,"Hmm, let's see here..."
+26,Talk19_1,"いやいや お恥ずかしいところを
+見られてしまいましたね～
+……","I'm sorry you had to see me like that.
+
+
+..."
+27,Talk19_2,旅のお方…,"Say, traveler..."
+28,Talk19_3,"その…
+御腰につけられているものは どちらで？","Where did you get that...object hanging
+from your waist?"
+29,Talk20,"はいはい
+おやすみなさいまし","Yes, indeed. Good night."
+30,Talk21,"このような姿で申し訳ございませぬ
+
+まぁ… お疲れが顔にでておりますよ
+
+この村には宿屋もございます
+リンク様も お早くお休みください","I'm sorry to have greeted you this way.
+
+
+My goodness... You look exhausted.
+
+
+There's an inn in this village.
+Please get some rest there."
+31,Talk22,"リンク殿 でございますね…
+
+ほっほっほ…
+そのように ポカンとされなくとも
+その腰につけられている
+シーカーストーンをみれば わかりますとも
+プルアに会われたのですね？","So...you must be Master Link.
+
+
+Heh. Do not look so surprised.
+I know just who you are because of
+that Sheikah Slate on your waist.
+You've met with Purah, haven't you?"
+32,Talk23,"シーカーストーンは姫様が大切にされていたもの
+姫様の思い出が つまったものでございます
+無事貴方様の手に渡り
+姫様も喜ばれていることでしょう","The princess took special care of that
+Sheikah Slate. It carries so many of
+her memories within it.
+I am certain she would be happy to know
+it made its way safely to you."
+33,Talk24,"これはこれは申し訳ありません
+
+私のお師匠様は この村から はるか東にある
+ハテノ村の研究所におります
+あの人は ゼルダ姫様と共に
+様々な研究をしておりましたゆえ
+大厄災の時何があったのかも
+伝え聞いておりますでのぅ","Forgive me for getting ahead of myself.
+
+
+My mentor works at the research center
+to the far east of here, in a place called
+Hateno Village.
+My mentor always told me stories about
+doing extensive research with Princess
+Zelda herself.
+I was also told a great deal about what
+happened...during the Great Calamity."
+34,Talk25,"リンク殿 でございますね…
+
+ほっほっほ…
+そのように ポカンとされなくとも
+その お腰につけられている
+シーカーストーンをみれば わかりますとも
+それは私のお師匠様が
+深く かかわっておりますゆえ","So...you are Master Link.
+
+
+Heh. Do not look so surprised.
+I know just who you are because of
+that Sheikah Slate on your waist.
+My mentor knows much about it.
+About you."
+35,Talk26,"お師匠様は ゼルダ姫様の元で
+シーカーストーンの研究を しておりました
+今は この村からはるか東にある
+ハテノ村の研究所におります
+まぁ…
+
+その…
+
+少し変わり者ではありますが…","My mentor used to work closely with
+Princess Zelda in her research of
+that Sheikah Slate.
+Go to the research facility in
+Hateno Village, located to the
+far east of here.
+However...
+
+
+Um...
+
+
+Just know that this mentor of mine is...
+a bit odd."
+36,Talk27,"ほっほっほ…
+隠さなくとも私にはわかるのですよ
+プルアは私の師でございますゆえ…
+
+大厄災の時何があったのかも
+伝え聞いておりますでのぅ…
+シーカーストーンは姫様が大切にされていたもの
+姫様の思い出が つまったものでございます
+無事貴方様の手に渡り
+姫様も喜ばれていることでしょう","Heh. There's no point trying to deny it.
+You see, Purah is my mentor.
+
+Through her, I have heard much
+about what took place during the
+Great Calamity.
+The princess took special care of that
+Sheikah Slate. It carries so many of
+her memories within it.
+I am certain she would be happy to know
+it made its way safely to you."
+37,Talk28,"おや…
+
+どなたかと思えば…","Hm?
+
+
+Well, well. Look who's here..."
+38,Talk29,"あのハゴロモ滝を目印にされると
+良うございましょう",Just head toward Lantern Falls.
+39,TerrorBomb,おお… それは…！,Is that—?!
+40,TerrorSword,ご勘弁くだされ,Show some compassion...

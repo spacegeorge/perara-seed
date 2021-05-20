@@ -1,0 +1,17 @@
+#,Title,JPja,USen
+1,"""0001""",在庫数,Stock
+2,"""0002""",商品一覧,All Items
+3,"""0003""",商品一覧,All Items
+4,"""0004""",古代兵装一覧,All Ancient Soldier Gear
+5,"""0005""",写し絵一覧,All Pictures
+6,"""0006""",タテガミ一覧,All Manes
+7,"""0007""",手綱一覧,All Bridles
+8,"""0008""",くら一覧,All Saddles
+9,Pa_GuideA_00-T_Guide_00,選ぶ,Select
+10,Pa_GuideB_00-T_Guide_00,戻る,Back
+11,Pa_Page_5x1_00-Pa_Btn_00-T_SoldOut_00,売り切れ,Sold Out
+12,Pa_Page_5x1_00-Pa_Btn_01-T_SoldOut_00,売り切れ,Sold Out
+13,Pa_Page_5x1_00-Pa_Btn_02-T_SoldOut_00,売り切れ,Sold Out
+14,Pa_Page_5x1_00-Pa_Btn_03-T_SoldOut_00,売り切れ,Sold Out
+15,Pa_Page_5x1_00-Pa_Btn_04-T_SoldOut_00,売り切れ,Sold Out
+16,T_Guide_01,値段,Price

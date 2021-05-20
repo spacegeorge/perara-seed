@@ -1,0 +1,40 @@
+#,Title,JPja,USen
+1,QL_isso_treasure_mini_Desc,"湿原の馬宿のイッソーが
+何やら怪しげに ハイリア川を眺めていた
+
+ハイリア川の水底に沈む
+宝箱の中身が気になって仕方がないらしいが
+引き上げられなくて困っているようだ","You noticed Izra at the Wetland Stable staring
+keenly into Hylia River.
+
+His attention was fixed on atreasure chest on
+the bed of Hylia River, but he is at a loss as
+to how to bring it to the surface."
+2,QL_isso_treasure_mini_Finish,"ハイリア川に沈んでいた
+宝箱を引き上げ
+中身をイッソーに報告した
+
+イッソーはスッキリした様子で
+湿原の馬宿へ帰って行った","You pulled the sunken treasure chest from the
+bed of Hylia River and reported its contents
+to Izra.
+
+Izra went home satisfied to the Wetland Stable."
+3,QL_isso_treasure_mini_Name,水底に沈むお宝,Riverbed Reward
+4,QL_isso_treasure_mini_Step1,"ハイリア川に沈んでいた
+宝箱を引き上げた
+
+その中身をイッソーに報告するため
+宝箱を開けて取りだしてみよう","You pulled the sunken treasure chest from the
+bed of Hylia River.
+
+Open the chest so you can tellIzrawhat you
+found inside."
+5,QL_isso_treasure_mini_Step2,"ハイリア川に沈んでいた
+宝箱を引き上げ 中のものを取りだした
+
+宝箱の中に何が入っていたのか
+イッソーに報告しよう","You pulled the sunken treasure chest from the
+bed of Hylia River.
+
+TellIzrawhat you found inside."

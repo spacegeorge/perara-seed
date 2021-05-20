@@ -1,0 +1,152 @@
+#,Title,JPja,USen
+1,"""0000""",何も…,"Oh, nothing."
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",キミは？,And you are?
+4,"""0003""",あるよ,There is.
+5,"""0004""",イチカラ村！,Tarrey Town.
+6,"""0005""",教えない,Not your business.
+7,"""0006""",名前の最後が「ダ」…,"Name ends in \""son.\"""
+8,"""0007""",お名前は？,What's your name?
+9,near00,さて… と,Well then...
+10,near01,……,...
+11,near02,ふぅ…,Phew...
+12,near03,フン！ フン！,Hmph... Hmph...
+13,talk00,何？,Yeah?
+14,talk02,…話すなら腰を下ろしてからにして欲しいゴロ,"...If you wanna talk, how about givin'
+me a chance to sit down first?"
+15,talk03,休憩中なのに…何？,"Come on, I'm on break... 
+What is it?"
+16,talk04,ボクはグレーダ,"I'm Greyson.
+"
+17,talk05,…キミか,You again.
+18,talk07,"この腕っぷしの強さを活かして
+人様に貢献できる仕事が どっかに無いかなァ？","Is there a job out there for me that'd
+let me use my strength to make
+a difference?"
+19,talk08,"え…？あるゴロ？
+
+場所はどこ？詳しく教えてよ","Huh? There is?
+
+
+Where? Please, tell me more!"
+20,talk09,"イチカラ村… そこに ボクを
+必要としている人が居るゴロね
+アッカレ地方なら ここから近いゴロ…
+よ… よし善は急げゴロよ","Tarrey Town... So there is somewhere
+out there that needs me...
+
+Hmm, Akkala isn't too far from here.
+All right! I'm gonna do it! I'm gonna
+strike while the iron is hot!"
+21,talk10,"ボクの腕っぷしの強さを活かせる職場…
+知ってたら教えて欲しいゴロ","If ya know of another job I can do that
+would make good use of my strength...
+lemme know, will ya?"
+22,talk120,"キミかー！
+ボク見ての通りバリバリやってるゴロよ！
+岩を壊せば エノキダに褒められるし
+ちょっとだけ鉱石も採れるみたいゴロ！
+なので弟のププンダが鉱石屋を始めたんで
+また見てやって欲しいゴロ！","Hey! It's you! As you can see,
+I'm workin' real hard!
+
+Hudson praises me a ton for breakin'
+these rocks. We're findin' some nice
+ore too!
+My little brother, Pelison, even started an
+ore shop. Check it out when ya get
+a chance!"
+23,talk122,オイッス！,Heya!
+24,talk123,やー！,Yo!
+25,talk124,エノキダは ここに村を作るって言ってるゴロ！,Hudson's buildin' a village here!
+26,talk125,だから岩を壊して壊して壊しまくるゴロ！,"So I gotta break, break, break
+all these rocks!"
+27,talk126,"岩を壊せば エノキダも喜ぶし鉱石も出るし
+村が出来たら人も集まるゴロ！
+まさにいい事づくめ！みんな嬉しいゴロ！","Breakin' up these rocks will make
+Hudson happy and also score us
+some ore.
+When the village is built, people will flock
+here! It's one good thing after another!
+We'll all be so happy!"
+28,talk127,ゴロォ！,Huzzah!
+29,talk128,オーー！,OH!
+30,talk129,"いい結婚式だったゴロ
+
+さーて…ボクはもう やる事無いし
+ゆっくりさせてもらうゴロ","That sure was a nice wedding ceremony.
+
+
+Well then... There's nothin' left for me to
+do here, so I'm gonna take it easy!"
+31,talk130,"噴水前に立ってたら
+いきなり結婚式が始まって びっくりしたゴロ！
+エノキダのヤツ長い付き合いなのに
+水臭いゴロ～！
+まいい結婚式だったから結果オーライゴロ！","I was just standin' around when a
+wedding started outta nowhere
+and took me by surprise!
+I've known Hudson for ages, and he
+never said a word about it. Can you
+believe that?!
+Well, it was a nice wedding ceremony,
+so I guess all's well that ends well!"
+32,talk132,"岩壊し終わったゴロ！
+
+だから ここに立ってろって言われたゴロ
+何が始まるゴロ？","I'm all done breakin' the rocks!
+
+
+I was told to stand here... Is somethin'
+supposed to happen?"
+33,talk133,"それにしても ここからの景色は なかなかゴロ
+
+故郷のあるデスマウンテンも見えるけど…
+ボクはこのイチカラ村が好きゴロ！","Anyhow, the view from here is real nice.
+
+
+You can even see home from here.
+Isn't Death Mountain somethin' else?
+Still...I prefer it here in Tarrey Town!"
+34,talk14,…だから何？,"Yeah, so...what do ya want?"
+35,talk15,そうと決まれば…,While I'm at it...
+36,talk16,ププンダ！行くゴロォ！,Pelison! We're gonna leave!
+37,talk17,フン…,Hmph.
+38,talk18,"グレーダ
+そんなの聞いて どうするゴロ？","The name's Greyson.
+What's it to you?"
+39,talk19,"イチカラ村？聞いたことないゴロ
+詳しく教えるゴロ","Tarrey Town? Never heard of it.
+What's the deal with that place?"
+40,talk20,"フンフン… へぇ…
+アッカレ地方…","Hmm... Hrmm...
+Akkala..."
+41,talk21,何…？,What?
+42,talk22,…だから何？,...So what?
+43,talk23,何か用？,You need somethin'?
+44,talk24,それがどうしたゴロ,What about it?
+45,talk25,"今は働く時間ゴロ
+夜の休憩時間にでも ゆっくり話すゴロ","It's time to work now. If ya wanna talk,
+come back at night when I'm relaxin'."
+46,talk26,"キミ…
+いい加減 しつこいゴロ","Well, thanks for pointin' out the obvious."
+47,talk27,だから グレーダって言ってるゴロ,"I told ya, it's Greyson.
+Clean your ears out."
+48,talk28,"見ての通りの採掘員ゴロ
+毎日毎日採掘採掘…やんなったゴロ
+ボクは…こんな所で
+燻ってる場合じゃ無いと思うゴロ","I'm a digger here, as you can see.
+I dig and I dig... Day in and day out...
+To be honest, I'm sick of it.
+I feel like...maybe I'm not meant to toil
+away in obscurity like this. *sigh*"
+49,talk29,"グレーダ
+一度言ったら覚えて欲しいゴロ","Greyson. I don't like repeatin' myself,
+though. So just remember that, OK?"
+50,talk30,…コロ？,Hm?
+51,talk31,"教えてくれてありがとう！
+早速 ププンダと一緒に行くゴロ！","Thanks for lettin' me know, brother!
+Pelison and I are gonna head there
+right away!"
+52,talk32,…話なら ボクが休憩中にして欲しいゴロ,"...If ya wanna chat, can you at least wait
+until I'm on my break?"

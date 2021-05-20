@@ -1,0 +1,134 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes.
+2,"""0001""",いいえ,No.
+3,"""0002""",シド王子って？,Prince Sidon?
+4,"""0003""",お爺様連中って？,Pack of geezers?
+5,"""0004""",さようなら,Good-bye.
+6,"""0005""",ルッタって？,Ruta?
+7,near00,シド王子♪,♪Prince Sidon...♪ 
+8,near01,すごいですわ,Amazing!
+9,talk00,おはようございます,Good morning.
+10,talk01,こんにちは,Good day.
+11,talk02,こんばんは,Good evening.
+12,talk03,はい…,Yes?
+13,talk05,私に ご用ですか？,Do you need something?
+14,talk06,"あっヒレが無い人…
+あなた ハイリア人？","Hm? You don't have any fins...
+Are you a Hylian?"
+15,talk07,"あっ…あなたは？
+
+ゾーラ川で会ったような
+会わなかったような…","Oh! Are you?!
+
+
+I feel like we may or may not have
+met before...at Zora River..."
+16,talk08,"私はシド王子親衛隊
+隊長のルトアと申します
+あなた…シド王子をご存じ？","I am the president of Prince Sidon's
+fan club. My name is Tula.
+
+Do you...know Prince Sidon?"
+17,talk09,ごきげんよう,Farewell.
+18,talk10,"ああ…シド王子…
+あなたの事を考えるだけで体がとろけそう…
+それに引き替え里のお爺様連中ときたら…
+
+ああ… ごめんなさい…
+
+とにかくシド王子は
+素晴らしい考えを お持ちのお方
+あなたも一度シド王子と
+お話されてみては いかが？","Ahhh... Mmm... Prince Sidon...
+Just thinking of you turns me
+to mush...
+On the other hand, if that pack of geezers shows
+up again, I swear...
+
+Oh! I'm sorry...
+
+
+*ahem* Anyway... Prince Sidon is a man
+with magnificent ideas.
+
+Oh, I know! Why don't you go and have
+a chat with Prince Sidon? Yes, do!"
+19,talk11,"流石 シド王子！その名声は
+ハイリアの方にまで届いているのですね","That's just what I'd expect from our
+Prince Sidon! His renown has even
+reached you, Hylian."
+20,talk12,あら そう…,Oh. I see...
+21,talk13,そこ…邪魔なんだけど…,You're...in my way...
+22,talk14,他に ご質問がありまして？,Do you have any more questions?
+23,talk15,"光に反射して輝く爽やかな牙
+きめ細やかで美しい色のサメ肌…
+シド王子のお姿を想像しただけで
+私 もう…","He has shiny, glorious fangs...
+and smooth, shimmering skin...
+
+Just imagining Prince Sidon's fine form...
+I just... *siiiigh*"
+24,talk16,"お爺様方は どうも自分達…ゾーラ族だけで
+ルッタを止めるつもりですの
+ゾーラは電気の矢に長時間触るのは
+無理に決まってるのに…
+一方 シド王子は ゾーラ族以外の人に
+電気の矢を撃ってもらおうと お考えですの
+流石はシド王子…
+お考えが先鋭的ですわ","The Zora elders intend for our people to
+stop Ruta without any outside help.
+
+Even though touching shock arrows for an
+extended period of time is impossible for us...
+
+Prince Sidon, on the other hand, had the
+idea that we could ask an outsider to
+shoot the shock arrows for us!
+That's our Prince Sidon for you...
+He has such bold ideas!"
+25,talk17,"ルッタとは東の貯水湖に居る
+神獣 ヴァ・ルッタの事ですわ","By Ruta, I mean Divine Beast Vah Ruta in
+East Reservoir Lake."
+26,talk19,"この雨を降らせてる張本人ですの
+
+でも シド王子が
+ルッタを止めるには電気の矢が必要
+ってところまで突き止めてくださいましたのよ
+
+でも ゾーラ族が電気の矢を扱うにも
+限度がありましょう？
+だから あなたのようなハイリア人が
+協力してくれれば シド王子も喜ぶと思いますの","He's the culprit. The one who's making
+it rain and causing all this trouble.
+
+Prince Sidon needs shock arrows
+to stop Ruta... That much he knows
+for sure.
+But we Zora can only hold shock arrows
+for a very limited time before...you know.
+Let's just say it's very dangerous for us.
+However, if a Hylian like you were to help
+us out, I know Prince Sidon would be
+very grateful!"
+27,talk20,"…そういえば最近里に晴れ間が
+見えるようになりましたね
+ひょっとして シド王子が
+ルッタを仕留めたのかしら？","Speaking of which... The bad weather
+seems to have calmed down a bit lately.
+
+Is it possible...that Prince Sidon finally
+appeased Ruta?"
+28,talk21,"ええ聞いていますわ
+あなた…すごい人だったんですね
+とにかく里を救ってくれて
+ありがとうございます","Yes, I've heard all about it. You...
+You're an amazing guy, aren't you?
+
+Yes, you are. You saved us all.
+Thank you."
+29,talk22,里を救ってくださって ありがとうございます,Thank you for saving the domain!
+30,talk23,これでミファー様の魂も浮かばれますわ,"Now Lady Mipha's spirit can finally rest
+in peace."
+31,talk24,"あっ…シド王子の選んだハイリア人って
+あなたの事ですね？","Oh! So the Hylian chosen by Prince
+Sidon... That's you, isn't it?"

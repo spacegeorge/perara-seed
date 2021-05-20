@@ -1,0 +1,11 @@
+#,Title,JPja,USen
+1,talk00,"残りの制御端末は あと 3個です
+",There are three terminals remaining.
+2,talk01,"残りの制御端末は あと 2個です
+",There are two terminals remaining.
+3,talk02,"残りの制御端末は あと 1個です
+",There is one terminal remaining.
+4,talk03,"制御端末から全てのロックが解除されました
+最深部への進入が可能です","All terminal locks have been deactivated.
+You can now access the deepest area."
+5,talk04,扉のロックを 1つ解除します,Deactivating one lock of the door.

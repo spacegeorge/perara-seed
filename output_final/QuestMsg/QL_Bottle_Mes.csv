@@ -1,0 +1,47 @@
+#,Title,JPja,USen
+1,QL_Bottle_Mes_Desc,"メッセージボトルを追いかけて
+それを受け取る『彼』に会おう
+
+ボトルは壊れやすいらしい
+気を付けて追いかける必要がありそうだ
+
+ボトルを見失ってしまった時は
+フィネの元に戻ってみよう","Follow theletterdown the river without losing
+sight of it, and find out who receives it. The
+letter's casing is fragile, so take care when
+pursuing it downstream.
+
+If you lose sight of the letter, return to Finley
+to try again."
+2,QL_Bottle_Mes_Finish,"ササノは無事 ゾーラの里にたどり着き
+フィネと出会っていた
+
+ササノにもっと たくましくなって欲しいという
+新しいフィネの願いは叶うだろうか？","Sasan arrived safely at Zora's Domain and met
+with Finley. Your part in the matter is concluded,
+though it remains to be seen whether Sasan
+can put on the muscle Finley hopes for."
+3,QL_Bottle_Mes_Name,メッセージボトルの行方,Special Delivery
+4,QL_Bottle_Mes_Step10,"メッセージボトルは壊れやすい
+気を付けて追いかける必要がありそうだ
+
+ボトルを見失ってしまった時は
+フィネの元にもどろう","Theletter's casing is fragile, so keep a close
+eye on it.
+
+If you lose sight of the letter, return to Finley
+to try again."
+5,QL_Bottle_Mes_Step20,,
+6,QL_Bottle_Mes_Step30,"メッセージボトルを受け取っていたのは
+ササノだった
+
+ササノはフィネに会いに
+ゾーラの里に向かうようだ
+
+フィネも里に戻っているかもしれない
+ゾーラの里に行ってみよう","It turns out that Sasan picked up the message.
+He's heading to Zora's Domain to meet
+Finley now.
+
+If you want to see what happens, you should
+get toZora's Domain too..."

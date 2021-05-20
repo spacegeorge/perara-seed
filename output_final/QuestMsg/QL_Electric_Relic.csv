@@ -1,0 +1,110 @@
+#,Title,JPja,USen
+1,QL_Electric_Relic_Arrival,"賊のアジトに到着した！
+中からは大勢の気配を感じる
+戦いになると不利そうだ
+
+こっそりと潜入して
+ゲルド族の神器を取り返そう","You've arrived in the thieves' hideout! You can
+sense many people waiting within—you would
+be at a disadvantage if a fight were to
+break out.
+
+Sneak into the hideout, and recover the
+Gerudo chief's heirloom."
+2,QL_Electric_Relic_Defeat,"神獣 ヴァ・ナボリスの深部で
+雷のカースガノンを倒した！
+
+ウルボザの神獣 ヴァ・ナボリスは
+ゲルド砂漠の東に鎮座した
+
+ゲルドの街に戻って
+族長ルージュに報告しよう！","You defeated the Thunderblight Ganon
+lurking deep within the
+Divine Beast Vah Naboris!
+
+Urbosa's Divine Beast Vah Naboris has
+taken up a position in the eastern region of
+the Gerudo Desert.
+
+Make your way back to Gerudo Town, and
+report to the chief of the Gerudo, Riju!"
+3,QL_Electric_Relic_Deliver,"いよいよ神獣 ヴァ・ナボリスとの戦いとなる
+ルージュの待つ 監視所へ向かおう
+
+ルージュの話によると
+スナザラシの操縦に慣れておいた方が
+戦いが有利に進むようだ","At last you are ready to take on the
+Divine Beast Vah Naboris. Head for the
+lookout post where Riju is waiting for you.
+
+Riju has told you that a fight with the Divine
+Beast will go much more smoothly for one
+who knows how to sand-seal surf."
+4,QL_Electric_Relic_Desc,"ゲルド族の長ルージュから
+神獣 ヴァ・ナボリスを鎮めるため
+協力してほしいと頼まれた
+
+まずは賊に奪われてしまったゲルド族の神器を
+奪還する必要がありそうだ
+賊に関する情報は 兵舎にいる
+隊長のチークが知っているらしい","The leader of the Gerudo, Lady Riju, asked for
+your help in conquering
+Divine Beast Vah Naboris.
+
+Before you can confront the Divine Beast, the
+Gerudo need help recovering the chief's
+heirloom, which has been stolen. CaptainTeake
+in the soldiers' barracks has the latest
+information on the thieves."
+5,QL_Electric_Relic_Finish,"神獣 ヴァ・ナボリスを鎮めたことを
+ルージュに報告した！
+
+英傑加護の1つ
+『ウルボザの怒り』を使えるようになった","You've reported to Riju that you've conquered
+Divine Beast Vah Naboris!
+
+You've learned how to use Urbosa's Fury,
+one of the Champions' blessings."
+6,QL_Electric_Relic_GetBack,"賊のボスから ゲルド族の神器を取り返した！
+
+さっそくゲルドの街に戻って
+ルージュに渡してあげよう","You retrieved the chief's heirloom from the
+thieves' leader!
+
+It's time to head back to Gerudo Town
+and return the heirloom to Riju!"
+7,QL_Electric_Relic_Invasion,"神獣 ヴァ・ナボリスの4つの足を破壊し
+動きをとめることに成功した！
+
+内部へ侵入して 
+ナボリスを完全に鎮めよう","You succeeded in taking out all four of the
+Divine Beast Vah Naboris's feet, stopping
+its movement!
+
+Continue your quest by entering Naboris."
+8,QL_Electric_Relic_Name,雷の神獣 ヴァ・ナボリス,Divine Beast Vah Naboris
+9,QL_Electric_Relic_Search,"隊長のチークから賊の情報を聞いた
+賊のアジトは カルサー谷にあることまでは
+突き止めたらしいが
+アジトに乗り込むには至ってないらしい
+
+兵舎でより詳しい情報を集め
+賊のアジトへ向かおう","After speaking with Captain Teake, you learned
+that the thieves are hiding out inKarusa Valley,
+but the hideout itself has not been scouted by
+any of the soldiers.
+
+Gather additional information from the soldiers,
+and then head for the thieves' hideout."
+10,QL_Electric_Relic_Strategy,"神獣 ヴァ・ナボリスとの戦いが始まった
+4つの足をバクダン矢で撃ち抜き
+動きを止めなければならない
+
+強烈な落雷は ルージュの側にいれば
+無効化されるようだ","The fight with the Divine Beast Vah Naboris
+has begun. Attack the feet of the Divine Beast
+using bomb arrows to stop its movement.
+
+It seems that staying close to Riju will nullify the
+effects of the Divine Beast's powerful lightning
+attacks."

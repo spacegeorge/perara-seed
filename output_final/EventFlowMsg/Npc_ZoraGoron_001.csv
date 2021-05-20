@@ -1,0 +1,72 @@
+#,Title,JPja,USen
+1,"""0000""",どこから来たの？,Where are you from?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",デスマウンテンって？,Death Mountain?
+4,"""0003""",石を食べるの？,You eat rocks?
+5,talk00,やぁ,Hey.
+6,talk01,"でもボクは電気の矢は触れるけど
+体重が重たいから
+「キミを背中に乗せるのは無理だゾ！」
+
+って シド王子に言われたゴロ…
+
+なんか失礼な話だよねぇ？","That's cuz I can touch shock arrows.
+But I also weigh...well, a lot.
+
+\""There's no way I'll be able to carry you
+on my back!\""
+
+...That's what Prince Sidon said to me.
+
+
+That was kinda rude of him, wasn't it?"
+7,talk02,"ハイリア人だね
+この辺では珍しいね","You're a Hylian, aren't you? It's rare to
+see your kind around here."
+8,talk03,"ボクは旅の途中で近くを通りかかったところを
+シド王子に ここまで誘導されたゴロ","As for me, I was roamin' nearby during
+my travels when Prince Sidon recruited
+me and brought me here."
+9,talk04,おヒマなら お話でもするゴロ？,"If you're free, would ya like to chat?"
+10,talk05,またゴロ～,See ya!
+11,talk06,"ゴロンシティってとこゴロ
+
+デスマウンテンの途中にある町ゴロよ～","I'm from Goron City!
+It's near Death Mountain."
+12,talk07,"しっかしゾーラの里は すごいゴロね～
+水が降ってくるゴロね～","But Zora's Domain is pretty amazing, too.
+Water is fallin' down from the sky...
+Imagine that!"
+13,talk08,ここと違って すっごい熱いゴロよ～,It's super hot there. Unlike here.
+14,talk09,"ええ～！
+キミデスマウンテンを知らないゴロ？
+晴れてる日なら
+ハイラル全土のどこからでも見える火山ゴロ！
+ボク達ゴロン族は石を食べるからね
+デスマウンテン近くが住みやすいゴロよ","What? You don't know about
+Death Mountain?!
+
+On a sunny day, you can see the volcano
+from anywhere in Hyrule!
+
+Us Gorons eat rocks, ya know. So it's
+really comfortable for us to live around
+Death Mountain."
+15,talk10,"そうゴロ！美味しいゴロよ～！
+
+あっ…石は石でも宝石って呼ばれてる
+キラキラしたヤツは マズいゴロ
+あれはもう売っちゃうか…
+工房で加工の材料として使うしかないゴロね…","That's right! They're the best!
+
+
+Rocks are great, but the ones called
+gems... Ya know, the sparkly ones?
+Those taste terrible!
+Nothin' to do with those but sell 'em...
+or use 'em as craftin' materials in the
+ol' workshop."
+16,talk11,他に聞きたい事 あるゴロ？,Is there somethin' else ya wanna ask?
+17,talk12,やぁ いい天気だねぇ,"Nice weather today, isn't it?"
+18,talk13,やぁ水が気持ちいいゴロねぇ,"Hey there! The water feels nice,
+doesn't it?"

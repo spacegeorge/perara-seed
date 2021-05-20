@@ -1,0 +1,178 @@
+#,Title,JPja,USen
+1,Atacked00,どうしたらいいの私たち…,What should we do...
+2,Atacked01,魔物なんて どっか行けばいいのに…,I wish the monsters would just go away...
+3,Failed00,冒険…キライになりそう…,"Adventure... I think I might just start
+hating it..."
+4,Failed01,"イタタタ…
+なぜか魔物に襲われがちな私…","Ouchy... Why am I always attacked 
+by monsters..."
+5,Guardian00,"ガーディアンがこっちに…
+逃げなきゃ…",A Guardian... I have to get out of here...
+6,MSG_Firo_00,"なぜか魔物に襲われがちな私… 
+
+馬宿の近くって魔物が多いですよね
+怖いので一気に駆け抜けることにしまーす！","For some reason, I always seem to
+attract monsters...
+
+And it looks like there are a lot of
+monsters near the stable too. My only
+hope is to try and dash past them!"
+7,MSG_Firo_00_1,"馬宿の近くって魔物が多いですよね
+怖いので一気に駆け抜けることにしまーす！","There are lots of monsters near the 
+stable. They're really scary, so I'm going
+to try and just dash past them!"
+8,MSG_Firo_01,"あなたと違って私は冒険初心者なので
+無茶は絶対にしないんです
+フィローネの森にあるという勇気の泉は
+ご存知ですか？
+何があるかわからないので…
+私は行きません","Unlike you, I'm a newcomer to
+adventuring! I don't want to push
+myself too hard.
+Speaking of adventuring, have you heard
+of the Spring of Courage in the Faron
+Woods?
+I don't know anything about the area, so
+I don't think I'll go there... Too risky for
+a novice like me."
+9,MSG_Firo_01_1,"フィローネの森にあるという勇気の泉は
+ご存知ですか？
+何があるかわからないので…
+私は行きません","Have you ever heard of the
+Spring of Courage? It's supposed
+to be in Faron Woods.
+I have no idea what's in those woods,
+though, so I'm definitely not going there."
+10,MSG_Firo_02,"…ここから北西に たしかハイリア湖があって
+その東側に フィローネの森があるはずです
+実際には行かず地図で見ただけですけどね
+私冒険家というより冒険ファンなので","...So Lake Hylia is northwest of here, and
+then east of that should be the
+Faron Woods.
+I've never been there... I've only ever
+seen the location on maps.
+
+I suppose you could say I'm more of an
+adventuring fan than an actual
+adventurer..."
+11,MSG_Firo_02_1,"…ここから北西に たしかハイリア湖があって
+その東側に フィローネの森があるはずです","...So Lake Hylia is northwest of here,
+and east of that should be Faron Woods."
+12,MSG_Firo_03,"私冒険家というより冒険ファン…
+
+フィローネの森には古代遺跡が眠っています
+行こうとは思いませんけど ロマンですよね！","I'm more of an adventuring fan than an
+actual adventurer...
+
+You know, there are ancient ruins hidden
+away in Faron Woods. I would never go,
+but overgrown ruins sound so...romantic!"
+13,MSG_Firo_03_1,"フィローネの森には古代遺跡が眠っています
+行こうとは思いませんけど ロマンですよね！","There are ancient ruins hidden away in
+the Faron Woods. I'd never go there, but
+they sound...romantic!"
+14,MSG_Firo_04,"ここレイクサイド馬宿から さらに東に向かうと
+ウオトリー村という漁村があるんです
+もちろん魔物も漏れなく襲ってきますよ","Starting from here at Lakeside Stable, if
+you go further east, you'll come to a
+fishing village called Lurelin Village.
+Of course, it'd be awful if I left out the
+part about how you'll definitely be
+attacked by monsters along the way."
+15,MSG_Firo_04_1,"ここから さらに東に向かうと
+ウオトリー村という漁村があるんです","If you go further east from here, you'll
+eventually reach a fishing town called
+Lurelin Village."
+16,Near01,地図によると…,According to the map...
+17,Near03,夜に流れ星落ちて～,A shooting star at night...
+18,Near04,地図が濡れちゃう！,My map's gonna get wet!
+19,Rest_00,"フィローネ街道の遺跡めぐりもやってみたいけど
+なぜか魔物に襲われがちな私だから…","I would love to see all the ruins along the
+Faron Highroad, but I seem to attract
+monsters so easily..."
+20,Rest_01,"私の場合は ライト感覚の冒険だから
+雨天中止なんですー","My approach to adventuring is much
+more casual than most... For example,
+I take a break whenever it's raining out."
+21,Rest_02,"蚊に刺されやすい人っていますよね？
+私の場合は魔物に襲われがちな人…","You know how some people just seem to
+attract mosquitoes? Well, that's how I am
+with monsters, it seems..."
+22,RetMSG_Firo_00,"なぜか魔物に襲われがちな私… 
+
+高原の馬宿の近くで襲ってきた魔物は
+今でも夢で見るほど恐ろしいやつらでした！","For some reason, I always seem to
+attract monsters...
+
+The monsters that attacked me near 
+the Highland Stable were so scary, I still
+see them in my dreams sometimes!"
+23,RetMSG_Firo_00_1,"高原の馬宿の近くで襲ってきた魔物は
+今でも夢で見るほど恐ろしいやつらでした！","The monsters that attacked me near 
+the Highland Stable were so scary...
+I still sometimes see them in my dreams!"
+24,RetMSG_Firo_01,"フィローネの森は複雑だけど
+地図をよく見て歩けば安心ですよ
+私なんかは森に行かず地図だけ眺めてるので
+もっと安心なんですけどね","The Faron Woods are a little tricky, but
+as long as you keep one eye on your
+map, you should be OK.
+As for me, I'll just look at the map and
+stay put. Can't get much safer than that!"
+25,RetMSG_Firo_01_1,"フィローネの森は複雑だけど
+地図をよく見て歩けば安心ですよ","Faron Woods is tricky, but with a
+map close at hand, you should be fine!"
+26,RetMSG_Firo_02,"フィローネの森は うっそうとした森林地帯で…
+そこには龍の口と呼ばれる湖があるそうです
+冒険家の方から聞いた情報なんですけど
+誰かに話したくて ウズウズしてたんですよ","Faron Woods is really, really thick.
+I've also heard of a lake there called...
+\""Mouth of the Dragon\"" or something...
+I heard this tidbit from another
+adventurer, and I just couldn't wait to
+share it!"
+27,RetMSG_Firo_02_1,"フィローネの森は うっそうとした森林地帯で…
+そこには龍の口と呼ばれる湖があるそうです","Faron Woods is a densely wooded area...
+There's a lake there called \""Mouth of the
+Dragon,\"" or something..."
+28,RetMSG_Firo_03,"冒険は初心者の私ですが
+馬宿で いろいろな冒険家の話を聞きました
+フロリア湖には数多くの滝があるそうです
+私…滝の裏側が大好きなんです","I'm still a novice when it comes to 
+adventuring, but I do hear lots of stories 
+from adventurers at the stable.
+Like...Lake Floria has several waterfalls
+in the area! You know...I've always liked
+the idea of going behind a waterfall."
+29,RetMSG_Firo_03_1,"フロリア湖には数多くの滝があるそうです
+私…滝の裏側が大好きなんです","Lake Floria has many waterfalls.
+I want to go behind one..."
+30,RetMSG_Firo_04,"私はこれから西のフィローネの森を経由して
+高原の馬宿に向かう予定です
+冒険初心者なのでもうドッキドキです…","I plan to go to the Highland Stable via
+Faron Woods in the west.
+
+I'm still a novice adventurer, so I'm really
+excited!"
+31,RetMSG_Firo_04_1,"私はこれから高原の馬宿に向かう予定です
+冒険初心者なのでもうドッキドキです…","I plan to head for Highland Stable. I'm
+still a novice adventurer, so I'm really
+excited!"
+32,SavedLv1_00,なぜか魔物に襲われがちな私…,"I get attacked by monsters for some
+reason..."
+33,SavedLv1_01,安全な冒険って ないものかしら…,"Is there no such thing as a nice, safe 
+adventure?"
+34,SavedLv2_00,"怖かった…
+でも あなたがいてくれてよかった…","That was really scary...
+I'm glad you were around."
+35,SavedLv2_01,"ああ怖かった…
+でも もう大丈夫でしょ？","Oh, that was scary... But everything is
+gonna be all right now, right?"
+36,SavedLv3_00,"助かったの？助かったのね？！
+どうもありがとう！","I'm alive?! I'm alive! And you saved me?
+Thank you so much!"
+37,SavedLv3_01,"…魔物は？
+ああ助かったのね！ありがとう！","The monsters... Where are the...
+Oh, I'm saved! Thank you!"
+38,Thanks00,"これは お礼です
+せめてもの…","Here, take this in thanks..."

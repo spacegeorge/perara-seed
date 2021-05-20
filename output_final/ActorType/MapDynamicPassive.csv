@@ -1,0 +1,23 @@
+#,Title,JPja,USen
+1,FldObj_SearchStone_A_02_Name,石碑のかけら,Monument Shard
+2,FldObj_SearchStone_A_03_Name,石碑のかけら,Monument Shard
+3,FldObj_SearchStone_A_04_Name,石碑のかけら,Monument Shard
+4,Obj_Mineral_A_01_Name,鉱床,Ore Deposit
+5,Obj_Mineral_A_01_PictureBook,"鉱石を多く含んだ岩
+叩き壊す事で岩塩や火打ち石の他
+価値の高い鉱石など様々なものが採れる","This deposit contains a good deal of ore.
+Breaking the rock will yield rock salt, flint,
+and other ore and minerals of varying value."
+6,Obj_Mineral_B_01_Name,希少鉱床,Rare Ore Deposit
+7,Obj_Mineral_B_01_PictureBook,"貴重な鉱石を多く含んだ岩
+ルビーやサファイアといった
+希少な鉱石が採れる事もある","This deposit contains a good deal of precious
+ore and the occasional rare mineral, like ruby
+and sapphire. Break it open to see what it
+has to offer!"
+8,Obj_Mineral_C_01_Name,夜光鉱床,Luminous Stone Deposit
+9,Obj_Mineral_C_01_PictureBook,"夜光石を多く含んだ岩
+叩き壊す事で加工しやすいサイズの
+夜光石を採る事ができる","This deposit contains quite a bit of luminous
+stone. Crack it open to get at the easily
+processed rocks within."

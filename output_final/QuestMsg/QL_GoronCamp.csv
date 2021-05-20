@@ -1,0 +1,39 @@
+#,Title,JPja,USen
+1,QL_GoronCamp_Desc,"暑苦しいゴロンの三兄弟の
+キツ～イ訓練を受けることになった
+
+その名もド根性ガケ登り！！！
+
+準備ができたらバケットに話しかけよう","You signed on for the hard-core training
+regimen of the three Goron Blood Brothers.
+
+They call it theGut Check Challenge!
+
+Talk to Bayge when you're ready."
+2,QL_GoronCamp_Finish,"ガケ登りトレーニングをクリアし
+祠の入口から退いてもらった！
+
+ガケ登りは何度でも挑戦できるらしい
+さらに難しいコースもあるようだ","You showed the Goron brothers your grit knows
+no bounds, brother! You even passed the
+Gut Check Challenge in one piece.
+
+Impressed with your performance, the Goron
+Blood Brothers let you through to the ancient
+shrine. They also invited you to challenge the
+even gutsier version of the course."
+3,QL_GoronCamp_GameReady,"『なに冒険手帳なんか開いてるゴロ！
+今はトレーニングの真っ最中ゴロ！！
+さっさと頂上まで登ってくるゴロ！！！』
+
+バケット","\""Stop checking your adventure log and start
+checking your gut, brother. Go on! Hurry up
+and climb that cliff!\""
+-Bayge"
+4,QL_GoronCamp_Name,ゴロンのド根性ガケ,The Gut Check Challenge
+5,QL_GoronCamp_ResetGame,"な なぜこの文章を見ているゴロ？！
+ここの文章は本来表示されないはずゴロ！
+早く担当者に報告するんだゴロ！！！","Wh-what are you lookin' at all these words for,
+brother?! These words shouldn't even be here!
+You better report this to a supervisor
+immediately!!!"

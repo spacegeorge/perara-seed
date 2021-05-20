@@ -1,0 +1,144 @@
+#,Title,JPja,USen
+1,"""0000""",どうしたの？,Is something wrong?
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",えっ？,Hmm?
+4,"""0003""",つけたげる,I'll light it for you.
+5,"""0004""",オッケー,Easily.
+6,"""0005""",やめときます,I give up.
+7,"""0006""",やっぱやめる,No way.
+8,"""0007""",アッカレ古代研究所？,The lab?
+9,"""0008""",やりますよ！,I'll do it!
+10,"""0009""",お金取るの？！,Horse-handling fee?!
+11,"""0010""",分かりました,If you say so.
+12,Ask,どうしたの？やめちゃうの？,"You're not thinking of quitting, are you?"
+13,BeforeStart_00,はい それじゃ位置についてー,Alrighty... On your mark...get set... 
+14,BeforeStart_01,"3
+
+2
+
+1
+
+Go！",Three...Two...One...Go!
+15,BeforeStart_02,…って言ったら スタートだからね！,"See, I'll say that, and then you'll start."
+16,CantPlay_End,…消しちゃダメよ,Don't put it out!
+17,CantPlay_End_00,消しちゃダメって言ったのに…,I told you not to put it out...
+18,CantPlay_LanternOn_AfterTalk,"フフ…青い炎""キレー…","Is there anything in all the world
+as pretty as the blue flame?
+I'm thinking...no."
+19,CantPlay_LanternOn_BeforeTalk,"はぁ…青い炎…
+見てるだけで癒される…","*sigh...* Good old blue flame. It's so
+soothing to stare at, don't you think?"
+20,CantPlay_Weather,んーでも天気悪いから いいよー,"The weather's pretty lousy, though,
+so maybe not."
+21,CantPlay_Weather_00,"お礼 もう20ルピーしかあげられないけど…
+それでも やってくれる？","You can try anyway, but the reward is
+still the same 20 rupees."
+22,Explanation_00,"そうなの？
+できるんなら お願いしちゃおっかなー","You? Hmm... That's one possibility,
+I guess."
+23,Explanation_01,"だったら3分以内に
+このしょく台に青い炎 つけてみてよ！","How fast can you do it? Do you think
+you can bring the blue flame to this
+lantern in under three minutes?"
+24,Explanation_02,"だったら1分以内に
+このしょく台に青い炎 つけてみてよ！","How fast can you do it? Do you think
+you can bring the blue flame to this
+lantern in under one minute?"
+25,Explanation_03,"だったら20秒以内に
+このしょく台に青い炎 つけてみてよ！","How fast can you do it? Do you think
+you can bring the blue flame to this
+lantern in under 20 seconds?"
+26,Explanation_04,"ふんじゃ馬の保全活動の代金として
+20ルピーいただきまーす
+だって少しでも早く青い炎""運ぶなら
+馬使う事になると思うし…
+だから20ルピーね？","Great! But I'll be taking 20 rupees as a
+horse-handling fee.Well, you're going to use a horse, right?
+I don't see any other way to do it that
+fast. So yeah, 20 rupees."
+27,Explanation_05,"ふんじゃ馬の保全代
+20ルピーいただきまーす","Great! But I'll be taking 20 rupees as a
+horse-handling fee."
+28,Explanation_06,まいどありっ♪,You won't regret it!
+29,Explanation_07,"…あれ？ ルピー足りてないよ？
+
+20ルピー貯まったら また来てよ","Unless I'm counting wrong...this isn't
+enough rupees. Come back when you've
+saved up at least 20 rupees."
+30,Explanation_08,ありがとう！,Thank you!
+31,Fail,"失敗かー…ぬぬぬ
+
+また挑戦したくなったら
+青い炎がついてない時に声かけてね","You failed... Why'd you go and get my
+hopes up?I hope you'll try again sometime. Come
+talk to me when the blue flame isn't lit."
+32,Fail02,"さすがに雨に降られたら
+青い炎は運べないよねー
+天気がよくなったら青い炎
+運ぶの挑戦してみて","Of course, if the rain hits it, it's bye-bye
+blue flame.You'll never get it here in this weather.
+Wait for it to clear up, and then give it
+another try."
+33,FirstTalk_00,はぁ…,*sigh...*
+34,FirstTalk_01,青い炎…,The blue flame...
+35,FirstTalk_02,"あっごめんなさい
+
+私 ここに嫁いで来てから
+毎日が退屈でさ…
+このしょく台に灯る青い炎見るのだけが
+楽しみだったんだけど
+最近アッカレ古代研究所の所長さん
+火をつけに来てくれないんだよね…","Oh, sorry! Guess I was daydreaming.Life has been so dull since I married into
+this family. I used to pass the time by
+staring at the lantern's blue flame...
+But the director at the
+Akkala Ancient Tech Lab hasn't
+lit the fire in so long."
+36,FirstTalk_03,"アッカレ古代研究所の所長さん…
+
+またこのしょく台に
+青い炎つけに来てくれないかな…","What's wrong with the director?Why won't he light the lanterns with
+that beautiful blue flame again?"
+37,FirstTalk_04,"うん…そこの所長さんが研究と称して
+この辺りのしょく台に青い炎をつけて回ってね
+でももう所長さんも結構なお年だし
+最近はなかなか外出されないのかな…","Yes... Its director used to light the
+lanterns with a blue flame for his
+experiments.
+But he's getting up there in age now,
+so maybe he can't get out as often as
+he used to."
+38,FirstTalk_05,"ちなみにアッカレ古代研究所に行くなら
+この道をまっすぐよ","I'm talking about the 
+Akkala Ancient Tech Lab right
+up this road, if you haven't been."
+39,FirstTalk_06,灯台を改築した建物だから すぐに分かると思う,"They remodeled it from an old
+lighthouse, so it's easy to spot."
+40,Goodbye,じゃあ またね！ バイバイ！,I'll see you later! Bye!
+41,Goodbye_01,だよねー…,"Well, thanks anyway."
+42,Greetings_AboutNoon,こんちはー,Hello!
+43,Greetings_Again,はーい,"Hi, hi!"
+44,Greetings_Morning,おはよー,G'morning!
+45,Greetings_Night,こんばんはー,Evening!
+46,Near_Game,わくわく♪,So excited!
+47,Near_LanternOff,はぁ…,*sigh*
+48,Near_LanternOn,♪～,Tum te dum...
+49,NotAccept_00,うん…,Good-bye.
+50,NotAccept_01,そっかー…,I see...
+51,Please_00,じゃ3分以内に お願いね！,Remember—three minutes or less!
+52,Please_01,じゃ1分以内に お願いね！,Remember—one minute or less!
+53,Please_02,じゃ20秒以内に お願いね！,Remember—20 seconds or less!
+54,Restart,じゃあ よろしく！,You can do it! I know you can!
+55,Reward,おっと…お礼しなくちゃね,"I really ought to do something to thank
+you, huh?"
+56,Succeed_First,"すごいすごい！
+ホントにつけちゃった！","Unbelievable! It's back! The blue flame
+is really back!"
+57,Succeed_Rain,雨だから特別ボーナス！,"You even managed to light it in the rain?!
+That deserves a little something extra!"
+58,Talk_AfterMiniGameClear,"青い炎消えちゃった…
+よかったらまた つけてくれるかな？","The blue flame went out...
+Can you light it again?"
+59,Talk_BeforeMiniGameClear,"このしょく台についた青い炎…
+もう見れないのかな…","Will I ever get to see that wondrous
+blue flame in its lantern again?"

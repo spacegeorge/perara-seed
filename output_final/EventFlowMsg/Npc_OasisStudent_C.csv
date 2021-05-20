@@ -1,0 +1,67 @@
+#,Title,JPja,USen
+1,"""0000""",アップすると？,The color? How?
+2,"""0001""",似合ってます,It looks good on you.
+3,"""0002""",微妙な料理？,Dubious food?
+4,"""0003""",さよなら,Good-bye.
+5,TerrorArrow,やっ！,Hey!
+6,TerrorBomb,おいっ！,Take cover!
+7,TerrorExplosion,な何？！,Wh-what?!
+8,TerrorFire,ちょっ あっち行けよ,Get that away from me!
+9,TerrorSword,なっ！,Wha—?!
+10,talk00,"どうだ！この口紅！
+私から恋愛運を感じるだろう？
+ピンク色のもの を身につけると
+恋愛運が アップするらしいぞ","What do you think of my lipstick? I think
+it'll bring me good luck!
+
+You know that the color is especially
+important in bringing good luck, right?"
+11,talk01,"今から我々は料理教室に行くんだ
+いいヴァーイになるのも大変なんだ
+ハイリアのヴァーイも一緒にどうだい？","The cooking class is about to start.
+I really need to pay attention this time...
+
+How about you try taking it along
+with us?"
+12,talk02,"お前知ってるか？
+
+ヴォーイは完璧なヴァーイを求めつつ
+ちょっと オッチョコチョイなのが いいらしいぞ
+微妙な料理も練習しとかないとな","This class is absolutely critical for me!
+I've tried to cook up some great meals,
+but I only ever make dubious food..."
+13,talk03,"今からはワーシャ先生の
+恋愛教室の時間なんだ
+正直…恋ってのは面倒だが
+いいヴォーイを見つけるためには頑張らんとな","It's about time for Ms. Ashai's class
+to begin.
+
+To be honest...I think learning all this
+is a real pain in the neck. But don't
+tell anyone I said that!"
+14,talk04,"そ… それはこれから勉強するんだ…
+
+とりあえず下がるよりは
+上がったが方いいだろ！","Umm... I-I'm planning on learning about
+that next..."
+15,talk05,"そうだろう そうだろう！
+なんてったって恋愛運アップだからな！","I know, right?!
+Oooh, I can feel it working already!"
+16,talk06,"料理を作るときに虫とか魔物の素材を入れると
+微妙な料理になるそうだ
+私的には微妙というよりも
+完全にアウトなんだが…","When you're cooking, if you add insects
+or monster materials, you'll end up
+with dubious food.
+Though if you ask me, there's nothing
+dubious about how absolutely inedible
+it is..."
+17,talk07,"お前もヴォーイを落としたいなら
+まずは胃袋をつかむんだな！
+まぁ これは先生の受け売りだがな","The quickest way to someone's heart is
+through their stomach!
+
+At least, that's what the teacher says..."
+18,talk08,サヴォッタ！,Sav'otta!
+19,talk09,サヴァーク！,Sav'aaq!
+20,talk10,サヴァサーバ！,Sav'saaba!

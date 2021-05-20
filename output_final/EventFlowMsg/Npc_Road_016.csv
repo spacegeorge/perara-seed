@@ -1,0 +1,182 @@
+#,Title,JPja,USen
+1,Atacked00,魔物さえいなければ のどかな旅なのに…,"If only these monsters didn't exist, I
+could just take a nice, peaceful trip..."
+2,Atacked01,魔物…まだいるみたい？,"The monsters... Looks like there's
+still some left."
+3,Failed00,"足をひねったかな…
+大丈夫だと思うけど","I might have twisted my ankle a little...
+But I think I'm OK, overall."
+4,Failed01,"ちょっとだけ痛いかも…
+歩けないほどじゃないけど","I'm in a little bit of pain... But I can still
+walk, for sure."
+5,Guardian00,"早く逃げて！
+ガーディアンが近づいてきてるから！","Run, quickly! A Guardian is coming
+this way!"
+6,MSG_Firo_00,"私は龍の伝説を辿る旅をしています
+旅人同士…情報交換します？
+この辺りは魔物が多い危険地帯…
+襲われる前に さっさと通り過ぎるのが賢明かも","I'm on a journey, pursuing the legends
+I've heard about dragons. If you're a
+traveler like me...
+Well, you should know that this region is
+full of monsters and is quite dangerous.
+It would be wise to pass through quickly."
+7,MSG_Firo_00_1,"この辺りは魔物が多い危険地帯…
+襲われる前に さっさと通り過ぎるのが賢明かも","This area is a dangerous region full of
+monsters... It may be prudent to pass
+through quickly before you're attacked."
+8,MSG_Firo_01,"…え？私？
+名前はタツノ龍に魅せられた旅人です
+フィローネの森で迷った旅人が
+龍の形の川を見たっていう話が気になってて…","What? Me? My name is Totsuna. I'm a
+huge fan of pretty much anything and
+everything related to dragons!
+A traveler who got lost in Faron Woods
+said he saw a dragon-shaped river,
+which made me really curious..."
+9,MSG_Firo_01_1,"フィローネの森で迷った旅人が
+龍の形の川を見たっていう話が気になってて…","A traveler who got lost in Faron Woods
+said he saw a river shaped like a dragon.
+Such a thing piqued my curiosity..."
+10,MSG_Firo_02,"変わり者だって思われそうですけど
+私はできれば龍のことだけ考えていたい…
+ハイリア湖のほとりで空を見上げると
+雲が龍の形に見える時があるんです！","You might find this a bit strange, but if I
+could only ever think about dragons,
+I absolutely would...
+You know, if you stand on the shore of
+Lake Hylia and look at the sky, you can
+sometimes see dragon-shaped clouds!"
+11,MSG_Firo_02_1,"ハイリア湖のほとりで空を見上げると
+雲が龍の形に見える時があるんです！","If you stand on the shore of Lake Hylia
+and gaze up at the sky, sometimes the
+clouds look just like dragons!"
+12,MSG_Firo_03,"いきなり龍の話で申し訳ないですけど
+私…龍は絶対いるって信じてるの！
+「川を架空の生き物に見立てたのが龍であって
+実在はしない」って説は荒唐無稽すぎる！","Sorry if I harp on too much about
+dragons, but... Well, I just know they
+exist! They have to!
+\""A dragon-shaped river doesn't prove
+that dragons exist!\"" they say...
+Pffft! It doesn't prove they don't, either!"
+13,MSG_Firo_03_1,"私…龍は絶対いるって信じてるの！
+
+「川を架空の生き物に見立てたのが龍であって
+実在はしない」って説は荒唐無稽すぎる！","I...definitely believe that there are
+dragons in our world. I'm sure of it!
+
+People can claim they don't exist, but
+that won't stop me from believing!"
+14,MSG_Firo_04,"私は龍の伝説を辿る旅をしています
+旅人同士…情報交換します？
+フィローネ街道を さらに東に進むと
+魚がおいしいウオトリー村に行けますよ！","I'm on a journey, pursuing the legends
+I've heard about dragons. Since you're
+a traveler like me, here's a secret...
+If you keep following the Faron Highroad
+to the east, you'll reach Lurelin Village.
+The fish there... So good!"
+15,MSG_Firo_04_1,"フィローネ街道を さらに東に進むと
+魚がおいしいウオトリー村に行けますよ！","If you keep following the Faron Highroad
+east, you will reach Lurelin Village.
+The fish there are just so good."
+16,Near00,ああ龍よ…,"Oh, the dragons..."
+17,Near01,龍はきっといる…,I know dragons exist...
+18,Near02,龍はどこに…,Where are the dragons?
+19,Near03,龍に会いたい…,I want to see a dragon...
+20,Near04,雨が降ってきた…,It's started raining...
+21,Rest_00,"私の頭の中は龍のことでいっぱい
+自分のことながら大丈夫かなって…
+空の雲を見ても森の川を見ても稲妻を見ても
+龍の姿に見えちゃって…","My head is always so wrapped up in
+dragon stuff, I sometimes worry that I
+might be a little obsessed...
+Oh! Have you ever noticed how, be it
+clouds in the sky, rivers in the forest, or
+lightning...everything looks dragony?"
+22,Rest_01,"雨の日は出歩かずに
+伝説の龍に想いを馳せています","When it's all rainy outside, I like to let my
+imagination run wild with thoughts of all
+the dragon stories I've heard."
+23,Rest_02,"フィローネ街道は雨が多くて
+私たち旅人泣かせですよね","It's always so rainy along the Faron
+Highroad... It's enough to make
+travelers like us cry, isn't it?"
+24,RetMSG_Firo_00,"私は龍に魅せられた旅の者です
+同じ旅人として お伝えしておきますけど…
+この辺り魔物が多い危険地帯なので
+襲われる前に さっさと通り過ぎるのが賢明かも","I've been compelled to wander the land,
+searching for the dragons I've heard
+so much about. Let me tell you, though...
+This region is full of monsters and is
+quite dangerous. It would be wise to
+pass through quickly."
+25,RetMSG_Firo_00_1,"この辺り魔物が多い危険地帯なので
+襲われる前に さっさと通り過ぎるのが賢明かも","This area is a dangerous region full of
+monsters. It'd be wise to pass through
+quickly, before you're attacked."
+26,RetMSG_Firo_01,"私 こう見えても かなり興奮してるんです
+なぜかっていうと…
+空の雷に森の川や長き道…フィローネ地方には
+龍伝説の裏付けになりそうな景観が多いから！","I may not be showing it outwardly, but
+I'm really quite excited. This place just
+supports dragon theory so well!
+Lightning in the sky... Rivers winding
+through the landscape... Almost like they
+were carved... Faron is amazing!"
+27,RetMSG_Firo_01_1,"空の雷に森の川や長き道…フィローネ地方には
+龍伝説の裏付けになりそうな景観が多いんです！","The scenery of Faron is just so perfect
+for the legends surrounding dragons.
+It all but confirms their existence!"
+28,RetMSG_Firo_02,"…え？私？
+名前はタツノ龍に魅せられた旅人です
+フロリア湖の近くでは異様な気配を感じるの
+まるで本物の龍がそばにいるかのような…","What? Me? My name is Totsuna. I'm a
+huge fan of pretty much anything and
+everything related to dragons!
+I had a strange feeling when I was near
+Lake Floria... It felt exactly like how I'd
+imagine being near a dragon would feel!"
+29,RetMSG_Firo_02_1,"フロリア湖の近くでは異様な気配を感じるの
+まるで本物の龍がそばにいるかのような…","I had a strange feeling when I was near
+Lake Floria... It felt exactly like how I'd
+imagine being near a dragon would feel!"
+30,RetMSG_Firo_03,"夢で見るだけじゃなくて本当に会いたい…
+あっ伝説の龍の話ですよー
+龍を目撃したっていう旅人に話を聞くと
+みんながみんな見たのは夜だったって…","I want to see one in person, not just in
+my dreams... Oh! I was just talking about
+dragons...
+People who've claimed to have seen a
+dragon have said that the dragon
+appeared to them at night..."
+31,RetMSG_Firo_03_1,"龍を目撃したっていう旅人に話を聞くと
+みんながみんな見たのは夜だったって…","According to travelers who've spotted a
+dragon, they all say they saw the
+dragon at night..."
+32,RetMSG_Firo_04,"これは実際の話なのか おとぎ話なのか
+龍が大好きな私にも わからないですけど…
+弓で龍を射抜くと
+万病に効くウロコが手に入るって言われてて…","Whether this story is true or not is
+anyone's guess, but it relates to
+dragons, so I love it all the same...
+Apparently shooting a dragon with an
+arrow will knock a scale free from its
+body, and that scale can heal any illness."
+33,RetMSG_Firo_04_1,"弓で龍を射抜くと
+万病に効くウロコが手に入るって言われてて…","They say if you shoot an arrow at a
+dragon, you'll get a scale that can heal
+any kind of sickness..."
+34,SavedLv1_00,魔物は？もういなくなった？,Are... Are the monsters gone?
+35,SavedLv1_01,魔物も必死に生きてるのね…,"So even the monsters are desperately
+trying to survive..."
+36,SavedLv2_00,"ここでケガしたら
+旅を続けられなくなっちゃう…","If I were to get injured here, I might not
+be able to continue my travels..."
+37,SavedLv2_01,ケガとか大丈夫でした？,Were you injured?
+38,SavedLv3_00,怖かった…ありがとう,That was scary... Thank you.
+39,SavedLv3_01,もう なんていうか…ありがとう,"I don't know what else to say except...
+Thank you."
+40,Thanks00,"これ…
+助けてくれたお礼です",Here... This is a thank-you for saving me.

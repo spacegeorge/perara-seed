@@ -1,0 +1,82 @@
+#,Title,JPja,USen
+1,"""0000""",薬をあげる,Here's an elixir.
+2,"""0001""",さよなら,Good-bye.
+3,"""0002""",薬って？,An elixir?
+4,"""0003""",さよなら,Good-bye.
+5,near00,どうしたものか…,What am I going to do?
+6,talk00,"せっかくここまで来たのになぁ…
+
+昼間がこう暑いんじゃ
+ゲルドの街に行くなんて到底無理だな…
+砂漠の暑さをしのげる薬さえあれば
+いいんだけど…","I wish somebody had mentioned the
+crazy heat before I came all the way
+out here...
+It's so hot at midday, it's impossible
+to make it to Gerudo Town unaided!
+
+I should have made one of those elixirs
+that stave off the heat of the desert."
+7,talk01,"お？
+もしかして？",Oh? Could it be?
+8,talk02,"…なんで
+
+お？
+もしかして？
+…って
+思っちゃったんだろ…","...
+
+
+Oh?
+Could it be?
+
+Fine, then."
+9,talk03,"ありがとう！
+これで明るいうちに砂漠を渡れるよ！
+はい コレ！薬代","Thank you! Now I can get across the
+desert while it's still light out!
+
+Here, let me give you something in
+return."
+10,talk04,"ひんやり効果のある虫と魔物の素材から作る
+ひんやり薬があるって聞いたんだけど…
+どこにも売ってないし
+僕はそもそも料理もできないし…
+それにひんやり効果のある虫なんて この辺じゃ
+ゲルド高地の寒い所にしかいないし…
+あの辺りは凶悪な魔物もいるらしいし…
+
+ケガ… したくないし…
+
+はぁ…""困ったもんだよ","Yeah, I heard that you can make a
+cooling elixir from certain bugs and
+monster materials.
+But they don't sell the stuff anywhere,
+and I'm a lousy cook.
+
+I hear the best place to find bugs with
+cooling effects is in the colder heights of
+the Gerudo Highlands.
+But there are monsters there...
+
+
+Too bad I'm allergic to monster punches..."
+11,talk05,"砂漠の夜は僕らにとっては
+涼しくていいんだけど
+夜って怖いし…
+
+よく見えないし…
+
+はぁ…""困ったもんだよ","Nights in the desert are cool and breezy.
+Such a nice break from the oppressive
+heat...
+But the night... It's kinda scary...
+
+
+I'm afraid of the dark..."
+12,talk06,"ちなみにゲルド語で
+ありがとうは「サークサーク」っていうんだ
+サークサーク！","By the way, in Gerudo, \""thank you\"" is
+\""sarqso.\""
+
+SARQSO!"

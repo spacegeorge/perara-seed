@@ -1,0 +1,147 @@
+#,Title,JPja,USen
+1,"""0002""",見つけた,"Oh, I found it."
+2,"""0003""",見つからない,I had no luck...
+3,"""0004""",ココ知ってる？,Recognize anything?
+4,"""0005""",まだです…,Not yet...
+5,"""0006""",はい おかげさまで！,I did—thanks!
+6,"""0007""",教えてください,Please show me.
+7,"""0008""",いいえ,No.
+8,LookPicture,"この山はラネール山だと思うんだがな…
+
+ラネール山は この村からずっと東にある
+大きな雪山だ
+その麓にあるネルドーラ雪原の西の方に
+その門があったはずだぞ","I think the mountain right here is 
+Mount Lanayru...
+
+Mount Lanayru is a big, snow-covered
+peak that's far to the east of this village.
+
+The gate that I mentioned should be to
+the west of Naydra Snowfield, which is at
+the foot of the mountain."
+9,Npc_artist009_F_001,"神秘のベールに包まれた大妖精の泉… 
+一度はお目にかかりたいものだよ…","Someday I hope I can see that place
+spoken of in whispers, veiled in
+mystery...the Great Fairy Fountain..."
+10,Npc_artist009_F_002,"そうかそうか
+見つけたか…
+な！""見つけた？！
+ほ本当かね？！
+で その場所の絵は？！
+絵は持ってきてくれたかね？！","Ahhh! You...you found it?! Really?!
+
+
+Are you serious right now?!
+
+
+And if you are, then where's the picture?
+You remembered to bring the picture,
+right?"
+11,Npc_artist009_F_003,"そうか…
+やはり そう簡単にはいかんか
+もし大妖精の泉を見つけたら
+ぜひ絵を描いてきてくれ頼んだよ","Oh...I see. It's not easy to find at all, 
+is it?
+
+But if you do happen to find the
+Great Fairy Fountain somehow, be sure
+to get a picture of it, OK?"
+12,Npc_artist009_F_005,"しかし… よく探してきてくれたな
+
+何かお礼をしたいところだが…
+あいにく持ち合わせもないし…
+そうだ！
+
+キミ行きたい場所や探したい場所はないかね？
+
+私はハイラル中を旅してきたからな
+気になる場所があるなら役に立てるかもしれんぞ","Well, I'm impressed you found it.
+
+
+I want to give you something to show my
+appreciation, but I don't think I have
+anything on me...
+I know!
+
+
+Is there a place you've been seeking?
+I've traveled all over Hyrule, so I might
+be able to help you find it."
+13,Npc_artist009_F_006,"これは大きな門とその奥に雪山…
+そうだ あそこだ！
+この村からずっと東に行くと大きな雪山がある
+ラネール山という山だ
+そのラネール山のふもとにある
+ネルドーラ雪原の西に その門があったはずだぞ","A large gate with a snowy mountain
+beyond it... Oh, I know that place! There
+is a big mountain east of this village...
+It's called Mount Lanayru.
+
+
+At the base of Mount Lanayru, on the
+west side of Naydra Snowfield, lies
+that gate. I'm almost certain!"
+14,Npc_artist009_F_007,"私の知ってる場所でよかったよ
+少しはお役に立てたかね？","I'm glad I knew about that location.
+I suppose my help was useful, then?"
+15,Npc_artist009_F_009,"どうした？
+また あの絵の場所の事を知りたいのかね？","What's up? You want to know more
+about that place in the picture?"
+16,Npc_artist009_F_011,"神秘のベールに包まれた大妖精の泉… 
+
+雨が降ろうが雷に打たれようが
+私は絶対あきらめんよ！","That secret place veiled in mystery...
+The Great Fairy Fountain...
+
+Neither snow nor rain nor heat nor
+lightning strike stays me from swift
+completion of this self-appointed task!"
+17,Npc_artist009_F_013,"なんだ いいのか？
+
+こんな天気の中わざわざ話しかけるぐらいだから
+何か急ぎの用かと思ったよ","You don't need my help? Really?
+
+
+And here I figured you needed 
+something urgently since you came
+calling in this terrible weather."
+18,Npc_artist009_F_014,"それならよかった！
+
+私はまた旅を続けていくつもりだ
+どこかでまた会うかもしれんな
+キミは絶景でつながったソウルメイトだ！
+何か困ったことがあったら声をかけてくれ","That's great to hear!
+
+
+I'm going to keep traveling, so it's
+possible that we'll run into each other
+again somewhere!
+You and I are bound together by our
+love of beautiful scenery. I can feel it!
+
+And you shouldn't think twice to call on
+me whenever you need some help!"
+19,Npc_artist009_F_015,"またここで会うとはな
+
+ところで…
+あの絵の場所には たどり着けたかね？","I can't believe we ran into each other
+here. Did you make it to the place in the
+picture?"
+20,Npc_artist009_F_019,"そうかそうか…
+
+私はまた旅を続けていくつもりだ
+どこかでまた会うかもしれんな
+キミは絶景でつながったソウルメイトだ！
+何か困ったことがあったら声をかけてくれ","I see—all in good time, then...
+
+
+I'm going to keep traveling, so it's
+possible that we'll run into each other
+again somewhere!
+You and I are bound together by our
+love of beautiful scenery. I can feel it!
+
+And you shouldn't think twice to call on
+me whenever you need some help!"
+21,Npc_artist009_R_Near,うーん……,Hrm...

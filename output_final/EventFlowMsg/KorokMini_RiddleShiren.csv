@@ -1,0 +1,94 @@
+#,Title,JPja,USen
+1,"""0000""",挑戦する,I'll try it!
+2,"""0001""",今はちょっと…,Not right now...
+3,Npc_kokiri002_F_Talk000,"………………ゾ？
+ふぁ～あ…","...Hrmm?
+*yawn*"
+4,Npc_kokiri002_F_Talk010,"答えのものを持ってきたら
+そこの葉の上に置くゾナ
+正しいものを置いたら
+踊ってやるゾナ
+間違ったものだったら……ぐう","If you think you know the answer, place
+the object on the leaf there. If you place
+the right thing, I'll sing your praises!
+But if it's wrong...
+Zzz..."
+5,Npc_kokiri002_F_Talk020,それゾナ！それゾナ！正解ゾナ！踊るゾナ！,That's it! THAT'S IT!You got it!
+6,Npc_kokiri002_F_Talk021,"…コホン
+では次のお題を出すゾナ！","*ahem*
+The next riddle is..."
+7,Npc_kokiri002_F_Talk022,"これが最後のお題ゾナ！
+心して かかるゾナ！","This is the last riddle!
+Prepare yourself!"
+8,Npc_kokiri002_F_Talk030,"さすが ゆうしゃサマ ゾナ！
+ほれ ご褒美をあげるゾナ","I knew you could do it, Mr. Hero!
+Here is your reward!"
+9,Npc_kokiri002_F_Talk031,"ゾナ…？
+ゆうしゃサマ ダイヤモンドいっぱいゾナ
+ナゾナゾのご褒美に ダイヤモンドを
+あげようと思ってたゾナ…
+受け取れるようになったら起こしてゾナ
+……ぐう","Hmm? You are overflowing with
+diamonds!
+
+I was gonna give you some diamonds
+for solving my riddles, but...
+
+Zzzzz..."
+10,Npc_kokiri002_F_Talk040,"もう なぞなぞは出し尽くしてしまったゾナ…
+ワシの負けゾナ大したモンだゾナ","I'm fresh out of riddles.
+You've outwhittled me...
+Very impressive!"
+11,Npc_kokiri002_F_Talk050,リンゴゾナ！リンゴゾナ！！,Apple! It's an apple!
+12,Npc_kokiri002_F_Talk051,ヨロイカボチャゾナ！！,Fortified pumpkin!
+13,Npc_kokiri002_F_Talk052,ポカポカダケゾナ！！,Sunshroom!
+14,Npc_kokiri002_F_Talk053,ビリビリマスゾナ！！,Voltfin trout!
+15,Npc_kokiri002_F_Talk054,ライネルのひづめゾナ！！,Lynel hoof!
+16,Npc_kokiri002_R_Near000,むにゃゾナ…,Mmmm...
+17,Npc_kokiri002_R_Talk000,"………………ゾ？ふぁ～あ…
+ついつい寝てしまいましたですゾ…
+このわしを見つけたということは…
+究極のしれんに挑戦するのですゾナ？","...Hmmmm?*yawn*
+And I was having such a nice dream...
+
+Wait, if you're here... Does this mean
+you want to face the ultimate trial?"
+18,Npc_kokiri002_R_Talk010,"ふぁ～あ…
+究極のしれんに挑戦してみるゾナ？","*yawn*
+Are you here for the ultimate trial?"
+19,Npc_kokiri002_R_Talk020,"ゾナゾナ…コホン
+では究極のしれん…はじめるゾナ！
+わしがいう手がかりを元に
+現物を ここへ持ってくるゾナ","*ahem*
+The ultimate trial...has begun!
+
+I'll tell you a riddle about an object.
+Your job is to solve the riddle and
+bring me the correct object.
+Here comes your first riddle!"
+20,Npc_kokiri002_R_Talk030,"ふぁふぁふぁ
+おじけづいたか！","Fahaha!
+Did I intimidate you?"
+21,Npc_kokiri002_R_Talk040,"わかったゾナ？
+わからないゾナ？
+正解を葉の上に置いたら
+踊ってやるゾナ！","Have you figured it out? I'm guessing
+you're more stumped than the base of
+a felled tree!
+If you place the right object on the leaf,
+I'll dance for you!"
+22,Npc_kokiri002_R_Talk500,"小さくて赤くてまあるくてシャリっとした
+あまーいのなーんゾナ？","Small, red, round, and sweet!
+Bring me one of this simple treat!"
+23,Npc_kokiri002_S010_Talk500,"カカリコ村名産！
+カッチコチの野菜って なーんゾナ？","Kakariko Village's specialty fruit!
+Its rock-hard flesh is quite resolute!"
+24,Npc_kokiri002_S020_Talk500,"暑いところにある料理すると
+ポカポカするダケのもの""なーんゾナ？","This sultry shroom will warm your bones.
+It makes its home in warmer zones."
+25,Npc_kokiri002_S030_Talk500,"ビリビリに強くなっちゃいマス！
+なーんゾナ？","Its scales and tail will zap you, no doubt!
+This shocking swimmer is called a...fish."
+26,Npc_kokiri002_S040_Talk500,"ツメはツメでも ヒのついたツメは
+なーんゾナ？","If stepped on by this, you will go poof!
+It starts with an H and ends with an oof!"

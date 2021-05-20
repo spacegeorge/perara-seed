@@ -1,0 +1,205 @@
+#,Title,JPja,USen
+1,"""0002""",着替え,I'd like to change!
+2,"""0003""",服が欲しい,I want clothes.
+3,"""0004""",淑女のマスク,A Gerudo veil.
+4,"""0005""",淑女の服,A Gerudo top.
+5,"""0006""",淑女のパンツ,A Gerudo sirwal.
+6,"""0007""",お願いします,"Yes, please."
+7,"""0008""",けっこうです,"No, thank you."
+8,"""0009""",やっぱりいらない,Never mind.
+9,"""0010""",お願いします,Please!
+10,"""0011""",けっこうです,"No, thank you."
+11,"""5500""",はい,Yep.
+12,"""5501""",いいえ,Nope.
+13,"""5503""",やっぱりやめる,Never mind.
+14,"""5508""",ぜんぶ売る,All of them.
+15,Com_Talk_00,どの品を買い取ってほしいの？,What would you like to sell me?
+16,Com_Talk_01,"？
+ルピーになるけど… いい？",That'll be  rupees. Is that OK?
+17,Com_Talk_02,ふふ… アナタのお役にたてたかしら？,Hehe... I hope I was helpful.
+18,Com_Talk_02b,"ありがとう
+ゲルド語なら「サークサーク」ね","Thank you. Or as the Gerudo say...
+Sarqso."
+19,Com_Talk_02c,"ありがとう
+いい買い物させてもらったわ","Thank you. I bought some really nice
+things from you."
+20,Com_Talk_02d,ふふっ…,Teehee...
+21,Com_Talk_04,ふふ…悩む姿も可愛いわね,"Heheh, you make some adorable faces
+when you're deep in thought."
+22,Com_Talk_05,"さあ どうする？
+他にもまだ何かあるかしら？","Well, what do you want to do? Did you
+need anything else?"
+23,Com_Talk_05b,"他にはもういいの？
+遠慮なく私に言ってね","Is that all you needed? Don't be shy—
+you can tell me."
+24,Com_Talk_05c,"売りたいものがあったら
+遠慮せず何でも言ってね","If there's something you want to sell,
+don't be shy. Go on and tell me."
+25,Com_Talk_05d,"もう終わり？
+いくらでも買い取ってあげるわよ","Finished already?
+I'll buy as much as you want."
+26,Com_Talk_13,"ね？
+いくつ？",How many?
+27,Com_Talk_14,"が個ね
+ルピーでいいかしら？","Let's see... For  of them...
+It'll be  rupees. Is that OK?"
+28,Com_Talk_15,それは私では扱い切れないわ,"I'm sorry, I don't think I can take that
+off your hands..."
+29,Com_Talk_16,"それはダメ…服は自分で脱ぐものよ
+それとも私に脱がして欲しいの？","Oh, a clothing item? You'll have to take it
+off before you sell it to me..."
+30,Com_Talk_33,"をひとつだけね？
+それならルピーだけどいい？","One, then? That'll be  rupees. 
+That work for you?"
+31,Com_Talk_35,"を個全部ね？
+なら合わせてルピーでどうかしら？","Oh, all of them? That'll be...
+rupees! That work for ya?"
+32,Near_00,ちょっと 暑いわね…,It's a little hot...
+33,Near_01,ちょっと 寒いわね…,It's a bit chilly...
+34,Near_02,ここの眺めは最高ね…,This view is the best...
+35,Near_03,移動したわね…,"It's moved, huh?"
+36,Near_04,もう動かないのかしら,I wonder if it'll come back.
+37,Npc_SmallOasis008_001,"私は この辺りで困っている商人でも見つけて
+商売しようと思ってたんだけど…
+何故だか
+あの神獣から目が離せなくてね…","I thought I'd find some troubled
+merchants around here and trade with
+them...
+But for some reason, I just can't take my
+eyes off that Divine Beast."
+38,Npc_SmallOasis008_006,"あら アナタ…
+また来ちゃったの？","Oh, my, it's you...
+You came back?"
+39,Npc_SmallOasis008_007,"ふふ…
+また来ると思ってたわ","Teehee...
+I knew you'd come back."
+40,talk00,"それにしても… その恰好…
+
+せっかくアナタを女にしてあげたのに
+着替えちゃうなんて悲しいわぁ～
+私がもう一回
+お着替えさせて あげましょうか？","You know...
+
+
+It was a bit of effort on my part to pick
+out just the right clothes for you. To see
+you out of that outfit now...
+Would you like to change back into your
+Gerudo clothing?"
+41,talk01,"うん… アナタ…
+やっぱり すっごく可愛いわ～","I knew it. You look adorable! Absolutely
+adorable!"
+42,talk02,"あら…残念
+
+あの服を着ているアナタ
+本当に かわいかったのに…
+ホント…","Really? That's too bad. When you were
+wearing those clothes, you just looked
+so seriously cute..."
+43,talk03,"それにしても アナタ…
+やっぱり そのお洋服良く似合ってるわ
+ふふ…",I knew that'd look adorable on you.
+44,talk04,"お着替えにする？
+それとも… お洋服にする？",What can I do for you?
+45,talk05,んふ… ちょっと待ってね,Hm...hold on a second.
+46,talk06,"あら… イケない子ね
+もうお着替えしてるじゃない？","Oh, my, you little prankster! Were you
+playing a joke on me? A gag at my
+expense?"
+47,talk07,"なくしちゃうなんて悪い子ね
+どのお洋服がほしいの？","The outfit only really works if you’re
+wearing the whole set... Which piece
+of clothing did you want?"
+48,talk08,"お金がないのにお買い物なんて イケない子…
+親切なお姉さんをからかうなんて…","Going shopping when you don't have any
+money... You're such a tease, toying with
+a lady's emotions like that..."
+49,talk09,"淑女のマスクは
+200ルピーだけどいいかしら？","The Gerudo veil is 200 rupees.
+Is that OK?"
+50,talk10,"淑女の服は
+200ルピーだけどいいかしら？","The Gerudo top is 200 rupees.
+Is that OK?"
+51,talk11,"淑女のパンツは
+200ルピーだけどいいかしら？","The Gerudo sirwal is 200 rupees.
+Is that OK?"
+52,talk12,"ふふ…大事にしてね
+
+まだ欲しいの？","Heheh... Take good care of it.
+Do you want something else?"
+53,talk13,"あら… やめちゃうの？
+
+もう欲しくないの？","You've changed your mind?
+You don't want anything?"
+54,talk14,"フフ… もういいのかしら？
+
+満足したなら
+またいらっしゃい","Hehe...satisfied? If so, I hope you come
+back again."
+55,talk15,"ふふ… 
+恥じらう姿も可愛いわね
+私は いつでもここにいるから
+女になりたいなら いつでもいらっしゃい
+お着替えも私が手伝って
+あげる か ら","Heheh... You look so cute when you're
+blushing like that...
+
+I'll always be here if you ever want to
+change again. Come by anytime!
+
+I'll even personally help you, if you
+need it... Teehee!"
+56,talk16,"アナタ…ポーチがパンパンではちきれそうよ
+ふふ… やっぱり男の子なのね
+スッキリさせたいなら
+お姉さんがお手伝いするわよ？","Um... Your inventory is completely full.
+I know you're not carrying a purse and
+all, but still...
+I can help you with the situation by
+buying some things, if you want."
+57,talk17,"あら…もう終わりなんて
+残念だわ",What a shame...
+58,talk18,"食べちゃいたいぐらい…
+
+やだっ冗談よ！
+
+私は いつでもここにいるから
+お着替えしたいなら遠慮なく声かけてね","You're so adorable...
+
+
+Teehee. I'll always be here, so if you
+want to change your clothes, don't
+hesitate to come speak with me, OK?"
+59,talk19,"ヒーヒー言わしたろか ボケェ
+
+なーんてね うっふふ
+
+すぐにお金が必要ってなら
+何か買い取ってあげましょうか？","I can make you squeal, you jerk!
+
+
+Teehee, just kidding.
+If you're really in need of money, you
+could sell me something..."
+60,talk20,食べちゃいたいぐらい！,Hehe... You're so cute!
+61,talk21,"…食べちゃいたいぐらいにね
+
+ふふっ冗談よ
+サヴォーク！","...Just so adorable.
+
+
+Teehee. Anyway, sav'orq!"
+62,talk22,"ええ加減にしとけや ゴラァ
+
+なーんてね ウフフ","Well, you better watch it!
+
+
+*ahem* Just kidding... Hehe."
+63,talk23,"フフ… もういいのかしら？
+
+スッキリできたなら
+また いらっしゃい","Teehee...satisfied?
+
+
+If you feel better now, then I hope you'll
+come back again later."

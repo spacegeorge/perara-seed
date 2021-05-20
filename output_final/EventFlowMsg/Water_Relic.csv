@@ -1,0 +1,1050 @@
+#,Title,JPja,USen
+1,"""0000""",長すぎる眠りに…,I've been sleeping.
+2,"""0001""",記憶がない,I lost my memory.
+3,"""0002""",ミファー？,Mipha who?
+4,"""0003""",分からない,Doesn't ring a bell.
+5,"""0004""",準備した,I'm ready!
+6,"""0005""",まだ準備してない,Not yet.
+7,"""0008""",思い出した,I remember.
+8,"""0009""",少しだけ…,Just a bit...
+9,"""0010""",すみません…,I'm so sorry...
+10,"""0011""",どうなったのでしょう？,What happened?
+11,"""0012""",分かった,I'm ready.
+12,"""0013""",本当にいいのか？,Are you sure?
+13,"""0014""",退魔の剣？,What sword?
+14,"""0015""",無くしたかも,Perhaps.
+15,"""0016""",まかせろ,I'm on it!
+16,"""0017""",もう一度聞かせて,Come again?
+17,"""0018""",わかった！,I'm in. Let's do this!
+18,"""0019""",実は…,"I, um..."
+19,"""0020""",ミファーを思い出した,Mipha... I remember.
+20,"""0022""",もちろんだ！,No problem!
+21,"""0023""",一度撤退しよう,Let's retreat.
+22,"""0024""",このまま続けよう,Never surrender!
+23,"""0025""",ゼルダの声が聞こえた,I heard Zelda's voice.
+24,"""0026""",ハイラル城で…,"Yes, in Hyrule Castle."
+25,Npc_Zora003_F_001,"おおリンク！ よくぞ戻った！
+待っておったゾヨ！","Link! You did well to survive your trial!
+I have been awaiting your return!"
+26,Npc_Zora003_F_002,"あれほど猛威をふるった豪雨が嘘のように止み
+この里の危機は消え去ったゾヨ ！
+ハイラルの大地が水没する心配は
+もうなくなったゾヨー！","The violent downpour has disappeared,
+as has the threat to Zora's Domain!
+It is all little more than a bad dream now.
+Thanks to your efforts, there is no longer
+any danger of a great flood laying waste
+to Hyrule!"
+27,Npc_Zora003_F_003,"豪雨も止み神獣も戻った！
+なんとめでたいゾヨ！","The heavy rains have stopped, and the
+Divine Beast is our ally once again!"
+28,Npc_Zora003_F_004,"そういえばリンク
+ソナタは退魔の剣を持っておらぬが…
+かつての記憶と共に
+退魔の剣もなくしたゾヨか？","By the way, Link. I see you are without
+your trusty blade...the sword that seals
+the darkness.
+Did you perhaps lose it when you lost
+your memory?"
+29,Npc_Zora003_F_005,"きっと このハイラルのどこかで
+主が来るのを待っているにちがいないゾヨ","It is no doubt resting somewhere in
+Hyrule even now...waiting for its
+master to return."
+30,Npc_Zora003_F_006,"ソナタが眠っておる間は
+どこかで帰りを待っているはずゾヨ","It undoubtedly found a safe place
+to wait for you...sleeping soundly,
+just like its master."
+31,Npc_Zora003_F_007,"そういえば あれも退魔の剣といったか…
+迷いの森に名のある剣が眠ると聞く
+ソナタが100年前に持っていた
+退魔の剣そのものかどうかは知らぬゾラが…
+行ってみるのも悪くない
+迷いの森はここより西ハイラル城の北ゾラよ","Speaking of the sword that seals the
+darkness... I hear that a legendary
+blade now sleeps in the Lost Woods.
+Mind that I cannot say with certainty
+that it is the same blade you wielded
+100 years ago.
+Still, I advise you to go there and see it
+for yourself. The Lost Woods are to
+the west, north of Hyrule Castle."
+32,Npc_Zora003_F_008,"リンク今回のソナタの働きには
+ゾーラ一同心から感謝するゾヨ！","Link, all of the Zora thank you from the
+depths of our hearts for your heroic
+and selfless work!"
+33,Npc_Zora003_F_009,"お前がリンクと共に神獣と戦ったこと…
+父親として誇りに思うゾヨ
+知らぬ間に そんなにたくましくなりおって…
+もう ワシの跡取りとして申し分ないゾヨ！","As your father, I am proud of you
+for fighting the Divine Beast
+alongside Link.
+You have grown much recently. I know
+you will be a worthy heir when your
+time comes."
+34,Npc_Zora003_F_010,"…とはいえ退魔の剣を持つソナタの事
+あまり使う機会は ないかもしれんが…
+その剣は ソナタにしか扱えぬ伝説の剣
+くれぐれも大切にするのだゾヨ","Oh...but I see you already awakened the
+sword that seals the darkness. Perhaps
+you do not have need of this after all.
+What you have there is a legendary blade
+that only you can wield. You must take
+great care of it."
+35,Npc_Zora003_F_011,むぅ やはり忘れておったかゾヨ…,Hm. So you have forgotten that as well...
+36,Npc_Zora003_F_012,なんと！無くしてしもうたゾヨか！,What? Is it truly lost?!
+37,Npc_Zora003_F_013,"あれは英傑のリーダーである
+ソナタにしか扱えぬ剣","That is a legendary blade that only you,
+the Hylian Champion, can wield."
+38,Npc_Zora003_F_014,"ソナタが眠っておる間は
+どこかの森で帰りを待っているはずゾヨ","I expect it was awaiting your return while
+you slept, resting in a sacred forest
+or some such."
+39,Npc_Zora003_F_015,"リンク！
+ソナタには礼を渡さねばならぬゾヨ！",Link! I must reward your efforts!
+40,Npc_Zora003_F_016,…そして シド,"...And you too, Sidon."
+41,Npc_Zora003_F_018,"ソナタが水の神獣を鎮めてくれたおかげで
+このゾーラの里は救われた！
+期待以上の働きをしてくれた ソナタに
+民を代表して心から感謝の意を示したいゾヨ！","You appeased the Divine Beast Vah Ruta
+and thusly saved Zora's Domain!
+
+We are all truly grateful! What you did
+for us is more than we could have
+ever expected of you."
+42,Npc_Zora003_F_019,"さあ あの宝箱の中のものを受け取ってくれ
+
+あれはミファーがずっと愛用していた
+形見のようなものゾヨ…
+友好の証として ソナタに持っていてほしい
+そして どうかいつまでも大切に…","Now then! I implore you to collect the
+treasure inside that chest over there.
+
+It was cherished by Mipha. A memento
+of sorts. I would like you to have it as
+a token of our friendship.
+Please take good care of it."
+43,Npc_Zora003_F_020,ジャブフフフッ！,"How glorious! Truly splendid!
+Wah ha ha ha!"
+44,Npc_Zora003_R_001,"む？ その姿！
+ソナタは… ハイリア人？
+まさか息子 シドに頼まれてきてくれたゾヨか？
+よくぞ ここまで来てくださった！
+して…""息子のシドはどこにおるかの？
+一緒に来たのではないゾヨか？","Hm? Well, I'll be!
+Are you not...a Hylian?
+
+By chance, did my son, Sidon, ask you
+to come here? I am so glad you could
+make it!
+So then... Where is Sidon?
+Did he not come with you?"
+45,Npc_Zora003_R_002,"おお ソナタは
+ハイリア人ではないか？","Ah. You are a Hylian, are you not?"
+46,Npc_Zora003_R_003,"おおっ
+ソナタが シドの連れてきた ハイリア人？","Ah. You must be the Hylian that Sidon
+brought here, correct?"
+47,Npc_Zora003_R_004,"ん？ ソナタの腰のモノ…
+それはシーカーストーン？！
+んん？よく見たらソナタ…","Hm? That object upon your waist...
+is that not a Sheikah Slate?!
+
+HMMM?!Now that I have gotten a good look
+at you, it is all too clear who you are..."
+48,Npc_Zora003_R_005,"なんと！ どれだけ長き眠りに…
+ワシのことを覚えとらん様子なのは そのせいか","Come again? Sleeping, you say...
+Hm. Is that why you do not seem
+to remember me?"
+49,Npc_Zora003_R_006,"なんと！""記憶がないと？！","Come again? You say you have lost
+your memory?"
+50,Npc_Zora003_R_007,"我が娘 ミファーのことは
+覚えておるゾヨ？","But surely you must remember my
+precious daughter, Mipha, yes?
+You do, do you not?"
+51,Npc_Zora003_R_008,"まさかミファーのことも忘れてしまったと？
+
+あんなに ソナタと仲のよかったミファーを
+覚えておらんゾヨか？
+この里の風景…","I cannot believe it... Have you truly
+forgotten my dear Mipha as well?
+
+You and Mipha were so close...
+Yet you do not remember her?
+
+Young hero... Please look upon the
+beauty of Zora's Domain."
+52,Npc_Zora003_R_010,"それにしても
+知らずに英傑をつれてくるとは…","But first, it is worth noting how
+remarkable it is that Sidon brought
+a Champion here without realizing it!"
+53,Npc_Zora003_R_011,"実は今 この里は水の神獣ヴァ・ルッタのせいで
+存亡の危機に見舞われておるゾヨ
+単刀直入に言うと…
+ワシらだけでは どうにもならんゾヨ！
+ソナタの力貸してはくれまいか？","Now then. Hero...I must inform you that
+Zora's Domain is in danger of vanishing
+because of Divine Beast Vah Ruta.
+I shall do you the courtesy of speaking
+bluntly. We alone cannot stop this beast.
+
+Will you lend us your strength?"
+54,Npc_Zora003_R_012,"ムズリ…
+ゾーラのヒレ折れだなどと大げさなことを","Muzu, I expected more of you.
+How can you still protest?"
+55,Npc_Zora003_R_013,"…リンク…ルッタは水の神獣…
+無限に水を生み出す力を持っておるゾヨ
+最近突然水を吹き上げ出したせいで
+この辺りは激しい雨が続いている…
+もともと我らゾーラにとって水は空気も同然
+それだけなら困ることもなかったゾヨが…
+東にある貯水湖が あふれそうなのだ！もし貯水湖が決壊してしまったら
+この里はもちろん
+川下に住む者達にも甚大な被害がでるゾヨ","...Link...Divine Beast Vah Ruta has great power.
+It has the unique ability to create an
+endless supply of water.
+Of late it has been mercilessly spouting
+water into the air. As a result, this area
+has been plagued by heavy rains.
+For us Zora, water and air are as one,
+so you would not think this would be
+quite so critical of a problem.
+Sadly, the rains have filled the eastern
+reservoir nearly to the point of flooding.If the reservoir bursts, as it soon will,
+I fear immense damage will befall not
+only Zora's Domain...
+but also the area downstream from us.
+There, Hylian lives are in very
+grave danger."
+56,Npc_Zora003_R_014,"リンク ありがとうゾヨ！
+
+我らの目的が ほぼ同じとは
+これも運命なのかもしれぬな
+善は急げというゾヨ
+ソナタに コレを受け取ってほしいゾヨ","Thank you, Link. Truly.
+We are in your debt.
+
+Our goal is the same. That means our
+meeting was nothing short of destiny.
+
+Now then, allow me to offer you this gift
+as a show of faith."
+57,Npc_Zora003_R_015,"むぅ…
+また神獣が吠えておるゾヨ…","Hmm... The Divine Beast is crying out
+once again..."
+58,Npc_Zora003_R_016,"水の神獣 ヴァ・ルッタ…ソナタらの姫 ゼルダ殿は厄災が現れる前に
+神獣についても よく研究されておったゾヨ
+ゼルダ殿の書かれた書物によれば
+ルッタの肩に見える装置…
+あれが電気によって
+水を制御するカラクリらしいゾヨ
+だが今は暴走して電気が流れておらんゾヨ","The Divine Beast Vah Ruta...Your princess, Zelda, often studied the
+Divine Beasts. That is, in the time before
+the Great Calamity.
+According to her research, the orbs
+located on Ruta's shoulders...
+
+are mechanisms that can control
+the water it generates. However,
+they require electricity to work.
+These orbs are clearly out of control
+now because there is no electricity
+coursing through to stop them."
+59,Npc_Zora003_R_017,"そういえば…ルッタを鎮めるのに必要となる電気の矢を
+ムズリに探しておくよう命じておいたが… 
+出て行ってしまったゾヨ…","Hmm, but what shall we do now?I tasked Muzu with finding the
+shock arrows we will need to
+appease Vah Ruta.
+But now he has rushed off in a huff..."
+60,Npc_Zora003_R_020,"何かのきっかけで
+思い出す事も あるかもしれんゾヨ 
+できれば…","Well, perhaps your memory will return
+in time.
+
+I dearly hope so."
+61,Npc_Zora003_R_021,"そうゾヨ
+リンクは紛れもなき英傑！
+今はこの里が…いや""ハイラル全土が
+水に呑まれるかもしれぬ危機的状況！
+ここは ゾーラもハイリア人もない
+謙虚に ヒレを畳む時ゾヨ","Indeed! Link is a Champion,
+through and through.
+
+As things now stand, Zora's Domain...Nay! Perhaps all of Hyrule...is doomed
+to be swallowed by the sea.
+
+This is bigger than all of us, my friend.
+Zora and Hylians alike must put aside
+our differences and band together."
+62,Npc_Zora003_R_022,むぅ ムズリめ…あれは我が娘ミファーの教育係だったゾヨ,"Hmph. That Muzu is not easily swayed
+once his mind is set.You must understand... He was in charge
+of educating my dear daughter, Mipha."
+63,Npc_Zora003_R_023,"リンク
+ムズリはおそらく下の広場にいるゾヨ
+ソナタも行ってやってくれぬか…
+説得には ソナタが必要ゾヨ","Link... Muzu is most likely at the
+square down below.
+
+Would you mind going down there?
+I would like you to try to speak
+with him."
+64,Npc_Zora003_R_025,ハイリア人の英傑 リンクではないか！ワシを覚えておらんかの？！,"You are the Hylian Champion, Link!Do not tell me you have forgotten me..."
+65,Npc_Zora003_R_026,"ハイリア人の英傑リンクが今ここに！
+まさしく驚くべき出来事ゾヨ！
+それにしても懐かしい…
+ホレかつて幾度も会ったであろう
+命運が尽きたと聞いていたが
+生きておったゾヨのう！","I cannot believe it. The Hylian Champion,
+Link, has appeared before us... We have
+met numerous times, I'll have you know.
+Ah... So many memories! My mind is
+overflowing with nostalgia, my friend.
+
+I had heard a terrible rumor that you had
+fallen in combat, but it appears you
+managed to survive. Extraordinary!"
+66,Npc_Zora003_R_028,"シド･･･
+アノ話をするつもりゾヨな･･･","Sidon... I suppose that means you are
+going to tell him..."
+67,Npc_Zora003_R_029,おお そうよな…,"Oh? Yes, of course."
+68,Npc_Zora003_R_030,"ポーチがいっぱいゾヨ
+ゾーラの鎧を渡すのは ポーチを空けた後ゾヨな","Link, your pouch appears to be full.
+Please make some space in there so
+I may gift you this Zora armor."
+69,Npc_Zora003_R_032,"リンク""ソナタも大変であろうが
+ワシの話を聞いてほしい","Link, I doubt not that you have endured
+a great many trials. Still, I must ask you
+to hear my plea."
+70,Npc_Zora003_R_033,"シド""おまえも やるゾヨ！","That is quite a feat, my boy!"
+71,Npc_Zora003_R_034,"それを着ていれば ハイリア人でも
+我らゾーラのように滝登りができるゾヨ
+どうか大切にな","So long as you wear this, you can
+ascend waterfalls just like a Zora.
+
+Please, take good care of it."
+72,Npc_Zora003_R_035,"ミファーの像を見ても
+何も思い出さんゾヨ？","Do you see that statue? Does gazing
+upon Mipha's immortalized form still
+not jog your memory?"
+73,Npc_Zora003_R_036,"ワシら肉親と同様に ミファーのことを
+心底大切に思ってくれておるのだ
+大厄災で ミファーを失ったとき
+ハイリア人嫌いが決定的になってしまったゾヨ
+ムズリの失礼を許してやってほしいゾヨ","Naturally, she means a lot to him...
+just as she means the world to us.
+
+Ever since we lost her to the Calamity,
+he has grown to despise Hylians.
+
+I hope you can forgive his rudeness."
+74,Npc_Zora003_R_037,"ワシは ゾーラ族の王 ドレファンであるゾヨ
+よくぞ ここまで来てくださった！","I am King Dorephan, ruler of the Zora.
+You did well to come all the way here!"
+75,Npc_Zora003_R_038,よくぞ ここまで来てくださった！,You did well to come all the way here!
+76,Npc_Zora003_R_039,"ワシは ゾーラ族の王
+ドレファンであるゾヨ","I am King Dorephan, ruler of the Zora."
+77,Npc_Zora003_R_040,"む？ リンク どうしたゾヨ？
+なにやら キョロキョロしておったが…","Hm? What is the matter, Link?
+You seem to be looking about
+as though in a bother..."
+78,Npc_Zora003_R_041,"なんと ゼルダ殿の声とな…！
+
+ゼ ゼルダ殿は
+生きておられるのかゾヨ？！","Lady Zelda's voice, you say?!
+
+
+Lady Zelda...is still alive?!"
+79,Npc_Zora003_R_042,"なんと なんと…！
+そうであったか！
+…100年前は
+あのような結果になってしまったが
+神獣の中に入り こちらの手に取り戻せば
+ガノンを封印する手助けに なるやもしれんゾヨ","I do not believe it... She was alive this
+whole time, just as you were!
+
+The events of 100 years ago cannot be
+altered, it is true.
+
+But if we can regain control of the Divine
+Beasts...they may yet prove useful in
+sealing Calamity Ganon once and for all!"
+80,Npc_Zora003_R_043,さっきの鳴き声のヌシ…,"The creature behind that roar
+you just heard..."
+81,Npc_Zora003_R_044,"なに？！
+
+オヌシ ゼルダ殿の導きで
+神獣の中に入り""鎮めようと思っていたのか！
+ゼ ゼルダ殿は
+生きておられるのかゾヨ？","Whaaat?!
+
+
+Princess Zelda herself instructed you
+to board the Divine Beast and appease
+it from within?
+So then...Princess Zelda is still alive?"
+82,Npc_Zora003_R_045,ジャブフフフッ！,Wah ha ha! That is a good one!
+83,Npc_Zora003_R_046,"シドがゾーラの里に来てくれる
+ハイリア人を探しておったが
+まさか ソナタから訪れてくれるとは…
+まるで何かが導いてくれたようゾヨ…","Sidon was looking for a Hylian to bring
+to Zora's Domain.
+
+And now you have come...as if led by
+something."
+84,Npc_Zora003_R_Near,むぅう…,Hmm...
+85,Npc_Zora003_S1_001,"リンク
+ムズリはおそらく下の広場にいるゾヨ
+ソナタも行ってやってくれぬか…
+説得には ソナタが必要ゾヨ","Link... Muzu is most likely at the
+square down below.
+
+Would you mind going down there?
+I need you to convince him to fulfill
+his duty."
+86,Npc_Zora003_S1_002,"おお リンク！
+さっき渡せなかった これを渡しておくゾヨ","Ah, Link! I was unable to give this
+to you earlier, so please take it
+now, along with my best wishes."
+87,Npc_Zora003_S1_003,"おおリンクよ
+ソナタ まだポーチがいっぱいなので…
+ポーチに空きを作ってから また来るゾヨ","Oh. Link... It seems your inventory is full.
+
+
+Please return after you have made
+some room."
+88,Npc_Zora003_S1_004,"そのゾーラの鎧は我が娘ミファーが丹精込めて
+作り上げたものゾヨ
+それを着ていればハイリア人でも
+我らゾーラのように滝登りができるゾヨ
+大切にしてやってくれゾヨ","My daughter, Mipha, put her heart and
+soul into making that Zora armor.
+
+So long as you wear it, even a Hylian
+like yourself will have the power to
+ascend waterfalls like a Zora.
+Please take good care of it."
+89,Npc_Zora003_S1_005,"なんと ムズリのヤツめ
+
+ソナタが ミファーの想い人であると証明せねば
+協力できぬなどと言ってるゾヨか？
+何かゾーラの鎧がソナタのものと証明する
+方法はないものか…","Muzu... What am I to do with him?
+
+
+He insists he will not cooperate unless
+you prove you are the one Mipha had
+feelings for.
+If only there was a way to prove that
+this Zora armor is rightfully yours..."
+90,Npc_Zora003_S2_001,"神獣の鎮め方は聞いたゾヨな？
+ならば東の貯水湖にシドがいるはずなので
+合流して協力し合って
+水の神獣を鎮めて欲しいゾヨ","You were informed how to appease the
+Divine Beast, were you not? Sidon can
+be found at East Reservoir Lake.
+I ask that you meet up with him and do
+all you can to calm the Divine Beast."
+91,Npc_Zora003_S2_003,"おお！思い出したゾヨか！
+それは良かった良かった！",You remember! That is wonderful!
+92,Npc_Zora003_S2_004,"いやいや！ ソナタは悪くない！
+全ては憎き厄災ガノンの仕業ゾヨ！","No, please do not apologize. It is not
+your fault. All of this is the despicable
+work of Calamity Ganon."
+93,Npc_Zora003_S2_005,"ミファーの行方？
+それは ワシにも分からぬゾヨ…","You mean...what happened to Mipha?
+Not even I know that."
+94,Npc_Zora003_S2_006,"あの時四体の神獣が厄災ガノンに操られ
+乗っていた英傑は閉じ込められてしまった…
+それ以降誰一人として帰ってきておらぬ
+神獣の中で一体 どのような事があったのか…
+結果を知らぬ事が むしろ希望…
+ワシらはまだ無事を祈る事ができるゾヨ","Calamity Ganon took control of the
+four Divine Beasts...and trapped
+the Champions inside of them.
+Since then, not a single one of them has
+returned. It pains me to think what must
+have happened.
+All I can do is hope and pray, though I
+am well aware of the odds that anyone
+could have survived something like that."
+95,Npc_Zora003_S2_007,"おお！少しだけでも思い出したゾヨか！
+それは良かった！","I see! Well, even if you only remember
+her a little, that is better than nothing.
+It warms my heart to hear it."
+96,Npc_Zora003_S2_008,"ミファーが英傑に選ばれて出て行った時は
+誇らしくもあったが寂しくもあったゾヨ…
+それが水の神獣を厄災ガノンに操られて
+あんな事になってしまって…
+ワシはあの時 ミファーをもっと強く
+引き止めるべきだったのかもしれん…","I was so proud when Mipha was chosen
+as our Champion...but I was also quite
+distressed about it.
+When Calamity Ganon took control of
+Divine Beast Vah Ruta...it all happened
+so fast.
+I cannot help but feel that I should have
+tried harder to keep Mipha from harm...
+I should not have let her go."
+97,Npc_Zora003_S2_009,"ミファー達英傑が神獣の中で
+どうなってしまったのか…
+わからぬ事が むしろ希望ゾラか…","What befell my dear Mipha and the other
+Champions within those Divine Beasts?
+
+Sadly, I have no way of knowing.
+I can only hope that by some
+miracle they are still alive."
+98,Npc_Zora003_S2_010,"おお！雨が止んでいるゾヨ！
+リンク！ ソナタは神獣を鎮めたゾヨか？！
+さすがは英傑リンクだゾヨ！
+ワシにはもはや感謝の言葉しかないゾヨ！
+ゾヨッ！","What is this?! The rain has stopped!
+Link! Were you actually able to
+appease the Divine Beast?!
+Link, you are a true Champion!
+I am grateful beyond words!"
+99,Npc_Zora003_S2_011,"…ところで ワシの娘 ミファーのことは
+思い出したゾヨ？","By the way...did you ever regain your
+memories of my daughter, Mipha?"
+100,Npc_Zora004_F_001,"お前ハイリア人なのにすごいゾラな！
+今までの認識を改めさせてもらいたい！
+これからは他の種族とも
+もっと交流を持つようにするゾラよ！","You are rather incredible for a Hylian!
+I will have to rethink my preconceptions
+about you people.
+Yes, perhaps people who are not Zora
+are not so hopeless after all! I am eager
+to learn more about other ways of life."
+101,Npc_Zora004_F_002,"…リンク
+お前に辛く当たって すまんかったゾラ
+お前も ミファー様のことを
+考えてくれていたのゾラな…
+元老院の面々も
+ヒレを畳んで感謝しておるゾラ
+ワシら老人の多くは
+ハイリア人を誤解していたのかもしれぬ
+むしのいい話だが もし許してくれるならば
+こんなに嬉しいことはないゾラ…","Link... I must sincerely apologize for
+my harsh treatment of you.
+
+That whole time, you were thinking of
+Hyrule's and Lady Mipha's well-being,
+just like the rest of us.
+All of the members of our council humbly
+fold our fins back in gratitude, along with
+the rest of our people.
+Perhaps the older generation of Zora,
+myself included, misunderstood Hylians
+after all. It would seem so.
+That said, I would be overjoyed if you
+could find it in your heart to forgive me.
+If not now, then perhaps one day."
+102,Npc_Zora004_F_Near,おお！ リンク！,Link!
+103,Npc_Zora004_R_001,"お待ちくだされドレファン王！ハイリア人に助けを求めるなど
+ゾーラのヒレが折れるというもの！","King Dorephan! My liege!
+Please do not speak so!To ask a Hylian for help... Why, the very
+thought of it curls my fins!"
+104,Npc_Zora004_R_002,"ドレファン王は もうお忘れになられたゾラ？！
+ハイリア人どもは信用できませぬ！！
+100年前古代文明の力なぞ持ち出して
+ハイラルを こんなにしてしまったのですゾ！","Have you forgotten already, my king?!
+We cannot trust these lowly Hylians!
+
+A hundred years ago, they abused the
+power of an ancient civilization and
+turned Hyrule into what it is today!"
+105,Npc_Zora004_R_003,"ドレファン王！！ゾーラの鎧を渡すのですか？！それは代々ゾーラ族の王女が
+将来ムコになる男に渡す誓いの鎧！
+ミファー様が自らの手で作られた
+大切なモノですゾ！！","King Dorephan!!Surely you do not really intend to give
+this outsider the Zora armor!Countless generations of Zora princesses
+have gifted that armor to the one they
+have sworn to marry!
+Princess Mipha made that one there with
+her own hands! It is far too important
+to entrust to a shady Hylian!"
+106,Npc_Zora004_R_004,"あんまりです！
+ワシは納得いきませんゾ！","This is just too much, my liege! 
+I do not understand it one bit!"
+107,Npc_Zora004_R_005,しかも…,And that is not the least of it!
+108,Npc_Zora004_R_006,"しかも ミファー様まで
+帰らぬ人となってしまった…","It is their fault that Lady Mipha was lost
+to us..."
+109,Npc_Zora004_R_007,"それを英傑であったといえ なんの関係もない
+この男に渡すなど なんたること！","He may be a Champion, but Mipha had
+no such relationship with him. So why
+should HE receive such an honor?"
+110,Npc_Zora004_R_008,ななッ？！,What?!
+111,Npc_Zora004_R_F001,"ワシは ここにおわす ドレファン王より
+このゾーラの里の執政を任された ムズリである
+お前は ハイリア人ゾラ？！
+我らの里に ハイリア人が何の用かな？","I am Muzu. I tend to the affairs of
+Zora's Domain by the grace of our
+beloved King Dorephan.
+But wait... Are you a Hylian?
+What is a Hylian doing in
+our domain?!"
+112,Npc_Zora004_S1_001,"むぅ… こんなとこまで来たゾラか
+お前に用はない","Hmph. You came all the way here,
+but it was in vain. I have no desire
+to speak with you."
+113,Npc_Zora004_S1_002,"むむッ…""ミファー様は
+この者の為に鎧を作っておられたとは…","Hmph. I never would have imagined
+she would make that special armor
+for one such as he..."
+114,Npc_Zora004_S1_010,"あそこに見える雷獣山
+そして その先端の試しの岬…","That tall mountain over yonder...
+It is called Ploymus Mountain, and there
+you will also find Shatterback Point."
+115,Npc_Zora004_S1_011,"その雷獣山には
+恐ろしいヤツが棲みついているゾラ
+ワシらゾーラが喰らえば ひとたまりもない
+電気の矢を次々と放ってくる恐ろしい魔物…","A terrifying creature has made its home
+up there.
+
+This awful beast shoots volley after
+volley of shock arrows. Even a single
+one could be fatal to a Zora."
+116,Npc_Zora004_S1_013,"なんと言われようと このムズリ
+確たる証拠がなければ断じて信じぬゾ！！
+お前が ミファー様の想い人だというなら
+証拠を見せてみるゾラ
+証明できれば電気の矢を集める方法でも
+なんでも教えてやるゾラ","Save your lies for another Zora. Without
+any solid proof, I have no choice but to
+assume you are a lying scoundrel.
+If you are truly Lady Mipha's beloved,
+then prove it!
+
+Do so and I will tell you how to get
+those shock arrows, as well as
+anything else you wish to know."
+117,Npc_Zora004_S1_014,"んん？
+服を変えてこようと ワシはお前のことなど…","Hm? You really think changing your
+clothes is going to make me..."
+118,Npc_Zora004_S1_016,"神獣を鎮めるには電気の矢が… そうさな…
+20本以上は必要ゾラ
+お前に集めることができるゾラか？","In order to appease the Divine Beast,
+I estimate that you will need...hmm...
+at least 20 shock arrows.
+Do you think you can gather that many?"
+119,Npc_Zora004_S1_017,"ななッ…！バカにするな ハイリア人！
+そんな都合よく思い出したりするわけないゾラ","WHAT?!Do not mistake me for a fool, Hylian!
+There is no way you remembered her
+just now, when it is most convenient."
+120,Npc_Zora004_S1_018,ななッ…！,What?! No...
+121,Npc_Zora004_S1_019,"生まれたての稚魚みたいにフラフラと…
+ど どうしたゾラ…？","Hm? You are quivering like a hatchling...
+Whatever is the matter? "
+122,Npc_Zora004_S1_020,"ミファー様が このようなハイリア人を
+想うわけがございませぬ！","How could Lady Mipha possibly have
+feelings for a Hylian like him?!"
+123,Npc_Zora004_S1_021,"現に こやつは何も覚えておらんのですゾ
+このミファー様の像を見ても何も…","The facts are clear. He remembers
+nothing. Even when he looks upon
+Princess Mipha's statue..."
+124,Npc_Zora004_S1_022,"とにかく このムズリ
+確たる証拠がなければ断じて信じぬゾ！！
+証拠があるというなら見せてみるゾラ
+
+証明できれば電気の矢を集める方法でも
+なんでも教えてやるゾラ","In any case, without any solid proof,
+I cannot possibly take you at your word!
+
+If you have any such proof, now is the
+time to show it.
+
+Do so, and...and I...I shall tell you how to
+get those shock arrows! Yes, as well as
+anything else you wish to know."
+125,Npc_Zora004_S1_023,"！！なななッ！
+それはさっきのゾーラの鎧！
+ミファー様ご自身が手ずから作られた物…！
+なんと サイズがピッタリだゾラ！
+ここッ""これは どういうことゾラ？！","Eh?!What in the... That is the Zora armor
+from before!
+
+Lady Mipha made that by hand...
+and yet it fits you perfectly!
+
+What is the meaning of this?!"
+126,Npc_Zora004_S1_024,…,...
+127,Npc_Zora004_S1_025,"ハイリア人の助けを借りるのは嫌ゾラが
+仕方ありませぬ…
+ワシも ゾーラの男
+一度吐いた泡には責任を持ちますゾラ電気の矢が タンマリと手に入る場所
+教えましょうゾ","I do not approve of asking for help from
+a Hylian, but I suppose it is our only
+option at this point.
+I am a proud Zora. That means I must
+take responsibility for my unwarranted
+behavior toward you.As promised, I shall tell you where you
+can collect as many shock arrows as
+you will need."
+128,Npc_Zora004_S1_026,"そんな作り話を簡単に信じるムズリでは
+ございませぬゾ","You cannot fool me with such a
+fanciful lie. Not this Zora!"
+129,Npc_Zora004_S1_Near,誰が何と言おうと…,I don't care what you say!
+130,Npc_Zora004_S2_001,"電気の矢が欲しいなら
+雷獣山に行ってみるといいが…
+あそこには電気の矢を放ってくる
+凶暴な魔物ライネルがいるゾラ
+まあ…
+命の保証は できないゾラね","If you want shock arrows, you should
+go to Ploymus Mountain.
+
+There resides a vicious beast there...
+A Lynel that is known to frequently
+shoot shock arrows.
+Though be warned... If you go, I cannot
+guarantee you will survive."
+131,Npc_Zora004_S2_002,"なんと…雨が止んでいるゾラ…！
+ハイリア人！神獣を鎮めたゾラか？
+…いや そんなわけない
+これは何かの間違いかあるいは夢ゾラ…","Incredible... The rain has stopped!
+Hylian! Did you really appease the
+Divine Beast?
+No...that cannot be! This must be a
+mistake of sorts."
+132,Npc_Zora030_S3_001,"うおおッ！""最高だゾーッ！！","WOW! That was astounding!
+An absolute thrill!"
+133,Npc_Zora030_S3_002,"見ろ！ リンク！
+ルッタの放水が弱くなったゾ！","Link, look! The water spouting from
+Ruta has slowed down!"
+134,Npc_Zora030_S3_003,"ルッタが浮上するゾッ！
+キミの目的は中に入ることだろう？！","Ruta is floating higher now! You wanted
+to venture inside it, right?!"
+135,Npc_Zora030_S3_004,"そばまで寄せるゾ！
+うまくやって来てくれ！","I'll bring you closer! We're counting on
+you, hero! Do good work in there!"
+136,Npc_ZoraB001_F_001,"リンク！本当にありがとう！
+キミには感謝してもしきれないゾ！
+壊滅する運命だった われらが里を
+キミは救ってくれた！
+さあ最上級の感謝を贈るゾ！
+
+ゾッ！ ゾッ！ ゾッ！最高だゾッ！","Link! Thank you so much! Truly, I could
+never thank you enough!
+
+You helped save our home from
+vanishing away!
+
+This calls for a top-tier expression
+of gratitude!
+
+ZO! ZO! RA RA RA!
+With all my heart...
+Thank you!"
+137,Npc_ZoraB001_F_002,"リンク！本当にありがとう！
+さあさあ！ キングに報告してくれ！","Link! Thank you so much! Now hurry!
+You must go tell my father!"
+138,Npc_ZoraB001_F_003,ち父上…！,Father... I... Thank you!
+139,Npc_ZoraB001_F_004,"リンクーッ！""最高だゾッ！！",Link! This is wonderful!
+140,Npc_ZoraB001_R_001,"事実セゴン爺がルッタの肩に
+電気の矢を当てた時は確かに水は弱まった！
+だが オレたちは水棲の一族…
+セゴン爺とて電気の矢を扱うには限界が…
+結局 ゾーラに扱える電気では足りなかったのか
+ルッタの水の勢いは戻ってしまった","Seggin, who is quite shock resistant for
+a Zora, hit one with a shock arrow.
+Sure enough, it slowed the water a bit.
+Unfortunately, as an aquatic race,
+we Zora are terribly vulnerable to
+the power of electricity.
+Perhaps because we could not safely
+strike it with enough electricity at once,
+the water soon returned to its full force."
+141,Npc_ZoraB001_R_002,"だから それならばと オレが助けになってくれる
+ハイリア人探しに出た というワケだゾ！","That is why I went in search of a Hylian
+who could help us!"
+142,Npc_ZoraB001_R_003,"言葉を慎め ムズリ！
+リンクは オレが頼んで里に来てもらったのだ！
+この大雨の中頼れるのは ハイリア人しかいない
+この前 みなで決めたではないか！","Muzu! It is rude to speak that way to
+your king and his guest. Link is here
+because I invited him!
+With such unprecedented rainfall,
+we have no choice but to rely on
+the aid of a trustworthy Hylian.
+Have we not already discussed this and
+arrived at that very conclusion?"
+143,Npc_ZoraB001_R_004,"彼なら オレ達に力を貸し
+この里を救ってくれるにちがいないゾ！","He is the key to saving Zora's Domain.
+I have no doubt in my mind."
+144,Npc_ZoraB001_R_005,"もう言わなくてもわかると思うが リンク…電気の矢で カラクリを起動させてくれ！もちろん オレがサポートする
+一緒にルッタを止めてくれないか！","Link, I am certain you have already
+figured this out, but...We need you to use shock arrows to
+get those orbs working properly again!I will aid you in any way I can, of course.
+Please, hero... I beg of you. Help me
+stop Ruta's rampage of destruction!"
+145,Npc_ZoraB001_R_006,"父上！
+ここで姉上のことは…
+リンクも混乱していますゾ","Father... I do not believe discussing my
+sister is helping matters at the moment.
+Link seems confused."
+146,Npc_ZoraB001_R_007,"リンク！ ムズリは オレが説得するから
+ちょっと待っていてくれ！","Link! Do not let his words concern you.
+I will work this out with Muzu.
+I shall return shortly!"
+147,Npc_ZoraB001_R_008,"言葉を慎め ムズリ！このタイミングで里を訪れたハイリア人！
+オレは運命的なものを彼に感じる","Muzu! How dare you speak so rudely
+to your king and his guest!This Hylian has come to us in our most
+dire hour of need. That our paths have
+crossed is certainly the work of fate."
+148,Npc_ZoraB001_R_010,"ハイリア人の英傑？
+リンクが あの英傑その人なのか？！
+そうだ たしかにそう聞いた覚えが！
+これは驚くべき出来事かもしれないゾ！","The Hylian Champion? You can't mean
+THE Link? THAT Champion?!
+
+So that's where I have heard your name
+before! What a fateful coincidence that
+we should cross paths!"
+149,Npc_ZoraB001_R_011,"もう言わなくてもわかると思うが リンク…電気の矢で カラクリを起動させてくれ！もちろん オレがサポートする
+一緒にルッタを止めてくれないか！
+ルッタの水の勢いが弱まれば
+内部に乗り込む事も可能なはずだ！","Link, I am certain you have already
+figured this out, but...We need you to use shock arrows to
+get those orbs working properly again!I will aid you in any way I can, of course.
+Please, hero... I beg of you. Help me
+stop Ruta's rampage of destruction!
+What's more, if we are able to stop Ruta,
+you should be able to get inside of it!"
+150,Npc_ZoraB001_R_012,リンクにも そんな目的があったのだな…,"I did not know you had such grand
+ambitions, Link..."
+151,Npc_ZoraB001_R_013,よし！ オレも協力するゾ！,"Wondrous! Naturally, I shall help too!"
+152,Npc_ZoraB001_R_014,"暴走が止まれば""乗り込む事も出来る
+リンク！一緒にルッタを鎮めよう！","Once it has stopped rampaging, you can
+easily climb inside it. Come, Link!
+Let us appease Ruta together!"
+153,Npc_ZoraB001_R_F001,"おおッ！
+君はハイリア人ではないか！
+最高だッ！！なんという良いタイミングに
+来てくれたのだ！","Oh! You are a Hylian, are you not?!
+
+
+This is perfect!What excellent timing for you to
+show up!"
+154,Npc_ZoraB001_R_F002,"さあさあ父上と話してくれ！
+頼みたい事があるのだ！","Come, friend, and speak with our king!
+He has something important he wishes
+to ask of you!"
+155,Npc_ZoraB001_S1_002,"ムズリよ聞いてくれ
+お前に黙っていたことがある
+本人を前にして言うのも何だが リンクこそ
+ミファー姉さんの想い人だったのだゾ
+オレはその頃 まだ小さかったから
+分からなかったのだが
+父上からは何度も姉上がリンクのことを
+想っていたという話を聞かされてきた","Listen well, Muzu. There is something
+you need to know.
+
+He who stands here...the man called
+Link...is the one whom my sister,
+Mipha, had feelings for.
+I was only a child then, so I did not know
+it myself at the time. But it is so.
+
+I grew up hearing my father tell stories,
+some of which were about my sister's
+undying love for a Hylian named Link."
+156,Npc_ZoraB001_S1_003,そうかッ！獣人 ライネルか！,"Aha!You must mean that Lynel!
+He is a man-beast, that one!"
+157,Npc_ZoraB001_S1_004,うむ よく聞いてくれ,OK... Listen carefully.
+158,Npc_ZoraB001_S1_005,"電気の矢が20本以上集まったら
+東の貯水湖で待機するオレの所に来るんだ！","When you have gathered at least 20
+shock arrows, come join me at
+East Reservoir Lake. I'll be waiting!"
+159,Npc_ZoraB001_S1_007,"なにを言うんだ ムズリ！
+大丈夫に決まってる！！","Why do you still doubt him, Muzu?
+I have no doubt he will be triumphant!"
+160,Npc_ZoraB001_S1_009,"よし…！
+協力して神獣に挑むゾ！","Wonderful! Together we shall stop that
+Divine Beast's onslaught!"
+161,Npc_ZoraB001_S1_010,"本当だ ムズリ
+お前は知らんだろうが…","It is the truth, Muzu. Though you never
+knew it, he was ever in Mipha's heart."
+162,Npc_ZoraB001_S1_011,"これで わかっただろう？姉上の想い人が誰だったのか
+誰の為に この鎧を作ったのか…！
+この鎧が リンクにピッタリなのが
+何よりの証拠だゾ！","Now you understand, do you not?Now you know who her heart
+belonged to and who she made
+this special armor for.
+The fact that this armor fits Link perfectly
+should be proof enough that Mipha made
+it for him and him alone!"
+163,Npc_ZoraB001_S1_012,"なんと強情なヤツだ…
+だが証拠ならあるゾ！
+リンク！さっき父上が渡したゾーラの鎧を
+ムズリに見せてやるんだ！","The stubborn fool. Lucky for us,
+we have proof!
+
+Link! Go ahead and show Muzu the
+Zora armor my father gave you!"
+164,Npc_ZoraB001_S1_013,"どうした リンク？
+大丈夫か？","What is the matter, Link?
+Are you unwell?"
+165,Npc_ZoraB001_S1_014,"ムズリ！
+リンクの着ている服を よく見るんだゾ！","Muzu! Look closely at the clothes
+Link is wearing!"
+166,Npc_ZoraB001_S1_015,"昔から ハイリア人嫌いだったお前には言うなと
+ミファー姉さんが口止めしていたそうだゾ","You have always disliked Hylians,
+even before the Great Calamity.
+That is why Mipha never told you."
+167,Npc_ZoraB001_S1_016,"さあ協力する約束だぞ ムズリ
+電気の矢は どうやったらたくさん手に入る？
+おまえの事だ もう調べてあるのだろう？","Now that you know, you must promise
+to help him save us all, Muzu.
+
+Please... Tell us where we can find the
+shock arrows we need. Knowing you,
+I bet you have already figured it out."
+168,Npc_ZoraB001_S1_017,"アイツは電気の矢を使う魔物！
+ヤツから電気の矢を奪う という事だな？
+凶暴だが リンクなら なんとかなるだろう","That beast does indeed wield
+shock arrows. That is certainly
+one way to collect them quickly.
+He is vicious, to be sure. But I am certain
+Link will rise to the challenge."
+169,Npc_ZoraB001_S1_018,"よし リンク早速行動開始だゾ
+雷獣山には里の東の滝を登るのが近道だ！
+早速 そのゾーラの鎧が役立つゾ
+滝壺まで泳いで行って一気に滝登りだ！
+オレは神獣のいる東の貯水湖で待機する
+電気の矢が20本以上集まったら来てくれ！","OK, Link. Let's get moving. The fastest
+way to Ploymus Mountain is to ascend
+the waterfall east of the domain!
+That Zora armor should come in handy.
+Just swim to the waterfall basin, and then
+go up the waterfall from there!
+I'll wait at East Reservoir Lake, right by
+the Divine Beast. Gather at least 20
+shock arrows, and then come join me!"
+170,Npc_ZoraB001_S1_020,"…！さすがだな リンク！
+電気の矢を すでに持っていたか
+ならば雷獣山に行くのは
+電気の矢が足りなくなったらで いいって事だな","Hm?Well, well! What have we here?
+It seems you already have some
+shock arrows!
+Still, if you need any more, you can
+always go to Ploymus Mountain
+to restock!"
+171,Npc_ZoraB001_S1_021,"ならば リンク…
+オレは神獣のいる東の貯水湖で待機するゾ！
+準備が出来たら東の貯水湖に来てくれ！","Link... I'll be waiting for you at
+East Reservoir Lake, right by the
+Divine Beast.
+When you are ready, come join me there!"
+172,Npc_ZoraB001_S1_022,"電気の矢が足りなくなったら 
+雷獣山のことを思い出してくれ！
+だが今は準備万端…！
+東の貯水湖で待機するオレの所に来るんだ！","If you run out of shock arrows,
+remember Ploymus Mountain!
+
+But it looks like you're all set for now.
+Come join me at East Reservoir Lake!"
+173,Npc_ZoraB001_S1_024,"なんと強情なヤツ…
+だが証拠ならあるゾ！
+さっき父上が渡そうとしていたゾーラの鎧を
+ムズリに見せてやるんだ！","The stubborn fool. Lucky for us,
+we have proof!
+
+Show Muzu the Zora armor my father
+gifted you with!"
+174,Npc_ZoraB001_S1_027,"おまえは まだ気が付かないのか…
+リンクが着ているものを良く見てみろ！","Have you truly not figured it out yet?
+Simply take a closer look at what Link
+is wearing!"
+175,Npc_ZoraB001_S1_Near,ムズリ…聞いてくれ,Muzu... Please listen...
+176,Npc_ZoraB001_S2_001,"おお来たなリンク！
+待ちわびていたゾ！","Glad to see you're ready to go, Link!"
+177,Npc_ZoraB001_S2_002,"グーッ ジョブだ！さすがはリンク！
+さあ水の神獣を鎮めに行くゾ！
+それっ！！","Wonderful!You never cease to amaze, Link!
+Now then, let us go and appease
+that Divine Beast as one!
+Here we go!!"
+178,Npc_ZoraB001_S2_003,水の神獣の背中を見てくれ！,Gaze now upon the Divine Beast's back!
+179,Npc_ZoraB001_S2_004,"ピンクに光る装置が見えるだろう？！
+あれを電気の矢で射るんだゾ！
+キミにはゾーラの鎧に宿る滝登りの力がある！オレがキミを神獣のそばまで連れて行く
+そこの滝から飛んで狙うんだゾ！","Do you see those glowing, pink orbs?
+You will need to shoot each of them with
+a shock arrow!
+With your Zora armor, you now have the
+ability to ascend waterfalls!So I shall take you right up to the side of
+the Divine Beast, and from there you can
+swim up and take aim!"
+180,Npc_ZoraB001_S2_005,"なんと！ まだなのか！
+それは良くないゾ！","What? Not yet?! That is not a good sign,
+my friend!"
+181,Npc_ZoraB001_S2_006,"ゾーラの鎧と電気の矢の
+準備はできたか？","Are you ready for this? Do you have your
+Zora armor and enough shock arrows?"
+182,Npc_ZoraB001_S2_007,キミならやれる！ オレは信じてるゾ！さあ オレの背中に乗ってくれ！,I know you can do it! I believe in you!Now hurry up and get on my back!
+183,Npc_ZoraB001_S2_008,"…ん？…ちょっと待ってくれッ！
+電気の矢は少なくとも4本はいるゾ！","Hm? Wait a second... You need at least
+four shock arrows for this mission!"
+184,Npc_ZoraB001_S2_009,"いい返事だゾ！
+よし！来い！",Good answer! Let's get going!
+185,Npc_ZoraB001_S2_010,"何を言うんだ！全く問題ないゾ！
+よし！来い！","What are you talking about?!
+We can do this! Let's get going!"
+186,Npc_ZoraB001_S2_011,よし！行くゾーッ！！,OK! Here we go!!
+187,Npc_ZoraB001_S2_012,水の中なら誰にも負けんゾ！,Ha! I am unstoppable in the water!
+188,Npc_ZoraB001_S2_013,"オレは全速力で突っ走る！
+チャンスとみたらルッタの滝に突っ込むゾ！","I'll keep going at full speed! It's up to
+you to ward off Ruta's attacks!"
+189,Npc_ZoraB001_S2_014,"ルッタが こちらに反応している！
+いったん離れて攻め入るスキを伺うゾ！","Ruta is responding to our presence!
+I'll move away and wait for an opening
+before we approach!"
+190,Npc_ZoraB001_S2_016,"リンク！東の貯水湖から離れているゾ？
+撤退するのか？！","Link! You are leaving the area of
+East Reservoir Lake! Do you wish
+to retreat for now?!"
+191,Npc_ZoraB001_S2_018,さっきは惜しかったな リンク！,"You almost had it, Link!"
+192,Npc_ZoraB001_S2_019,"覚えているか！ リンク！
+水の神獣の背中を見てくれ！","Do you remember what to do, Link?
+Gaze upon the Divine Beast's back!"
+193,Npc_ZoraB001_S2_020,リンク！ オレはキミを信じ続けるゾ！さあ もう一度 オレの背中に乗ってくれ！,"Link! I still believe in you!Come on! Get on my back and we shall
+try it again!"
+194,Npc_ZoraB001_S2_021,…分かった仕切り直すゾ！,"OK... We shall start over when the time
+is right!"
+195,Npc_ZoraB001_S2_022,"よし…合流するゾ！
+こっちに来てくれ！","OK... Let us regroup then!
+Come on over!"
+196,Npc_ZoraB001_S2_023,"…ちょっと待ってくれッ！
+よく見たらゾーラの鎧を着てないじゃないか！","Wait a second... Now that I look closer,
+I see that you are not wearing your
+Zora armor!"
+197,Npc_ZoraB001_S2_024,"…ちょっと待ってくれッ！
+どちらも準備できてないじゃないか！","Wait a second... You do not have the
+right armor equipped, nor do you
+have all of the arrows you need!"
+198,Npc_ZoraB001_S2_025,"電気の矢とゾーラの鎧がないと
+水の神獣を鎮められないゾ！
+急いで
+準備を整えて来てくれ！","Unless you have enough shock arrows
+and your Zora armor, we cannot possibly
+hope to appease the Divine Beast!
+Please hurry and gather what you need!"
+199,Npc_ZoraB001_S2_026,"…ん？…ちょっと待ってくれッ！
+電気の矢を 20本以上持ってないじゃないか！","Hm? Hey, wait a moment! You do not yet
+have at least 20 shock arrows!"
+200,Npc_ZoraB001_S2_027,"神獣ヴァ・ルッタは
+古代の不思議な力を使ってくる！","Are you ready? Divine Beast Vah Ruta
+will undoubtedly use its ancient and
+mysterious powers against us..."
+201,Npc_ZoraB001_S2_028,"氷のようなブロックも古代エネルギーらしい！
+対処は キミにまかせたゾ！","That includes hurling giant ice blocks
+that we will need to watch out for.
+I shall leave those to you!"
+202,Npc_ZoraB001_S45_001,"おお！ リンク！
+ルッタの中はどうなんだ？
+俺はリンクが目的を果たすのを
+応援するゾ！
+がんばってくれ！","Link! I must ask you something!
+What was it like within Ruta?
+
+In any case, I know you still have a job
+to do, and I am certain you will succeed.
+
+Give it everything you have, my friend!"

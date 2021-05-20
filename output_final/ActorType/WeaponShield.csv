@@ -1,0 +1,408 @@
+#,Title,JPja,USen
+1,Weapon_Shield_001_Desc,"軽量な木材から作られているため
+戦闘初心者でも扱いやすい盾
+矢などの軽い攻撃なら受ける事ができる","This lightweight, simple shield is ideal for
+less-experienced fighters. It can withstand
+light attacks, but blocking stronger blows
+is not recommended."
+2,Weapon_Shield_001_Name,木の盾,Wooden Shield
+3,Weapon_Shield_001_PictureBook,"軽量な木材から作られているため
+戦闘初心者でも扱いやすい盾
+矢などの軽い攻撃なら受ける事ができる","This lightweight, simple shield is ideal for
+less-experienced fighters. It can withstand
+light attacks, but blocking stronger blows
+is not recommended."
+4,Weapon_Shield_002_Desc,"かつて城を守る兵士に支給された盾
+木でできているので軽くて使いやすいが
+火が付くと燃えてしまうので注意","A shield once used by the guards of Hyrule
+Castle. It's easy to handle, but its core is 
+made of wood, so it can catch fire."
+5,Weapon_Shield_002_Name,兵士の盾,Soldier’s Shield
+6,Weapon_Shield_002_PictureBook,"かつて城を守る兵士に支給された盾
+木でできているので軽くて使いやすいが
+火が付くと燃えてしまうので注意","A shield once used by the guards of Hyrule
+Castle. It's easy to handle, but its core is 
+made of wood, so it can catch fire."
+7,Weapon_Shield_003_Desc,"ハイラル王家に仕えた騎士が使っていた盾
+金属製の頑丈な作りで激しい戦闘にも耐えられる
+重量があるので扱いにはそれなりの腕前が必要","A shield favored by the knights who served
+the Hyrulean royal family. Its sturdy metal
+construction makes it quite durable, but
+its weight requires decent skill to wield."
+8,Weapon_Shield_003_Name,騎士の盾,Knight's Shield
+9,Weapon_Shield_003_PictureBook,"ハイラル王家に仕えた騎士が使っていた盾
+金属製の頑丈な作りで激しい戦闘にも耐えられる
+重量があるので扱いにはそれなりの腕前が必要","A shield favored by the knights who served
+the Hyrulean royal family. Its sturdy metal
+construction makes it quite durable, but
+its weight requires decent skill to wield."
+10,Weapon_Shield_004_Desc,"落ちている適当な木の板に 
+握り手を付けただけの ボコブリンの盾
+耐久性も低く簡単に壊れてしまう","A Bokoblin-made shield created by attaching
+a handhold to any flat tree bark picked up
+off the ground. It's pretty shoddy, so don't
+expect it to last very long."
+11,Weapon_Shield_004_Name,ボコ盾,Boko Shield
+12,Weapon_Shield_004_PictureBook,"落ちている適当な木の板に 
+握り手を付けただけの ボコブリンの盾
+耐久性も低く簡単に壊れてしまう","A Bokoblin-made shield created by attaching
+a handhold to any flat tree bark picked up
+off the ground. It's pretty shoddy, so don't
+expect it to last very long."
+13,Weapon_Shield_005_Desc,"少し硬い木で作られたボコブリンの盾
+木の板に動物の骨をくくりつけて
+強度を増してある","A Boko shield made of slightly stronger
+wood and reinforced with animal bones."
+14,Weapon_Shield_005_Name,トゲボコ盾,Spiked Boko Shield
+15,Weapon_Shield_005_PictureBook,"少し硬い木で作られたボコブリンの盾
+木の板に動物の骨をくくりつけて
+強度を増してある","A Boko shield made of slightly stronger
+wood and reinforced with animal bones."
+16,Weapon_Shield_006_Desc,"化石の骨を縁に取り付けて補強されたボコ盾
+敵の攻撃を受ける性能は改良されているが
+作りは相変わらず雑で耐久性はそれほど高くない","This Boko shield is reinforced with fossilized
+bone. Its defensive capabilities are
+respectable, but its predictably slipshod
+craftsmanship spells low durability."
+17,Weapon_Shield_006_Name,竜骨ボコ盾,Dragonbone Boko Shield
+18,Weapon_Shield_006_PictureBook,"化石の骨を縁に取り付けて補強されたボコ盾
+敵の攻撃を受ける性能は改良されているが
+作りは相変わらず雑で耐久性はそれほど高くない","This Boko shield is reinforced with fossilized
+bone. Its defensive capabilities are
+respectable, but its predictably slipshod
+craftsmanship spells low durability."
+19,Weapon_Shield_007_Desc,"リザルフォスが好んで使う盾
+金属で作られているが荒っぽい作りを
+しているため耐久性はそれほど高くない","A common shield found among the Lizalfos.
+It's made of metal, but its sloppy
+craftsmanship offers poor durability."
+20,Weapon_Shield_007_Name,リザルシールド,Lizal Shield
+21,Weapon_Shield_007_PictureBook,"リザルフォスが好んで使う盾
+金属で作られているが荒っぽい作りを
+しているため耐久性はそれほど高くない","A common shield found among the Lizalfos.
+It's made of metal, but its sloppy
+craftsmanship offers poor durability."
+22,Weapon_Shield_008_Desc,"異なる種類の金属を組み合わせる事で
+強度を上げたリザルシールド
+縁がトゲトゲしているので扱いには注意","This Lizal shield has been strengthened by
+adding a different type of metal to the mix.
+The edge is lined with spikes, so handle
+with care."
+23,Weapon_Shield_008_Name,強化リザルシールド,Reinforced Lizal Shield
+24,Weapon_Shield_008_PictureBook,"異なる種類の金属を組み合わせる事で
+強度を上げたリザルシールド
+縁がトゲトゲしているので扱いには注意","This Lizal shield has been strengthened by
+adding a different type of metal to the mix.
+The edge is lined with spikes, so handle
+with care."
+25,Weapon_Shield_009_Desc,"金属の装甲を何枚も重ねたリザルシールド
+ガード性能は高いが重量があるため 
+戦闘能力の高い個体だけが装備している","This Lizal shield is adorned with several
+metal shells as a means of reinforcement.
+Its defensive capabilities are high, but its
+weight requires a skilled soldier to bear."
+26,Weapon_Shield_009_Name,鋼鉄リザルシールド,Steel Lizal Shield
+27,Weapon_Shield_009_PictureBook,"金属の装甲を何枚も重ねたリザルシールド
+ガード性能は高いが重量があるため 
+戦闘能力の高い個体だけが装備している","This Lizal shield is adorned with several
+metal shells as a means of reinforcement.
+Its defensive capabilities are high, but its
+weight requires a skilled soldier to bear."
+28,Weapon_Shield_013_Desc,"古代のシーカー族が用いた技術で作られた盾
+小型ガーディアンが放つ程度の ビーム攻撃ならば
+ガードするだけで反射する事ができる","A shield made with ancient Sheikah
+technology. It can deflect a Guardian
+Scout's beam."
+29,Weapon_Shield_013_Name,ガーディアンガード,Guardian Shield
+30,Weapon_Shield_013_PictureBook,"古代のシーカー族が用いた技術で作られた盾
+小型ガーディアンが放つ程度の ビーム攻撃ならば
+ガードするだけで反射する事ができる","A shield made with ancient Sheikah
+technology. It can deflect a Guardian
+Scout's beam."
+31,Weapon_Shield_014_Desc,"出力が上がり大きくなったガーディアンガード
+現代では失われた古の技術で作られており
+金属製の盾に引けを取らない ガード性能を持つ","This larger version of a Guardian shield
+has had its output level boosted. Its
+defensive capabilities are comparable to
+those of a metal shield's."
+32,Weapon_Shield_014_Name,ガーディアンガード+,Guardian Shield+
+33,Weapon_Shield_014_PictureBook,"出力が上がり大きくなったガーディアンガード
+現代では失われた古の技術で作られており
+金属製の盾に引けを取らない ガード性能を持つ","This larger version of a Guardian shield
+has had its output level boosted. Its
+defensive capabilities are comparable to
+those of a metal shield's."
+34,Weapon_Shield_015_Desc,"最大限まで出力が強化された古代の盾
+金属製の盾では実現できない軽さと強さを持ち
+小型ガーディアンのビームを反射する事もできる","The output level of this shield has been
+boosted to maximum. Its combat capabilities
+surpass those of metallic shields, and it
+can deflect Guardian Scout beams."
+35,Weapon_Shield_015_Name,ガーディアンガード++,Guardian Shield++
+36,Weapon_Shield_015_PictureBook,"最大限まで出力が強化された古代の盾
+金属製の盾では実現できない軽さと強さを持ち
+小型ガーディアンのビームを反射する事もできる","The output level of this shield has been
+boosted to maximum. Its combat capabilities
+surpass those of metallic shields, and it
+can deflect Guardian Scout beams."
+37,Weapon_Shield_016_Desc,"ライネルが装備している金属製の頑強な盾
+盾でありながら刃を持っているため 
+それを利用して斬撃を繰り出す事ができる","A sturdy shield favored by Lynels for its
+defensive and offensive capabilities. First
+and foremost a shield, but the bladed edges
+can deal slashing attacks when deflecting."
+38,Weapon_Shield_016_Name,ライネルの盾,Lynel Shield
+39,Weapon_Shield_016_PictureBook,"ライネルが装備している金属製の頑強な盾
+盾でありながら刃を持っているため 
+それを利用して斬撃を繰り出す事ができる","A sturdy shield favored by Lynels for its
+defensive and offensive capabilities. First
+and foremost a shield, but the bladed edges
+can deal slashing attacks when deflecting."
+40,Weapon_Shield_017_Desc,"装甲と刃が増えて攻防共に強化された
+ライネルの盾縁に使われている刃は
+簡単な防具ならば切り裂く鋭さを持つ","This Lynel-made shield has been reinforced
+with armor and even more blades. Stronger
+in both defense and offense, it can tear
+through basic armor when deflecting."
+41,Weapon_Shield_017_Name,獣王の盾,Mighty Lynel Shield
+42,Weapon_Shield_017_PictureBook,"装甲と刃が増えて攻防共に強化された
+ライネルの盾縁に使われている刃は
+簡単な防具ならば切り裂く鋭さを持つ","This Lynel-made shield has been reinforced
+with armor and even more blades. Stronger
+in both defense and offense, it can tear
+through basic armor when deflecting."
+43,Weapon_Shield_018_Desc,"どんなに痛烈な攻撃も難なく防ぐガード性能と
+強敵を断ち切る刃を併せ持つ究極の盾
+白髪のライネルが好んで使用している","This ultimate Lynel shield is used only by the
+white-haired Lynels. It excels at defending
+against even the most brutal of attacks and
+cutting down powerful foes when deflecting."
+44,Weapon_Shield_018_Name,獣神の盾,Savage Lynel Shield
+45,Weapon_Shield_018_PictureBook,"どんなに痛烈な攻撃も難なく防ぐガード性能と
+強敵を断ち切る刃を併せ持つ究極の盾
+白髪のライネルが好んで使用している","This ultimate Lynel shield is used only by the
+white-haired Lynels. It excels at defending
+against even the most brutal of attacks and
+cutting down powerful foes when deflecting."
+46,Weapon_Shield_021_Desc,"騎士が使っていたであろう金属製の古びた盾
+長い間打ち捨てられて錆びている
+防御性能は落ちているが それなりに使える","It's likely this rusty old shield once belonged
+to a knight. It still has some defensive
+capabilities, but its usefulness has been
+worn down by time."
+47,Weapon_Shield_021_Name,錆びた盾,Rusty Shield
+48,Weapon_Shield_021_PictureBook,"騎士が使っていたであろう金属製の古びた盾
+長い間打ち捨てられて錆びている
+防御性能は落ちているが それなりに使える","It's likely this rusty old shield once belonged
+to a knight. It still has some defensive
+capabilities, but its usefulness has been
+worn down by time."
+49,Weapon_Shield_022_Desc,"ハイラルの騎士の中でも王家の人間を護る
+任務に就いていた騎士に与えられた盾
+美しい装飾と高い防御性能が魅力的な逸品","A shield issued to the Hyrulean royal
+family's immediate guard detail. It boasts a
+high defense, but these days it's more a
+collector's item due to its ornamentation."
+50,Weapon_Shield_022_Name,王家の盾,Royal Shield
+51,Weapon_Shield_022_PictureBook,"ハイラルの騎士の中でも王家の人間を護る
+任務に就いていた騎士に与えられた盾
+美しい装飾と高い防御性能が魅力的な逸品","A shield issued to the Hyrulean royal
+family's immediate guard detail. It boasts a
+high defense, but these days it's more a
+collector's item due to its ornamentation."
+52,Weapon_Shield_023_Desc,"コログ族が人間のために作ったといわれる盾
+コログの森にしか自生しない とびきり硬い木を
+使って作られているので見た目よりはるかに丈夫","The Koroks made this shield specifically for
+Hylians. It's made from the finest hard wood
+of trees that grow only in the Korok forest, so
+it's sturdier than it looks."
+53,Weapon_Shield_023_Name,森人の盾,Forest Dweller's Shield
+54,Weapon_Shield_023_PictureBook,"コログ族が人間のために作ったといわれる盾
+コログの森にしか自生しない とびきり硬い木を
+使って作られているので見た目よりはるかに丈夫","The Koroks made this shield specifically for
+Hylians. It's made from the finest hard wood
+of trees that grow only in the Korok forest, so
+it's sturdier than it looks."
+55,Weapon_Shield_025_Desc,"繊細な装飾がほどこされたゾーラ族の盾
+熟練した使い手は左右の湾曲部分で
+攻撃を受け流すようにして身を護るという","A Zora-made shield adorned with intricate
+ornamentation. It's said that true masters
+of this shield can redirect attacks as a rock
+redirects rushing water."
+56,Weapon_Shield_025_Name,ゾーラの盾,Silver Shield
+57,Weapon_Shield_025_PictureBook,"繊細な装飾がほどこされたゾーラ族の盾
+熟練した使い手は左右の湾曲部分で
+攻撃を受け流すようにして身を護るという","A Zora-made shield adorned with intricate
+ornamentation. It's said that true masters
+of this shield can redirect attacks as a rock
+redirects rushing water."
+58,Weapon_Shield_026_Desc,"片手剣と盾という ゲルド族の基本的な
+戦闘スタイルに合わせて進化した金属製の盾
+兵士だけではなく旅人にも重宝されている","The design of this metal shield has changed
+over time to match the Gerudo's sword-and-
+shield fighting style. It's favored by soldiers
+and travelers alike."
+59,Weapon_Shield_026_Name,ゲルドの盾,Gerudo Shield
+60,Weapon_Shield_026_PictureBook,"片手剣と盾という ゲルド族の基本的な
+戦闘スタイルに合わせて進化した金属製の盾
+兵士だけではなく旅人にも重宝されている","The design of this metal shield has changed
+over time to match the Gerudo's sword-and-
+shield fighting style. It's favored by soldiers
+and travelers alike."
+61,Weapon_Shield_030_Desc,"勇者が手にしたという伝説と共に
+古よりハイラル王家に受け継がれてきた盾
+他を寄せ付けない圧倒的な防御力と耐久性を誇る","A shield passed down through the Hyrulean
+royal family, along with the legend of the
+hero who wielded it. Its defensive capabilities
+and durability outshine all other shields."
+62,Weapon_Shield_030_Name,ハイリアの盾,Hylian Shield
+63,Weapon_Shield_030_PictureBook,"勇者が手にしたという伝説と共に
+古よりハイラル王家に受け継がれてきた盾
+他を寄せ付けない圧倒的な防御力と耐久性を誇る","A shield passed down through the Hyrulean
+royal family, along with the legend of the
+hero who wielded it. Its defensive capabilities
+and durability outshine all other shields."
+64,Weapon_Shield_031_Desc,"森の猟師が好んで使う盾
+クセがなく扱いやすいが耐久性はあまり高くない
+ウサギの意匠は獲物に恵まれるための縁起担ぎ","Favored by hunters for its rabbit design,
+which is said to bring luck on hunts. It's
+easy to use, but its durability leaves
+something to be desired."
+65,Weapon_Shield_031_Name,ウサギ柄の盾,Hunter's Shield
+66,Weapon_Shield_031_PictureBook,"森の猟師が好んで使う盾
+クセがなく扱いやすいが耐久性はあまり高くない
+ウサギの意匠は獲物に恵まれるための縁起担ぎ","Favored by hunters for its rabbit design,
+which is said to bring luck on hunts. It's
+easy to use, but its durability leaves
+something to be desired."
+67,Weapon_Shield_032_Desc,"海の漁師が好んで使う盾
+船の上で扱いやすいよう軽い木で作られている
+魚の意匠は豊漁を願っての縁起担ぎ","Often carried by fishermen for its fish design,
+which represents hope for a great catch. Its
+light wooden construction makes it
+convenient to take onto a boat."
+68,Weapon_Shield_032_Name,魚柄の盾,Fisherman's Shield
+69,Weapon_Shield_032_PictureBook,"海の漁師が好んで使う盾
+船の上で扱いやすいよう軽い木で作られている
+魚の意匠は豊漁を願っての縁起担ぎ","Often carried by fishermen for its fish design,
+which represents hope for a great catch. Its
+light wooden construction makes it
+convenient to take onto a boat."
+70,Weapon_Shield_033_Desc,"シーカー族によって古代技術を用いて作られた盾
+攻撃を受け止める力は非常に強いが構造的に
+耐久性が低く実戦には向かないとされた","This shield was forged using ancient Sheikah
+technology. It boasts extremely high stopping
+power, but its structural weakness made its
+low durability impractical for combat."
+71,Weapon_Shield_033_Name,近衛の盾,Royal Guard's Shield
+72,Weapon_Shield_033_PictureBook,"シーカー族によって古代技術を用いて作られた盾
+攻撃を受け止める力は非常に強いが構造的に
+耐久性が低く実戦には向かないとされた","This shield was forged using ancient Sheikah
+technology. It boasts extremely high stopping
+power, but its structural weakness made its
+low durability impractical for combat."
+73,Weapon_Shield_034_Desc,"ハテール地方の伝統的な意匠が描かれた盾
+盾としての性能は一般的な木の盾と
+大差はないが工芸品として人気がある","This shield features a traditional design from
+Necluda. Its combat capabilities aren't much
+better than the standard wooden shield, but
+it found popularity for its design."
+74,Weapon_Shield_034_Name,ケモノ柄の盾,Emblazoned Shield
+75,Weapon_Shield_034_PictureBook,"ハテール地方の伝統的な意匠が描かれた盾
+盾としての性能は一般的な木の盾と
+大差はないが工芸品として人気がある","This shield features a traditional design from
+Necluda. Its combat capabilities aren't much
+better than the standard wooden shield, but
+it found popularity for its design."
+76,Weapon_Shield_035_Desc,"旅人の護身用に広く使われている盾
+頑丈な木に革が張られており低級な魔物や
+獣からの攻撃程度なら受ける事ができる","A sturdy shield loved by many an adventurer.
+It is made of animal hide and sturdy wood
+and is best suited to defending against weak
+monsters or animals."
+77,Weapon_Shield_035_Name,旅人の盾,Traveler's Shield
+78,Weapon_Shield_035_PictureBook,"旅人の護身用に広く使われている盾
+頑丈な木に革が張られており低級な魔物や
+獣からの攻撃程度なら受ける事ができる","A sturdy shield loved by many an adventurer.
+It is made of animal hide and sturdy wood
+and is best suited to defending against weak
+monsters or animals."
+79,Weapon_Shield_036_Desc,"ゲルドの兵士の中でも隊長以上のみに与えられる
+豪華な盾宝石が使われており装飾品としての
+価値が高いが盾としても優れている","This extravagant shield is presented to
+Gerudo warriors who rise to the rank of
+captain. Its apparent opulence is rivaled
+only by its combat capabilities."
+80,Weapon_Shield_036_Name,太陽の盾,Radiant Shield
+81,Weapon_Shield_036_PictureBook,"ゲルドの兵士の中でも隊長以上のみに与えられる
+豪華な盾宝石が使われており装飾品としての
+価値が高いが盾としても優れている","This extravagant shield is presented to
+Gerudo warriors who rise to the rank of
+captain. Its apparent opulence is rivaled
+only by its combat capabilities."
+82,Weapon_Shield_037_Desc,"英傑ウルボザが愛用していた至高の盾厳選された
+金属が使われ軽さと強靭さを兼ね備えた逸品
+強烈な攻撃も易々と受け止められる性能を持つ","This shield was cherished by the Gerudo
+Champion Urbosa. The gold used to make it
+was handpicked to ensure a design that is
+both lightweight and very durable."
+83,Weapon_Shield_037_Name,七宝の盾,Daybreaker
+84,Weapon_Shield_037_PictureBook,"英傑ウルボザが愛用していた至高の盾厳選された
+金属が使われ軽さと強靭さを兼ね備えた逸品
+強烈な攻撃も易々と受け止められる性能を持つ","This shield was cherished by the Gerudo
+Champion Urbosa. The gold used to make it
+was handpicked to ensure a design that is
+both lightweight and very durable."
+85,Weapon_Shield_038_Desc,"古代シーカー族の技術を用いた盾
+青く輝く表面は ガードしているだけで 
+ガーディアンのビームを反射する機能を持つ","This shield was made using ancient Sheikah
+technology. Its surface glows blue when
+raised in defense. Enhanced functionality
+allows it to deflect Guardian beams."
+86,Weapon_Shield_038_Name,古代兵装・盾,Ancient Shield
+87,Weapon_Shield_038_PictureBook,"古代シーカー族の技術を用いた盾
+青く輝く表面は ガードしているだけで 
+ガーディアンのビームを反射する機能を持つ","This shield was made using ancient Sheikah
+technology. Its surface glows blue when
+raised in defense. Enhanced functionality
+allows it to deflect Guardian beams."
+88,Weapon_Shield_040_Desc,"村人の生活を支える料理鍋のフタ
+丈夫な木で作られてはいるが 
+盾として使い続けるには心もとない","The lid of a large soup pot. It smells vaguely
+of poultry broth... Yum! It can take quite a
+beating before breaking."
+89,Weapon_Shield_040_Name,ナベのフタ,Pot Lid
+90,Weapon_Shield_040_PictureBook,"村人の生活を支える料理鍋のフタ
+丈夫な木で作られてはいるが 
+盾として使い続けるには心もとない","The lid of a large soup pot. It smells vaguely
+of poultry broth... Yum! It can take quite a
+beating before breaking."
+91,Weapon_Shield_041_Desc,"シーカー族が用いる木製の小型盾
+機動性の確保や死角を作りにくくするために
+特殊な形状をしていると言われている","A small Sheikah-made shield. Its design is
+intended to decrease blind spots without
+sacrificing too much defense."
+92,Weapon_Shield_041_Name,護心の盾,Shield of the Mind's Eye
+93,Weapon_Shield_041_PictureBook,"シーカー族が用いる木製の小型盾
+機動性の確保や死角を作りにくくするために
+特殊な形状をしていると言われている","A small Sheikah-made shield. Its design is
+intended to decrease blind spots without
+sacrificing too much defense."
+94,Weapon_Shield_042_Desc,"リト族の戦士が愛用する盾
+空中戦を行う際背負ったまま空を
+飛びやすいように この形状をしている","Rito warriors cherish this shield. Its unique
+shape is designed with mid-battle flight in
+mind to facilitate aerial combat."
+95,Weapon_Shield_042_Name,風凪の盾,Kite Shield
+96,Weapon_Shield_042_PictureBook,"リト族の戦士が愛用する盾
+空中戦を行う際背負ったまま空を
+飛びやすいように この形状をしている","Rito warriors cherish this shield. Its unique
+shape is designed with mid-battle flight in
+mind to facilitate aerial combat."
+97,Weapon_Shield_057_Desc,"大海原を旅した勇者が
+愛用したといわれている盾
+勇者の家に代々伝わってきた物らしい","A shield said to have been the favorite of a
+hero who traveled the open seas. It was
+apparently a family heirloom, passed down
+through many generations."
+98,Weapon_Shield_057_Name,勇者の盾,Hero's Shield

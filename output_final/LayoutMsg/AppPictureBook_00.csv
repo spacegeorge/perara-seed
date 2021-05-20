@@ -1,0 +1,40 @@
+#,Title,JPja,USen
+1,"""0000""",主な生息地,Common Locations
+2,"""0001""",手に入りやすい場所,Common Locations
+3,"""0002""",性能,Properties
+4,"""0003""",追加効果,Additional Effects
+5,"""0010""",特になし,None
+6,"""0011""",回復効果なし,No restorative effect
+7,"""0012""",特になし,None
+8,"""0020""",ハイラル全土,Greater Hyrule
+9,"""0021""",不明,Unknown
+10,"""0022""","シーカーストーンのデータが欠損しています
+現在は使用する事ができません",Sheikah Slate data is damaged.
+11,"""0023""",フィローネ地方,Faron
+12,"""0024""",カカリコ村,Kakariko Village
+13,"""0025""",お宝いろいろ,Treasures
+14,"""0026""",不明,Unknown
+15,"""0027""",ハイラル平原,Hyrule Field
+16,"""0028""",ハイラル城,Hyrule Castle
+17,"""0029""",オルディン山脈,Eldin Mountains
+18,"""0030""",タバンタ辺境,Tabantha Frontier
+19,"""0031""",ラネール山,Mount Lanayru
+20,"""0032""",ハイリア湖,Lake Hylia
+21,"""0033""",フロリア湖,Lake Floria
+22,"""0034""",神獣 ヴァ・ナボリス,Divine Beast Vah Naboris
+23,"""0035""",神獣 ヴァ・ルーダニア,Divine Beast Vah Rudania
+24,"""0036""",神獣 ヴァ・ルッタ,Divine Beast Vah Ruta
+25,"""0037""",神獣 ヴァ・メドー,Divine Beast Vah Medoh
+26,Pa_ChallengeCategory_00-T_CatName_00,生き物,Creatures
+27,Pa_ChallengeCategory_01-T_CatName_00,魔物,Monsters
+28,Pa_ChallengeCategory_02-T_CatName_00,素材,Materials
+29,Pa_ChallengeCategory_03-T_CatName_00,武器,Equipment
+30,Pa_ChallengeCategory_04-T_CatName_00,お宝,Treasure
+31,Pa_Info_00-T_SubTitleB_00,特徴,Description
+32,Pa_Info_00-T_SubTitleC_00,とれる素材,Recoverable Materials
+33,Pa_Info_00-T_SubTitleD_00,料理した時の効果,Cooking Effects
+34,Pa_Info_00-T_SubTitleE_00,ハートの回復量,Hearts Recovered
+35,Pa_Page_00-Pa_Btn_00-T_New_00,New,New
+36,Pa_SensorIcon_00-T_Ancient_00,SheikahSensor,SheikahSensor
+37,Pa_SensorIcon_00-T_Off_00,OFF,Off
+38,Pa_SensorIcon_00-T_SensorOn_00,試練の祠,Shrine

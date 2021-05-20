@@ -1,0 +1,98 @@
+#,Title,JPja,USen
+1,"""0000""",ごめんなさい,Sorry!
+2,"""0001""",さようなら,Good-bye.
+3,"""0002""",お願いします,Please?
+4,"""0003""",結構です,"No, thanks."
+5,"""0004""",はい,Yes.
+6,"""0005""",いいえ,No.
+7,"""0006""",はい？,I'm sorry?
+8,near00,フンッ！ フンッ！,Hmph! Hmph!
+9,near01,さて…,Well then...
+10,near02,ふぅ…,Phew...
+11,near03,ンゴゴゴゴ…,*snort*
+12,talk00,…何を見ているゴロ？,...What are you starin' at?
+13,talk01,…仕事の邪魔すんなゴロ,...I'm workin' here. Buzz off.
+14,talk02,…フン,Hmph...
+15,talk03,…おい,...What now?
+16,talk04,…寝るゴロ,Time for some shut-eye...
+17,talk05,…ンゴッ,Hmph...
+18,talk06,気が散るゴロ,You're distractin' me!
+19,talk07,用が無いなら あっち行けゴロ,"If ya don't need anything, get outta here."
+20,talk08,何度も… うっとうしいゴロ,Again and again... I can't stand it.
+21,talk09,こちとら かまってるヒマは無いゴロ,"I don't have time to deal with
+your nonsense!"
+22,talk10,いい加減にするゴロ,Pull yourself together!
+23,talk12,"もし巨岩砕きを壊したり無くしたりして
+作り直して欲しくなったなら
+石打ちと火打ち石5個""それと
+ダイヤモンドを ワシの所まで持って来るゴロ","If ya lose or break the Boulder Breaker
+and ya want me to make another one...
+
+just bring me a cobble crusher,
+five pieces of flint, and a diamond."
+24,talk13,"…巨岩砕きを持ってないようゴロね
+
+その辺に落ちてないか よく探すゴロ","Oh... Looks like ya don't have the
+Boulder Breaker. You'd better look and
+see if ya dropped it somewhere."
+25,talk14,"…巨岩砕きを持ってないようゴロね
+
+作り直すには石打ちと火打ち石が5個…
+それとダイヤモンドが必要ゴロが","Looks like ya don't have the
+Boulder Breaker...
+
+If ya want a new one, I'm gonna need
+a cobble crusher, five pieces of flint,
+and a diamond."
+26,talk15,…石打ちを持ってないようゴロ,You don't have a cobble crusher...
+27,talk16,…ダイヤモンドを持ってないようゴロ,You don't have a diamond...
+28,talk17,"…石打ちとダイヤモンドを
+持ってないようゴロ","You don't have a cobble crusher
+or a diamond..."
+29,talk18,…火打ち石が足りてないようゴロ,You need more pieces of flint...
+30,talk19,"…石打ちを持ってないし
+火打ち石も足りてないようゴロ","Look, ya don't have a cobble crusher,
+and ya don't have enough flint..."
+31,talk20,"…ダイヤモンドを持ってないし
+火打ち石も足りてないようゴロ","You don't have a diamond, and you don't
+have enough pieces of flint..."
+32,talk21,"…全部持ってないとは""話になんねぇゴロ
+
+巨岩砕きを作り直して欲しいなら
+
+石打ちと火打ち石5個""それと
+ダイヤモンドを ワシの所まで持って来るゴロ","If ya don't have everything I need,
+then I can't do anything for ya.
+
+If ya want another Boulder Breaker,
+bring me a cobble crusher, five pieces
+of flint, and a diamond."
+33,talk23,"ダイヤモンドは この辺でもなかなか採れない
+貴重な鉱石ゴロ ほんとにやるゴロ？","Diamonds are a precious ore you can't
+easily find, even around these parts.
+You sure ya want me to do this?"
+34,talk24,"フン…
+作り直したくなったら また来るゴロ","Hmph. Come back when ya want me
+to forge it again."
+35,talk25,"じゃ作業に取り掛かるゴロ
+そこで待つゴロ","Right. I'll get started, then.
+Wait over there."
+36,talk26,"フン…""我ながら なかなかの出来ゴロ
+受け取るゴロ","Hmph. I must say... I did a great job!
+Go on, take it."
+37,talk27,…おい,Hey...
+38,talk28,今から仕事ゴロ…どくゴロ,I've got work to do. Outta my way!
+39,talk29,欲しいのか？,You want this?
+40,talk30,失敗作ゴロ…持ってけ,"Here's one I screwed up... 
+You can have it."
+41,talk32,"…オメェが巨岩砕きの継承者ゴロか
+
+オメェみたいなチビ助に
+本当にダルケル様の剣が使えるゴロ？
+…まぁいいゴロ","So...you're the one to inherit the
+Boulder Breaker, eh?
+
+I wonder if a pip-squeak like you can
+handle Daruk's sword...
+
+Well, whatever. It is what it is."

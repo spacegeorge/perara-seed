@@ -1,0 +1,156 @@
+#,Title,JPja,USen
+1,"""0001""",買い取って！,Buy from me!
+2,"""0002""",さよなら,Good-bye.
+3,"""5500""",はい,OK.
+4,"""5501""",いいえ,Never mind.
+5,"""5502""",買う,I'll buy.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5507""",ぜんぶ買う,I'll take them all!
+8,"""5508""",ぜんぶ売る,All of them!
+9,Com_Talk_00,どの品だい？,Which item?
+10,Com_Talk_01,"だと
+ルピーになるけどいいかい？","You're selling that to me, then?
+It'll come to  rupees. That OK?"
+11,Com_Talk_02,サークサーク…,Sarqso...
+12,Com_Talk_02b,"良いモンなのに売っちまうなんてねぇ…
+こっちにとっては ありがたいことだけどさ…","Such quality. Why are you selling?
+Nice purchase for me, but..."
+13,Com_Talk_02c,"サークサーク…
+金は渡したからね","Sarqso... I've handed over the
+money..."
+14,Com_Talk_02d,"サークサーク…
+こりゃ孫が喜びそうだよ","Sarqso... I bet my grandchild will be
+pretty excited about this."
+15,Com_Talk_04,まったく…優柔不断なヴァーイだねぇ,"Geez...you're an indecisive little vai,
+aren't you?"
+16,Com_Talk_05,"売りたいもんがあるんだったら
+さっさと頼むよ","If you have something you want to sell,
+go on and show it to me."
+17,Com_Talk_05b,"他にも買ってほしいものがあるなら
+見せてみなよ…","If there's anything else you want to sell,
+go ahead and show it to me..."
+18,Com_Talk_05c,買えるなら何でも買い取るよ…,I'll buy anything I can from you...
+19,Com_Talk_05d,他にはもうないのかい？,Is that it?
+20,Com_Talk_13,"かい？
+いくつ売りたいんだい？",How many do you want to sell?
+21,Com_Talk_14,"が個だね
+それならルピーで買い取れるよ？","So  of them...
+I'd say... rupees. Sound good?"
+22,Com_Talk_15,それはちょっとうちでは買い取れないねぇ,I can't buy that from you.
+23,Com_Talk_16,なんだい服は脱いでから売るもんだよ,"Of course, it's impossible for me to buy
+clothes that you're still wearing..."
+24,Com_Talk_33,"""だね？
+それならルピーだよ","Just one, right?
+In that case, it'll be  rupees."
+25,Com_Talk_34,"を全部かい？
+個全部ならルピーだよ？","All of them? There's  of them, so
+that'll come to  rupees. That OK?"
+26,Com_Talk_35,"を個全部なら
+ルピーになるよ？ それでいいかい？","All of them? That'll come to 
+rupees, you know. That OK?"
+27,Com_Talk_50,"なら…
+ルピーもらうよ？","That's  rupees, you know."
+28,Com_Talk_51,"か…
+いくつ欲しいんだい？",How many should I wrap up for you?
+29,Com_Talk_52,"が個だと
+合計ルピーになるけどいいかい？","So  of them...
+In that case, it'll be  rupees!"
+30,Com_Talk_53,"おや やめちゃうのかい？
+残念だね","Oh, that's too bad...
+Oh, well."
+31,Com_Talk_54,"おや ルピーが足りないんじゃ
+売れないねぇ","You don't have enough rupees... I can't
+sell to you."
+32,Com_Talk_55,"よく見たら荷物がいっぱいだね
+売るか捨てるかしておくれ","Looks like your inventory is full. 
+You could always sell something or
+throw something away..."
+33,Com_Talk_56,"""だね？
+それならルピーだよ","Just one?
+In that case, it'll be  rupees."
+34,Near001,……,...
+35,Talk_01,"ハイリア人観光客かい？
+見ての通り矢なら揃ってるよ…
+こんな品揃え他ではなかなか
+お目にかかれないよ…","Are you a traveler from abroad? A Hylian
+tourist? As you can see, I have some
+arrows for sale.
+You won't see a selection like this
+anywhere else."
+36,Talk_02,満足したかい？,Are you satisfied?
+37,Talk_03,"ふっ冷やかしか…
+それでもいいさ… また寄っとくれよ",You browsing or buying?
+38,Talk_04,"やれやれ あれだけの商品を揃えるのに
+どれだけかかったか…
+それをこんなにあっさり
+買い占められちまうなんてね
+でも アンタのお陰で孫たちに
+新しいオモチャを買ってやれそうだよ
+サークサーク","My goodness. It took a lot of time and
+effort to procure all those products...
+
+For you to buy every last arrow like that,
+well...I don't think I've ever seen my
+selection cleared out so completely.
+But, thanks to you, I think I'll be able to
+buy my grandchildren some new toys.
+
+Sarqso."
+39,Talk_06,サークサーク…,Sarqso...
+40,Talk_07,"サークサーク…
+また仕入れとくよ","Sarqso... I'll be sure to restock them
+for you."
+41,Talk_09,"アタシの娘も お客さんと同じぐらいだけど
+朝から夜まで ずっと働きづめでね…
+おかげで子供達の世話は
+アタシの仕事ってわけさ…
+ああ すまないね
+何かアタシに用だったんじゃないのかい？","My daughter really isn't that much older
+than you, and she works nonstop from
+dawn until dusk.
+Which means it's my responsibility to
+look after her children for her...
+
+Ah, I'm sorry. Did you need me for
+something?"
+42,Talk_11,"ハイリア人観光客かい？
+見ての通り ウチは矢の専門店さ…
+こんな品揃え他ではなかなか
+お目にかかれないよ…","Are you a traveler from abroad? A Hylian
+tourist? As you can see, this is an
+arrow specialty shop.
+You won't see a selection like this
+anywhere else."
+43,Talk_12,サヴォッタ…,Sav'otta...
+44,Talk_13,サヴァーク…,Sav'aaq...
+45,Talk_14,サヴァサーバ…,Sav'saaba...
+46,Talk_15,"サークサーク…
+よかったら他のも見ていっとくれよ","Sarqso... Feel free to see what else
+we have in stock before you go."
+47,Talk_16,"どうだい？
+ウチのはいい矢だろ？","What do you think? We've got some
+pretty nice arrows here, don't we?"
+48,Talk_17,"そんなに矢が必要なんて…
+変わったヴァーイだね","You sure do need a lot of arrows...
+You're a strange little vai, aren't you?"
+49,Talk_18,"雷鳴の兜が戻ってきた時もそうだったが
+あの神獣まで大人しくさせちまうなんて…
+族長様には ほんとに驚かされっぱなしだよ…
+
+ウチの孫たちも族長様のように
+たくましく育ってほしいもんだよ
+ああすまないね
+アタシに何か用だったんじゃないのかい？","I felt this way a bit when the
+Thunder Helm was recovered, but now,
+with the Divine Beast calmed...
+Well, our chief sure is full of surprises.
+I hope my grandchildren grow up to be
+as strong as she is.
+Ahhh, I'm sorry. I was lost in my own
+thoughts there. Did you need
+something?"
+50,Talk_19,"ウチは品切れしちまったが
+この街には他にもたくさんお店があるからさ
+色々見てくるといいだろうよ","I'm fresh out of stock right now, but you
+might want to take a look at some of the
+other shops around town."

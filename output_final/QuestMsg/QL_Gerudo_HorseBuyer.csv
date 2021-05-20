@@ -1,0 +1,23 @@
+#,Title,JPja,USen
+1,QL_Gerudo_HorseBuyer_Desc,"ゲルド地方の街道で出会った旅人ズッキー
+旅の途中で馬を失い困っているようだ
+
+馬を連れてくれば
+300ルピーで買い取ってくれるというが
+ズッキーの体格に合う
+適度なサイズの馬でなければならないようだ","You ran into a traveler named Zyle on a road in
+the Gerudo region—he's in trouble after losing
+his horse on his journey.
+
+He says he'll give you300 rupeesif you bring
+him a horse...but it has to be appropriately
+sizedfor Zyle's body frame."
+2,QL_Gerudo_HorseBuyer_Finish,"旅の途中で馬を失い困っていたズッキー
+連れてきた馬を気に入ってくれたようだ
+
+300ルピーと引き換えに馬を譲った","Zyle lost his horse during his travels and he
+seems to have approved of the one that you
+gave him to replace it.
+
+You gave the horse to him for300 rupees."
+3,QL_Gerudo_HorseBuyer_Name,その馬 買い取ります！,Good-Sized Horse

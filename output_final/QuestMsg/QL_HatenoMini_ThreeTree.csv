@@ -1,0 +1,24 @@
+#,Title,JPja,USen
+1,QL_HatenoMini_ThreeTree_Desc,"ハテノ村から見える雪山の頂上にある
+三本杉には古くからの言い伝えがあるらしい
+
+『3本を1本にし それを背にして海に進め
+岩に閉ざされし勇者の試練が眠る』
+との事だ","There is an old legend about the three cedar
+trees on the snowy mountain visible from
+Hateno Village.
+
+\""When the three summit trees become one,
+turn your back to them and head toward the
+sea. A trial encased in stone awaits you there.\"""
+2,QL_HatenoMini_ThreeTree_Finished,"『3本を1本にし それを背にして海に進め
+岩に閉ざされし勇者の試練が眠る』
+
+三本杉の言い伝えの謎を解き
+勇者の試練を発見した","\""When the three summit trees become one,
+turn your back to them and head toward the
+sea. A trial encased in stone awaits you there.\""
+
+You solved the riddle of the three cedar trees
+and discovered the hero's trial."
+3,QL_HatenoMini_ThreeTree_Name,三本杉の秘密,Secret of the Cedars

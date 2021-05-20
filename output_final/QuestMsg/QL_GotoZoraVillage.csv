@@ -1,0 +1,28 @@
+#,Title,JPja,USen
+1,QL_GotoZoraVillage_Desc,"ゾーラ族の王子 シドに
+ゾーラの里まで来てくれ と依頼された
+
+道中は大雨のせいで
+崖がとても滑りやすくなっているらしい","Sidon, prince of the Zora, invited you to
+come to Zora's Domain.
+
+He warned you that owing to the heavy rains,
+the rocks along the path are dangerously
+slippery."
+2,QL_GotoZoraVillage_Finish,"ゾーラの里の玉座に着いた
+
+シドの話によると
+ゾーラの里が危機に陥っていて
+強いハイリア人の手助けが必要だそうだ","You arrived at the throne room in
+Zora's Domain.
+
+According to Sidon, Zora's Domain is in
+danger, and they need the help of a strong
+Hylian."
+3,QL_GotoZoraVillage_Name,ゾーラの里に辿り着け,Reach Zora's Domain
+4,QL_GotoZoraVillage_Step1,"ゾーラの里に辿り着いた
+
+ドレファン王は玉座にいるそうだ
+上の階にある玉座に行こう","You arrived at Zora's Domain. The next step
+is to visit King Dorephan in thethrone room
+on the top floor."

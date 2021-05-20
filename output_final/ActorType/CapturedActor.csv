@@ -1,0 +1,244 @@
+#,Title,JPja,USen
+1,Animal_Insect_AA_Desc,"10年も生きるとされる貴重なカブトムシ
+その強力な生命力は薬にすると
+がんばりゲージを一気に回復する効果を生み出す","This valuable beetle can live up to ten
+years. When cooked with monster parts,
+its impressive vitality translates into an
+elixir that will greatly restore your stamina."
+2,Animal_Insect_AA_Name,ガンバリカブト,Energetic Rhino Beetle
+3,Animal_Insect_AA_PictureBook,"10年も生きるとされる貴重なカブトムシ
+その強力な生命力は薬にすると
+がんばりゲージを一気に回復する効果を生み出す","This valuable beetle can live up to ten
+years. When cooked with monster parts,
+its impressive vitality translates into an
+elixir that will greatly restore your stamina."
+4,Animal_Insect_AB_Desc,"高熱の火山地帯に生息する珍しいチョウ
+耐燃性の高い体液を体内にため込んでおり
+煮込んで作る塗り薬は炎に耐える効果を発揮する","This rare butterfly lives in volcanic regions.
+Its body contains a heat-resistant liquid,
+which can be turned into a topical elixir
+that offers resistance to flames."
+5,Animal_Insect_AB_Name,ヒケシアゲハ,Smotherwing Butterfly
+6,Animal_Insect_AB_PictureBook,"高熱の火山地帯に生息する珍しいチョウ
+耐燃性の高い体液を体内にため込んでおり
+煮込んで作る塗り薬は炎に耐える効果を発揮する","This rare butterfly lives in volcanic regions.
+Its body contains a heat-resistant liquid,
+which can be turned into a topical elixir
+that offers resistance to flames."
+7,Animal_Insect_A_Desc,"水辺を素早く跳ね回るカエル
+その肉には俊敏性を増す物質が含まれており
+魔物の素材と煮込むと移動速度を上げる薬になる","A quick frog that can be found
+hopping around near water. Cook it with
+monster parts to draw out its speed-boost
+effect."
+8,Animal_Insect_A_Name,ゴーゴーガエル,Hot-Footed Frog
+9,Animal_Insect_A_PictureBook,"水辺を素早く跳ね回るカエル
+その肉には俊敏性を増す物質が含まれており
+魔物の素材と煮込むと移動速度を上げる薬になる","A quick frog that can be found
+hopping around near water. Cook it with
+monster parts to draw out its speed-boost
+effect."
+10,Animal_Insect_B_Desc,"雨の時にしか姿を現さない珍しいカエル 
+キモが持つ成分に代謝を活発にする効能があり
+薬にすると がんばりゲージが限界を超えて増える","This rare frog only ventures out in the rain.
+When cooked with monster parts, the elixir
+it produces will temporarily increase your
+maximum stamina."
+11,Animal_Insect_B_Name,ガッツガエル,Tireless Frog
+12,Animal_Insect_B_PictureBook,"雨の時にしか姿を現さない珍しいカエル 
+キモが持つ成分に代謝を活発にする効能があり
+薬にすると がんばりゲージが限界を超えて増える","This rare frog only ventures out in the rain.
+When cooked with monster parts, the elixir
+it produces will temporarily increase your
+maximum stamina."
+13,Animal_Insect_C_Desc,"木陰など涼しい場所を好むトンボ
+青く透き通った羽は放熱成分を持つといわれ
+煮詰めると暑さに耐性を発揮する薬となる","This dragonfly prefers the cool shade of
+trees to the warmth of the sun. Its wings
+disperse heat from its body, which can be
+cooked into a heat-resistance elixir."
+14,Animal_Insect_C_Name,ヒンヤリヤンマ,Cold Darner
+15,Animal_Insect_C_PictureBook,"木陰など涼しい場所を好むトンボ
+青く透き通った羽は放熱成分を持つといわれ
+煮詰めると暑さに耐性を発揮する薬となる","This dragonfly prefers the cool shade of
+trees to the warmth of the sun. Its wings
+disperse heat from its body, which can be
+cooked into a heat-resistance elixir."
+16,Animal_Insect_E_Desc,"夜になると淡く光る昆虫体内に持つ発光物質は
+集中力を高める効果もあるといわれ
+薬にすると物音を立てずに行動が可能になる","These fireflies glow gently in the dark. When
+cooked with monster parts, the compound
+that causes it to glow results in an elixir that
+will allow you to move more quietly."
+17,Animal_Insect_E_Name,シズカホタル,Sunset Firefly
+18,Animal_Insect_E_PictureBook,"夜になると淡く光る昆虫体内に持つ発光物質は
+集中力を高める効果もあるといわれ
+薬にすると物音を立てずに行動が可能になる","These fireflies glow gently in the dark. When
+cooked with monster parts, the compound
+that causes it to glow results in an elixir that
+will allow you to move more quietly."
+19,Animal_Insect_F_Desc,"力尽きてしまった時にポーチから飛び出して 
+瞬時に傷をいやしてくれる
+ホタルと違い昼間も淡く輝いている","This fairy will fly from your pouch and heal all
+your wounds the moment you lose your last
+heart. It's easily mistaken for a firefly at first,
+but it glows in the daylight as well as night."
+20,Animal_Insect_F_Name,妖精,Fairy
+21,Animal_Insect_F_PictureBook,"力尽きてしまった時にポーチから飛び出して 
+瞬時に傷をいやしてくれる
+ホタルと違い昼間も淡く輝いている","This fairy will fly from your pouch and heal all
+your wounds the moment you lose your last
+heart. It's easily mistaken for a firefly at first,
+but it glows in the daylight as well as night."
+22,Animal_Insect_G_Desc,"森に生息する昆虫の王様大きな角は
+煮込んで薬にすると筋肉の血流量を増やす
+効果があるといわれ攻撃力が増す","This beetle's razor-sharp horns demand that
+you handle it with care. Boil the horns
+alongside monster parts to concoct an elixir
+that will raise your attack power."
+23,Animal_Insect_G_Name,ツルギカブト,Bladed Rhino Beetle
+24,Animal_Insect_G_PictureBook,"森に生息する昆虫の王様大きな角は
+煮込んで薬にすると筋肉の血流量を増やす
+効果があるといわれ攻撃力が増す","This beetle's razor-sharp horns demand that
+you handle it with care. Boil the horns
+alongside monster parts to concoct an elixir
+that will raise your attack power."
+25,Animal_Insect_H_Desc,"エサを求めて丸一日跳ね続けるスタミナを持つ
+通称ガンバッタ体内に蓄えられた滋養分は
+がんばりゲージを回復する薬の元となる","A very energetic cricket.
+Cook it with monster parts to create
+a stamina-recovery elixir."
+26,Animal_Insect_H_Name,ガンバリバッタ,Restless Cricket
+27,Animal_Insect_H_PictureBook,"エサを求めて丸一日跳ね続けるスタミナを持つ
+通称ガンバッタ体内に蓄えられた滋養分は
+がんばりゲージを回復する薬の元となる","A very energetic cricket.
+Cook it with monster parts to create
+a stamina-recovery elixir."
+28,Animal_Insect_I_Desc,"雨がふる時にしか姿を見せない珍しいトンボ 
+長い羽は電流を体外へ逃がす特殊な成分を持ち 
+薬にするとその効能から耐電性が向上する","This rare dragonfly only appears in the rain.
+Its wings direct electricity away from its body.
+Cook it with monster parts for an electricity-
+resistance elixir."
+29,Animal_Insect_I_Name,ビリビリヤンマ,Electric Darner
+30,Animal_Insect_I_PictureBook,"雨がふる時にしか姿を見せない珍しいトンボ 
+長い羽は電流を体外へ逃がす特殊な成分を持ち 
+薬にするとその効能から耐電性が向上する","This rare dragonfly only appears in the rain.
+Its wings direct electricity away from its body.
+Cook it with monster parts for an electricity-
+resistance elixir."
+31,Animal_Insect_M_Desc,"主に深い森に住む希少なトカゲ
+栄養価の高い餌を食べ生命力が非常に強い 
+薬の材料にすると ハートの最大値が大きく上がる","This rare lizard lives deep in the forests. It
+feeds on high-nutrient foods, giving it great
+vitality. When used to make elixirs, they
+temporarily increase your maximum hearts."
+32,Animal_Insect_M_Name,マックストカゲ,Hearty Lizard
+33,Animal_Insect_M_PictureBook,"主に深い森に住む希少なトカゲ
+栄養価の高い餌を食べ生命力が非常に強い 
+薬の材料にすると ハートの最大値が大きく上がる","This rare lizard lives deep in the forests. It
+feeds on high-nutrient foods, giving it great
+vitality. When used to make elixirs, they
+temporarily increase your maximum hearts."
+34,Animal_Insect_N_Desc,"空気を冷やすリンプンを持つ不思議なチョウ
+雪に交じって舞う姿が美しい 
+魔物の素材と煮込むと暑さに耐えられる薬になる","The powdery scales of this butterfly's wings
+cool the air around it. Watching it flutter
+around snowflakes is a thing of beauty. Cook
+it with monster parts for a heat-resistant elixir."
+35,Animal_Insect_N_Name,ヒンヤリアゲハ,Winterwing Butterfly
+36,Animal_Insect_N_PictureBook,"空気を冷やすリンプンを持つ不思議なチョウ
+雪に交じって舞う姿が美しい 
+魔物の素材と煮込むと暑さに耐えられる薬になる","The powdery scales of this butterfly's wings
+cool the air around it. Watching it flutter
+around snowflakes is a thing of beauty. Cook
+it with monster parts for a heat-resistant elixir."
+37,Animal_Insect_P_Desc,"鎧のように硬い体を持つカブトムシ
+その殻の成分は煮込んで薬にすると 
+体幹を強化する効能があり防御力が増す","This beetle's hard body resembles armor.
+When the shell is cooked with monster parts,
+the resulting elixir boosts your defense."
+38,Animal_Insect_P_Name,ヨロイカブト,Rugged Rhino Beetle
+39,Animal_Insect_P_PictureBook,"鎧のように硬い体を持つカブトムシ
+その殻の成分は煮込んで薬にすると 
+体幹を強化する効能があり防御力が増す","This beetle's hard body resembles armor.
+When the shell is cooked with monster parts,
+the resulting elixir boosts your defense."
+40,Animal_Insect_Q_Desc,"森や平原などの暖かい地域に生息するチョウ
+太陽の光をため込んだリンプンは
+魔物の素材と煮込むと体を温める薬になる","A butterfly found in the woods and plains of
+warm regions. Its wings absorb the warmth of
+the sun. Cook it with monster parts to create
+an elixir that makes you feel warm and fuzzy."
+41,Animal_Insect_Q_Name,ポカポカアゲハ,Summerwing Butterfly
+42,Animal_Insect_Q_PictureBook,"森や平原などの暖かい地域に生息するチョウ
+太陽の光をため込んだリンプンは
+魔物の素材と煮込むと体を温める薬になる","A butterfly found in the woods and plains of
+warm regions. Its wings absorb the warmth of
+the sun. Cook it with monster parts to create
+an elixir that makes you feel warm and fuzzy."
+43,Animal_Insect_R_Desc,"雨が降る時にしか姿を見せない珍しいチョウ
+体内器官で絶縁成分を作り出す性質を持つ
+煮詰めて薬にすると電撃に耐性を得られる","This rare butterfly only shows itself when it
+rains. The organs in its body produce an
+insulating compound. When made into
+an elixir, it offers electrical resistance."
+44,Animal_Insect_R_Name,ビリビリアゲハ,Thunderwing Butterfly
+45,Animal_Insect_R_PictureBook,"雨が降る時にしか姿を見せない珍しいチョウ
+体内器官で絶縁成分を作り出す性質を持つ
+煮詰めて薬にすると電撃に耐性を得られる","This rare butterfly only shows itself when it
+rains. The organs in its body produce an
+insulating compound. When made into
+an elixir, it offers electrical resistance."
+46,Animal_Insect_S_Desc,"草地や森で見かけられる とても素早く走るトカゲ
+その肉には脚の筋力増強効果があるといわれ
+魔物素材と煮込めば移動速度を上げる薬になる","A lizard found throughout Hyrule. It's a bit
+slow to react at times, but if given a chance
+to escape, it will dart off quickly. Cook it with
+monster parts for a speed-boosting elixir."
+47,Animal_Insect_S_Name,ゴーゴートカゲ,Hightail Lizard
+48,Animal_Insect_S_PictureBook,"草地や森で見かけられる とても素早く走るトカゲ
+その肉には脚の筋力増強効果があるといわれ
+魔物素材と煮込めば移動速度を上げる薬になる","A lizard found throughout Hyrule. It's a bit
+slow to react at times, but if given a chance
+to escape, it will dart off quickly. Cook it with
+monster parts for a speed-boosting elixir."
+49,Animal_Insect_T_Desc,"羽の先端の赤い模様が特徴的なトンボ
+羽に発汗作用がある成分を持ち
+魔物の素材と煮詰めると寒さに耐性を得られる","This dragonfly has a special organ that
+causes it to sweat profusely. Cook it with
+monster parts for an elixir that will raise your
+core temperature so you can resist the cold."
+50,Animal_Insect_T_Name,ポカポカヤンマ,Warm Darner
+51,Animal_Insect_T_PictureBook,"羽の先端の赤い模様が特徴的なトンボ
+羽に発汗作用がある成分を持ち
+魔物の素材と煮詰めると寒さに耐性を得られる","This dragonfly has a special organ that
+causes it to sweat profusely. Cook it with
+monster parts for an elixir that will raise your
+core temperature so you can resist the cold."
+52,Animal_Insect_X_Desc,"オルディン地方にだけ生息する特殊なトカゲ
+鱗には耐火成分がたっぷり含まれており
+魔物の素材と煮込むと炎に耐えられる薬となる","This rare lizard can only be found in the
+Eldin region. Its scales have heat-resistant
+properties, so when cooked with monster
+parts, it produces a heat-resistance elixir."
+53,Animal_Insect_X_Name,ヒケシトカゲ,Fireproof Lizard
+54,Animal_Insect_X_PictureBook,"オルディン地方にだけ生息する特殊なトカゲ
+鱗には耐火成分がたっぷり含まれており
+魔物の素材と煮込むと炎に耐えられる薬となる","This rare lizard can only be found in the
+Eldin region. Its scales have heat-resistant
+properties, so when cooked with monster
+parts, it produces a heat-resistance elixir."
+55,BeeHome_Desc,"巣から採れるハチミツは栄養満点！
+その高栄養価により隠し味として使った料理は
+がんばりゲージ回復の効果を持つ","Honey straight from the hive is chock-full of
+nutrients. Cooking this into a meal unlocks
+the potential of these nutrients and provides
+a stamina-recovery effect."
+56,BeeHome_Name,ガンバリバチのハチミツ,Courser Bee Honey
+57,BeeHome_PictureBook,"巣から採れるハチミツは栄養満点！
+その高栄養価により隠し味として使った料理は
+がんばりゲージ回復の効果を持つ","Honey straight from the hive is chock-full of
+nutrients. Cooking this into a meal unlocks
+the potential of these nutrients and provides
+a stamina-recovery effect."

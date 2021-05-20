@@ -1,0 +1,83 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes.
+2,"""0001""",いいえ,No.
+3,"""0002""",そうでもない,That's not true.
+4,"""0003""",そうですか…,"Oh, really..."
+5,"""0004""",いいよ,Sure thing.
+6,"""0005""",ダメです,No way.
+7,near00,ふんふ～ん♪,♪La la! Da dee doo!♪
+8,near01,ねむ…,I'm beat...
+9,talk00,おっは～～…,"Morning, morning!"
+10,talk01,ちわ～～,G'day!
+11,talk02,ばんわ～～,G'night!
+12,talk03,降ってんね～～…,It's coming down!
+13,talk04,"何そのカッコ？""何か狙ってる～？","HA! Let me guess—you had to sell the
+shirt off of your back to afford staying at
+the inn here. This place is the worst."
+14,talk06,"よく見たらハイリア人じゃん
+旅行ってカンジ？","Whoa... I just realized that you're Hylian!
+You just wandering around Hyrule?
+Trying to find yourself?"
+15,talk07,チョー退屈だね この村,"Let me tell you... This village is straight
+up BOOOOORING."
+16,talk08,"お ホント？サンキュー
+じゃ手ェ出して","You serious? Cheers!
+Just hold out your hand."
+17,talk09,"今アタシ""新婚旅行中なんだけど～
+この村 ホント退屈！
+ゲルドの街だったら宝石買ったり～
+ゾーラの里だったら礼拝したり～
+いろいろ楽しいはずなんだけど…
+
+なんかもう早く帰りてーってカンジ～","I'm here on my honeymoon. But this
+town is seriously a hole.
+
+In Gerudo Town, they've got jewelry to
+buy. Zora's Domain is always a hoot with
+all of the weird, spiritual fish people...
+But here...I just want to go home already."
+18,talk10,"旦那は謝ってくれてンだけど～
+
+離婚されたくないなら
+焼きリンゴくらい持ってこいっつーの～","I can't believe my husband brought me
+here for our honeymoon...
+
+He already apologized, but if he doesn't
+want a divorce, I told him he'd better
+bring me a baked apple."
+19,talk11,そのカッコ笑える～,"Where's your shirt? I didn't realize this
+village was THAT kind of honeymoon
+resort..."
+20,talk12,ちわ～す,Heyyyy...
+21,talk13,ふぁ～ぁ… チョー眠ぃし…,Haaah... I'm exhausted...
+22,talk14,チョー眠ぃ…,SO tired...
+23,talk15,あっそ,"Oh, wow."
+24,talk19,え～ケチ～,What a cheapskate.
+25,talk20,すぅ…すぅ…,*SNOOOOOOORE*
+26,talk21,"あれ…この匂い
+君焼きリンゴ持ってなくない？","*sniff sniff* 
+I know that smell!
+You've got a baked apple!"
+27,talk22,"ホント新婚旅行は
+別のトコが よかったんだよね～","Really? He REALLY thought this freezing-
+cold town in the middle of nowhere was
+a good place to celebrate our love?"
+28,talk23,それ1つくんない？お礼はするし,Can I have one? I'll give you a present!
+29,talk24,それ5つくんない？お礼はするし,Can I have five? I'll give you a present!
+30,talk25,それ10個くんない？お礼はするし,Can I have 10? I'll give you a present!
+31,talk26,それ30個くんない？お礼はするし,Can I have 30? I'll give you a present!
+32,talk27,それ50個くんない？お礼はするし,Can I have 50? I'll give you a present!
+33,talk28,それ100個くんない？お礼はするし,Can I have 100? I'll give you a present!
+34,talk29,いやもう ホント カンベンだよ～,Give me a break already!
+35,talk30,"この焼きリンゴって
+旦那が作ってくれたヤツ～？
+ま ウマけりゃ何でもいっか","Now if I could only get my husband to
+cook me a baked apple every once in a
+while."
+36,talk31,"アタシ焼きリンゴは別腹だから～
+いっぱい持って来て～","I've got a second stomach and a hollow
+leg for baked apples. Bring me as many
+as you possibly can."
+37,talk33,"まとめて持って来てくれたら
+オマケしちゃうよ～","The more you bring me, the more I'll pay
+you for each one."

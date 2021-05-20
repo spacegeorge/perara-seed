@@ -1,0 +1,147 @@
+#,Title,JPja,USen
+1,"""0000""",なんでしょう？,What is it?
+2,"""0001""",また後で,See you later.
+3,"""0002""",いいですよ,Sure.
+4,"""0003""",それはダメ,Not a chance.
+5,"""0004""",実は…,Actually...
+6,near00,グゥ… グゥ…,*snore*... *snore*...
+7,near01,う～～ん…,Mmmm...
+8,talk00,あっ？,...
+9,talk01,"あなたって旅の人よね？
+
+だったら ちょっと聞いて！","You're a traveler, aren't you?
+
+
+Then listen up!"
+10,talk02,"あの雪山の頂上に
+3本の杉の木があるの見える？","You see those three trees up on top of
+that snowy mountain there?"
+11,talk03,"家にあった古い本を読んでたらね
+ページに挟まって小さな手紙が出てきて…
+『3本を1本にし それを背にして海に進め
+岩に閉ざされし試練が眠る』
+って書いてあったの","I found a small letter stuck between the
+pages of this old book at my house...
+
+It said, \""When the three summit trees
+become one, turn your back to them and
+head toward the sea.
+A trial encased in stone awaits you
+there.\"" I don't know what that means!"
+12,talk04,"きっと あの三本杉から東の
+アーモシア海岸の方に進め って事よ！ 
+その後の「岩に閉ざされし試練が眠る」は
+試練を超えた先に財宝があるんじゃない？！","But maybe it means we have to head to
+Afromsia Coast, which is just east of
+those three trees on the mountain! 
+For the \""trial encased in stone...\"" bit,
+I wonder if you get some kind of treasure
+for doing that..."
+13,talk05,あら おはよう,Mornin'.
+14,talk06,あら こんにちは,Good day.
+15,talk07,あら こんばんは,Evenin'.
+16,talk08,はいはい,"Ahhh, Hateno..."
+17,talk09,"お話ししたいのは山々だけど…
+私今から休むからねぇ","I need some time to relax... We can talk
+later on."
+18,talk10,旅のお方？,Are you a traveler?
+19,talk11,"あら？その青い炎って
+プルアお婆様の…","Oh? That blue flame... Is that the same
+as the one Purah has?"
+20,talk12,"その青い炎…早くプルアお婆様に
+持ってってあげなさいな","You'd better hurry and take that
+blue flame over to Purah's."
+21,talk13,あらら…残念ね,"Oh, dear... What a shame."
+22,talk14,"あら また来たのね？
+私の話聞いてくれるのかしら？","Oh, you're back? Got a second to chat?"
+23,talk15,すぅ すぅ,Zzz...zzz...
+24,talk17,"財宝は見つかったかしら？
+
+それにしても「財宝の権利をあげる」は
+言い過ぎたわ…
+今から七三にならないかしら？","Did you happen to find the treasure...
+by any chance?
+
+I guess it probably wasn't fair of me to
+expect you to do all of the exploring
+and adventuring...
+But maybe we could split the treasure
+seventy-thirty or something like that?"
+25,talk18,"三本杉の先…
+アーモシア海岸の方には行った？","Beyond the three summit trees... Did you
+ever make it over Afromsia Coast?"
+26,talk19,ん…旅の人？,"Hmm... You look like a traveler type 
+to me."
+27,talk20,"晴れてたら旅の人に見て欲しい物が
+あったんだけど雨じゃ仕方無いか…","There's something I've been waiting to
+show to an adventurous soul...but I 
+can't do it when it's raining like this."
+28,talk21,"冗談よ！
+
+私今の生活で十分満足してるし
+身の丈ってのがあるじゃないねぇ？","Ah, I'm just kidding!
+
+
+I'm plenty satisfied with what I have in
+my life as it is. The key is to always live
+within your means, you know?"
+29,talk22,"でも私…子供も居るし
+雪山を越えての旅は なかなかねぇ…
+だからこの権利 あなたにあげるわ！
+旅人なら見つけてみて！財宝！","But I have a child! I can't just go off
+on a journey across the mountains...
+
+But you can do that, right?! You'd be
+great at that! Go on! Head out there and
+bring us back that treasure!"
+30,talk23,"…
+
+どうしたの？浮かない顔して","Eh?
+
+
+What's wrong? Why the long face?"
+31,talk25,"えっ祠…？！
+
+なぁ～んだぁ～…
+財宝じゃないのか～～…
+ありがとうこれでスッキリしたわ
+財宝だと思ったんだけどなぁ…","A shrine?
+
+
+That's it? No treasure?
+
+
+Well...thanks for looking into it. I guess
+I'm kinda relieved. But I was really
+hoping there'd be some treasure..."
+32,talk26,"三本杉の先には
+祠があっただけなのね…
+それだったらこの村にもあるし要らないわ","Beyond the three summit trees...
+there was only a shrine, huh?
+
+We have our very own shrine here
+in the village, so I'm not so impressed..."
+33,talk27,だったら ちょっとついて来て,"In that case, follow me for a minute."
+34,talk28,"あら？その青い炎って
+所長さんの…","That blue flame... Wait, isn't that the
+lab director's..."
+35,talk29,"その青い炎…早く所長さんのトコに
+持ってってあげなさいな","You should hurry up and take that
+blue flame up to the lab director."
+36,talk30,"だったら見せたいモノがあるから
+だまってついて来てよ","Then there's something I want to show
+you. No questions, just follow me."
+37,talk31,あなた旅の途中なんでしょ？,You're a traveler if e'er I saw one!
+38,talk32,"はーい お待たせ旅の人！
+
+せっかくだから ちょっと聞いて！","Thanks for waitin', traveler!
+
+
+Why don't you take a moment and lemme
+tug on your tunic for a second...speakin'
+figuratively, of course."
+39,talk33,それじゃ またね！,"All right, see ya later! "
+40,talk34,"若い子が声かけてくれるのは嬉しいんだけど
+さすがに もう寝るわ…","I'm flattered that a young man like
+yourself wants to chew the fat,
+but these bones need their sleep..."

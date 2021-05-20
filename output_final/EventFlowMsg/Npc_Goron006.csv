@@ -1,0 +1,340 @@
+#,Title,JPja,USen
+1,"""0001""",旅の者です,I'm a traveler.
+2,"""0002""",さようなら,Good-bye.
+3,"""0007""",ルーダニアって？,Who is Rudania?
+4,"""0008""",ユン坊って？,Who is Yunobo?
+5,"""0010""",どうしたの？,What's wrong?
+6,"""0011""",大丈夫？,Are you OK?
+7,"""0012""",巨岩砕きって？,Boulder Breaker?
+8,"""0015""",退魔の剣って？,Legendary sword?
+9,"""0017""",ダルケル様？,Daruk?
+10,"""0018""",伝えたけど…,"I told him, but..."
+11,"""0019""",まだです…,Not yet...
+12,"""0020""",お礼は…,About that reward...
+13,"""0021""",ルーダニアは？,Where's Rudania?
+14,TerrorArrow,やンのか？,Wanna have a go at it?
+15,TerrorBomb,なんでィ？！,But whyyyy?!
+16,TerrorExplosion,オオゥ！！,Oh!
+17,TerrorSword,オウ？！,Oh?!
+18,near00,う～む…,Hmm...
+19,near01,オゥ！,*grumble*
+20,talk00,"ちょっと腰痛がな…
+
+っていうか""誰でィ？","Hmph, it's just some back pain...
+
+
+Wait. Who are you?"
+21,talk01,オゥ,*grumble*
+22,talk04,うっ…！,Arrrgh...
+23,talk06,お～～いちちちち…,Youch... Owwwowow...
+24,talk103,"よーし""長話はここまでだァ
+そろそろ ルーダニアを追っ払いに行ってくらァ","All right, that's enough outta me.
+Time to go drive off Rudania!"
+25,talk107,"んでェ アンタ
+中止の事 ユン坊には伝えてくれたんかィ？","Did ya tell Yunobo that I'm cancelin'
+for today?"
+26,talk108,"そうかい ありがとよ
+
+はぁ…""今日は休養だな","Oh, good. Thanks, brother.
+
+
+*sigh* Nothin' left for me to do but
+rest and try to heal fast."
+27,talk109,そうかい頼んだぜ,"Oh. Well, I'm countin' on ya!"
+28,talk110,オレに用かィ？,Do ya need somethin'?
+29,talk111,"お礼？
+
+ダルケル様が使っていた
+特別な業物渡しただろう？
+…
+
+あっ！""北の廃坑でユン坊を助けてくれた
+お礼がまだだったなぁ","Reward? But I already gave you the
+special weapon used by Daruk,
+didn't I?
+...
+
+
+Oh, I get it! I still haven't rewarded
+you for saving Yunobo from the
+abandoned mine."
+30,talk112,"オゥ おめぇさんか…
+
+おめぇさんは一体誰なんでィ？","Oh, it's you...
+
+
+Who are you anyway?"
+31,talk113,"さァ痛み止めも飲んだし
+そろそろユン坊とこ行ってくらァ
+ダルケル様にゃ悪ィが
+ルーダニア ブッ飛ばさねェと…","OK then. Well, I took my painkillers, so I
+guess it's time to meet up with Yunobo.
+
+I mean no disrespect to Daruk's legacy,
+but if I'm not there to give that Rudania
+a good walloping..."
+32,talk114,"…でよォ？
+ユン坊は そのダルケル様の子孫 ってワケよォ！","...What's gotten into you? Hylians sure
+are strange. Anyway, Yunobo is actually
+a descendant of the Great Daruk."
+33,talk115,"子孫だからかユン坊のヤロー
+ダルケルの護りも使えやがるしな
+で そのダルケルの護りで固くなったユン坊を
+ルーダニアにぶつけて追っ払ってんだァ！
+ヤツにゃ普通の大砲の弾は
+効かねェからなァ…
+…","That's why that slacker can even use
+Daruk's Protection!
+
+He uses it to protect himself when we
+fire him at Rudania. That's the only way
+we can chase that blasted beast away.
+We have no choice because normal
+cannonballs are no good against him."
+34,talk116,"大丈夫…
+…じゃ ねェぜェ旅の人ォ
+いぢぢぢぢ…
+これじゃあ今日は行けそうにねェなァ…","Oh, yeah, just peachy. Dumb traveler.
+OF COURSE I'm not OK.
+
+Owww... Arghhh... I'm afraid I won't be
+goin' anywhere today."
+35,talk117,"悪いがアンタ…先に行ったユン坊に
+中止だと伝えてくれねぇか…
+オルディン橋に居るはずだからよォ","I hate to put you on the spot, but...
+can ya please go tell Yunobo that I'm
+gonna have to cancel for today?
+He should be at Eldin Bridge."
+36,talk118,"ん？さっき 「伝えた」って言ったような…
+ま いいかァ…","Didn't he say, \""I told him,\"" just moments ago...
+Well, whatever."
+37,talk119,"ん？さっき 「まだ」って言ったような…
+ま いいかァ…","Didn't he say, \""Not yet,\"" just moments ago...
+Well, whatever."
+38,talk16,今日も熱いぜィ,It's another scorcher today.
+39,talk17,朝から熱いぜィ…,"It's still early in the day, but it's already
+hot out..."
+40,talk19,暗くなっちまったなァ…,It sure gets dark at night...
+41,talk23,"オォ！アンタァ！
+ユン坊から聞いてるぜェ！
+アンタ すげぇなぁ
+
+ルーダニアを黙らせたんだって？
+大したもんだぜ
+全く…腰痛も治ってきて今からルーダニアを
+潰しに行こうと思ってた矢先によォ
+これじゃ
+オレが仮病使ったみたいじゃねェかァ…
+ワーッハッハッハ！
+
+ユン坊もどことなく しっかりしやがった
+アンタのおかげだよ
+それにしても…見てみろィ！","Hm? Hey! It's you! Yunobo told me
+everything. You really are somethin'
+else, brother. Ya know that?
+I can't believe you conquered Rudania...
+Color me impressed.
+
+But good grief...did ya have to do it just
+when my back pain went away? I was all
+ready and rarin' to go at Rudania myself!
+Now you've gone and made it look like
+I was just fibbin' about my back pain
+this whole time! Imagine that! ME!
+GWA HA HA HA!
+
+
+Oh! And I'm also happy to see Yunobo
+finally got his act together. I know that's
+your doing, as well.
+But enough back patting and other
+such nonsense. Take a look at this!"
+42,talk28,"そうか… わざわざオレに
+挨拶に来た ってワケだなァ？！
+オレの名は""ブルドー！
+
+泣く子も黙る ゴロン組組長
+ブルドーとは オレの事よ！","I see... So, then, you came all this
+way to pay your respects to me?
+I like you already, brother!
+Well, my name's Bludo.
+
+
+I'm the great Goron Boss who's fearsome
+enough to silence a crying child! Or to
+make a silenced child cry, either way.
+Yes, it is none other than I, Bludo!"
+43,talk39,"神獣 ヴァ・ルーダニアも
+大人しくなっちまって ざまあねぇな
+これで またデスマウンテン近くの鉱石を
+採掘できるってもんだぜィ","The Divine Beast Vah Rudania has
+calmed down and returned to his
+peaceful ways.
+Now we can get back to diggin' for ore
+around Death Mountain."
+44,talk40,"神獣 ヴァ・ルーダニアも
+大人しくなっちまって ざまあねぇな","The Divine Beast Vah Rudania has
+finally calmed down and returned
+to his peaceful ways."
+45,talk43,"もし巨岩砕きを無くしたら
+鍛冶屋のブロハンを訪ねるといいぜェ","If you ever lose the Boulder Breaker,
+just go talk to Rohan the blacksmith.
+He'll be happy to help ya out."
+46,talk44,…そうそう アンタに礼しなくちゃなァ！,"...Oh, right! I've still gotta
+thank you, brother!"
+47,talk45,いちちちち…,Ouch... Argh...
+48,talk46,"巨岩砕きは ユン坊のご先祖様…
+つまり ダルケル様が使ってたヤツだぜィ","The Boulder Breaker once belonged to
+Yunobo's ancestor... In other words,
+it was Daruk's."
+49,talk47,もう寝るとこなんだが…,I was just about to turn in for the night...
+50,talk48,"ま ダルケル様はそいつを
+団扇の代わりにしてたって噂だがなァ！","There's even a rumor that Daruk...
+used it to fan himself sometimes."
+51,talk49,ん？こんな時間に…,"Hm? What could you possibly want
+at this hour?!"
+52,talk50,"それはそうと アンタも
+なかなかの業物""持ってんなァ！
+まるで ダルケル様と共に厄災ガノンと戦った
+ハイリアの英傑様の様だぜィ！
+ワーーッハッハッハ！","That said, you've got a rather
+fine blade already, don'tcha?
+
+Come to think of it...you look just like
+the Hylian Champion who fought the
+Calamity alongside Daruk!
+GWA HA HA HA!"
+53,talk51,"しかしなんだなァ
+
+アンタもハイリア人なら知ってっかも
+知らねェが
+100年前のハイリアの英傑様も
+退魔の剣とかいう剣を持ってたらしいなァ","However...
+
+
+Well, as a Hylian, you probably already
+know this, but...
+
+Apparently, 100 years ago, the Hylian
+Champion had a legendary blade—
+the sword that seals the darkness."
+54,talk52,なんならアンタも探してみたらどうだィ？,"I bet you'd like to find it, eh?
+You should go lookin'!"
+55,talk53,どっかの森に眠るといわれる その剣…,"They say the sword sleeps in a
+forest somewhere... Waiting..."
+56,talk54,迷いの森に眠るといわれる その剣…,"They say the sword sleeps in the
+Lost Woods... Waiting..."
+57,talk55,"その剣は ここから西の
+迷いの森に眠ってる って噂だぜィ","The sword is rumored to sleep in the
+Lost Woods just west of here..."
+58,talk56,オゥ！アンタかィ！,Oh! It's you!
+59,talk57,オゥともよ！,"Hey, little man!"
+60,talk59,オレに用かィ？,Do ya need somethin'?
+61,talk61,"ルーダニアなら
+あれからずっとあのままだぜィ！",Rudania is right where ya left him!
+62,talk62,"アンタのおかげでアイツを追っ払う
+手間が省けたぜィ！ありがとよ！","You saved me the trouble of defeatin'
+him myself, heh! Thanks, brother."
+63,talk63,"昔のハイリアの英傑様は巨岩砕きに負けねェ
+退魔の剣とかいう すげェ剣持ってたらしいぜェ
+しかしアンタも いい業物持ってんなァ…
+どこで拾って来たのか知らねェけどよォ！","They say a long time ago the Hylian
+Champion had a legendary sword—
+the sword that seals the darkness.
+It was apparently much stronger than
+even the Boulder Breaker!
+
+But hey, you've got a pretty sharp blade
+yourself... I wonder where ya got it!"
+64,talk64,"アンタハイリア人なのに知らねェのかィ？
+
+100年前のハイリアの英傑様の扱う
+退魔の剣とかいう剣は
+そりゃもうすげェ業物だったらしィぜェ","You're a Hylian, but you don't know
+about this?!
+
+The blade that the Hylian Champion used
+100 years ago, the sword that seals the
+darkness, was apparently somethin' else."
+65,talk67,あ～…いちちちち,Ugh... Ouch...
+66,talk69,"早くルーダニアを追っ払いてェが
+ユン坊が北の廃坑から帰ってこねェ事にはなァ","I've gotta fierce urge to go and crush
+Rudania, but I can't until Yunobo returns
+from the Abandoned North Mine..."
+67,talk72,"あそこに石像が見えるだろォ？
+あれこそがダルケル様よォ！","See that statue up there?
+That's Daruk!"
+68,talk79,他に用はあるかィ？,Was there somethin' else ya needed?
+69,talk80,"よかったら
+家ん中にある宝を持ってってくれや
+ダルケル様が使っていた特別な業物だから
+きっと アンタの役に立つと思うぜェ","There's some treasure in my house.
+Grab it. Keep it. It's yours.
+
+It's a sharp blade that Daruk himself
+once wielded. I'm sure you'll be able
+to make good use of it!"
+70,talk81,ちっくしょお！ルーダニアのヤロォ！,Drat! That blasted Rudania!
+71,talk82,"最近ルーダニアが暴れ出したせいで
+デスマウンテンの噴火が激しくてなァ","With Rudania runnin' wild recently,
+Death Mountain's eruptions have
+gotten real bad."
+72,talk83,"ルーダニアってのは あそこに居るヤツだぜィ
+
+100年前は
+オレ達の守り神だったらしいがよォ…
+アイツのせいで採掘はできねェわ
+客足は減るわで困ってんでィ","Do ya see Rudania stompin' around up
+there on the mountain?
+
+They say that 100 years ago, it actually
+used to protect our people from harm...
+but that was then, and this is now!
+Now all it does is mess up our mining
+operations! We're all suffering because
+it's stoppin' us from doin' business!"
+73,talk84,毎度毎度大砲で火口へ追っ払ってんだが…,"I can't tell ya how many times we've
+used the cannon to chase off that fiend."
+74,talk85,ま～～た出て来やがったァ！！,But it always comes back!!
+75,talk86,"これからまたルーダニアを追っ払うんだが
+腰が痛くてなァ…","I was plannin' to drive off Rudania like
+I always do, but then this blasted pain
+in my back flared up outta nowhere..."
+76,talk87,"…しっかしユン坊のヤロー
+早く戻らねぇか…",That blasted Yunobo... When will he return?
+77,talk88,"ユン坊ってのァ いつもオレと
+ルーダニアを追っ払ってる若いヤツだァ","Yunobo is a young Goron who helps me
+drive off Rudania."
+78,talk89,"北の廃坑に腰の痛み止めを
+取りに行ってくれたんだが まだ帰らねェ","He went to grab some painkillers for my
+back from the Abandoned North Mine,
+but he hasn't come back yet..."
+79,talk90,ヤロー…どこをブラついてんだァ…,Slacker... I bet he's off somewhere wastin' time...
+80,talk91,"なぁ アンタ
+
+もしユン坊を見かけたら
+オレが探してた って伝えてくれや
+すまんが頼んだぜィ","Hey... If ya happen to see Yunobo,
+will ya let him know I'm lookin'
+for him?"
+81,talk92,ユン坊のヤロー早く戻らねェか…,I hope Yunobo comes back soon...
+82,talk93,"オゥ！旅の人ォ！
+
+ユン坊から聞いたぜィ！
+アイツを助けてくれたんだってなァ","Ah! It's the tiny traveler!
+
+
+Yunobo told me all about how you
+helped him, brother."
+83,talk95,"これは お礼だァ
+ハイリア人にゃ必要だろォ？","Here's a reward for ya. Hylians like you
+need this sorta thing, right?"
+84,talk96,"なんでィ荷物一杯じゃねェか…
+
+荷物減らして
+また後で来てもらうとしてだなァ…","Huh, looks like your pack is full.
+Well, if ya ever lighten your load,
+come on back and see me."
+85,talk98,"アンタ ゴロンの英傑
+ダルケル様を知らねぇのかィ？！","Are ya really tellin' me ya don't know
+about Daruk? The Goron Champion?!"

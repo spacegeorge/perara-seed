@@ -1,0 +1,211 @@
+#,Title,JPja,USen
+1,"""0004""",その通り,Precisely.
+2,"""0005""",リンリン…？,Linny?
+3,"""0006""",ミファーって？,Mipha?
+4,"""0007""",あなたは？,Who are you?
+5,"""0008""",リンリンって？,Linny?
+6,"""0009""",さようなら,Good-bye.
+7,"""0010""",よかった！,Great!
+8,"""0011""",イマイチ…,"OK, I guess..."
+9,"""0012""",どういたしまして,You're welcome.
+10,near00,ハ～イ,Helloooo!
+11,near01,リンリ～ン！,Linnyyyy!
+12,talk00,"こんにちは
+ゾーラの宿サカナのねやへ ようこ…
+…
+
+……
+
+あっ？！ リンリン？！
+あなた リンリンよね！","Hello! Welcome to the Seabed Inn.
+Here we—
+
+...
+
+
+...
+
+
+Could it be? Linny?! It is! It's Linny!!"
+13,talk01,こんにちは リンリン,"Hello, Linny!"
+14,talk02,こんばんは リンリン,"Good evening, Linny!"
+15,talk03,"うん間違いない！リンリンだ！
+うわぁ久しぶりぃ～！
+ミファー様と一緒に
+厄災ガノンに倒されたんじゃないの？
+じゃなかったら今までどこ行ってたの？
+何してたの？ねぇねぇ？
+…
+
+あ ごめんなさい…
+大人なのに はしゃいじゃって…
+あれから 100年…
+お互い いろいろあったと思うし
+よかったら また話して？ね？","Yes, I'm sure of it! You're Linny!
+Wow, it's been such a long time!
+
+Wait, but...I thought you and Mipha...
+fell to Calamity Ganon.
+
+And if you've been alive all this time,
+where have you been? What have you
+been doing? Please, tell me!
+...
+
+
+Oh, I'm so sorry... I'm an adult, and yet
+here I am, making a ruckus.
+
+Has it really been 100 years?
+In a way, it feels like yesterday...
+
+We've both been through a lot, I'm sure.
+If you don't mind, I'd love to catch up
+sometime soon."
+16,talk04,"えっ… リンリン…
+ミファー様の事忘れちゃったの？","Huh?! Linny... You didn't forget about
+Mipha, did you?"
+17,talk05,はいはい～,Hello!
+18,talk06,おはよう リンリン,"Good morning, Linny!"
+19,talk07,私に御用？,Oh! Do you need something?
+20,talk08,"ミファー様は ドレファン王のご息女…
+シド王子の姉君にあたるのね
+そして傷ついた者を癒す
+ゾーラ族の英傑でもあったの
+100年前厄災ガノンと戦うからって
+神獣 ヴァ・ルッタに乗っていたんだけど
+でもその後 どうなったのかは…ね？","Mipha was a princess. She was also
+King Dorephan's daughter and
+Sidon's older sister.
+She was the Zora Champion and could
+heal wounds with ease. We all loved
+her dearly.
+A hundred years ago, she piloted the
+Divine Beast Vah Ruta to help fight
+Calamity Ganon.
+As for what happened next, well...
+I'm sure you can figure it out."
+21,talk09,うん じゃあね,OK. See you later.
+22,talk10,"リンリン ひど～い
+私は コダーよ！おぼえてるくせに！
+100年前「私とミファー様どっちを取るの？」
+って困らせたこと まだ根に持ってるの？
+でも今では カーティと結婚して
+一児の母だから安心してね
+娘のフィネ共々 よろしくね！","You're terrible, Linny! It's me, Kodah!
+
+
+A hundred years ago, I asked you...
+to choose between me and Mipha.
+I...I'm sorry about that.
+Now I'm married to Kayden, and I'm a
+mother of one. My daughter's name is
+Finley. We're all very happy."
+23,talk11,"それ 100年前に私が付けた あだ名よね！
+可愛いでしょ？
+あなたの本当の名はリンク…
+
+あなたは ハイラルの英傑として
+ミファー様と厄災ガノンに立ち向かった…
+里のお年寄りは ハイリア人のあなたが
+「ミファー様を奪ったゾラ」って ご立腹だけど
+当時を知る今100歳そこそこのゾーラは
+そうは思ってないの
+あなたとミファー様は
+大厄災を食い止めてくれた英傑よ！","Heh, that's the nickname I gave you
+100 years ago! Isn't it the cutest?
+
+Though much time has passed, I still
+remember that your real name...
+is Link.
+And that you're the Hylian Champion!
+You went with Mipha to fight back
+against Calamity Ganon.
+You should know that the council of
+elders is angry about...what happened.
+They say \""that Hylian\"" stole Mipha away.
+But us Zora who are around 100 years
+old now...we know what it was like back
+then. We don't believe that.
+You and Mipha are the Champions who
+held back the Calamity for all of us!"
+24,talk12,他に聞きたい事 ある？,Is there anything else you'd like to ask?
+25,talk13,"雨が止んだ…
+ルッタが動きを止めたのかしら…
+あっ ごめんなさいリンリン","The rain has stopped... I wonder if Ruta
+has stopped as well...
+
+Oh! Sorry, Linny."
+26,talk14,"あ！リンリン…
+神獣を鎮めてくれたの？！","Linny! Were you able to appease the
+Divine Beast?!"
+27,talk15,"リンリン
+神獣を鎮めてくれて ありがとう","Linny... Thank you for appeasing the
+Divine Beast!"
+28,talk16,"それにしても…
+娘のフィネが ずっと見つからなくて…
+自分だけの王子様を探すのよ
+…なんて言い出して
+またいつもの願いの川辺にでも
+行ってるのかな？","That said... I can't find my daughter,
+Finley. I've looked everywhere!
+
+When last we spoke, she said something
+crazy like, \""I want to find a prince of my
+very own!\""
+Hmm, I wonder if she's on her way to
+the Bank of Wishes again..."
+29,talk17,"それにしても
+娘が連れてきた王子様って…
+あなたと同じ ハイリア人なのに
+なんだか頼りない感じ
+あの男性選びの センスの無さ…
+一体誰に似たのかな…","That said... The \""prince\"" my daughter
+brought home...
+
+He's a Hylian like you, heh. I don't think
+he's quite what we expected, though.
+
+Her horrible taste in men...it reminds me
+of a certain someone."
+30,talk18,"ウォーターベッドを使ってくれたんだね？
+寝心地はどうだった？","You went for the water bed, right?
+How did you sleep?"
+31,talk19,"よかった～！
+
+ハイリア人用に
+ベッドをしつらえた甲斐が あったよ！","Oh! I'm so glad!
+
+
+I knew it was worth the investment to
+have a bed made especially for Hylians!"
+32,talk20,"そっか～…
+ちょっと冷たすぎたかな…","Oh. I see. Perhaps I cooled it down
+too much..."
+33,talk21,"こっちは調理場よ
+
+ウチらゾーラ族は
+生の魚を食べるんだけど
+ハイリア人は料理した方が
+元気モリモリなんだよね？
+だからここ自由に使ってくれたらいいよ","This is the cooking area. We Zora mostly
+eat raw fish, but...
+
+Hylians get much more benefit out of
+cooked food, right?
+
+Yes, I thought so. Please feel free to use
+this area as often as you wish."
+34,talk22,流石 ハイラルの英傑様！,That's the Hylian Champion for you!
+35,talk23,"まさかルッタを鎮めた人が 100年ぶりに現れた
+リンリンだなんて…もうビックリよ！","I can't believe my dear Linny reappeared
+after 100 years...and was also the one
+to appease Ruta for us!
+I really can't get over it!"
+36,talk24,"ミファー様の事は残念だったけど…
+一番悲しいのは リンリンよね…","It really was unfortunate about Mipha...
+But I was saddest about you, Linny."
+37,talk25,…ちょっと考え事してた,Wait...what was I going to say?
+38,talk26,"毎日のご飯って悩むのよね
+さてさて…","I can never decide what to make for
+dinner. Anyhoo."

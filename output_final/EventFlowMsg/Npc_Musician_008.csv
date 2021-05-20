@@ -1,0 +1,95 @@
+#,Title,JPja,USen
+1,"""0000""",聴かせて,Let's hear it.
+2,"""0001""",今はいい,Not right now.
+3,"""0002""",古の詩？,Ancient songs?
+4,"""0003""",知りません,No...
+5,"""0004""",約束って？,Promise?
+6,"""0005""",あなたは…？,Are you a...bird?
+7,"""0006""",どういたしまして,No worries.
+8,Talk00,"おや？""私の詩を聴いていただけるのですか？","Hmm? Oh, did you want to hear my
+song?"
+9,Talk01,"ありがとうございます！
+それでは お聴きください……",Excellent! Without further ado...
+10,Talk02,"ご清聴 ありがとうございます
+またよろしければ詩を聴きに来てください","Thank you for listening.
+Please come back and hear it again
+sometime."
+11,Talk03,"そうですか……
+では また気が向いたら お声掛けください","I see... Well, do let me know if you
+change your mind."
+12,Talk04,"おや？ リト族を見るのは初めてですか？私は リト族の吟遊詩人 カッシーワという者です
+どうぞ お見知りおきを
+私は世界各地の古の詩を求めて
+旅をしております","Have you...never met a Rito before? Odd.My name is Kass. As a bard, I spend my
+days traveling this land in search of
+ancient songs."
+13,Talk05,"古の詩…… それは幾多の試練を乗り越え
+厄災を鎮めた勇者をたたえる詩と言われています","Ancient songs—songs that sing the 
+praises of a hero who beat back the
+Calamity in an age past."
+14,Talk06,"私の師匠より直伝された古の勇者の詩
+よろしければ聴いていただけますか？","I happen to know a song about the
+ancient hero. It was passed down to me
+by my teacher. Do you care to hear it?"
+15,Talk08,"やぁ またお会いしましたね
+お元気ですか？
+ここは私の故郷 リトの村に近くて
+さすがに望郷の念に駆られます
+村には妻や子供たちも残していまして……
+みんな元気にしているだろうか……
+ですが師匠との約束を果たすまでは
+私は帰るわけにはいかないのです
+それは…… すみませんが
+今はまだ お話しできません
+その時が来たら……
+古の詩をすべて お伝えすることができたら……
+私の故郷で
+そのお話をさせていただければと思います
+おっと つい話が長くなってしまいました
+そろそろ本業に戻らせていただきますね","Ah, we meet again!
+I'm glad to see you in one piece.
+
+We're actually very close to my
+hometown of Rito Village, and I must
+admit I'm feeling incredibly homesick.
+I had to leave my wife and children back
+in the village. I'm sure they're doing
+just fine...
+But you see, I cannot go home until
+I fulfill my promise to my teacher.
+
+My promise to...
+On second thought, now is not the time.
+
+But if I'm able to learn all of the ancient
+songs...I will tell you of my promise,
+back in my hometown.
+But listen to me blathering on.
+I need to focus on my craft."
+16,Talk09,"その中でも有名なものが
+1万年前の厄災を鎮めた勇者の詩です","One of the more famous among them
+recounts the events of 10,000 years ago."
+17,Talk10,"実はこの土地にも試練を乗り越えた勇者の
+古の詩が伝わっているのですよ",I know a song about this place.
+18,Talk11,"いかがですか？ この土地に伝わる
+古の詩 お聴きになりますか？","Would you like to hear the ancient verse
+passed down in this region?"
+19,Talk12,"やぁ またお会いしましたね！
+お元気そうで何よりです","We meet again!
+It's good to see you well."
+20,Talk13,"旅のお方""一曲いかがですか？","Greetings, traveler. How about a song?"
+21,Talk14,"あなたは厄災を鎮めたという勇者にまつわる
+古の詩というものをご存知ですか？","Have you heard of the ancient songs
+of Hyrule?"
+22,Talk15,"……ん？ あなたの腰のものは……………すみません何でもありません
+初めてお会いするのに失礼いたしました","Th-that there...on your hip!...No, I'm sorry—it's nothing.
+I didn't mean to pry."
+23,Talk16,"私は世界各地の古の詩を求めて
+旅しています リト族のカッシーワという者です","Allow me to introduce myself.
+My name is Kass. I'm a bard traveling
+this land in search of ancient songs."
+24,TerrorArrow,危ないっ！,Stop it!
+25,TerrorExplosion,うわーっ！,WAAAAAA!
+26,TerrorFire,うわっ,Ack!
+27,TerrorHorse,うわっ！,Whoa!
+28,TerrorSword,危ないっ！,Knock it off!

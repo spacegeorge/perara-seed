@@ -1,0 +1,768 @@
+#,Title,JPja,USen
+1,Armor_001_Upper_Desc,"ハイラルで広く親しまれている一般的な装束
+軽くて丈夫な布で作られているので動きやすい
+旅人の中にも身に着けている者が多い","A common garb that achieved widespread
+popularity in Hyrule, particularly among
+travelers. Its light-yet-sturdy fabric doesn't
+limit movement."
+2,Armor_001_Upper_Name,ハイリアの服,Hylian Tunic
+3,Armor_002_Upper_Desc,"ハイラルで広く親しまれている一般的な装束
+軽くて丈夫な布で作られているので動きやすい
+大妖精の力で防御力が1段階アップしている","A common garb popular in Hyrule, especially
+among travelers. Its light-yet-sturdy fabric
+doesn't limit movement. A Great Fairy
+increased its defense by one level."
+4,Armor_002_Upper_Name,ハイリアの服,Hylian Tunic
+5,Armor_003_Upper_Desc,"ハイラルで広く親しまれている一般的な装束
+軽くて丈夫な布で作られているので動きやすい
+大妖精の力で防御力が2段階アップしている","A common garb popular in Hyrule, especially
+among travelers. Its light-yet-sturdy fabric
+doesn't limit movement. A Great Fairy
+increased its defense by two levels."
+6,Armor_003_Upper_Name,ハイリアの服,Hylian Tunic
+7,Armor_004_Upper_Desc,"ハイラルで広く親しまれている一般的な装束
+軽くて丈夫な布で作られているので動きやすい
+大妖精の力で防御力が3段階アップしている","A common garb popular in Hyrule, especially
+among travelers. Its light-yet-sturdy fabric
+doesn't limit movement. A Great Fairy
+increased its defense by three levels."
+8,Armor_004_Upper_Name,ハイリアの服,Hylian Tunic
+9,Armor_005_Upper_Desc,"荒野を旅する勇者のために 
+あつらえられたといわれている緑の服
+着てみると とてもぴったりなサイズ","This armor was apparently crafted for a hero
+who travels the wilds. Strangely enough,
+it's just your size."
+10,Armor_005_Upper_Name,息吹の勇者服,Tunic of the Wild
+11,Armor_006_Upper_Desc,"代々ゾーラ族の王女が将来ムコになる男に
+ピッタリのサイズで想いを込めて作る鎧
+なんと滝を遡ることができるようになる！","Custom armor painstakingly crafted by each
+generation's Zora princess for her future 
+husband. Wearing it will give you the ability
+to swim up waterfalls."
+12,Armor_006_Upper_Name,ゾーラの鎧,Zora Armor
+13,Armor_007_Upper_Desc,"ゾーラ族の王女が想いを込めて作った防具
+なんと滝を遡ることができるようになる！
+大妖精の力で防御力が1段階アップしている","Armor crafted by each generation's Zora
+princess for her future husband. Equip it
+to swim up waterfalls. A Great Fairy has
+increased its defense by one level."
+14,Armor_007_Upper_Name,ゾーラの鎧,Zora Armor
+15,Armor_008_Upper_Desc,"ゲルド秘密クラブで秘密裏に販売されている
+男性用の防具氷の力を宿すサファイアの
+加護により装備すると耐暑効果を発揮する","Armor for males sold rarely by Gerudo
+retailers. It contains sapphire,
+which harnesses the power of ice to
+make hot climates more tolerable."
+16,Armor_008_Upper_Name,熱砂の肩当て,Desert Voe Spaulder
+17,Armor_009_Upper_Desc,"タバンタやヘブラを訪れる ハイリア人のために
+リト族の生え替わりの羽を使って作られた服
+羽毛を幾層にも重ねており保温性に優れる","Lined with molted Rito feathers, this tunic
+was made by Rito artisans for Hylians visiting
+cold climates. The feathers are stacked in
+each layer to retain body heat."
+18,Armor_009_Upper_Name,リトの羽毛服,Snowquill Tunic
+19,Armor_011_Upper_Desc,"ゴロンシティまで旅をしてくる物好きな人間の
+ためにゴロン族がこしらえた鎧石を加工して
+作られているので耐火性能を持っている","Armor crafted by Gorons for Hylians curious
+enough to visit Goron City. It's made from
+fire-resistant rocks to protect the wearer."
+20,Armor_011_Upper_Name,耐火の石鎧,Flamebreaker Armor
+21,Armor_012_Upper_Desc,"シーカー族に伝わる隠密用のスーツ
+衣擦れの音が立ちにくい素材を使っており
+素早く動いても雑音が立ちにくい","Armor designed for stealth, passed down
+through the Sheikah tribe. The special fabrics
+suppress the rustling of clothes even when
+moving quickly."
+22,Armor_012_Upper_Name,忍びスーツ,Stealth Chest Guard
+23,Armor_014_Upper_Desc,"古代の技術が使われた壁登り用グローブ
+指先が滑りにくく力を込めやすくなる性能を
+持つため軽快に崖を登る事ができるようになる","The ancient technology in this gear will
+make you a better climber. The special
+no-slip gloves help you use your energy
+more efficiently to facilitate nimble climbing."
+24,Armor_014_Upper_Name,クライムグローブ,Climbing Gear
+25,Armor_015_Upper_Desc,"ハイラルで広く親しまれている一般的な装束
+軽くて丈夫な布で作られているので動きやすい
+大妖精の力で防御力が最大までアップしている","A common garb popular in Hyrule, especially
+among travelers. Its light-yet-sturdy fabric
+doesn't limit movement. A Great Fairy
+increased its defense to its maximum level."
+26,Armor_015_Upper_Name,ハイリアの服,Hylian Tunic
+27,Armor_017_Upper_Desc,"ゲルド秘密クラブで密かに売られているスーツ
+暗闇になると夜光石を砕いた特殊な染料で
+施された骨柄のペイントが浮かび上がる","This shirt is sold at the Gerudo Secret Club.
+It glows with a strange pattern in the dark
+due to a dye made from crushed luminous
+stones."
+28,Armor_017_Upper_Name,夜光スーツ,Radiant Shirt
+29,Armor_020_Upper_Desc,"ハイリア人兵士が装備していた鎧
+金属の板を加工して作られ高い防御力が特徴
+丈夫な装甲からは職人の高い技術が見て取れる","Hyrulean guards praised this armor for its
+superior defense. Made from sturdy plates of
+metal, the high level of craftsmanship that 
+went into it is obvious with just a glance."
+30,Armor_020_Upper_Name,ハイリア兵の鎧,Soldier's Armor
+31,Armor_021_Upper_Desc,"古代シーカー族の技術を用いて作られた特殊な鎧
+ガーディアンのパーツを加工して装甲にしており
+古代兵器から受けるダメージを軽減できる","This armor was created by ancient Sheikah
+technology using Guardian parts. Equipping
+it will reduce the damage you take from
+ancient weaponry."
+32,Armor_021_Upper_Name,古代兵装・上鎧,Ancient Cuirass
+33,Armor_035_Upper_Desc,"荒野を旅する勇者のために 
+あつらえられたといわれている緑の服
+大妖精の力で防御力が1段階アップしている","This armor was apparently crafted for a hero
+who travels the wilds. Strangely enough,
+it's just your size. A Great Fairy has
+increased its defense by one level."
+34,Armor_035_Upper_Name,息吹の勇者服,Tunic of the Wild
+35,Armor_036_Upper_Desc,"リト族の生え替わりの羽を使って作られた服
+羽毛を幾層にも重ねており保温性に優れる
+大妖精の力で防御力が1段階アップしている","Made by Rito artisans, this tunic stacks
+molted Rito feathers in each layer to help
+retain body heat. A Great Fairy has
+increased its defense by one level."
+36,Armor_036_Upper_Name,リトの羽毛服,Snowquill Tunic
+37,Armor_037_Upper_Desc,"人間のためにゴロン族がこしらえた鎧
+石を加工して作られており耐火性能を持っている
+大妖精の力で防御力が1段階アップしている","Fire-resistant armor crafted by Gorons for
+Hylians curious enough to visit Goron City.
+A Great Fairy has increased its defense
+by one level."
+38,Armor_037_Upper_Name,耐火の石鎧,Flamebreaker Armor
+39,Armor_039_Upper_Desc,"荒野を旅する勇者のために 
+あつらえられたといわれている緑の服
+大妖精の力で防御力が2段階アップしている","This armor was apparently crafted for a hero
+who travels the wilds. Strangely enough,
+it's just your size. A Great Fairy has
+increased its defense by two levels."
+40,Armor_039_Upper_Name,息吹の勇者服,Tunic of the Wild
+41,Armor_040_Upper_Desc,"ゲルド秘密クラブで販売されている男性用の防具
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が1段階アップしている","Gerudo armor for males. Contains sapphire,
+which harnesses the power of ice to make
+the heat more bearable. A Great Fairy
+has increased its defense by one level."
+42,Armor_040_Upper_Name,熱砂の肩当て,Desert Voe Spaulder
+43,Armor_042_Upper_Desc,"衣擦れの音が立ちにくい素材を使っており
+素早く動いても雑音が立ちにくい隠密用スーツ
+大妖精の力で防御力が1段階アップしている","Armor designed for stealth, passed down
+through the Sheikah tribe. Its special fabric
+suppresses sound. A Great Fairy has
+increased its defense by one level."
+44,Armor_042_Upper_Name,忍びスーツ,Stealth Chest Guard
+45,Armor_043_Upper_Desc,"かなりの昔に作られた薄手のシャツ
+少しほころんではいるが まだまだ使える
+でもちょっと袖が短い","A thin shirt made long ago. It's coming apart
+at the seams, but it's better than nothing.
+The sleeves are a bit on the short side."
+46,Armor_043_Upper_Name,古びたシャツ,Old Shirt
+47,Armor_044_Upper_Desc,"山で暮らす人々が愛用する暖かい服
+丈夫な生地で作られた服と
+分厚い手袋が体の熱を逃がさない","A warm pullover typically worn by mountain
+folk. Its sturdy fabric and thick gloves are
+great at retaining body heat."
+48,Armor_044_Upper_Name,防寒着,Warm Doublet
+49,Armor_046_Upper_Desc,"耐電性能を持つ貴重なスーツ
+現代にはないゴムという古代技術を生かした
+特殊な素材で身体を覆うように作られている","This armor has built-in electricity resistance
+thanks to its source material—an ancient
+marvel called \""rubber.\"" Such technology
+does not exist in this modern age."
+50,Armor_046_Upper_Name,ラバースーツ,Rubber Armor
+51,Armor_048_Upper_Desc,"はるか昔 フィローネ地方を拠点にしたといわれる
+戦闘部族の服身に着けると刻まれている特殊な
+文様によって闘争心が湧き攻撃力が増加する","Armor once favored by an ancient warlike
+tribe from the Faron region. The war paint
+bolsters your fighting spirit and raises
+your attack power."
+52,Armor_048_Upper_Name,蛮族の服,Barbarian Armor
+53,Armor_053_Upper_Desc,"ゲルド族の女性が身につけている服
+熱のこもらない開放的なデザインと
+ゲルドの伝統的な細工が人気のひと品","Standard Gerudo garb popular for its open,
+breathable design and for the traditional
+Gerudo markings that adorn it."
+54,Armor_053_Upper_Name,淑女の服,Gerudo Top
+55,Armor_060_Upper_Desc,"荒野を旅する勇者のために 
+あつらえられたといわれている緑の服
+大妖精の力で防御力が3段階アップしている","This armor was apparently crafted for a hero
+who travels the wilds. Strangely enough,
+it's just your size. A Great Fairy has
+increased its defense by three levels."
+56,Armor_060_Upper_Name,息吹の勇者服,Tunic of the Wild
+57,Armor_061_Upper_Desc,"荒野を旅する勇者のために 
+あつらえられたといわれている緑の服
+大妖精の力で防御力が最大までアップしている","This armor was apparently crafted for a hero
+who travels the wilds. Strangely enough,
+it's just your size. A Great Fairy has
+increased its defense to its maximum level."
+58,Armor_061_Upper_Name,息吹の勇者服,Tunic of the Wild
+59,Armor_062_Upper_Desc,"ゾーラ族の王女が想いを込めて作った防具
+なんと滝を遡ることができるようになる！
+大妖精の力で防御力が2段階アップしている","Armor crafted by each generation's Zora
+princess for her future husband. Equip it
+to swim up waterfalls. A Great Fairy has
+increased its defense by two levels."
+60,Armor_062_Upper_Name,ゾーラの鎧,Zora Armor
+61,Armor_063_Upper_Desc,"ゾーラ族の王女が想いを込めて作った防具
+なんと滝を遡ることができるようになる！
+大妖精の力で防御力が3段階アップしている","Armor crafted by each generation's Zora
+princess for her future husband. Equip it
+to swim up waterfalls. A Great Fairy has
+increased its defense by three levels."
+62,Armor_063_Upper_Name,ゾーラの鎧,Zora Armor
+63,Armor_064_Upper_Desc,"ゾーラ族の王女が想いを込めて作った防具
+なんと滝を遡ることができるようになる！
+大妖精の力で防御力が最大までアップしている","Armor crafted by each generation's Zora
+princess for her future husband. Equip it
+to swim up waterfalls. A Great Fairy has
+increased its defense to its maximum level."
+64,Armor_064_Upper_Name,ゾーラの鎧,Zora Armor
+65,Armor_065_Upper_Desc,"ゲルド秘密クラブで販売されている男性用の防具
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が2段階アップしている","Gerudo armor for males. Contains sapphire,
+which harnesses the power of ice to make
+the heat more bearable. A Great Fairy
+has increased its defense by two levels."
+66,Armor_065_Upper_Name,熱砂の肩当て,Desert Voe Spaulder
+67,Armor_066_Upper_Desc,"ゲルド秘密クラブで販売されている男性用の防具
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が3段階アップしている","Gerudo armor for males. Contains sapphire,
+which harnesses the power of ice to make
+the heat more bearable. A Great Fairy
+has increased its defense by three levels."
+68,Armor_066_Upper_Name,熱砂の肩当て,Desert Voe Spaulder
+69,Armor_067_Upper_Desc,"ゲルド秘密クラブで販売されている男性用の防具
+サファイアの加護により耐暑効果を発揮する
+大妖精の力で防御力が最大までアップしている","Gerudo armor for males. Contains sapphire,
+which harnesses the power of ice to make
+the heat more bearable. A Great Fairy
+increased its defense to its maximum level."
+70,Armor_067_Upper_Name,熱砂の肩当て,Desert Voe Spaulder
+71,Armor_071_Upper_Desc,"リト族の生え替わりの羽を使って作られた服
+羽毛を幾層にも重ねており保温性に優れる
+大妖精の力で防御力が2段階アップしている","Made by Rito artisans, this tunic stacks
+molted Rito feathers in each layer to help
+retain body heat. A Great Fairy has
+increased its defense by two levels."
+72,Armor_071_Upper_Name,リトの羽毛服,Snowquill Tunic
+73,Armor_072_Upper_Desc,"リト族の生え替わりの羽を使って作られた服
+羽毛を幾層にも重ねており保温性に優れる
+大妖精の力で防御力が3段階アップしている","Made by Rito artisans, this tunic stacks
+molted Rito feathers in each layer to help
+retain body heat. A Great Fairy has
+increased its defense by three levels."
+74,Armor_072_Upper_Name,リトの羽毛服,Snowquill Tunic
+75,Armor_073_Upper_Desc,"リト族の生え替わりの羽を使って作られた服
+羽毛を幾層にも重ねており保温性に優れる
+大妖精の力で防御力が最大までアップしている","Made by Rito artisans, this tunic stacks
+molted Rito feathers in each layer to help
+retain body heat. A Great Fairy has
+increased its defense to its maximum level."
+76,Armor_073_Upper_Name,リトの羽毛服,Snowquill Tunic
+77,Armor_074_Upper_Desc,"人間のためにゴロン族がこしらえた鎧
+石を加工して作られており耐火性能を持っている
+大妖精の力で防御力が2段階アップしている","Fire-resistant armor crafted by Gorons for
+Hylians curious enough to visit Goron City.
+A Great Fairy has increased its defense
+by two levels."
+78,Armor_074_Upper_Name,耐火の石鎧,Flamebreaker Armor
+79,Armor_075_Upper_Desc,"人間のためにゴロン族がこしらえた鎧
+石を加工して作られており耐火性能を持っている
+大妖精の力で防御力が3段階アップしている","Fire-resistant armor crafted by Gorons for
+Hylians curious enough to visit Goron City.
+A Great Fairy has increased its defense
+by three levels."
+80,Armor_075_Upper_Name,耐火の石鎧,Flamebreaker Armor
+81,Armor_076_Upper_Desc,"人間のためにゴロン族がこしらえた鎧
+石を加工して作られており耐火性能を持っている
+大妖精の力で防御力が最大までアップしている","Fire-resistant armor crafted by Gorons for
+Hylians curious enough to visit Goron City.
+A Great Fairy has increased its defense
+to its maximum level."
+82,Armor_076_Upper_Name,耐火の石鎧,Flamebreaker Armor
+83,Armor_077_Upper_Desc,"衣擦れの音が立ちにくい素材を使っており
+素早く動いても雑音が立ちにくい隠密用スーツ
+大妖精の力で防御力が2段階アップしている","Armor designed for stealth, passed down
+through the Sheikah tribe. Its special fabric
+suppresses sound. A Great Fairy has
+increased its defense by two levels."
+84,Armor_077_Upper_Name,忍びスーツ,Stealth Chest Guard
+85,Armor_078_Upper_Desc,"衣擦れの音が立ちにくい素材を使っており
+素早く動いても雑音が立ちにくい隠密用スーツ
+大妖精の力で防御力が3段階アップしている","Armor designed for stealth, passed down
+through the Sheikah tribe. Its special fabric
+suppresses sound. A Great Fairy has
+increased its defense by three levels."
+86,Armor_078_Upper_Name,忍びスーツ,Stealth Chest Guard
+87,Armor_079_Upper_Desc,"衣擦れの音が立ちにくい素材を使っており
+素早く動いても雑音が立ちにくい隠密用スーツ
+大妖精の力で防御力が最大までアップしている","Armor designed for stealth, passed down
+through the Sheikah tribe. Its special fabric
+suppresses sound. A Great Fairy has
+increased its defense to its maximum level."
+88,Armor_079_Upper_Name,忍びスーツ,Stealth Chest Guard
+89,Armor_083_Upper_Desc,"古代の技術によって指先に力を込めやすくなる
+性能を持つグローブ軽快に崖を登る事ができる
+大妖精の力で防御力が1段階アップしている","The ancient technology used in making this
+gear and its no-slip gloves will make you a
+better climber. A Great Fairy has increased
+its defense by one level."
+90,Armor_083_Upper_Name,クライムグローブ,Climbing Gear
+91,Armor_084_Upper_Desc,"古代の技術によって指先に力を込めやすくなる
+性能を持つグローブ軽快に崖を登る事ができる
+大妖精の力で防御力が2段階アップしている","The ancient technology used in making this
+gear and its no-slip gloves will make you a
+better climber. A Great Fairy has increased
+its defense by two levels."
+92,Armor_084_Upper_Name,クライムグローブ,Climbing Gear
+93,Armor_085_Upper_Desc,"古代の技術によって指先に力を込めやすくなる
+性能を持つグローブ軽快に崖を登る事ができる
+大妖精の力で防御力が3段階アップしている","The ancient technology used in making this
+gear and its no-slip gloves will make you a
+better climber. A Great Fairy has increased
+its defense by three levels."
+94,Armor_085_Upper_Name,クライムグローブ,Climbing Gear
+95,Armor_086_Upper_Desc,"古代の技術によって指先に力を込めやすくなる
+性能を持つグローブ軽快に崖を登る事ができる
+大妖精の力で防御力が最大までアップしている","The ancient technology used in making this
+gear and its no-slip gloves will make you a
+better climber. A Great Fairy has increased
+its defense to the maximum level."
+96,Armor_086_Upper_Name,クライムグローブ,Climbing Gear
+97,Armor_087_Upper_Desc,"ゲルド秘密クラブで密かに売られているスーツ
+暗闇になると骨柄のペイントが浮かび上がる
+大妖精の力で防御力が1段階アップしている","A shirt sold at the Gerudo Secret Club.
+It glows in the dark due to a dye made
+from luminous stones. A Great Fairy
+has increased its defense by one level."
+98,Armor_087_Upper_Name,夜光スーツ,Radiant Shirt
+99,Armor_088_Upper_Desc,"ゲルド秘密クラブで密かに売られているスーツ
+暗闇になると骨柄のペイントが浮かび上がる
+大妖精の力で防御力が2段階アップしている","A shirt sold at the Gerudo Secret Club.
+It glows in the dark due to a dye made
+from luminous stones. A Great Fairy
+has increased its defense by two levels."
+100,Armor_088_Upper_Name,夜光スーツ,Radiant Shirt
+101,Armor_089_Upper_Desc,"ゲルド秘密クラブで密かに売られているスーツ
+暗闇になると骨柄のペイントが浮かび上がる
+大妖精の力で防御力が3段階アップしている","A shirt sold at the Gerudo Secret Club.
+It glows in the dark due to a dye made
+from luminous stones. A Great Fairy
+has increased its defense by three levels."
+102,Armor_089_Upper_Name,夜光スーツ,Radiant Shirt
+103,Armor_090_Upper_Desc,"ゲルド秘密クラブで密かに売られているスーツ
+暗闇になると骨柄のペイントが浮かび上がる
+大妖精の力で防御力が最大までアップしている","A shirt sold at the Gerudo Secret Club.
+It glows in the dark due to a dye made
+from luminous stones. A Great Fairy
+increased its defense to its maximum level."
+104,Armor_090_Upper_Name,夜光スーツ,Radiant Shirt
+105,Armor_095_Upper_Desc,"ハイリア人兵士が装備していた鎧
+金属の板を加工して作られ高い防御力が特徴
+大妖精の力で防御力が1段階アップしている","Hyrulean guards praised this sturdy armor
+for its superior defense. The high level of
+craftsmanship is obvious. A Great Fairy
+increased its defense by one level."
+106,Armor_095_Upper_Name,ハイリア兵の鎧,Soldier's Armor
+107,Armor_096_Upper_Desc,"ハイリア人兵士が装備していた鎧
+金属の板を加工して作られ高い防御力が特徴
+大妖精の力で防御力が2段階アップしている","Hyrulean guards praised this sturdy armor
+for its superior defense. The high level of
+craftsmanship is obvious. A Great Fairy
+increased its defense by two levels."
+108,Armor_096_Upper_Name,ハイリア兵の鎧,Soldier's Armor
+109,Armor_097_Upper_Desc,"ハイリア人兵士が装備していた鎧
+金属の板を加工して作られ高い防御力が特徴
+大妖精の力で防御力が3段階アップしている","Hyrulean guards praised this sturdy armor
+for its superior defense. The high level of
+craftsmanship is obvious. A Great Fairy
+increased its defense by three levels."
+110,Armor_097_Upper_Name,ハイリア兵の鎧,Soldier's Armor
+111,Armor_098_Upper_Desc,"ハイリア人兵士が装備していた鎧
+金属の板を加工して作られ高い防御力が特徴
+大妖精の力で防御力が最大までアップしている","Hyrulean guards praised this sturdy armor
+for its superior defense. The high level of
+craftsmanship is obvious. A Great Fairy
+increased its defense to its maximum level."
+112,Armor_098_Upper_Name,ハイリア兵の鎧,Soldier's Armor
+113,Armor_099_Upper_Desc,"ガーディアンのパーツを加工して装甲にした鎧
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が1段階アップしている","Armor made from ancient Sheikah technology
+and Guardian parts. Reduces damage from
+ancient weapons. A Great Fairy increased
+its defense by one level."
+114,Armor_099_Upper_Name,古代兵装・上鎧,Ancient Cuirass
+115,Armor_100_Upper_Desc,"ガーディアンのパーツを加工して装甲にした鎧
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が2段階アップしている","Armor made from ancient Sheikah technology
+and Guardian parts. Reduces damage from
+ancient weapons. A Great Fairy increased
+its defense by two levels."
+116,Armor_100_Upper_Name,古代兵装・上鎧,Ancient Cuirass
+117,Armor_101_Upper_Desc,"ガーディアンのパーツを加工して装甲にした鎧
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が3段階アップしている","Armor made from ancient Sheikah technology
+and Guardian parts. Reduces damage from
+ancient weapons. A Great Fairy increased
+its defense by three levels."
+118,Armor_101_Upper_Name,古代兵装・上鎧,Ancient Cuirass
+119,Armor_102_Upper_Desc,"ガーディアンのパーツを加工して装甲にした鎧
+古代兵器から受けるダメージを軽減できる
+大妖精の力で防御力が最大までアップしている","Armor made from ancient Sheikah technology
+and Guardian parts. Reduces damage from
+ancient weapons. A Great Fairy increased
+its defense to its maximum level."
+120,Armor_102_Upper_Name,古代兵装・上鎧,Ancient Cuirass
+121,Armor_103_Upper_Desc,"ゴムという古代技術を生かした特殊な素材で
+身体を覆うように作られており耐電性能を持つ
+大妖精の力で防御力が1段階アップしている","This armor owes its electricity resistance to
+an ancient material called \""rubber,\"" which is
+nearly impossible to find. A Great Fairy has
+increased its defense by one level."
+122,Armor_103_Upper_Name,ラバースーツ,Rubber Armor
+123,Armor_104_Upper_Desc,"ゴムという古代技術を生かした特殊な素材で
+身体を覆うように作られており耐電性能を持つ
+大妖精の力で防御力が2段階アップしている","This armor owes its electricity resistance to
+an ancient material called \""rubber,\"" which is
+nearly impossible to find. A Great Fairy has
+increased its defense by two levels."
+124,Armor_104_Upper_Name,ラバースーツ,Rubber Armor
+125,Armor_105_Upper_Desc,"ゴムという古代技術を生かした特殊な素材で
+身体を覆うように作られており耐電性能を持つ
+大妖精の力で防御力が3段階アップしている","This armor owes its electricity resistance to
+an ancient material called \""rubber,\"" which is
+nearly impossible to find. A Great Fairy has
+increased its defense by three levels."
+126,Armor_105_Upper_Name,ラバースーツ,Rubber Armor
+127,Armor_106_Upper_Desc,"ゴムという古代技術を生かした特殊な素材で
+身体を覆うように作られており耐電性能を持つ
+大妖精の力で防御力が最大までアップしている","This armor owes its electricity resistance to
+an ancient material called \""rubber,\"" which is
+nearly impossible to find. A Great Fairy has
+increased its defense to its maximum level."
+128,Armor_106_Upper_Name,ラバースーツ,Rubber Armor
+129,Armor_111_Upper_Desc,"戦闘部族の服身に着けると刻まれている特殊な
+文様によって闘争心が湧き攻撃力が増加する
+大妖精の力で防御力が1段階アップしている","Armor once favored by an ancient warlike
+tribe from the Faron region. Equipping it
+boosts your attack power. A Great Fairy
+has increased its defense by one level."
+130,Armor_111_Upper_Name,蛮族の服,Barbarian Armor
+131,Armor_112_Upper_Desc,"戦闘部族の服身に着けると刻まれている特殊な
+文様によって闘争心が湧き攻撃力が増加する
+大妖精の力で防御力が2段階アップしている","Armor once favored by an ancient warlike
+tribe from the Faron region. Equipping it
+boosts your attack power. A Great Fairy
+has increased its defense by two levels."
+132,Armor_112_Upper_Name,蛮族の服,Barbarian Armor
+133,Armor_113_Upper_Desc,"戦闘部族の服身に着けると刻まれている特殊な
+文様によって闘争心が湧き攻撃力が増加する
+大妖精の力で防御力が3段階アップしている","Armor once favored by an ancient warlike
+tribe from the Faron region. Equipping it
+boosts your attack power. A Great Fairy
+has increased its defense by three levels."
+134,Armor_113_Upper_Name,蛮族の服,Barbarian Armor
+135,Armor_114_Upper_Desc,"戦闘部族の服身に着けると刻まれている特殊な
+文様によって闘争心が湧き攻撃力が増加する
+大妖精の力で防御力が最大までアップしている","Armor once favored by an ancient warlike
+tribe from the Faron region. Equipping it
+boosts your attack power. A Great Fairy
+increased its defense to its maximum level."
+136,Armor_114_Upper_Name,蛮族の服,Barbarian Armor
+137,Armor_116_Upper_Desc,"その昔 ハイラル王家から認められた
+五人の英傑が着用した服
+魔物の力を見透かす力を持つ","In ancient Hyrule, this garment could only be
+worn by one who had earned the respect
+of the royal family. Equipping it will reveal
+an enemy's life gauge."
+138,Armor_116_Upper_Name,英傑の服,Champion's Tunic
+139,Armor_148_Upper_Desc,"その昔 ハイラル王家から認められた五人の
+英傑が着用した服魔物の力を見透かす力を持つ
+大妖精の力で防御力が1段階アップしている","In ancient Hyrule, only those respected by
+the royal family could wear this garment.
+A Great Fairy has increased its defense
+by one level."
+140,Armor_148_Upper_Name,英傑の服,Champion's Tunic
+141,Armor_149_Upper_Desc,"その昔 ハイラル王家から認められた五人の
+英傑が着用した服魔物の力を見透かす力を持つ
+大妖精の力で防御力が2段階アップしている","In ancient Hyrule, only those respected by
+the royal family could wear this garment.
+A Great Fairy has increased its defense
+by two levels."
+142,Armor_149_Upper_Name,英傑の服,Champion's Tunic
+143,Armor_150_Upper_Desc,"その昔 ハイラル王家から認められた五人の
+英傑が着用した服魔物の力を見透かす力を持つ
+大妖精の力で防御力が3段階アップしている","In ancient Hyrule, only those respected by
+the royal family could wear this garment.
+A Great Fairy has increased its defense
+by three levels."
+144,Armor_150_Upper_Name,英傑の服,Champion's Tunic
+145,Armor_151_Upper_Desc,"その昔 ハイラル王家から認められた五人の
+英傑が着用した服魔物の力を見透かす力を持つ
+大妖精の力で防御力が最大までアップしている","In ancient Hyrule, only those respected by
+the royal family could wear this garment.
+A Great Fairy has increased its defense
+to the maximum level."
+146,Armor_151_Upper_Name,英傑の服,Champion's Tunic
+147,Armor_160_Upper_Desc,"キルトンが魔物研究の末に開発した漆黒の服
+勇者が身に着けていたといわれる
+緑の服とは似て非なる物","Kilton developed this jet-black armor as a
+result of his monster research. A spurious
+replica of the green outfit once worn by
+a legendary hero."
+148,Armor_160_Upper_Name,ダークボディ,Dark Tunic
+149,Armor_170_Upper_Desc,"『エキスパンション・パス購入特典』
+鮮やかな赤に「アレ」のロゴが入ったシャツ
+簡単には手に入らない レアな一品だ","Expansion Pass Bonus
+A shirt with the Nintendo Switch logo on it.
+It's a rather rare find, so wear it with pride!"
+150,Armor_170_Upper_Name,アレのシャツ,Nintendo Switch Shirt
+151,Armor_171_Upper_Desc,"かつて勇者ですら恐れた甲冑の魔物が存在した
+その魔物がまとっていたと伝えられる分厚い鎧
+簡単には手に入らない貴重な品だ","Myths abound about armored phantoms that
+terrorized brave heroes. This piece looks
+just like the armor they supposedly wore.
+It's a rather rare find."
+152,Armor_171_Upper_Name,ファントムの鎧,Phantom Armor
+153,Armor_174_Upper_Desc,"妖精に憧れた男が 好んで身に着けていた服
+その男にとって緑の色は妖精の証だったらしい
+簡単には手に入らない品のようだ","There was once a man who claimed to be
+the very reincarnation of a fairy. He treasured
+this shirt, and so will you. After all, it's a
+rather rare find. Kooloo-Limpah!"
+154,Armor_174_Upper_Name,チンクルの服,Tingle's Shirt
+155,Armor_175_Upper_Desc,"風の勇者が故郷の島で身に着けていたシャツ
+その勇者は風を巧みに操り海を往来したという
+簡単には手に入らない品のようだ","The Hero of Winds once wore this shirt on
+the quaint island he called home. They say
+he wielded the wind to travel the ocean wide.
+It's a rather rare find."
+156,Armor_175_Upper_Name,青いエビシャツ,Island Lobster Shirt
+157,Armor_179_Upper_Desc,"ハイラル王国近衛兵の正装とされる服
+軽い素材を用い見た目と実用性を兼ね備えている
+簡単には手に入らない珍しい物だ","The dignified uniform for Hyrule's Royal
+Guard. It's made of lightweight materials
+and is both stylish and practical. It's a
+rather rare find."
+158,Armor_179_Upper_Name,近衛兵の服,Royal Guard Uniform
+159,Armor_180_Upper_Desc,"かつて大魔王が自らを模し造り出した悪霊が
+まとっていたと伝えられる鎧装束
+簡単には手に入らない貴重な品だ","Some believe this armor is inspirited by
+a dark entity resembling the Great King
+of Evil himself. It's a rather rare find."
+160,Armor_180_Upper_Name,ファントムガノン鎧,Phantom Ganon Armor
+161,Armor_185_Upper_Desc,"【コラボ：ゼノブレイド２】
+雲海に沈むお宝を集めて暮らす少年の必需品
+簡単には手に入らない貴重な品だ","[Collaboration: Xenoblade Chronicles 2]
+Essential gear used by a boy who seeks
+sunken treasure in the Cloud Sea.
+It's a rather rare find."
+162,Armor_185_Upper_Name,サルベージャーボディ,Salvager Vest
+163,Armor_200_Upper_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれる緑の服
+年齢を問わずに着る事ができるデザイン","Legend has it this armor was once worn by a
+hero who traveled through time. Strangely,
+its special design is fitted for children and
+adults alike."
+164,Armor_200_Upper_Name,時の勇者服,Tunic of Time
+165,Armor_201_Upper_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれる緑の服
+大妖精の力で防御力が1段階アップしている","Legend has it this armor was once worn by a
+hero who traveled through time. It can be
+worn by a child or an adult. A Great
+Fairy has increased its defense by one level."
+166,Armor_201_Upper_Name,時の勇者服,Tunic of Time
+167,Armor_202_Upper_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれる緑の服
+大妖精の力で防御力が2段階アップしている","Legend has it this armor was once worn by a
+hero who traveled through time. It can be
+worn by a child or an adult. A Great
+Fairy has increased its defense by two levels."
+168,Armor_202_Upper_Name,時の勇者服,Tunic of Time
+169,Armor_203_Upper_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれる緑の服
+大妖精の力で防御力が3段階アップしている","Legend has it this armor was once worn by a
+hero who traveled through time. It can be
+worn by a child or an adult. A Great
+Fairy increased its defense by three levels."
+170,Armor_203_Upper_Name,時の勇者服,Tunic of Time
+171,Armor_204_Upper_Desc,"時を超えて旅をした勇者が 
+身に着けていたといわれる緑の服
+大妖精の力で防御力が最大までアップしている","Legend has it this armor was worn by a hero
+who traveled through time. It can be worn by
+a child or an adult. A Great Fairy has
+increased its defense to its maximum level."
+172,Armor_204_Upper_Name,時の勇者服,Tunic of Time
+173,Armor_205_Upper_Desc,"大海原を旅した勇者が
+愛用したといわれている緑の服
+祖母から贈られた品だといわれている","Legend has it this armor was once cherished
+by a hero who sailed the Great Sea. It's said
+to have been a gift from his grandmother."
+174,Armor_205_Upper_Name,風の勇者服,Tunic of the Wind
+175,Armor_206_Upper_Desc,"大海原を旅した勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が1段階アップしている","Legend has it this armor was cherished by a
+hero who sailed the Great Sea. It was woven
+with love by his grandmother. A Great Fairy
+has increased its defense by one level."
+176,Armor_206_Upper_Name,風の勇者服,Tunic of the Wind
+177,Armor_207_Upper_Desc,"大海原を旅した勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が2段階アップしている","Legend has it this armor was cherished by a
+hero who sailed the Great Sea. It was woven
+with love by his grandmother. A Great Fairy
+has increased its defense by two levels."
+178,Armor_207_Upper_Name,風の勇者服,Tunic of the Wind
+179,Armor_208_Upper_Desc,"大海原を旅した勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が3段階アップしている","Legend has it this armor was cherished by a
+hero who sailed the Great Sea. It was woven
+with love by his grandmother. A Great Fairy
+has increased its defense by three levels."
+180,Armor_208_Upper_Name,風の勇者服,Tunic of the Wind
+181,Armor_209_Upper_Desc,"大海原を旅した勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が最大までアップしている","Legend has it this armor was cherished by a
+hero who sailed the Great Sea. It was woven
+with love by his grandmother. A Great Fairy
+raised its defense to its maximum level."
+182,Armor_209_Upper_Name,風の勇者服,Tunic of the Wind
+183,Armor_210_Upper_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれる緑の服
+よく見ると狼の毛が少し付いている","Legend has it this armor was once worn by
+a hero who battled the monsters of twilight.
+There still seems to be some hair clinging
+to it... Looks like it may be from a wolf?"
+184,Armor_210_Upper_Name,黄昏の勇者服,Tunic of Twilight
+185,Armor_211_Upper_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれる緑の服
+大妖精の力で防御力が1段階アップしている","Legend has it this armor was worn by a hero
+who battled monsters of twilight. It looks like
+some wolf hair is still stuck to it... A Great
+Fairy has increased its defense by one level."
+186,Armor_211_Upper_Name,黄昏の勇者服,Tunic of Twilight
+187,Armor_212_Upper_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれる緑の服
+大妖精の力で防御力が2段階アップしている","Legend has it this armor was worn by a hero
+who battled monsters of twilight. It looks like
+some wolf hair is still stuck to it... A Great
+Fairy has increased its defense by two levels."
+188,Armor_212_Upper_Name,黄昏の勇者服,Tunic of Twilight
+189,Armor_213_Upper_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれる緑の服
+大妖精の力で防御力が3段階アップしている","Legend has it this armor was worn by a hero
+who battled monsters of twilight. It looks like
+some wolf hair is still stuck to it... A Great
+Fairy increased its defense by three levels."
+190,Armor_213_Upper_Name,黄昏の勇者服,Tunic of Twilight
+191,Armor_214_Upper_Desc,"黄昏の魔物と戦った勇者が
+身に着けていたといわれる緑の服
+大妖精の力で防御力が最大までアップしている","Legend has it this armor was worn by a hero
+who battled monsters of twilight. It looks like
+some wolf hair is still stuck to it... A Great
+Fairy raised its defense to its maximum level."
+192,Armor_214_Upper_Name,黄昏の勇者服,Tunic of Twilight
+193,Armor_215_Upper_Desc,"鳥に乗って空から現れた勇者が
+いつも着ていたといわれている緑の服
+儀式の祝いとして贈られた品だといわれている","Legend has it this armor was once worn by a
+hero who appeared from the sky riding atop
+a mighty bird. Apparently it was presented to
+celebrate the completion of a ceremony."
+194,Armor_215_Upper_Name,大空の勇者服,Tunic of the Sky
+195,Armor_216_Upper_Desc,"鳥に乗って空から現れた勇者が
+いつも着ていたといわれている緑の服
+大妖精の力で防御力が1段階アップしている","Legend has it this armor was worn by a hero
+who rode a mighty bird. It was apparently
+presented after a ceremony. A Great Fairy
+increased its defense by one level."
+196,Armor_216_Upper_Name,大空の勇者服,Tunic of the Sky
+197,Armor_217_Upper_Desc,"鳥に乗って空から現れた勇者が
+いつも着ていたといわれている緑の服
+大妖精の力で防御力が2段階アップしている","Legend has it this armor was worn by a hero
+who rode a mighty bird. It was apparently
+presented after a ceremony. A Great Fairy
+increased its defense by two levels."
+198,Armor_217_Upper_Name,大空の勇者服,Tunic of the Sky
+199,Armor_218_Upper_Desc,"鳥に乗って空から現れた勇者が
+いつも着ていたといわれている緑の服
+大妖精の力で防御力が3段階アップしている","Legend has it this armor was worn by a hero
+who rode a mighty bird. It was apparently
+presented after a ceremony. A Great Fairy
+increased its defense by three levels."
+200,Armor_218_Upper_Name,大空の勇者服,Tunic of the Sky
+201,Armor_219_Upper_Desc,"鳥に乗って空から現れた勇者が
+いつも着ていたといわれている緑の服
+大妖精の力で防御力が最大までアップしている","Legend has it this armor was worn by a hero
+who rode a mighty bird. It was apparently
+presented after a ceremony. A Great Fairy
+increased its defense to its maximum level."
+202,Armor_219_Upper_Name,大空の勇者服,Tunic of the Sky
+203,Armor_225_Upper_Desc,"月が落ちてくる世界の勇者が持っていた服
+身に着けると鬼神のごとき力が湧いてくる","Legend has it this armor once belonged to
+the hero of a world in which the moon
+threatened to fall. When you wear it, you feel
+a fierce, godlike power flow through you."
+204,Armor_225_Upper_Name,鬼神服,Fierce Deity Armor
+205,Armor_226_Upper_Desc,"月が落ちてくる世界の勇者が持っていた服
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が1段階アップしている","Armor worn by the hero from a world in which
+the moon threatened to fall. Wearing it
+provides godlike power. A Great Fairy
+has increased its defense by one level."
+206,Armor_226_Upper_Name,鬼神服,Fierce Deity Armor
+207,Armor_227_Upper_Desc,"月が落ちてくる世界の勇者が持っていた服
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が2段階アップしている","Armor worn by the hero from a world in which
+the moon threatened to fall. Wearing it
+provides godlike power. A Great Fairy
+has increased its defense by two levels."
+208,Armor_227_Upper_Name,鬼神服,Fierce Deity Armor
+209,Armor_228_Upper_Desc,"月が落ちてくる世界の勇者が持っていた服
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が3段階アップしている","Armor worn by the hero from a world in which
+the moon threatened to fall. Wearing it
+provides godlike power. A Great Fairy
+has increased its defense by three levels."
+210,Armor_228_Upper_Name,鬼神服,Fierce Deity Armor
+211,Armor_229_Upper_Desc,"月が落ちてくる世界の勇者が持っていた服
+身に着けると鬼神のごとき力が湧いてくる
+大妖精の力で防御力が最大までアップしている","Armor worn by the hero from a world in which
+the moon threatened to fall. Wearing it
+provides godlike power. A Great Fairy
+increased its defense to its maximum level."
+212,Armor_229_Upper_Name,鬼神服,Fierce Deity Armor
+213,Armor_230_Upper_Desc,"古の時代の勇者が
+愛用したといわれている緑の服
+シンプルなデザインだが伝統を感じる逸品","Legend has it this armor was once cherished
+by a hero from ancient times. Its design is
+rather simple, but it's such a traditional look."
+214,Armor_230_Upper_Name,始まりの勇者服,Tunic of the Hero
+215,Armor_231_Upper_Desc,"古の時代の勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が1段階アップしている","Legend has it this armor was once cherished
+by a hero from ancient times. Its design is
+simple yet traditional. A Great Fairy has
+increased its defense by one level."
+216,Armor_231_Upper_Name,始まりの勇者服,Tunic of the Hero
+217,Armor_232_Upper_Desc,"古の時代の勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が2段階アップしている","Legend has it this armor was once cherished
+by a hero from ancient times. Its design is
+simple yet traditional. A Great Fairy has
+increased its defense by two levels."
+218,Armor_232_Upper_Name,始まりの勇者服,Tunic of the Hero
+219,Armor_233_Upper_Desc,"古の時代の勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が3段階アップしている","Legend has it this armor was once cherished
+by a hero from ancient times. Its design is
+simple yet traditional. A Great Fairy has
+increased its defense by three levels."
+220,Armor_233_Upper_Name,始まりの勇者服,Tunic of the Hero
+221,Armor_234_Upper_Desc,"古の時代の勇者が
+愛用したといわれている緑の服
+大妖精の力で防御力が最大までアップしている","Legend has it this armor was once cherished
+by a hero from ancient times. Its design is
+simple yet traditional. A Great Fairy has
+increased its defense to its maximum level."
+222,Armor_234_Upper_Name,始まりの勇者服,Tunic of the Hero

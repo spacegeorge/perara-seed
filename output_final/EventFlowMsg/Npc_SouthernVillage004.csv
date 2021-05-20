@@ -1,0 +1,100 @@
+#,Title,JPja,USen
+1,"""0000""",ないよ,Nope.
+2,"""0001""",あるよ,I have!
+3,"""0002""",好き,"Oh, yeah, I like fish."
+4,"""0003""",嫌い,"No way, I hate fish."
+5,"""0004""",食べた,I ate it.
+6,"""0005""",まだ,Not yet.
+7,"""0006""",賭け？,Gamble?
+8,"""0007""",仕事は？,What do you do?
+9,"""0008""",もうかるの？,Is it profitable?
+10,Near00,降ってきたさ～,It's pouring!
+11,Near01,ねるさ～,Time for sleep!
+12,Near02,むにゃむにゃ,Zzz...
+13,talk00,"よう あんた
+はじめて見る顔だな！","Hey, you!"
+14,talk01,"あんた筏に乗って
+海に出たことはあるかいさ？",Have you gone sailing with a raft?
+15,talk02,"明日も朝が早いから もう寝るさ～
+あんたも早く寝なよ！","I've got an early morning, so I'm going
+to sleep. You should get some sleep, too!"
+16,talk03,"そうかい じゃあ教えてやろう
+海では風にうまく乗ることが大切さ～
+俺たち漁師は
+長年の経験で風を読んで船を操る
+でもな世間にはコログのうちわってえ
+便利な道具があるらしいのさ
+これを使えば 
+風を自由に操れるってえ話さ～","Well then, let me tell you a bit about it...
+Most importantly, the wind is critical
+to getting around at sea.
+Fishermen like us have learned, after
+years of experience, to predict and use
+the wind to control our ships.
+However... I've heard there is an object
+called a Korok leaf that will help you
+control the wind yourself!"
+17,talk04,"そうかい見かけによらないな
+
+海に出るには長い経験が必要さ！
+うかつに出れば風に流され遭難しちまうさぁ！","Huh, never would have guessed that just
+from looking at ya.
+
+Just remember...going out to sea isn't
+something you should take lightly! The
+wind can quickly strand you out there!"
+18,talk05,"雨の日に海に出るのは
+危ないのさ～！
+風も強いし船を操るのは至難のわざだ！
+生きては帰ってこれないぜ！","Going out to sea on a rainy day is
+dangerous!
+
+The wind is really strong, making it tough
+to control your boat. There's no way to
+be sure you'll even come back alive!"
+19,talk08,"その魚旨そうだろ？
+この近くの海で獲れたものさぁ～
+欲しかったら好きなだけ持っていくさ～
+多めに焼きすぎてしまったのさぁ","Doesn't that fish look delicious? I caught
+it myself, too!
+
+You're welcome to help yourself.
+I cooked way too much for just myself
+alone."
+20,talk09,"美味しそうな焼き魚だ
+この辺の海で捕れたものだろうか","Those grilled fish look really good.
+I wonder if they were caught locally..."
+21,talk10,あんた魚好きなのかいさ？,Do you like fish?
+22,talk11,"この辺で獲れた魚は それはそれは旨いのさ～
+食べたら きっと魚が好きになるさ
+好きなだけ持って行っていいから
+試しに食べてみるさ～","The fish around here are really good!
+All it takes is a little taste to fall in love
+with the local flavor!
+Take as many as you like—just give it
+a try!"
+23,talk12,"どうだい魚食べたかいさ？
+旨かっただろう？","How about it? Did you try the fish?
+Wasn't it delicious?"
+24,talk13,はやく食べると いいさ～,You should hurry up and eat it!
+25,talk14,"旨かっただろう！
+村の自慢の魚さ～","Really delicious, wasn't it? These fish
+are the pride of our village!"
+26,talk15,"よう旨そうな魚だろ！
+俺が獲ってきた魚さ～","Don't these fish look delicious?!
+I caught them myself!"
+27,talk16,"雨だねえ…
+
+こんな日には チョウハンの店で
+賭けでもするに限るさね～","Rain, huh...
+On days like this, the only thing I can do
+is gamble at Cloyne's shop."
+28,talk17,"そう賭け事なのさ～
+隣のチョウハンの店で できるぜ","Yup, that's right. Head over to Cloyne's
+place next door and you can, too!"
+29,talk18,"雨の日は漁に出れないから
+商売あがったりなのさ～","I'm a fisherman by trade. But I can't go
+out fishing when it's raining, so each
+raindrop cuts into my bottom line."
+30,talk19,それは運しだいなのさ,"Depends on your luck, for sure."
+31,talk20,むにゃむにゃ,Zzz...

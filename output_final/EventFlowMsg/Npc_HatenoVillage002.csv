@@ -1,0 +1,111 @@
+#,Title,JPja,USen
+1,"""0001""",買いに来た,I came to buy.
+2,"""0002""",売りに来た,I have things to sell.
+3,"""0003""",さようなら,Good-bye.
+4,"""0004""",あなたって？,Who are you?
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5502""",買う,Buy!
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5507""",ぜんぶ買う,I'll take 'em all!
+10,"""5508""",ぜんぶ売る,All of them.
+11,Com_Talk_00,はいよ！ どれを売ってくれるんだ？,Alrighty! Let's take a look here...
+12,Com_Talk_01,"を手放すのかい？
+ルピーになるけどいいか？","If you wanna part with that, I can
+probably go as high as  rupees.
+That OK?"
+13,Com_Talk_02,"ありがとな！
+他にも売ってくれるかい？",A pleasure! Anything else?
+14,Com_Talk_02b,"オッケー！""他にはどうだい？",OK! Anything else?
+15,Com_Talk_02c,いいぜ！他に売りたい物は あるかい？,"No problem! Did you want to sell
+anything else?"
+16,Com_Talk_02d,まいど！他にもあるかい？,Ka-ching! Anything else?
+17,Com_Talk_04,おぅ…残念だぜ,"Oh, yah? That's too bad."
+18,Com_Talk_05,何でも買い取るぜ！,I'll buy pretty much anything ya got!
+19,Com_Talk_05b,ゆっくり選んでくれよな！,Take your time! No rush.
+20,Com_Talk_05c,買い取りなら まかせてくれ！,"Don't hesitate to sell me stuff that you
+don't want! I love stuff! And things!"
+21,Com_Talk_05d,いっぱい売ってくれよな！,Sell me as much stuff as you like!
+22,Com_Talk_11,まいど！,Thanks!
+23,Com_Talk_11b,ありがとよ！,Thanks so much!
+24,Com_Talk_11c,まいどあり っと！,"Come on back, now!"
+25,Com_Talk_11d,オッケー！,OK!
+26,Com_Talk_13,"を売るのかい？
+いくつだい？","You wanna sell that?
+How many ya thinkin'?"
+27,Com_Talk_14,"なら個で
+ルピーだな","So... I'll give you  rupees for 'em.
+That OK with you?"
+28,Com_Talk_15,"すまねぇ！ そいつぁ ウチでは
+買い取れねぇや",Sorry! Not interested there.
+29,Com_Talk_16,着てる服は脱いでくれたら買い取るぜ！,"If you're looking to sell the clothes off
+your back, you'll have to take 'em off
+first, yeah?"
+30,Com_Talk_31,"を買ってくれるかい？
+いくつだい？",And how many do you need?
+31,Com_Talk_33,"""1つなら
+ルピーだぜ？","Well, I'll give you... rupees for it.
+How's that sound?"
+32,Com_Talk_34,"を あるだけ全部だね？
+個でルピーだけど いいかい？","My whole stock? Well,  of 'em will
+cost  rupees. How's that strike ya?"
+33,Com_Talk_35,"を個全部だね？
+それなら合計ルピーで買い取るぜ？","You wanna sell all  of them?
+I can buy them for .
+How's that sound?"
+34,Com_Talk_50,"かい？
+それならルピーだぜ","That'll be  rupees.
+That OK with you?"
+35,Com_Talk_51,"だな
+いくつ要るんだい？",How many?
+36,Com_Talk_52," が個なら
+ルピーだぜ！","So that would be  rupees.
+OK with you?"
+37,Com_Talk_53,"おう やめちゃうかい？
+残念だぜ","Oh, did you change your mind? Pity."
+38,Com_Talk_54,おっと…ルピーが足りないんじゃ売れねぇなぁ,"Well, if you don't have enough rupees,
+then I can't sell it to you. That's how
+commerce works, y'know?"
+39,Com_Talk_55,"ん？荷物がいっぱいだぜ
+要らねぇ物があるなら買い取るぜ？","Looks like you're carrying too much
+stuff there. You interested in selling any
+of that?"
+40,Com_Talk_56,"を1つだな？
+ならルピーだ","That'll run you  rupees.
+How's that strike ya?"
+41,near00,らっしゃい！,Welcome!
+42,near01,アレと…,That...
+43,near02,コレと…,And this...
+44,near03,♪～,♪～♪
+45,talk00,よぅ おはよう！,"Hey, good morning there!"
+46,talk01,よぅ！,Hey!
+47,talk02,よぅ お疲れさん！,The day is done!
+48,talk07,またよろしくな！,Come back soon!
+49,talk08,いい買いっぷりだねぇ！,That's some good shopping there!
+50,talk09,それ もっと必要かい？また仕入れとくぜ！,"If you need more, I can do a restock."
+51,talk10,よっ景気がいいね！,Now that's good business!
+52,talk11,お客さん羽振りがいいね！,"Say, kid, looks like you're doing pretty
+well for yourself, eh?"
+53,talk13,他にあるかい？,Need anything else?
+54,talk14,定位置に戻らぁな,I trust everything is as I left it?
+55,talk15,"おぅお客さんか！
+ケツ向けて すまねぇ","Oh, a customer! I didn't even hear ya
+come in. Sorry about that."
+56,talk16,はいよ！,Alrighty!
+57,talk17,俺に用かい？,So...what can I do ya for?
+58,talk18,俺かい？！,You wanna know who I am?!
+59,talk19,"俺はアカエゾ
+
+ここイースト・ウィンドの
+店主をさせてもらってる","Well, you can just call me Pruce. I'm the
+shopkeeper of East Wind here."
+60,talk20,"家族は妻と娘と息子
+平々凡々な一家だよ","I've got a wife, daughter, and son. We're
+pretty much your typical family."
+61,talk21,"ハテノ村の連中は みんな気さくだから
+気軽に声 かけてみてくれよな","Everyone here in Hateno Village is
+pretty friendly, so don't be shy about
+striking up conversation with the locals."
+62,talk23,"買いたいものがあるなら
+商品の目の前に行って選んでくれたらいいぜ","If you wanna buy something, just walk
+right up to it and select it."

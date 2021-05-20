@@ -1,0 +1,78 @@
+#,Title,JPja,USen
+1,"""0000""",武器ポーチ,Weapon stash.
+2,"""0001""",弓ポーチ,Bow stash.
+3,"""0002""",盾ポーチ,Shield stash.
+4,"""0003""",結構です,Nothing right now.
+5,talk00,"キュルン♪
+
+キミちん また会ったね！
+
+ボクちん コログの森に帰りたいんだけど
+道に迷っちゃって…","Shalaka?!
+
+
+We meet again!
+
+
+I want to go home to Korok Forest,
+but I've lost my way..."
+6,talk01,"クンクン… このニオイ…""コログのミ？
+
+キミちん！森の子供達から
+コログのミ""取り返してくれたんだね！
+じゃあ そのコログのミ くれたら
+お礼に お好きなポーチ""大きくしてあげる♪","*sniff sniff*
+I detect the scent of...Korok seeds!
+
+You've received a Korok seed from the
+forest children, haven't you?!
+
+If you give me Korok seeds, I'll make one
+of your stashes bigger! Which one will it
+beeeeeeeeeeee?!"
+7,talk02,"クンクン…
+
+はぁ…コログのミ…持ってないかぁ
+
+キミちん森の子供達から
+コログのミ""取り返してくれたら
+こないだみたいに お好きなポーチ
+大きくしてあげるからネ♪","*sniff sniff*
+
+
+Aww... You didn't bring me any
+Korok seeds, did you?
+
+If you get any Korok seeds from the
+forest children...
+
+I'll make one of your stashes bigger
+just like last time! Remember how fun
+that was?!"
+8,talk03,"馬宿の人の話では
+この辺はラネール地方っていうらしいねぇ
+キュウウン…だったらコログの森は
+まだまだもっと北って事だよねぇ…
+まぁ せっかくだし もう少しここで
+ゆっくりさせてもらうとするよぉ
+あ ちょっと待って…","According to the folks at the stable,
+this area is the Lanayru region.
+
+Sha-shaka! That means Korok Forest
+is still north of here...
+
+Well, since I'm already here, I may as
+well stay awhile and relax.
+
+Oh, wait a minute..."
+9,talk04,"ボクちん コログの森の帰り道
+思い出したかも！
+ありがとう キミちん！
+今度こそ コログの森へ帰るよ
+じゃ コログの森で また会おうね！","Ohhh, I think I remember the way back
+to Korok Forest!
+
+And it's all thanks to you! I'll definitely
+make it home to Korok Forest this time!
+
+I'll see you there. In Korok Forest!"

@@ -1,0 +1,149 @@
+#,Title,JPja,USen
+1,"""0001""",買い取ってほしい,I've things for sale.
+2,"""0002""",さよなら,Good-bye.
+3,"""0003""",買います,Deal!
+4,"""0004""",さようなら,Good-bye.
+5,"""5500""",はい,Yes.
+6,"""5501""",いいえ,No.
+7,"""5502""",買う,I'll buy.
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5507""",ぜんぶ買う,I'll take 'em all!
+10,"""5508""",ぜんぶ売る,All of them.
+11,Com_Talk_00,とりあえず見せてみな,Just show me what you have for now.
+12,Com_Talk_01,"だと…
+ルピーでいいなら買い取るよ","For that... If  rupees is OK
+with you, I'll buy it."
+13,Com_Talk_02,サークサーク,Sarqso.
+14,Com_Talk_02b,"良い品じゃないか
+サークサーク",Nice wares! Sarqso!
+15,Com_Talk_02c,ふふっ サークサーク,Heh heh. Sarqso!
+16,Com_Talk_02d,"サークサーク
+良いモン仕入れさせてもらったよ","Sarqso. I'm pleased with what I've
+bought from you..."
+17,Com_Talk_04,"なんだよ…
+さっさと頼むよ","What? Come on, hurry up..."
+18,Com_Talk_05,"それで…
+他にも買い取ってほしい物があるのかい？","And...did you have anything else you
+wanted me to buy?"
+19,Com_Talk_05b,他にはもうないのかい？,Nothing more?
+20,Com_Talk_05c,"この際だ
+どーんと売っぱらっちゃいなよ","Now's the time. Sell me a whole bunch
+of things!"
+21,Com_Talk_05d,"買い取れるもんなら
+何でも買い取るよ！",I'll buy anything I can from you!
+22,Com_Talk_13,"だね？
+…でいくつ買い取ればいいんだい？","That? OK, how many do you want
+to sell?"
+23,Com_Talk_14,"が個っと…
+合わせて…ルピーでどうだい？","So  of them?
+How about  rupees?"
+24,Com_Talk_15,それは… ウチでは引き取れないね,I...can't take that from you.
+25,Com_Talk_16,着てるもんには興味ないよ,"I'm not interested in what you're
+wearing."
+26,Com_Talk_33,"は
+1個ルピーだよ売ってくかい？","One will get you  rupees.
+Wanna sell it?"
+27,Com_Talk_35,"を個全部かい？
+それならルピーでどうだい？","All  of yours? In that case, does 
+ rupees sound good?"
+28,Com_Talk_50,"ならルピー
+どうだい？安いだろ？","One is  rupees. What do you think?
+Pretty good price?"
+29,Com_Talk_53,"おや やめちゃうのかい？
+残念だねぇ","Oh, did you change your mind?
+That's too bad."
+30,Near001,ヴァ～サ～ック,Vasaaq!
+31,Near002,不思議なキノコだよ～,Mysterious mushrooms!
+32,Talk_01,"サヴァーク！
+
+今日も暑いねぇ","Sav'aaq!
+It's another hot one today, huh?"
+33,Talk_02,"金ができたなら
+キノコもみてっておくれ","If you've got some money, take a look at
+my mushrooms."
+34,Talk_03,"実はココだけの話
+ゲルドの美肌はこのキノコが作ってるんだよ
+ゲルドの街に来たからには
+オネェさんも買っとかないと損だよ～","Just between us... The Gerudo keep their
+skin so beautiful thanks to the
+mushrooms that grow here.
+It would really be a waste if you left
+Gerudo Town without taking some of
+these mushrooms with you!"
+35,Talk_04,"神獣も大人しくなったし
+またこの街にも活気が戻ってくるだろうから
+どんどん働かないとねぇ","The Divine Beast has quieted down now,
+so maybe this town will return to its old,
+lively self... I'd better be ready."
+36,Talk_05,サヴォッタ！,Sav'otta!
+37,Talk_06,サークサーク！,Sarqso!
+38,Talk_07,"オネェさん ほそっこいのに太っ腹だねぇ
+
+でもキノコはヘルシーだからね
+たくさん食べても大丈夫だよ","For such a skinny little one, you've got
+quite an appetite.
+
+Good news! Mushrooms are really
+healthy, so you can eat a bunch,
+no problem!"
+39,Talk_09,"おや？ お客さん
+まだ何か用があるのかい？",Did you need something else?
+40,Talk_10,"サヴォッタ！
+お客さん朝から元気だね","Sav'otta!
+You've got a lot of energy. More of a
+morning person, huh?"
+41,Talk_11,"サヴァサーバ！
+
+ちょっと涼しくなってきたねぇ
+キノコは夜に元気になるからね
+ゆっくり見てっとくれ","Sav'saaba!
+Now that it's the evening, it's gotten
+much cooler, hasn't it?
+You know, mushrooms enjoy the cool
+weather. You might find some around...
+Take the time to look."
+42,Talk_12,"美人にしか見えない
+不思議なキノコだよ～
+……
+よく見たら オネェさんじゃないかい
+オネェさんが ぜ～んぶ買ってくれたから
+売るもんがなくなってねぇ
+こうやって ごまかしてんだよ","Step right up and sample my wares: rare,
+mysterious mushrooms, only visible to
+the eyes of the most beautiful!
+Oh—it's just you.
+After you bought all my mushrooms,
+I had nothing left to restock my stall...
+But now, I think people will fall for this."
+43,Talk_13,"実はここだけの話…
+
+キノコってのは
+この世で一番大きな生物らしいよ
+キノコは奥が深いよねぇ…
+
+深すぎて おばちゃんは
+よくわからないけど…","Just between us... Mushrooms are
+actually the largest living things in the
+entire world.
+There's actually a ton of really
+interesting info about mushrooms.
+A lot of it I don't even understand, though..."
+44,Talk_14,"またキノコ仕入れておくからさ
+金ができたなら またよろしく頼むよ","I'll make sure to restock my mushrooms.
+When you have some money to spend,
+please come back by here."
+45,Talk_15,"サークサーク！
+しっかり食べて大きくなるんだよ！","Sarqso!
+Eat hearty and grow big!"
+46,Talk_16,"サークサーク！
+
+鍋が必要なら共同キッチンを使うといいよ
+ヴァーイなら誰でも使えるからねぇ
+まぁ ここにはヴァーイしか
+いないけどさ","Sarqso!
+If you want to cook, the kitchen is
+available for any vai to use.
+\""Any vai,\"" haha! We're all vai here!"
+47,Talk_17,サヴァーク！,Sav'aaq!
+48,Talk_18,サヴァサーバ！,Sav'saaba!
+49,Talk_19,ヴァーサーク！,Vasaaq!

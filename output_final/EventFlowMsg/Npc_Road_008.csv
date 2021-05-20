@@ -1,0 +1,214 @@
+#,Title,JPja,USen
+1,Atacked00,どうしよう…怖い…,"Oh, no... I'm scared..."
+2,Atacked01,もう…覚悟はできてる…,I'm... I'm ready...
+3,Failed00,"こ…ここは天国？
+ではなくて私…生きてるみたいね…","Am... Am I dead? This looks different
+than I'd expected. Unless I'm still
+alive?"
+4,Failed01,もうイヤ…何でこんな目に…,"I hate this... What did I do
+to deserve this?"
+5,Guardian00,"逃げたほうがよさそうよ！
+ガーディアンが来る前に！","Run away! Get out of here!
+There's a Guardian coming!"
+6,MSG_Futa_00,"キミって気温はもちろん
+気分と服装も合わせてそうな気がするな
+こんな世の中だからこそ
+オシャレを楽しむ余裕が大事って思うでしょ？","Dressing for the weather is fine, but be
+sure to express yourself. Dress how you
+feel, and let your heart be your stylist!
+What's the point in living in such a
+beautiful world if you don't dress
+beautifully too?"
+7,MSG_Futa_00_1,"こんな世の中だからこそ オシャレを楽しむの！
+心の余裕っていうのかなー","When things get bad and the world looks
+bleak, it's important to let your fashion
+shine. You can't let the sadness win."
+8,MSG_Futa_01,"ねぇキミ…
+寒かったり暑かったりとか大丈夫？
+寒い地域と暑い地域では
+服を着替えるのが快適に過ごすコツよ
+ちゃんと着替えを持って旅してるんでしょ？","Quick question for you... How do you
+do when the weather gets...extreme?
+You know, like, too hot or too cold?
+If you want to stay comfy, the key is 
+to change your outfit to match the
+temperature.
+That's why you should always pack
+a spare change of clothes when
+you're exploring!"
+9,MSG_Futa_01_1,"寒い地域や暑い地域では ちゃんと着替える事！
+これが快適に過ごすコツよ！","If you find yourself getting uncomfortably
+hot or cold, it's probably time you
+considered a change of clothes."
+10,MSG_Futa_02,"…どうしたの？
+おねえさん当ててみようか？
+服を買いに行きたいから
+カカリコ村の場所を知りたいんでしょ？
+ここから北に向かって歩けばいいの
+値段が高いけど いい服が買えるのよね","Why the long face? 
+I bet I could guess!
+
+You're in the mood for a new outfit, but
+you don't know where Kakariko Village is.
+Am I right?
+All you need to do is head north! Their
+prices tend to be on the more expensive 
+side, but the clothes are top-notch!"
+11,MSG_Futa_02_1,"服を買うなら北のカカリコ村よ
+いい服売ってるんだよねー高いけど…","If you're looking for a new outfit, you
+should visit Kakariko Village. Things can
+run a bit pricey, but they're worth it."
+12,MSG_Futa_03,"キミが着こなしている服
+似合ってて かっこいいわよ
+おねえさんの服？
+じつはこれ オーダーメイドなの
+せっかくだから
+お互いの着こなし褒めあいましょ！","That outfit you're wearing... It looks so
+dashing, so heroic!
+
+Oh, my outfit? It is lovely, isn't it?
+Actually, I had this custom made!
+
+This isn't weird at all to you, is it? Two
+strangers on the road, praising one
+another's impeccable taste?"
+13,MSG_Futa_03_1,"何を隠そう おねえさんの服 オーダーメイドなの
+でも誰も気づいてくれないんだよね…","I get all my clothes custom made. Not
+that anyone ever notices... True fashion
+sense is sometimes too subtle for most."
+14,MSG_Futa_04,"…でっしぇ でっしぇ～♪
+
+あ…ハテノ村にある染物屋さん知らない？
+「でっしぇ」って そこのご主人の口ぐせなの
+もしも服を染めたくなった時は
+その染物屋さんが オススメよ","Today is a good day...to dye!
+
+
+Wait, do you not know about the dye
+shop in Hateno Village? The shopkeeper
+always has these awful puns...
+But if you ever want to change up your
+look, you should swing by. Hue won't
+regret it! HA!"
+15,MSG_Futa_04_1,"でっしぇ でっしぇ でっしぇっしぇ～♪
+
+ハテノ村の染物屋さんいい味出してるのよ
+彼の口ぐせで歌作っちゃうくらい","\""The colors of these fabrics are just
+to dye for!\""
+
+If you ever talk to the owner of the dye
+shop in Hateno Village, you'd better
+have a high tolerance for lethal puns."
+16,Near00,朝はニガテ…,Mornings are the WORST.
+17,Near01,新しい服 ほしいな～,I want some new clothes...
+18,Near02,何食べよっかナ,Hm... What to eat...
+19,Near03,目がショボショボ…,My eyes are so tired...
+20,Near04,ああ もう…,Not good...
+21,Rest_00,"馬につける「くら」や 「手綱」…
+せっかくなら オシャレな方がいいと思わない？
+馬具の着け替えは馬宿でやってるわよ","If you're gonna need saddles and bridles
+anyway...you might as well make them
+as stylish as possible, don't you think? 
+If you decide to take my advice and swap
+your horse's gear, a stable's the place to
+do it. Your horse will thank you!"
+22,Rest_01,"雨の日に濡れないコツはね…
+フフフ…出歩かないことよ","Here's the secret to keeping dry on a
+rainy day... And you can't tell ANYONE...
+Simply don't go outside."
+23,Rest_02,"…もしかして雨がうれしいの？
+そんな事ないわよね","You mean to tell me you LIKE the rain?
+That's ridiculous. Your clothes smell
+like wet dog!"
+24,RetMSG_Futa_00,"キミって ちょっと違うわね
+着こなしとか身のこなしがスマートだもの
+ここだけの話…双子馬宿を利用する旅人って
+どこか垢抜けてないのよね","You're not like the others. You're so
+fit, so stylish.
+
+Just between you and me...the sorts of
+folks who visit the Dueling Peaks Stable
+aren't exactly the pinnacle of fashion..."
+25,RetMSG_Futa_00_1,"双子馬宿にいる人達も もうちょっと
+オシャレに敏感になってほしい って感じ","I don't like to judge people, but...
+Oh, who am I kidding? I love judging
+people!
+Take the folks at Dueling Peaks Stable for
+instance. I wish those yokels had at least
+a little basic fashion sense."
+26,RetMSG_Futa_01,"キミって着こなしが上手…
+
+言われたことある？
+なかったとしたら みんな見る目ないのよ","You've got a real eye for coordinating
+your, uh...outfit there.
+
+Just take what I say. I have the keenest
+eye for fashion in the land."
+27,RetMSG_Futa_01_1,"キミの着こなし そこそこスタイリッシュよね
+他の旅人は そういうの気にしないのかなー？","You've got a good eye for fashion.
+Do adventurers just not care about
+that sort of thing anymore?"
+28,RetMSG_Futa_02,"ああ…着替えたい着替えたい
+新しい服に着替えたい…
+この街道を北に歩けばカカリコ村があって
+いろいろな服を買うことができるんだけど…
+オシャレに お金使いすぎちゃって…","My favorite part about traveling is finding
+new fashions in the places you visit...
+I love discovering new looks!
+Like, if you keep taking this path north,
+you'll wind up in Kakariko Village. They
+have some of my favorite clothes ever.
+I'd be there right now, if I hadn't already
+blown my last few rupees on this
+stunning neckerchief..."
+29,RetMSG_Futa_02_1,"カカリコ村で新しい服買っちゃおうかなー
+どうしよーかなー","I'm thinking about picking up some new
+clothes in Kakariko Village. I just don't
+know if I can justify the cost..."
+30,RetMSG_Futa_03,"…もしかして おねえさんに
+服装チェックしてもらいたいとか？
+あ…そういうことじゃないのね
+ごめんなさい","What is it? Did you want me to
+evaluate your fashion sense?
+
+No? Well, fine. You probably wouldn't
+have liked what I had to say anyway."
+31,RetMSG_Futa_03_1,"服装チェックしてほしいの？
+
+……
+
+ごめんちょっと何とも言えない感じ","You want me to give you a quick fashion
+assessment? Sure thing. Let me just...
+
+...
+
+
+Yeah, sorry. I don't even know where
+to begin..."
+32,RetMSG_Futa_04,"この服の色…
+なんだか飽きてきちゃったな
+久しぶりにハテノ村の染物屋に行って
+別の色に染めてもらおっかなぁ","I don't know... I'm just so tired of this
+color. Maybe I'll visit the dye shop in
+Hateno Village to refresh my look."
+33,RetMSG_Futa_04_1,"この服ハテノ村の染物屋に行って
+別の色に染め直してもらおっかなぁ","I love this top, but I think I'm just getting
+bored of the colors. Maybe it's time for a
+stop at the dye shop in Hateno Village."
+34,SavedLv1_00,"キミって なかなかやるのね
+ありがと！","You're pretty handy with the killing!
+Thanks!"
+35,SavedLv1_01,"どうなるかって思っちゃった
+ありがと！","I wasn't expecting an ambush!
+Thanks for helping me out."
+36,SavedLv2_00,"キミがいてくれて よかった…
+どうも ありがとう","I'm so glad you were here to help...
+I can't thank you enough."
+37,SavedLv2_01,キミが いてくれなかったらと思うと…,"If you hadn't come... I really don't want
+to think what could have happened."
+38,SavedLv3_00,"キミは私の命の恩人よ！
+大げさでも何でもなく！","You've saved my life! I mean it.
+No exaggeration here."
+39,SavedLv3_01,キミがいなかったら私は今ごろ…,"I dread to think what could have
+happened..."
+40,Thanks00,これ助けてくれたお礼よ,"Here, this is for rescuing me."

@@ -1,0 +1,54 @@
+#,Title,JPja,USen
+1,"""0001""",カメラの上下スティック操作を逆にします,Invert vertical camera controls.
+2,"""0002""",カメラの左右スティック操作を逆にします,Invert horizontal camera controls.
+3,"""0003""",ジャンプボタン とキャンセルボタン を入れ替えます,Swap jump button with cancel button.
+4,"""0004""",ジャイロによる照準の移動をONOFFします,Toggle use of motion sensor for aiming on or off.
+5,"""0005""",ルビを表示します,ルビを表示します
+6,"""0006""",ミニマップを北が上向きになるように固定します,Fix the minimap to north regardless of which direction Link is facing.
+7,"""0007""",メイン画面の表示を変更します,Change how much information appears in the head-up display.
+8,"""0008""",カメラの操作スピードを変更します,Change the speed at which the camera turns.
+9,"""0009""",amiiboの設定を変更します,Change amiibo settings.
+10,"""0010""",とてもおそい,Very slow
+11,"""0011""",おそい,Slow
+12,"""0012""",ふつう,Normal
+13,"""0013""",はやい,Fast
+14,"""0014""",とてもはやい,Very fast
+15,"""0015""",amiiboを使用しない,Don't use amiibo
+16,"""0016""",amiiboを使用する,Use amiibo
+17,"""0017""",会話ウィンドウの透明度を変更します,Change message-window transparency.
+18,"""0019""",カメラ操作 上下反転,Invert vertical camera
+19,"""0020""",カメラ操作 左右反転,Invert horizontal camera
+20,"""0021""",ジャンプボタン切り替え,Change jump button
+21,"""0022""",ジャイロ機能,Aim with motion controls
+22,"""0023""",ルビ表示,ルビ表示
+23,"""0024""",ミニマップ北固定,Fix minimap to north
+24,"""0025""",カメラ回転速度,Camera sensitivity
+25,"""0026""",amiibo,amiibo
+26,"""0027""",画面表示,HUD mode
+27,"""0028""",会話ウィンドウ透明度,Message-window transparency
+28,"""0029""",ノーマル,Normal
+29,"""0030""",プロ,Pro
+30,"""0032""",ふつう,Regular
+31,"""0033""",濃い,Opaque
+32,"""0034""",音声言語,Voice Language
+33,"""0035""",変更する,Change
+34,"""0036""",本体設定と同じ,Match System Settings
+35,"""0037""",日本語,Japanese
+36,"""0038""",英語,English
+37,"""0039""",フランス語（フランス）,French (France)
+38,"""0040""",フランス語（カナダ）,French (Canada)
+39,"""0041""",ドイツ語,German
+40,"""0042""",スペイン語（スペイン）,Spanish (Spain)
+41,"""0043""",スペイン語（ラテンアメリカ）,Spanish (Latin America)
+42,"""0044""",イタリア語,Italian
+43,"""0045""",ロシア語,Russian
+44,"""0046""",音声言語を変更します,Change voice language
+45,"""0047""",VRゴーグル,Toy-Con VR Goggles
+46,"""0048""",VRゴーグルを使用してゲームをプレイします。,Play using the VR Goggles.
+47,"""0049""",VRゴーグルを使用する,ON
+48,"""0050""",VRゴーグルを使用しない,OFF
+49,Pa_GuideB_00-T_Guide_00,戻る,Back
+50,Pa_GuideY_00-T_Guide_00,初期設定に戻す,Restore default settings
+51,Pa_SlideBtn_00-Pa_Btn_00-T_BtnOFF_00,OFF,OFF
+52,Pa_SlideBtn_00-Pa_Btn_00-T_BtnON_00,ON,ON
+53,T_OptionTitle_00,オプション,Options

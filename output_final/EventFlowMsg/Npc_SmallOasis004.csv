@@ -1,0 +1,97 @@
+#,Title,JPja,USen
+1,"""0000""",ふつうのベッド,I'll take the regular.
+2,"""0001""",ふかふかのベッド,"Soft, please!"
+3,"""0002""",ふかふか？,What makes it soft?
+4,"""0003""",朝ぐらい,In the morning!
+5,"""0004""",昼ぐらい,"Around noon, please."
+6,"""0005""",夜ぐらい,After sunset.
+7,"""0006""",やっぱりやめる,Actually...never mind.
+8,"""0007""",やめる,"Actually, never mind."
+9,Talk01,"まったく…砂漠に神獣が現れたせいで
+すっかり客が減っちまってねぇ…
+ちょっと足音がうるさいけど
+休んでいくかい？","Grrr... We've lost a lot of business ever
+since that Divine Beast started
+stomping out in the desert.
+The sound of the Divine Beast walking
+might be loud, but the beds are still
+comfy. Do you want to stay?"
+10,Talk02,サヴォーク！,Sav'orq!
+11,Talk03,"なんだい…お代が足りないじゃないか！
+それじゃあ泊まらせる事はできないねぇ","OK then, we'll just... Hey! You haven't
+got enough money! You can't stay if
+you can't pay..."
+12,Talk04,"ふつうのベッドだね
+それで いつ起きてくるんだい？","A regular bed it is. We offer a mandatory
+wake-up shout. When would you like it?"
+13,Talk05,"ふかふかのベッドだね まいどあり！
+それで いつ起きてくるんだい？","One soft bed coming up! We offer a
+mandatory wake-up shout. When would
+you like it?"
+14,Talk06,"寝過ごさないようにねぇ
+サヴォール！",OK. Don't oversleep. Sav'orr!
+15,Talk07,"ゆっくり休んどくれ
+サヴォール！",Sleep well. Sav'orr!
+16,Talk08,"サヴォッタ！ よく眠れたかい？
+気を付けて行ってらっしゃい！","Sav'otta!
+
+
+I hope you slept well. 
+Take care and safe travels to you!"
+17,Talk09,"サヴァーク！よく眠れたかい？
+気を付けて行ってらっしゃい！","Sav'aaq!
+
+
+I hope you slept well. 
+Take care and safe travels to you!"
+18,Talk10,"サヴァサーバ！ よく眠れたかい？
+外は寒いよ気を付けるんだよ","Sav'saaba!
+
+
+I hope you slept well.
+It's cold outside, so travel safe!"
+19,Talk11,"サヴォッタ！ よく眠れただろ？
+気を付けて行ってらっしゃい！","Sav'otta!
+
+
+Wasn't that bed the softest?
+Take care and safe travels to you!"
+20,Talk12,"サヴァーク！よく眠れただろ？
+気を付けて行ってらっしゃい！","Sav'aaq!
+
+
+Wasn't that bed the softest?
+Take care and safe travels to you!"
+21,Talk13,"サヴァサーバ！ よく眠れただろ？
+外は寒いよ気を付けるんだよ","Sav'saaba!
+
+
+Wasn't that bed the softest?
+It's cold outside, so travel safe!"
+22,Talk14,"神獣もいなくなったことだし
+安心して休んでっとくれ","With the Divine Beast gone, you can
+sleep soundly without being woken
+up by constant stomping. Want to stay?"
+23,Talk15,"ふかふかのベッドは
+コッコの羽毛で作ってる特別なベッドでね
+一晩寝ると寝る前よりも
+元気になること間違いなしだよ","The soft bed has been carefully crafted
+from Cucco feathers. It's designed to
+leave you full of energy when you wake."
+24,Talk16,"どうする？
+休んでくかい？",So? What do you think?
+25,Talk17,"それにしても
+その服 よく似合ってるじゃないか
+どこからどうみても
+立派なゲルドのヴァーイだねぇ","You know, those clothes look quite nice
+on you. Even on close examination, you
+look every bit the fine vai."
+26,Talk18,"ちょっと足音はうるさいけど ベッドは快適だよ
+休んでいかないかい？","The Divine Beast's footsteps can be a
+little loud, but the beds are comfortable.
+Would you like to take a rest?"
+27,Talk19,"ふつうのベッドなら20ルピー
+ふかふかのベッドなら40ルピーだよ","A regular bed is 20 rupees.
+A soft bed is 40 rupees."
+28,near00,はぁ～,*SIGH*
+29,near01,静かになったねぇ,It's finally quiet...

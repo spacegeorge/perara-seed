@@ -1,0 +1,959 @@
+#,Title,JPja,USen
+1,"""0030""",賊のことについて,About the thieves...
+2,"""0031""",アジトの場所について,Where's the hideout?
+3,"""0032""",わかった,That's all.
+4,"""0033""",似合うよ,It looks good!
+5,"""0034""",ちょっと大きすぎ…,It's a tad big...
+6,"""0100""",もちろん,Of course!
+7,"""0101""",ちょっと待って,Give me some time...
+8,"""0102""",もちろん,Of course!
+9,"""0103""",もう一度説明して,"The plan, once more."
+10,"""0106""",やっぱり出直す,Um... I... Well...
+11,"""0108""",神獣に乗り込みたい,I can calm Naboris.
+12,"""0110""",もう大丈夫！,I'm ready!
+13,"""0111""",もう一度作戦を教えて,"The strategy, again?"
+14,"""0112""",出直してきます,Give me a bit...
+15,"""0113""",引き返す,Retreat!
+16,"""0114""",続行する,Keep up the fight!
+17,"""0122""",もちろん,Of course!
+18,"""0123""",今はちょっと…,Er... Not right now...
+19,Debug_Invasion_001,（最後の一撃を喰らって雄叫びを上げる）,(Receives final hit and screams)
+20,Npc_GerudoDesert001_Defeat_001,"族長様ならゲルドの街に戻られたよ
+ずいぶん疲弊されていたようだけど…
+あれだけの激しい戦いだったんだ
+無理もないだろうさ…","If you're looking for the chief, she's gone
+back to Gerudo Town. She looked
+absolutely exhausted.
+I would be too, though. That battle
+looked so intense. I hope she didn't
+overdo it..."
+21,Npc_GerudoDesert001_Finish_001,"ここからじゃ何が起こったのか
+わからなかったが
+本当に神獣を
+大人しくさせてしまうとはな…","I couldn't see all the details of what
+happened out there, but I think you truly
+have quieted the Divine Beast..."
+22,Npc_GerudoDesert001_Invasion_001,"族長様は上にいらっしゃる
+
+疲れておられたが
+今はすっかり元気になられたようだ
+あんな小さな体に大きな負担を抱えられて…
+何もできない自分が歯がゆいよ…","The chief is upstairs. She was pretty
+exhausted before, but it seems like
+she's back to normal now.
+I'm annoyed that while she risked so
+much, there was nothing I could do to
+help..."
+23,Npc_GerudoDesert001_Strategy_001,"驚いたな…
+
+まさか アンタみたいな
+ちっこいのが来るとは…
+本当に神獣と戦えるのか…？
+
+しかし…族長様に認められたというのであれば
+何か理由があるんだろうな
+族長様なら この監視所のてっぺんでお待ちだ
+早く行くんだな","I'm shocked... Despite what the chief
+said, I wasn't expecting someone as...
+short as you.
+But the chief must have her reasons for
+believing you can fight the Divine Beast.
+
+She's waiting for you at the top of the
+lookout post. Hurry up."
+24,Npc_GerudoDesert001_Strategy_002,"族長様なら上にいらっしゃるよ
+あまりお待たせするんじゃないぞ","If you're looking for the chief, she's up
+top. Don't make her wait forever."
+25,Npc_oasis003_Defeat_001,"初めて… かもしれん…
+
+初めて わらわは自分の力で
+族長としての務めを果たせた気がする…
+後はお前に任せた
+今 アレを鎮められるのは お前だけだからな
+しかし…約束してくれ
+必ず無事に帰ってくるのだぞ…","You know...this might be the first time
+I've felt like I've lived up to the
+expectations of being chief.
+I leave the rest to you. You're the only
+one who can truly calm this beast.
+
+Just...promise me you'll come back safe."
+26,Npc_oasis003_Finish_001,おおっ帰ってきたか？！,"Oh, you're back?!"
+27,Npc_oasis003_Finish_003,"無事でよかった…
+
+本当に…","I'm glad you're OK...
+
+
+Truly, I am..."
+28,Npc_oasis003_Finish_004,"ナボリスが鎮座し巨大な砂嵐も収まった…
+大厄災の動向は気がかりだが…
+少なくとも民がナボリスに
+悩まされることは もうないだろう…","Naboris is no longer a threat to the
+town...
+
+I'm still worried about the larger threat to
+Hyrule, but at least my people won't be
+troubled by Naboris anymore."
+29,Npc_oasis003_Finish_005,"かつてウルボザ様が使われていた
+我が一族の珠玉の武具だ
+ウルボザ様の友であったお前に
+持っていてもらいたい と思ってな","These pieces of equipment are priceless
+treasures of the Gerudo people.
+They were once worn by Lady Urbosa.
+Since you and Lady Urbosa were friends,
+it's only right that you have them."
+30,Npc_oasis003_Finish_009,これは世話になった礼だ,"I want to offer you these as thanks for
+your help. I trust you'll accept them."
+31,Npc_oasis003_GetBack_001,"神器を奪われてしまうとは…
+この国始まって以来の失態であろうな…
+ウルボザ様や先代に
+合わせる顔がないわ…
+民も幼き王の非力さを
+実感しているのだろうな…","I can't believe my heirloom was stolen!
+This is probably the most discouraging
+event this town has ever seen...
+I believe that Lady Urbosa and our other
+ancestors must be looking down on us
+with such shame right now.
+I wonder if my people can tell just how
+powerless their young ruler truly is..."
+32,Npc_oasis003_GetBack_002,"それは違います！
+
+神器を奪われたのは
+我々護衛の失態です！
+私が もっとしっかりしていれば…","My lady, do not take this crisis so
+personally!
+
+This failure rests entirely on myself and
+on the soldiers tasked with protecting
+the heirloom.
+If only I'd been more vigilant..."
+33,Npc_oasis003_GetBack_003,苦労をかけるな ビューラ…,"You needn't beat yourself up in my
+stead, Buliara... "
+34,Npc_oasis003_GetBack_101,"わらわは見ての通り まだ童じゃ
+
+民の目は皆温かいが
+それが わらわにとっては辛いこともある…
+1日でも早く真の意味で
+族長として認められねばと気負っておったが
+神器を盗まれた時は 
+正直目の前が真っ暗になった…","I am, as you have no doubt noticed,
+still but a child.
+
+The people look on me with nothing
+but warmth in their eyes, but even this
+brings me some pain, I must admit...
+I've tried so hard to be worthy of their
+love, to be a worthy chief...and to prove
+to myself that I was worthy, too.
+When my family heirloom was stolen,
+I felt as though a shadow had fallen
+over me..."
+35,Npc_oasis003_GetBack_102,"ど…どうだ！
+似合うか？","How...how is it?! 
+Do I look all right?"
+36,Npc_oasis003_GetBack_103,…ど どうだ？,Um. How do I look?
+37,Npc_oasis003_GetBack_104,"ふふっ… なんだろうな…
+戦いの前だというのに 
+お前の一言で
+こうも心が落ち着くとはな…
+わらわは先に行っておる
+街から南東にある監視所で落ち合うとしよう","Heheh, who would have thought that,
+just before such a momentous battle...
+
+hearing a simple, confident pledge of
+support from you would be what puts
+me at ease?
+I'll head out now. Let's meet up at the
+lookout post south of town."
+38,Npc_oasis003_GetBack_105,…そ そうか？,I see...
+39,Npc_oasis003_GetBack_106,"神獣 ヴァ・ナボリスが徘徊している場所だが
+神器を捜索している間に大きく変わった","The threat Divine Beast Vah Naboris
+poses has only grown since we began
+searching for the heirloom."
+40,Npc_oasis003_GetBack_107,"わらわの愛スナザラシ
+パトリシアちゃんと共に待っているぞ","I'll be there waiting for you with my
+favorite sand seal, Patricia."
+41,Npc_oasis003_GetBack_108,"ナボリスにはスナザラシに乗らねば近づけん
+
+監視所は街からそう遠くないが
+腕慣らしもかねてスナザラシで来るといいだろう","There's only one way to get close to
+Naboris, and that's with the help of
+a sand seal.
+The lookout post isn't too far from town,
+but you should take a sand seal there.
+You can get some practice in that way."
+42,Npc_oasis003_GetBack_109,"待っておったぞ…
+
+ふふっ…語らずともよい…
+
+これでも このゲルドの族長だ
+お前からあふれる神器の力ぐらいわかるわ","I've been waiting for you...
+
+
+Oh, you needn't say a word.
+
+
+As the chief of the Gerudo, I can sense
+the power of the heirloom flowing from
+you. I know that you've succeeded!"
+43,Npc_oasis003_GetBack_111,"英傑と言えども
+心の準備は必要というわけか…
+わらわは先に行っておる
+
+覚悟がきまったら
+街から南東にある監視所にくるがいい","Hah... I suppose that even a Champion
+such as yourself must need some time to
+prepare for such a battle.
+I will go on ahead. Once you have
+steeled yourself, meet me at the 
+lookout post south of town."
+44,Npc_oasis003_GetBack_112,"いずれ街にも危険が及ぶやもしれん
+
+わらわは族長として… ゲルドの民として
+何としてでも アレを止めねばならぬ
+共に行ってくれるな？","I believe that Gerudo Town itself may
+be in danger before too long...
+
+As chief, and as a Gerudo, I must find
+some way to stop that thing before it
+threatens my people. Will you help me?"
+45,Npc_oasis003_GetBack_113,"にしても…
+
+やっぱり大きいな…",Still... It really is a little big...
+46,Npc_oasis003_GetBack_114,……,...
+47,Npc_oasis003_GetBack_115,…そ そうか,...You don't say.
+48,Npc_oasis003_GetBack_117,"どうした？
+ぼーっとして？
+それよりも…","What's wrong? You're just staring...
+Anyway, what matters now is..."
+49,Npc_oasis003_GetBack_118,"そんな中 お前が訪ねてきてくれたのは
+ウルボザ様の お導きであろう…
+さぁ…""兜をここへ…","Yes, your arrival in the midst of all of this
+must be the work of Lady Urbosa...
+
+Now, please give me the helm."
+50,Npc_oasis003_Invasion_001,"あそこでお前が撤退してくれねば
+わらわも倒れておったかもしれん…
+しかし わらわはもう大丈夫だ
+
+お前はどうだ？
+バクダン矢と弓の準備はいいな？","If we hadn't withdrawn, that could have
+been the end for me. Don't worry, I'm
+doing fine now.
+How are you holding up? Don't forget to
+make sure your bow isn't damaged and
+that you've got enough bomb arrows."
+51,Npc_oasis003_Invasion_002,"共に力を合わせねば
+アレを鎮めることはできん…
+お前の準備ができるまで
+ここでまっておるぞ","We can't take on the Divine Beast unless
+we work together. I'll be right here until
+you're ready to go."
+52,Npc_oasis003_Invasion_003,"無事に生還することが何よりも大切だ
+納得するまで何度でも話してやるぞ","It is of the utmost importance that we
+make it back unharmed. I can explain the
+plan as many times as you like."
+53,Npc_oasis003_Invasion_004,"まずはスナザラシに乗ってアレに近づく
+先導は わらわが行おう
+お前は隙を見て
+アレの四足をバクダン矢で撃ち抜くのだ
+ナボリスは地の力を得て駆動している
+そこを狙えば必ず動きを止めるはずだ
+だが…
+
+アレから放たれる落雷は凶悪だ
+一撃でも喰らったら致命傷は免れられない…
+この雷鳴の兜があれば落雷を退け
+お前を守ることはできよう
+しかし…兜の力は遠くには及ばない…
+
+わらわから離れすぎると
+お前を落雷から守ることはできん
+それだけは忘れないでくれ
+
+あとは…
+
+傷を負い戦闘が困難になったら
+この監視所まで撤退すると…約束してくれ
+決して無理はするでないぞ
+
+では最後の確認だ…
+
+覚悟はいいか？","First, we'll use the sand seals to get in
+really close to that thing. I'll take the
+lead.
+I'm counting on you to shoot at its feet
+with your bomb arrows.
+
+Naboris draws energy from the
+ground to keep moving. If you damage
+the feet, I think you can stop it.
+Those lightning strikes, though...
+Getting hit even once could prove fatal.
+
+The Thunder Helm can repel the
+lightning strikes, protecting me
+from harm.
+It can also shield a limited area around
+me, so you'll have to stay close if you
+don't want to be shocked.
+And listen... If you're too injured to keep
+fighting, promise me you'll retreat here,
+to the lookout post.
+Don't do anything reckless under any
+circumstances.
+
+This is the last time I will ask...
+Are you ready?"
+54,Npc_oasis003_Invasion_005,では行くぞ！！,Let's move!
+55,Npc_oasis003_Invasion_006,"それ以上離れたら
+ナボリスを見失ってしまうぞ？！","Link! If you get any farther away, you'll
+lose sight of Naboris!"
+56,Npc_oasis003_Invasion_007,一度引き返すか？,Do you want to retreat for now?
+57,Npc_oasis003_Invasion_008,"そうだな一度態勢を立て直そう
+監視所に戻るぞ！","OK, that sounds good! Let's regroup
+back at the lookout post!"
+58,Npc_oasis003_Invasion_009,"狙うのは足だ！
+頼んだぞ！","Aim for the feet!
+You can do this!"
+59,Npc_oasis003_Invasion_028,"再び神獣に挑むぞ！
+覚悟はいいか？","We're going on the attack again!
+Are you ready?"
+60,Npc_oasis003_Ready_001,"まぁ そう凄むな ビューラ…
+
+この者は
+ただの旅人ではないようだからの…
+お前…名を何と申す？","Hold on, Buliara... This one appears to
+be more than a common traveler.
+
+You there—what is your name?"
+61,Npc_oasis003_Ready_002,"ほぅ…
+リンクとな…
+わらわに用があって来たのであろう？
+リンクお前の話を聞こうではないか","Link... And what is it you've come all
+the way here to tell me, Link?"
+62,Npc_oasis003_Ready_004,"…それに
+
+その者が腰に着けている物は
+恐らくは シーカー族の遺産であろう
+彼らが あのような代物を
+そう易々と流れ者に渡すとは思えん","What of the device on this one's hip?
+It appears to be a precious relic of the
+Sheikah.
+I can't imagine they would give
+something so valuable to a simple
+drifter—can you?"
+63,Npc_oasis003_Ready_005,"お前も見たであろう…
+
+巨大な砂嵐をまとい近づく者に雷を落とす
+神獣 ヴァ・ナボリスの姿を…","You saw it on your way to our town.
+
+
+Divine Beast Vah Naboris, cloaked in
+a massive sandstorm, hurling lightning at
+any who dare approach."
+64,Npc_oasis003_Ready_006,"確か…
+退魔の剣…と言ったか
+ハイラルの姫が何処かの森に
+封印したと聞いておるが…","They do indeed... If I recall correctly, it
+was called the sword that seals the
+darkness. 
+The Princess of Hyrule supposedly hid it
+away in a forest somewhere."
+65,Npc_oasis003_Ready_008,なるほど…確かにな,"Ah, yes... An interesting suggestion."
+66,Npc_oasis003_Ready_009,"確か…
+退魔の剣…と言ったか
+ハイラルの姫が
+深い森の中に封印したときいているが…","They do indeed... If I recall correctly, it
+was called the sword that seals the
+darkness. 
+The Princess of Hyrule supposedly hid it
+away in the middle of a deep forest."
+67,Npc_oasis003_Ready_010,"アレがないことには
+ナボリスに近づくこともできぬからな","Without my heirloom, you'll never be
+able to approach Naboris."
+68,Npc_oasis003_Ready_011,"フフッ…
+もしそうであれば大罪じゃな…
+だが…
+お前が英傑であるというなら話は別じゃ…
+ウルボザ様の友を手荒には扱えぬからな
+
+それにだ…
+ナボリスを鎮めたいというのは こちらも同じ","A voe within our walls is a great crime.
+But a voe who is a Champion...
+
+Well, we'd never mistreat a friend of
+Lady Urbosa. And if you're here to help
+us with Naboris, then we are allies."
+69,Npc_oasis003_Ready_012,"いや待てビューラ…
+
+…母様が言っていた
+
+100年前 ハイラルの姫が
+倒れた剣士を眠りにつかせたと…
+確か… その剣士は…
+その者と同じ リンクという名だったはず…
+にわかには信じがたいが…","Hmm... Buliara, a memory just
+jumped into my head—something my
+mother spoke of.
+When the Calamity happened, the
+princess of Hyrule placed a fallen
+swordsman into a deep sleep.
+That swordsman, much like our new
+friend here, was named Link...though it
+always seemed more legend than fact."
+70,Npc_oasis003_Ready_013,"実はなナボリスの雷に唯一抗うことができる
+ゲルド族の神器雷鳴の兜が…
+あろうことか
+賊どもに奪われてしまってな…","You see, there is only one thing in all of
+Hyrule that can withstand the lightning
+from Naboris.
+The Thunder Helm, a family heirloom and
+relic of the Gerudo. But as Buliara says,
+it was stolen from us."
+71,Npc_oasis003_Ready_014,フフッ…,"Heh, you know..."
+72,Npc_oasis003_Ready_015,"確か…
+退魔の剣…と言ったか
+ハイラルの姫が
+迷いの森に封印したときいているが…","They do indeed... If I recall correctly, it
+was called the sword that seals the
+darkness. 
+The Princess of Hyrule supposedly hid it
+away in the Lost Woods."
+73,Npc_oasis003_Ready_016,"それにしても こんな珍客が訪ねてくるとは…
+これもウルボザ様のお導きかのぅ","I take heart in having such a rare visitor
+as yourself. Lady Urbosa must be
+looking out for us."
+74,Npc_oasis003_Ready_017,"…だが
+
+その者が腰に着けている物は
+恐らくは シーカー族の遺産であろう
+彼らが あのような代物を
+そう易々と流れ者に渡すとは思えん","What of the device on this one's hip?
+It appears to be a precious relic of the
+Sheikah.
+I can't imagine they would give
+something so valuable to a simple
+drifter—can you?"
+75,Npc_oasis003_Ready_018,"どうにかしてアレを止めねばならぬが
+
+我々だけでは
+アレを鎮めることは出来ぬ…
+お前が英傑というのであれば
+中に入りナボリスを鎮めてきてはくれぬか","We have to do something to stop it, but
+we have yet to find any way to appease
+the Divine Beast on our own.
+If you truly are a Champion, perhaps you
+will be able to enter Naboris and
+calm its anger."
+76,Npc_oasis003_Strategy_001,"見えるか…？
+神獣 ヴァ・ナボリスは目前だ
+しかし アレに近づくためには
+スナザラシを使わねばならぬが…
+覚悟はいいか？","What a sight. Divine Beast Vah Naboris
+is pretty intimidating...
+
+If we want to get close enough to that
+thing, we'll need to use sand seals...
+Are you ready?"
+77,Npc_oasis003_Strategy_002,"わらわの力だけでは
+アレを鎮めることはできん…
+お前の力が必要なのだ
+覚悟ができるまで ここでまっておるぞ","I can't do this all on my own, so I'll wait
+until you're sure you're ready."
+78,Npc_oasis003_Strategy_003,ふふっ… そうでないとな,"Feeling confident? Good. Let's get
+going, then!"
+79,Npc_oasis003_Strategy_004,"まずはスナザラシに乗ってアレに近づく
+先導は わらわが行おう
+お前は隙を見て
+アレの四足をバクダン矢で撃ち抜くのだ
+ナボリスは地の力を得て駆動している
+そこを狙えば必ず動きを止めるはずだ
+だが…
+
+アレから放たれる落雷は凶悪だ
+一撃でも喰らったら致命傷は免れられない…","First, we'll use the sand seals to get in
+really close to that thing. I'll take the
+lead.
+I'm counting on you to shoot at its feet
+with bomb arrows.
+
+Naboris draws energy from the
+ground to keep moving. If you damage
+the feet, I think you can stop it.
+Those lightning strikes, though...
+Getting hit even once could prove fatal."
+80,Npc_oasis003_Strategy_006,"この雷鳴の兜があれば落雷を退け
+お前を守ることはできよう
+しかし…兜の力は遠くには及ばない…
+
+わらわから離れすぎると
+お前を落雷から守ることはできん
+それだけは忘れないでくれ
+
+あとは…
+
+傷を負い戦闘が困難になったら
+この監視所まで撤退すると約束してくれ
+決して無理はするでないぞ","The Thunder Helm can repel the
+lightning strikes, protecting me
+from harm.
+But it can also shield a limited area
+around me...
+
+You'll have to stay close if you don't
+want to be shocked.
+
+And listen... If you're too injured to keep
+fighting, promise me you'll retreat here,
+to the lookout post.
+Don't do anything reckless under any
+circumstances."
+81,Npc_oasis003_Strategy_007,"無事に生還することが何よりも大切だ
+納得するまで何度でも話してやるぞ","It is of the utmost importance that we
+make it back unharmed. I can explain the
+plan as many times as you like."
+82,Npc_oasis003_Strategy_008,"わらわの力だけでは
+アレを鎮めることはできん…
+お前の力が必要なのだ
+覚悟ができるまで ここでまっておるぞ","I can't take on this Divine Beast on my
+own, so I'll wait until you're sure
+you're ready."
+83,Npc_oasis003_Strategy_010,…さて少し離れてくれるか？,"Could you give me a bit of room, just
+for a moment?"
+84,Npc_oasis003_Strategy_011,"我が名は ルージュ！
+正統なる ゲルド王家の末裔なり
+神獣 ヴァ・ナボリスを鎮めんがため
+今こそ神器の力にすがる時が来た","My name is Riju, descendant of the royal
+line and leader of the Gerudo people!
+
+With the power of the heirloom passed
+down in my family, I shall calm the
+Divine Beast Vah Naboris."
+85,Npc_oasis003_Strategy_012,"おお… これが神器の力か…
+力が…力がみなぎってくる","Oh, wow! I can feel their power coursing
+through me!"
+86,Npc_oasis003_Strategy_015,では行くぞ！！,Let's move!
+87,Npc_oasis003_Strategy_016,"ウルボザ様…
+どうか リンクと わらわをお護りください…","Lady Urbosa... Please grant Link and me
+your protection..."
+88,Npc_oasis003_Strategy_020,"ゲルドの始祖達よ！
+雷をもって我が声に応えたまえ…！！","Ancestors of the Gerudo!
+Answer my call! Aid me in this task!"
+89,Npc_oasis003_Strategy_022,"ほぅ…
+それがお前の真の姿か…
+ふふっ…
+街の中では見れぬ姿だな…","Well then... That's what you really look
+like, huh...
+
+Hehe... With voe banned from town, it's
+not very common for me to see someone
+like you."
+90,Npc_oasis003_Strategy_023,"では最後の確認だ…
+
+覚悟はいいか？","This is the last time I'll ask...
+Are you ready?"
+91,Npc_oasis003_Strategy_024,"これは わらわのバクダン矢だ
+少ないが使うがよい","Here are some Gerudo bomb arrows.
+There aren't many, so be sure to put
+them to good use."
+92,Npc_oasis003_Strategy_025,"…まて
+
+バクダン矢が少ないようだが…
+本当にそれで向かう気か？
+わらわも もう持っていないぞ…
+
+バクダン矢は街で買える代物だ
+装備をもう少し整えたほうが良いと思うがな…","Hang on a second...
+
+
+You don't have a lot of bomb arrows.
+Are you really planning on going out
+like that?
+I haven't got any on me to give to you...
+
+
+You can buy bomb arrows in town. I
+think it'd be a good idea to stock up a
+bit before this fight..."
+93,Npc_oasis003_Strategy_026,"…まて
+
+バクダン矢が少ないようだが…
+本当にそれで向かう気か？
+予備のバクダン矢であったが…
+これを使うがよい","Hang on a second...
+
+
+You don't have a lot of bomb arrows.
+Are you really planning on going out
+like that?
+I was hanging on to these as an
+emergency supply. Looks like we
+needed them!"
+94,Npc_oasis003_Strategy_027,"…まて
+
+バクダン矢が少ないようだが…
+本当にそれで向かう気か？
+わらわのバクダン矢も これで最後だが…
+そなたに託そう","...Wait.
+
+
+You don't have a lot of bomb arrows.
+Are you really planning on going out
+like that?
+These were basically my emergency,
+emergency supply. I entrust them to you,
+but that really is all I've got!"
+95,Npc_oasis004_GetBack_001,"アナタ…
+こんな所でなにしてるの？
+ここは雷鳴の兜を奪った賊のアジトよ！
+
+奴らに見つかったら仲間を呼ばれて
+いっかんの終わりよ
+せめて奴らの気を引く何かがあれば
+いいんだけど…
+アイツら警備してるかバナナ食べてるか位で
+他に ぜんぜん隙をみせないのよね…
+ともかくここは危険な場所よ
+私は自分で何とかするから
+アナタは早く逃げて！","Hey, what are you doing here? This is
+the hideout of those Yiga thieves who
+stole the Thunder Helm...
+If they spot you, they'll call their friends
+for sure. There's no way you can take
+them all on.
+If only you had some way of distracting
+them...but I don't know how.
+
+All I ever see them do is patrol and eat
+bananas. I haven't seen anything else
+that you could exploit as a weakness.
+Listen, this place is dangerous.
+You should get out of here while you
+can. I can take care of myself."
+96,Npc_oasis004_GetBack_004,"アナタ…
+まだ逃げてないの？
+奴らに見つかったら仲間を呼ばれて
+いっかんの終わりよ
+アイツら警備してるかバナナ食べてるか位で
+ぜんぜん隙をみせないし…
+私は自分で何とかするから
+アナタは早く逃げて！","Why haven't you escaped yet?
+
+
+If anyone spots you, they'll call their
+friends for sure. There's no way you can
+take them all on.
+All I ever see them do is patrol and eat
+bananas. I haven't seen anything else
+that you could exploit as a weakness.
+Like I said, this place is dangerous.
+You should get out of here while you
+can. I can take care of myself."
+97,Npc_oasis004_GetBack_Near_001,何とかして逃げないと,Gotta escape somehow...
+98,Npc_oasis007_Defeat_001,"族長様に もしものことがあったらと
+居てもたっても いられなかったが…
+いらぬ心配だったようだな
+
+いつの間にか族長様は
+本当の族長様に なられていたんだな…","I was so worried that something horrible
+would happen to the chief, I could barely
+contain myself.
+But it seems like I had nothing to worry
+about.
+
+Actually...and maybe I'm seeing things...
+but it really looks like the chief has
+grown into a true leader."
+99,Npc_oasis007_Finish_001,"本当によくやってくれたな…
+
+我々に力になれる事があれば
+なんでも言ってくれ","You did it. You really did it.
+Please... Let me know if there is anything
+at all I can do to help you from now on."
+100,Npc_oasis007_GetBack_001,"どうした？
+
+英傑というのであれば
+神器の奪還など簡単なことだろう","What's wrong? If you truly are the
+Champion of legend, recovering the
+chief's heirloom should be simple."
+101,Npc_oasis007_GetBack_002,"賊どものことなら
+まずは隊長のチークに話を聞くがいい
+その階段を下りた先にいるはずだ","If you want to know more about the
+thieves, then you should speak to
+Captain Teake.
+Just head down those stairs."
+102,Npc_oasis007_GetBack_003,"お前の腕前
+見せてもらおうじゃないか","Use this chance to show us what you're
+capable of!"
+103,Npc_oasis007_GetBack_101,"ルージュ様なら2階だ
+
+それにしても貴様なんかを
+寝屋に通すとは…
+ルージュ様は一体何を考えてらっしゃるのか…
+
+いいか！
+
+ルージュ様に何かしたら
+貴様 タダでは済まさんぞ！","If you are looking for Lady Riju, she's
+on the second floor.
+
+Normally people aren't allowed into
+her sleeping quarters, but she has given
+you permission it seems...
+Be on your best manners. If she deems
+you to be a disturbance to her, it will not
+end well for you!"
+104,Npc_oasis007_Strategy_001,"ルージュ様は最初から
+お前のことをわかってらっしゃったのだな…
+人を見る目はあると思っていたんだが
+
+私もまだまだだな…
+
+さぁ宮殿の守りは私に任せ
+お前は監視所に急ぐがいい
+ルージュ様を頼んだぞ…","Lady Riju could tell who you were—what
+you were capable of—all along.
+
+I thought I was a good judge of
+character, but clearly I still have a ways
+to go.
+Leave the town's defenses to me.
+Lady Riju needs you at the lookout post."
+105,Npc_oasis007_Strategy_003,"本当に兜を取り戻してくるとはな…
+
+数々の無礼許してくれ…
+
+国を… ルージュ様をお守りするため
+槍の腕を磨いてきたが
+神獣との戦いに私は無力…
+今はお前に頼るしかないようだ
+さあ急ぎ監視所へ向かうのだ！
+
+ルージュ様を頼んだぞ","Truth be told, I didn't think you'd make it
+back with the helm. I can only offer my
+apologies for doubting you.
+I've dedicated my life to protecting Lady
+Riju and the Gerudo people, but against
+this Divine Beast...I'm powerless.
+It's up to you and Lady Riju. She's
+waiting for you at the lookout post.
+Please take care of her. "
+106,Npc_oasis024_Ready_001,"ヴォーイだっ！ ヴォーイがいるぞ！
+捕えろ！！","Sound the alarm! A voe has been
+detected! Capture him at once!"
+107,Npc_oasis024_Ready_005,"街に ヴォーイを入れるわけにはいかない
+それがゲルドの掟なのだ
+わかったか？！
+もうここには来るんじゃないぞ！","Voe are forbidden from entering this
+town. This is Gerudo law. Do you
+understand?
+Never come back!"
+108,Npc_oasis024_Ready_006,"また貴様か…
+
+街に ヴォーイを入れるわけにはいかないと
+言っているだろう！
+わかったな？！
+もうここには二度と来るんじゃないぞ！","You again... How many times must I tell
+you—voe are not allowed within the
+town walls!
+You understand that you're a voe, right?
+Do NOT return!"
+109,Npc_oasis024_Ready_007,"貴様という奴は…
+懲りずに何度も何度も…
+街にヴォーイを入れるわけにはいかない
+それがゲルドの掟だと言ってるだろう！
+もうここには
+一生来るんじゃないぞ！！","Why, you pesky little... When will you
+learn? No voe are allowed within the
+town! It's a rule of the Gerudo!
+Do not come back here! Not ever!"
+110,Npc_oasis042_GetBack_001,"隊長から お前に協力するように言われたが
+今わかっていることは これだけなんだ","Our captain has instructed me to
+cooperate with you on this, but our info
+isn't entirely complete..."
+111,Npc_oasis042_GetBack_004,"賊どもはイーガ団と名乗る手練れ共でな
+変装に長け高度な隠密技術を持っているんだ
+今回の件も闇夜に乗じて この宮殿に忍び入り
+神器を奪うと煙のように消えたという
+その昔王家を追われ悪に寝返った
+シーカー族の末裔らしいんだが
+それにしてもなぜ雷鳴の兜を…","These thieves are highly skilled in both
+stealth and disguise. They refer to
+themselves as the Yiga.
+They slipped into town in the dark of
+night, stole the chief's heirloom, and
+vanished like smoke in the wind.
+We believe them to be descendants of
+the Sheikah tribe that splintered and
+turned to villainy.
+But why would they want to steal the
+Thunder Helm?"
+112,Npc_oasis042_GetBack_005,"カルサー谷に
+賊どものアジトがある事は わかっているんだが
+谷の道は険しくてな…
+
+スナザラシに乗って
+何度も侵入を試みてはいるんだが
+まだ踏み込めてはいない状況なんだ
+
+砂漠で他の部族に後れを取るなど
+恥ずかしい限りだ…","We know that the thieves' hideout is in
+Karusa Valley. The path through the
+valley is very difficult...
+Despite repeated attempts to infiltrate
+the hideout, we haven't yet managed to
+set foot inside.
+Painful though it is to admit, it seems
+possible that some other group of
+desert dwellers has bested us."
+113,Npc_oasis042_GetBack_006,"昼夜問わずに調査はしているのだが…
+今わかっていることは これだけなんだ","We're continuing our investigation
+through the heat of day and the cold of
+night. So far, we know..."
+114,Npc_oasis042_GetBack_007,"アジトの場所がわからなくなったら
+北西門の門番に聞いてみるんだな
+北西門はこの兵舎をでて左手だ
+
+本当は案内してやりたいところだが
+こちらもトラブルばかりでな…
+まったく…
+何から手を付けていいのやら…","Ask the guard at the northwest gate to
+point you toward the hideout.
+
+The northwest gate is on the left as you
+exit these barracks.
+
+I'd walk you over there if I could, but
+there is always trouble to deal with
+here...
+Sometimes, I don't even know which
+crisis to deal with first..."
+115,Npc_oasis042_GetBack_008,"賊どもはイーガ団と名乗る手練れ共でな
+変装に長け高度な隠密技術を持っているんだ
+今回の件も闇夜に乗じて この宮殿に忍び入り
+神器を奪うと煙のように消えたという
+その昔王家を追われ悪に寝返った
+シーカー族の末裔らしいんだが
+それにしてもなぜ雷鳴の兜を…","These thieves are highly skilled in both
+stealth and disguise. They refer to
+themselves as the Yiga.
+They slipped into town in the dark of
+night, stole the chief's heirloom, and
+vanished like smoke in the wind.
+We believe them to be descendants of
+the Sheikah tribe that splintered and
+turned to villainy.
+But why would they want to steal the
+Thunder Helm?"
+116,Npc_oasis042_GetBack_009,"カルサー谷に
+賊どものアジトがある事は わかっているんだが
+谷の道は険しくてな…
+
+スナザラシに乗って
+何度も侵入を試みてはいるんだが
+まだ踏み込めてはいない状況なんだ
+
+砂漠で他の部族に後れを取るなど
+まったく恥ずかしい限りだ…","We know that the thieves' hideout is in
+Karusa Valley. The path through the
+valley is very difficult...
+Despite repeated attempts to infiltrate
+the hideout, we haven't yet managed to
+set foot inside.
+Painful though it is to admit, it seems
+possible that some other group of
+desert dwellers has bested us."
+117,Npc_oasis042_GetBack_201,"おい バレッタの姿が見えないが
+アイツはどうした？","Hey, I haven't seen Barta. Where's she
+gone off to?"
+118,Npc_oasis042_GetBack_202,"バレッタちゃんなら賊のアジトを覗いてくる！
+…って はりきって出かけて行きました！
+でも… どうしたんでしょう？
+もう2日も帰ってきませんね…","She said she was going to scout the
+thieves' hideout, but then she left
+before we could say anything.
+Now that I think about it, she's been
+gone for two days. I wonder what
+happened to her..."
+119,Npc_oasis042_GetBack_203,"バ… バ… バカモノッ…！！
+
+なぜ単独で行かせたのだ…！
+しかも なぜ2日間も報告せんのだっ！！","You— Are you serious?!
+
+
+Why did you let her go by herself?!
+And why did you wait two days to
+report this?!"
+120,Npc_oasis042_GetBack_204,"も…申し訳ありません…
+ちょっと見に行くだけって言ってたので…
+まぁ大丈夫かなぁ～と…","I'm— I apologize... She said she just
+wanted to check it out and would be
+careful, so I thought..."
+121,Npc_oasis042_GetBack_205,"ぐぬぬ…神器の捜索だけでなく
+バレッタの捜索まで しなければならんとは…！
+こんな失態が隊長の耳に入ったら
+ゲルド砂漠100周の刑は免れられんぞ…！","Uuugghhh. As if we aren't busy enough
+searching for the chief's heirloom, now
+we have to find Barta too...
+If the captain hears about this fiasco,
+she'll punish us for sure! Probably 100
+laps around Gerudo Desert...again."
+122,Npc_oasis042_GetBack_206,あの…我々はどうしたら…？,"Oh... Oh, no. What should we do?"
+123,Npc_oasis042_GetBack_207,今考えているところだっ！！,I'm thinking about it!
+124,talk00,"ゲルド族の長ルージュ様の御前であるぞ！
+用があるなら そこから申すがよい！","You stand before Lady Riju, chief
+of the Gerudo! Declare your business,
+but come no closer!"
+125,talk01,"ナボリスに乗り込みたいだと？
+
+アレを制御できるのは
+ウルボザ様と同じく英傑と呼ばれる者だけ
+しかも皆 100年前の大厄災で
+命を落とされている
+何をバカなことを…","You think you have what it takes to
+subdue something so powerful as a
+Divine Beast?
+The only ones who could ever control
+them were Champions like Lady Urbosa.
+
+And all of the Champions died in the
+Calamity 100 years ago."
+126,talk02,まさか貴様！ヴォーイ…,Wait a moment... You're a voe!
+127,talk04,"しかし…
+まだその者の正体もはっきりせぬまま
+そのような重大なことを任せるというのは
+如何なものかと…","Lady Riju! I don't see how you can trust
+a complete stranger with something as
+important as this task."
+128,talk05,"神器を盗んだ賊に関しては
+兵士達が詳しく知っている","Our soldiers can tell you all you need to
+know about the thieves who stole Lady
+Riju's heirloom."
+129,talk06,"し… しかし
+
+ハイリアの英傑は伝説の剣を携えていた
+と聞いています
+この者は それらしき物を
+持っていないようですが…","But, Lady Riju! Do those same stories
+not also say that the Hylian Champion
+carried a legendary sword?
+I see no such weapon in this person's
+care."
+130,talk07,"まずは その先の兵舎にいる
+隊長のチークから話を聞くのがいいだろう","Head through this arch. It will lead you
+to the barracks. Then, seek out Captain
+Teake, and ask for a full report."
+131,talk08,"ただそうなれば…英傑の中に
+ハイリア人のヴァーイはいなかったはず…","...I don't remember ever hearing of
+a Hylian vai among the Champions."
+132,talk13,"ご心配なさらずとも
+本当に英傑だというのであれば
+簡単に取り戻してくれましょう","You needn't worry, Lady Riju. If he truly
+is a Champion, this should be an easy
+task for him."
+133,talk15,"…まずは どうでしょう？
+兜の奪還をその者に頼むというのは…","Perhaps if this person were first to prove
+his worth by recovering your stolen
+Thunder Helm..."

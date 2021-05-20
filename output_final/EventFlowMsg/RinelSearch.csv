@@ -1,0 +1,265 @@
+#,Title,JPja,USen
+1,"""0000""",了解！,Understood!
+2,"""0001""",えっ？,Huh?
+3,"""0002""",理解した,I've got it.
+4,"""0003""",まだよく分からない,I still don't get it.
+5,"""0006""",大丈夫,I'll be fine.
+6,"""0012""",はい,Yes.
+7,"""0013""",いいえ,No.
+8,"""0014""",どうしてそれを？,Why do you ask?
+9,"""0015""",教えて,Tell me.
+10,"""0016""",これどうぞ,I have your picture.
+11,"""0017""",まだでした,I still haven't.
+12,near01,うーむ…,Hmm...
+13,talk00,…こんにちは,Hello.
+14,talk01,…こんばんは,Good evening.
+15,talk02,…はい,Oh!
+16,talk03,あなたは…リンクさんですね,You are Link...right?
+17,talk04,"シド王子が…
+ハイリア人のリンクと神獣を止めに行くぞ！
+…と叫んでいましたからね
+
+という事は あなたは雷獣山に電気の矢を
+取りに行かれる という事ですね？","Prince Sidon ran off through the
+eastern gate. He was shouting
+something like...\""I'm off to stop the Divine Beast!
+Link the Hylian is coming with me!\""
+
+I assume that means you're going
+up Ploymus Mountain in search of
+shock arrows?"
+18,talk05,"そうですか
+私の思い違いだったようです…",Oh. My mistake.
+19,talk06,だったら ついでのお願いがあるのです,"If so, I have a request that is...
+somewhat related."
+20,talk07,"あの山が雷獣山です
+
+ライネルという赤いたてがみを持つ
+魔物が棲みついているそうです
+あの山にいるライネルでも
+他の場所にいるものでも良いので
+とにかくライネルの姿を
+私に見せてもらえませんか？","There's a red-maned monster called a
+Lynel that lives on Ploymus Mountain.
+
+I REALLY need a picture of a Lynel.
+It can be a picture of any red-maned
+Lynel. Not just the one on the mountain.
+So what do you say? Can you get me 
+a picture of a Lynel?"
+21,talk08,リンクさん…雷獣山に行くんですよね？,"Link... You are on your way to climb
+Ploymus Mountain, correct?"
+22,talk09,"話が早くて助かります
+",I am glad that was settled so quickly.
+23,talk11,"あの雷獣山には赤いたてがみを持つ
+半人半馬の魔物""ライネルが棲んでいます
+過去に何人もの村の若者が
+ライネルの犠牲に なっています
+どうか お気をつけて…","You have probably already heard, but up
+on Ploymus Mountain there lives a Lynel.
+This creature is half man, half beast.
+In the past, a number of Zora from
+the domain have fallen prey to this
+red-maned Lynel...
+It is not to be underestimated.
+Please be careful."
+24,talk12,すいません今移動中ですので…,"Sorry, but I'm on my way somewhere...
+at least I hope I am."
+25,talk13,"すいません唐突すぎましたね
+もう少し咀嚼してお話ししましょう","I'm sorry. I know that was a bit sudden.
+Allow me to elaborate."
+26,talk14,"あそこに見える山は雷獣山といいます
+
+雷獣山にはライネルという
+赤いたてがみを持つ強い魔物が棲んでいます
+私はライネルの姿が見たいのです
+
+姿を見ることが大事なので なんなら
+他の場所にいるライネルでも構いません
+…これで理解しましたか？","That peak over there is known as
+Ploymus Mountain.
+
+On top of Ploymus Mountain is a brutal,
+red-maned monster called a Lynel.
+
+It's so very important that I see one.
+Any Lynel with a red mane will do.
+It doesn't have to be that specific one.
+Does that make more sense?"
+27,talk15,"良かった…
+ちょっとどうしようかと思いました","That's good to hear. I was a little worried
+about what to do."
+28,talk16,"これでも理解できませんか…
+では子供でも分かるように説明しますね","Really? You...still don't get it?!
+OK...I will try explaining it like
+I would to a child."
+29,talk17,"あの雷獣山は見えまちゅか？
+尖ってまちゅね～？
+あそこにはライネルという赤い毛が生えた
+魔物が棲んでまちゅ！こわいでちゅね～！
+私はどうしても
+ライネルの姿が見たいんでちゅ♪
+なんなら他の場所にいるのでもいいでちゅよ
+ライネルの姿を見れるのが大事でちゅ！
+でも本物は連れて来ないでね♪
+怖いらしいでちゅからね～♪
+なので本物じゃなくていいから
+ライネルの姿を見れないでちゅかね～？
+…理解しましたか？","Does baby see dat really big rock over
+dere? Dat's called Ploymus Mountain!
+Yes it is!
+A big, scawy monster with red hair lives
+there. It's called a Lynel, and I really,
+REALLY want to see what one looks like!
+But they're NOT VERY NICE, so I don't
+want you to bring him down here
+because he might be mean to us!
+Maybe you could draw me a pretty
+picture of what a Lynel looks like
+instead? Any red-maned Lynel at all?
+*ahem* There... Do you understand now?"
+30,talk19,"というのも雷獣山の先端に
+試しの岬と呼ばれる突き出た崖があるのですが
+そこから東の貯水湖に飛び込む遊びを推奨する
+不埒な輩がこのゾーラの里に居りまして…
+そんなわけで雷獣山に居る魔物…
+ライネルの姿を口伝すれば
+試しの岬には近づかなくなるだろうと
+思ったのです
+それではリンクさん","See, there's this fool in the domain who
+goads people into jumping off of
+Shatterback Point on Ploymus Mountain.
+It's an incredibly dangerous jump, and
+this guy pressures people into jumping
+off by questioning their courage.
+He's a real bottom-feeder. If this keeps
+up, someone is surely going to wind up
+horribly injured!
+I need a picture of a Lynel to show
+everyone how scary they are. That way,
+maybe people will stop going up there.
+Does that answer your question, Link?"
+31,talk20,"手段はお任せします
+ライネルの姿…お願いしますよ","I'll leave the details to you. Just bring me
+a picture of a Lynel so I can describe
+them in terrible detail. Thank you!"
+32,talk21,"ひょっとして私
+雷獣山への行き方を言ってなかったかも…","I may have failed to mention how to get
+up on Ploymus Mountain..."
+33,talk22,"ではライネルの姿を…
+頼みましたよ","So you'll show me what a Lynel looks
+like? Thank you in advance!"
+34,talk23,"雷獣山へは滝登りが便利です
+
+ゾーラの鎧を着れば ハイリア人でも
+滝の下から上まで あっという間ですよ","The waterfall will come in handy when
+trying to climb Ploymus Mountain.
+
+Just put on some Zora armor. With that,
+even a Hylian can swim up the waterfall
+like it's nothing."
+35,talk24,"…
+
+あっ でもゾーラの鎧は""王家の娘が
+将来の婿に差し上げる特別なモノ…
+どなたかに お借りできないでしょうか","...
+
+
+Oh, but what am I saying? Zora armor
+is a sacred gift given by a Zora princess
+to her future husband.
+Pretty tough to come across otherwise."
+36,talk25,"というか そんなに都合よく
+ゾーラの鎧…持って無いですよね…
+あれを着れば
+滝なんか あっという間に登れるんですが…","Don't tell me you just happen to have 
+access to sacred Zora armor?!
+
+No...that would be impossible.
+
+
+Too bad! If you had that armor, you'd be
+able to swim straight up waterfalls!"
+37,talk26,"リンクさん…
+ライネルの姿は…","Link! How is that Lynel mission
+coming along?"
+38,talk27,おおっ…！それでは早速…,"Oh, wow! Please show me!"
+39,talk29,…おはようございます,Good morning.
+40,talk30,"ありがとうございます…
+この恐怖を里の若者に伝えていこうと思います","Thank you! I'll tell the children of the
+domain about this. Maybe that will
+scare them away from the mountain."
+41,talk31,"このゾーラのすねあては大昔のゾーラ王が
+当時の職人に作らせたのが広まったものです
+東の貯水湖は ハイリア人とゾーラ族が協力して
+建造した施設なのは ご存じでしょうか…
+その東の貯水湖の完成後友好の証として
+里を訪れるハイリア人用にと作り始めたのです
+しかし ここを訪れるハイリア人は年々減少し
+ついに父の防具屋は閉店してしまいました
+その防具屋が閉店する時に倉庫で眠っていた
+最後の一つが今お渡しした物なのです
+これを履けば ハイリア人でも
+私達ゾーラ族の様に スイスイ泳げるそうです
+私が持っていても宝の持ち腐れですし
+ハイリア人のあなたが使ってこそ役立つはず
+どうか大事に使ってくださいね","These Zora greaves were once made by
+skilled craftsmen by order of an ancient
+Zora king. Now they're fairly common.
+As you may know, East Reservoir Lake
+was created in a collaboration between
+Hylians and the Zora.
+After East Reservoir Lake was finished,
+we made Zora greaves as a token of
+friendship for Hylians who came to visit.
+But over time, the number of Hylians
+visiting the domain dwindled, and my
+father had to close his armor shop.
+These Zora greaves here were the last
+pair left in the stock room when he
+closed up shop.
+Wearing these, even a Hylian can swim
+as well as a Zora.
+
+That said, these would be wasted on me.
+They are only useful for a Hylian like you.
+
+Please take good care of them!"
+42,talk32,"…と思ったのですが
+リンクさん ポーチが一杯のようですね
+防具ポーチに空きを作ってから
+もう一度来て下さい","Well, that's what I was thinking...
+But it looks like your pouch is
+too full, Link.
+Come back once you free up some space
+in there!"
+43,talk33,"リンクさんライネルの姿
+ありがとうございました","Link! Thank you so much for helping me
+out with that Lynel mission!"
+44,talk34,そうだお礼を…,"Oh, right! Now for your reward..."
+45,talk35,"リンクさん…
+神獣のことで大変な時ですが
+あなたにしか頼めない お願いがあるのです","Link... I am sorry to ask this of you
+when you are busy dealing with the
+Divine Beast...
+But I am afraid this is a task that only
+you can accomplish!"
+46,talk36,"リンクさん…
+神獣は鎮まりましたが この里にはまだ危険が…","Link... The Divine Beast has been
+appeased, but I fear there is still
+something that threatens the domain..."
+47,talk37,"ん…
+やはり リンクさんに頼むのは筋違いですね
+失礼致しました
+私のことは気にしないで下さい","Hmm... I suppose it was wrong of me
+to ask this of you.
+
+My apologies. Please don't concern
+yourself with my troubles."
+48,talk39,"そういえば リンクさん…
+どこでそのゾーラの鎧を手に入れたのですか？
+まさか ミファー様の…","By the way, Link... How did you get
+your hands on that Zora armor?
+
+I thought Lady Mipha was saving that
+for the man she... OH."

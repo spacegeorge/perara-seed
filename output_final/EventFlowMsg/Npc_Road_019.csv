@@ -1,0 +1,292 @@
+#,Title,JPja,USen
+1,"""0000""",みてみる,I'll take a look.
+2,"""0001""",売りたい,I want to sell.
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,I'll buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"おい…魔物はまだいるみたいだな
+崖の上を進んだ方が安全かな？","Listen up. I think we've still got a bit of a
+monster problem. Maybe it'd be safer if
+we traveled up higher, along the cliff?"
+11,Atacked01,"山登りで鍛えた俺だけど
+魔物とやりあうのは話が別だ","Mountain climbing really toughened me
+up, back when I was a lad. But fighting
+monsters? That's a whole nother story."
+12,Com_Talk_00,とりあえず見せてみなよ,Well? Show me what you got.
+13,Com_Talk_01,"なら
+ルピーで買うけど いいか？","Yeah, I'll buy that. I'll give you... How's
+about  rupees? Is that OK?"
+14,Com_Talk_02,"ありがとう
+他に売りたいものは？","Much obliged, kiddo. Anything else
+you're fixin' to sell?"
+15,Com_Talk_02b,"ありがとう
+売りたいものは他にもあるのか？","Sounds good. You have anything else
+you're up for selling?"
+16,Com_Talk_02c,"オッケー ありがとう
+他にも売りたいもの あるんじゃないか？","Sure thing. You got anything else
+you're looking to sell?"
+17,Com_Talk_02d,"ありがとな助かるよ
+他に売りたいものがあれば言ってくれよ","Thanks. You've really helped me out
+here. Just let me know if you've got
+anything else to sell."
+18,Com_Talk_04,そうか わかった,"Right, I gotcha."
+19,Com_Talk_05,何でも買い取るぞ,"Yeah, I'll buy whatever you've got."
+20,Com_Talk_05b,いろいろ持ってるんだろ？買い取るぜ,"Whatever you've got, I'll buy it. I ain't
+too discriminatin' when it comes to
+stocking up."
+21,Com_Talk_05c,持っててもしかたないもの買い取るぜ,"I'll buy anything you've got, whatever it
+is. If you don't want it, I'm sure I can
+find someone who does."
+22,Com_Talk_05d,じゃんじゃん買い取るぜ,"As long as you're sellin', I'm buyin'."
+23,Com_Talk_06,どれを買うんだ？,What are you fixin' to buy?
+24,Com_Talk_07,すまんが それは品切れだ,"Sorry, but I sold you my last one."
+25,Com_Talk_08,言いにくいが…ルピーが足りないみたいだ,"I hate to tell you this, kiddo, but...it looks
+like you don't have enough rupees."
+26,Com_Talk_09,"ポーチがいっぱいになってる
+売るなり捨てるなりして空きをつくりなよ","Your inventory's full. Hard to give you
+anything if you don't make a little space."
+27,Com_Talk_10,を買うんだな？,"You want to buy that
+?"
+28,Com_Talk_11,ほんと ありがとな,Thanks a heap.
+29,Com_Talk_11b,ありがとな,Thank you kindly.
+30,Com_Talk_11c,兄ちゃんは いい客だよ,"You're a good customer, kiddo."
+31,Com_Talk_11d,俺も助かるよ,You're really helping me out.
+32,Com_Talk_12,"俺の選りすぐりだ
+精がつく食材は きっと旅の助けになるぞ","This is my finest stuff. Ingredients
+guaranteed to give you a boost of vigor
+when you're out on the road."
+33,Com_Talk_13," だな？
+いくつ売ってくれるんだ？",And how many are you selling?
+34,Com_Talk_14,"を個で…
+ルピーになるけど いいか？","It's gonna be  rupees, all right?"
+35,Com_Talk_15,"それはごめん
+俺は買い取れない","I'm sorry. I'll buy just about anything,
+but I can't buy that from you."
+36,Com_Talk_16,"着てる服は脱いでから売ること
+これ覚えておくといいぜ","Take your clothes off before you sell
+them. That's a good rule to learn. It'll
+serve you well in life."
+37,Com_Talk_20,"あいにくの天気で気分が沈まないように
+取っておきの品を売ってやるぜ","Don't let the weather get you down.
+Tell you what, I'll sell you some of my
+special reserve stock to cheer you up!"
+38,Com_Talk_30,"が個だから
+全部でルピーだけど…いいか？","All told, that comes to  rupees... 
+How's that do you?"
+39,Com_Talk_31,"を買ってくれるのか？
+いくつ必要だ？",Great. How many you need?
+40,Com_Talk_33,"をひとつだけ？
+それならルピーだ",Just one? That'll be  rupees.
+41,Com_Talk_34,"を あるだけ全部だな？
+個でルピーだけど いいか？","You want 'em all? Sure thing.
+There are , which comes to
+ rupees. Sound good?"
+42,Com_Talk_35,"を個全部だな？
+合計ルピーで買い取るけど いいか？","Sure, I'll be happy to buy them all. I'll
+give you  rupees. Sound good?"
+43,Com_Talk_36,"これで最後だ
+いっぱい買ってくれて ありがとよ！","And that's the last of 'em. Thanks for
+buying, uh, everything?"
+44,Com_Talk_37,"おかげ様で今日は売るものがないんだ
+仕入れる予定の品物でよければ見ていくか？","I'm all out of, uh, everything. If you
+want, I can show you what I'll be
+reordering."
+45,Com_Talk_56,"をひとつだな？
+ルピーだけど いいか？","Just the one? That'll be  rupees.
+Does that work for you?"
+46,Failed00,"魔物は去ったのか？
+今のうちにこの場を離れるぞ！","Is it gone? Did the monster leave? 
+Quick, let's get out of here, while
+we've got the chance!"
+47,Failed01,"悔しいな…
+俺があと20歳若かったらなぁ…","Dang it... If I were just twenty years
+younger, I'da showed them what's what!"
+48,GoodBye00,それじゃあな！,Take care out there.
+49,Guardian00,"おい！すぐに逃げるぞ！
+ガーディアンに かなうわけがない！","That's it! I'm out of here! There's no way
+I'm going toe-to-toe with a Guardian!"
+50,MSG_Futa_00,"カカリコ村には行ったことあるか？
+うまい食べ物や新品の服が待ってるぜ
+もちろん ルピーは必要だけどな","Have you ever been to Kakariko Village?
+They've got great food and great clothes,
+but it ain't cheap!"
+51,MSG_Futa_00_1,"カカリコ村には そこでしか買えない
+食べ物や服もあるんだよ","Kakariko Village is a great place if you
+like good food and fashion. There are
+some rare finds there, if you've got cash."
+52,MSG_Futa_01,"おう！若いの！
+崖登りに挑んだことはあるか？
+この辺りの険しい崖を見ると
+登山家の血が騒ぎ出してな…","I got a question for ya, kiddo. Are
+you much of a mountain climber?
+
+I was, back when I was your age.
+Nothing gets me going like the sight of
+a treacherous cliff, daring me to climb it!"
+53,MSG_Futa_01_1,"この辺りの険しい崖を見ると
+登山家の血が騒ぐんだ","Take a look at these cliffs. So steep, so
+treacherous. Back in my day, I wouldn't
+have hesitated to climb right up 'em."
+54,MSG_Futa_02,"橋の北にあるカカリコ村は近いけど
+東のハテノ村までは かなりの道のりだ
+精がつくもの…つまり ガンバリ食材が
+あったほうがいいな","Kakariko Village is just a short jump to
+the north of the bridge, but the road to
+Hateno Village, to the east, is very long.
+You want my advice, you'd buy stuff that
+fills you with vigor, you know? Gives you
+the stamina you need.
+That's just if you want my advice."
+55,MSG_Futa_02_1,"橋の北にあるカカリコ村は近いけど
+東のハテノ村までは かなりの道のりだ
+ガンバリ食材が あったほうがいいな","Kakariko Village is just a short jump to
+the north of the bridge, but the road to
+Hateno Village, to the east, is very long.
+You want my advice, you'd buy stuff that
+fills you with vigor, you know? Gives you
+the stamina you need."
+56,MSG_Futa_03,"手足の疲れを感じたら ガンバリの食材で
+いつでも元気を取り戻せるんだ
+旅を続けるのなら この先きっと必要になる
+常にいくつか持っていたい食材だな","Whenever you feel your stamina starting
+to dip down low, you should chow down
+on stamina-boosting foods to fix you up.
+If you're intent on running around all
+over the place, you'll want to keep some
+stamina-boosting ingredients on hand."
+57,MSG_Futa_03_1,"手足の疲れには ガンバリの食材が効くんだよ
+旅を続けるのなら この先きっと必要になるぜ","Climbing and running are hard work, and
+you'll want foods that boost your stamina
+on-hand to keep you from tuckering out."
+58,MSG_Futa_04,"カカリコ村の服屋のねえちゃんは かわいいけど
+俺にとっては高嶺の花だな
+その服屋で売ってる忍びスーツは
+魔物に見つかりにくくなるけど高値の服だ
+どっちも手に入れたいんだけどな","That girl at the Kakariko Village clothes
+shop is a real cutie-pie, but she's out of
+my reach—like a flower on a high peak.
+She has a nice stealth chest guard, but
+it costs a pretty penny. Makes it harder
+for monsters to find you, she says.
+Alas, I'm too old for her, and too poor
+for that outfit..."
+59,MSG_Futa_04_1,"忍びスーツは そーっと歩けるようになって
+魔物にも気づかれにくくなるからさ
+今一番ほしい服なんだよ…
+まぁ店のねぇちゃんと同じ位高嶺の花だけどよ","The stealth chest guard masks your
+movements and makes it hard for
+monsters to spot you.
+It'd come in real handy when I'm on the
+road, but at that price, it's out of my
+reach...just like the cutie who sells it."
+60,Near00,朝日が眩しい…,I love the morning light...
+61,Near01,日差しが眩しい…,It's nice and bright out...
+62,Near02,夕日が眩しい…,What a bright sunset...
+63,Near03,夜は眠い…,I'm up past my bedtime...
+64,Near04,崖は濡れると滑る…,Climbin' is hard in the rain.
+65,Rest_00,"兄ちゃんも ひと休みか？
+それはいい心がけだ
+俺は登山家だから よくわかるが
+がんばるだけが冒険じゃない
+「がんばるだけ」で思い出したけど
+「ガンバリダケ」というキノコは オススメだ
+こいつを使った料理を食べると精がつく
+いつもより がんばれるようになるんだ","Taking a break, kiddo? Not a bad idea,
+that. As a climber myself, I understand
+where you're coming from.
+It's not always about pushing your
+stamina to the limit. But if you DO, I'd
+recommend a nice stamella shroom. 
+Any food you cook with one of those
+baked in will give you a surge of vigor.
+Should be just the boost you need!"
+66,Rest_01,"お兄ちゃん もしかして雨男か？
+俺はごらんの通り山男だ
+雨の日の山登りは危険だから
+早く晴れてほしいと思ってるんだ","There's some folks who've got what you
+might call a connection with the rain.
+Follows 'em wherever they go.
+Me, I've got a connection to the
+mountains. I'd be climbing right now if
+the weather didn't make it so dangerous."
+67,Rest_02,"しばらくここで雨宿りかなぁ…
+なあ兄ちゃん精がつくもの欲しくないか？","I guess I'm stuck until this rain passes...
+
+
+Hey, kiddo, you want to buy some
+ingredients that'll give your stamina
+a kick?"
+68,RetMSG_Futa_00,"ここいらで いちばん賑わってるのが
+ここ双子馬宿だ
+俺は若いころ山登りの拠点にしてたんだ","When I was a young lad, I used to use
+Dueling Peaks Stable as a base for when
+I'd go mountain climbing.
+It's the busiest place around these parts."
+69,RetMSG_Futa_00_1,"若いころは よくこの双子馬宿を
+山登りの拠点にしてたもんだよ","When I was a young lad, I used to use
+Dueling Peaks Stable as a base for when
+I'd go mountain climbing."
+70,RetMSG_Futa_01,"ここなら馬宿まではもうすぐだ
+ひと休みするにしても まだ旅は続くんだろ？
+精のつくものは持っておくべきかもな
+備えあれば憂いなしだ","We're right near the stable. I can see by
+that look in your eyes that even if you
+rest the night, you won't stay for long.
+I know what it's like to hear the sound
+of adventure calling your name."
+71,RetMSG_Futa_01_1,"馬宿まではもうすぐだな
+早くゆっくりしたいよ","We're right near the stable. I can't wait
+to rest these old bones."
+72,RetMSG_Futa_02,"もしもハテノ村方面をめざしてるなら
+橋を渡って東に進めばいい","If you're looking to head toward
+Hateno Village, just cross the bridge
+and head to the east."
+73,RetMSG_Futa_02_1,"ハテノ村方面なら橋を渡って東だぜ
+まぁ歩くとなると けっこう距離あるけどな","If you're headed for Hateno Village, it's
+over the bridge then to the east. But if
+you're going by foot, it's quite a trek."
+74,RetMSG_Futa_03,"雨の日の壁のぼりは ベテランの俺でも難しい
+無理せず どこかで雨宿りするといいかもな","Climbing cliffs is a challenge on a rainy
+day, even for an old hand like me. Best
+to just wait out the rain on those days."
+75,RetMSG_Futa_03_1,"雨の日は崖に登りにくくなるからな
+無理せず どこかで雨宿りするといいぜ","Climbing cliffs is a challenge on a rainy
+day. Just find yourself a place to hole
+up 'til it passes."
+76,RetMSG_Futa_04,"この村の山の中腹に怪しげな泉があるらしいぜ
+
+冒険するなら どんな道のりでも大丈夫なように
+壁登り用の食材が必要かもな","I hear tell of a strange fountain about
+halfway up the side of the mountain by
+this village.
+If you're looking for adventure, go seek
+it out. And why not bring some food for
+the trip, just to cover your bases?"
+77,RetMSG_Futa_04_1,"怪しい泉ってのは気になるが
+行くなら山に登るくらいの覚悟が必要かもな","I'm real curious about that strange
+fountain. If you decide to check it out,
+make sure you're prepared for the trip."
+78,SavedLv1_00,助かった！ちょっと ヤバかったな！,Whoof! That was dangerous!
+79,SavedLv1_01,"おい！""若いの！
+大丈夫だったか？","Nice work, kiddo! You weren't half bad!
+You didn't get too beat up, did you?"
+80,SavedLv2_00,見かけによらず強いんだな,"For such a young kid, you're pretty
+tough."
+81,SavedLv2_01,"兄ちゃんのおかげで助かったよ
+ありがとうな","I'd've been monster meat if it weren't
+for your help. Thank you."
+82,SavedLv3_00,俺の命の恩人よ…,I owe you my life...
+83,SavedLv3_01,"兄ちゃん…タダ者じゃないよな？
+いや答えなくていい","Wow, kiddo... You're a lot stronger than
+you look, aren't you? You don't have to
+answer."
+84,Talk01,"ところで…旅先で仕入れた商品が ここにある
+見るだけならタダだぜ？","I'm selling a few things I've picked up
+in my travels. Doesn't cost to look!"
+85,Talk02,それで どうする？,Thanks! Need anything else?
+86,Thanks00,ほんの気持ちだ受け取ってくれ,"This isn't much, but I want you to have
+it. Go on, take it."

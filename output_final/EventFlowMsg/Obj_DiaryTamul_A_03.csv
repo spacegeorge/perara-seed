@@ -1,0 +1,79 @@
+#,Title,JPja,USen
+1,"""0000""",シーカーセンサーへ,Sheikah Sensor.
+2,"""0001""",シーカーセンサー＋へ,Sheikah Sensor +.
+3,"""0002""",表紙に戻る,First page.
+4,"""0003""",読むのをやめる,Stop reading.
+5,talk00,"シーカーセンサー研究 まとめ
+文責：シモン","Sheikah Sensor Notes
+Author: Symin"
+6,talk01,シーカーセンサー＋について,About the Sheikah Sensor +.
+7,talk02,シーカーセンサーについて,About the Sheikah Sensor.
+8,talk03,"シーカーセンサーとは
+シーカーストーンの基本アイテムの1つ
+勇者の試練が眠っている古代の祠を探知したら
+音で導いてくれる
+古代の祠に近づく程
+音の間隔が短くなる","The Sheikah Sensor is one of the basic
+runes found on the Sheikah Slate.
+
+If it senses an ancient shrine containing
+a hero trial nearby, it will lead you there
+by emitting a series of sounds.
+The interval between sounds shortens
+the closer you get to a shrine."
+9,talk04,"シーカーセンサー＋とは
+シーカーセンサーの機能を拡張した アイテム
+ハイラル図鑑に載っている物なら
+何でも探索する事ができる
+使用方法を以下に記す
+
+１ ハイラル図鑑を開く
+（マップ→シーカーセンサー→図鑑から選ぶ）
+２ ハイラル図鑑に載っている写し絵を「選ぶ」
+
+３ 「探す物に設定」を選択する
+
+４ 「これを探す」を選択する
+
+そうする事で シーカーセンサー＋は
+探したい物を音で導いてくれる
+また探知を試練の祠に戻す時は
+マップ→シーカーセンサー→試練の祠 を
+探知をやめたい時は
+マップ→シーカーセンサー→OFF すればよい","The Sheikah Sensor + is a rune that
+expands the features of the normal
+Sheikah Sensor.
+It is able to detect any object that
+is listed in the Hyrule Compendium.
+Here's how it works...
+1. Open the Hyrule Compendium by
+selecting Map→Sheikah Sensor→
+Hyrule Compendium.
+2. Select a picture from the
+Hyrule Compendium.
+
+3. Select \""Target with sensor.\""
+
+
+4. Select \""Target This.\""
+
+
+Do this and the Sheikah Sensor + will
+use a series of sounds to lead you to
+the object you want to detect.
+To detect shrines again, select Map→
+Sheikah Sensor→Shrine.
+
+To stop detecting altogether, just select
+Map→Sheikah Sensor→OFF."
+10,talk07,"シーカーセンサーについて
+文責：シモン","About the Sheikah Sensor
+Author: Symin"
+11,talk08,"探知をやめたい時は
+マップ→シーカーセンサー→OFF すればよい","To stop searching for your object of
+choice, set the Sheikah Sensor on
+your map to OFF."
+12,talk09,"探知をやめたい時は
+マップ→シーカーセンサー→OFF すればよい","To stop searching for your object of
+choice, set the Sheikah Sensor on
+your map to OFF."

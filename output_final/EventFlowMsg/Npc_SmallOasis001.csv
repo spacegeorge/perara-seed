@@ -1,0 +1,107 @@
+#,Title,JPja,USen
+1,"""0000""",砂嵐？,Sandstorm?
+2,"""0001""",さようなら,Gotta go.
+3,Talk_01,"…オデ今砂嵐見てるゴロ……
+一緒に見たいゴロ？","I'm watching the sandstorm.
+Want to join me?"
+4,Talk_02,"砂漠は砂嵐がひどいゴロ
+アレに巻き込まれると迷って遭難しちゃうゴロ","Sandstorms are pretty common out in the
+desert. If you get caught in one, you'll
+get lost for sure..."
+5,Talk_03,"オデ…
+ゲルドの街にも行きたいんだゴロ…
+でも なんか でっかいのがいて
+今は やめたほうがいい って言われたゴロ…
+オデ…
+どこにも行けないゴロ…","I...want to get to Gerudo Town. But they
+told me it'd be too difficult to get there
+right now.
+So...I'm just kind of stuck here..."
+6,Talk_04,"オデ あの砂嵐を
+寝てる時以外 ずっと見てるゴロ…","I watch that sandstorm around the clock!
+Every minute of the day! Except when
+I'm sleeping, of course."
+7,Talk_05,"でも全然消えないんだゴロ…
+
+オデ…騙されたゴロ？","They said it dies down occasionally,
+but I've never seen it happen.
+Did they lie to me?"
+8,Talk_06,"何だゴロ…
+
+オデ…寒いの苦手…
+砂漠の夜嫌いゴロ…","Urgh, what's the deal with this cold...
+How does it get this cold in the desert?
+I hate the nighttime here."
+9,Talk_07,"オデ…友達できたゴロ
+
+でも…
+これって…
+男友達ゴロ？女友達ゴロ？","I made it all the way to Gerudo Town!
+
+
+But I'm not sure why they let me in..."
+10,Talk_08,"あれ…？
+
+キミ…
+
+カラカラバザールにいなかったゴロ？
+
+オデの見間違い… ゴロ？","Hrm? Wait a minute... Didn't I meet you
+at the Kara Kara Bazaar? Or was it
+someone else?"
+11,Talk_09,"…砂嵐が消える時があるって聞いたから
+オデ ずっとその砂嵐見てたゴロ……
+でも全然消えないゴロ…
+
+もう寝るゴロ…","I heard the sandstorm sometimes dies
+down, but it's been going strong the
+entire time I've been watching it.
+I'm going to sleep..."
+12,Talk_10,"でも ココから見える あの砂嵐は
+一日に数時間だけ消えるらしいゴロ
+オデ あのでっかい塔のところに
+行きたいんだゴロ…
+だからオデ… あの砂嵐が消えるのを
+待ってるんだゴロ","But I hear that sandstorm over there will
+die down for a few hours each day,
+clearing a path.
+I want to visit that huge tower, but the
+sandstorm is in the way, so...I'll just sit
+here and wait for it to die down."
+13,Talk_11,"消える砂嵐があるって聞いたゴロ
+オデ…今日こそ砂嵐が消えるのを見るんだゴロ","I heard the sandstorm dies down from
+time to time, and I really want to figure
+out why...and when!"
+14,Talk_50,"砂嵐が消えたゴロ
+オデ…今日こそ砂嵐が出てくるの見るんだゴロ","The sandstorm is gone, but I'm sure it
+will come back today. Yup, it definitely
+will."
+15,Talk_51,"オデ あっちにあった砂嵐を
+寝てる時以外 ずっと見てたんだゴロ…","I was filling my days with watching that
+sandstorm... That's all I did, unless I was
+sleeping."
+16,Talk_52,"前は全然消えなかったのに
+今は全然出てこないんだゴロ…
+オデ…騙されたゴロ？","It was always there... So reliable.
+But now it's never there.
+What happened?"
+17,Talk_53,"あ… そういえば オデ
+でっかい塔のところに行きたいんだったゴロ
+砂嵐が出てこないから行けるゴロ…？","I was thinking of going to the giant
+tower, you know. With the sandstorm
+gone, maybe I can go now?"
+18,Talk_54,"…オデ砂嵐出てくるの待ってるゴロ……
+一緒に待つゴロ？","I'm waiting for the sandstorm to appear...
+Wanna sit and wait together?"
+19,Talk_55,"ずっと見てた砂嵐…
+今は消えたままゴロ…全然出てこないゴロ…
+オデ… ずっと見てたのに…
+どうなってるゴロ？
+もう寝るゴロ…","I'd heard that the sandstorm
+dies down sometimes, but...
+it seems like it's dead forever.
+I guess I need to find a new hobby.
+Maybe I'll take up sleeping.
+"
+20,Talk_56,おはようゴロ,Good morning!
+21,near00,消えないゴロ…,Does it...not go away?

@@ -1,0 +1,167 @@
+#,Title,JPja,USen
+1,"""0004""",お願いします,"Yes, please."
+2,"""0005""",結構です,"No, but thank you."
+3,"""0006""",はい,Yes.
+4,"""0007""",いいえ,No.
+5,"""0008""",光鱗の槍を作って,A Lightscale Trident.
+6,"""0009""",祭事の槍を作って,A Ceremonial Trident.
+7,"""0010""",さようなら,Good-bye.
+8,"""0011""",槍って？,A trident?
+9,"""0012""",何してるの？,What are you doing?
+10,"""0013""",ここって？,What is this place?
+11,near00,…,...
+12,talk00,…,...
+13,talk01,"ミファー様を奪いしハイリア人が
+ノコノコと…
+今更何の用ゾラ…","So...the Hylian who stole Lady Mipha
+away thinks he can just come wandering
+in here like nothing happened.
+What business do you have here after
+all these years?!"
+14,talk02,…,...
+15,talk03,"…聞いておるぞ ハイリアの英傑 リンク
+
+これでミファー様の魂も浮かばれるゾラ","So I have heard. Hylian Champion Link...
+
+
+Now Lady Mipha's spirit can finally rest
+in peace."
+16,talk04,リンク…光鱗の槍を手に入れたゾラ？,"Link... You have acquired the
+Lightscale Trident?"
+17,talk05,"光鱗の槍は王家秘伝の槍…
+ワシにしか作る事を許されておらん
+もし使い込んで壊れたり
+完全に失ってしまったら
+ゾーラの槍とダイヤモンドを1個
+そして火打ち石を5個持ってこいゾラ
+そうすれば新たな光鱗の槍を作ってやるゾラ","The Lightscale Trident is the royal
+family's secret weapon... I am the
+only person permitted to craft one.
+Should you ever overuse it to the point
+of breaking, or should you ever lose
+track of it...
+Simply bring me a Zora spear,
+one diamond, and five pieces
+of flint.
+Do that, and I will make you a new
+Lightscale Trident whenever you
+have need."
+18,talk06,"確かに この世から光鱗の槍を
+感じなくなったゾラ…""作り直すゾラ？","The Lightscale Trident... I somehow felt
+it had disappeared from this world.
+Shall I remake it for you?"
+19,talk07,"ならゾーラの槍とダイヤモンドを1個ずつと
+火打ち石が5個""必要ゾラが…","In that case, I will need a Zora spear,
+one diamond, and five pieces of flint."
+20,talk08,"お主は持っておらんようだが
+まだこの世に光鱗の槍を感じるゾラ
+あれは魔物に渡ると危険な代物ゾラ
+
+預けているならともかく
+まずは よく探すゾラ…","You do not have it in your possession,
+but I can sense the Lightscale Trident
+is still in this world.
+If a monster were to take hold of it,
+that would be extremely dangerous.
+
+If you have entrusted it to someone,
+that is one thing...but if not, I must
+strongly suggest you locate it."
+21,talk09,ふむ…,Hmm...
+22,talk10,お主必要な材料が足りてないゾラ…,"You do not have all of the materials
+I require..."
+23,talk11,お主ゾーラの槍を持ってないゾラ…,You do not have a Zora spear...
+24,talk12,お主ダイヤモンドを持ってないゾラ…,You do not have a diamond...
+25,talk13,火打ち石が足りてないゾラ…,You do not have enough flint...
+26,talk14,"お主ゾーラの槍を持ってない上
+火打ち石も足りてないゾラ…","You do not have a Zora spear, nor do you
+have enough flint..."
+27,talk15,"お主ゾーラの槍とダイヤモンドを
+持ってないゾラ…","You do not have a Zora spear, nor do you
+have a diamond..."
+28,talk16,"お主ダイヤモンドを持ってない上
+火打ち石も足りてないゾラ…","You do not have a diamond, nor do you
+have enough flint..."
+29,talk17,"作り直すなら素材を揃えてから
+ワシの所まで来いゾラ","I will make a new one for you when you
+bring me all of the necessary materials.
+Come see me again once you have them."
+30,talk18,"ふむ…材料は全て持ってるゾラね
+だったら作り直すゾラ？","Ah... I see you have brought me the
+materials I require. Shall I remake
+that weapon for you?"
+31,talk19,"ダイヤモンドはなかなか手に入らないゾラ
+本当に いいゾラ？","Diamonds are rather hard to come by.
+Are you sure about this?"
+32,talk20,"ふむ…
+作り直したくなったら また来るゾラ","Hm. As you wish. Come back when you
+are ready for me to remake it for you."
+33,talk21,よし…作業に取り掛かるゾラ,Understood. I'll get to work right away.
+34,talk22,"ふー… なかなかの難産だったゾラ
+
+大切に使うゾラ","Phew... That was rather difficult to make.
+
+
+Please take good care of it."
+35,talk23,"ところでお主が英傑なら
+光鱗の槍や祭事の槍を扱えるはずゾラ
+そいつらを使い壊してしまったら
+作り直してやるゾラ","As the Champion, you should be able to
+use both the Lightscale Trident and the
+ceremonial trident.
+If you break either one...please let me
+know so I can remake it for you."
+36,talk24,"…来たか
+
+どうするゾラ？","You are here...
+
+
+What do you need?"
+37,talk25,"贋作とは言え祭事の槍は
+光鱗の槍と同じく王家秘伝の槍…
+ワシにしか作る事を許されておらんゾラ
+
+もし壊れたり完全に失ったら
+ゾーラの槍と火打ち石を5個持ってこいゾラ
+そうすれば新たな祭事の槍を作ってやるゾラ","The ceremonial trident, although it is a
+counterfeit, is a secret weapon of the
+royal family, like the Lightscale Trident.
+I am the only person permitted to
+craft one.
+
+Should you ever break it or lose track
+of it...simply bring me a Zora spear
+and five pieces of flint.
+Do so, and I will make you a new
+ceremonial trident."
+38,talk26,"確かにこの世から祭事の槍を
+感じなくなったゾラ…""作り直すゾラ？","The ceremonial trident... I somehow felt
+it had disappeared from this world.
+Shall I remake it for you?"
+39,talk27,"お主は持っておらんようだが
+まだこの世に祭事の槍を感じるゾラ
+預けているならともかく
+まずは よく探すゾラ…","You do not have it in your possession,
+but I can sense the ceremonial trident
+is still in this world.
+If you have entrusted it to someone,
+that is one thing...but if not, I must
+strongly suggest you locate it."
+40,talk28,"ならゾーラの槍を1個と
+火打ち石が5個""必要ゾラが…","In that case, I will need a Zora spear and
+five pieces of flint..."
+41,talk29,何の用ゾラ…,What do you want?
+42,talk30,武器の工房…,The weapons workshop...
+43,talk31,槍の修理…,Trident maintenance...
+44,talk32,光鱗の槍と祭事の槍…,"The Lightscale Trident and
+the ceremonial trident..."
+45,talk33,"さっきから ガチャガチャうるさいゾラ…
+
+光鱗の槍を手にした事の無いヤツは
+ここに来る意味は無いゾラ
+早く去ねゾラ","You have been making a racket since you
+walked in here.
+
+There is no point in coming here if you
+do not possess the Lightscale Trident.
+Leave. Now."

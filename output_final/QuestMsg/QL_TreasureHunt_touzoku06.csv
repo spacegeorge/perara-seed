@@ -1,0 +1,37 @@
+#,Title,JPja,USen
+1,QL_TreasureHunt_touzoku06_Desc,"ハイラル王家秘蔵の歴史的価値の高い衣装が
+ラムダという盗賊に奪われていた
+そのうちの１つは風の青衣 と呼ばれている
+
+その隠し場所を記した手記が
+アデヤ村跡のどこかにあるらしい","The royal family of Hyrule collected historically
+significant outfits, but they were stolen by a
+bandit named Misko. One of the items stolen
+was the blue garb of the Hero of Winds.
+
+Somewhere in theDeya Village Ruins
+is a journal that places the location
+of this treasure..."
+2,QL_TreasureHunt_touzoku06_Finish,"『大海原を巡った風を操りし勇者の青き衣は
+エン川が生まれし所』
+
+サン湖に隠された宝箱の中から
+青いエビシャツを手に入れた！","\""The blue garb of the hero who controlled
+the wind and traveled the ocean is where
+the Menoat River was born.\""
+
+You found the treasure that was hidden at Cora
+Lake and obtained theIsland Lobster Shirt!"
+3,QL_TreasureHunt_touzoku06_Name,Ｅｘ ラムダの秘宝 風の青衣,EX Treasure: Garb of Winds
+4,QL_TreasureHunt_touzoku06_Step01,"『大海原を巡った風を操りし勇者の青き衣は
+エン川が生まれし所』
+
+ラムダの手記Ex2に風の青衣を
+隠した場所が記されていた
+エン川が生まれし所 とは…？","\""The blue garb of the hero who controlled
+the wind and traveled the ocean iswhere
+the Menoat River was born.\""
+
+Misko's EX Journal 2 describes where the blue
+garb of the Hero of Winds is hidden...but where
+wasthe Menoat River born?"

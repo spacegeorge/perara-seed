@@ -1,0 +1,306 @@
+#,Title,JPja,USen
+1,"""0000""",買い取って,I wanna sell.
+2,"""0001""",約束？,Promise?
+3,"""0002""",さようなら,Farewell.
+4,"""0005""",はい,Yes.
+5,"""0006""",いいえ,No.
+6,"""5500""",はい,OK.
+7,"""5501""",いいえ,Never mind.
+8,"""5502""",買う,I wanna buy.
+9,"""5503""",やっぱりやめる,Never mind.
+10,"""5507""",ぜんぶ買う,I'll take 'em all!
+11,"""5508""",ぜんぶ売る,All of them.
+12,Com_Talk_00,"何を売ってくれるんかいさ～
+ワクワクするさね～","What are you going to sell me?
+I'm excited to find out!"
+13,Com_Talk_01,"で いいさね？
+ルピーになるけどいいかいさ～？",That'll be  rupees. Is that OK?
+14,Com_Talk_02,ありがとね～,Thank you.
+15,Com_Talk_02b,どうも～,Thank you!
+16,Com_Talk_02c,良い品じゃないか～,What a great item!
+17,Com_Talk_02d,"ふふっ それ目をつけてたんだよ～
+ありがとね～","Heh, I was eyeing that.
+Thank you!"
+18,Com_Talk_04,"おや やめちゃうのかい？
+いい品だったのに残念さね～","Oh, second thoughts?
+Too bad—I had my eye on that."
+19,Com_Talk_05,まぁ ゆっくり選んどくれよ～,Please take your time.
+20,Com_Talk_05b,まだまだ買い取るよ～,I can still buy stuff from you...
+21,Com_Talk_05c,"他もあるかい？
+買い取るのは楽しいさね～","Do you have anything else?
+I love buying things!"
+22,Com_Talk_05d,どんどん買い取るよ～,I'm ready when you are!
+23,Com_Talk_08,"安くしてあげたいんだけどさ～
+旦那に頼れない分生活かかっててね～
+お金ないなら今回はあきらめとくれよし","I'd LIKE to give you a discount, but I've
+got to make a living too, ya know?
+If you can't afford it, just walk away."
+24,Com_Talk_09,"お客さん…よく見たら荷物パンパンさね～
+売るか捨てるかしておくれよし～","Kid...that pouch of yours is full
+to bursting. You'll need to sell
+or get rid of something."
+25,Com_Talk_12,"自慢の品ぞろえさ
+ゆっくり見ていっとくれよし！","I have confidence in all of my wares.
+Go on, take a good look around!"
+26,Com_Talk_13,"""かいさ～？
+いくつにするさね？","OK, and how many?"
+27,Com_Talk_14,"が個だから
+合計ルピーってとこかいね～","So  will net you...
+ rupees total."
+28,Com_Talk_15,それはちょっとうちではあつかえないさね～,"Ah. Sorry, I don't deal in that."
+29,Com_Talk_16,"今着てるやつは勘弁しておくれよ～
+買い取ってほしいなら先に脱いどいておくれよし","You can't sell me clothes right off your
+back. Take 'em off if you wanna sell."
+30,Com_Talk_31,"さね？
+いくつかいさ～？",How many?
+31,Com_Talk_33,"なら
+ルピーってとこさね～","For one, that'll be  rupees."
+32,Com_Talk_34,"をあるだけ全部さね？
+個でルピーだけどいいかいさ～？","So...all of them? That will run you about
+ rupees. How's that sound?"
+33,Com_Talk_35,"を個全部さね？
+合計ルピーで買取るけどいいかいさ～？","Oh, all of them? That should be about
+ rupees. How's that sound?"
+34,Com_Talk_50,"さね？
+ルピーになるけどいいかいさ～？",That'll be  rupees. That OK?
+35,Com_Talk_51,"かいさ～？
+いくつにするさね？",How many were you thinking?
+36,Com_Talk_52,"が個だから
+合計ルピーってとこかいね～","So  would come to...
+a total of  rupees."
+37,Com_Talk_53,"おや やめちゃうのかい？
+残念さね～","Oh, second thoughts?
+Too bad!"
+38,Com_Talk_54,"安くしてあげたいんだけどさ～
+旦那に頼れない分生活かかっててね～
+お金ないなら今回はあきらめとくれよし","I'd LIKE to give you a discount, but I've
+got to make a living too, ya know?
+If you can't afford it, just walk away."
+39,Com_Talk_55,"お客さん…よく見たら荷物パンパンさね～
+まずは荷をあけてきておくれよし～","Kid...that pouch of yours is full
+to bursting. You need to make
+some room."
+40,Com_Talk_56,"なら
+ルピーってとこさね～","For one, that'll be  rupees."
+41,Near00,いらっしゃ～い,Welcome!
+42,Near01,また仕入れとくよ～,I'm always making more!
+43,Near02,ひどい天気さねぇ,"Awful weather, isn't it?"
+44,Talk01,"お客さんなんて めずらしいさねぇ
+
+この村にゃ弓を使う若者がいなくてね～
+
+お兄さんみたいな いい男が来てくれたら
+なんだか ウキウキしちゃうわいさ～
+まぁ ゆっくり選んどくれよ～","I can't remember the last time we had
+a customer in here!
+
+Young folks in this village don't have
+much use for a bow...
+
+It's a thrill to see a young lad like you
+come into the shop. Well, don't mind me.
+Take your time lookin' around."
+45,Talk02,"お客さん弓使い かいさ～？
+
+この村にゃ弓を使う若者がいなくてね～
+
+お兄さんみたいな いい男が来てくれたら
+なんだか ウキウキしちゃうわいさ～
+まぁ ゆっくり選んどくれよ～
+
+持ち合わせが なくなったら
+いらないものを買い取ってあげるわいさ～
+遠慮なく声かけとくれよ～","So are you an archer?
+
+
+Young folks in this village don't have
+much use for a bow...
+
+It's a thrill to see a young lad like you
+come into the shop. Well, don't mind me.
+Take your time lookin' around.
+Oh, and if you're runnin' low on funds,
+I'm happy to buy something from you.
+Gimme a shout if you need anything!"
+46,Talk05,"こんな夜中だってのに若い子は元気さねぇ
+急ぎの用かいさ？","Look at you, still raring to go, even at
+this hour. It's good to be young, eh?
+Something urgent, I take it?"
+47,Talk08,"おや お客さん欲しいモンがあるなら
+直接 商品を選んどくれ～
+それとも
+何か買い取ってほしいのかいさ～？","If there's something you want, just go
+ahead and grab it, yeah? Or did you
+want to sell something?"
+48,Talk10,ありがとね～,Thank you.
+49,Talk11,"あら～気前いいさねぇ
+お兄さんのために また仕入れておくわいさ～","My, my! Eager, aren't we?
+I'll be sure to make some more for you."
+50,Talk13,"ごめんよ
+見ての通り今は品切れなんだわさ～
+でも買い取りはできるわいさ～
+何か売ってくれるのかいさ～？","I'm sorry. As you can see,
+we're completely sold out
+of everything at the moment.
+However, I can still buy things from you.
+Is there anything you'd like to sell?"
+51,Talk19,"それにしてもお客さん そんなに矢を使うなんて
+かなりの弓の使い手とみたねぇ～
+うちの旦那も昔はシーカー族きっての
+弓の使い手だったんだけどさぁ…
+コッコにうつつを抜かして
+すっかり腑抜けになっちまってさ…
+我慢できなくなって
+あたしは家を出てきちゃったんだよ…
+ああ ごめんよ お客さんを見てたら
+旦那のこと思い出しちまったさね
+気にしないでおくれよし～","Hmm, at the rate you're going through
+arrows, you must be quite the archer!
+
+Back in the day, my husband was the 
+finest archer in the whole Sheikah tribe...
+
+These days, all he cares about are his
+silly Cuccos. He's completely lost
+his nerve. And his mind too.
+*ahem* Sorry. He and I don't live
+together anymore, but the sight of you
+reminds me of him so much...
+Please, don't mind me.
+I'm just rambling now."
+52,Talk21,"もしかしてこれから
+外に出ていくのかい？
+夜は素材を探しやすいけど
+魔物も多いから気を付けるんだよ～","Are you going out?
+
+
+It's a lot easier to find materials at night.
+But then, there are also more monsters
+around when it's dark. Please be careful!"
+53,Talk23,"お兄さんのおかげで
+胸の高鳴りがおさまらなくてね…
+ちょっとだけ旦那が恋しくなっちゃったよ…","Kid, you've lifted my spirits so high I can
+barely contain myself! I even miss my
+husband at the moment. Just a tiny bit..."
+54,Talk24,"おや もう帰っちゃうのかいさ～
+さみしいね～
+でも せっかく来てくれたんだし
+良いこと教えてあげるわいさ～
+お金に困ったら鉱石を売るといいよ～
+どこの店でも高値で引きとってくれるわいさ～","Oh...are you planning to leave already?
+That's too bad.
+
+Well, while you're here, let me give you
+a bit of advice.
+
+If you need money, go ahead and sell
+some ore. Any shop you find will buy
+it at a premium price."
+55,Talk25,"見てたよ お客さん！
+
+すごい腕前さね～
+
+いや～ ひっさびさに胸が高鳴ったわいさ～
+
+あたしの旦那も弓の名手なんだけどさ～
+今は訳あって ちょっと会えなくてさ…
+だからさ こんな気持ち…
+とんと ご無沙汰だったもんでさ
+今すっごく興奮してるわいさ！
+
+いや～ ホントにいいモン見せてもらったよ～
+これは ほんの気持ちさね","Hey, kid! I saw you!
+
+
+You were amazing!
+
+
+Boy, what a shot in the heart that was!
+
+
+My husband's a fine archer himself...
+but we're living apart right now.
+
+This feeling... It's been so, so long.
+
+
+I'm so excited right now!
+
+
+That really was something special to see.
+In fact, here... A token of my thanks."
+56,Talk26,"あの人もコッコにばかりうつつを抜かさず
+弓の練習を続けてくれてたらねぇ…","If only my husband hadn't become obsessed with
+Cuccos and had kept up with his archery skills...
+If only..."
+57,Talk28,"お客さん あたしとの約束
+忘れないでおくれよ～",Don't go forgetting our promise now.
+58,Talk29,"もう忘れてるんかいさ～
+
+女神像のところにある燭台に
+火をつけてくるって約束したわいさ～？
+楽しみにしてるんだから
+しっかりしとくれよ～","You forgot already?!
+
+
+You were going to light the torches
+by the Goddess Statue. I'm looking
+forward to it, so don't mess it up!"
+59,Talk30,"ふふっ この胸の高鳴り…
+久々だわいさ～","Heh, my heart's practically singing...
+I haven't felt this way in years."
+60,Talk31,"お客さんの あの矢を射る姿…
+いや～ いいモン見せてもらったわいさ～
+ああ ごめんよ～ 
+何か用さね～？","The way you handle that bow of yours...
+A thing of beauty, I tell ya.
+
+Heh, sorry. I'm getting carried away.
+You lookin' to sell something?"
+61,Talk32,"まったく…
+用はそれだけかいさ～？",Well then! Was that all you wanted?
+62,Talk34,いい買いっぷりさね～,I like how you shop.
+63,Talk35,どうもね～,Thank you!
+64,Talk36,またよろしくね～,Please come again!
+65,Talk37,"見てたよ お客さん！
+
+まぁ本当は矢で
+火をつけてもらいたかったんだけどさ…
+男ってのは女の期待を裏切る生き物だからねぇ
+
+今は訳あって会ってないんだけど
+あたしの旦那も気の利かない男でさ～
+お客さん見てたら ちょっと思い出しちゃったよ
+…でも なんだか
+今すっごく興奮してるわいさ！
+
+いや～何かありがとね～
+これは ほんの気持ちさね","Hey, kid! I saw you!
+
+
+Although... What I really wanted was for
+you to light the fire using an arrow...
+
+But I suppose a man is ultimately
+doomed to betray a woman's
+expectations. Don't you think?
+I haven't seen him in a while...for various
+reasons...but you being inconsiderate
+reminds me of my husband.
+*ahem* Anyway...
+
+
+I'm so excited right now!!
+
+
+Thank you for that. Here, take this as a
+token of my appreciation."
+66,Talk38,"それはそうと…
+
+お客さん あたしとの約束
+忘れないでおくれよ～","More importantly...
+
+
+You better not forget the promise
+you made!"
+67,Talk39,暗くなってきたってねぇ…,It's getting dark...

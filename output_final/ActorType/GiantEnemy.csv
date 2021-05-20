@@ -1,0 +1,129 @@
+#,Title,JPja,USen
+1,Enemy_Giant_Bone_Name,スタルヒノックス,Stalnox
+2,Enemy_Giant_Bone_PictureBook,"巨大な一つ目の魔物 ヒノックスの亡骸
+夜になると行動をはじめる
+木を抜いて振り回してくるので
+戦う際には気が抜けない
+目玉さえあれば何度でも立ち直る","The mere remains of what was once a giant
+monster known as a Hinox. These skeletal
+beasts appear at nighttime. Much like their
+living counterparts, the Stalnox will tear entire
+trees from the ground to use as weapons.
+Furthermore, even if it appears defeated at
+first, it will keep coming back for more as long
+as its eye is left intact."
+3,Enemy_Giant_Junior_Name,ヒノックス,Hinox
+4,Enemy_Giant_Junior_PictureBook,"ハイラルに生息する魔物で最大級の大きさを誇る
+主に森に生息している
+木を抜いて振り回してくるなど凶暴性は高く
+戦う際には周りの地形にも注意が必要
+首輪にぶら下がった武器は奪うことができる","The largest monster to make its home in
+Hyrule, the Hinox lives primarily in forested
+areas. A keen awareness of your surroundings
+is paramount when facing one, as Hinox are
+known for tearing entire trees from the ground
+and using them as weapons. A deft hand can
+steal weapons off the necklaces they wear."
+5,Enemy_Giant_Middle_Name,青ヒノックス,Blue Hinox
+6,Enemy_Giant_Middle_PictureBook,"ハイラルに生息する魔物で最大級の大きさを誇る
+主に森に生息している
+木を抜いて振り回してくるなど凶暴性は高く
+戦う際には周りの地形にも注意が必要
+足元は固いすね当てで守られているが
+火をつければ燃やすことが可能だ
+首輪にぶら下がった武器は奪うことができる","The largest monster to make its home in
+Hyrule, the Hinox lives primarily in forested
+areas. A keen awareness of your surroundings
+is paramount when facing one, as Hinox are
+known for tearing entire trees from the ground
+and using them as weapons. Blue Hinox wear
+greaves that can be burnt away to expose
+their feet. A deft hand can steal weapons off
+the necklaces they wear."
+7,Enemy_Giant_Senior_Name,黒ヒノックス,Black Hinox
+8,Enemy_Giant_Senior_PictureBook,"ハイラルに生息する魔物で最大級の大きさを誇る
+主に森に生息している
+木を抜いて振り回してくるなど凶暴性は高く
+戦う際には周りの地形にも注意が必要
+鉄のすね当ては固くて壊せそうにないが
+電気には弱そうだ
+首輪にぶら下がった武器は奪うことができる","The largest monster to make its home in
+Hyrule, the Hinox lives primarily in forested
+areas. A keen awareness of your surroundings
+is paramount when facing one, as Hinox are
+known for tearing entire trees from the ground
+and using them as weapons. Black Hinox
+wear metal greaves that conduct electricity
+rather well. A deft hand can steal weapons
+off the necklaces they wear."
+9,Enemy_Golem_Fire_Name,マグロック,Igneo Talus
+10,Enemy_Golem_Fire_PictureBook,"溶岩に擬態した巨大な魔物
+硬い岩でできたその体は剣や弓では歯が立たない
+溶岩をまとっており触れることさえ危険だが
+冷気で熱を冷ませば よじ登ることもできる","This enormous monster is naturally
+camouflaged as molten rock. Neither sword
+nor arrow can pierce its fiery form. Merely
+touching its magma-hot body can burn
+you pretty badly, but you may be able
+to scale it if you can use something
+to chill its flames."
+11,Enemy_Golem_Fire_R_Name,メガマグロック,Igneo Talus Titan
+12,Enemy_Golem_Fire_R_PictureBook,"溶岩に擬態した巨大な魔物 マグロックの亜種で
+マグマの中に潜み 長い年月をかけて
+己の体を さらに巨大化させている
+
+その力はもちろん 体から発する熱量もすさまじく
+周辺に常時 上昇気流を発生させている姿は
+メガの名にふさわしい","This monster is an Igneo Talus subspecies
+that is camouflaged as molten rock. It lives
+in lava for many years before emerging at an
+enormous size. It is wildly powerful and emits
+a tremendous amount of heat, causing a
+constant updraft in its vicinity. This monster is
+so fearsome it has earned the title of Titan."
+13,Enemy_Golem_Ice_Name,ガチロック,Frost Talus
+14,Enemy_Golem_Ice_PictureBook,"凍った岩に擬態した巨大な魔物
+硬い岩でできており剣や弓では歯が立たない
+凍てつくその体は触れることさえ危険だが
+炎で氷を解かせば よじ登ることもできる","This enormous monster is naturally
+camouflaged as a frozen rock formation.
+Neither sword nor arrow can pierce its frigid
+form. Merely touching its frosty body can
+leave you with severe frostbite, but you may
+be able to scale it if you use something to
+thaw its icy exterior."
+15,Enemy_Golem_Junior_Name,イワロック,Stone Talus
+16,Enemy_Golem_Junior_PictureBook,"岩に擬態した巨大な魔物
+硬い岩でできたその体は剣や弓では歯が立たない
+倒すには体によじ登って頭部に露出した鉱床を 
+攻撃するのが有効といわれている
+","This enormous monster is naturally
+camouflaged as a rock formation. Neither
+sword nor arrow can pierce its stony form,
+but a cunning adventurer knows to scale
+its body and attack the ore sprouting from
+its peak."
+17,Enemy_Golem_Middle_Name,イワロック(夜光),Stone Talus (Luminous)
+18,Enemy_Golem_Middle_PictureBook,"岩に擬態した巨大な魔物
+硬い岩でできたその体は剣や弓では歯が立たない
+頭部に露出した鉱床に
+多くの夜光石を含むという特徴を持つ","This enormous monster is naturally
+camouflaged as a rock formation. Neither
+sword nor arrow can pierce its stony form,
+but a cunning adventurer knows to scale
+its body and attack the ore sprouting from
+its peak. Unlike your average Stone Talus,
+this type's ore deposit consists mostly of
+luminous stone."
+19,Enemy_Golem_Senior_Name,イワロック(希少),Stone Talus (Rare)
+20,Enemy_Golem_Senior_PictureBook,"岩に擬態した巨大な魔物
+硬い岩でできたその体は剣や弓では歯が立たない
+頭部に露出した鉱床に
+貴重な鉱石を多く含むという特徴を持つ","This enormous monster is naturally
+camouflaged as a rock formation. Neither
+sword nor arrow can pierce its stony form,
+but a cunning adventurer knows to scale
+its body and attack the ore sprouting from
+its peak. Unlike your average Stone Talus,
+this type's ore deposit contains a large
+amount of precious ore."

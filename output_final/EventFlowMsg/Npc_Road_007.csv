@@ -1,0 +1,249 @@
+#,Title,JPja,USen
+1,"""0000""",買う,I wanna buy.
+2,"""0001""",売る,I wanna sell.
+3,"""0002""",さようなら,That's it for now.
+4,"""5500""",はい,Sounds good to me!
+5,"""5501""",いいえ,On second thought...
+6,"""5502""",買う,I'll take it.
+7,"""5503""",やっぱりやめる,Maybe next time.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,岩のふりをするゴロ！,"I'll just pretend to be a boulder until
+they go away."
+11,Atacked01,まま魔物はまだいるゴロか？,Is that all of them?
+12,Com_Talk_00,どれを売ってくれるゴロ？,What do you want to sell?
+13,Com_Talk_01,"を売ってくれるゴロ？
+ルピーになるけど いいゴロか？","I can give you  rupees.
+What do you think?"
+14,Com_Talk_02,"ありがとうゴロ！
+他にも何かあるゴロか？","It's been a pleasure!
+Need anything else?"
+15,Com_Talk_02b,ありがとうゴロ,"Thanks for your business, brother!"
+16,Com_Talk_02c,どうも ありがとうゴロ,"Thank you very much, brother."
+17,Com_Talk_02d,サンキューだゴロ,"I appreciate your business, brother!"
+18,Com_Talk_04,"あら…""残念ゴロ！","Oh... Well, that's too bad."
+19,Com_Talk_05,何でも買い取るゴロ！,I'll buy anything. Just try me!
+20,Com_Talk_05b,いろいろ買い取るゴロ,I'll buy whatever it is you're selling.
+21,Com_Talk_05c,いらないものは買い取るゴロ,"If you have anything you don't need, I'll
+be glad to buy it off you."
+22,Com_Talk_05d,なんか買い取るゴロ,I can buy some things from you.
+23,Com_Talk_06,どれを見ていくゴロ？,What caught your eye?
+24,Com_Talk_07,そ…それはいま品切れゴロよ,"Uh-oh. Looks like I'm all sold out of that
+for now."
+25,Com_Talk_08,"ルピーが足りないみたいだから
+がんばって貯めて また来るゴロよ！","Looks like you're short on rupees.
+Scrounge some up and get back to me."
+26,Com_Talk_09,"ポーチがいっぱいみたいだから
+売るとか捨てるとかして空きを作るゴロよ","Your inventory is full... You can toss
+something out to make some space,
+or I can buy some items off you."
+27,Com_Talk_10,を買うゴロ？,We have a deal?
+28,Com_Talk_11,まいど ありがとうゴロ！,Good doing business with you!
+29,Com_Talk_11b,ありがとうゴロ！,"Thank you for stopping by, brother!"
+30,Com_Talk_11c,どうも ありがとうゴロね,"Thanks, brother!"
+31,Com_Talk_11d,ありがとうだゴロゴーロ！,"I appreciate your business, brother!"
+32,Com_Talk_12,"貴重な鉱石が揃っているゴロ！
+ゆっくり見ていくといいゴロ！","I have some rare ore burning a hole in
+my pack! Take your time looking it over,
+and let me know what you want."
+33,Com_Talk_13,"を売ってくれるゴロ？
+いくつ売るゴロか？",How many would you like to part with?
+34,Com_Talk_14,"を個で・・・
+合計ルピーで買い取るけど いいゴロ？","That'll get ya  rupees.
+Sound like a deal?"
+35,Com_Talk_15,それは うちでは買い取れないゴロねぇ,"Nope, can't buy that from you.
+Just can't do it!"
+36,Com_Talk_16,着ている服は買えないので脱ぐゴロよ！,"Oh... I can't buy clothes while
+you're still wearing them."
+37,Com_Talk_20,"こんな天気だし サービスするゴロ！
+普段じゃ買えないダイヤモンドとかも売るゴロ！","This weather has me in a rare mood to
+sell rare ore. How about a diamond?
+You interested in rare items?"
+38,Com_Talk_30,"が個で
+合計ルピーになるけど いいゴロか？",That'll cost  rupees. Sound good?
+39,Com_Talk_31,"を買ってくれるゴロ？
+いくつ買うゴロ？",How many do you want?
+40,Com_Talk_33,"をひとつだけゴロか？
+それならルピーだゴロよ！",Just one? I can do  rupees.
+41,Com_Talk_34,"を あるだけ全部ゴロ？
+だったら個でルピーゴロよ！","You want to buy all that I have?
+Looks like  will run ya  rupees."
+42,Com_Talk_35,"を個全部ゴロ？
+それなら合計ルピーで買い取るゴロ","All ? Well, I can give you...
+ rupees total."
+43,Com_Talk_36,"これが最後ゴロ！
+いっぱい買ってくれて ありがとゴロ！","That's the last of it. I'm all sold out!
+Thanks for your business, brother!"
+44,Com_Talk_37,"チャリオの鉱石屋は在庫ゼロゴロ！
+ゴロンシティで仕入れる予定の鉱石見るゴロ？","Kairo's ore shop is all sold out, but do
+you want a sneak peek of what I'll have
+after I restock in Goron City?"
+45,Com_Talk_56,"を ひとつだけ？
+それならルピーだけど いいゴロか？","Only one? That'll cost you...
+ rupees. Sound good?"
+46,Failed00,"オラを食べても
+歯が折れるだけだゴロ！","Eating me will do you no good! You will
+just break your teeth!"
+47,Failed01,"ゴロン族は皮膚が固いから
+何かと へっちゃらゴロ！","Us Gorons have pretty thick skin, so we
+can take a lot of punishment."
+48,GoodBye00,また どこかで会うゴロね！,Maybe we'll meet again down the road!
+49,Guardian00,"逃げるゴロよ！ 
+ガーディアンのビームは岩をも砕くゴロ！","A Guardian's beam can turn boulders
+into pebbles! I'm out of here!"
+50,MSG_Orud_00,"五合目にあるゴロンシティが オラの故郷…
+デスマウンテンで掘った石を売り歩いてるゴロ","My hometown of Goron City is the fifth
+stop up the trail. I'm just out here selling
+the ore I dug up from Death Mountain."
+51,MSG_Orud_00_1,"デスマウンテンで採れた鉱石は質が良くて
+ほんと惚れ惚れするゴロよ","The chunks of ore I dug up from Death
+Mountain are pretty high quality. Take a
+look and you'll dig 'em too!"
+52,MSG_Orud_01,"体が岩のようじゃないアンタに忠告だけど…
+ここからは耐火の準備が必須だゴロ！
+ヒケシトカゲと何だったかを混ぜてできる
+燃えず薬が おすすめゴロよ！","You do not look to be made of rock,
+so here's some advice: you'll need some
+fire protection if you go any farther.
+I recommend a fireproof elixir. You can
+make it by cooking a fireproof lizard
+with a... A, um...
+Huh, I forget what else."
+53,MSG_Orud_01_1,"ヒケシトカゲと何かを混ぜたらできる
+燃えず薬を塗れば この暑さに耐えられるゴロよ","A fireproof elixir will help a little Hylian
+like you stand up to this heat. Just cook
+a fireproof lizard with a... With a, um...
+Huh. I just can't remember."
+54,MSG_Orud_02,"オラ…ゴロン温泉の仕事がイヤで
+故郷のゴロンシティを飛び出してきたゴロよ
+寒い地域や緑の世界も見てみたいゴロね","I got plain sick and tired of working the
+Goron Hot Springs in Goron City, so I
+decided to just up and leave.
+I'm going to see the world! I want to see
+somewhere cold, I want to see green
+trees and hills!"
+55,MSG_Orud_02_1,"オラは つくづくゴロン温泉の管理人より
+世界を見て回れる行商が向いてると思うゴロ","I am more suited to the life of a traveling
+merchant for sure. The scenery is much
+nicer than the Goron Hot Springs."
+56,MSG_Orud_03,"ゴロンシティ名物 ゴロン温泉に行くなら
+道中の火山弾には要注意ゴロよ！
+今も降ってるかどうか故郷を離れたオラには
+わからないけどもゴロ…","If you're thinking of checking out Goron
+City's Goron Hot Springs, be careful of
+the magma bombs on the way.
+I've been away from home for a while, so
+I can't say whether or not they're falling
+right now, but be careful, little Hylian!"
+57,MSG_Orud_03_1,"ゴロンシティ名物ゴロン温泉に行くなら
+道中の火山弾には要注意ゴロよ！
+まぁ行商を始めてからは
+火山弾とは縁が無くなったゴロけどね","If you're heading to Goron City's famed
+Goron Hot Springs, watch out for
+magma bombs on the way.
+I haven't had to worry about them since
+leaving to travel the world, and I do NOT
+miss dodging those things."
+58,MSG_Orud_04,"山麓の馬宿は涼しいゴロね！
+ジリジリと ほんと涼しいゴロよ！
+あ！もしかして…
+ハイリア人には これでも熱いゴロか？","Foothill Stable is nice and cool! I have
+never felt anything like it! Ahh, the cool
+air really soothes the skin.
+Huh? You look a bit warm... Could it be
+that even this cool weather is too hot
+for a little Hylian like you?"
+59,MSG_Orud_04_1,"山麓の馬宿は涼しいゴロ～
+まぁゴロンシティが熱すぎるだけゴロだけどね","Ah, Foothill Stable sure is nice and cool.
+Or maybe...Goron City is just really hot."
+60,Near00,ゴンロゴロー！,Let's find some ore to sell.
+61,Near01,ゴロゴーロ！,I could go for a good ore.
+62,Near02,ゴーロゴロ！,What great scenery.
+63,Near03,ゴンロゴンロ！,I'm digging this greenery.
+64,Near04,濡れちゃうゴロ！,I'm getting soaked!
+65,Rest_00,"ゴロンシティって知ってるゴロか？
+ゴロン族が住む オラの故郷だゴロ！","Does a little Hylian like you know about
+Goron City? As you might have guessed,
+it's where the Gorons live!"
+66,Rest_01,"ゴロン族の身体は岩みたいに頑丈ゴロよ！
+熱に強く ハサミに強く紙に弱い… 
+ジャンケンと混ざったゴロよ…","Goron bodies are as tough as rocks.
+Impervious to heat, strong against
+scissors, and weak to paper.
+No, wait... That is... Yes.
+I definitely confused Gorons with
+rock-paper-scissors."
+67,RetMSG_Orud_00,"熱波うずまき岩は転がり魔物がうろつき
+怖いから…
+という理由で五合目にあるゴロンシティを
+飛び出してきたわけじゃないゴロよ
+オラ行商人として故郷を旅立ったゴロね","Goron City is the fifth stop on this road.
+Look out for the swirling waves of heat,
+rock slides, and lurking monsters.
+I make it sound like a lot of fun, but it's
+actually pretty dangerous. But those
+aren't the reasons I left in such a hurry.
+I left home to start my new life as a
+traveling salesrock. I'm gonna see the
+world and sell ore to everyone I meet!"
+68,RetMSG_Orud_00_1,"ゴロンシティなら五合目ゴロ
+岩もいっぱいだけど鉱石もいっぱいゴロ","Goron City is the fifth stop on this road.
+It can be a pretty dangerous place, but
+there's a lot of ore to be mined."
+69,RetMSG_Orud_01,"ゴロンシティのユン坊は元気ゴロかな…
+あいつは優しくて いい遊び仲間だったゴロよ","I wonder how my old buddy Yunobo back
+in Goron City is doing.
+
+Nice guy, that Yunobo. Always a pleasure
+to chomp the ore with."
+70,RetMSG_Orud_01_1,"ゴロンシティのユン坊は元気ゴロかな…
+
+あぁ…また独り言 つぶやいちゃったゴロ","I wonder if my old buddy Yunobo back in Goron
+City is doing well.
+Oops. Ya caught me talking to myself."
+71,RetMSG_Orud_02,"火山弾がボンボン降るのは自然なことなのか…
+オラには よくわからないゴロよ","Is it normal for magma bombs to not rain
+down nonstop? I just don't understand
+the weather around here."
+72,RetMSG_Orud_02_1,"火山弾はオラ達でも当たると痛いゴロ
+デスマウンテンを登るなら気を付けるゴロ","Getting hit by a magma bomb even hurts
+us Gorons!
+
+If you're thinking about going for a climb
+on Death Mountain, you had better
+be careful."
+73,RetMSG_Orud_03,"火山道は熱くて ゴロン族以外には危険ゴロよ
+ゴロンシティに行くなら耐火の準備ゴロよ
+以上忠告せずにはおられないゴロ…","The road up the volcano is so hot, it's
+dangerous for non-Gorons to travel.
+
+If your heart is really set on a trip to
+Goron City, be sure to bring some fire
+protection. Don't say I didn't warn ya!"
+74,RetMSG_Orud_03_1,"山道は熱くて危険ゴロ
+ゴロンシティに行くなら耐火の準備するゴロよ","The mountain road is pretty dangerous
+because of how hot it gets.
+
+If you're taking a trip to Goron City, be
+sure to bring some fire protection."
+75,RetMSG_Orud_04,"ゴロン族は鉱石を掘って生活しているゴロ…
+売ったり食べたり人それぞれゴロよ","Us Gorons make a living by mining ore.
+We eat the rocks we dig up as we mine,
+so we get to snack all day!"
+76,RetMSG_Orud_04_1,"石と共に生きるのが ゴロン族ゴロ
+オラは鉱石を売る係ゴロ","It's a Goron's nature to live in harmony
+with rocks. I make a living selling the ore
+I dig up, and I eat the tastier stones!"
+77,SavedLv1_00,魔物は怖いゴロ！,Those monsters are pretty scary.
+78,SavedLv1_01,オラたちは魔物じゃないゴロよ！,We are not the monsters here!
+79,SavedLv2_00,なんとか命拾いしたゴロ！,That was a close one!
+80,SavedLv2_01,助かって良かったゴロ！,Phew. I'm saved!
+81,SavedLv3_00,何とか生き延びたゴロ！,Looks like I'll live to sell another day!
+82,SavedLv3_01,今のうちに この場を去るゴロ！,"We had better make a break for it while
+we can."
+83,Talk01,"あ…商売しなきゃ…
+オラの売り物見てってゴロ！","All right, let's get down to brass tacks.
+Feel free to browse my wares!"
+84,Talk02,何でも おまかせゴロ！,"Thanks, brother! Need anything else?"
+85,Thanks00,はいこれ お礼ゴロ！,"I survived? All right! Here, take this as
+a thank you, brother."

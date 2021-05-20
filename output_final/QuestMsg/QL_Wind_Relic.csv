@@ -1,0 +1,149 @@
+#,Title,JPja,USen
+1,QL_Wind_Relic_Battle,"神獣 ヴァ・メドーとの戦闘が始まった！
+
+パラセールを操りながら
+バクダン矢で全ての砲台を壊そう
+
+近付きすぎて神獣 ヴァ・メドーのバリアに
+触らないように注意！","The battle with Divine Beast Vah Medoh
+has begun!
+
+Use the paraglider to launch into the air for a
+good vantage point, and then take out all
+thecannonswith your bomb arrows.
+
+But be careful—if you get too close, you'll run
+into the Divine Beast's barrier!"
+2,QL_Wind_Relic_BattleEscape,,
+3,QL_Wind_Relic_BattleFinished,"神獣 ヴァ・メドーの砲台を壊し背中に上陸したが
+テバは怪我のため地上に戻ってしまった
+
+後は神獣 ヴァ・メドーの中に入り
+動きを完全に止めなければならない","You destroyed all of Divine Beast Vah Medoh's
+cannons and landed on its back, but Teba
+suffered injuries and had to retreat.
+
+You must finish what you both started. Enter
+Divine Beast Vah Medoh on your own to stop
+it once and for all!"
+4,QL_Wind_Relic_BattlePlaying,"神獣 ヴァ・メドーの砲台を壊し背中に上陸したが
+テバは怪我のため地上に戻ってしまった
+
+後は神獣 ヴァ・メドーの中に入り
+動きを完全に止めなければならない","You destroyed all of Divine Beast Vah Medoh's
+cannons and landed on its back, but Teba
+suffered injuries and had to retreat.
+
+You must finish what you both started. Enter
+Divine Beast Vah Medoh on your own to stop
+it once and for all!"
+5,QL_Wind_Relic_BattleSucceeded,,
+6,QL_Wind_Relic_Desc,"リトの村の族長カーンから
+村の戦士テバを手助けして欲しい
+と言う依頼を受けた
+果たして テバはどこに居るのだろうか？
+テバの妻であるサキなら
+行先を知っているかも知れない
+他のリトの村の住民にも話を聞いて
+情報を集めよう","Kaneli, elder of Rito Village, wants you to help
+a local soldier named Teba. You offered your
+assistance, but first you must find the soldier.
+
+Teba's wifeSaki may know where he is. Ask
+around Rito Village to gather more information."
+7,QL_Wind_Relic_Dungeon,"神獣 ヴァ・メドーの奥に巣食う
+風のカースガノンを倒した！
+
+そして神獣 ヴァ・メドーは
+リトの村の頂上に鎮座した
+
+テバもリトの村に戻ったようだ
+事の顛末をカーンに報告しよう！","You defeated Windblight Ganon, which had
+infested the insides of Divine Beast Vah Medoh.
+
+The Divine Beast has been enshrined at the
+highest point of Rito Village, and moreover,
+it looks like Teba was able to safely return
+to Rito Village.
+
+Go report toKaneli."
+8,QL_Wind_Relic_Finish,"神獣 ヴァ・メドーが正気を取り戻したことを
+カーンに報告した！
+
+リーバルから英傑の力を譲り受け
+リーバルの猛りが使えるようになった","You reported to Kaneli that Divine Beast Vah
+Medoh has regained its senses.
+
+Your efforts have earned you the power of the
+Champion Revali, Revali's Gale."
+9,QL_Wind_Relic_Name,風の神獣 ヴァ・メドー,Divine Beast Vah Medoh
+10,QL_Wind_Relic_Parashawl,"テバから神獣 ヴァ・メドーに挑むためには
+飛行訓練場の的くらいは壊せないと
+話にならないと言われた
+上昇気流の中でパラセールを開くと
+大きく浮上する事ができるという
+パラセールを上手く操って
+時間内に矢で的を5個壊し
+テバに腕前を認めてもらわなければならない","Teba won't let you anywhere near
+Divine Beast Vah Medoh unless you can at
+least hit the targets at the Flight Range.
+
+If you catch an updraft with your paraglider, it'll
+carry you high into the sky. Use this technique
+to destroyfive targetswith arrows within the time
+limit to prove yourself to Teba."
+11,QL_Wind_Relic_ParashawlFailed,,
+12,QL_Wind_Relic_ParashawlFinished,"飛行訓練場の的を壊すことに成功した！
+
+神獣 ヴァ・メドー戦では
+テバが攻撃を引き付けてくれるので
+その間に砲台を壊して欲しいとのこと
+
+テバに話すと神獣 ヴァ・メドーの居る上空まで
+連れて行ってくれるようだ","You proved your mettle by hitting the targets at
+the Flight Range.
+
+When it comes time to battle Divine Beast Vah
+Medoh, Teba will draw the focus of its attacks
+so you can focus on destroying its cannons.
+
+Teba will carry you into the sky where
+Divine Beast Vah Medoh awaits."
+13,QL_Wind_Relic_ParashawlPlaying,"飛行訓練場の的を壊すことに成功した！
+
+神獣 ヴァ・メドー戦では
+テバが攻撃を引き付けてくれるので
+その間に砲台を壊して欲しいとのこと
+
+テバに話すと神獣 ヴァ・メドーの居る上空まで
+連れて行ってくれるようだ","You proved your mettle by hitting the targets at
+the Flight Range.
+
+When it comes time to battle Divine Beast Vah
+Medoh, Teba will draw the focus of its attacks
+so you can focus on destroying its cannons.
+
+Teba will carry you into the sky where
+Divine Beast Vah Medoh awaits."
+14,QL_Wind_Relic_ParashawlSucceeded,,
+15,QL_Wind_Relic_Saki,"サキから テバの行先を聞いた！
+
+どうやらテバは
+飛行訓練場に歩いて向かったらしい
+
+飛行訓練場の場所を探し
+テバを追いかけよう","You found Saki and asked where Teba went.
+It sounds like he headed for the Flight Range.
+
+Search theFlight Rangefor Teba."
+16,QL_Wind_Relic_Step1,"飛行訓練場でテバと出会った！
+
+どうやらテバは神獣 ヴァ・メドーを鎮めるまでは
+村に帰る気はないらしい
+
+神獣 ヴァ・メドーに挑むテバを手助けしよう","You found Teba at the Flight Range, but he has
+no intention of returning to the village before
+Divine Beast Vah Medoh has been appeased.
+
+He intends to appease the Divine Beast
+himself. You had better help him out."

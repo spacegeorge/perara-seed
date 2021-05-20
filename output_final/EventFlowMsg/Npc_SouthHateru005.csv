@@ -1,0 +1,138 @@
+#,Title,JPja,USen
+1,"""0000""",捕まえ方,Catching a horse...
+2,"""0001""",いい馬は？,Good horses?
+3,"""0002""",なつかせ方,How do I train one?
+4,"""0003""",けっこうです,"No, I'm fine."
+5,Near_01,スピー…,Phwee...
+6,Near_02,ヒヒ～ン…だよ,Nay...
+7,talk00,"ねえ シーバ…
+
+そこに立ってるお兄ちゃん
+馬に興味があるのかな？","Hey, Shibo... You think this nosy guy right here
+is interested in horses?"
+8,talk05,"そうだね ダート…
+
+馬に乗りたくてしかたないって目をしてるよね","Looks like it to me, Darton... Judging from his eyes,
+he's just itching to get into the saddle."
+9,talk06,"野生のお馬さんは臆病だから
+人間に気付くと すぐに逃げちゃうんだ！
+後ろから そぉ～っと近づいて
+近くまで行ったら…
+ひょいって飛び乗るんだよ！","Wild horses get scared easily, and if they
+notice people near them, they'll take off.
+
+Just sneak up on 'em from behind real
+slow. When you get good and close...
+
+grab 'em and jump on quick!"
+10,talk07,"ブチがあるお馬さんはブチ種っていって
+おとなしくて人になつきやすいんだ
+逆に黒や白とか一色のお馬は単色種っていって
+気性が荒くて手なずけにくいんだよ","Horses with spots on them are even-
+tempered and easy to train.
+
+On the other hand, horses that are all
+one color, like straight black or white,
+are a bit more wild and harder to train."
+11,talk08,"野生だから なついてない間は
+変な方向にいったり時には暴れたりするんだ
+そんなときは なだめてあげるといいんだって","They're really wild, so they'll run in
+different directions and buck here and
+there because they aren't trained yet.
+When that happens, you've gotta soothe
+them!"
+12,talk09,お兄ちゃん わかった？,"Hey, mister! Ya get all that?"
+13,talk10,"父ちゃんにいっぱい教えてもらったんだ！
+お馬さんの事なら任せてよ！","Dad taught us a lot.
+Just leave the horsin' around to us!"
+14,talk11,"もう馬が気になりすぎて
+馬以外のことは どうでもよくなりかけてる目だよね","You're right. He's got eyes that just say, like...
+\""Nothing in this world matters to me
+except horses.\"""
+15,talk12,"馬をヒヒーンと乗りこなすための
+ヒヒーントがいっぱい！
+…あ今のはぼくじゃなくて
+父ちゃんが考えたダジャレだからね！","Do you want to hear some tips to help
+you master your horse? Yay or neigh?
+
+I didn't think of that joke, by the way. That's one
+of my dad's jokes!"
+16,talk13,…ってことは？,That means...
+17,talk14,…ってことは？,THAT MEANS...
+18,talk15,ぼくらの出番ってこと！,"That means we've got ourselves
+a customer!"
+19,talk16,"ヒヒーン！
+ようこそ双子馬宿へ！
+正確には…
+ようこそ双子馬宿の馬小屋前へ！","Howdy, mister man! Welcome to
+Dueling Peaks Stables!
+
+Or...welcome to the front of
+Dueling Peaks Stables, I guess."
+20,talk17,"目を見ればわかるんだ！
+
+お兄ちゃん
+馬のことで頭がいっぱいだよね？","You really can tell just by looking into
+his eyes!
+
+Bro, his head is just filled with horse
+stuff, right?"
+21,talk18,"そう！目を見ればわかるんだ！
+
+お兄ちゃんの今の頭の中って
+馬馬馬馬飯馬馬…だよね？","That's right! Just look at his eyes!
+Right now in his head, it's all horses,
+horses, horses, food, and horses...right?"
+22,talk19,"だったら ぼくらがお役に立てるよ！
+馬のことならぼくらに聞いて！","In that case, you should feel free to ask
+us anything at all about horses!"
+23,talk20,"しゃがんでそぉ～っと近づけば…
+
+気づかれにくいんだ！","If you crouch and sneak up quietly...
+
+
+they won't notice you!"
+24,talk21,"でも単色種って スタミナが多くて
+走るのも速いんでしょ？","But a one-color horse has more
+stamina and runs faster, right?"
+25,talk22,"最初は大変だって父ちゃん言ってたけど
+単色種は慣れるとすごく重宝するんだって","Dad said they're hard to handle at first,
+but if you spend a lot of time with a
+one-color horse, you'll be best buds!"
+26,talk23,"父ちゃんは初心者なら
+まずはブチ種にしとけって言ってたけど 
+オレは大きくなったらまず単色種に乗るんだ！","Dad also said that beginners should start
+with spotted horses... When I grow up,
+I'll ride a one-color horse, though!"
+27,talk24,"でも やみくもに なだめても
+ダメって父ちゃん言ってたよ","But dad also said that just constantly
+soothing them won't do at all."
+28,talk25,"ちゃんと いう事を聞いたときに
+なだめてあげるんだよ
+お馬さんに乗る時とか…降りる前とか…
+「ありがとう」の代わりにするんだよ！","The trick is to soothe them when they do
+what you want them to do.
+
+It's like saying \""thanks\"" to them for a job
+well done!"
+29,talk26,"じゃあね バイバイ！
+またね ヒヒーン！","See ya! Bye-bye!
+Take care, now!"
+30,talk27,あっ双子じゃないお兄ちゃんだよ シーバ！,"Look, Shibo, it's the twinless dude!"
+31,talk28,あっ双子じゃないお兄ちゃんだね！ ダート！,"Look, Darton, it's the—
+Oh, you already said that."
+32,talk29,"父ちゃんにいっぱい教えてもらったんだ！
+お馬さんの事ならオレ達に任せてよ！","Dad taught us a lot! If you wanna know
+about horses, just ask us!"
+33,talk30,ねむくなっちゃった…,So sleepy...
+34,talk31,"ブチ種さんが1匹…
+ブチ種さんが2匹…","One spotted horse...
+Two spotted horses..."
+35,talk33,"今日はダートより早く
+お馬さんの所に行くんだ！","Today I'm gonna beat Darton
+to the place where the horses are!"
+36,talk34,"父ちゃんはお馬さんのチャンピオンの
+次のチャンピオンなんだ！","My dad was the second-best horse
+guy, you know!"
+37,talk35,やった！今日はダートより早く着いたぞ！,All right! I got here before Darton!
+38,talk36,すごいだろー！,"Pretty impressive, right!"

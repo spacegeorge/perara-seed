@@ -1,0 +1,103 @@
+#,Title,JPja,USen
+1,"""0000""",聞くだけなら…,What do you need?
+2,"""0001""",お断りします,Not today.
+3,"""0002""",オッケー,OK!
+4,"""0003""",先を急ぐので…,I should be going.
+5,"""0004""",やだ,No way.
+6,"""0007""",すぐに行きます,Yes.
+7,"""0008""",コツを教えて,Is there a trick to this?
+8,"""0009""",やめる,I'm out.
+9,"""0010""",やっぱやめる,"Actually, no."
+10,near00,よっ… と,Here we go...
+11,talk00,"それと同じ色の炎を プルア婆さんが
+よく運んでいたけど…まさか？","Old lady Purah used to carry a flame
+of that color... You think? Nah..."
+12,talk01,"その炎…""上のプルア婆さんに
+返したほうがよくないか？","Shouldn't you deliver that flame to old
+lady Purah up in her lab?"
+13,talk02,"それと同じ色の炎を所長さんが
+よく運んでいたけど…まさか？","The director used to carry a flame
+of that color... You think? Nah..."
+14,talk03,"その炎…""上の所長さんに
+返したほうがよくないか？","Shouldn't you deliver that flame to the
+director up in the lab?"
+15,talk04,"なんでボーイが運んでるのか知らんけど…
+早いとこ上まで持ってってやんなよ","I don't know what a stranger like you
+is doing with it, but you'd better hurry
+along now."
+16,talk05,よう早いな！,Ho there! You're up early!
+17,talk06,やぁこんにちは,"Oh! Good day, stranger!"
+18,talk07,ようこんばんは！,"'Lo there! Nice evening, isn't it?"
+19,talk08,よぅ！,Hey! Come to visit?
+20,talk10,頼もしいな！期待してるよ！,What a trooper! I'm counting on you!
+21,talk11,"ん？旅の人かい？
+
+ふむふむ なるほど… ほほー","Hrm? Are you some kinda wanderer?Hrm, interesting... This could work out..."
+22,talk12,"強い弓を使って一発で仕留めるのが
+コツといえるかもな
+あとはそう…シカに気づかれにくいように
+近づくことも大事だぞ","A trick? Well, I guess it helps to have
+a strong bow to take 'em down with
+one shot.
+And of course, you want to get close
+enough to the deer to line up your shot
+without them noticing you."
+23,talk13,"よっし！ありがとう！
+
+お願いってのは他でもない
+奥のエキスパの森でシカを狩ってほしいんだ
+そこの野生のシカが増え過ぎちゃって
+森を荒らされて困ってるんだよ
+だから なるべく多くのシカを速やかに…
+そう…1分以内に狩ってほしいんだ","Woo-hoo! I had a lucky feeling you were
+the answer to my prayers!So what I need is for you to hunt some
+deer out in Retsam Forest.They're overpopulated these days, and
+it's destroying the forest.That's why I was hoping you could hunt
+all the deer you can...in one minute."
+24,talk14,シカ狩りを手伝ってくれるのかい？,Will you hunt some deer for me?
+25,talk15,"ありがとう！
+すぐに行ってくれるかい？",Thank you! Can...can you go right away?
+26,talk16,"なんだか腕が立ちそうなボーイだな
+ひとつ頼まれてくれないか？","You look handy with a bow. Mind helping
+a poor farmer out?"
+27,talk17,"そっか…
+気が変わったら また頼むよ","Oh. Well, shucks. Let me know if you
+ever change your mind."
+28,talk18,"じゃシカ狩りのほう始めてもらおうかな
+1分経ったら呼ぶからね","About that deer hunting... No time like
+the present, right? Go get started, and
+I'll call you once your minute is up, OK?"
+29,talk19,どうだ？できそうかい？,So? You think you can do it?
+30,talk22,時間だ！戻ってくれ！,"That's time! Come back, wanderer!"
+31,talk23,"あれ？！
+一匹も狩れてないじゃないか？
+すまんがこれでは お駄賃はなしかな","Huh? You didn't even get ONE? Sorry,
+but no results, no reward."
+32,talk24,"とはいえ あの森のシカ…
+また増えると困るし…
+というわけで もう一度 お願いできないかな？","The thing with these deer, though...
+We really have to get their numbers
+under control.Hey, wanderer, can I ask you to
+go again?"
+33,talk25,"狩れたのは""匹か…
+ありがとう","You got  deer...
+Thanks for doing your part!"
+34,talk26,"全部で匹とは
+ボーイ…なかなかやるじゃないか","You got  deer!
+You're downright vicious with that bow,
+wanderer!"
+35,talk27,"匹も狩れたのか！
+
+やってくれるボーイだとは思ったけど
+正直ここまでとは！","You got  deer?!
+I knew you were a go-getter, but this is
+more than I ever dreamed of!"
+36,talk28,"匹も狩ったんだね！
+
+キミ すごいよ！
+ここいらで最高の シカ狩りボーイだよ！","You got  deer?!Easy there, wanderer. I didn't think I'd
+be saying this, but there's such a thing
+as being TOO good a hunter."
+37,talk29,ホイお駄賃だ…,Here's a reward for you...
+38,talk30,お駄賃奮発しとくからな！,I won't skimp on it this time!
+39,talk31,深追いは危険だ！ いったん戻ってくれ！,You've gone too far! Come back!

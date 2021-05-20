@@ -1,0 +1,151 @@
+#,Title,JPja,USen
+1,"""0000""",売りたい,I want to sell.
+2,"""0001""",何があるの？,What do you sell?
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,OK.
+5,"""5501""",いいえ,Never mind.
+6,"""5502""",買う,Buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Com_Talk_00,何を売りマスか？,What do you want to sell?
+11,Com_Talk_01,"デスね？
+ルピーになりマスけど？",Does  rupees sound OK?
+12,Com_Talk_02,"ありがとうござイマす！
+他にも何か売りマスか？","Thank you very much!
+Would you like to sell anything else?"
+13,Com_Talk_02b,もっと売ってくれマスか？,Will you sell me more things?
+14,Com_Talk_02c,勇者サマのもの いっぱい欲しイデす！,I want more of Mr. Hero's things!
+15,Com_Talk_02d,"勇者サマのもの買い取れて
+うれしイデす！","I'm so happy I can buy things from 
+Mr. Hero!"
+16,Com_Talk_04,"売らないのデスね
+わかりマシた","Oh, you changed your mind? OK."
+17,Com_Talk_05,何でも買い取りマスよ,"If you're selling, I'm buying."
+18,Com_Talk_05b,森の外のもの ありマスか？,"Do you have things from outside the 
+forest?"
+19,Com_Talk_05c,どれ売ってくれるんデスか？,What will you sell me?
+20,Com_Talk_05d,"ふんふん…これが勇者サマの
+ポーチの中デスね！","Aha! So this is the inside of 
+Mr. Hero's stash!"
+21,Com_Talk_13,"デスね？
+いくつ売ってくれマスか？",How many would you like to sell?
+22,Com_Talk_14,"だと個で
+合計ルピーになりマスけど？","If you want to sell ...
+How does  rupees sound?"
+23,Com_Talk_15,それはちょっとうちでは扱ってないんデス,"Oh, I can't do anything with that at this
+shop."
+24,Com_Talk_16,服は一度脱いでから売ってくれマスか？,"I'll need you to take that off before
+selling it to me."
+25,Com_Talk_33,"なら
+ルピーになりマスけど？",I can give you  rupees.
+26,Com_Talk_34,"を ぜーんぶデスか？
+個でルピーになりマス！","OK. I've got  of them, so that'll be
+ rupees, please!"
+27,Com_Talk_35,"を個 ぜーんぶ？
+合計ルピーで買い取りマスよ！","You want to sell all of them?
+I'll buy  of them off you for
+ rupees."
+28,Com_Talk_50,"デスね？
+ルピーになりマスけど？",That'll be  rupees.
+29,Com_Talk_51,"デスね？
+いくつにシマす？",How many were you thinking?
+30,Com_Talk_52,"が個だと
+合計ルピーになりマスけど？","So ?
+That'll be  rupees."
+31,Com_Talk_53,"アレやめるのデスね？
+わかりマシた","Oh? You changed your mind?
+OK."
+32,Com_Talk_54,ルピーが足りないみたいデスね…,"It looks like you don't have enough
+rupees..."
+33,Com_Talk_55,"荷物がいっぱいで持てないデスよ
+無理しないでくだサイね","You're already carrying too much stuff.
+Don't hurt yourself!"
+34,Com_Talk_56,"なら
+ルピーになりマスけど？",That'll be  rupees.
+35,Npc_kokiri003_Near000,役に立ちマスよ！,Useful items here!
+36,Npc_kokiri003_Near020,からっぽデスね…,My shop is empty...
+37,Npc_kokiri003_Sell000,"勇者サマが来ると聞きマシて
+いろいろ屋さん""はじめマシた！
+何か売ってくれるなら買いマスよ？","I heard you'd be coming, Mr. Hero.
+That's why I opened the
+General Shoppe!
+You're my only customer, so if you want
+to buy or sell something, just let me
+know!"
+38,Npc_kokiri003_Sell010,ありがとうござイマす！,Thank you!
+39,Npc_kokiri003_Sell010b,がんばって集めてきて よかっタデす！,"I'm so glad I prepared a variety of
+items!"
+40,Npc_kokiri003_Sell010c,どモデす！,Thanks!
+41,Npc_kokiri003_Sell010d,勇者サマのお役に立てマシた！,"I was able to help Mr. Hero!
+Yesssssssss!"
+42,Npc_kokiri003_Sell020,"ワーイ！
+買ってくれて ありがとうござイマす！
+勇者サマが来ると聞きマシて
+いろいろ屋さん""はじめマシた！
+何か売ってくれるなら買いマスよ？","Yaaaay! Thanks for letting me help
+you save Hyrule!
+
+I heard you'd be coming, Mr. Hero.
+That's why I opened the
+General Shoppe!
+You're my only customer, so if you want
+to buy or sell something, just let me
+know!"
+43,Npc_kokiri003_Sell030,"お買い物してくれて
+ありがとうござイマす勇者サマ！
+また いろいろ集めておきマスね","Thanks for letting me help you save
+Hyrule, Mr. Hero!
+
+I'll make sure to prepare a variety of
+items again for next time."
+44,Npc_kokiri003_Talk000,"これはこれは勇者サマ
+ようこそいろいろ屋さんへ！
+森で採れるもの採れないもの
+いろいろ売りマスよ
+欲しいものを選んでくだサイね！
+それとも何か売ってくれマスか？","Well, look who we have here! Hello,
+Mr. Hero, and welcome to the
+General Shoppe!
+I sell a lot of stuff here—things that I
+gather in the forest...things
+that I don't gather in the forest.
+Please choose anything you want!
+Or...have you come to sell?"
+45,Npc_kokiri003_Talk010,"ようこそいろいろ屋さんへ！
+欲しいものを選んでくだサイね！
+それとも何か売りマスか？","Welcome to the General Shoppe!
+Please browse to your heart's desire.
+
+Or... Would you rather sell something?"
+46,Npc_kokiri003_Talk020,"こんばんは勇者サマ
+何か売りマスか？","Good evening, Mr. Hero.
+Would you like to sell something?"
+47,Npc_kokiri003_Talk030,"ごめんナサい…全部売り切れマシた…
+何か売ってくれるなら買いマスよ？","I'm sorry... We're completely sold out at
+the moment. But if you want to sell
+something, I'm all ears!"
+48,Npc_kokiri003_Talk040,"いらないものが ありまシタら
+持ってきてくだサイね
+森の外のもの見たことないもの
+見てみたいノデす","If there's anything you don't need,
+please let me see it.
+
+I love seeing things from outside the
+forest."
+49,Npc_kokiri003_Talk050,"勇者サマ！夜の森歩きは気を付けてくだサイね
+手ごわいマモノ出てきやすいのデスよ","Mr. Hero! Please be careful walking
+through the forest at night. Night tends
+to bring out the nastier monsters."
+50,Npc_kokiri003_Talk060,"ありがとうござイマす
+また いろいろ集めておきマスね","Thank you kindly.
+I'll need to restock my wares."
+51,Npc_kokiri003_Talk070,"勇者サマに役立ちそうな
+矢と食べもの集めておきマシた！
+電気の矢は雨の日に使うと いっぱい
+ビリッビリしちゃうから おすすメデす！","I've prepared some arrows and food that
+I thought may prove useful to you,
+Mr. Hero!
+If you use a shock arrow when it's
+raining, it does extra damage.
+I highly recommend it."

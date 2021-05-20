@@ -1,0 +1,120 @@
+#,Title,JPja,USen
+1,"""0000""",何してるの？,What are you doing?
+2,"""0001""",あなたは？,Who are you?
+3,"""0002""",さようなら,Bye.
+4,"""0003""",なんで？,Why?
+5,"""0004""",ココ買います！,I'll buy this place!
+6,"""0005""",大変ですね,That sounds tough.
+7,"""0006""",どうして？,Why?
+8,"""0007""",どこに？,Why?
+9,"""0008""",なるほど,Oh.
+10,"""0009""",はい,Yes.
+11,"""0010""",それほどでも,Uh...come again?
+12,"""0011""",そうなんですね,Good.
+13,"""0012""",はい！,Yeah.
+14,"""0013""",はい？,What?
+15,"""0014""",転勤…,Transferred...
+16,"""0015""",すごいですね！,That's great!
+17,"""0016""",どこに行くの？,Where will you go?
+18,"""0017""",遠いですね,That's pretty far.
+19,"""0018""",頑張ってね！,Good luck!
+20,"""0019""",ですよね,Right.
+21,"""0021""",リンクです,I'm Link.
+22,"""0022""",ダ？,Son?
+23,"""0023""",残念です,That's too bad.
+24,near00,よっ！,Yo!
+25,near01,ほっ！,Ho!
+26,near02,ふんっ！,Hmph!
+27,near03,やっ！,Yah!
+28,near04,ふぅ…,Hahhhh...
+29,talk00,やぁ,Hey.
+30,talk01,うん？,Yeah?
+31,talk02,ふぅ,Hahhh...
+32,talk03,…ふぅ,...Hahhh...
+33,talk04,青い炎か…,"The blue flame, huh?"
+34,talk06,では,Farewell then.
+35,talk07,ほぅ,Oh.
+36,talk08,どうも,Hello.
+37,talk09,"移動中だ""落ち着いたら話そう","I'm in the middle of moving here. 
+Come talk when the work dies down."
+38,talk10,サクラダ工務店の大工 エノキダだ,"I'm a carpenter for Bolson Construction.
+Name's Hudson."
+39,talk11,ここを壊している,I'm knocking this place down.
+40,talk12,そうだ大変だ,That's right. It's tough.
+41,talk13,誰も住んでないからだ,'Cause no one's living here.
+42,talk14,知らん社長に聞け,Can't help you. Ask the boss.
+43,talk15,家主が引っ越したんだろう,The owner of this house took off.
+44,talk16,"知らん""夜逃げか？","Don't know. Maybe skipped town without
+paying the bills?"
+45,talk17,納得したか？,Answered all your questions?
+46,talk18,この100年で いろいろあったからな,"Good. A lot has happened since the
+Great Calamity. Tough to keep track of
+it all."
+47,talk19,"うむ…""俺達は あの大厄災から
+やっと立ち直りつつあるところだ","For the first time since then, we're finally
+getting back on our feet."
+48,talk20,お前も頑張れよ,So best of luck to both of us.
+49,talk21,うむ,Yeah.
+50,talk22,休憩だ,Taking a break.
+51,talk23,"ところで…
+あの家 お前が買ったのか？",By the way... Did you buy that house?
+52,talk24,若いのに やるじゃないか,Impressive. You're just a pup.
+53,talk25,さて… と,Don't worry about it. Anyway...
+54,talk26,俺はそろそろ ここを発とうと思う,"Looks like I've gotta head out and leave
+this place soon."
+55,talk27,転勤だ,I've been transferred.
+56,talk28,"聞いてるかも知れないが
+この度 サクラダ工務店が事業拡大するんでな","Mighta heard, but Bolson Construction
+is planning to expand big-time."
+57,talk29,それほどでも,"Yeah, big expansion."
+58,talk30,"ここから北のゾーラの里の更に北…
+アッカレ地方だ","Zora's Domain is north of here.
+We're going north of that, though.
+An area called the Akkala region."
+59,talk31,まぁ… な,Yeah...well.
+60,talk32,おぅ,OK then.
+61,talk34,ところで,By the way...
+62,talk35,あの家買うのか？,Are you gonna buy that house?
+63,talk36,なかなかの漢気,"You're pretty studly, aren't you?"
+64,talk37,"我が社に欲しいくらいだが…
+名前は？","You'd be a great hire for our company...
+What's your name?"
+65,talk38,そうか…なら入社は無理だ,"Oh... Well, too bad. Can't hire you."
+66,talk39,名前の最後が「ダ」じゃないからだ,"'Cause your name doesn't end in \""son.\"""
+67,talk40,"名前の最後が「ダ」である事が入社の条件だ
+社長のサクラダが そう決めている","The boss, Bolson, has a strict hiring
+rule: need a name ending in \""son.\""
+No exceptions."
+68,talk41,"社是 と言うヤツだ
+
+さて…
+
+金を稼ぐんだろ？
+早く行ったほうがいいんじゃないか？","\""Builds team unity,\"" he says.
+
+
+Anyway...
+
+
+You got some stuff to do, right?
+Should get going, then."
+69,talk42,"さて…名残惜しいが そろそろ行くとするか…
+
+お前もよかったらアッカレ地方まで
+遊びに来てくれ
+じゃ…達者でな","Well... No time like the present, right?
+I should be getting on my way...
+
+If you'd like, you should come to the
+Akkala region and say hello.
+
+Well... Take care of yourself."
+70,talk43,いつもの場所に行く,I'm off to my usual night spot.
+71,talk44,見張りだ,I'm on lookout.
+72,talk45,"久しぶりに見たな…
+所長さんは お元気だろうか？","How goes it? How's the boss?
+Doing well, I hope?"
+73,talk46,"それはハテノ古代研究所のものだ
+早く持って行け","Pretty sure that belongs to the
+Hateno Ancient Tech Lab.
+Better hurry up and take it back there."

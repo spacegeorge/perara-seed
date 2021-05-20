@@ -1,0 +1,203 @@
+#,Title,JPja,USen
+1,"""0000""",武器ポーチ,Weapon stash.
+2,"""0001""",弓ポーチ,Bow stash.
+3,"""0002""",盾ポーチ,Shield stash.
+4,"""0003""",結構です,On second thought...
+5,"""0004""",お願いします,"Yes, please!"
+6,"""0005""",やっぱやめる,No thanks.
+7,"""0010""",見える,I can see you.
+8,"""0011""",見えない,I can't see you.
+9,Near01,キュゥン…,Shalaka...
+10,Near02,マラカス…,Maracas...
+11,Near03,コログのミ…,Korok seed...
+12,Near04,キュンキュン,Sha-shaka...
+13,Talk01,"キュルン？！
+
+キミちん！ボクちんが見えるのォ？！","Shalaka?!
+
+
+You! You can see me?!"
+14,Talk01_01,"ボクちんの大事なマラカスが
+あそこのマモノたちに隠されちゃってェ～","Those monsters over there stole my
+beloved maracas!"
+15,Talk01_02,"あれが無いと力が使えないんだ～
+
+だから お願い！ボクちんのマラカス
+ヤツらから取り返して ちょ～ら～い？","I can't use my powers without them.
+Shoko...
+
+So please! PLEASE get my maracas back
+from them!"
+16,Talk01_03,"岩の向こうにいるはずのォ…
+アイツらなんだけど…","I think they're still there on the other
+side of those rocks."
+17,Talk02,"どうどう？
+ボクちんのマラカス""取り返せそう？
+どこかに捨てられてなきゃ いいんだけど…","Soooooooo... Did you get my maracas
+back yet?
+
+They better not be shaking them."
+18,Talk03,"キュルン！それはっ！
+
+ボクちんのマラカス～♪
+ちょ～らいのら～い♪","SHALA-KALA!
+Those are...
+
+Those are my maracas!
+Please giiiiiive them to meeeeeeeee!"
+19,Talk04,"うれしい～♪キュルン♪
+
+あ でもね聞いて？
+ボクちんのマラカス…
+中に入ってたコログのミが無くなってて
+いつもの音が出ないのぉ…""キュウン…
+コログのミが1つでもあれば""歌って踊って
+いつもの力でお礼ができると思うんだぁ～","♪SHAAAAAA-LAAAAAH-KAAAAAAH!♪
+
+
+But wait! There's something wrong with
+my maracas!
+
+The Korok seeds inside are gone!
+How am I supposed to dance now?
+Shoko...
+If I had just one Korok seed, I could
+sing, dance, and use my powers to help
+you."
+20,Talk04_01,"例えば キミちんのポーチ
+大きくしちゃうとかとか どかなァ～？","You see, I have the power of inventory
+expansion! So let me know if you find
+some Korok seeds!"
+21,Talk05,"クンクン… このニオイ…""コログのミ！
+
+キミちん！森の子供達から
+コログのミ""取り返してくれたんだね！
+じゃ そのコログのミ""1つくれたら
+お礼に お好きなポーチ""大きくしてあげる♪","*sniff*
+But wait...
+*sniff sniff*
+Do you have a Korok seed?!
+
+
+You do! You got a Korok seed from one
+of the forest children!
+
+If you'll give me just one Korok seed, I'll 
+make your inventory bigger in return!"
+22,Talk05_01,"コログのミ""くれちゃうのカナ？
+
+コログのミ""1つくれるなら
+お好きなポーチ""大きくしてあげる♪","Shaka! You're gonna give me the
+Korok seed?
+
+If you give me one Korok seed, I'll make
+your inventory bigger!"
+23,Talk06,"…あっ！もうこんな時間…
+
+早く帰らないとお爺ちゃんに怒られちゃう…
+キュン…
+キミちん ゴメンね…
+ボクちん もう帰らなきゃ
+でも コログのミは まだまだ足りないから
+見つけたらコログの森まで持って来て！","Oh! Look at the time!
+
+
+I need to get back before Grandpa yells
+at me. Shoko...
+
+Sorry, I have to go. But I still need
+Korok seeds, so bring some to
+Korok Forest if you find any!"
+24,Talk07,残念…キュゥゥン…,Shoko...
+25,Talk08,"実は森の子供達が
+マラカスに入ってたコログのミを持ち出して…
+探し回ってるうちに こんな事に
+キュン…","The children of the forest must have 
+taken the Korok seeds from my beloved
+maracas.
+I never thought I'd be the target of one
+of their pranks. Shoko..."
+26,Talk09,"キュルン♪ イイネイイネ♪
+じゃ どのポーチ""大きくしちゃう？","SHALAKA! So which stash do you want
+more slots in?"
+27,Talk10,"かしこまりましたッ♪
+じゃ キミちんも一緒に踊って！
+いっくよ～♪","OH, YEAH!
+
+
+♪Shaky sha-kah!♪"
+28,Talk11,"え～～？！
+
+ボクちんに話しかけてるって事は
+見えてるってことだよォ！","SHOLOKO?!
+
+
+Then how are you talking to me, silly
+boy?"
+29,Talk11_1,"な～ったなったおっきくなった武器ポーチっ♪
+キャッ♪","Your weapon stash has been expanded.
+Shalaka!"
+30,Talk11_2,"な～ったなったおっきくなった弓ポーチっ♪
+キャッ♪","Your bow stash has been expanded!
+Shalaka!"
+31,Talk11_3,"な～ったなったおっきくなった盾ポーチっ♪
+キャッ♪","Your shield stash has been expanded!
+Shalaka!"
+32,Talk12,"クンクン…
+コログのミ""持ってないよねェ～","*sniff sniff*
+You don't happen to have any
+Korok seeds, do you?"
+33,Talk13,……キュルン？,...Shalaka?
+34,Talk14,"やーった やった！ キュンキュン キュ～ン♪
+100年ぶりにボクちんが見える人登場！
+ボクちんはボックリン！
+
+みんな ボクちんが見えないから困ってたのぉ…
+とにかく聞いてぇ","♪Shala-zah! Shala-kah!♪
+
+
+It's been 100 years since anyone has
+been able to see me!
+
+I'm Hestu, and I need your help!"
+35,Talk15,"キュルン？！もしかして それって！
+
+ボクちんのマラカス～♪
+取り返してくれたんだねぇ～♪
+ちょ～らいのら～い♪","Shalaka?! Could it be?
+
+
+My maracas!
+You got them back!
+
+♪PLEASE GIVE THEM TO MEEEEEEE!♪"
+36,Talk16,"クンクン…キミちん まだコログのミ持ってるね
+もっとポーチ""大きくしようよォ～","I still smell Korok seeds on you.
+Want me to expand your inventory
+again?"
+37,Talk17,"キュルン♪ありがとう！
+
+もうしばらくここにいるから
+コログのミ見つけたら また持ってきてェ～","♪Shalaka!♪
+
+
+I'll be here for a little while, so if you find
+more Korok seeds, bring them to me!"
+38,Talk18,"残念…キュゥゥン…
+
+だけど もうしばらくここにいるから
+ポーチ大きくしたくなったら また声かけてェ～","Shoko...
+
+
+I'll be here for a little while, so if you
+want to expand your inventory, come talk
+to me."
+39,Talk19,"キュンキュン！ キミちん
+ポーチを大きくしたくなったんだね？
+コログのミ…持ってるねェ～
+じゃ早速ポーチ""大きくしようよォ～","Shala-kala! 
+
+
+You want to expand your inventory? 
+I need those Korok seeds!"
+40,Talk20,"他のポーチ""大きくするゥ？",Want to expand a different stash?

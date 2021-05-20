@@ -1,0 +1,21 @@
+#,Title,JPja,USen
+1,"""0000""",手に持つ,Hold
+2,"""0001""",持つのをやめる,Stop holding
+3,"""0002""",選ぶ,Select
+4,"""0003""",決定,Select
+5,"""0004""",ゲームに戻る,Back
+6,"""0005""",並べかえる,Sort
+7,"""0006""",回転モード,Rotate
+8,"""0008""",戻る,Return
+9,"""0009""",回転する,Rotate
+10,"""0010""",加護の回復まで,Active again in:
+11,"""0011""",マスターソードの回復まで,Master Sword recharged in:
+12,"""0012""",冒険手帳,Adventure Log
+13,"""0013""",システム,System
+14,"""0014""",ポーチ,Inventory
+15,"""0015""",目的地を設定,Set destination
+16,Pa_Gear_00-Pa_Param_06-T_MaxText_00,完全回復,Full recovery
+17,Pa_HaveNum_00-T_Guide_01,追加する,Add
+18,Pa_HaveNum_00-T_Guide_02,ゲームに戻る,Return to game
+19,Pa_HaveNum_00-T_Text_00,手に持てる数,Can hold
+20,Pa_SetBonus_00-T_SetBonus_00,セットボーナス,Set Bonus

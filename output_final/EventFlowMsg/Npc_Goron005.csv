@@ -1,0 +1,125 @@
+#,Title,JPja,USen
+1,"""0000""",買いに来た,I'll buy.
+2,"""0001""",売りに来た,I'll sell.
+3,"""0002""",ここって？,What is this place?
+4,"""0003""",さようなら,See ya.
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5508""",ぜんぶ売る,All of them.
+9,Attention00,乗ったらだめゴロ…,"Uh, don't climb that..."
+10,Attention01,乗らないで…,Please stop...
+11,Attention02,わ… わっ！,Argh!
+12,Attention03,乗るのはやめて…,Please stop that...
+13,Com_Talk_00,どれを売りマッスか？,What do you wanna sell?
+14,Com_Talk_01,"ゴロッスね
+ルピーッスけどいいゴロッスか？","You wanna sell that, right?
+How does  rupees sound?"
+15,Com_Talk_02,ありがとございマッス！,"Thanks, little buddy!"
+16,Com_Talk_02b,まいどぉーッス！,"Thanks, brother!"
+17,Com_Talk_02c,オッケーーーッス！,OK!
+18,Com_Talk_02d,いい売りっぷりッス！,"Good business, eh?"
+19,Com_Talk_04,あら残念ゴロッス,"Ah, too bad."
+20,Com_Talk_05,他は どうしまッス？,Anything else?
+21,Com_Talk_05b,もっと売るッスー！,Sell me stuff!
+22,Com_Talk_05c,さぁ選ぶッス！,"OK, show me what you wanna sell!"
+23,Com_Talk_05d,バリバリ買い取るッス！,I'll buy up anything ya got!
+24,Com_Talk_11,まいど ありがとございマッス！,"Thanks, little buddy!"
+25,Com_Talk_11b,在庫切れたッス！,I'm all sold out!
+26,Com_Talk_11c,また仕入れときマッス！,I'll restock for next time!
+27,Com_Talk_11d,それ美味いゴロッスよ～！,That's delicious!
+28,Com_Talk_13,"ッスね！
+いくつゴロッスか？",All right. How many?
+29,Com_Talk_14,"なら個で
+ルピーッス！いいゴロッス？","That totals out to  rupees!
+How about it?"
+30,Com_Talk_15,それは ウチじゃ扱ってないゴロッス！,We don't buy those here!
+31,Com_Talk_16,"お客さん！
+服は脱いでから売って欲しいゴロッス！","If ya wanna sell me your clothes,
+do me a favor and pick somethin'
+you're not wearin'!"
+32,Com_Talk_33,"を 1つッスか？
+それならルピーゴロッス！","Just the one? I'll give you  rupees
+for it! That work?"
+33,Com_Talk_35,"を個全部ッス？
+なら合計ルピーで買い取るゴロッス！","You'll sell all of 'em?! For that many,
+I can give you  rupees!
+That work?"
+34,Com_Talk_50,"なら
+ルピーゴロッス！ いいゴロッス？","For that, how's  rupees sound?
+Good, right?!"
+35,Com_Talk_52,"が個なら
+ルピーゴロッス！いいゴロッス？","If you want 'em, that'll cost ya
+ rupees! Sound good?"
+36,Com_Talk_53,あらら…残念ゴロッス,"Oh?! Well, that's too bad."
+37,near00,い～しや～きッス～！,PROTEIN PALACE!!!
+38,talk00,おはようございマッス！,"Good mornin', bud!"
+39,talk01,こんにちはッス！,How's it goin'?
+40,talk02,こんばんはッス！,Good evenin'!
+41,talk03,ッス！,Yo!
+42,talk04,さてさて オレに用ッスか？,You need somethin'?
+43,talk05,おぉ！久しぶりの買い物客ッス！,"Wow, really?! I haven't had a customer
+in ages!"
+44,talk07,またのお越し お待ちしてマッス！,Come back any ol' time!
+45,talk13,"ここは見ての通り焼いた料理を売ってマッス！
+
+ゴロンは普通石しか食べないゴロッスが
+旅行客のために こういうのも売ってマッス！","Well, take a look around.
+This is a grilling joint!
+
+Normally Gorons only eat rocks. Mmm,
+the good stuff! Still, we sell this kinda
+thing for the tourists. They love it."
+46,talk14,またまた またー？！,Again?!
+47,talk15,"さぁ キミもいっぱい食って
+オレ達みたいな肉体美を目指すゴロッス！","Come on! Eat up, and get yourself a
+meaty muscle body like us Gorons!"
+48,talk16,ななななー！,H-h-h-hey!
+49,talk17,"お客さん…
+そこに上るのは止めて欲しいッス…",Can you please...get down from there...
+50,talk18,"お客さん…
+頼むから降りてくださいッス…","Can you please...get down from there...
+Come on, I'm beggin' ya..."
+51,talk19,"お客さん…
+どんな教育受けてんスか…","What, no greeting, bud?
+Just what kinda upbringing
+did ya have, anyway?"
+52,talk20,"お客さん…
+オレに用なら降りてくださいッス…","Really, now... If ya wanna talk to me,
+please get down from there first."
+53,talk21,"って言うのも ゴロンシティは熱過ぎて
+床に物を置くだけで何でも焼けちゃう
+ってのがバレてから
+客足が パッタリだったゴロッス…
+だから バンバン買ってってくれゴロッス！","I'll tell ya somethin' interesting...
+Goron City is so hot, if ya put anything
+on the ground, it'll cook up in no time.
+Once people figured that out, we lost all
+our customers. All of 'em!
+
+So...yeah. If ya see somethin' ya want,
+just grab it hot off the grill!"
+54,talk22,"床に物を置くだけで何でも焼けちゃうのに
+買ってくれるだなんて ありがたいゴロッス！
+ま細かい事は気にせず
+バンバン買ってってくれゴロッス！","I really appreciate ya browsin' our stuff,
+seein' as how you can just put food on
+the ground and cook it up for free.
+But hey, I don't sweat the small stuff!
+If ya see somethin' ya want, just grab
+it straight from the grill!"
+55,talk23,"はいはい
+何度でも説明させてもらいマッス！","I'm glad ya asked that... I'm happy to
+explain anything!"
+56,talk24,石焼き料理屋マッスル亭にようこそゴロッス！,"Welcome to Protein Palace, the hot spot
+for on-the-rocks grilling!"
+57,talk25,他に用は あるッスか？,Need anything else?
+58,talk26,"そう言えば最近
+火山弾が降らなくなったッスね…
+アレのせいで商品が傷ついて困ってたッスよ！
+助かるッスー！","Hmm... Lately those magma bombs
+have stopped fallin' from the sky...
+
+Those things were bad for business.
+They messed up the merchandise.
+Now I'm saved!"

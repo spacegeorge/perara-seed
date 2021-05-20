@@ -1,0 +1,663 @@
+#,Title,JPja,USen
+1,"""0000""",スナザラシラリー？,Sand-seal races?
+2,"""0001""",さよなら,Bye.
+3,"""0006""",その事ですが…,About that...
+4,"""0007""",また来ます！,I'll be back!
+5,"""0010""",ネタ？,Information?
+6,"""0030""",ウルボザのこと聞かせて,Tell me about Urbosa.
+7,"""0031""",さよなら,Good-bye.
+8,"""0032""",ルージュ…,Riju...
+9,"""0033""",族長はどこ？,Where's the chief?
+10,"""0034""",砂漠の街の宝珠について,The treasured orb?
+11,"""0035""",日記？,Urbosa's diary?
+12,"""0036""",知ってる,I've heard of it.
+13,"""0037""",知らない,Never heard of it.
+14,Animal_Sunazarashi_D_DLC2nd_SD_Npc_oasis032_000,"その子は私のスナザラシだから
+連れてかないでね
+フラジィ先輩に怒られちゃっても
+知らないよ？","That's MY sand seal, so you'd better
+stay back. I won't be held responsible
+if Frelly gets upset."
+15,Npc_Attacked_006_DLC2nd_SD_000,"あいつらがゲルド族から盗んだ珠は 
+二階の物置にあるのは分かってるんすけど…
+これ以上近づくのは危険っすね
+命あってのトレジャーハンターっす","I know one thing for sure... The orb they
+stole from the Gerudo tribe is in their
+second floor storage area.
+But getting there is too dangerous.
+Staying alive is essential to being a
+great treasure hunter!"
+16,Npc_Attacked_006_DLC2nd_SD_001,"イーガ団は旅の剣士によって
+壊滅させられたって聞いたけど…
+ちょっと覗いてみたら いっぱいいるっす！
+バナナもいっぱい持ち込んで再集結っすかね？","I hear the Yiga Clan were taken out by
+a traveling swordsman. And yet...
+
+There are still an awful lot of 'em around!
+They seem to be hoarding bananas too.
+Maybe they're still up to no good?!"
+17,Npc_Attacked_006_DLC2nd_SD_100,"まさか この中から？
+
+その珠を？
+
+横取り？
+
+したんすか？！
+
+兄ちゃん バレたら あいつら
+地の果てまで追いかけてくるっすよ！","Did you really go in there...
+
+
+and nab that orb?
+
+
+You stole it, yeah?
+
+
+You really did?!
+
+
+Yikes. If they find out, they'll surely
+chase you down until the end of time!"
+18,Npc_Attacked_006_DLC2nd_SD_200,"あああ…
+大事なお宝が穴の中に…
+なんてこと するんすか…","Oooh... You threw the precious treasure
+down below...
+
+What were you thinking?!"
+19,Npc_Attacked_011_DLC2nd_SD_000,"うん？ もしかして
+あんたもお宝を探しに来たのかい？
+イーガ団のやつら… ゲルド族の宝のひとつ
+宝珠とやらを この中に持ち込みやがった
+こいつは とんでもない値打ちものだと思って
+砂漠から後をつけてきたんだけど…
+こうなっちゃ お手上げだね
+
+…あっ
+あいつら まさか…
+この辺りの言い伝え通り
+そこの大穴に宝珠を投げ込むつもりじゃ…","Hm? Are you looking for treasure too?
+
+
+The Yiga Clan... They took one of the
+Gerudo Tribe's treasures in there,
+a sacred orb or something.
+It looked like it could sell for a
+high price, so I followed them.
+But... Well...
+Now I'm thinking I should probably
+back away while I still can.
+
+Wait. You don't think...
+
+
+They're not planning to throw the
+sacred orb into that big, gaping hole
+like that old legend says...right?"
+20,Npc_Attacked_011_DLC2nd_SD_001,"イーガ団が盗み出したゲルド族の宝珠は
+この中に確かにあるんだけど…
+こうなっちゃ お手上げだね
+
+まさか あいつら この辺りの言い伝え通り
+そこの大穴に宝珠を投げ込むつもりじゃ…","The Yiga Clan stole the Gerudo's
+treasured orb. It's in there.
+I'm sure of it!
+...But now I'm thinking this was
+a bad idea.
+
+Hmm... They're not planning to throw
+the sacred orb into that big, gaping hole
+like that old legend says...right?"
+21,Npc_Attacked_011_DLC2nd_SD_100,"その珠って もしかして…
+ゲルド族の宝珠かい？！
+ずるいぞ…
+あたいらが先に見つけたのに","That orb... Could it be? Is that the
+treasure of the Gerudo?!
+
+That is SO not fair! We found it first!"
+22,Npc_Attacked_011_DLC2nd_SD_200,"お宝を投げ捨てるなんて あんた！
+バチが当たるよ！！
+いらないんなら あたいにくれよ…","You're throwing away treasure?! You do
+realize how wasteful that is, right?
+
+If you didn't want it, I would have been
+happy to take it off your hands."
+23,Npc_oasis003_DLC2nd_SD_000,"ん？
+まだ何か用があるのか？",Yes? Do you need something?
+24,Npc_oasis003_DLC2nd_SD_000r,"ん？ どうした？
+まだ何か用があるのか？",Hm? Do you need something?
+25,Npc_oasis003_DLC2nd_SD_001,"…うん？
+何か聞きたいことでもあるのか？","Hm? Speak up. You look like you wish
+to ask me something."
+26,Npc_oasis003_DLC2nd_SD_001-002r,"…リンク""他にも聞きたい事はあるか？","Link. Is there anything else you wish
+to ask me?"
+27,Npc_oasis003_DLC2nd_SD_002,で… どうした？何か用か？,What is it? What do you need?
+28,Npc_oasis003_DLC2nd_SD_003,"ん？
+まだ何か用があるのか？",Yes? Do you need something?
+29,Npc_oasis003_DLC2nd_SD_004,"…うん？
+何か聞きたいことでもあるのか？","Hm? Speak up. You look like you wish
+to ask me something."
+30,Npc_oasis003_DLC2nd_SD_005,で… どうした？何か用か？,What is it? What do you need?
+31,Npc_oasis003_DLC2nd_SD_010,"ウルボザ様のことを…？
+ほう… これは奇縁な…
+実はナボリスを鎮めた後
+ウルボザ様の日記が見つかってな…
+せっかくだから そこに書かれていたことを
+話してやろう
+ウルボザ様には少し年上の
+とても仲の良い御友人がおられたらしい…
+その方はハイラル王家の御后様でウルボザ様は
+公私共に懇意にされていたそうだぞ","You wish to speak of Lady Urbosa?
+Hm, what an interesting request.  
+
+After Naboris was tamed, we located
+Lady Urbosa's diary. Since you're here,
+I shall tell you something from it.
+Lady Urbosa had a beloved friend
+whom she thought the world of...
+the queen of Hyrule.
+Such a big heart... Our Lady Urbosa was
+admirable in every aspect of her life."
+32,Npc_oasis003_DLC2nd_SD_012,"ああウルボザ様の日記だ
+今はわらわの部屋に置いてある
+ウルボザ様の友人である お前なら
+読んでも構わないだろう","Lady Urbosa's diary is in my room.
+Since she trusted you, I'm certain she
+wouldn't mind you reading it."
+33,Npc_oasis003_DLC2nd_SD_013,"砂漠の街の宝珠？
+…この街に伝わる古き珠のことか
+リンク…
+お前はもしやウルボザ様と同じ試練を…？
+ならば お前には隠しておくことはできんな
+…実は その宝珠は盗まれてしまったのだ
+雷鳴の兜に続き再びの大きな失態…
+しかも盗んだのは またしても憎きイーガ団だ
+幸い最初に気づいたのがビューラだったので
+この事を知るのは今はわらわと彼女の二人だけ
+リンク…
+もう一度力を貸して貰えないか？
+もちろん取り返した宝珠は お前が
+試練のために役立ててくれ
+それこそが本来の使い方なのだから…
+
+何度も面倒をかけてすまぬが その…
+協力してもらえたら わらわは嬉しい…","Are you referring to the treasure of the
+Gerudo? The sacred orb kept safe by
+my people for generations?
+Link... Answer truly. Are you challenging
+the same trial that Lady Urbosa overcame
+all those years ago?
+In that case, I shall not keep this a secret
+from you. Our treasured orb was stolen.
+
+Yet another massive failure...as though
+the incident with the Thunder Helm
+wasn't humiliating enough.
+To top it all off, the ones who stole
+the treasure were none other than
+our sworn enemies, the Yiga Clan.
+Luckily, the first to notice its absence
+was Buliara. As of now, she and I are the
+only members of our tribe who know.
+Link... Would you be willing to help us
+recover a sacred treasure from those
+fiends once more?
+In return, you may use the treasured orb
+however you please to complete the trial.
+
+Perhaps it is fate, as that orb was made
+to be used for the very trial you are
+challenging. I wish you luck in finding it.
+I'm sorry to burden you with my
+troubles again, but...I'm counting
+on you."
+34,Npc_oasis003_DLC2nd_SD_014,"雷鳴の兜に続き大きな失態…
+憎きイーガ団に宝珠を持ち去られてしまった
+リンク…
+もう一度力を貸して貰えないか？
+もちろん取り返した宝珠は お前が
+試練のために役立ててくれ
+それこそが本来の使い方なのだから…
+
+何度も面倒をかけてすまぬが その…
+協力してもらえたら わらわは嬉しい…","Yet another massive failure...as though
+the incident with the Thunder Helm
+wasn't humiliating enough.
+To top it all off, the ones who stole
+the treasure were none other than
+our sworn enemies, the Yiga Clan.
+Link... Would you be willing to help us
+recover a sacred treasure from those
+fiends once more?
+In return, you may use the treasured orb
+however you please to complete the trial.
+
+Perhaps it is fate, as that orb was made
+to be used for the very trial you are
+challenging. I wish you luck in finding it.
+I'm sorry to burden you with my
+troubles again, but...I'm counting
+on you."
+35,Npc_oasis003_DLC2nd_SD_015,"ああウルボザ様の日記だ
+今は ソファに置いてある
+ウルボザ様の友人である お前なら
+読んでも構わないだろう","Lady Urbosa's diary is on the sofa.
+Since she trusted you, I'm certain she
+wouldn't mind you reading it."
+36,Npc_oasis003_DLC2nd_SD_Talk05,"雷鳴の兜を身につけ お前と共に戦った時
+名前を呼ばれた気がしたんだ
+ルージュとな…
+
+ふふっ…
+この名前で呼ばれたのは久々よ
+あの力強く温かく包みこむような声の主は
+ウルボザ様だったのかもしれないな…","When I wore the Thunder Helm and
+fought at your side, I thought I heard
+a name called out on the wind. Riju...
+Heh... I hadn't been called by that name
+in a while. That strong, warm voice...
+It must have belonged to Urbosa..."
+37,Npc_oasis003_DLC2nd_SD_Talk06,"雷鳴の兜を身につけ お前と共に戦った時
+名前を呼ばれた気がしたんだ
+ルージュとな…
+
+ふふっ…
+この名前で呼ばれたのは久々よ
+あの力強く温かく包みこむような声の主は
+ウルボザ様だったのかもしれないな…","When I wore the Thunder Helm and
+fought at your side, I thought I heard
+a name called out on the wind. Riju...
+Heh... I hadn't been called by that name
+in a while. That strong, warm voice...
+It must have belonged to Urbosa..."
+38,Npc_oasis003_DLC2nd_SD_Talk07,"雷鳴の兜を身につけ お前と共に戦った時
+名前を呼ばれた気がしたんだ
+ルージュとな…
+
+ふふっ…
+この名前で呼ばれたのは久々よ
+あの力強く温かく包みこむような声の主は
+ウルボザ様だったのかもしれないな…","When I wore the Thunder Helm and
+fought at your side, I thought I heard
+a name called out on the wind. Riju...
+Heh... I hadn't been called by that name
+in a while. That strong, warm voice...
+It must have belonged to Urbosa..."
+39,Npc_oasis007_DLC2nd_SD_000,他にも用があるなら申すが良い,"If you need something, speak now."
+40,Npc_oasis007_DLC2nd_SD_010,"貴様… なぜそのことを？！いや…""貴様に怒りをぶつけても
+仕方の無いことだな
+実は砂漠の街の宝珠… この街に伝わる宝が
+またもやイーガ団に盗まれてしまってな
+あいつら… すでに壊滅したと思っていたが
+アジトに再集結したとの噂も耳に入っている
+…盗まれた事は まだ私とルージュ様しか知らん
+いいか この事は絶対に他言無用だぞ","What? How do you know about that?!My apologies... There's no point in
+losing my temper with you.
+
+The treasure of my people...
+
+
+The sacred orb that we have guarded for
+generations is gone. Another precious
+item stolen by the Yiga Clan.
+Those fiends! I thought they had been
+wiped out, though I had heard rumors
+of them regrouping at their base.
+Only Lady Riju and myself know the orb
+has been stolen. Do not speak of this
+to anyone."
+41,Npc_oasis007_DLC2nd_SD_011,"砂漠の街の宝珠… この街に伝わる宝は
+またもやイーガ団に盗まれてしまってな
+あいつら… すでに壊滅したと思っていたが
+アジトに再集結しているとの噂も耳にしている
+…盗まれた事は まだ私とルージュ様しか知らん
+いいか この事はくれぐれも他言無用だぞ","The treasure of my people...
+
+
+The sacred orb that we have guarded for
+generations is gone. Another precious
+item stolen by the Yiga Clan.
+Those fiends! I thought they had been
+wiped out, though I had heard rumors
+of them regrouping at their base.
+Only Lady Riju and myself know the orb
+has been stolen. Do not speak of this
+to anyone."
+42,Npc_oasis007_DLC2nd_SD_100,"族長様は寝室でおくつろぎの時間…
+無礼があっては許さんからな","The chief is enjoying a moment of respite
+in her bedroom. You had better treat her
+with respect. Or else."
+43,Npc_oasis007_DLC2nd_SD_200,"族長様は執務のため
+ここに向かわれている
+くれぐれも失礼の無いようにな","The chief is on her way. I advise you to
+be on your best behavior."
+44,Npc_oasis007_DLC2nd_SD_250,"族長様は そこにおわすではないか
+緊張で よくわからなくなったか？","...The chief is sitting right there. Are you
+so in awe you cannot even see her?"
+45,Npc_oasis007_DLC2nd_SD_300,"族長様は今頃
+パトリシアちゃん様のところだろう
+この時間を族長様は大事にしておられる
+邪魔せぬようにな","The chief is probably with Patricia.
+
+
+This is a rare moment of leisure for her,
+one she dearly values. Don't even think
+of disturbing her."
+46,Npc_oasis007_DLC2nd_SD_400,他にも用があるなら申すが良い,"If you need something, speak now."
+47,Npc_oasis007_DLC2nd_SD_450,"この話はここまでとして…
+武具に何かあれば すぐに申し出るんだぞ","Enough about that. If anything happens
+to the Champion's arms, you must let
+me know immediately."
+48,Npc_oasis007_DLC2nd_SD_452,"それはそうと前にも言ったが
+武具に何かあれば すぐに申し出るんだぞ","As I've said before, if anything happens
+to the Champion's arms, you must let me
+know immediately."
+49,Npc_oasis007_DLC2nd_SD_Talk_01,"色々あったが…
+お前には本当に世話になったな
+英傑の武具は雷鳴の兜に続く ゲルド族の宝
+なかなか手に入らない逸品だ！
+武具に何かあれば すぐに申し出るんだぞ","A lot happened, but... We are truly
+indebted to you.
+
+The Champion's arms are treasures of
+the Gerudo, much like the Thunder Helm.
+
+If anything happens to them, you must
+let me know immediately."
+50,Npc_oasis007_DLC2nd_SD_Talk_44,"英傑の武具は雷鳴の兜に続く ゲルド族の宝
+それを手にできるハイリア人はお前ぐらいだろう
+武具に何かあれば すぐに申し出るんだぞ","The Champion's arms are treasures of
+the Gerudo, much like the Thunder Helm.
+
+You are perhaps the only Hylian ever
+to wield them.
+
+If anything happens to them, you must
+let me know immediately."
+51,Npc_oasis025_SD_000,ところで…,By the way...
+52,Npc_oasis025_SD_010,"最近東ゲルド付近で これまでとは違う
+モルドラジークが目撃されるようになったんだ
+それを聞いたミツバというハイリア人が
+「取材するで」と言って現地に向かったらしい
+無茶をしてないといいが…","I hear a strange type of Molduga was
+spotted near East Barrens recently. 
+
+A Hylian named Traysi went there
+looking for...how did she put it...
+\""a hot scoop.\""
+I hope she didn't bite off more than
+she can chew."
+53,Npc_oasis025_SD_500,"ところで…
+
+これまでとは違うモルドラジークを見に行った
+ミツバというハイリア人のことは話したかな？
+ちゃんと戻って来て ホッとしたよ","By the way...
+
+
+Did you happen to catch sight of that
+strange Molduga? And did you run into
+that intrepid Hylian called Traysi?
+In any case, I'm glad she was able to
+return unharmed."
+54,Npc_oasis025_SD_Near000,モルドラジークが…,Molduga...
+55,Npc_oasis032_SD_000,"フラジィ先輩に言われて
+野生のスナザラシを捕まえにきているのさ","Frelly asked me to go recruit some
+wild sand seals."
+56,Npc_oasis032_SD_Talk_01,"砂漠のスナザラシは まだ訓練中だから
+乗れても降りた途端に逃げたりもするが
+街にいる子達は降りても
+主の帰りをずっと待っていてくれるんだ
+それにスナザラシラリーで使ってるスナザラシも
+フラジィ先輩が育てたやつだしね","The desert's wild sand seals haven't
+been trained, which means they'll run
+away the moment you dismount.
+But the ones Frelly trained will wait
+patiently for their master.
+
+All of the sand seals used in the sand-
+seal races were trained by Frelly, too."
+57,Npc_oasis032_SD_Talk_04,"街にいるスナザラシは
+フラジィ先輩が訓練した子達だから
+砂漠にいる訓練中のスナザラシより
+スピードは速いし降りても待っていてくれるし
+レンタルする価値はあるよ
+
+スナザラシラリーで使ってるスナザラシも
+フラジィ先輩が育てたやつだしね","The sand seals in town were all trained
+by Frelly. They're faster, and they'll wait
+for you to return to them.
+By comparison, the ones outside who
+haven't been trained will just run off
+the moment you dismount.
+It's definitely worth renting a
+trained one! Frelly puts her
+heart into training them!
+Frelly trained the sand seals used in the
+sand-seal races too, of course."
+58,Npc_oasis032_SD_Talk_06,"スナザラシラリーってのは
+
+スナザラシに乗って コースを走り
+速さを競う ゲルド伝統のスポーツだよ
+街の南東門を出て右手の方に行くと
+ゲートが見えるから
+興味あるなら覗いてみるといい","The sand-seal races are a
+Gerudo tradition...
+
+It's pretty simple—you use a sand seal 
+to race around a course to see who's
+the fastest.
+Just go out the southeast gate of the
+town and head to the right. You'll see
+the starting line immediately!
+No harm in taking a peek, right?"
+59,Npc_oasis037_SD_000,"ん？ んん？
+
+もしかして…
+あんたゲルドの街で会った姉ちゃんか？
+なあ そやろ？ しらばっくれても無駄や
+
+どんな格好してたとしても…
+このミツバちゃんの目は ごまかせへんで","Hm? What is THIS?!
+
+
+Could it be... Are you that pretty gal
+I saw in Gerudo Town?
+
+I'm right, aren't I? Don't try to hide it!
+
+
+It doesn't matter WHAT you wear.
+These eyes see ALL. Traysi wasn't
+born yesterday, after all!"
+60,Npc_oasis037_SD_001,"あれ？ あんた…
+ゲルドの街で会った姉ちゃん…？
+…でも これはどういうことや
+
+よーく見たら女の服を着た
+兄ちゃんやないか…？！","Huh? Aren't you...that pretty gal
+I saw in Gerudo Town?
+
+Hmm... My scoop radar is going crazy
+right now...
+
+Unless I've gone mad, you seem to be a
+young man dressed in some fabulous
+Gerudo clothes."
+61,Npc_oasis037_SD_010,"ああ なるほど…
+あの街は女しか入れんからな
+これは ちょっとしたスクープやけど…
+事情があったんやろし黙っといたるわ","Ooooh, I see, I see. It's because only
+women can enter Gerudo Town.
+Clever boy.
+That's quite the scoop, but...I'm sure you
+had your reasons. I'll keep that gossip
+to myself. That's called \""integrity.\"""
+62,Npc_oasis037_SD_200,"ところで…
+今 ウチはネタを集めに来てるんやけど
+せっかくやし
+まだ本に載せてないウワサを教えたるわ","You probably guessed as much, but...
+I'm tracking down some juicy gossip.
+
+Since you're here, I'll do you a favor and
+let you in on a rumor I haven't even
+published yet."
+63,Npc_oasis037_SD_203,"なんや兄ちゃん…
+見ての通り ウチはネタ集めで忙しいんや！","...Ahem. As you can see, I'm busy
+gathering information!"
+64,Npc_oasis037_SD_204,"兄ちゃん…
+
+まさかウチの事知らんのか？","Please, let's not play games. Don't try to
+tell me you don't know who I am!"
+65,Npc_oasis037_SD_210,"ここの神獣が おらんようになって
+落雷が収まったと思ったら… 
+今度は けったいなモルドラジークが現れてん！
+これは ええスクープになるで～
+ゲルドの兵士も戦ったらしいねんけど
+普通の剣じゃ びくともせんねんて
+何か効く武器はあるんかな？","Just when you thought you could relax...
+when the Divine Beast had settled and
+the lightning had stopped...
+Boom! A mysterious Molduga shows up!
+How's that for a scoop?!
+
+Apparently the Gerudo soldiers tried
+fighting it, but normal swords didn't
+even make a dent.
+I wonder what weapon would work
+against something like that..."
+66,Npc_oasis037_SD_211,"神獣が落としてた雷が収まったと思ったら…
+今度は けったいなモルドラジークが現れてん！
+ゲルドの兵士も戦ったらしいねんけど
+普通の剣じゃ びくともせんねんて
+何か効く武器はあるんかな？","Just when the Divine Beast has settled
+and the lightning has stopped... Boom!
+A mysterious Molduga shows up!
+Apparently the Gerudo soldiers tried
+fighting it, but normal swords didn't
+even make a dent.
+I wonder what weapon would work
+against something like that..."
+67,Npc_oasis037_SD_300,"おお あんた！見とったで！
+あのモルドラジークを倒すなんてな…
+スゴイ…
+ほんまスゴイな！
+これはスクープや！
+あんたの事…本に書かせてくれへん？！","Hey, you! I saw everything! I can't
+believe you were able to defeat
+that weird Molduga...
+I'm speechless! ME! OK, not really.
+But this has SCOOP written all over it!
+Mind if I...write a tell-all about you?!"
+68,Npc_oasis037_SD_301,"そうか…""残念やわ
+
+女子の読者が一気に増えそうな 
+カッコ良さやったで あんた…
+まあ しゃあない… ウチも しばらくしたら
+ゲルドの街で新たなネタ探しやな","I see. How unfortunate.
+
+
+You would have been swimming in female
+attention and adoring fans, ya know.
+I mean it. You're that impressive!
+Welp, that's your decision. To mess up.
+I'll just have to dig around Gerudo Town
+for way more interesting scoops."
+69,Npc_oasis037_SD_302,"女子の読者が一気に増えそうな 
+カッコ良さやったで あんた…
+まあ しゃあない… ウチも しばらくしたら
+ゲルドの街で新たなネタ探しやな","You would have been swimming in female
+attention and adoring fans, ya know.
+I mean it. You're that impressive!
+Welp, that's your decision. To mess up.
+I'll just have to dig around Gerudo Town
+for way more interesting scoops."
+70,Npc_oasis037_SD_303,"ところで…
+
+あんた！見とったで！
+あのモルドラジークを倒すなんてな…
+スゴイ…
+ほんまスゴイな！
+これはスクープや！
+あんたの事…本に書かせてくれへん？！","You there...
+
+
+I saw everything! I can't believe
+you were able to defeat that
+weird Molduga...
+I'm speechless! ME! OK, not really.
+But this has SCOOP written all over it!
+Mind if I...write a tell-all about you?!"
+71,Npc_oasis037_SD_400,"…ん？ 
+あんた東ゲルドで会った兄ちゃんか？
+…ああ なるほど
+この街は女しか入れんからな…
+その格好 ちょっとしたスクープやけど
+可哀そうやから黙っといてあげるわ","Are you that guy I met at East Barrens?
+
+
+I see. As you know, this town only
+permits women to enter...
+
+That devilish outfit trick is something of
+a scoop, ya know... But since you're
+pretty heroic and all, I'll keep it a secret."
+72,Npc_oasis037_SD_401,"まさか…
+『ウワサのミツバちゃん』も知らんとか…？","No way... I don't believe it. You've really
+never heard of Rumor Mill?!"
+73,Npc_oasis037_SD_402,"よかった～
+
+まさかあの超人気情報誌の
+『ウワサのミツバちゃん』まで知らん言われたら
+どないしよかと思たけど…
+
+実は ウチがその ミツバちゃんやねん！","Phew, thank goodness!
+
+
+If you'd told me you'd never heard of
+Hyrule's most popular news publication,
+Rumor Mill...
+Well, I don't even know how I'd have
+taken that news! It woulda hurt,
+that's for sure!
+I'm Traysi herself, you know!"
+74,Npc_oasis037_SD_403,"ちょっと！
+アンタ冗談きついわ！
+あの超人気情報誌の
+『ウワサのミツバちゃん』を知らんなんて…
+あんた…
+もぐりやな
+まぁ アンタのことなんて
+どうでもええわ
+実はな何を隠そう
+ウチがそのミツバちゃんやねん！","ARE YOU KIDDING ME?!
+
+
+For you to say you've never heard of
+Rumor Mill, Hyrule's most popular news
+publication...
+You... You must be lying.
+Actually, I know you are!
+
+I AM an award-winning
+investigative journalist, after all!
+
+Truth is, you can't hide anything from
+Traysi!"
+75,Npc_oasis037_SD_404,"ちょっとちょっと！ ウソやろ？
+なんや そのうっすいリアクション！
+もう一度やり直しや！","Hey now! Get that wishy-washy garbage
+out of here! Once more, with conviction!"
+76,Npc_oasis037_SD_405,"実は ウチ… あの『ウワサのミツバちゃん』の
+ミツバちゃんやねん！","Truth is...I'm Traysi herself! From
+Rumor Mill!"
+77,Npc_oasis037_SD_406,"…ちゅうことで
+
+今後も『ウワサのミツバちゃん』
+よろしく頼むで～","I suppose that works... Anyway, I hope
+you enjoy reading Rumor Mill! I take
+pride in my work!"
+78,Npc_oasis037_SD_500,"おお あんたか これからも人気情報誌
+『ウワサのミツバちゃん』よろしく頼むわ～
+ところで…","Oh, it's you! I assume you're keeping up
+with my wildly popular and informative
+publication, Rumor Mill. By the way..."

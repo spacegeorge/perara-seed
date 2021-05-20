@@ -1,0 +1,98 @@
+#,Title,JPja,USen
+1,"""0000""",イヤなこと？,Troubles?
+2,"""0001""",そうですね！,Keep talkin'!
+3,"""0002""",さようなら,Take care.
+4,near00,…でさぁ,Come on...
+5,near01,お泊りならコチラ～！,Open beds here!
+6,near02,ふぅ…,Phew...
+7,talk00,"リトの御宿ツバメの巣にようこそ！
+兄さん きっとお疲れでしょう？！","Welcome to the Swallow's Roost, the
+finest inn this side of Death Mountain!"
+8,talk01,"リトの御宿ツバメの巣にようこそ！
+夜分まで お疲れ様でございやす","Welcome to the Swallow's Roost, the
+finest inn you will ever step foot in.
+You must be tired at this late hour."
+9,talk02,"兄さん まだ見てないのかい？
+最近現れたバケモンでさぁ
+アイツのせいで
+犠牲者が出ちまってね…","Haven't you seen it?
+That monster just appeared one day.
+
+It's been terrorizing the village nonstop.
+We can't take much more of this."
+10,talk03,"最近空に現れたバケモンのせいで
+犠牲者が出ちまってね…","Ever since that monster appeared above
+the village, there have been new victims
+every day."
+11,talk04,"へへっ お泊りなら
+奥の者に話しかけてくんなせぇ","Heh... If you want a place to stay,
+talk to the innkeeper."
+12,talk05,またのお越しを～,Come back soon!
+13,talk06,"リトの宿屋ツバメの巣にようこそ！
+いやぁ まいった！""降られちゃいましたねぇ","Welcome to the Swallow's Roost,
+voted best (and only) inn in Rito Village.
+Looks like you got caught in the rain."
+14,talk07,"あっしの口からは なんなんで
+詳しくは最上階の族長から聞いてくださいやし","Look, I'm just running my mouth here.
+If you want to know the details, talk to
+the elder on the top floor."
+15,talk08,さぁさぁ イヤな事は寝て忘れましょうや,"Our inn is the perfect place to snooze
+your troubles away!"
+16,talk09,"しからば さ！""中でゆっくりしてってくださいや",I will not keep you—go get some rest.
+17,talk13,"あっし今から休憩なんでさぁ
+
+あんな空のバケモンに ウロウロされた日にゃあ
+仕事にも身が入らねぇって…ねぇ","I decided to take a break.
+
+
+Today has been dead anyway, what with
+that monster flying around up there."
+18,talk14,"さて仕事に戻りまっさ
+
+兄さんもウチの店…
+ツバメの巣を ご贔屓に！","All right. I gotta get back to work.
+
+
+Hey, buddy. You should stop by and
+take a load off. I work at the
+Swallow's Roost!"
+19,talk15,あぁ…旅の人かぃ,Oh... You're a traveler.
+20,talk16,"今コイツと空のバケモン…
+神獣 ヴァ・メドーについて話してたとこでさぁ
+なんでもアイツァ昔は
+あっしらの味方だったってぇ…","We were just chatting about that
+monster in the sky. You know,
+Divine Beast Vah Medoh.
+Turns out that a long, long time ago,
+that thing was on our side."
+21,talk17,"そう昔はアレに この村の英傑…
+リーバル様が乗ってたんだ
+…と族長がおっしゃってる間違い無ぇ","Right. A long time ago, the Champion of
+Rito Village, Revali, tamed that beast and
+used it to protect the village.
+...According to the elder, at least.
+And I believe him!"
+22,talk18,"…ってンだから
+なんで今 あっしらを攻撃するのかねぇ？","So the story goes, but why did it start
+attacking us now?"
+23,talk19,"ヘイ まいど！
+…って アンタかい
+空に居る神獣 ヴァ・メドーのせいで
+仕事に身が入らねぇんで油売ってんでさぁ","Hey, there!
+
+
+Business is slow right now, thanks to
+Divine Beast Vah Medoh up there.
+It's really ruining my commissions!"
+24,talk20,"アレは昔村の英傑 リーバル様が搭乗され
+この村を守ってくれた言わば守り神…","Long ago, the village Champion, Revali,
+tamed that thing and used it to protect
+the village."
+25,talk21,"けっ…博識ぶってらぁ
+族長の請け売りのクセによぉ","Hah! He acts like a know-it-all even
+though he simply regurgitates what the
+elder says."
+26,talk23,"お客さん運がいいねぇ
+村は空のバケモン騒ぎが落ち着いたトコでさぁ","Luck is on your side, pal!
+The village has finally quieted down after
+all the commotion from the sky monster. "

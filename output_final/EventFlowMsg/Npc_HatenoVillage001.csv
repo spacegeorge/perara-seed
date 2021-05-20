@@ -1,0 +1,242 @@
+#,Title,JPja,USen
+1,"""0001""",染めたい！,"Yes, dye!"
+2,"""0002""",服を着る,Wear clothes.
+3,"""0003""",やめておく,"No, thanks."
+4,"""0004""",OK！,OK!
+5,"""0005""",選び直す,Choose again.
+6,"""0006""",やっぱやめる,"Actually, never mind."
+7,"""0007""",やってみる！,Let's do it!
+8,"""0008""",もっと詳しく,Tell me more.
+9,"""0009""",色を選ぶ,Choose a color.
+10,"""0010""",服を着替える,Change clothes.
+11,"""0011""",やめる,Quit.
+12,"""0012""",元の色にもどす,Back to the original.
+13,"""0013""",今着てる服で！,Use these clothes.
+14,near01,イラッシェ～～♪,Greetings and saturations!
+15,talk00,キヒヒッ！イラッシェーヤセー！,"Welcome! If you were looking to add
+some color to your wardrobe, you found
+the right place! Hue do you do?"
+16,talk01,"と思ったら そのたった20ルピーも
+お持ちじゃないようで…
+もうしゃけないが出直してくだっしぇ！","Oh, no, no, no, no, no. I'm sorry, but you
+don't have 20 rupees.
+
+Come on back some other time."
+17,talk02,じゃ20ルピーいただきまっしぇ！,"OK then, that'll be 20 rupees!"
+18,talk03,"しぇれれ？染料をお持ちでない？
+
+もうしゃけないが出直してくだっしぇ！","Oh, no, no, no, no, no. You don't even
+have any dye ingredients!
+
+Come back later and we'll set you up."
+19,talk04,"キヒヒッ！
+またいつでも イラッシェー","Come 'round again! Every day is a good
+day to dye!"
+20,talk06,それじゃ そこの上で待っててくだっしぇ！,"Wonderful. Now go wait up there.
+I'll just be a minute."
+21,talk07,"シシーーーッ！！
+最高のモノが できたでっしぇ！","Yeehoo! We made something very special
+here if I do say so myself!"
+22,talk08,"しぇれれ？
+その青い炎…確か研究所の…
+キヒヒッ！
+あそこの所長""何やってんでしかねー？
+私に言わせりゃあ怪し過ぎまっしぇ！","That blue flame... I'm pretty sure that's 
+from the research lab, no?
+
+I wonder what that ol' director is up to
+these days!
+
+I've always thought that director was real
+sketchy if you ask me! Suspicious outfits!"
+23,talk09,"その青い炎は…
+研究所の所長ご自慢の…
+あの人…何やってんのか怪し過ぎまっしぇ","That blue flame... That belongs to the
+director at the research lab, right?
+
+What is that weirdo up to these days?"
+24,talk10,どの色に染めるでしか？,Which dye color would you like?
+25,talk12,シシッ！ また来てくだっしぇ！,"Come back again. Every day is a good
+day to dye!"
+26,talk13,"染色素材を お持ちになれば
+手数料 サービス料全てコミコミ！
+お持ちのお洋服を お好きな色に…
+たった20ルピーで染めまっしぇ！","If you have any dye ingredients, it's
+20 rupees to dye an item... That includes
+our service charge, of course.
+Let's get going and dye your getup to
+the color of your choosing!"
+27,talk14,"しゃあしゃあ！服を染めるも戻すも
+コミコミ20ルピーでっしぇ！","Here we go! For 20 rupees total, I'll
+dye your clothes here to the color of
+your choosing! 
+Or would you like to get back to square
+one and change your clothes back to
+their original color?"
+28,talk15,"それじゃ染めたい色を選ぶか
+着替えるか してくだっしぇ！","All right, choose your dye color or go
+ahead and change clothes!"
+29,talk16,"お客さん…お若いのに
+ハテノ染めに興味が おありでしか？
+若者の染め物離れに歯止めをかけるのも
+ショショショ…私の使命…
+さっそく詳しく説明させていただきまっしぇ！","I love the fact that someone so young is
+so interested in our unique Hateno dyes.
+
+It is indeed part of my duty to keep the
+young people from losing their interest
+in the tradition...
+Let me give you all the colorful details of
+how the magic works!"
+30,talk17,"シシーーーッ！！
+こ…これは トレ・ヴィ・アンヌでっしぇ！",Wow! Absolutely chromatic!
+31,talk18,"シシーーーッ！！
+こんないい色は なかなか出ないでっしぇ！","By the tints! We hardly ever get this
+color to come out!"
+32,talk19,"シシーーーッ！！
+いい色味でっしぇ！私が欲しいでっしぇ！","Yeehoo! What a wonderful tone that is!
+I might try that out on one of my outfits!"
+33,talk20,染め直すなら また声かけてくだっしぇ！,"Do you find this palette-able? If you'd
+like to do a redye, just let me know!"
+34,talk21,"ハテノ染めは お客さんの着ているお洋服を
+好きな色に染める ハテノ村の伝統工法でっしぇ
+昔はウチで染色素材を用意してたんでしが
+魔物が増えて採りに行けなくなって…
+それで もうしーけないけど お客さんに
+染色素材を用意してもらってるってわけで…
+でしぇから代わりに手数料を
+どしぇ～んと下げたんでっしぇ！","Hateno dyeing is a traditional craft of
+Hateno Village. In days past, we'd
+use our own prepared dye ingredients.
+But these days, there are so many
+monsters about, that it's difficult for
+us to gather ingredients... 
+That's why we switched to the customer
+bringing us the dye ingredients, and in
+return, we have a small service charge."
+35,talk22,"次は染める色を決めてくだっしぇ！
+それとも また着替えるでしか？","All right! Choose your dye color wisely!
+Or do you want to change clothes again?"
+36,talk23,ありがとうございまっしぇ！,Thanks for the business!
+37,talk24,"染められない服が混じってまっしぇ！
+それでもいいでしか？","You're wearing some clothes you actually
+can't dye! Is that OK?"
+38,talk25,"しぇれれ？その服は染められないでっしぇ…
+着替えるでしか？","Oh, we can't dye those clothes.
+It's a fabric thing. Wanna change?"
+39,talk26,"と思ったら染められる服をお持ちでない…
+
+もうしゃけないけど出直してくだっしぇ！","Hrm... You don't have any clothes that
+can be dyed! Come back after you
+develop your wardrobe a bit."
+40,talk27,"しぇれれ？ その色に染めるには
+素材が足りないようでっしぇ…","Hmm... You don't quite have enough
+ingredients to dye to that color. Sorry!"
+41,talk28,"その色なら この素材で染められそうでっしぇ
+5個 お選びくだっしぇ","Choose five ingredients you'd like to use
+in your dye!"
+42,talk29,"他の色にするでしか？
+それとも やめちゃうでしか？","Did you want to try another color? Or do
+you want to stop here?"
+43,talk30,"きれいサッパリ脱色して
+元の色に戻してみせまっしぇ！
+今着てる服を脱色するでしか？
+それとも着替えて他の服にするでしか？","Sometimes it's necessary to reset
+everything! Throw it all out the window!
+
+Let's go right back to the way things
+were, shall we? Simpler times.
+
+The clothes you're wearing now...are
+those the ones we'll be changing? Or do
+you need to change into something else?"
+44,talk31,"しゃあしゃあ！""今の服でいいでしか？
+それとも また着替えるでしか？","So will it be the clothes you're wearing
+now? Or do you need to change?"
+45,talk32,"と思ったら染まってる服をお持ちでない…
+
+ぜひ染めてみてくだっしぇ！","What do you know, you don't even have
+any dyed clothes! Let's get some color
+going here!"
+46,talk33,"じゃあ脱色するでしか？
+よろしいでしか？","All right, let's reset everything! OK?"
+47,talk34,"これはこれで いい感じでっしぇ！
+
+さぁまた ご用があるなら
+いつでも声をかけてくだっしぇ！","Well this isn't so bad!
+
+
+If you have need of my services at any
+point, don't hesitate to call on me!"
+48,talk35,"しぇれれ？元々染まってない服を
+着てるようでし…
+着替えるか あきらめるか…
+決めてくだっしぇ","Hrm? But the clothes you're wearing
+haven't been dyed yet!
+
+Change your clothes or forget about it.
+Your choice!"
+49,talk36,"しゃあしゃあ！コミコミ20ルピーで
+アナタのお洋服を好きな色に染めまっしぇ！","Now! I'll dye your clothes to the color
+of your choosing for 20 rupees. That
+includes all consulting fees!"
+50,talk37,"…そうそう逆に染めたお洋服を元に戻す
+脱色も できまっしぇ","I can also remove color from dyed
+fabric so your clothes will be restored to
+their original, if not drab, luster."
+51,talk38,"「人生色々服も色々でっしぇ」でおなじみ！
+ハテノ染めの東風屋へ ようこしょ！","Welcome to Kochi Dye Shop, where we
+live to dye!"
+52,talk39,"その額たったの20ルピー！
+というワケで…","And the total price is just 20 rupees!
+So now..."
+53,talk40,"お客さん スッポンポンじゃありましぇんか！
+それじゃ染めたくても染められましぇん…
+上でも下でも
+何か着るなり履くなりしてくだっしぇ！","Hrm...I think nature's dye is pretty much
+as intended. Not much to do about that.
+
+Put some clothes on and we'll talk!"
+54,talk41,"こんな雨の日は女房との特別なデートを
+思い出しまっしぇ…
+雨に濡れながら プロポーズして…
+大しぇーかいだったでし！","These rainy days remind me of the most
+romantic date I ever went on.
+
+There we were, standing in the soaking
+rain, and I got down on one knee to
+propose. Couldn't have timed it better!"
+55,talk42,"キヒヒッ！
+まいど ありがとうございまっしぇ！","Hee har ha! If you're not a pigment of
+my imagination, you must be a customer!"
+56,talk43,それじゃ ちょっと息とめるでっしぇ！,All right now... Hold your breath!
+57,talk44,それじゃ そのままじっとするでっしぇ！,"All right now... Stay like that and don't
+move a muscle!"
+58,talk45,"それじゃ染料となる素材…
+しっかり抱えとくでっしぇ！",All right now...hold on to your britches!
+59,talk46,それじゃ行きまっしぇ！,Hue we go!
+60,talk47,"頭からつま先まで全身を一気に染めるのが
+ハテノ染めの特色でっしぇ！","It's the Hateno tradition to dye a
+person's whole outfit, from head to toe,
+all at once!"
+61,talk48,"全身の服やら何やらを一気に染めるので
+ビックリしないでくだっしぇ！","Get ready! Because we are going to dye
+all the clothes you're wearing at once!"
+62,talk49,"今日も元気に
+全身を染めまっしぇ！","Another great day to dye that whole
+outfit all at once!"
+63,talk50,"イッツ ショー タ～イム！
+今日も全身""染めていきまショー！","It's time to tint! Another day to dye that
+whole outfit all at once!"
+64,talk51,どうでしか？お客さん,And?! How is it?
+65,talk52,お似合いでしよ！お客さん,You look great!
+66,talk53,キマッてまっしぇ！お客さん,You look dashing!
+67,talk54,"馬子にも衣…
+ス…ステキでっしぇ お客さん！","It's downright miraculous what a
+difference a new set of duds makes.
+You're looking very chic!"
+68,talk55,"身につけた染められる服だけ染まりまっしぇ！
+その格好で いいでしか？","Only the clothes you're wearing that can
+be dyed will change color! Are you sure
+you wanna go with this outfit?"
+69,talk56,それじゃ一発で決めまっしぇ！,Let's get this right on our first dye!

@@ -1,0 +1,211 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ… はぁ…
+危なかったねぇお互い…","Whew... Hoo, boy... That was
+pretty dangerous for both of
+us. But mostly for you."
+2,Atacked01,魔物は まだいるみたいだなぁ…,"I don't like the look of this... There are
+still some monsters running around..."
+3,Failed00,アイタタ…古傷も一緒に痛みだした…,"Ow ow ow... My bum knee's started
+acting up on me now, too!"
+4,Failed01,心配だなぁ…また襲われるんじゃないか？,"I'm feeling really stressed out... What if
+we get attacked again?"
+5,Guardian00,"とっとと逃げよう…
+ガーディアンが おいらたちを探してるはず","We've got to get out of here!
+There's a Guardian after us!"
+6,MSG_Rane_00,"心配だなぁ ゾーラ川の上流…
+雨がずっと降り続いてるらしいからなぁ
+ゾーラ族のみなさん
+洗濯物を干せないよなぁ
+あれ？ゾーラ族って服着てなかったかな？
+いや普通に着てたっけ？
+心配だなぁ おいらの記憶力…","I've been really worried about Zora River
+lately... It's been raining nonstop, from
+what I hear...
+Those poor Zora can't hang their
+laundry out to dry. Not in weather
+like that!
+Wait. Do Zora even wear clothes?
+Maybe? I can never remember...
+Should I be worried about my memory?"
+7,MSG_Rane_00_1,"ゾーラ川の上流は
+ずっと雨が降ってるんだってなぁ
+あれじゃ洗濯物を干せないよなぁ…","It's been raining for ages upstream
+on Zora River. I'm worried that nobody's
+laundry will dry..."
+8,MSG_Rane_01,"ゾーラ族には もう会ったかな？
+
+この湿地帯に住んでる種族なんだけど
+君と馬が合うかどうか心配だなぁ
+馬というか魚な感じなんだけどね","Have you ever met any Zora?
+
+
+They're an aquatic race that lives in this
+watery region. I'm a little worried about
+how they'll take to you, though...
+Seeing as how you don't have fins."
+9,MSG_Rane_01_1,"君は もうゾーラ族には会ったかな？
+なんと言うか…魚っぽい感じのヤツらだよ","Have you ever met any Zora? They're
+the, uh, how should I put this...
+The fishy ones."
+10,MSG_Rane_02,"ちゃんと行けるか心配だなぁ…
+
+いやねじつはこれから君に
+カカリコ村への行き方を教えるんだけどね
+いいかい覚えてくれよ
+この丘を南東に登ればいいんだ
+とはいえ…ちゃんと行けるか心配だなぁ","I'm not sure I should tell you this...
+I'm worried about what you'd do with
+the knowledge...
+Oh, well. I guess I'll tell you anyway!
+Here's how you get to Kakariko Village.
+
+So pay attention. At the fork in the road
+here, head east.
+
+Of course, now that I've told you how to
+get there... I'm worried you'll never
+make it."
+11,MSG_Rane_02_1,"カカリコ村は この丘の上だよ
+君がちゃんと行けるか心配だなぁ","If you're trying to get to Kakariko Village,
+head east at the fork here. But I'm a little
+worried about you making it all the way."
+12,MSG_Rane_03,"心配だなぁカカリコ村の農家…
+
+村で一番の特産品が ニンジンかカボチャかで
+ちょっとした争いが起きてるらしくてね","I'm worried about the farmers in
+Kakariko Village...
+
+They grow pumpkins and carrots. It's
+sort of their specialty. But I hear there's
+a little war going on between them..."
+13,MSG_Rane_03_1,"カカリコ村は特産品がニンジンかカボチャかで
+争ってるんだって心配だなぁ…","Farmers in Kakariko Village are fighting
+over whether carrots or pumpkins should
+be their official vegetable.
+I worry about them..."
+14,MSG_Rane_04,"心配だなぁカカリコ村の長…
+
+かなり長く生きてらっしゃるらしいから
+誕生日のローソクがケーキを覆いつくしそうで…","I've been worried about the elder of
+Kakariko Village lately...
+
+She's lived a really long life...so her
+birthday cake must be just covered in
+candles... What if it just tastes like wax..."
+15,MSG_Rane_04_1,"カカリコ村の長 かなり長生きだから
+誕生日のローソクが ケーキを覆いつくしそう…","The elder of Kakariko Village has lived a
+very long life. I bet her birthday cake
+is just covered in candles..."
+16,Near00,明け方は眠いねぇ…,I'm so sleepy at sunup...
+17,Near01,心配だなぁ…,My nerves are a wreck...
+18,Near02,まあまあの一日…,Not a bad day...
+19,Near03,いろいろ心配だなぁ…,So much to worry about...
+20,Near04,濡れちゃうなぁ…,Aw. Now I'm all wet...
+21,Rest_00,"おいら旅人だけど君のような冒険家じゃない
+ハイラル平原みたいな危険地帯は御免だよ
+多少遠くてもカカリコ村か湿原の馬宿ら辺を
+散策するのが好きなんだな","I'm no adventurer, not like you. I'd
+rather keep away from dangerous
+places like Hyrule Field.
+Even if it's a bit of a trek, I prefer safer
+hikes, like around Kakariko Village or
+the Wetland Stable."
+22,Rest_01,"心配だなぁ雨の日の君が…
+
+崖を登ろうとしても雨で滑って登れなくて
+イライラする君の姿が目に浮かぶよ","I'm worried about you in this rain...
+
+
+I mean, imagine how irritated you'd be
+if you tried to climb a cliff in the rain, but
+you kept slipping and couldn't..."
+23,Rest_02,"心配だなぁ…
+この雨 やまなかったりして…
+やまなかったら ずっとここで雨宿り
+ああ心配だなぁ…","They say there's no such thing as an
+endless rain, but I'm worried that,
+whoever they are, they might be wrong."
+24,RetMSG_Rane_00,"心配だなぁ…
+おいらが止めても君は北西に向かうんだろ？
+ハイラル城の辺りは特に危ないから
+どうしても行くのなら装備を整えておきなよ","I'm worried about you... You're going
+to head northwest, even if I warn you
+not to, aren't you?
+It's especially dangerous around
+Hyrule Castle, so if you insist on
+going, make sure you're well equipped."
+25,RetMSG_Rane_00_1,"北西にあるハイラル城の周辺は特に危ないから
+どうしても行くのなら装備を整えておきなよ","The area around Hyrule Castle, up
+northwest from here, is dangerous, but if
+you must go, have your gear ready first."
+26,RetMSG_Rane_01,"心配だなぁ おいらの身が…
+我ながらハイラル城のこと知りすぎててさ…
+隠し通路があって西坑道から侵入できるとか
+中には お宝が眠っているとかさぁ","I'm worried about my safety. You see...
+I know too much. About Hyrule Castle,
+specifically.
+See, there's this secret West Passage
+you use to sneak in. I've heard there's
+treasure inside, too."
+27,RetMSG_Rane_01_1,"ハイラル城には西坑道から入れる通路があって
+中には お宝が眠っているとか…","There's a way into Hyrule Castle through
+the West Passage is what I've heard. And
+they say there's treasure inside, too."
+28,RetMSG_Rane_02,"心配だなぁ…
+おいらが止めても城に宝探しに行くんだろ？
+強い武器なんかも隠されてるって話だけど
+そこにたどり着く前に…ああ心配だなぁ","I'm worried about you... You're planning
+to go treasure hunting inside the castle
+even if I try to stop you, aren't you?
+Sure, there are bound to be plenty of
+strong weapons inside, but before you
+even reach them... Oh, I'm so worried."
+29,RetMSG_Rane_02_1,"おいらが止めても城に宝探しに行くんだろ？
+強い武器が隠されてる って話だけど…","You'd head for the castle to look for
+treasure even if I tried to stop you... The
+lure of powerful weapons is too strong."
+30,RetMSG_Rane_03,"心配だなぁ ニンジン料理…
+
+2種類あるニンジンを組み合わせると
+その料理は確実に失敗するらしいんだよ
+君が面白がって試しそうで…心配だなぁ","I'm worried about carrots...
+
+
+Did you know that if you accidentally
+mix two different types of carrot, your
+dish will be a disaster?
+Oh, no... I can see by that look in your
+eye... You won't listen to me... You're
+going to mix them anyway, aren't you?"
+31,RetMSG_Rane_03_1,"2種類のニンジンを組み合わせた料理は
+確実に失敗するらしいんだよ…","Don't take my word for it, but any dish
+you make by mixing two types of carrot
+will definitely be a disaster."
+32,RetMSG_Rane_04,"心配だなぁ塩分摂りすぎ…
+
+どんな料理にも合う岩塩は
+カカリコ村で簡単に手に入るっていうしなぁ","I'm worried about my salt intake...
+
+
+After all, it's pretty easy to get your
+hands on rock salt in Kakariko Village.
+And it tastes good with everything..."
+33,RetMSG_Rane_04_1,"カカリコ村の岩塩を使った料理は美味しいから
+塩分摂りすぎないか心配だなぁ…","It's pretty easy to get your hands on
+rock salt in Kakariko Village. And it
+tastes good with everything..."
+34,SavedLv1_00,もう魔物はいない？ どう？,Are all the monsters all gone? Well?
+35,SavedLv1_01,生きた心地がしなかったなぁ…,I was certain I wasn't going to make it...
+36,SavedLv2_00,なんとか命拾いしたって感じだなぁ…,I feel like I just had a brush with death!
+37,SavedLv2_01,"おいらは別に
+冒険家ってわけじゃないんだけどなぁ","I'm not cut out for adventure or anything
+like that. Adventure makes me break out
+in a cold sweat."
+38,SavedLv3_00,この辺りも魔物が増えたなぁ…,"There've been a lot of monsters
+wandering around here lately."
+39,SavedLv3_01,今のうちに この場を去った方がいいね…,"I wonder if we should get out of here
+now while we have a chance..."
+40,Thanks00,"助けてくれてありがとう
+これ受け取って","Thanks for saving me. I'm worried that
+I might not be grateful enough, so take
+this..."

@@ -1,0 +1,38 @@
+#,Title,JPja,USen
+1,"""0000""",聴かせて,"Yes, please."
+2,"""0001""",今はいい,Not now.
+3,Near000,蒼き海に……,"Ah, the smell of the sea."
+4,talk00,"この不思議な形をした岩の柱にも
+古くから伝わる詩があります
+お聴きになりますか？","This oddly shaped rock pillar we're
+standing on is the subject of a song.
+Would you like to hear it?"
+5,talk01,"ありがとうございます！
+それでは お聴きください……","As you wish!
+*ahem*"
+6,talk02,"古の勇者""残せし言の葉
+我 いつの日か蘇る""厄災に備えん","An ancient hero spoke these words:
+\""One day I'll return to fight evil.\"""
+7,talk03,"勇者が蓄え…… いわゆるヘソクリでしょうか？ですが かの厄災を鎮めたという勇者です
+さぞ大金なのではないでしょうか？
+では あなたの旅路に光がありますよう……","\""My cache?\"" Could it be a hidden stash
+of money?If it was left by the ancient hero that
+defeated the Calamity 10,000 years ago,
+it must be a big amount!
+Good luck figuring it out.
+May the light illuminate your path."
+8,talk04,"この岩の柱にまつわる古の詩
+お聴きになりますか？","Would you like to hear the ancient song 
+about this rock pillar?"
+9,talk05,"そうですか…分かりました
+では あなたの旅路に光がありますように…","Maybe some other time, then.
+May the light illuminate your path."
+10,talk06,"……え？もう手に入れたんですか？！なんと金ルピー…… うーん""勇者といえども
+大金持ちでは なかったのですね……","Ah! You already found it?A...single gold rupee? I guess all heroes
+aren't made of money."
+11,talk07,"おや？ こんなところにまで
+人が来るとは珍しい……","Why, hello! I certainly didn't expect to
+see anyone else up here."
+12,talk08,"蒼き海に そびえ立つ岩
+17のとき""我が蓄えを""指し示す","\""My cache is at 17 of 24,
+This rock will point toward its retrieval.\"""

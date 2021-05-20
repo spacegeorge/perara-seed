@@ -1,0 +1,209 @@
+#,Title,JPja,USen
+1,Atacked00,"うむ… 
+馬の手当てもしないといかん",Hmm... I need to look after my horse.
+2,Atacked01,"往診に遅れそうだが
+しかたない…","I'm going to be late for my rounds, but
+it can't be helped."
+3,Failed00,"ふぅ…はぁ…
+まいった…",Oof... *pant...* I think I'm done for...
+4,Failed01,"動悸に息切れ… ハァ…
+医者の不養生というやつだ…","Heart palpitations, shortness of breath...
+Ah, me... Looks like I need to start taking
+my own advice. Heal thyself, physician!"
+5,Guardian00,"ガーディアンだ！早くお逃げなさい！
+",A Guardian! Get out of here! Quickly!
+6,MSG_Rane_00,"…この湿原の馬宿を後にして
+これから リバーサイド馬宿に向かうところでな
+わしは医者なので病人がいないかどうか
+問診をしてまわっておるでな","Wetland Stable can wait 'til later. Right
+now, I'm headed for the Riverside Stable.
+
+As a doctor, I spend a lot of time on the
+road, making the rounds, visiting the
+sick."
+7,MSG_Rane_00_1,"これから リバーサイド馬宿に向かうところでな
+病人がいないか""問診をしてまわっておるでな","I'm headed for the Riverside Stable. As a
+doctor, I spend a lot of time on the road,
+making the rounds, visiting the sick."
+8,MSG_Rane_01,"万病に効く薬があると聞いたら
+医者のわしは いてもたってもいられなくなる
+その薬はネルドラのウロコという名前で
+聖なる泉の使いと関係があるとかないとか…","As a doctor, I was struck to the core
+when I heard there was a medicine
+that could cure all kinds of sicknesses.
+It's called Naydra's scale, and my
+research suggests it's connected to the
+attendant to a sacred fountain..."
+9,MSG_Rane_01_1,"ネルドラのウロコという
+万病に効く薬があるらしくてな
+聖なる泉の使いと関係があるとかないとか…","Naydra's scale is a powerful medicine
+that stories say is connected to the
+attendant to a sacred fountain..."
+10,MSG_Rane_02,"往診先で聞いた国家機密級の情報をひとつ…
+コッコを驚かせると タマゴを生むらしい
+…国家機密じゃなくてコッコ機密だったわい","I once overheard a court secret of the
+royal family in the course of doing my
+rounds...
+If you startle a Cucco, it'll lay an egg!
+...Wait, that's not a court secret. It's
+a Cuccourt secret."
+11,MSG_Rane_02_1,"コッコを驚かせると タマゴを生むらしい
+コッコ機密だからな","If you startle a Cucco, it'll lay an egg!
+It's a Cuccourt secret."
+12,MSG_Rane_03,"以前話したかどうか忘れたが
+聖なる泉の言い伝え…
+ラネール山 フィローネの森 オルディン火山
+それぞれの地方に似たような話があってのう
+それぞれの泉で手に入る龍のウロコには
+万病を治すという効能があるというんだが…","I may have already told you this, but...
+There is a legend about three sacred
+springs...
+They can be found in Mount Lanayru,
+Faron Woods, and the Eldin Mountains.
+The stories all say the same thing...
+That these springs call to dragon scales.
+Although what that means, no one has
+yet been able to decipher."
+13,MSG_Rane_03_1,"ラネール山 フィローネの森 オルディン火山
+それぞれに聖なる泉の言い伝えがあってのう
+そこで手に入る龍のウロコには
+万病を治すという効能があるというんだが…","Three sacred springs in Mount Lanayru,
+Faron Woods, and the Eldin Mountains...
+And the stories all say the same thing...
+That these springs call to dragon scales.
+Although what that means, no one has
+yet been able to decipher."
+14,MSG_Rane_04,"往診先で聞いた
+なんと裸に関する情報だけどね…
+ちょっと速く泳げるらしいのう…裸だと","Here's a little something I learned
+when I was running around in my
+undies one day...
+You can swim a little faster...if you're
+wearing a little less. "
+15,MSG_Rane_04_1,"ちょっと速く泳げるらしいのう…
+裸だと","I hear you can swim really fast...when
+you're swimming in your skivvies."
+16,Near00,寝坊はいないか…,Got a fever?
+17,Near01,病人はいないか…,Got a cough?
+18,Near02,けが人はいないか…,Broken bones?
+19,Near03,酔っ払いはいないか…,Feeling woozy?
+20,Near04,風邪ひくなよ…,Don't catch cold!
+21,Rest_00,"わしは医者だが
+診療所は持たん主義でのう
+湿原の馬宿からリバーサイド馬宿の間を
+馬を走らせ往診に回る毎日だ","I'm a doctor, but I prefer not to keep 
+my own office. I'd rather make my rounds
+and go where I can do the most good.
+I spend each and every day running my
+poor horse ragged, going between the
+Wetland Stable and Riverside Stable."
+22,Rest_01,"医者のわしも ときどき腰が痛んでのう
+医者の不養生というやつかな","Even I get a sore back sometimes
+with all the riding I do."
+23,Rest_02,"たまには雨も いいもんだ
+落ち着いて ものを考えられるからのう…","Rain is nice every once in a while.
+Listening to the sound of rainfall is a
+nice way to calm yourself down."
+24,RetMSG_Rane_00,"魔物に襲われかけたりもしたけれど
+どうにか湿原の馬宿に辿り着いたわい
+病人が いなけりゃ医者も ただの人…
+心置きなく休むとしよう","It was rough going, what with all the
+monster attacks along the way, but I
+made it to Wetland Stable in one piece.
+As long as no one needs any medical
+attention, I can just relax and be a
+normal person. I think I've earned it..."
+25,RetMSG_Rane_00_1,"病人が いなけりゃ医者も ただの人…
+心置きなく休むとしよう","A doctor with no one to care for is just
+a regular person. I think I've earned
+a rest..."
+26,RetMSG_Rane_01,"万病に効くというネルドラのウロコはご存知か？
+ラネール山の知恵の泉にあるらしい
+その泉にはネルドラと呼ばれる
+龍の姿の精霊がいるという言い伝えもある","I've been researching Naydra's scale,
+some sort of miraculous medicine that
+works against all kinds of ailments.
+From what I've read, it can be found at
+the Spring of Wisdom on Mount Lanayru.
+
+The legends also spoke of a spirit there,
+a spirit called Naydra that takes the form
+of a dragon."
+27,RetMSG_Rane_01_1,"万病に効くというネルドラのウロコは
+ラネール山…知恵の泉にあるらしい
+泉にはネルドラと呼ばれる
+龍の姿の精霊がいるという言い伝えもある","Naydra's scale can cure any sickness.
+You can find it on Mount Lanayru, at
+the Spring of Wisdom, I hear.
+The legends spoke of a spirit there—a
+spirit called Naydra that takes the form
+of a dragon."
+28,RetMSG_Rane_02,"あんたはお若いから やり遂げそうだ…
+いやなに ラネール山に登る話だ
+万病に効くネルドラのウロコがあるらしいが
+あの山の寒さは この歳には厳しすぎるわい","You're young and strong. Maybe you
+could take up that challenge. I'm talking
+about climbing Mount Lanayru.
+Naydra's scale can cure any illness. I
+don't know of any doctor alive who
+wouldn't thrill at the prospect.
+I'd do it myself, but that mountain is far
+too cold for these old bones."
+29,RetMSG_Rane_02_1,"ラネール山… あそこには
+万病に効くという龍のウロコがあるらしいが
+あの山の寒さは この歳には厳しすぎるわい","Naydra's scale can cure any illness. I
+don't know of any doctor alive who
+wouldn't thrill at the prospect.
+I'd climb Mount Lanayru, but that
+mountain is far too cold for these
+old bones."
+30,RetMSG_Rane_03,"わしは行ったことないが知恵の泉には
+ネルドラという名の精霊がいるというぞ
+その姿は ドラゴンにそっくりらしいが
+どれだけ似ているのか怪しいもんだ","I've never been there myself, but they
+say there's a spirit called Naydra at the
+Spring of Wisdom.
+They say it looks like a dragon, but like
+I said, I've never been there myself,
+so I wouldn't know."
+31,RetMSG_Rane_03_1,"わしは行ったことないが知恵の泉には
+ネルドラという名の精霊がいるというぞ","I've never been there myself, but they
+say there's a spirit called Naydra at the
+Spring of Wisdom."
+32,RetMSG_Rane_04,"わしはこう見えても まあまあの医者でな
+簡単な薬の作り方くらいは教えてあげられる
+要するに虫と魔物の素材を混ぜるだけ
+どんな薬ができるか いろいろ試してみるといい","I might not look it, but I'm a plum doctor.
+Why, I can even teach you how to make
+your own medicine. Nothing fancy, mind.
+The basic idea here is to just mix up
+insects with monster parts. Experiment
+a little, and see what you end up with."
+33,RetMSG_Rane_04_1,"虫と魔物の素材を混ぜたら簡単に薬が作れる
+どんな薬ができるか いろいろ試してみるといい","Making medicine isn't too hard, once you
+know the basics. Just mix up insects with
+monster parts and see what happens."
+34,SavedLv1_00,"ふぅ…何とか助かったわい…
+最近の若者は じつに頼もしい","Well, I'll be. I survived! You young folks
+nowadays certainly are a capable bunch."
+35,SavedLv1_01,"またしても若者に助けられた…
+どうもありがとう！","Rescued by a youngster, yet again.
+Thank you kindly!"
+36,SavedLv2_00,"物心ついた頃から見ているが
+魔物には なかなか慣れんわい…","You know, I've been around them my 
+whole life, but I just can't cotton to
+monsters."
+37,SavedLv2_01,"わしなんかのために
+若いあんたが怪我したら もったいない…","Well, thank you, but it'd sure be a shame
+if someone like you, in the prime of your
+life, got hurt helping this old-timer."
+38,SavedLv3_00,"あんた怪我はなかったか？
+わしは なんとか大丈夫だ…","You aren't hurt, are you? I think I pulled
+through all right."
+39,SavedLv3_01,"医者のわしが患者になるところだった…
+いやいや助けてくれてありがとう！","Imagine the irony—me, a doctor making
+my rounds, almost wound up needing
+one! Thanks so much for your help."
+40,Thanks00,"これは せめてもの礼だ
+受け取ってくれ","I don't have much to offer you, but
+please, take this as thanks."

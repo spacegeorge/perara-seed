@@ -1,0 +1,146 @@
+#,Title,JPja,USen
+1,"""1001""",ここは？,What is this place?
+2,"""1002""",なにしてるの？,What are you doing?
+3,"""1003""",さようなら,Bye.
+4,"""2000""",武器にする！,As a weapon!
+5,"""2001""",火をつける！,To set things on fire!
+6,"""2002""",ヒミツ,It's a secret...
+7,Apple00,こりゃ わしの焼きリンゴじゃぞ！,"I BEG YOUR PARDON! I do believe that
+is my baked apple! You can't just go
+about taking whatever you please!"
+8,Apple01,"ふぉっ ふぉっ ふぉっ
+
+冗談じゃよ…
+リンゴは こんがり焼いたぐらいが美味いんじゃ","Oho ho! Forgive me—I could not resist
+pulling your leg.
+
+Please help yourself. An apple and an
+open flame make for a succulent treat."
+9,ClearTerrorEnemy,むう…,Hmm...
+10,GoodBye00,祠のお宝楽しみにしておるぞ,"I look forward to seeing what type of
+treasure you secure out there."
+11,GoodBye01,"ふぉっ ふぉっ ふぉっ
+パラセールが欲しかったら がんばることじゃ","Oho ho! If you still wish to acquire the
+paraglider, you must put in the effort.
+I will not simply give it away, you see."
+12,GoodBye02,"むう…
+用もないのに起こすでないぞ","Hmph! To an old man, a sound sleep is
+more valuable than gold. Please do not
+disturb me unless you have need of me."
+13,GoodBye03,"ふぉっ ふぉっ ふぉっ
+あったかくて気持ちがいいわい","Ah, invigorating! I encourage you to
+join me by this warm fire."
+14,GoodBye04,"わしは しばらく ここにおるでな…
+何かあれば また訪ねるがいい","I shall be here for some time.
+Please let me know if I may
+be of service."
+15,GoodBye05,"のう… お主
+どこか行くところが あるんじゃないかの？","Do you not have somewhere else to be,
+young one?"
+16,NakedPlayer,裸とな…,Aren't you...a bit chilly?
+17,Near00,ふぉっ ふぉっ ふぉっ,Oho ho!
+18,Near00_First,……,...
+19,Near02,Zzz... Zzz...,Zzz...
+20,Near03,……,...
+21,Takibi00,"ちょっと体が冷えてのう
+たき火にあたって休んでおるのじゃ","Oh... I was just feeling a chill. A warm
+fire can do wonders for a weary soul."
+22,Takibi01,"ひまをつぶすには たき火が一番じゃ
+炎を見ていると時が経つのも忘れるからのう
+お主も どうじゃ？
+好きなだけ ゆっくりしていくがいい","A campfire is a wonderful place to
+pass the time.Staring into these flames, it's easy to
+lose track of the hours...
+
+Bah! Please ignore my ramblings.
+Feel free to relax here for as long
+as you'd like."
+23,Takibi02,"ひまをつぶすには たき火が一番じゃ
+好きなだけ ゆっくりしていくがいい","A roaring fire makes it easy to pass
+the time. Feel free to relax here for
+as long as you'd like."
+24,Takibi03,"たき火に ゆっくりあたって
+また焼きリンゴでも こしらえるとするかのう
+食材は そのまま食うのもいいが
+あぶった方が栄養も増して美味いんじゃ","I'm relaxing by the fireside, of course.
+Although I'll need to cook myself another
+baked apple at some point...
+Simple foods such as apples are fine to
+eat raw, but roasting them on a fire
+makes them tastier and more nutritious."
+25,Talk00,うん？ なんじゃ？,Hm? What's this?
+26,Talk01,"ふぉっ ふぉっ ふぉっ
+また会うたな","Well, hello. So we meet again..."
+27,Talk02,"そんな格好じゃ寒かろう
+たき火にでも あたっていかんか？","You'll catch a chill out there in the wild.
+Come warm your bones by the fire."
+28,Talk03,"夜は魔物も増えて危ないぞ
+朝まで ひまをつぶしていかんか？","Vicious beasts answer the night's call in
+greater numbers. Feel free to pass the
+time here with me until the light of morn."
+29,Talk04,"なんじゃ…
+せっかく寝てたというにのう","Hrm?! What's that? It seems there is
+no rest for the old and weary."
+30,Talk06,"ふぉっ ふぉっ ふぉっ
+そこのたき火に あたっていかんか？","Oho ho, what are you waiting for?
+Come and sit by the fire."
+31,Talk07,祠のお宝は まだかの？,"I take it you are still searching for
+some of the treasure hidden here
+on the plateau, correct?"
+32,Talk08,"祠探しのほうは どうじゃ？
+はかどっておるかの？","So then... How goes your endeavor to
+explore the shrines?"
+33,Talk09,"ふぉっ ふぉっ ふぉっ
+わしに何か用かの？",Yes? How might I be of service to you?
+34,Talk10,"ふぉっ ふぉっ ふぉっ
+やっぱり話がしとうなったようじゃの？","Oho ho! So you fancy yourself the
+strong silent type, eh?"
+35,Talk11,うん？ なんじゃ？,Yes?
+36,TalkHub1_01,ふぉっ ふぉっ ふぉっ,Oho ho!
+37,TerrorArrow,何をする！,What is this?!
+38,TerrorBomb,何じゃ？,What is it?!
+39,TerrorEnemy,ひぃーっ！,Whoa!
+40,TerrorExplosion,ぬわーっ！,Huh?!
+41,TerrorFire,あちゃっ,Toasty...
+42,TerrorImpulse,ひぃーっ！,Whoa!
+43,TerrorInsect,ひぃーっ！,Whoa!
+44,TerrorSword,やめんか！,Easy there!
+45,Torch00,その たいまつ どうするつもりじゃ？,"Well then, just help yourself to that
+torch there. And how, may I ask,
+are you planning to use it?"
+46,Torch01,"ぶっそうなヤツめ…
+そいつは火をつけるのに使うもんじゃ
+この先には魔物もおる
+武器なら もっとマシなのにするんじゃな","Innovative... However, that is probably
+best used to light fires. If you need a
+weapon, you can find something better."
+47,Torch02,"わしのオノでもいいのなら その辺にあるぞ
+持っていくがいいわい","Many beasts roam the land past this
+point. You can take my axe with you,
+if you please. Assuming you can find it."
+48,Torch02_2,"わしのオノを持っているようじゃが
+そっちの方が役に立つんじゃないかのう","Ah, I see you found my axe. I do believe
+it will be of more use to you than it is
+to me."
+49,Torch03,"あぶないヤツめ…
+燃えやすい草の近くで振り回すんじゃないぞ
+とはいえ この先には魔物もおるでな
+いざとなったら武器として使うのもいいがな","That is rather...unnerving. Please be
+cautious with that around any dry
+grass that might catch fire.
+You know, there are plenty of monsters
+in this area. That torch would make
+a good weapon, if need be."
+50,Torch04,"ふん…好きにするがいいわい
+
+言っておくが この先には魔物がおるぞ
+いざとなったら武器としてでも使うんじゃな","I see. Well then, do as you please.
+
+
+There are plenty of monsters ahead of
+here, though. Remember that you can
+use that as a weapon, if need be."
+51,Torch05,"適当に振り回さずに相手を向いて
+しっかりと間合いをとることじゃ","However, do not just swing it around
+without purpose. You must face your
+opponents and lock your sights on them!"

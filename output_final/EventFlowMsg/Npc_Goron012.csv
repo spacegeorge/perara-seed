@@ -1,0 +1,91 @@
+#,Title,JPja,USen
+1,"""0000""",ゴロンシティって？,What's Goron City?
+2,"""0001""",あなたは？,Who are you?
+3,"""0002""",大変ですね,Looks tough.
+4,"""0003""",さよならゴロォ,Take care.
+5,near00,掘りまくるゴロォ！,We're gonna dig 'em dry!
+6,near01,気合だぁゴロォ！,Get serious!
+7,near02,腰を入れるゴロォ！,Put your backs into it!
+8,near03,オラァゴロォ！,Dig!
+9,near04,始めるゴロォ！,Let's go!
+10,near05,撤収ゴロォ！,Clear out!
+11,near06,スヤスヤ…,Zzz...
+12,talk00,ガーッハッハッハ！ゴロォ！,Gahahaha!
+13,talk01,"鉱石を
+ジャンジャンバリバリ掘りまくるゴロォ！","We're gonna rip the ore
+right outta this place!"
+14,talk02,"掘れば掘るほど儲かるゴロォ！
+ひたすら掘り続けるゴロォ！！","The more ya dig, the more ya earn!
+Keep on diggin'! DIG! DIG! DIG!"
+15,talk03,"全ては組長のため そしてゴロンシティのため！
+鉱石を掘りまくるゴロォ！","Everything we do is for the Boss...
+and for Goron City too!
+I want all that ore! All of it!"
+16,talk04,"俺の幸せは組長の幸せ！
+延いては ゴロンシティの幸せゴロォ！
+鉱石を掘って掘って売りまくるゴロォ！","My happiness is the Boss's happiness!
+And that means it's Goron City's
+happiness too!
+Dig, dig, and then dig some more!
+Then sell all that sweet, sweet ore!"
+17,talk05,他にもあるゴロォ？！,You need somethin' else?!
+18,talk06,"……おっと！
+アンタにゃ関係無かったゴロォ！",...Hmph! That has nothin' to do with you!
+19,talk07,ゴロンシティとは俺達 ゴロンの街！,Goron City is where us Gorons live. 
+20,talk08,"おぅ！ 
+
+ゴロンシティが潤ってんのも
+俺達のおかげなんだぜェゴロォ！
+しかし本当はもっと山頂近くで
+掘りたいけどよォ
+トカゲのバケモンが邪魔でなァ…ゴロォ！","The reason Goron City is so prosperous
+is because of the work we do here.
+
+I actually wanna dig closer to the
+summit, but that lizard monster
+is in the way..."
+21,talk09,おぅゴロォ！,That's right!
+22,talk10,目が覚めるような鉱石を ゲットするゴロォ！,"I'm gonna get a piece of ore so bright,
+it'll keep me awake for days!"
+23,talk11,今日の目標は鉱石1000個だゴロォ！,"The target for today is 1,000 pieces
+of ore! Don't settle for less!"
+24,talk12,"今日の取れ高
+他のヤツに負けるわけにゃ いかねぇゴロォ！",We've gotta make that number!
+25,talk13,"いい鉱石を掘り当てて
+給料アップゴロォ！","My salary's increased because I found
+some good ore!"
+26,talk14,"今日もいい鉱石""見つかるかなァ？ ゴロォ！","I'm gonna try to find some good ore
+today too!"
+27,talk15,仕事仕事ゴロォ！,I'm headin' to work!
+28,talk16,ムニャ…掘って掘って…ゴロォ,Mmph... Dig... Dig...
+29,talk17,…もっと掘るゴロォ,Dig faster... Diiig...
+30,talk18,"撤収だァ ゴロォ！
+用があるなら また明日だぁゴロォ！","Clear the site! If ya need me for
+anything, come back tomorrow!"
+31,talk19,"行きたきゃ この道を真っ直ぐゴロォ！
+
+ハイリア人なら火傷に気を付けるゴロォ！","Just go straight down this road to get
+there. But as a Hylian, ya better be
+careful not to get burned!"
+32,talk22,おっと旅の人には関係なかったゴロォ！,This has nothin' to do with tourists!
+33,talk24,……おっと！また アンタかァ！！,...Hey! You again?!
+34,talk26,"俺は採掘会社ゴロン組
+班長のドリルド ゴロォ！","I'm Dorill, head of the Goron Group
+Mining Company!"
+35,talk28,"ゴロンシティ組長の指示により
+ここで採掘をしてるゴロォ！
+さァ今日も掘って掘って掘りまくるゴロォ！","We're diggin' this site out under direct
+orders from the Boss of Goron City. 
+
+No time to chat! Gotta dig!"
+36,talk29,"おぅ！
+
+本当はもっと山頂に近い方が
+いい鉱石が取れるんだが
+最近掘れなくなっちまったから
+この辺で掘ってるゴロォ！","It is! See, normally you can find better
+ore as you get closer to the summit.
+
+...But lately we can't get close enough,
+so we started diggin' here instead."
+37,talk30,おっと アンタかァ！！,"Oh, it's you!"

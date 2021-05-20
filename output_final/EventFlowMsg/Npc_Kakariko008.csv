@@ -1,0 +1,330 @@
+#,Title,JPja,USen
+1,Near01,う梅の木が…,My precious plum trees...
+2,Near02,少ないような…,Are a few missing?
+3,Near03,大きくなったのぅ…,They're getting big...
+4,Near04,ふぅ…,Phew...
+5,Near04_rain,今日は雨か…,Looks like rain today...
+6,Near05,さてさて…,Let's see...
+7,Near05_rain,よく降るのぅ…,It's really coming down...
+8,Near07,…,...
+9,Near08_rain,よく降るのぅ…,It's really coming down...
+10,SupriseHouse,"盗人！
+
+…ではないようじゃのぅ
+まったく驚かせよってからに","THIEF!
+
+
+...Oh, it's only a kid. You nearly gave me
+a heart attack."
+11,Talk00,"さあさあ じいさんのご飯をつくらないとねぇ…
+今日は何にしようかねぇ…","Let's see here... I gotta sort the
+old man's supper... What should
+we have today?"
+12,Talk01,おはようさん,Mornin'!
+13,Talk02,"すっかり暗くなっちゃったねぇ…
+夜道は危険だから お兄さんも気を付けるんだよ","It got dark quick today, didn't it?
+Young one, you should know the roads
+are dangerous at night. Be careful."
+14,Talk03,"まぁまぁ この雨の中笠も持たずに…
+私のを貸してあげたいところだけど
+この笠は シーカー族の者しか
+身に着けることを許されてなくてねぇ
+風邪ひかないようにねぇ","Look at you, out in the rain with no
+umbrella! I'd lend you mine, but it's
+actually a special umbrella...
+Only members of the Sheikah tribe are
+permitted to use it. Sorry... Please mind
+you don't catch a cold, OK?"
+15,Talk04,"はいはい
+生きてますよ…
+あら… 
+てっきり ナーキンじいさんかと…
+私は寝息が静かな性質でねぇ
+時々じいさんが心配して起こしてくるものでねぇ
+まったく…男ってのは
+なんでこう心配性なのかねぇ…","Yeah, yeah. I'm still alive.
+It's fine—don't worry...
+
+Huh? Oh! Sorry, I thought you were my
+old Olkin.
+
+My breath is so shallow when I sleep,
+sometimes my Olkin gets worried and
+wakes me up.
+I don't know what it is about men.
+Constantly worrying..."
+16,Talk05,"ここだけの話 ナーキンじいさんは
+ゴスティンさんが嫌いなんじゃなく
+単に ニンジンが苦手なだけなんじゃ…
+
+まったく…男っていうのは
+なんでこう見栄っ張りなのかねぇ…","Just between you and me, it's not that
+my old Olkin really hates Steen...
+he just can't stand carrots!
+I don't get what it is about men.
+So petty..."
+17,Talk06,"おや お兄さん
+なんだか お疲れのようだねぇ…
+もう暗いし お兄さんも休んだらどうかねぇ？
+宿屋は坂の下だよ空いてるといいねぇ","Young one! You look tired...
+It's dark anyhow, so why not
+have a rest?
+The inn's at the bottom of the hill.
+Hopefully they've got a vacancy."
+18,Talk07,"こら！
+何しとるか！",HEY! What are you doing?!
+19,Talk08,"この梅の木はなぁ…
+私が生まれた時から大切にしている
+いわば私の分身みたいなもんじゃ
+
+この木が朽ちて消える時…
+私の命も…
+そう思って
+大切に大切に育てておるでねぇ…
+なもんで私がいる限り
+うちの梅園では悪さはさせないよ！","These plum trees... I've been raising
+them my whole life. They've grown as
+I've grown. They're...a part of me.
+When these trees eventually rot and
+fall away...so will I.
+
+That's why I've painstakingly raised them
+with all the love I can muster.
+
+So as long as I'm around, there's no way
+I'll let you mess with my plum garden!"
+20,Talk09,"なあ おまえさん…
+
+入っちゃいかんと言うとるだろうに！
+
+梅の木に もしものことがあって
+私の身に災いが降りかかったら どうする！
+まったく…
+か弱いばあさんを怒らせるんじゃないよ！","Like I said...
+
+
+You are NOT allowed in here!
+
+
+What if something happens to my
+plum trees? What if something
+happens to ME?!
+For goodness' sake... Just leave a poor
+old lady alone!"
+21,Talk10,すっかり目が覚めてしまいましたねぇ…,"Welp, now I'm completely awake..."
+22,Talk11,このひよっこが！,You rascal!
+23,Talk12,この青二才めが！,Darn whippersnapper!
+24,Talk13,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+荒らされんように見張っとかんとな","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+our environment and consider plum
+trees the silent guardians of our village.
+These plums here were planted by Impa
+on the day I was born. They're special
+to me, so I keep a close watch on them."
+25,Talk13_rain,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+雨なんぞ関係ない…
+荒らされんように見張っとかんとな","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+our environment and consider plum
+trees the silent guardians of our village.
+These plums here were planted by Impa
+on the day I was born. They're special
+to me, so I keep a close watch on them."
+26,Talk14,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+しかし…気のせいかのぅ…
+少し本数が少なくなった気がするのぅ…","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+our environment and consider plum
+trees the silent guardians of our village.
+These plums here are special to me.
+They were planted by Impa on the
+day I was born.
+Perhaps it's just my imagination, but...
+it seems like there are fewer of them
+now than there used to be..."
+27,Talk14_rain,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+しかし… この雨のせいかのぅ…
+梅の木が少し減ったように見えるのぅ…","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+our environment and consider plum
+trees the silent guardians of our village.
+These plums here are special to me.
+They were planted by Impa on the
+day I was born.
+Perhaps it's just the veil of rain, but...
+it seems like there are fewer of them
+now than there used to be..."
+28,Talk15,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+……
+
+などと言っとる場合じゃないわい
+
+う梅の木が一本もないんじゃ！
+
+なんと言うことじゃ… この木は分身も同じ…
+今日でこの婆の命も終わりかもしれんのぅ…","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+our environment and consider plum
+trees the silent guardians of our village.
+These plums here are special to me.
+They were planted by Impa on the
+day I was born.
+...
+
+
+WHAT AM I SAYING? THIS IS NO
+TIME FOR A HISTORY LESSON!
+
+M-my plum trees... They're all gone!
+
+
+Those trees were my life... I suppose
+today's the day this old lady's life
+loses its meaning..."
+29,Talk15_rain,"梅は冬を耐え忍び春一番に花を咲かせる
+「忍耐」と「繁栄」の象徴…
+我々シーカー族は自分達の境遇と重ね
+梅の木を村の守りとして大切にしてきた
+特に この梅は私が生まれた日に
+インパ様が植えてくださった特別な梅
+……
+
+などと言っとる場合じゃないわい
+
+う梅の木が…
+
+梅の木がなくなっとるんじゃ！
+
+なんと言うことじゃ… この木は分身も同じ…
+今日でこの婆の命も終わりかもしれんのぅ…
+私が生まれた日も雨が降っとったらしい
+最期の日も雨とはの…","Plums symbolize endurance
+and prosperity.
+
+The way they persevere through the
+harshness of winter and flower at the
+first sign of spring...
+We Sheikah strive to live in harmony with
+the world around us and consider plum
+trees the silent guardians of our village.
+These plums here are special to me.
+They were planted by Impa on the
+day I was born.
+...
+
+
+WHAT AM I SAYING? THIS IS NO
+TIME FOR A HISTORY LESSON!
+
+M-my plum trees...
+
+
+My plum trees are all gone!
+
+
+Those trees were my life... I suppose
+today's the day this old lady's life
+loses its meaning...
+I was told it rained the day I was born.
+Fitting...that it would be raining the day
+my soul died, too..."
+30,Talk16,"この梅の木はなぁ…
+私が生まれた時から大切にしている
+いわば私の分身みたいなものでなぁ…
+
+この木が朽ちて消える時…
+私の命も…
+そう思って大切に大切に
+育てておるでねぇ…
+なもんで私がいる限り
+うちの梅園では悪さはさせないよ！
+……","These plum trees... I've been raising
+them my whole life. They've grown as
+I've grown. They're...a part of me.
+When these trees eventually rot and
+fall away...so will I.
+
+That's why I've painstakingly raised them
+with all the love I can muster...
+
+So as long as I'm around, there's no way
+I'll let you mess with my plum garden!
+
+..."
+31,Talk17,ああっ梅の木が！！！,MY PLUM TREES!!
+32,Talk18,"う …""梅の木が一本も…
+
+なんということじゃ… この木は分身も同じ…
+今日でこの婆の命も終わりかもしれんのぅ…","There isn't a single one left...
+
+
+Those trees were my life... I suppose
+today's the day this old lady's life
+loses its meaning..."
+33,Talk19,"といっても
+梅の木はもうないんじゃったな…
+長年守っておったでのぅ
+梅園を守るのが クセになってしもうとるわい
+はぁ…
+今日で私の命も最期かもしれないねぇ…","I say that, but...there really aren't any
+plum trees left, are there?
+
+I watched over them for so long...
+I hardly know what to do with
+myself now.
+*sigh* Perhaps this means I have no
+more purpose here... No meaning..."
+34,Talk20,さあさあ梅の木の様子でも見に行こうかねぇ,"Hmm, I suppose I should go see how my
+sweet plum trees are doing..."
+35,TerrorSword,やめてくだされ,Cut that out!

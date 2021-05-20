@@ -1,0 +1,266 @@
+#,Title,JPja,USen
+1,"""0000""",武器ポーチ,Weapon stash!
+2,"""0001""",弓ポーチ,Bow stash!
+3,"""0002""",盾ポーチ,Shield stash!
+4,"""0003""",結構です,Nothing right now.
+5,"""0004""",お願いします,Yeah.
+6,"""0005""",やっぱやめる,Never mind.
+7,"""0006""",は～い,Yes!
+8,"""0007""",さようなら,Good-bye.
+9,"""0008""",その通り！,"Nope, just me."
+10,near00,踊りたい…,I must dance!
+11,near01,ラン♪,♪La dah dee!♪
+12,near02,リャン♪,♪Dah dee dah!♪
+13,talk00,"キュルン♪
+
+キミちん！また会ったね！
+
+どうしたの黙っちゃって…ボクちんだよ？
+コログの森の音楽家ボックリン♪
+それにしても迷いの森を抜けて
+よくここまで来られたねぇ…
+あの時の約束通りコログのミ集めて
+持って来てくれたんでしょ？","♪Shalaka!♪
+
+
+It's you! We meet again!
+
+
+What's with the silent treatment?
+Don't you remember me? I'm the
+musician of Korok Forest, Hestu!
+I'm impressed you found your way
+through the Lost Woods and made it
+here...
+So have you brought me any
+Korok seeds?"
+14,talk01,"そのコログのミくれたら
+お礼にポーチ大きくしたげるけど どう？","If you'll return my lost Korok seeds to
+me, I'll expand the size of your inventory.
+Which stash do you want another slot in?"
+15,talk05,キュン… さみしぃなァ～,Shaka... How sad...
+16,talk07,"キュ！ キュルン…！ ハダカ！
+
+いーっしょいっしょ ボクらと一緒！
+パッパカパーの スッパダカー♪","Shaka! Shakaka!
+You are nekkid!
+
+I am nekkid!
+We are united in exposure!
+♪Nekky nokky nakey!♪"
+17,talk08,"ハダカッ♪ ハダカッ♪
+パッパカパーの スッパダカー♪","♪Nakey nakey!♪
+♪Nekky nokky nakey!♪"
+18,talk12,"…キャッ！
+キミ全てのポーチを大きくしちゃった？！
+すんすん ごいごい！すんごいよねぇ～♪","...Shakalo?! You've enlarged all of your
+stashes!
+
+♪Naaaaaaice!♪"
+19,talk13,"全てのポーチを大きくしちゃうなんて
+すんごいよねぇ！
+おかげで ボクちんのマラカスは
+いつでもイイ音♪ ランリャンラン♪
+おヒマならぁ まだどこかに隠れてる
+森の子供達全員見つけてみてぇ～？","You enlarged all of your inventories!
+Shakala!
+
+Thanks to you, my maracas sound so...
+♪shakey-shake SHAKETY!♪
+
+But there may still be some children of
+the forest out there. I'm sure they'd
+still love to meet you."
+20,talk22,じゃ大きくしちゃうよォ～！,Let the expansion begin!
+21,talk23,じゃ他のポーチ大きくしちゃう？,"Do you want me to expand a different
+stash?"
+22,talk24,"キミちん！
+
+隠れてた森の子供達
+全員見つけたんだね？！
+フワ！フワワワワッ！
+
+すんすん ごいごい♪
+すんごいよねェ～！","Hey! Guess what!
+
+
+All of the forest children returned to
+Korok Forest!
+
+You must have had an army of people
+searching for them, huh?
+
+NO WAY! Fwahahahaha!
+
+
+♪NAAAAAAAAICE!♪"
+23,talk25,"な～ったなった おっきくなった武器ポーチ
+キャッ♪","Expand-a-band-band...weapon stash!
+Shakala!"
+24,talk26,"な～ったなった おっきくなった弓ポーチ
+キャッ♪","Expand-a-band-band...bow stash!
+Shakala!"
+25,talk27,"な～ったなった おっきくなった盾ポーチ
+キャッ♪","Expand-a-band-band...shield stash!
+Shakala!"
+26,talk28,"キュ～～～ン……
+これ以上武器ポーチは増やせないからねェ～","Shakalo... I can expand your
+weapon stash no further."
+27,talk29,"キュ～～～ン…
+これ以上弓ポーチは増やせないからねェ～","Shakalo... I can expand your
+bow stash no further."
+28,talk30,"キュ～～～ン…
+これ以上盾ポーチは増やせないからねェ～","Shakalo... I can expand your
+shield stash no further."
+29,talk31,はてさて まだポーチを大きくしちゃうカナ？,"So then-a-den-den...do you want to
+expand another stash?"
+30,talk32,キュンキュン！また来てねぇ～♪,Shakala! Come back again!
+31,talk33,メンゴ メンゴねぇ～♪,♪Saw-reeeeee!♪
+32,talk34,"キュルン♪ イイネイイネ♪
+じゃあ どのポーチを大きくしちゃう？",Shalaka! Which stash shall I expand?
+33,talk46,"だったらボクちんのお宝 あげちゃうから
+まずはポーチを大きくしてねェ～♪","In that case, I'll give you my treasure,
+but let's expand your inventory first."
+34,talk53,"コログのミ""取り返したら持って来てネ♪
+お礼にポーチ大きくしたげるからさァ～～～","If you find any Korok seeds, bring them
+by. I'll expand the size of your
+inventory as thanks!"
+35,talk57,"ポーチも全部大きくなっちゃったし
+これあげる～♪","You've maxed all of your stashes!
+So let me give you this!"
+36,talk58,"森の子供達を全員見つけちゃうなんて
+すんすんごいごい すんごいす～♪","It's amazing that you found all the
+children of the forest. 
+
+♪Humm-aaaaaaa-mazing!♪"
+37,talk59,"どうどう？気に入ってくれたら嬉しいな♪
+
+それを持ってるとねなんと…
+
+ボクちんのダンスが いつでも見れま～す♪
+キャッ♪
+だから いつでも話しかけてねェ～","So? Do you like it?
+
+
+I hope you'll still visit me. You can watch
+me dance whenever you want!
+
+♪Shalaka!♪"
+38,talk60,キュンキュン♪,♪Shaka-kala!♪
+39,talk61,"ボックリンのミ持ってるなら
+ボクちんと踊ろ♪
+さぁさぁ どのダンスで踊る？","If you have Hestu's gift, dance with me!
+
+
+What dance should we do?"
+40,talk62,"キュンキュン！承りましたッ！
+じゃ いくよォ～♪",♪DANCE PARTY!♪
+41,talk63,キュルン♪ではでは…,"Shala-laka!
+So then..."
+42,talk64,キュンキュン！いい汗かいたね！,Shalaka! Working up a nice sweat here!
+43,talk65,キュンッ♪上手に踊れたカナ？,Shaka! Did you like my dance?
+44,talk66,キュルルルン♪サイコーッ！,Shakala! That was fun!
+45,talk67,キュン！気持ちよかったァ～…,Shakalay! That felt great!
+46,talk68,ふんじゃまたねェ～♪,Hmmkay then. Buh-bye.
+47,talk69,"でも キミちん…
+コログのミ全く持って無いみたい…","It looks like you have no
+Korok seeds at all."
+48,talk70,だったらァ～～～,I sure hope so!
+49,talk71,"ふんじゃ～あ
+コログのミ1個 ちょ～ら～い♪","Shokay! I'll just need one Korok seed.
+Deal?"
+50,talk72,"ふんじゃ～あ
+コログのミ2個 ちょ～ら～い♪","Shokay! I'll just need two Korok seeds.
+Deal?"
+51,talk73,"ふんじゃ～あ
+コログのミ3個 ちょ～ら～い♪","Shokay! I'll just need three Korok seeds.
+Deal?"
+52,talk74,"ふんじゃ～あ
+コログのミ5個 ちょ～ら～い♪","Shokay! I'll just need five Korok seeds.
+Deal?"
+53,talk75,"ふんじゃ～あ
+コログのミ8個 ちょ～ら～い♪","Shokay! I'll just need eight Korok seeds.
+Deal?"
+54,talk76,"ふんじゃ～あ
+コログのミ12個 ちょ～ら～い♪","Shokay! I'll just need 12 Korok seeds.
+Deal?"
+55,talk77,"ふんじゃ～あ
+コログのミ17個 ちょ～ら～い♪","Shokay! I'll just need 17 Korok seeds.
+Deal?"
+56,talk78,"ふんじゃ～あ
+コログのミ25個 ちょ～ら～い♪","Shokay! I'll just need 25 Korok seeds.
+Deal?"
+57,talk79,"ふんじゃ～あ
+コログのミ35個 ちょ～ら～い♪","Shokay! I'll just need 35 Korok seeds.
+Deal?"
+58,talk80,"ふんじゃ～あ
+コログのミ45個 ちょ～ら～い♪","Shokay! I'll just need 45 Korok seeds.
+Deal?"
+59,talk81,"ふんじゃ～あ
+コログのミ55個 ちょ～ら～い♪","Shokay! I'll just need 55 Korok seeds.
+Deal?"
+60,talk83,"んっ？ フワッ？
+
+フワワワワ～～ッ！
+
+ボボクちん
+コログの森への帰り道を思い出したかも！
+だから そろそろ帰ろうかな
+お爺ちゃんも待ってるだろうしねぇ～
+キミちん コログのミ ありがとね！
+今度こそ コログの森へ帰るよ
+キミちんも いつかコログの森に遊びに来てね♪
+","Hm? Fwah?!
+
+
+Fwahahahaha!
+
+
+I... I think I remember how to get back to
+Korok Forest!
+
+Maybe I'll head back now. I bet Grandpa
+is waiting for me.
+
+Thanks for the Korok seeds! I'm off to
+Korok Forest!
+
+Come visit me there sometime!"
+61,talk84,タンタラララ～～～～～～ン♪,♪Dah-na-na-na-naaaaaaaa!♪
+62,talk85,"…フワッ？！""コログのミ""足りてないよォ～？
+ちゃんと数えてェ～","Phwahh! You don't have enough
+Korok seeds. You should learn how
+to count good!"
+63,talk86,"ふんじゃ～あ
+コログのミ4個 ちょ～ら～い♪","Hmmkay then! I'll just need four Korok
+seeds from you. Deal?"
+64,talk87,"ふんじゃ～あ
+コログのミ10個 ちょ～ら～い♪","Hmmkay then! I'll just need 10 Korok
+seeds from you. Deal?"
+65,talk88,"ふんじゃ～あ
+コログのミ15個 ちょ～ら～い♪","Hmmkay then! I'll just need 15 Korok
+seeds from you. Deal?"
+66,talk89,"ふんじゃ～あ
+コログのミ20個 ちょ～ら～い♪","Hmmkay then! I'll just need 20 Korok
+seeds from you. Deal?"
+67,talk90,"キュルン♪
+
+キミちん！また会ったね！
+
+どうしたの黙っちゃって…ボクちんだよ？
+コログの森の音楽家ボックリン♪
+それにしても迷いの森を抜けて
+よくここまで来られたねぇ…
+あっ そういえば！","♪Shalaka!♪
+
+
+We meet again!
+
+
+Why so quiet?  Don't you remember me?
+Hestu? The famed musician of
+Korok Forest?
+I've got to hand it to you—it's not easy
+to find this place. They don't call them
+the Lost Woods for nothing!
+Oh right!"

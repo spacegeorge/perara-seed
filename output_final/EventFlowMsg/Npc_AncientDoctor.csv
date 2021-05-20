@@ -1,0 +1,549 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",さようなら,Bye.
+3,"""0004""",読んでません,I didn't read it.
+4,"""0005""",…読みました,I read it.
+5,"""0006""",あなたって？,Who are you?
+6,"""0008""",いい事って？,Something good?
+7,"""0013""",シーカーセンサー,Sheikah Sensor.
+8,"""0014""",リモコンバクダン,Remote Bomb.
+9,"""0015""",ビタロック,Stasis.
+10,"""0016""",古代素材をどうぞ！,Ancient materials!
+11,"""0017""",もっと詳しく,Tell me more.
+12,"""0020""",チェッキー…,Snap...
+13,"""0021""",どう変わるの？,How does it change?
+14,"""0022""",他のにする,I'll pick another one.
+15,"""0023""",やめときます…,I won't do it.
+16,"""0024""",お願いします！,Yes!
+17,"""0027""",インパって…,Impa is...
+18,"""0028""",ここって？,What is this place?
+19,"""0029""",うんうん,That makes sense.
+20,"""0031""",なるほど,I see.
+21,"""0032""",そうなんだ,I never knew.
+22,"""0033""",へぇ～,Hmm...
+23,"""0034""",そうだったんだ！,That's crazy.
+24,"""0035""",古代素材って？,Ancient materials?
+25,"""0036""",ロベリーって？,Who's Robbie?
+26,"""0037""",チェッキー！,Snap!
+27,"""0038""",はい,Yes.
+28,"""0039""",まだです,Not yet.
+29,"""0040""",お願いします！,I'm game.
+30,LookPicture,…わ！誰？ この美少女？！,"Hm? My, who IS this beautiful
+young creature?"
+31,NakedPlayer,ふむ…,Fascinating...
+32,TerrorArrow,おのれ…,Dangerous...
+33,TerrorBomb,リモコンバクダン…,"A Remote Bomb, eh..."
+34,TerrorExplosion,ななななな！！,That won't work on me!
+35,TerrorSword,んふぉっ！,Huh...
+36,near00,むふ…♪,♪Hmm...♪
+37,talk00,こんにちは,Hello.
+38,talk01,こんばんは,Good evening.
+39,talk02,所長なら奥でございます,The director is in the back.
+40,talk03,"回生の眠りで ほとんどの傷は癒えたようだネ
+ま それはさておき","It seems most of your wounds healed
+during the Slumber of Restoration.
+Anywaaaay..."
+41,talk04,"100年前の傷 だいぶふさがったみたいネ！
+ま それはさておき","Hm, I see your scars from 100 years ago
+have mostly healed. In any caaaase..."
+42,talk05,"先にインパのトコ行った方が
+いいと思うけど
+古代素材""持って来たなら
+シーカーストーン""パワーアップしちゃおっか？","I think you should go see Impa first.
+But if you're saying you already have
+some ancient materials...
+Then why don't we go ahead and
+power up your Sheikah Slate?"
+43,talk06,"シーカーストーンのアイテムを
+全て消去しました","All Sheikah Slate runes have now
+been deleted."
+44,talk07,"ここはハテノ古代研究所でございます
+所長に御用ですか？","This is the Hateno Ancient Tech Lab.
+Do you have some business with
+the director?"
+45,talk08,あはい…,Oh. I see...
+46,talk09,はいほ～い！,Hey!
+47,talk10,おはようございます,Good morning.
+48,talk11,聞こえてましたよ…,Liar.
+49,talk12,…読んだよナ？,You read it...didn't you?
+50,talk13,"そんな嘘ついても""丸わかりだっつーの…
+
+そんな嘘つきさんには天罰がありまーす！
+スイッチオーン！","Don't lie! I know just what's going on!
+
+
+Liars like you deserve to be punished!
+Switch ON!"
+51,talk14,"正直なのはいい事だけど
+乙女の花園を踏み荒らしちゃ ダ～メ
+はい当然ですが天罰がありまーす
+スイッチオーン！","Well, I commend your honesty. Still, it is
+never acceptable to rummage through a
+young lady's private musings! Got it?!
+Naturally, you shall be punished for that.
+Switch ON!"
+52,talk15,"…というわけで アンタのシーカーストーン
+ぜーんぶ消去しといたし！""見てみ！","I completely deleted the data on your
+Sheikah Slate. Go on, take a look!"
+53,talk17,"その身ごしらえ…
+旅の途中と お見受けしました","Judging by your equipment and that
+gleam in your eye... I'd say you must
+be in the midst of an epic journey."
+54,talk18,"それはそれは
+
+旅の思い出にでもしてくださるなら
+こちらとしても うれしい限りです","Well, well.
+
+
+If your visit here today leaves you with
+fond memories of your journey, then I,
+too, will be most pleased."
+55,talk19,所長とは お話されましたか？,Have you spoken to the director?
+56,talk20,"なにぶん多忙の身ですので
+手短にお願いしますね","A terribly busy person, that one.
+Please try to keep it brief."
+57,talk21,そうですか,Oh. I see.
+58,talk22,旅の お方…,"A traveler, eh?"
+59,talk23,"うっそプー！！キャハハ！
+
+勇導石ちゃんの声マネ
+なかなか達者だったでしょ？
+…若い娘が達者なんて言葉を使うだろうか？
+まいっか","GOTCHYA! HA!
+
+
+Did you like my Guidance Stone
+impression? Superb, right?
+
+Don't young girls do mean impressions for fun?
+Maybe not? Oh, well!"
+60,talk24,…すいません そこ下りてもらえますか？,"Excuse me... Could you please get down
+from there?"
+61,talk25,えと…そこ乗らないでください,Erm... *ahem* Please don't climb that.
+62,talk26,"ちょい！
+そこ下りてから話してよネ！","Hey! If you want to talk, would you mind
+getting down from there first?"
+63,talk27,"フム…回生の眠り明けは高い所から見下ろして
+優越感に浸る症状が見られる…と…メモメモ","Hmm... Awaking from the Slumber of Restoration
+seems to have given subject the desire to look
+down on others in an attempt to annoy them...
+as much as possible. Noted!"
+64,talk31,"んじゃ…
+どのアイテムをパワーアップする？","So... Which rune do you want to
+power up?"
+65,talk32,あっさ～！,Good morning!
+66,talk33,にっちゅ～！,"Hey, you!"
+67,talk34,やっはーん！,Yaaaawn!
+68,talk35,チェッキー！,Snap!
+69,talk38,"じゃ古代のネジ""3個と
+かわいい チェッキー！ よろしく！","Three ancient screws and a cute snap!
+Here I goooooo!"
+70,talk39,"じゃ古代のシャフト""3個と
+とびっきりの チェッキー！ よろしく！","Three ancient shafts and an epic snap!
+Here I goooooo!"
+71,talk40,"じゃ古代のコア""3個と
+照れずに チェッキー！ よろしく！","Three ancient cores and a bold snap!
+Here I goooooo!"
+72,talk42,はいほ～い！,Okeydoke!
+73,talk43,りょうか～い！,Gotcha!
+74,talk44,"やったネ！
+
+アタシの勇導石ちゃんも がんばったし！ンフ♪","Yahoooo!
+
+
+♪My little Guidance Stone did the trick!♪
+Hee hee!"
+75,talk45,"…元気なのは いいんだけど
+アタシの欲しい古代素材""持ってないよネ？
+せっかくアイテムのパワーアップ
+してあげようと思ってたのになー","Um... I admire your enthusiasm,
+but more importantly, do you have
+any of the ancient materials I need?
+Too bad. I was gonna power up your
+runes for you."
+76,talk49,"ん？他の2つは
+パワーアップ済みのはずだけ…ど…
+あ！アイスメーカーとマグネキャッチが
+まだだったっけ？！
+そっちも メッチャ仕様検討したんだけど
+なかなか手が回んなくてさ…
+最後の1個を パワーアップしたくなったら
+また声かけてネ","Hm? It seems the other two are
+already powered up...
+
+Oh! You're wondering about the
+Cryonis and Magnesis, yes?
+
+To be honest, I tried my best to think of
+upgrades for those two...but then I got
+frustrated and gave up. Heh. Sorry.
+That said...if you want to upgrade the
+last one, just give me a holler."
+77,talk50,"シーカーセンサーをパワーアップだネ！
+それなら古代のネジ 3個かナ","Sheikah Sensor power-up time! Yahoo!
+For that, three ancient screws should
+do the trick."
+78,talk51,"リモコンバクダンをパワーアップだネ！
+だったら古代のシャフト""3個だヨ","Remote Bomb power-up time! Yahoo!
+For that, I'll need three ancient shafts."
+79,talk52,"ビタロックをパワーアップだネ！
+んじゃ古代のコア""3個ネ","Stasis power-up time! Yahoo!
+For that, I'll need three ancient cores."
+80,talk55,"シーカーセンサーをパワーアップすると
+ウツシエで撮った物を探知できるようになるの
+便利でしょ？
+シーカーセンサーのパワーアップ…するよネ？","If you power up the Sheikah Sensor,
+you'll be able to detect the objects
+you take pictures of with your Camera.
+Handy, eh? So... You're gonna go
+ahead and power up that ol'
+Sheikah Sensor, right?"
+81,talk56,"リモコンバクダンを パワーアップすると
+爆発の威力が増して リロード時間も早くなるの
+すごいでしょ？
+リモコンバクダンのパワーアップ…するよネ？","If you power up your remote bombs,
+your blasts will become more powerful
+and your reload time will decrease.
+Sweet deal, eh? So...you're going to
+power up your remote bombs, right?"
+82,talk57,"ビタロックをパワーアップすると…
+
+物質だけじゃなくって
+邪悪なる者の動きも止められるようになるの
+助かるでしょ？
+ビタロックのパワーアップ…するよネ？","If you power up your Stasis, you'll be
+able to freeze more than just objects.
+You'll be able to target monsters too!
+Pretty handy, eh? So...you're going to
+power up your Stasis, right?"
+83,talk58,"…ん？えっ？！
+もしかして全部パワーアップしちゃった？！
+そのシーカーストーンと
+アンタの剣術があれば怖いものなしだよネ？
+そう！
+たとえあの厄災ガノンだろうとも！","Hm? What's this? Perhaps you already
+went and powered them all up?!
+
+Well, I suppose with your Sheikah Slate
+and your legendary swordsmanship,
+we have nothing to fear.
+Yes, quite! Nothing at all! Not even...
+Calamity Ganon!"
+84,talk59,"他にもパワーアップしたいアイテムが あったら
+また声かけてちょ！","If you have any other runes you'd like
+to power up, just let me know!"
+85,talk60,"アタシにできる事は もうないかも…
+お話でも…する？","There's nothing more I can do for you.
+Unless you want to chat?"
+86,talk61,"聞いてるかも知んないけど
+インパは アタシの妹なのネ
+あの子任務に忠実なのはいいんだけど
+昔っから堅苦しいんだよネー","You may already know this, but although
+Impa looks a looooot older than me,
+she's actually my little sister.
+She's incredibly responsible, but at what
+cost? She's wound up waaaay too tight,
+if ya ask me. Love her though!"
+87,talk62,"フフ…姉妹なのに似てないねって
+たしかに昔からよく言われてる…
+アタシは思い立ったら突き進むほうだし
+インパは「しばし待つのじゃ」って感じだし
+そもそも この研究機関って
+元々はハイラル城の直轄なのネ
+それで インパはああ見えても
+ハイラル城執政補佐官なの
+要するに…わかるでしょ？
+
+アタシの暴走を止める役…
+それが妹のインパってわけ","Heh. People have always noted how
+we're nothing alike, even though
+we're sisters.
+I'm the type that charges ahead once I'm
+inspired! Impa prefers to wait and see.
+But mostly wait and wait and wait.
+In any case, this research facility was
+founded by order of some Hyrule Castle
+bigwigs.
+Despite her frail appearance, Impa was
+a valued and distinguished advisor to
+the royals at Hyrule Castle.
+You...see where I'm going with this,
+I assume?
+
+Basically, she's the one who puts a stop
+to some of my crazier antics. And that's
+the story of me and my little sis, Impa."
+88,talk63,"…だけどハイラル城があんな感じになってから
+研究費が下りるはずもなく…
+個人的な蓄えを切り崩して
+なんとか研究を続けているってわけ
+あと何億ルピーかあれば
+新アイテムの研究とかできるんだけどなー","But with Hyrule Castle in the state it is...
+Well, needless to say, there hasn't been
+any funding in a while.
+No funding means no fun. I've already
+exhausted my personal funds, barely
+allowing us to continue my research.
+If only we had a few hundred million
+rupees, I could do more research
+on new items..."
+89,talk64,プルアだヨ？ チェキチェキ♪,"I'm Purah! Don'tcha already know that?!
+Click, snap!"
+90,talk65,ハテノ古代研究所だヨ！ チェキチェキ♪,"This is the Hateno Ancient Tech Lab!
+Click, snap!"
+91,talk66,"…そういうの もういい？
+んじゃ まじめにぜんぶ話しちゃう？","You're sick of that? Hm, I suppose you
+want me to give you the whole story?"
+92,talk67,"アンタの使ってるシーカーストーンは
+100年前にゼルダ姫が使ってた現物なの
+当時はアイテムがウツシエハイラル図鑑
+アルバムの3つしかなかったんだけど…
+ガノンに倒されたアンタをシーカーストーンごと
+回生の祠に封じた後古文書を調べたら…
+それ以外のアイテム…つまりアイスメーカーや
+ビタロックが存在するって事がわかったの","The Sheikah Slate you're using is the
+one Princess Zelda herself used 100
+years ago.
+Back then, it only had the Camera,
+Hyrule Compendium, and album runes.
+
+After you were defeated by Ganon and
+we sealed you and the Sheikah Slate
+in the Shrine of Resurrection...
+I discovered additional runes while
+reading through some ancient texts.
+Cryonis and Stasis, for example."
+93,talk68,"でも…アイテムの存在こそわかってたけど
+シーカーストーンに追加する方法が謎だったし
+ていうかホラ…そもそもシーカーストーンは
+アンタと一緒に仲よく封印されてたし！
+どうしたもんかと考え続ける事 100年…
+突然！にょきにょきと…
+シーカータワーが！
+
+その直後に古代の祠は光り出すわ
+シーカーストーン持ったアンタは訪ねてくるわ
+…でもアタシったら さすがは研究者よネ
+すぐに ひらめいちゃった！
+シーカーストーンは写し絵を撮ったり
+アイテムを使うだけの便利グッズじゃなくて
+厄災ガノンと戦う勇者のために
+古代シーカー族が開発した革命的な道具だった！
+それが今になって起動したのは
+条件が揃った状態で勇者リンク…
+つまりアンタが それをかざしたから♪","Still...though I knew about these runes,
+I had no idea how to add them to the
+Sheikah Slate.
+Well, in any case...the Sheikah Slate
+was sealed away with you. That did
+NOT help my cause.
+I spent the next 100 years trying to work
+out what to do... Then guess what I see
+popping up like wild mushrooms?
+Sheikah Towers!
+
+
+What's more, the ancient shrines
+lit up too! Soon after, BOOM.
+You show up with the Sheikah Slate.
+Naturally, as a top-tier researcher,
+I was quick to put it all together.
+
+The Sheikah Slate isn't some frivolous
+little trinket created only for taking
+pictures and using runes.
+It is a revolutionary device developed by
+ancient Sheikah scientists specifically to
+help the hero conquer Calamity Ganon!
+The reason it's working now with shrines
+and towers is because our hero, Linky,
+meets all of the prerequisites.
+In other words, it works now because
+of you! ♪Yaaaay!♪"
+94,talk69,"100年前…ゼルダ姫が古代の祠に
+シーカーストーンをかざしても無反応だった…
+それって今になって思えばだけど
+アッタリマエだよネ？
+だって あの当時
+祠はエネルギー不足で起動してなかったし
+シーカータワーは全部地面の下だったし
+ゼルダ姫もアタシも根本をわかってなかった！
+だけど あの大厄災の影響で図らずも露出した
+シーカータワーと…その勇導石…
+その場所が よりによって始まりの台地で
+目覚めさせたのは他ならぬアンタって！
+ここにきて厄災ガノンも
+命運尽きましたって感じ？","One hundred years ago...Princess Zelda
+touched the Sheikah Slate to an ancient
+shrine in an attempt to open it...
+But nothing happened. It's easy to see
+why now. It's obvious why it didn't work,
+isn't it?
+After all, the ancient shrines didn't have
+the energy needed to activate back then.
+
+And the Sheikah Towers were still hidden
+underground... Princess Zelda and I
+simply did not understand the basics!
+Though we didn't plan for it, the Great
+Calamity exposed a Sheikah Tower...
+as well as a Guidance Stone.
+They were located in the Great Plateau,
+of all places...and activated by none
+other than you!
+When you put it all together like that,
+it kind of sounds like Calamity Ganon's
+evil days are numbered, right?"
+95,talk70,はいほ～い,Alrighty!
+96,talk71,他に聞きたい事 あるかナ？,Anything else you wanna ask me?
+97,talk72,"100年前の大厄災を体験してるシーカー族って
+実は三人しかいないのよネ
+アッカレ古代研究所のロベリー
+カカリコ村のインパ…そして この地のアタシ
+大厄災の直後は その三人で
+カカリコ村に身を寄せ合ってたんだけど…
+そこを一度に襲われたら
+取り返しがつかないことになる
+回生の眠りから目覚めた勇者…
+つまり アンタに伝承する者がいなくなる！
+そんな事態を防ぐために我々は
+それぞれ別の地に散った ってわけヨ","There are only three Sheikah remaining
+who experienced the Great Calamity
+of 100 years ago...
+Robbie of the Akkala Ancient Tech Lab,
+Impa of Kakariko Village, and me.
+
+Right after the Great Calamity, the three
+of us gathered at Kakariko Village...
+but we had to separate soon after.
+If all three of us were found and wiped
+out, who would instruct you, the hero,
+once you awoke?
+Making sure one of us remained to give
+you guidance and deliver our important
+message was all that mattered.
+That's why we went our separate ways."
+98,talk73,"幸いな事に このハテノ村と
+アッカレ地方の最北端の 2か所に
+アタシやロベリーが研究を続けられるくらいの
+強い古代エネルギー反応があった
+つまり ハテノ村の青い炎は
+勇導石を動かすための動力源なの
+この研究所の勇導石は
+ハイラル城のものを持って来ただけだけど
+ロベリーは勇導石を改造して
+古代兵装を製造できるような石像にしてた
+石像に何やら名前付けてたけど
+何だったっけな…
+チュ…チャ…チェ…？
+
+いずれにせよ ロベリーは優秀な研究者ヨ","Luckily, there were strong ancient energy
+deposits in two places, allowing Robbie
+and I both to continue our research.
+Those places are here in Hateno Village
+and at the northernmost point of Akkala.
+
+In other words, that blue flame in
+Hateno Village is the energy source
+needed to operate the Guidance Stone.
+The Guidance Stone at my lab is the
+same one we first brought over from
+Hyrule Castle.
+As for Robbie, he went on to adapt his
+Guidance Stone into a statue that
+creates ancient soldier gear.
+He even gave the statue a name...
+What was it again?
+
+Chu? Cha? Che?
+
+
+Long story short: Robbie is a top-tier
+researcher. I respect him a great deal."
+99,talk74,"あっ…シーカーセンサー＋！
+ノドから目が出るほど…見たい…","Oooh! The Sheikah Sensor +!
+I reaaally want to see it..."
+100,talk75,"古代素材""持って来てくれた？",Did you bring me any ancient materials?
+101,talk76,古代素材ってのは…,The ancient materials are...
+102,talk77,"…ってわけなので よかったら後でシモンに
+シーカーセンサー＋""見せてやってヨ","Yes, quite. So if you don't mind,
+how about showing Symin that
+spiffy Sheikah Sensor + later?"
+103,talk78,他にも何か あったりする？,Anything else you need from me?
+104,talk79,"ガーディアンを倒したら落とすもの～
+それはパーツ それはパーツ♪
+…覚えた？","What the Guardians drop when you
+defeat them! Those materials are
+for realios! Heh! Understand?"
+105,talk80,"そうはいってもガーディアン倒すのは
+それこそ命懸けだから…
+トッチャ湖西の丘の
+壊れたガーディアン集積場…
+あそこなら労せずして古代素材""拾えるかも","I may speak of it lightly, but make no
+mistake. You'll be risking your life if
+and when you try to defeat a Guardian.
+Oh, you may also be able to collect some
+ancient parts near the broken Guardian
+pile on the hill to the west at Telta Lake."
+106,talk81,"そういえばアッカレ古代研究所の
+ロベリーも集めてると思う
+いずれにしても人助けだと思って
+ガーディアンやっつけて古代素材集めてヨ","I might remember Robbie from the
+Akkala Ancient Tech Lab collecting
+them there too.
+Anywaaay, just think of it as community
+service or whatever. Kill some Guardians
+and collect their ancient parts, yahoo!"
+107,talk83,"それ回収してアタシんとこ来るか
+ロベリーのとこに持ってくといいヨ","Bring those glorious materials either
+to me or to Robbie's place."
+108,talk84,"シーカーセンサーのパワーアップなら
+古代のネジ""3個ヨ","You'll need three ancient screws to
+power up your Sheikah Sensor."
+109,talk85,リモコンバクダンなら古代のシャフト 3個かナ,"You'll need three ancient shafts to
+power up your Remote Bombs."
+110,talk86,"ビタロックなら古代のコア""3個ネ","You'll need three ancient cores to
+power up Stasis."
+111,talk87,"分かったら アタシの顔見つめてないで
+早いとこ古代素材集めて持って来てネ！","If we're on the same page, stop staring
+at me! Hurry up and bring me some
+ancient materials!"
+112,talk88,"んじゃ その古代素材と引き換えに…
+
+アタシがシーカーストーンのアイテムを
+パワーアップしてあげちゃう！","Now then, in exchange for those
+ancient materials...
+
+I'll power up a rune on your
+Sheikah Slate!"
+113,talk89,"アタシの指定した古代素材持ってきたら
+アイテムを パワーアップしてあげるって話","Bring me those ancient materials
+I requested and I'll power up
+your runes!"
+114,talk90,どうする どうする？！,So? Whatcha gonna do?!
+115,talk91,"ロベリーってのは アタシの部下ヨ
+
+たぶん今でもアッカレ地方の端っこの方で
+ガーディアンの研究をしてるはず…
+わけあって 100年ほど会ってないけどネ","Robbie is my subordinate.
+There, I said it.
+
+I think he's still up on the edge of Akkala
+researching Guardians... Haven't seen
+him in 100 years, though. So who knows."
+116,talk92,なんか質問ある？,Something on your mind?
+117,talk93,"はいほ～い！よくぞ聞いてくれました！
+
+古代素材を持ってきてくれたらお礼に
+アイテムをパワーアップしてあげちゃう！","Aha! I'm glad you asked!
+
+
+If you bring me some ancient materials,
+I'll power up your runes!"
+118,talk94,他には？,Anything else?
+119,talk95,"…ちょい待ち！
+必要な素材足りてないんだけど？","Hoooold it! Stop EVERYTHING!
+You don't have the necessary materials!"
+120,talk96,"こっちも カツカツなんだから
+空気読んでよネ","I'm barely scraping by as is...
+HINT, HINT."

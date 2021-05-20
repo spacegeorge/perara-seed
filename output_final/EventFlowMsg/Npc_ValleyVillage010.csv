@@ -1,0 +1,200 @@
+#,Title,JPja,USen
+1,"""0004""",行ってらっしゃい！,Take care.
+2,"""0005""",待って！,Me too.
+3,"""0008""",ケガは？,Are you hurt?
+4,"""0009""",…,...
+5,"""0010""",実は…,Actually...
+6,TerrorArrow,無駄だ！,Nice try!
+7,TerrorBomb,それは？！,You're kidding me!
+8,TerrorExplosion,うわっ！！,Whaaaaaaw!
+9,TerrorSword,うおっ！,Whoa!
+10,talk00,族長に報告してくれたようだな,"I guess you talked to the elder, then."
+11,talk01,"神獣 ヴァ・メドーを鎮める事…
+正直俺一人では無理だったかも知れん
+改めて礼を言わしてもらう ありがとな","Bringing down Divine Beast Vah Medoh
+like that...
+
+To tell you the truth, I might not have
+been able to do it alone. Thanks again."
+12,talk02,"族長から聞いたんだが…本来神獣 ヴァ・メドーは ああしてあそこに
+停まっているのが真の姿らしい
+ヤツの放つ光…
+その先には何があるんだろうな","The elder said that the way
+Divine Beast Vah Medoh is perched
+up there now is its protective stance.
+The beam of light that it's sending off...
+I wonder what's at the other end."
+13,talk03,"おまえはまた旅立つのか？
+
+俺は… フフ…
+飛行訓練場でチューリの子守さ","What's next for you?
+Charging headlong into danger?
+
+As for me... Heh, I guess I'll be
+babysitting Tulin at the Flight Range."
+14,talk07,"さてと… チューリを連れて
+飛行訓練場に行くとするか","Well then... I should probably get Tulin
+over to the Flight Range. "
+15,talk08,"フム…
+族長からオオワシの弓を預かったようだな
+あれは空中戦で用いるには重過ぎて
+せっかくの速さが犠牲になってしまうブツでな
+俺が リーバル様のような腕力と敏捷性を
+兼ね備えていればよかったんだが…
+しかしメドー戦での おまえの弓さばきを見るに
+おまえなら使いこなせるだろうと思い
+オオワシの弓を おまえに預ける事を
+俺が提案した
+是非それを持っていって欲しい
+リトの魂と共にな…","Hmm...
+I see you've got the Great Eagle Bow
+from the elder. 
+That thing is way too heavy to use in
+aerial fighting—I'd end up sacrificing
+all of my speed just to take a shot.
+Now, if I had both the strength and
+speed of Master Revali, that would be a
+different story...
+But seeing the way you handled your
+bow against Medoh, I suggested we
+let you borrow the Great Eagle Bow.
+Take it with you on your adventure,
+along with the respect of the Rito..."
+16,talk09,"さてと…
+
+傷も癒えてきた事だし""俺はそろそろ
+チューリを連れて飛行訓練場に行こうと思う
+チューリにはリーバル様のような
+立派な戦士になってもらいたいんでな","Well then...
+
+
+My wounds are just about healed, so I 
+guess it's time for me to take Tulin
+to the Flight Range.
+I'm hoping Tulin grows up to be a
+distinguished warrior like Master Revali."
+17,talk10,"待ってやっても構わんが…
+
+おまえの許可が出てから
+飛行訓練場に行くとするか","I don't have a problem waiting for you,
+but as soon as you give the word, I'm
+headed off to the Flight Range."
+18,talk12,"まさか おまえは…
+
+ハイリアの英傑様""本人だったりしてな！
+
+…
+
+……
+
+ハハッ！そりゃないか
+
+英傑様は全員厄災ガノンにやられたんだ
+100年前にな
+仮に今生きてたとしても
+100歳過ぎの老人のはずだ
+おっと… おしゃべりが過ぎたな","Don't tell me...
+
+
+You're the Hylian Champion?!
+
+
+...
+
+
+...
+
+
+Hahaha! Good one, pal!
+
+
+Everyone knows that all of the
+Champions were wiped out by
+Calamity Ganon 100 years ago.
+And even if they survived that, they'd be
+old geezers with canes instead of
+swords!"
+19,talk13,"神獣 ヴァ・メドーの顛末は族長に報告したが
+詳しい事は おまえから報告してくれ","I let the elder know about what
+happened with Divine Beast Vah Medoh,
+but you should probably go talk to him."
+20,talk14,"ハハッ！隠す事ないだろう
+
+あの弓捌きといい空中での身のこなしといい
+間違いなく英傑様の血を引いていると見た
+なんだ？まだ何か言いたげだな","Hahah! Go on.
+There's nothing to hide!
+
+Your bowmanship...the way you move
+through the air. There's no doubt about
+it, you have the blood of a Champion.
+What? You look like you've got
+something else to say."
+21,talk16,"おまえか…
+今回の事では世話になったな","You...
+I really owe you for what you did."
+22,talk17,"大丈夫だ
+妻の手当で歩けるくらいには回復した
+ところでその妻に聞いたんだが…
+
+おまえは英傑様の末裔なんだって？","It's fine. Thanks to my wife, I've
+recovered to the point where I can stand.
+
+Actually, my wife told me something
+about you.
+
+She says you're a descendant of the
+Champion."
+23,talk21,おまえか…,It's you...
+24,talk22,"脚の方は歩けるくらいには回復した
+心配かけたな
+それはそうと","My leg's healed up enough that I can at
+least walk around. Sorry if I worried you.
+
+That reminds me...
+"
+25,talk23,"族長には まだ報告していないのか？
+おまえの口からも説明してくれ","You haven't told the elder what
+happened yet? I think he should
+hear it straight from you."
+26,talk24,"族長が待っている
+おまえからも詳細を報告してくれ","The elder is waiting. You should fill him
+in on the details."
+27,talk25,"よし！ チューリ！
+今から飛行訓練場へ行くぞ！",OK. Tulin! Let's go to the Flight Range!
+28,talk26,ハッ ハッ ハッ！,Hahaha!
+29,talk27,"では リンク
+次は飛行訓練場で会おう","All right, Link.
+I'll be at the Flight Range if you need me."
+30,talk28,"さてと…
+
+傷も癒えてきた事だし チューリが起きたら
+飛行訓練場に連れて行こうと思う
+チューリにはリーバル様のような
+立派な戦士になってもらいたいんでな","Well then...
+
+
+My wounds are just about healed, so
+when Tulin wakes up, I think I'll take him
+to the Flight Range.
+I'm hoping Tulin grows up to be a
+distinguished warrior like Master Revali."
+31,talk29,"さてと…
+
+傷も癒えてきた事だし""雨が上がったら
+チューリを連れて飛行訓練場に行こうと思う
+チューリにはリーバル様のような
+立派な戦士になってもらいたいんでな","Well then...
+
+
+Once this rain lets up, I'm going to take
+Tulin to the Flight Range.
+
+I'm hoping Tulin grows up to be a
+distinguished warrior like Master Revali."
+32,talk30,"チューリが起きたら
+飛行訓練場に連れて行くとするよ","When Tulin wakes up, I'm going to take
+him to the Flight Range."
+33,talk31,"雨が上がったらチューリを連れて
+飛行訓練場に行くとするか","When this rain lets up, I think I'll take
+Tulin to the Flight Range."

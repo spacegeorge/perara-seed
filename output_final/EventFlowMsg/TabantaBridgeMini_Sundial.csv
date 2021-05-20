@@ -1,0 +1,127 @@
+#,Title,JPja,USen
+1,"""0000""",引き受けた！,I'll do it!
+2,"""0001""",ごめんなさい…,I'll have to pass.
+3,"""0002""",もちろん！,Of course!
+4,"""0003""",何か忘れてません？,Forgetting something?
+5,Near00,大妖精さま…,Great Fairy...
+6,Near01,大妖精の泉…,The Great Fairy's fountain.
+7,talk00,"あ ごめんごめん…""考え事してて…大妖精さまは君も知ってるよね？
+ほら昔話にも よく出てくる大妖精さま…
+僕は大妖精さまは きっと実在する！ と信じて
+旅をしながら探しているんだ
+最近タバンタ大橋の先に出現した塔の上から
+昼過ぎに日が影を落とす方角を眺めると…
+それはそれは美しい大妖精さまの泉が見える と
+風の噂で聞いて この馬宿まで来てみたんだ","Oh, pardon me... I was lost in thought.You've heard of the Great Fairy, right?
+The one from all those old stories?
+
+Well, they're not just stories! I believe
+the Great Fairy is real! And I'm on a
+journey to find her.
+There's a tower just beyond the
+Tabantha Great Bridge.
+
+They say that if you go to the top and
+look at the ground sometime in the
+afternoon...
+The tower's shadow will point to the
+Great Fairy's fountain!
+
+After hearing that legend, I decided to
+find out for myself. But now I'm stuck
+here at this stable because... Well..."
+8,talk01,"けど とてもじゃないけど あんな塔
+登れそうにないよ…
+せっかく大妖精さまが大好きっていう
+ルピーを貯めたのに…","No matter how hard I try, I just know I'll
+never be able to climb that tower.
+
+And to think, I even saved up all my
+rupees as an offering for the Great Fairy."
+9,talk02,"ねぇ君！""君なら あの塔にも登れそうだし…僕の代わりに大妖精さまへ
+おふせのルピーを お供えしてくれないかな？","But you... You look like you could climb
+that tower without breaking a sweat!Would you be willing to make an offering
+of rupees to the Great Fairy on my
+behalf?"
+10,talk03,"ありがとう！ それじゃあ
+僕が貯めた500ルピーを預けるよ！","Oh, thank you! Here, take the 500
+rupees I saved up. It's my life savings!"
+11,talk04,持ち逃げしないでね…,"So please don't just go running off with it, OK?"
+12,talk05,"え？ ダメ？！ そっか…""残念…けど気が変わったら また声をかけてよ！
+きっとだよ！！","You really won't help? That's too bad,
+but I guess I can't blame you...I'll be here if you change your mind.
+So come talk if you want to help me
+out later!"
+13,talk06,"いいかい？""タバンタ大橋の先にある塔の上から
+昼過ぎに日が影を落とす方角を見下ろすんだよ
+雨が降ってたら影が見えにくいけど
+影が落ちる方角くらい わかるよね？
+大妖精さまへのおふせ よろしく頼むよ","The shadow of the tower just beyond the
+Tabantha Great Bridge will point to the
+Great Fairy's fountain in the afternoon.
+It'll be pretty hard to see the shadow in
+this rain...
+
+But still, I'm counting on you to make
+that offering to the Great Fairy!"
+14,talk07,"あ君！ やっぱり大妖精さまに
+おふせを してくれる気になったのかい？","Ah, it's you! Did you change your mind
+about making an offering to the Great
+Fairy on my behalf?"
+15,talk09,"いいかい？""タバンタ大橋の先にある塔の上から
+昼過ぎに日が影を落とす方角を見下ろすんだよ
+大妖精さまへのおふせ よろしく頼むね","The shadow of the tower just beyond the
+Tabantha Great Bridge will point to the
+Great Fairy's fountain in the afternoon.
+That's all the information the rumor has
+to offer. I'm counting on you to make
+an offering to the Great Fairy!"
+16,talk10,"おぉ君！""大妖精さまに
+おふせを渡してくれたんだね？！","Hey, it's you! Did you give the Great
+Fairy an offering?"
+17,talk14,"あぁ…""大妖精さま…",Ahh... Great Fairy...
+18,talk15,"いやぁ ありがとう！
+君にお願いして正解だったよ！！
+君は大妖精さまに お会いできたんだよね？
+うらやましいなぁ…
+けど いいんだ！僕は大妖精さまに
+おふせを することができただけでも幸せさ！
+本当に ありがとうね！","All right! Thank you! Looks like asking
+you was a good call after all.
+
+So that means you met the Great Fairy,
+huh? Man, I'm so jealous...
+
+But hey, at least you got to meet her!
+And that means, technically, I got to
+make my offering to the Great Fairy!
+I can't thank you enough!"
+19,talk16,"え？ いや別に何も…
+あ？ まさか お礼が欲しいなんて言わないよね？
+僕の代わりに大妖精さまを拝めたんだよ？！
+それ以上何が欲しいって言うの！
+あぁ大妖精さま… せめて夢の中でもいいから
+僕のところに現れてくれないかな…？","Huh? Um, no, I don't think so... Wait,
+what? You aren't trying to tell me you
+want a reward, are you?
+You got to see the Great Fairy thanks to
+my tip, didn't you? And now you're
+asking for more?!
+Ahh, Great Fairy... Even if it's just in my
+dreams, won't you appear before me?"
+20,talk17,"いやぁ ありがとう！
+君にお願いして正解だったよ！！
+君は大妖精さまに お会いできたんだよね？
+うらやましいなぁ…
+けど いいんだ！僕は大妖精さまに
+おふせを することができただけでも幸せさ！
+本当に ありがとうね！","All right! Thank you! Looks like asking
+you was a good call after all.
+
+So that means you met the Great Fairy,
+huh? Man, I'm so jealous...
+
+But hey, at least you got to meet her!
+And that means, technically, I got to
+make my offering to the Great Fairy!
+I can't thank you enough!"

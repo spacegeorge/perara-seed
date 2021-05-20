@@ -1,0 +1,486 @@
+#,Title,JPja,USen
+1,"""0000""",怪しい場所？,A suspicious place?
+2,"""0001""",さよなら,Good-bye.
+3,"""0002""",お願いします,Sounds great!
+4,"""0003""",いいです,"No, thanks."
+5,"""0004""",また連れてって,Take me there?
+6,"""0005""",わかります,"Yeah, I understand."
+7,"""0006""",連れてって,Take me there?
+8,"""0007""",そうですね,I'll help you out.
+9,LookPicture,"… … …
+これが大妖精の泉…？
+美しいといえば美しいが…
+もっとこう…神秘的で奥ゆかしい感じかと…","...
+
+
+This...is the Great Fairy Fountain?
+
+
+It's certainly beautiful, but...I thought
+it would be more...sacred and elegant."
+10,Talk01,"大妖精の泉も良かったが
+この村の建造物も なかなか味わい深いな…","The Great Fairy Fountain was lovely,
+but this village's architecture is
+quite elegant as well."
+11,Talk03,"うむ この門と雪山の写った絵だな……
+
+この村からずっと東に行くと大きな雪山がある
+ラネール山という山だ
+そのラネール山のふもとにある
+ネルドーラ雪原の西に その門があったはずだぞ","Hmm. A gate and a snowy mountain...
+
+
+Ah! There's a big snowy mountain east of
+this village. It's called Mount Lanayru.
+
+I think there was a gate at
+the bottom of Mount Lanayru,
+west of Naydra Snowfield."
+12,Talk04,"おお キミか！""良いところに！
+聞いてくれ！
+あの後大妖精の泉の事を
+自分なりに調べてみたんだが
+やっと怪しい場所を見つけたんだ！
+
+でも…
+なかなか泉に たどり着けなくてね…
+絵でもいいんだ…
+どうしても見てみたいんだが…","Oh, it's you! Great timing! I have some
+news. I did more research regarding the
+Great Fairy Fountain...and I have a lead!
+However...although I know of the spot
+where it's likely located, it's really hard
+to get there. I'm not sure I can do it...
+*SIGH* Even if it's just a picture,
+I'm dying to see it..."
+13,Talk05,"はるか昔ラネール山の山頂は
+竜の棲む聖域と言われていたらしい
+伝説での話だとは思うが…… もし本当に
+いるのなら ぜひ描いてみたいものだ","A long time ago, Mount Lanayru's peak
+was said to be a sacred place where
+dragons lived.
+I think that's just a legend...but wow,
+if it's true, I would love to capture that
+in a piece of art!"
+14,Talk06,"ふむ門を見つけたようだな
+顔を見れば わかるよ","So you found the gate? Heh, I can tell
+just from the look on your face."
+15,Talk07,"昔は この門を行きかう人もいたのだろうな……
+栄枯盛衰とは よく言ったものだ","There must have been a time when lots
+of people used that gate... The world
+sure is fickle, isn't it?"
+16,Talk08,"ん？ キミは……？
+失礼だが キミも旅をしているのかね？
+私は絵が趣味でね
+美しい風景を求めて旅をしているんだ
+ここだけの話なんだが…
+
+この村の近くに それはそれは美しい
+大妖精の泉というのがあるらしいんだ…
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+粘って調査した結果
+怪しい場所は見つけたんだが…
+なかなか泉にたどり着けなくてね…
+
+絶景に出会えた時の感動…
+キミも旅人なら わかるだろう？","Hm? Are you... Sorry to bother you,
+but are you a fellow traveler?
+
+As for me, I just looove art. In fact,
+I'm traveling the world in search of
+beautiful landscapes.
+Just between you and me...
+
+
+I hear there's a Great Fairy Fountain
+somewhere near this village. I hear
+it's breathtakingly beautiful.
+Aesthetics aside, they also say the place
+can bestow people with some kind of
+mysterious power...
+I've been researching it for ages,
+and I finally have a lead. There's a
+place that is beyond suspicious...
+The problem is, I can't seem to find
+the fountain there.
+
+*sigh* Nothing beats the thrill of tracking
+down a perfect view. As a fellow traveler,
+you understand the sentiment, right?"
+17,Talk10,"この村を離れて もう何年もたつからね
+調査も大変だったんだよ
+しかも キミも気づいてると思うけど
+この村の人は みんな同じ装束だろ？
+間違って同じ人に
+何度も聞いちゃったりしてね…
+もともと変わり者と言われてたのに
+今じゃ さらに不審者扱いだよ…
+でも絶景を見れるなら不審者になるぐらい
+私は全然平気だけどね","It's been years since I've visited this
+village, so it was hard to dig up info.
+
+As you've probably noticed, the people
+here all wear the same attire.
+
+I made the mistake of asking the same
+person the same thing multiple times.
+Oops.
+I was already a stranger to the village,
+but now I'm a suspicious roamer to them.
+
+But if it helps me track down a beautiful
+landscape, I don't care what people
+think of me!"
+18,Talk11,"つ… つかれた…
+坂道は年寄にはこたえるな…
+私は これ以上は無理そうだ…
+
+この祠の裏に大妖精の泉があると
+言われているんだが いつもここで息切れだ…
+はぁ…""私はちょっと休ませてもらうよ
+
+もし見つけたら
+絵を忘れないでくれよ","So...tired... Hills aren't easy for
+old fogies like me. Sorry, but I
+don't think I can go on... *pant*
+The Great Fairy Fountain should be...
+along the path that leads past
+the shrine. *pant*
+That's what I've been told, anyway.
+Yeesh, I'm completely out of breath!
+That always happens right about here.
+*pant* I think I'd better rest for a bit.
+You go on ahead.
+
+And hey, if you find it...don't forget to
+get a picture!"
+19,Talk13,"おお！ やはりか青年よ！
+同じ絶景マニアの ニオイがすると思ったよ！
+大妖精の泉の場所は
+まだハッキリとは わからないんだが
+一か所怪しい場所はあるんだ…
+
+これから またそこに行こうと思ってるんだが
+興味あるなら キミも一緒にくるかい？","Oh! I knew it! I just KNEW there
+was someone like me nearby who
+appreciates true beauty.
+Sadly, I can't pin down the exact location
+of the Great Fairy Fountain.
+
+I haven't put it all together yet,
+but there's a suspicious place
+I have my eye on...
+In fact, I was about to head there now.
+Would you like to come along?"
+20,Talk14,"おお！若者らしい良い返事だな！
+では ついてきたまえ！","Great answer! Just what I expected from
+a fellow beauty connoisseur like you.
+All right then. Follow me!"
+21,Talk15,"ん？
+なんだ キミも大妖精の泉に興味があったのか！
+ハッハッハ絶景好きに悪い奴はいない！
+ヨシ！""私がそこに案内しようじゃないか","Oh? You're interested in the
+Great Fairy Fountain too?
+
+Ha! Well! Anyone who loves beautiful
+scenery as much as I do is a friend.
+OK, that settles it. I'll guide you there!"
+22,Talk16,"大妖精の泉は美しいだけでなく
+不思議な力を与えてくれるという…
+絶対 アソコが怪しいと思うんだが…
+なぜ見つからないんだ…","The Great Fairy Fountain isn't just lovely,
+they say it can bestow some kind of
+mysterious power on people.
+I'm pretty sure that one suspicious spot
+is where it's hidden... But then why can't
+I find it?"
+23,Talk17,"おっ ヤル気十分だな！
+キミがそんなに絶景好きだとは思わなかったよ！
+じゃあ行こうか！","Wow, you sure are high-spirited!
+I didn't know you loved beautiful
+landscapes quite so much.
+Well, shall we?"
+24,Talk18,"大妖精の泉…
+絶対…見つけ… るぞ…","Great Fairy Fountain...
+I will...find you..."
+25,Talk19,"高台の奥にある アソコの辺りが
+怪しいんだけどな… なぜ見つからないんだ…","The area beyond that elevated bit of land
+is suspicious...but why can't I find the
+Great Fairy Fountain?!"
+26,Talk20,"絶景を見たい気持ちは
+誰にも負けないつもりなんだが…
+体がついていかないんだ…
+こうしてる今も膝が笑ってるよ…","My desire to view beautiful landscapes
+is stronger than anyone else's.
+Ever, I'm pretty sure.
+But my body just can't handle the
+groundwork... Even now, my knees
+are trembling."
+27,Talk21,"ん？ キミは…？
+失礼だが キミも旅をしているのかね？
+私は絵が趣味でね
+美しい風景を求めて旅をしているんだ
+実は この村の近くに それはそれは美しい
+大妖精の泉というのがあるらしくてね
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+しかし詳しい事は
+誰も教えてくれないんだよ…
+ここの人達は この村から出ようとしないから
+私みたいな旅好きは変わり者扱いでね…
+でも私はあきらめない！
+もし何かわかったら キミにも教えるよ！","Hm? Are you... Sorry to bother you,
+but are you a fellow traveler?
+
+As for me, I just looove art. In fact,
+I'm traveling the world in search of
+beautiful landscapes.
+Just between you and me...
+
+
+I hear there's a Great Fairy Fountain
+somewhere near this village. I hear
+it's breathtakingly beautiful.
+Aesthetics aside, they also say the place
+can bestow some kind of mysterious
+power on people...
+However, since I'm an outsider, I can't
+get anyone to tell me any more details
+than that.
+These villagers never leave the safety of
+their village, so travelers like me are
+treated with suspicion.
+But I won't give up! Oh, and if I manage
+to find out anything, I'll be sure to let
+you know."
+28,Talk22,"この村の近くに それはそれは美しい
+大妖精の泉というのがあるらしいんだ！
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+しかし肝心の場所が わからなくてね…
+
+でも私は あきらめない！
+もし何かわかったら キミにも教えるよ！","They say there's a Great Fairy Fountain
+somewhere in this village. I hear it's
+utterly breathtaking.
+Aesthetics aside, they also say it can
+bestow people with mysterious powers!
+
+It's too bad I just can't figure out the
+exact location...
+
+But I'm not gonna give up!
+Oh, and if I find out anything,
+I'll be sure to let you know."
+29,Talk23,"私の旅は…
+まだまだ… これか… ら… だ…",My journey...is on the horizon...
+30,Talk24,"大妖精の泉は美しいだけでなく
+不思議な力を与えてくれるという…
+絶対 アソコが怪しいと思うんだが…
+なぜ見つからないんだ…","The Great Fairy Fountain isn't just lovely,
+they say it can bestow some kind of
+mysterious power on people...
+I'm pretty sure I know where it's hidden,
+but still it eludes me..."
+31,Talk25,"いや～
+けっこう降ってきちゃったね
+私は シーカー族の装束があるから大丈夫だけど
+キミは そんな姿で大丈夫なのかい？
+私は絵が趣味でね
+美しい風景を求めて旅をしているんだ
+ここだけの話なんだが…
+
+この村の近くに それはそれは美しい
+大妖精の泉というのが あるらしいんだ…
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+粘って調査した結果
+怪しい場所は見つけたんだが…
+なかなか泉にたどり着けなくてね…
+
+絶景に出会えた時の感動…
+キミも旅好きなら わかるだろう？","Wow. It's really coming down, isn't it?
+
+
+I have my Sheikah gear, so I'm fine,
+but are you going to be OK?
+Hope so.
+As for me, I just looove art. In fact,
+I'm traveling the world in search of
+beautiful landscapes.
+Just between you and me...
+
+
+I hear there's a Great Fairy Fountain
+somewhere near this village. It's said
+to be breathtakingly beautiful.
+Aesthetics aside, they also say the place
+can bestow people with some kind of
+mysterious power...
+I've been researching it for ages,
+and I finally have a lead. There's a
+place that is beyond suspicious...
+The problem is, I can't seem to find
+the fountain there.
+
+*sigh* Nothing beats the thrill of tracking
+down a perfect view. As a fellow traveler,
+you understand the sentiment, right?"
+32,Talk26,"雨の中 そんな恰好で大丈夫かい？
+シーカー族の装束を貸してあげたいところだけど
+この服は シーカー族しか
+身に着けられない掟でね…
+おお それよりも！
+聞いてくれ！
+あの後大妖精の泉の事を
+自分なりに調べてみたんだが
+やっと怪しい場所を見つけたんだ！
+
+でも…
+なかなか泉に たどり着けなくてね…
+絵でもいいんだ…
+どうしても見てみたいんだが…","Are you OK standing out in the rain?
+If I could, I'd gladly lend you my
+Sheikah gear...
+Thing is, there's a strict rule about only
+the Sheikah being allowed to wear it.
+
+Anyhoo, guess what!
+
+
+I've done a bit more research regarding
+the Great Fairy Fountain, and I finally
+found a suspicious spot!
+However...it's really hard to get there.
+Honestly, I'm not sure I can do it.
+
+*SIGH* Even if it's just a picture,
+I'm dying to see it..."
+33,Talk27,"いや～ けっこう降ってきちゃったね
+
+私は シーカー族の装束があるから大丈夫だけど
+キミは そんな姿で大丈夫なのかい？
+私は絵が趣味でね
+美しい風景を求めて旅をしているんだ
+実は この村の近くに それはそれは美しい
+大妖精の泉というのがあるらしくてね
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+しかし詳しい事は
+誰も教えてくれないんだよ…
+ここの人達は この村から出ようとしないから
+私みたいな旅好きは変わり者扱いでね…
+でも私はあきらめない！
+もし何かわかったら キミにも教えるよ！","Wow, it's really coming down, isn't it?
+
+
+I have my Sheikah gear, so I'm fine,
+but are you going to be OK?
+Hope so.
+As for me, I just looove art. In fact,
+I'm traveling the world in search of
+beautiful landscapes.
+Just between you and me...
+
+
+I hear there's a Great Fairy Fountain
+somewhere near this village. I hear
+it's breathtakingly beautiful.
+Aesthetics aside, they also say the place
+can bestow some kind of mysterious
+power on people...
+However, since I'm an outsider, I can't
+get anyone to tell me any more details
+than that.
+These villagers never leave the safety of
+their village, so travelers like me are
+treated with suspicion.
+But I won't give up! Oh, and if I manage
+to find out anything, I'll be sure to let
+you know."
+34,Talk28,"この村の近くに それはそれは美しい
+大妖精の泉というのがあるらしいんだ！
+その泉は美しいだけでなく
+不思議な力を与えてくれるという…
+しかし肝心の場所がわからなくてね…
+
+でも私はあきらめない！
+雨が降ろうが雷に打たれようがね！
+もし何かわかったら キミにも教えるよ！","They say there's a Great Fairy Fountain
+somewhere in this village.
+
+Aesthetics aside, they also say it can
+bestow mysterious powers on people!
+
+It's too bad I just can't figure out the
+exact location...
+
+But I'm not gonna give up! Not even if
+it rains! Not even if it snows! Not even
+if I get struck by lightning!!
+Oh, and of course, I'll let you know if
+I find out anything!"
+35,Talk29,"この村を離れて もう何年もたつからね
+調査も大変だったんだよ
+しかも キミも気づいてると思うけど
+この村の人は みんな同じ装束だろ？
+間違って同じ人に
+何度も聞いちゃったりしてね…
+もともと変わり者と言われてたのに
+今じゃ さらに不審者扱いだよ…
+でも絶景を見れるなら不審者になるぐらい
+私は全然平気だけどね
+さあ もうすぐそこだ
+天気も良くないし早く行こうじゃないか","It's been years since I've visited this
+village, so it was hard to dig up info.
+
+As you've probably noticed, the people
+here all wear the same attire.
+
+I made the mistake of asking the same
+person the same thing multiple times.
+Oops.
+I was already a stranger to the village,
+but now I'm a suspicious roamer to them.
+
+But if it helps me track down a beautiful
+landscape, I don't care what people
+think of me!
+Hey, we're almost there! The weather's
+not so great, so we'd better hurry."
+36,Talk30,"つ… つかれた…
+坂道は年寄にはこたえるな…
+私は これ以上は無理そうだ…
+
+この祠の裏に大妖精の泉があると
+言われているんだが… いつもここで息切れだ…
+はぁ… 
+天気も悪いし私はちょっと休ませてもらうよ
+もし見つけたら
+絵を忘れないでくれよ","So...tired... Hills aren't easy for
+old fogies like me. Sorry, but I
+don't think I can go on... *pant*
+The Great Fairy Fountain should be...
+along the path that leads past
+the shrine. *pant*
+That's what I've been told, anyway.
+Yeesh, I'm completely out of breath!
+That always happens right about here.
+*pant* The weather is awful, too,
+so I think I'd better rest for a bit.
+
+But hey, if you find it...don't forget to
+get a picture!"
+37,Talk31,"おっ こんな天気なのに ヤル気十分だな！
+キミがそんなに絶景好きだとは思わなかったよ！
+じゃあ行こうか！","Wow! You're high-spirited, even in
+the rain! I didn't know you loved
+beautiful landscapes quite so much.
+Well, shall we?"
+38,Talk32,"高台の奥にある アソコの辺りが
+怪しんだけどな… 
+天気が良くなったら また探してみるか","The area beyond that elevated bit of land
+is suspicious... Perhaps I'll go take a
+look when the weather clears up."
+39,Talk34,またキミとここで会うとはな,To think we'd run into each other again...

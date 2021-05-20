@@ -1,0 +1,108 @@
+#,Title,JPja,USen
+1,"""0000""",ハートの器を増やす,Heart Container.
+2,"""0001""",がんばりの器を増やす,Stamina Vessel.
+3,"""0002""",やっぱりやめる,Never mind.
+4,"""0003""",はい,Yes.
+5,"""0004""",いいえ,No.
+6,talk00,女神像は うっすらと笑みを湛えている,The Goddess Statue smiles upon you...
+7,talk01,"試練を乗り越え
+克服の証を授かりし者よ","You who have conquered the shrines and
+claimed theirSpirit Orbs."
+8,talk02,"しかし そなたは克服の証を4つ
+持っていないようです
+世界に散らばる祠を探し
+更なる試練に挑むのです
+そして克服の証が4つ集まった時
+私の元へ訪れなさい","But you do not yet havefourSpirit Orbs.
+
+
+Seek out theshrines scattered across
+Hyrule, and face more challenges.
+
+Once you have claimedfourSpirit Orbs,
+return to me."
+9,talk04,ハートの器を増やすのですね？,"You wish for anotherHeart Container,
+yes?"
+10,talk05,がんばりの器を増やすのですね？,"You wish to expand yourStamina Wheel,
+yes?"
+11,talk07,"その克服の証4つと引き換えに
+望みの力を与えましょう","In exchange forfour""Spirit Orbs, I will
+amplify your being. So tell me what it
+is that you desire."
+12,talk08,では望みの力を与えましょう,I shall grant the power you seek.
+13,talk09,そなたに力を与えましょう,I can offer you great power.
+14,talk11,"お行きなさい
+このハイラルに安寧を…","Go, and bring peace to Hyrule..."
+15,talk12,"既に克服の証を4つ
+持っているようですね","It appears you have claimedfour
+Spirit Orbs."
+16,talk13,まだ克服の証を持っているようですね,It appears you still possessSpirit Orbs.
+17,talk14,"わかりました…
+では どちらの力を望みますか？",Understood. Which power do you seek?
+18,talk15,"今のあなたは生命力に満ち溢れています
+
+それ以上ハートの器を
+増やす必要は無いでしょう","Your life force already tests the seams of
+your being.
+
+There is no need to increase your
+Heart Containers further."
+19,talk16,"今のあなたは気力に満ち溢れています
+
+それ以上がんばりの器を
+増やす必要は無いでしょう","Your being overflows with vigor.
+
+
+There is no need to increase your
+Stamina Wheelfurther."
+20,talk17,"今のあなたは
+生命力気力共に満ち溢れています
+今以上の力を望むべきではありません","You already overflow with life force and
+stamina. Increasing your power any
+further may destroy you."
+21,talk18,ハートの器を増やしますか？,Increase yourHeart Containers?
+22,talk19,がんばりの器を増やしますか？,Expand yourStamina Wheel?
+23,talk20,"……
+
+よくぞ この泉を訪れました…","...
+
+
+You have done well to find this spring."
+24,talk22,"克服の証を授かりし者よ…
+
+青き精霊ネルドラを怨念から解放し
+その力を示すのです","You who has claimed the Spirit Orbs.
+
+
+Rid the blue spiritNaydraof Malice.
+Show me the power you hold."
+25,talk23,"そなたの力により ラネール山の
+青き精霊ネルドラから怨念は消えました","By your power, the blue spirit of
+Mount Lanayru,Naydra, has been freed
+of Malice."
+26,talk24,"さあ最後にネルドラの体を射抜くのです
+それが この地の精霊を解放する最後の儀式…","Now, at last, you must pierce the body
+ofNaydra. This final ritual will release
+the spirit of this land."
+27,talk27,"この力の泉に
+赤き精霊オルドラのウロコを捧げなさい","OfferDinraal's scale, received from
+the red spirit, to theSpring of Power."
+28,talk28,"この勇気の泉に
+黄金の精霊フロドラのウロコを捧げなさい","OfferFarosh's scale, received from the
+golden spirit, to theSpring of Courage."
+29,talk30,"さあ道は拓けました
+進みなさい…",Your path has shown itself. Now go forth.
+30,talk31,"私女神ハイリアが
+あなたを導きましょう","I, Goddess Hylia, will guide you."
+31,talk32,"青き精霊ネルドラは解放されました
+
+さぁネルドラのウロコを
+この泉に捧げるのです","The blue spirit,Naydra, is released.
+
+
+You must now offerNaydra's scale to
+the spring here."
+32,talk33,"リンク… あなたには十分な力を与えました
+これ以上力を望むべきではありません","Link... It appears that you have sufficient
+power. You should not seek to increase
+this any further."

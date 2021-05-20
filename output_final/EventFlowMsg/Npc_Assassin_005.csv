@@ -1,0 +1,83 @@
+#,Title,JPja,USen
+1,"""0000""",買った！,I'll buy!
+2,"""0001""",けっこうです,I'll pass.
+3,"""5500""",はい,Sure.
+4,"""5501""",いいえ,Nah.
+5,"""5502""",買った！,I'll buy!
+6,"""5503""",やっぱりやめる,"Actually, never mind."
+7,"""5507""",ぜんぶ買う,I'll take 'em all!
+8,Com_Talk_06,"甘くて美味しいバナちゃんだよ！
+さあ買った買った！","Sweet, delicious, wonderful bananas!
+Step right up, and buy 'em right up!"
+9,Com_Talk_07,おかげで売り切れだよ！,"No bananas left, all thanks to you!"
+10,Com_Talk_08,"おやおや ルピーが足りないね
+私のバナちゃんは まからないよ","You haven't got enough rupees, friend.
+I'm afraid you can't pay for these
+bananas in installments."
+11,Com_Talk_09,"さてさて ポーチが いっぱいだね
+そんなんじゃ バナちゃんは入らないよ","Well, it looks like your inventory is full.
+Not even room for a banana in there.
+I can tell from here."
+12,Com_Talk_10,さあ このバナちゃん買っとくれ,"Buy these sweet, sweet bananas!"
+13,Com_Talk_11,さあさあ売れた さあ売れた！,Sellin' over here! Sellin' over here!
+14,Com_Talk_11b,まいどまいどの まいどあり！,Thanky-thanky-thank-a you.
+15,Com_Talk_11c,バナちゃんも喜んでるよ！,Even the bananas are happy now!
+16,Com_Talk_11d,よっ！ にくいね お兄ちゃん！,"I bet you want more, don't you?"
+17,Com_Talk_12,さあ自慢のバナちゃんだ！,These bananas are my pride and joy!
+18,Com_Talk_30,"バナちゃん個で
+合計ルピーだ さあ買った！","If you buy , that'll come to a total
+of  rupees. Buy 'em right up!"
+19,Com_Talk_31,欲しいだけ選んどくれ,Pick as many as you want.
+20,Com_Talk_34,"バナちゃん全部とは恐れ入ったよ
+個でルピーだ さあ買った！","All the bananas?! I don't know what to
+say! So then... will run you 
+rupees. What a sale!"
+21,Com_Talk_36,お兄ちゃん かなりのバナちゃん好きだね,"You really are a banana fan, aren't you?"
+22,Com_Talk_37,"おっとと… お兄ちゃんのおかげで
+私のバナちゃん品切れだったよ
+入荷予定のバナちゃん見ていくかい？","Well, well... Thanks to you, I haven't got
+any more bananas today.
+
+Want to take a look at the banana
+delivery schedule before you go?"
+23,Com_Talk_56,"1つだけでいいかい？
+ルピーだ さあ買った！","Just one? That'll be  rupees, then.
+Buy 'em right up!"
+24,Henshin00,お命 ちょうだい する！,I will take your life!
+25,Henshin01,バナ… ボスの仇！,"For the bana—I mean, for the
+boss!"
+26,Near00,さあさあ買った！,Step right up and buy 'em!
+27,Talk00,"さあさあ買った さあ買った！
+私のバナちゃん見てらっしゃい
+黄色に色気づいたころ
+一皮むけば雪の肌
+味は夢か幻か
+さあさあ買った さあ買った！","Step right up—don't be shy! Check out
+my fine bananas! They're available...
+to buy!
+So yellow, they'll make you yell \""oh!\"" So
+fresh, you'll think there's a tree around
+the corner. And the taste—like a dream!
+Stay right there and buy a pair!"
+28,Talk01,"そんな野暮は言っちゃあダメだよ
+バナちゃん機嫌を損ねちゃう
+売るのは私買うのはそっち
+つべこべ言わずに さあ買った！","Pass? Pass?! It would be a mistake to
+pass on these amazing, wonderful,
+fantastic bananas!
+Listen, here's how it works: I sell; you
+buy! Stop holding up the show, and do
+your part!"
+29,Talk02,"お兄ちゃん また よろしくな！
+…なんて言うのは真っ黄色なウソ","Well then... I hope you come back later...
+That's a lie as slippery as a banana peel."
+30,Talk03,…お兄ちゃん バナナ嫌いかい？,...What—do you hate bananas?
+31,Talk04,"さあさあ買った さあ買った！
+またまた会ったね お兄ちゃん
+私のバナちゃん見てらっしゃい
+さあさあ買った さあ買った！","Come on down, young man! Looking to
+buy bananas this time? You can!
+
+Just take a look at these fine bananas!
+Buy them up quick before you've
+missed your chance!"

@@ -1,0 +1,43 @@
+#,Title,JPja,USen
+1,QL_MouthofDragon_Desc,"樹海スグラントで カッシーワが詠っていた古の詩
+
+『深淵の森 大蛇 喰らうべく開かれし 龍のアギト
+ そこに勇者の試練が眠る』
+
+この詩が意味することとは…","The ancient song that Kass sang at
+Pagos Woods is hinting at something...
+
+\""Where the forestdragon splays its jaws,
+A shrine sleeps with noble cause.\""
+
+Your task is to decipher its riddle."
+2,QL_MouthofDragon_Finish,"『この勇気の泉に
+黄金の精霊 フロドラのウロコを捧げなさい』
+
+女神様の言葉に従い勇気の泉に
+フロドラのウロコを浮かべると
+古代の祠が現れた","\""OfferFarosh's scale received from the
+golden spirit to the Spring of Courage.\""
+
+Just as the Goddess instructed, you threw
+Farosh's scale into the Spring of Courage.
+A shrine appeared as a result!"
+3,QL_MouthofDragon_Name,大蛇喰らいし龍,The Serpent's Jaws
+4,QL_MouthofDragon_Step1,"樹海スグラントで カッシーワが詠っていた古の詩
+この詩の意味を読み解いて勇気の泉を見つけ
+そこで女神様の声を聞いた
+
+『この勇気の泉に
+黄金の精霊フロドラのウロコを捧げなさい』
+
+フロドラのウロコ とは一体…？","Kass recited the lyrics to an ancient song when
+you met him in Pagos Woods. You figured out
+the hidden meaning of the song and
+discovered the Spring of Courage as a result.
+It was at that moment that the voice of the
+Goddess spoke to you.
+
+\""OfferFarosh's scale received from the
+golden spirit to the Spring of Courage.\""
+
+What's aFarosh's scale?"

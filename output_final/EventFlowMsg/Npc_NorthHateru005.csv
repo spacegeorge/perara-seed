@@ -1,0 +1,201 @@
+#,Title,JPja,USen
+1,"""0000""",ここって？,What is this place?
+2,"""0001""",何見てたの？,You seem grumpy.
+3,"""0002""",すいません,I'm sorry.
+4,"""0003""",ゾーラ族？,The Zora?
+5,"""0004""",じゃあね,See ya.
+6,"""0005""",サトリちゃん？,Satty?
+7,"""0006""",聞きたい,I want to hear it.
+8,"""0007""",別にいいです,Not really.
+9,"""0008""",それで？,And then?
+10,"""0009""",もういいです,That's enough.
+11,"""0010""",それでそれで？,And then? And then?
+12,talk000,ィヨォ……,Yo...
+13,talk001,"なんだァ…男かよ！
+
+この馬宿に居ると男にしか会わねェな…","Really?! Another guy?!
+
+
+The only people I can meet here at this
+stable are men..."
+14,talk002,"おっ…？！
+久々のベッピン……ん？
+なんだァ…男かよ…
+
+そんな服着て…ゲルド族はだませても
+ハイリア人は騙せないぜ…
+しっかし…
+この馬宿に居ても男にしか会わねェな…","Oh! Hey, girl...
+It's been a while since I've seen a
+vision as fine as you around he—
+Wait a sec...
+You're a guy, aren't you?
+
+Look, pal. Those clothes might fool
+someone from Gerudo, but they're not
+fooling this Hylian.
+*sigh*
+I should have known I wouldn't meet any
+women at this crummy stable."
+15,talk005,"ん？おめェさんか…
+なんだァ？","Hm?! Oh, it's just you... You want
+something? Or are you just here to
+disappoint me again?"
+16,talk010,"男ばっかりの むさ苦しい馬宿だぜ…
+
+つい最近も ゾーラ族が来たと思ったら
+プリンスだとか言って…男だったぜ…
+俺の癒しは サトリちゃんだけだァ…","It's a filthy stable filled with nothing but
+unwashed men...
+
+And even when we were finally visited by
+a Zora...turns out he was some
+manly prince guy who's a dude.
+Satty's the only reason I'm sticking
+around this dump."
+17,talk020,"ここから東を見てみろよ
+妙な雲で おおわれてやがるだろ？
+雨とか ほんと気分が悪ぃや…
+サトリちゃんに癒してもらわねェと…","Take a look to the east.
+It's always covered in clouds, right?
+
+Rain and stuff really sours my mood.
+Good thing Satty's here to cheer me up."
+18,talk030,"謝ってもらいたいわけじゃねェよ…
+
+最近 この馬宿に立ち寄るのが
+おめェさんとかゾーラ族のプリンスとか…
+男ばっかだったからよォ…","I don't want to hear it.
+
+
+The only visitors we get at this stable
+these days are guys like you and the
+Zora prince.
+Men. Men everywhere..."
+19,talk040,"知らねェのか？
+魚みたいな ツルっとした奴らだよ
+ここから東…ゾーラ川の上流にある
+ゾーラの里に住んでるんだ
+腕の立ちそうなハイリア人だから
+里へ来てほしいと言われたんだが…
+サトリちゃんを危険な目にあわせたくねェから
+断っちまったんだ…","You don't know who the Zora are?
+They're, like, slippery fish people.
+
+They live east of here...up Zora River in
+a place called Zora's Domain.
+
+They wanted me to stop by their domain
+because they need a Hylian for
+something...
+But I don't want to abandon Satty or put
+him in danger, so I'm in a bit of a tight
+spot..."
+20,talk050,あァ…またな,Yeah... See ya.
+21,talk060,"サトリちゃんはなァ…俺の命の恩人なんだよ…
+…長くなるが聞くかい？","Satty? Well...I owe him my life.
+It's a pretty long story—are you sure you
+want to hear it?"
+22,talk061,"じゃあ話すぜ…
+
+ある時にだけ動物が現れるっていう
+奇妙な山の事は知ってるかい？
+俺は その噂を聞きつけて…
+一儲けしてやろうと行ったのさ…
+狩りつくして肉なんかを売り飛ばそうってな…","All right. Here goes...
+
+
+Have you heard that rumor about the
+strange mountain on which a bunch of
+animals appear at a certain time?
+Well, when I heard that, I went there
+to do some hunting.
+
+I thought it sounded like a good
+opportunity to turn a profit, selling
+the meat and whatnot..."
+23,talk062,"山に行った俺は動物が現れるのを
+じっと待ってたんだ…
+そこに きったねぇ子犬がいたんだ…
+親とはぐれたのか人に捨てられたのか…
+エサをねだってきやがったから…
+干し肉を分けてな…","So I go to the mountain and wait
+for the animals to show up.
+
+When suddenly this dirty little pup
+appears out of nowhere!
+
+I figure he's been separated from his
+parents or abandoned by his last owner.
+
+He starts begging for food, so I give him
+some jerky, and he runs off over a hill..."
+24,talk063,"ある日 つい夜中にうとうとしちまって…
+気づいたら目の前に でけェ光るヤツが…
+完全に油断してた俺は
+弓を引くのも忘れて…見入っちまった
+ヤツは…俺を踏みつぶそうと迫ってきた
+
+そこに エサをやった子犬が割り込んできたのよ
+何十倍もあるヤツに向かって吠えて…
+俺のことを…守るためによォ…
+震えながら……","Later on, I doze off for a little while, and
+when I come to, there's a big glowing
+beast standing right in front of me!
+It caught me completely off guard.
+I couldn't even draw my bow!
+I just stared at it.
+And then the beast runs at me like it
+wants to trample me!
+
+Suddenly the pup I gave food to jumps
+in between us! He starts barking at the
+beast, who was ten times his size!
+All to...protect me...
+Even though he was trembling with fear..."
+25,talk064,"そしたらヤツが少し怯んだのさ…
+
+俺はそのスキに子犬をひっつかんで
+転がるように山を下りてきたってワケさ…
+…
+
+…ま それだけっちゃ それだけの話なんだがな
+
+で その奇妙な山ってのが
+中央ハイラルの西にあるサトリ山…
+その時に会った子犬が
+今のサトリちゃんさァ
+あんた…勇気があるなら
+行ってヤツに会ってみなよ…","Then the beast recoiled a bit...
+
+
+So I took that chance to snatch up the
+pup and flee down the mountain,
+tripping and falling all the way...
+...
+
+
+And that's my story.
+
+
+The strange mountain is called
+Satori Mountain. It's west of
+Central Hyrule.
+I brought Satty back here, and we've
+been best buds ever since.
+
+If you're feeling brave, you should go
+find that glowing beast on the mountain
+and give it a stern talking to."
+26,talk065,"なんだよ…またサトリちゃんと俺の
+感動秘話を聞きたいのかい…？","You wanna hear the touching story about
+how Satty and I became best friends
+again?"
+27,talk070,そうかい…またな,Oh... Bye.
+28,talk100,さて…今日は何が起きるかなァ…,I wonder what'll happen today...
+29,talk101,雨だなァ…,"Ugh... Where's the sun?
+And the girls?"
+30,talk110,腹が減ったなァ…,I'm so hungry right now...
+31,talk120,"ヤツが…… ヤツが…来る……
+逃げろ… サトリちゃん……","The beast... It's...back...
+Run, Satty. Save yourself..."

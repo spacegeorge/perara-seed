@@ -1,0 +1,351 @@
+#,Title,JPja,USen
+1,"""0000""",大変な時？,Tough times?
+2,"""0001""",わかった,I understand.
+3,"""0002""",ルージュのこと教えて,Tell me about Riju.
+4,"""0003""",ビューラのこと教えて,Tell me about Buliara.
+5,"""0004""",さよなら,Good-bye.
+6,Near_Raimei_001,うらやましい…,So jealous...
+7,Talk_01,"族長様は幼いながらも
+民のことを一番に想っておられる優しいお方
+こんな大変な時でも
+訪問者は通せとおっしゃっているが…
+いいか！中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","The chief may be young, but she's a
+kind person who puts her people first.
+
+She told me to allow visitors through,
+even in these tough times...
+
+Hey, listen! Even though I'm letting you
+inside, that doesn't mean you can go
+getting in the chief's way! Watch out!"
+8,Talk_02,"それにしても このメルエナというヴァーイ…
+モルドラジークの肝を探してるみたいだが…
+モルドラジークの住処は極暑地帯で
+ただでさえ誰も行きたがらないのに
+さらに あの怪物を倒して
+肝を手に入れるなんて…
+可哀相だが少なくともこの街には
+このヴァーイを助けられる者は おらんだろうな","That being said, this vai called
+Malena... It seemed she was looking
+for Molduga guts.
+Molduga live in extremely hot areas.
+
+
+No one wants to go there to begin with,
+much less to kill a giant monster and
+scoop out its innards.
+It's unfortunate, but I doubt anyone in 
+Gerudo Town will be willing to help 
+the vai..."
+9,Talk_05,"今日は客が多い日だな…
+
+族長様は幼いながらも
+民のことを一番に想っておられる優しいお方
+こんな大変な時でも
+訪問者は通せとおっしゃっているが…
+いいか！中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","We've got a lot of visitors today...
+
+
+The chief may be young, but she's the
+kind of leader who puts her people first.
+
+She told me to allow visitors through,
+even with the tough times lately...
+
+Hey, listen! Even though I'm letting you
+inside, that doesn't mean you can go
+getting in the chief's way! Watch out!"
+10,Talk_06,"これはゲルドの問題…
+お前は知らんでも良いことだ！","This is a Gerudo problem! It is none of
+your concern!"
+11,Talk_07,失礼がないようにな,Take care not to be rude.
+12,Talk_08,"図らずも族長様との話聞こえてしまった…
+
+お前…
+ただのハイリアのヴァーイではないようだな
+それにしても あの兜をかぶられた族長様を
+久々に見たよ
+以前は兜が大きく思えたが
+今は族長様の方が大きく見えるよ
+さあ族長様は監視所でお前をお待ちだ
+監視所に一番近いのは南東門だ
+もし場所が分からなくなったら
+南東門の警備兵に尋ねるんだな","I overheard your conversation with
+the chief...
+
+You aren't just a regular Hylian, are you?
+
+
+Anyway... It's been a while since I've
+seen the chief wearing that helm.
+
+It has always looked a little big on her,
+if you ask me.
+
+She's headed for the lookout post. If you
+take the southeast gate, you'll be closest
+to it.
+Just ask the guard at the southeast gate
+for directions if you get lost."
+13,Talk_09,"無礼者！
+様をつけんか！様を！
+族長様は
+まだ幼い身でありながら
+我らに心配をかけぬよう
+いつも気丈に振る舞われているが…
+上の寝室から
+時々無邪気な声が聞こえてくるんだ…
+寝室にいらっしゃる時だけが
+族長様が子供に戻れる時なのだろうな…","Hey! Treat her with due respect and call
+her Lady Riju. Her youth doesn't stop
+her from looking out for her people!
+She puts up a tough front most
+of the time, but she does have a
+softer side, too...
+With all the expectations of leadership,
+though, she can only let that side show
+when she's in private..."
+14,Talk_10,"お前！ ビューラ様を呼び捨てにするなど
+なんと恐れ多い！！
+そんなことがビューラ様のお耳に届いたら
+さすがのお前でもタダでは済まんぞ！！
+ビューラ様は
+実はこの街一番の槍の使い手なんだ！
+私はビューラ様のようになりたくて
+幼き頃より槍術を鍛錬してきたんだ
+オーラが凄すぎて
+まだ近づくことすらできてないが…","\""Tell me about Buliara\""?! How can you
+not know about her? It's an insult to
+think her name isn't recognized...
+Buliara is the best spear master in the
+whole town, of course!
+
+She inspired me to take up the spear
+when I was young, but despite all my
+training, I'm not even close to her skill."
+15,Talk_11,"ルージュ様の立派になられたお姿を
+先代にも見ていただきたかったよ","I only hope that all of Lady Riju's
+predecessors are watching her now, and
+they see how commendable she's been."
+16,Talk_12,"やはりお前は
+ただのヴァーイではなかったようだな
+神獣が現れてからというもの
+族長様もビューラ様も険しいお顔をされていたが
+今はなんと穏やかな事か…
+
+これもみな お前の助けがあったからだ
+サークサーク","Seems that you weren't just an average 
+Hylian after all.
+
+When the Divine Beast first appeared,
+a day didn't go by that the chief and
+Buliara didn't look stressed.
+But now... Well, it's like years have been
+lifted from them.
+
+This is all thanks to you.
+Sarqso."
+17,Talk_13,"それにしても このメルエナというヴァーイ…
+ずいぶん困っているようだが…
+何度も来られて こちらも困ってるんだ…
+
+私はここを離れるわけにはいかんと
+言っているのに…","This vai, Malena... It looked like
+something was bothering her.
+
+She keeps coming back here, and it's
+starting to make me worry. But I can't
+afford to leave my post right now..."
+18,Talk_14,"このメルエナというヴァーイ…
+かなり困っているようだが
+今は我々も人助けをしている余裕はなくてな
+どうしてやることもできんのだ
+しかし こんな大変な時でも
+族長様は執務を怠らず
+訪問者は通せとおっしゃっている
+
+中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","This vai, Malena... It seems like she
+really is in desperate need, but we aren't
+able to help right now...
+With times so tough, there's not a lot we
+can do, but the chief is the kind of leader
+who puts her people first.
+Hey, listen! Even though I'm letting you
+inside, that doesn't mean you can go
+getting in the chief's way! Watch out!"
+19,Talk_15,"こんな大変な時でも
+族長様は執務を怠らず
+訪問者は通せとおっしゃっている
+
+中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","Even in these tough times, the chief
+won't let any of her official duties slide,
+including things that feel unimportant.
+She's instructed me to go ahead and
+let people who wish to speak with her
+come in, regardless of subject matter...
+So you may enter, but with a word of
+warning. Do not get in the chief's way!"
+20,Talk_16,"族長様から雷鳴の兜""奪還の任を受けるとは
+お前何者だ？
+しかし いくら族長様のお墨付きとはいえ
+一筋縄ではいかんと思うぞ
+なんといっても盗人達は我々の厳重な警護を
+かいくぐる手練れ共だからな
+まぁ賊の事を知りたいなら
+兵舎にいくといいだろう
+あそこにる兵士達は
+ずっと賊の捜索をしてたからな詳しいはずだぞ","What makes you so special that the chief
+would trust you with retrieving the
+Thunder Helm?
+Hrmph. Regardless, I hope you are
+prepared. This task will not be a
+simple one.
+The thieves were able to slip past all of
+our guards, so they're certainly not
+amateurs.
+You should head over to the barracks if
+you want to learn more...
+
+The soldiers there have been
+investigating the theft for a while, so
+they should be able to help."
+21,Talk_17,今日は客が多い日だな…,We've had a lot of visitors today...
+22,Talk_18,"それにしても…
+
+このメルエナというヴァーイ…
+かなり困っているようだが
+今は我々も人助けをしている余裕はなくてな
+どうしてやることもできんのだ
+心が痛いよ…","Even so...
+
+
+This vai, Malena... It seems like she
+really is in desperate need, but we
+aren't able to help right now...
+It pains me to be unable to do anything..."
+23,Talk_21,"族長様のあんな堂々としたお姿
+初めて見た気がするよ
+さあ族長様は監視所でお前をお待ちだ
+監視所に一番近いのは南東門だ
+もし場所が分からなくなったら
+南東門の警備兵に尋ねるんだな","I think this is the first time I've seen the
+chief look so proud and regal...
+
+She is waiting for you at the lookout 
+post. If you take the southeast gate,
+you'll be nearly there.
+Just ask the guard at the southeast gate
+for directions if you get lost."
+24,Talk_22,"神獣が現れてからというもの
+族長様もビューラ様も険しいお顔をされていたが
+今はなんと穏やかな事か…
+
+これもみな お前のお陰だな","When the Divine Beast first appeared,
+a day didn't go by that the chief and
+Buliara didn't look stressed.
+But now... Well, it's like years have been
+lifted from them.
+
+This is all thanks to you."
+25,Talk_23,"無礼者！
+様をつけんか！様を！
+族長様は
+まだ幼い身でありながら
+我らに心配をかけぬよう
+いつも気丈に振る舞われているが…
+上の寝室から
+時々無邪気な声が聞こえてくるんだ…
+寝室にいらっしゃる時だけが
+族長様が子供に戻れる時なのだろうな…","Hey! Treat her with due respect and call
+her Lady Riju. Her youth doesn't stop
+her from looking out for her people!
+She puts up a tough front most
+of the time, but she does have a
+softer side, too...
+With all the expectations of leadership,
+though, she can only let that side show
+when she's in private..."
+26,Talk_24,"お前！ ビューラ様を呼び捨てにするなど
+なんと恐れ多い！！
+そんなことがビューラ様のお耳に届いたら
+さすがのお前でもタダでは済まんぞ！！
+ビューラ様は
+実はこの街一番の槍の使い手なんだ！
+私はビューラ様のようになりたくて
+幼き頃より槍術を鍛錬してきたんだ
+オーラが凄すぎて
+まだ近づくことすらできてないが…","\""Tell me about Buliara\""?! How can you
+not know about her? It's an insult to
+think her name isn't recognized...
+Buliara is the best spear master in the
+whole town, of course!
+
+She inspired me to take up the spear
+when I was young, but despite all my
+training, I'm not even close to her skill."
+27,Talk_25,"お前が族長様のお墨付きとはいえ
+賊どもは かなり手練れのようだ
+まずは相手を知らんとな
+
+賊に関しては
+兵舎にいる兵士達に聞くといいだろう","You may be acting on behalf of the chief,
+but that won't make the thieves any less
+formidable.
+You should know your enemy well before
+you try to move against them.
+
+I'd suggest visiting the barracks and
+talking to the soldiers there. They should
+know more about the thieves."
+28,Talk_26,"族長様がお待ちだ！
+さあ早く中へ！","The chief is waiting!
+Come, hurry inside!"
+29,Talk_27,おおっ戻ってきたか！,"Oh, you're back!"
+30,Talk_28,"このメルエナというヴァーイ…
+かなり悩んでいたようだが顔に笑みが戻ったな
+今は我々も人助けをしている余裕はなくてな
+どうしてやることもできず心配していたのだ
+民いや ゲルド族すべての幸せが
+族長様の願いだからな
+この街が大変な時だと言うのに
+族長様は執務を怠らず
+訪問者も通せとおっしゃっている
+
+中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","This vai, Malena... It seemed like she
+was really in need, so I'm glad to see
+a smile on her face again.
+I was worried about her, so it really is
+reassuring to know that she was able to
+find help.
+With times so tough, there's not a lot we
+can do, but the chief is the kind of leader
+who puts her people first.
+Hey, listen! Even though I'm letting you
+inside, that doesn't mean you can go
+getting in the chief's way! Watch out!"
+31,Talk_29,"このヴァーイに笑みが戻ってよかった…
+
+民 いや ゲルド族すべての幸せが
+族長様の願いだからな
+この街が大変な時だと言うのに
+族長様は執務を怠らず
+訪問者も通せとおっしゃっている
+
+中に入ることは許可するが
+族長様の邪魔だけはするんじゃないぞ！","This vai's smile has finally returned
+to her...
+
+With times so tough, there's not a lot we
+can do, but the chief is the kind of leader
+who puts her people first.
+Hey, listen! Even though I'm letting you
+inside, that doesn't mean you can go
+getting in the chief's way! Watch out!"
+32,Talk_30,サヴォッタ,Sav'otta.
+33,Talk_31,サヴァーク,Sav'aaq.
+34,Talk_32,サヴァサーバ,Sav'saaba.

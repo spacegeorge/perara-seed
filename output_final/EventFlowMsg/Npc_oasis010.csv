@@ -1,0 +1,97 @@
+#,Title,JPja,USen
+1,"""0000""",ヴォーイ？,Voe?
+2,"""0001""",さよなら,Good-bye.
+3,"""0002""",ヴァーイ？,Vai?
+4,Near_Raimei_001,兜のレプリカか…？,A replica of the helm?
+5,Npc_oasis010_001,"何だ お前！
+ヴォーイじゃないか！！
+ここはヴォーイ禁制 『ゲルドの街』
+ヴァーイ以外は中に入れん決まりだ！","Wait a... You're a voe!
+Voe are forbidden here in Gerudo Town.
+Only vai are allowed inside!"
+6,Npc_oasis010_002,"ヴォーイ！ まだいたのか！！
+街にはヴァーイしか入れんと言っただろうが！","Voe! Are you still here?! I told you, only
+vai are allowed inside!"
+7,Npc_oasis010_003,"可愛いヴァーイだね
+ここは 『ゲルドの街』 
+ヴォーイは入れない
+ヴァーイだけの神聖な街だ
+ゆっくり していってくれ","We don't get a lot of Hylian vai around
+here. Welcome to Gerudo Town.
+
+It is an old tradition here that only vai
+are allowed within the walls. Voe are
+strictly forbidden. Take your time here."
+8,Npc_oasis010_004,"ヴォーイは たとえアリであっても通さない
+安心して ゆっくりしていってくれ","I will not let a single voe pass, even if
+it was a mere ant. But you are fine.
+Please relax and enjoy your time here."
+9,Npc_oasis010_009,"ヴォーイといったら
+『男』に決まってるだろ！","When I say \""voe,\"" I mean \""man,\""
+obviously!"
+10,Npc_oasis010_010,"ヴァーイといったら
+『女』に決まってるだろ！","When I say \""vai,\"" I mean \""woman,\""
+obviously!"
+11,Npc_oasis010_011,"ここの酒場にはヴァーイミーツヴォーイっていう
+酒があってな これが最高にうまいんだ！
+この街に来た記念に
+寄ってみてはどうだ？","Here's a tip: if you stop by the canteen,
+do yourself a favor and order a
+Noble Pursuit.
+It's hands down the best drink I've ever
+had."
+12,Npc_oasis010_012,"ヴァーイというのは ゲルド語で
+『女』という意味だ","Vai is a word in the Gerudo language
+that means \""woman.\"""
+13,Npc_oasis010_013,"ヴォーイというのは ゲルド語で
+『男』という意味だ","Voe is a word in the Gerudo language
+that means \""man.\"""
+14,Npc_oasis010_014,"とにかくここはヴァーイしか入れん
+ヴォーイは即刻立ち去るんだな！",All voe must leave at once!
+15,Npc_oasis010_015,"ヴォーイとヴァーイの区別もつかないくせに
+よくこの街に入ろうとしたもんだな","You don't even know the difference
+between voe and vai, and you're trying
+to enter town?!"
+16,Npc_oasis010_016,"ゲルド語は他にも色々あるが
+この街に入るならば
+せめてヴォーイとヴァーイぐらいは
+覚えといた方がいいぞ","There are many other Gerudo words,
+and it would help to learn them if you
+plan on entering Gerudo Town.
+But you should at least remember voe
+and vai."
+17,Npc_oasis010_017,サヴァーク,Sav'aaq.
+18,Npc_oasis010_018,サヴォッタ,Sav'otta.
+19,Npc_oasis010_019,サヴァサーヴァ,Sav'saaba.
+20,Sinjyu_Female_001,"我らの族長様が
+とうとうやり遂げてくださったよ
+こんな平和な砂漠を見るのは久々だよ
+
+さぁ私も気持ちを新たにして
+ヴォーイチェックに専念しないとな！","Our chief has finally done it. It's been a
+long time since I've seen the desert as
+peaceful as this...
+And now that I've refreshed myself, I
+can really buckle down and get back to
+living my life!"
+21,Sinjyu_Normal_001,"我らの族長様が
+とうとうやり遂げてくださったのだ
+見ろこの平和なゲルド砂漠を！
+
+これで皆安心して砂漠を渡ってこられるだろう
+
+お前もグズグズしてないで
+砂漠を渡って さっさと帰るんだな","At last, our chief has finally done it!
+The desert is once again peaceful!
+
+Everyone can safely travel across the
+desert without a worry in the world!
+
+Even you! Yes, you! Stop lingering
+around here—get out, traverse the
+desert, and go home!"
+22,TerrorArrow,返り討ちにしてやる！,I'll pay you back!
+23,TerrorBomb,殺気！,Is it a fight you want?!
+24,TerrorExplosion,のああああ！,Nwahhh!
+25,TerrorFire,やめい！,Stop!
+26,TerrorSword,いい度胸だ！,You got some nerve!

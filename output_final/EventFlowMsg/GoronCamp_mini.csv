@@ -1,0 +1,135 @@
+#,Title,JPja,USen
+1,"""0000""",やりマッスル！,"I'm pumped, brother!"
+2,"""0001""",遠慮しときます,I'm not pumped.
+3,"""0002""",ルール説明して,Explain the rules.
+4,"""0003""",ド根性コース,Gut Check Challenge.
+5,"""0004""",超ド根性コース,Super Gut Check.
+6,"""0005""",はじめマッスル！,Let's DO THIS!
+7,"""0006""",やめマッスル…,I'd rather not...
+8,"""0007""",値段上がってない？,Did the price go up?
+9,Talk_00,"マッスル！四人目の兄弟よ！トレーニングのクリア見事だったゴロ…しかし！
+1度の成功で満足してはいけないゴロ！
+日々の鍛練 たゆまぬ努力こそが
+一人前のオトコには必要ゴロ
+そして！
+更なる高みを目指す試練も用意したゴロ！
+その名も…超 ド根性ガケ登り！！！さっそくトレーニングするゴロ？","PUMP IT UP, BLOOD BROTHER!You cleared our training program like
+it was nothin'!But! I know your type. Your type is MY
+type. You can't be satisfied with just
+one victory. Can you, brother?
+To be a true Goron man, you've gotta
+be unflinchingly dedicated to training!
+No flinching whatsoever!
+Lucky for you, I've prepared a training
+program to help you ascend to even
+greater heights! I call it...Super Gut Check Challenge!!So? Ready to take your training to the
+next level of hard-core, my brother?"
+10,Talk_01,"よーし！ いい返事だゴロ！
+メッチャンコ鍛えてやるから覚悟するゴロ！
+ド根性コースは前回クリアしたコースだゴロ
+オマエならきっと楽勝ゴロ
+最難関超ド根性コースをおススメするゴロ！","I KNEW IT! Good answer, brother!
+I'm gonna train ya to smithereens,
+so I hope you're ready!
+You already beat Gut Check Challenge,
+so that wouldn't be enough of a trial
+for a brother like you.
+I recommend our hardest training
+program of all time. I call it...
+Super Gut Check Challenge!"
+11,Talk_02,どっちのコースでトレーニングするゴロ？,So? Which training program will it be?
+12,Talk_03,"おぉ なぜトレーニングしないゴロ…気が変わったら いつでも来るゴロ！
+オマエの挑戦を待っているゴロ！","What?! You...DON'T wanna train?!
+I don't understand such things, brother.When ya change your mind, come back.
+I'll be waitin' for ya to find your grit
+and rise to the challenge, little man!"
+13,Talk_04,ルール説明ゴロ！,"The rules are simple, brother!"
+14,Talk_05,ド根性コースは1回50ルピーゴロ！,"Our Gut Check Challenge training
+program costs 50 rupees per try!"
+15,Talk_06,超ド根性コースは1回100ルピーゴロ！,"The Super Gut Check Challenge training
+program will cost ya 100 rupees
+per try, brother!"
+16,Talk_07,"トレーニングで集める額は100ルピーゴロ！
+こんな数字 アツいオトコなら余裕ゴロ！
+ルピーが足りなかったら時間内にゴールしても
+失格になるゴロ！気を付けるゴロ！
+では…","You've gotta collect 100 rupees as you
+train! But if you're bringin' the heat like
+a true Goron, that should be no problem.
+Even if ya reach the goal within the
+time limit, without those rupees,
+you fail. So don't fail, brother!
+Now then... It's finally time for..."
+17,Talk_08,"なんと弱気な発言ゴロ！
+とてもとても残念ゴロォ！
+思い直したらまた来るゴロ！
+オマエの挑戦を待っているゴロ！","Pathetic answer, brother! I'm extremely
+disappointed with your lack of grit.
+
+If ya change your mind, come on back!
+I'll be waitin' for ya to rethink your life
+and rise to the challenge!"
+18,Talk_09,"お試し価格キャンペーンは終了したゴロ！
+こっちの都合もあるゴロ…文句言うなゴロ！","That was the new recruit price! That offer
+has expired, brother. I have my reasons...
+Protein doesn't buy itself, little man."
+19,Talk_10,"トレーニングで集める額は300ルピーゴロ！
+オマエのアツさを見せてくれゴロ！
+ルピーが足りなかったら時間内にゴールしても
+失格になるゴロ！気を付けるゴロ！
+では…","You've gotta collect 300 rupees as
+you train! Go on, show me how
+much of a Goron you really are!
+Even if ya reach the goal within the
+time limit, without those rupees,
+you fail. So don't fail, brother!
+Now then... It's finally time for..."
+20,Talk_11,"臆するなゴロ！
+オマエならやれると信じているゴロ！","Don't doubt yourself, brother! I believe
+in you and your tiny little muscles!"
+21,Talk_12,マッスル！,"PUMP IT UP, BROTHER!"
+22,Talk_13,"オマエのド根性見せてくれゴロ！
+トレーニングに挑戦するゴロ？","Time for a gut check, tiny Hylian!
+You ready to challenge yourself
+with our extreme training program?!"
+23,Talk_14,"アァメイジンンッグ！！トレーニングは見事に合格ゴロォ！！このキッツいトレーニングをクリアするとは
+さすが このオレが見込んだオトコだゴロ！","Unbelievable!!You annihilated our training like it was
+a mere warm up, brother!I knew I was right about you! You've got
+the body of a bitty baby but the heart
+of a Goron warrior!"
+24,Talk_15,"なんとぉお！！惜しいゴロ！目標ルピーに わずかに届いてないゴロ！今回は残念だったゴロ！
+オマエの次の挑戦を待っているゴロ！","NO WAY!! So close and yet
+so far, brother!!Sorry, but you're just barely short of the
+minimum rupee goal.Tough luck, little guy! But no worries.
+I'll be waitin', so come back when
+you're ready to challenge yourself again!"
+25,Talk_16,ド根性見せるゴロ！,"Prove your grit, brother!"
+26,Talk_17,ド根性ガケ登りぃいい！！スタートゴロォオオーー！！,Gut Check Challenge!!Ready?! GOOOOOO!!
+27,Talk_18,超ド根性ガケ登りぃいい！！スタートゴロォオオーー！！,Super Gut Check Challenge!!Ready?! GOOOOOO!!
+28,Talk_19,"マッスル！オマエの根性見せてもらったゴロ！
+そこで新たな提案があるゴロ！
+そこに腰かけてから話すゴロ
+しばし待つんだゴロ！","PUMP IT UP, BROTHER!Ya showed some real grit out there,
+tiny Hylian! In fact, I've got a new
+challenge I'd like to run by ya.
+Lemme know when you're ready to go,
+and I'll get to explainin', my brother.
+Don't keep me waitin' forever!"
+29,Talk_20,"トレーニングは何度でも受けられるゴロ
+次の挑戦を待っているゴロ！","Take this training as many times as ya
+want, brother! In fact, I'll be waitin' here
+for ya to challenge yourself again!"
+30,Talk_21,"超ド根性コース合格の報酬として
+ガッツダケを受け取れゴロ！","For passing our famous Super Gut Check
+Challenge, I'm gonna reward ya with an
+endura shroom! It's yours, brother!"
+31,Talk_22,"ド根性コース合格の報酬として
+ゴーゴーダケを受け取れゴロ！","For passing the Gut Check Challenge,
+I'm gonna award ya with this fancy
+rushroom!"
+32,Talk_23,"…と思ったけど
+もう たくさん持っているようだゴロ！
+ならば！ かわりにコレを受け取れゴロ！","...That's what I was plannin' on, anyway.
+But ya seem to have plenty already.
+
+I know! Take this instead, brother!"

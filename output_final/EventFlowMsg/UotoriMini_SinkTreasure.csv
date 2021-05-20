@@ -1,0 +1,77 @@
+#,Title,JPja,USen
+1,"""0000""",ぜひとも,I'm on it!
+2,"""0001""",忙しいんだ,I'm busy.
+3,Near01,Zzz,*yawn...*
+4,Near02,いい風じゃ,Nice winds today.
+5,Near03,雨じゃの,"Rain, rain, go away..."
+6,Near04,ねるかの,Maybe I'll go to bed.
+7,talk02,"オヌシ見つけたのかいさ
+ほっほっ すごいの
+この海には
+まだまだ財宝が眠ってるかもしれんの","You really found it?! Ho ho! Incredible!
+After all these years, people still manage
+to surprise me.
+You know, there might be some treasure
+that yet sleeps in this ocean. A diligent
+boy like you could get rich finding it...
+May all your delving end in gold!"
+8,talk04,Zzz,Zzz...
+9,talk05,"この近くの海には
+財宝が沈んでいるという言い伝えがあるわいさ…
+ワシも もう少し若ければ探してもみるさぁ
+もう年さぁ…
+どうさ？ オヌシ
+ワシの代わりに探してみんかいさ？","There are tales passed down of sunken
+treasure in the ocean around here...
+
+I would look for it myself if I were a bit
+younger, but I've grown old...
+
+But you look like you have a young pair
+of legs and a strong back. Do you want
+to go look in my stead?"
+10,talk06,"どうさ？見つかったかいさ？
+『財宝は黄金三角の中央に眠る』 さぁ
+見つけたら話を聞かせておくれよし","How's the treasure hunt going?
+Did you find it yet?
+
+Don't forget, \""The treasure sleeps in the
+center of the golden triangle.\""
+"
+11,talk09,"どうさ？ オヌシ
+その気になったかいさ？
+ワシの代わりに海に沈んだ財宝
+探してみんかいさ？","So? Will you look for the sunken treasure
+in my place?"
+12,talk10,"そうかいさ その気になったら
+また来るがいいさぁ","I see. Come on back when you change
+your mind."
+13,talk11,"そうこなくてはな
+言い伝えではな…
+『財宝は黄金三角の中央に眠る』
+らしいわいさ…
+そうだ オヌシ
+船は持っておるかいさ？
+持っておらぬなら ワシの筏を貸してやるわいさ
+桟橋につないであるから好きに使うよし","I couldn't be happier to hear it.
+Now, according to the old tales...
+
+\""The treasure sleeps in the center of the
+golden triangle.\""
+
+Oh, by the by, do you happen to have a
+boat?
+
+If not, I can lend you my raft.
+It's tied up at the wharf. Help yourself."
+14,talk13,"今日は もう寝るところさぁ
+用があるなら また明日くるさ～","I'm going to bed now. If you need
+something, please come back tomorrow."
+15,talk14,"でも こんな雨の日には
+海には出ぬ方がよいわいさ
+自然は厳しいさぁ…
+無理せずにな","On rainy days like today, it's best to stay
+away from large bodies of water.
+
+It can be lonely out there.
+Don't do anything reckless."

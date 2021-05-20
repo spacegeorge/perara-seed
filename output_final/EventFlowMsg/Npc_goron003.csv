@@ -1,0 +1,111 @@
+#,Title,JPja,USen
+1,"""0000""",組長って？,The Boss?
+2,"""0001""",デスマウンテン？,Death Mountain?
+3,"""0002""",神獣 ヴァ・ルーダニア？,Rudania?
+4,"""0003""",さようなら,Take care.
+5,"""0004""",ルーダニアって？,Rudania?
+6,near00,客…,A customer...
+7,near01,こっちゴロ,Over here...
+8,near02,ふぅ…,Hmm...
+9,talk00,"旅の人ゴロ？
+
+だったら いい所を紹介するゴロ
+付いて来るゴロ","You're a traveler?
+
+
+In that case, I'll take ya somewhere nice.
+Follow me."
+10,talk01,"まだ着いてないゴロ""焦らず付いて来いゴロ","We're not there yet. Just take it easy
+and follow me."
+11,talk02,ここゴロ防具屋ゴロ,This is it. The armor shop.
+12,talk03,ん？何か用ゴロ？,Hmm? Need somethin'?
+13,talk04,まだ何か用ゴロ？,You still need somethin'?
+14,talk05,他に聞きたい事 ある？,Anything else you wanna ask?
+15,talk06,あの火山の事ゴロ,"That's what we call that volcano
+over there."
+16,talk07,"最近デスマウンテンに現れた
+でっかいトカゲの化け物ゴロ","That's the name of the gigantic lizard
+monster that recently showed up on
+Death Mountain."
+17,talk08,はいゴロ,See ya later.
+18,talk10,"最近デスマウンテンに
+神獣 ヴァ・ルーダニアってのが現れてね
+この辺も熱くなったし お客さんには
+ここで耐火防具を買ってもらってるゴロよ","Recently, somethin' called the Divine
+Beast Vah Rudania showed up on
+Death Mountain.
+Since then, it's gotten a lot hotter here.
+That's why we're sellin' fireproof armor."
+19,talk12,"ちょっと前まで俺はデスマウンテンの
+採掘員だったゴロ…
+でも神獣 ヴァ・ルーダニアが現れてから
+デスマウンテンで掘れなくなったんで
+リストラされたゴロ…","Until recently, I had a job as a miner on
+Death Mountain...
+
+But ever since Divine Beast Vah Rudania
+showed up, we haven't been able to work
+the sites on Death Mountain.
+The company had to cut its workforce
+as a result, and I was let go..."
+20,talk13,ハァ…あん時ゃ羽振りがよかったなぁ,"What do you do, eh?
+I miss the good ol' days..."
+21,talk14,"しかし神獣 ヴァ・ルーダニアのヤツ…
+あんなになっちまって ざまーみろゴロ
+デスマウンテン山頂にも行けるようになったし
+早くデスマウンテンで バリバリ掘りたいゴロ","Look what happened to mean ol'
+Divine Beast Vah Rudania...
+Ha! Not so tough now, are ya?!
+And that means Death Mountain Summit
+is accessible again. Makes me wanna run
+up there and dig it clean outta ore!"
+22,talk15,"あいつのせいでデスマウンテンに
+近づけなくなってね
+組長が毎日大砲で火口まで追っ払ってんのに
+その度に出て来て…いたちごっこゴロよ","With that monster there, we can't get
+anywhere near Death Mountain.
+
+Every day the Boss uses our cannon
+to blast that thing back to the mouth
+of the crater...
+But it just comes right back...and so the
+cycle continues."
+23,talk16,"組長は このゴロンシティを仕切る
+とってもとっても エラい人ゴロ
+デカい看板のお家に住んでるし
+一度はあいさつしとくといいゴロ","Boss is...the boss. He's also the leader
+of Goron City. He's a big deal.
+
+So big, in fact, that he lives in a house
+with a humongous sign on top of it!
+You should go and introduce yourself."
+24,talk17,"ちょっと前までデスマウンテン山頂を
+ウロついていたけど
+ついに組長とユン坊が やっつけたゴロ
+
+俺がリストラされたのルーダニアのせいだから
+これでスッキリしたゴロ","I was wanderin' by Death Mountain not
+too long ago, and it seems the Boss and
+Yunobo showed that beast what's what.
+That thing cost me my job. Boy, it sure
+feels good to taste sweet justice!"
+25,talk18,"やぁハイリア人
+いいところに来たゴロ
+最近火山弾が降らなくなったから
+観光にはうってつけに なってきたゴロ
+ルーダニアも落ち着いてデスマウンテン山頂へ
+歩いて行けるようになったし…
+ヒマなら行ってみるといいゴロ","Hey, Hylian! You came at a good time.
+
+
+Lately the magma bombs have stopped
+rainin' down... That means it's safe to
+start sightseeing again.
+Rudania has calmed down, so now
+it's finally possible to go up to
+Death Mountain Summit...
+If you have the time to spare,
+you should try goin' up there."
+26,talk19,お客さん…俺に用ゴロ？,Hey... Do ya need me for somethin'?
+27,talk20,他に聞きたい事 あるゴロ？,"Is there anything else you wanna
+ask about?"

@@ -1,0 +1,447 @@
+#,Title,JPja,USen
+1,"""0000""",スノーブーツも欲しい,I want snow boots.
+2,"""0001""",さよなら,Good-BYE.
+3,"""0002""",探しに行く,I'll go look for it.
+4,"""0003""",ちょっと考える,Let me think about it.
+5,"""0004""",スノーブーツ欲しい,"Snow boots, please."
+6,"""0005""",これ見て！,Feast your eyes.
+7,"""0006""",スノーブーツ…,The snow boots...
+8,"""0007""",無理です,Not a chance.
+9,"""0008""",剣の場所を教えて？,Where's the sword?
+10,LookPicture,"ええええええ！！！
+ほ ほんとにあったの？",WHAAAAAT?! It really exists?!
+11,Talk_00,"ゲルド高地でキミを見たって人がいてね
+心配していたんだよ！
+まさかスノーブーツなしで
+あんな場所に行くなんて思ってなかったからさ…
+それより大丈夫だったかい？","A traveler swore he saw you in the
+Gerudo Highlands, so I've been gnawing
+on my fingernails with worry!
+I mean, all that talk about the sword was
+just chitchat... I didn't think you'd go up
+there without snow boots!
+Anyway, are you OK?"
+12,Talk_02,"それにしてもスノーブーツなしで
+剣を探し出すなんて…
+ゲルド高地は男の僕だって
+無事ではすまない険しいところなのに… 
+キミは一体
+何者なんだ…","And you went searching for it without
+a decent pair of snow boots...
+
+I mean, the Gerudo Highlands are
+unforgiving. I doubt I could survive
+there, and I'm burly.
+Who ARE you?!"
+13,Talk_03,"…そうだな
+命がけで約束を果たしてくれたんだもんな
+男の僕が彼女との約束を
+やぶるわけにはいかないよな","Yeah... You did risk your life to fulfill
+your promise, after all...
+
+It'd be pretty uncouth of me to drop my 
+end of the bargain."
+14,Talk_04,"とうとう裸足になっちゃったよ…
+
+でもキミが喜んでくれるなら
+それも本望さ！
+それに今回でキミの大切さが
+改めて分かったんだ！
+その欲張りなところ…
+時にそっけないところ…
+意外とタフなところ…
+
+あの…
+
+よかったら…
+
+ぼぼぼ""僕と
+
+つつつ""付き合って…","Well, now I'm barefoot...
+
+
+But if you're happy, then I'm happy!
+
+
+And what's more, this whole episode
+has endeared you even more to me!
+
+Your cutely greedy side. Your sassy,
+playfully rude side...
+
+Your unexpectedly tough side...
+
+
+Um...
+
+
+Would you...
+
+
+...g-g-go out...
+
+
+...w-w-w-with..."
+15,Talk_05,"なんだ男かよ…
+
+しっかし まぁ
+冴えない顔してるねぇ…
+そんなんじゃ
+彼女できないよ～
+おっとご免よ
+ちょっと上から目線になっちゃったかな
+僕も女の子とは色々あったけど
+今は彼女一筋なんだ！
+悪いけど僕は今男性はもちろん
+女性でも彼女以外は眼中にないんでね
+何か用があるなら
+他の人を あたってくれるかな？","Oh, it's just a guy...
+
+
+But...hm. Listen, pal, a little free advice?
+You're looking pretty sour.
+
+You keep walking around looking like
+a grouch, and you'll never get a girl. 
+
+Aw, what am I saying? Sorry about that.
+Awfully condescending of me.
+
+I've just got wooing on the brain.
+Girls have always vexed me, but right
+now SHE is all I can think of!
+Sorry, but I don't even have time for
+other GIRLS right now, let alone other
+guys, know what I mean?
+If you need something, do me a favor...
+Ask someone else."
+16,Talk_06,"んぁっ！！
+
+サ サヴォッタ！
+
+って","Gah!
+
+
+S-sav'otta!
+
+
+Wait."
+17,Talk_07,"だからさぁ…
+
+僕は今彼女以外に興味がないんだ
+何か用があるなら
+他の人をあたってくれないかな？","Like I said...
+
+
+I'm not interested in talking to anyone
+but HER. She is all things to me!
+If you need something...
+be a pal and ask someone else, huh?"
+18,Talk_08,"んぁっ！！
+
+サ サヴォッタ！
+
+って また君？","Gaaaah!
+
+
+S-sav'otta!
+
+
+Wait. You again?"
+19,Talk_09,"なんだ君か…
+
+しっかし まぁ""相変わらず
+冴えない顔してるねぇ…
+そんなんじゃ
+彼女できないよ～
+おっとご免よ
+ちょっと上から目線になっちゃったかな
+僕も女の子とは色々あったけど
+今は彼女一筋なんだ！
+悪いけど僕は今男性はもちろん
+女性でも彼女以外は眼中にないんでね
+何か用があるなら
+他の人を あたってくれるかな？","Oh, it's just you...
+
+
+But...huh. Look, I feel like someone 
+should tell you that you have kind of a
+sulky look about you.
+You keep walking around looking all
+miserable, and you'll never get a girl. 
+
+Aw, what am I saying? Sorry about that.
+Awfully condescending of me.
+
+I've just got wooing on the brain.
+Girls have always vexed me, but right
+now SHE is all I can think of!
+Sorry, but I don't even have time for
+other GIRLS right now, let alone other
+guys, know what I mean?
+If you need something, do me a favor...
+Ask someone else."
+20,Talk_10,"キミ！！
+
+来てくれたんだね！
+いや きっと来ると思ってたよ！
+この前は ゆっくりお話しできなかったけど
+よかったら今日は二人っきりで…","You!
+
+
+You came! I mean, hey, yeah, of course.
+Figured you'd swing by. Yup. 
+Do the ol' swing-by.
+We didn't get a chance to spend much
+time together earlier, did we? Whoosh!
+Total whirlwind! So...wanna hang out?"
+21,Talk_11,"キミ！！
+
+来てくれたんだね！
+いや きっと来ると思ってたよ！
+それに さっそくサンドブーツも
+履いてくれてるんだね
+男性物の靴だったから
+キミに合うかどうか心配だったんだけど
+すごく似合ってるよ！
+
+この前は ゆっくりお話しできなかったけど
+よかったら今日は二人っきりで…","You!
+
+
+You came back! I mean, yeah. Heyyyyy.
+Course you came by. What's up?
+
+And look at you, wearing those
+sand boots already like a...saucy little
+pink heron or something.
+Y'know, gotta say, they're designed for
+burly men like myself, so I was worried
+they wouldn't fit such a flower as you...
+But they look absolutely fantastic!
+
+
+Gosh! Anyway, I realized we never really
+got a chance to chat earlier, so you want
+to grab a spot somewhere and hang out?"
+22,Talk_12,"えっ？
+
+スノーブーツも欲しいの？","What?
+
+
+You want my snow boots, too?"
+23,Talk_13,"はは…
+キミは意外と欲張りさんなんだね
+でも これがなくなっちゃうと
+僕履く物がなくなっちゃうし…","Ha! Well aren't we greedy!
+Or should I say insatiable for boots.
+A boot thirst that cannot be slaked!
+Adorable. But listen, if I give you these,
+then I'll have nothing for my feet!"
+24,Talk_14,"ど どうしよう…
+ここで彼女の機嫌を損ねたくないし…
+よし…
+今度もあの手で行こう…","Oh, man, what should I do? THINK, Bozai!
+Can't put her in a bad mood...
+
+OK... Do NOT blow this. Just relax and work a little
+verbal magic..."
+25,Talk_15,"そうだね～
+キミの頼みじゃ断れないよな
+ただ前みたいにまた
+僕を驚かしてくれたら
+キミに このスノーブーツを
+プレゼントしようじゃないか！","How could I resist a request from you?
+
+
+No lie, you really gave me a surprise
+earlier...and I love surprises.
+Surprise me again like that...
+and I'll give you these snow boots as a
+surprise present!"
+26,Talk_16,"実は あの八人目の英雄の巨像…
+剣を持っていなかったのに気付いたかい？
+他の七人の英雄の巨像は
+全員剣を持っているのにだよ
+きっと八人目の英雄にも剣があったはずなんだ
+
+この剣が本当に存在するのであれば
+こんなに驚くことはないよ！","So let me ask you this: Did you notice
+that the statue of the eighth heroine...
+isn't actually holding a sword?
+Pretty weird, right? Seven other
+heroines, they all have their swords!
+Suspicious, y'know?
+Which leads me to deduce that the
+eighth heroine must have had a
+sword as well. Must have!
+To see that such a sword actually
+exists, that my deduction is right...
+There could be no greater surprise!"
+27,Talk_17,"えっ？行くの？
+
+あの巨像がもつ剣だから
+そんなに遠くへは運べないと思うし
+たぶん あの険しいゲルド高地の
+どこかだと思うよ？","What? You're really going?
+
+
+Wow, all right, then. The sword would be
+pretty big, so I doubt it could have been
+carried off too far.
+I'm betting it's probably somewhere in
+the steeps of the Gerudo Highlands."
+28,Talk_18,"今度はスノーブーツ
+貸してあげられないよ？","And the thing is, I can't lend you the
+snow boots this time. Just can't do it!
+I'm really sorry."
+29,Talk_19,"まぁ… スノーブーツなしで普通の女の子が
+ゲルド高地に登れるわけないし…
+途中であきらめて帰ってくるよな…","No way a normal person can make it through the
+Gerudo Highlands without good snow boots...
+
+She'll probably give up halfway through and come
+crawling back..."
+30,Talk_20,"わかったよ
+キミには負けたよ
+じゃあ僕はここで待ってるね
+
+でもスノーブーツとか関係なく
+僕に用がある時は いつでも声かけてね！","Fine, you win. So headstrong!
+I love it.
+
+I'll just be waiting here, OK?
+
+
+If you ever need me for anything above
+and beyond footwear, you just come find
+ol' Bozai anytime!"
+31,Talk_21,"そう そう
+スノーブーツになんかこだわらず
+僕と二人っきりでデートでも…","I hear you! Better to think about crazy
+snow-boot quests than actually do 'em,
+am I right?
+Instead, how about you and I retire to
+someplace a bit more private and learn
+about how witty we both no doubt are?"
+32,Talk_22,やっぱり…,Knew it...
+33,Talk_23,"き今日も相変わらず
+きききき きれいだね
+よかったら これから二人っきりで…","Y-you look as b-b-b-b-beautiful as ever.
+
+
+If you're not doing anything, how about
+we grab a spot of sand and chitchat?"
+34,Talk_24,"えっ でもさ
+
+八人目の英雄の剣があるのは
+たぶんゲルド高地だよ？","Huh? But...
+
+
+Remember the sword of the eighth
+heroine? Probably somewhere in the
+Gerudo Highlands?"
+35,Talk_25,"スノーブーツも
+貸してあげられないよ？","So sorry, but proof of that sword is the
+price of these sweet snow boots."
+36,Talk_26,"あっ サンドブーツ履いてくれてる！
+かわいいなぁ…
+あっ ごめんごめん
+あまりにも可愛くて見とれちゃってたよ
+よかったら これから二人っきりで…","Oh! She's wearing the sand boots!
+Advantage, Bozai...
+
+Ah, sorry, sorry. You just look so 
+precious in those sand boots.
+My mind just went POOF!
+If you'd like, why don't we grab a spot
+by a tree and get to know each other?"
+37,Talk_27,キキミ！！,Y-you!
+38,Talk_28,"うう…""薄々はわかってたけど…
+せめて最後まで言わせてほしかった","Urk... I kind of knew you'd say that...
+but would it have killed you to let me
+finish the question?"
+39,Talk_29,"あれっ？
+でも キミ荷物がいっぱいじゃないか
+欲張りな女の子は好きだけど
+それじゃあ渡せないよ…
+荷物の整理ができたら
+また声をかけてよ
+僕は ここでキミをずっと
+待ってるからさ！","Huh? But your bag is full.
+
+
+I think it's adorable that you want MORE
+boots even with so many other clothing
+options, but you need storage space.
+Come talk to me again once you've
+organized your bag, OK?
+
+I'll be waiting!"
+40,Talk_30,"本当に八人目の英雄の剣を見つけてくるなんて
+今でもまだ信じられないぐらい驚いてるよ…
+でも また僕たちの秘密が増えたね…
+
+やっぱり僕らは運命で結ばれ…","I'm still so flabbergasted that the eighth
+heroine's sword actually exists...
+I can hardly believe it...
+And you and I share this secret, along
+with so many other meaningful and
+romantic exchanges...
+We must be connected by dest—"
+41,Talk_33,"えっ？
+まさか本当に行くわけじゃないよな…？
+これは僕の予想なんだけど…
+
+八人目の英雄像が持ってる剣だから
+かなり大きいと思うんだ
+だから遠くに運んだりもできないから
+ゲルド高地にあるって僕は思ってるんだ
+でも あの辺りは険しいだけじゃなく
+凶悪な魔物もいるから
+ゲルド族の人達でも行かない って聞いてるよ
+怖い場所だよね…
+それよりさ… そんな危険な所へ行くよりも
+僕と二人で お茶でも…","Huh? She's not seriously considering going to
+look for it, is she? That's crazy talk.
+
+Well, this is just the result of my own
+deductions, but...
+
+The statue of the eighth heroine is huge,
+right? So it stands to reason that the 
+sword would be too.
+That's why I think it wouldn't be possible
+for anyone to carry it far. And THAT is
+why it must be in the Gerudo Highlands.
+But look, the terrain is treacherous 
+enough by itself, and then you also have
+nasty monsters to deal with.
+I heard that many Gerudo don't even
+dare set foot there. The place is
+legitimately scary.
+So...instead of opting for scary...
+Why don't you and I opt for romantic
+and maybe even a little risqué?"
+42,Talk_34,さ… さよなら…,G-good-bye...
+43,Talk_35,"きょ今日も可愛いね
+
+それにしても君がそんなにスノーブーツを
+気に入っていたなんて知らなかったよ…
+で でもさ僕がスノーブーツをはいて
+キミを抱きかかえて歩けば
+キミがスノーブーツをはく必要はないよね…","Y-you look stunning today, too.
+
+
+I have to say, your insatiable craving for
+these snow boots fascinates me.
+
+But I hate the idea of you trekking in
+them out in the dangerous wilds...
+So I had a brilliant idea!
+I could just keep the boots on and
+CARRY you around! Then you wouldn't
+need to wear them! How about it?"
+44,Talk_36,次…こそ… は… デ… ト… に…,"Next time... For sure... We will...go on...
+a da...date..."
+45,near00,次こそデートに誘うぞ,"Next time, maximum woo!"

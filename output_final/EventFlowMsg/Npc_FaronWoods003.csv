@@ -1,0 +1,44 @@
+#,Title,JPja,USen
+1,"""0000""",持ってる,I have one.
+2,"""0001""",持ってない,I don't have one.
+3,near00,雨だ雨だ,"Rain, rain, too much rain..."
+4,near01,こわいねえ,"Scary, isn't it?"
+5,talk00,"おぅ あんちゃん""地図持ってるか？","Hey, buddy! Got a map?"
+6,talk01,"地図も持たずに旅するなんて
+気がしれないな","HUH? What special brand of loony
+does it take to go traveling without
+a map?!"
+7,talk02,"だったら ここから北に
+双子山ってのが載ってるだろ？
+あそこ昔は1つの山だったらしいけど
+
+龍神様が山を叩き割って通り道を作ったから
+あんな形になったって伝説があるんだぜ
+ここフロリア湖でも
+水面に映る大きな影を見たって噂があるし
+どこまで本当なんだろうな？","So on this map of yours, do you see
+Dueling Peaks to the north of here?
+
+Well, apparently that used to be just one
+mountain a really long time ago.
+
+The legends say a dragon god split the
+mountain in half to forge a way through,
+and that's how it went from one to two.
+Recently, some are even saying they've
+seen the shadow of a large creature on
+the surface of Lake Floria!
+I wonder if any of that is true..."
+8,talk03,"雷は こわいねえ…
+
+あんちゃん聞いたことあるか？
+雷は龍神様が怒ってる標だって
+そんなの本当にいるのかねえ
+おれは見たことないけどな","Thunder sure is scary, isn't it?
+
+
+Speaking of! Have you heard the story,
+buddy? Some say that rumbling sound
+is the angry ranting of a dragon god!
+But who knows if that's even true.
+I've certainly never seen any proof!"

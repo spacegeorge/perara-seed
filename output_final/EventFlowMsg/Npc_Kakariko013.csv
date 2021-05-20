@@ -1,0 +1,439 @@
+#,Title,JPja,USen
+1,"""0002""",教えてください！,Teach me!
+2,"""0003""",…あんまり,"Not really, no."
+3,"""0005""",料理のこと教えて,Cooking tips?
+4,"""0006""",さようなら,Good-bye.
+5,"""0007""",頑固ジジイって？,An old codger?
+6,"""0010""",本人です,That was me.
+7,"""0012""",注目する,Focus.
+8,"""0013""",ジャンプ攻撃,Jump Attack.
+9,"""0014""",ふいうち,Sneakstrike.
+10,"""0015""",さよなら,Good-bye.
+11,"""0016""",しゃがむ？,Sneak up?
+12,"""0017""",なるほど,I see...
+13,"""1000""",そうですね,They sure are.
+14,"""1001""",べつに…,Not really...
+15,ClerkAsk00,"そのゴーゴーニンジン
+いい出来栄えじゃろう？","Aren't those swift carrots
+somethin' else?"
+16,ClerkAsk01,"別に…
+
+とはなんじゃ！
+もっと興味もたんかい！","\""Not really.\"" That's your response?
+
+
+The NERVE of this guy! Would it kill
+you to be polite?!"
+17,ClerkAsk02,"そうじゃろう そうじゃろう
+
+ワシの育てるゴーゴーニンジンは
+この村の素材屋に卸しとるんじゃ
+ゴーゴーニンジンが欲しいなら
+素材屋にいくんじゃな","Aren't they, though?
+
+
+Yep, I grew these beauties here myself.
+We stock 'em at our materials shop.
+
+If you're hankerin' to pick up some nice
+swift carrots for yourself, I'd recommend
+headin' that way."
+18,FirstTalk00,"なんじゃ？
+
+……
+
+その風貌… どこかで…","Do you need something?
+
+
+...
+
+
+I haven't seen you around here before...
+But there's something so familiar about
+that face of yours..."
+19,FirstTalk02,"かの剣士様はの
+
+ゴーゴーニンジンを剣の代わりに鍛錬し…
+
+ゴーゴーニンジンを食し体を作り…
+
+ゴーゴーニンジンの香りで心が強くなった…
+
+と ワシのじいさんが
+よく言っとったなぁ…
+お前さんも冗談ばっかり言っとらんで
+これでも食って剣士様のようにならんとな！","You see, the thing about that
+swordsman is...
+
+He trained with swift carrots
+instead of a blade!
+
+He strengthened his body with a diet
+made entirely of swift carrots!
+
+And he tempered his soul with the sweet
+aroma of swift carrots too!
+
+That's what my grandfather always used
+to say, anyway...
+
+So I suggest you stop joking around all
+the time and instead...have a carrot and
+try to be more like the swordsman!"
+20,FirstTalk03,"まあ素材屋に行けばニンジンはたんとある
+もっと欲しいなら後は自分で買うんじゃな","Welp, you'll find carrots over at the
+materials shop. You'll have to buy
+some there if you want more."
+21,FirstTalk04,"ニンジンを もっと求めるなら
+ここで買うといいじゃろう
+もし お前さんが剣士様の如き強さを求めるなら
+ワシについて来るんじゃな","Lookin' for carrots? Well, you certainly
+came to the right place!
+
+If you wanna be strong like that
+legendary swordsman...follow me."
+22,FirstTalk05,"ニンジンを もっと求めるなら
+ばあさんがやっとる店で買うといい
+もし お前さんが剣士様の如き強さを求めるなら
+夜に ワシんとこに来るんじゃな","Lookin' for carrots? You can buy some
+over at my old lady's shop.
+
+If you wanna be strong like that
+legendary swordsman...come to
+my place when the day is done."
+23,FirstTalk06,"ニンジンを もっと求めるなら
+ばあさんがやっとる店で買うといいじゃろう
+もし お前さんが剣士様の如き強さを求めるなら
+ワシに ついて来るんじゃな","Lookin' for carrots? You can buy some
+over at my old lady's shop.
+
+If you wanna be strong, just like that
+legendary swordsman...then follow me."
+24,FirstTalk07,"ニンジンを もっと求めるなら
+ばあさんがやっとる店で買うといいじゃろう
+もし お前さんが剣士様の如き強さを求めるなら
+ワシが手ほどきしてやってもよいぞ","Lookin' for carrots? You can buy some
+over at my old lady's shop.
+
+If you wanna be strong like that
+legendary swordsman...I surely
+don't mind lending a hand."
+25,FirstTalk08,"ニンジンを もっと求めるなら
+ばあさんがやっとる店で買うといいじゃろう
+もし お前さんが強さを求めるなら…
+明日の夜に ワシんとこに来るんじゃな
+今日は そろそろ床につきたいんでな","Lookin' for carrots? You can buy some
+over at my old lady's shop.
+
+If you wanna be strong like that
+legendary swordsman...come to
+my place tomorrow night.
+As for right now, I'd like to call it quits
+for today."
+26,FirstTalk11,"なんじゃと？
+お前さんが あの剣士様じゃと？","Say what now? You're really the same
+swordsman from way back when?!"
+27,FirstTalk12,"ふぁっふぁっふぁ
+
+まぁ… そんなわけないか","Aha ha! My goodness.
+
+
+You had me going, but that's not
+very likely, is it?"
+28,FirstTalk13,ぬぉっ！,Whaaa—?!
+29,FirstTalk14,ふぁっふぁっふぁっ！,Aha ha!
+30,FirstTalk15,"最近の若者は
+冗談が過ぎるわい
+本物の剣士様なら伝説の剣
+退魔の剣を持っているはずじゃからの","Young people these days sure do
+like their jokes.
+
+If you were really that noble swordsman,
+you'd have the legendary blade—
+the sword that seals the darkness."
+31,FirstTalk16,"ま… まさかその剣は…
+剣士様だけが持つことを許されたという
+退魔の剣！！！","Don't tell me that sword is...
+the blade that can only be wielded
+by the hero of legend...
+The sword that seals the darkness!!"
+32,FirstTalk18,むっ？,Hm?
+33,FirstTalk19,"おおっ そうじゃ そうじゃ
+
+おぬし大昔大厄災に挑まれた剣士様の風貌に
+そっくりなんじゃ","Ohhhh, yes. I remember now.
+
+
+It was long ago, when the Calamity hit...
+but you look just like the swordsman
+who was trying to stop it."
+34,Meeting00,"シトラや…
+
+疲れてないかい？
+変な客に絡まれてないかい？
+寒くは ないかい？
+ご飯は食べたかい？","Hey, Trissa...
+
+
+Aren't you tired? Don't you hate talking
+to weird customers? Aren't you chilly?
+Have you eaten yet?"
+35,Meeting01,"ほっほっほ
+もう子供じゃないんですから
+じいさんは ほんとうに心配性だのう","Hee hee! Stop being such a worrywart,
+you old coot!"
+36,Near00,7本でもニンジン～♪,"Gimme 7, I don't carrot all!"
+37,Near01,早く行かねば,I should get going.
+38,Near03,大きくなれよ～,Grow big and strong...
+39,Near05,草も刈らねばのう…,Gotta cut that grass...
+40,Near06,あいつには負けんぞ,I'm not losing to him.
+41,Near07,ほっ！ はっ！,Hyah! Hyah!
+42,Near08,シトラや～,"Hey, Trissa..."
+43,Near10,Zzz... Zzz...,Zzz... Zzz...
+44,Near11,雨なんぞ平気だわい,A little rain can't stop me!
+45,Near12,雷なんぞ平気だわい,Thunder can't stop me!
+46,Near13,8本でもニンジン～♪,"Gimme 8, I don't carrot all!"
+47,Near14,9本でもニンジン～♪,"Gimme 9, I don't carrot all!"
+48,Near15,6本でもニンジン～♪,"Gimme 6, I don't carrot all!"
+49,SupriseHouse,だ誰だ？！,Who's there?!
+50,SupriseHouse_00,"なんじゃ お前さんか！
+年寄りを驚かすんじゃないわい！","Oh! It's only you... Don't go around
+scaring the elderly!"
+51,SupriseHouse_01,"しかしこのゴスティン様の家に忍び込んだのが
+運の尽きというものじゃ！成敗して…
+……
+
+なんじゃお前さん…""大昔大厄災に挑まれた
+剣士様にそっくりではないか…","You made a mistake sneaking into
+Steen's house! Your luck's run out!
+Time to show you what's what!
+...
+
+
+Wow. You look just like the legendary
+swordsman who faced the Calamity all
+those years ago..."
+52,Talk00,"この畑で育てているのは
+カカリコ名産ゴーゴーニンジンじゃ！
+味ヨシ見た目ヨシ作り手ヨシ
+もちろん料理との相性もヨシじゃ！","What we've got growin' over here
+is none other than the pride of
+Kakariko Village—swift carrots!
+They're as pretty as a picture and have
+a flavor to savor. Raised with love
+and sweat, a true recipe savior!"
+53,Talk01,"小川の向こうの畑でヨロイカボチャを育てとる
+ジジイのことじゃ
+昔っから あいつとはそりが合わなくてのう…
+
+防御こそ最大の攻撃とか抜かしよってな
+
+一緒に猟に出ても そーっと近づきすぎて
+獲物をしとめる前に日が暮れる始末じゃ！
+攻撃こそが最大の防御じゃというに…","The old man fiddling about in the field
+beyond the stream... That's who I'm
+talkin' about.
+The two of us have been at odds
+for ages.
+
+That jokester goes on and on about
+the best offense being a good defense.
+That doesn't even make any sense!
+Even when we go out hunting,
+he takes forever to quietly
+creep up on our prey...
+until even the sun gets bored and sets
+before he catches anything!
+
+I always tell him that the best defense
+is a good offense. The poor fool won't
+listen to reason."
+54,Talk02,"ここが ばあさんの素材屋じゃよ
+一日数時間は顔を見んとな","This is my sweetie's material shop.
+I make it a point to stop by and
+see her a couple times a day."
+55,Talk04,"敵に注目することで相手をとらえ
+常に敵の方を向いて戦うことができるでのぅ
+まあ攻撃の基礎中の基礎だな","When facing an enemy in combat...
+always focus in on them.
+
+That's the most basic of the basics
+as far as good offense goes."
+56,Talk05,"落下中やジャンプ中に攻撃することで
+大地に衝撃波を繰り出すことができるんじゃ
+高度が高ければ高いほど
+相手に与えるダメージもでかいんじゃが…
+…高すぎても こっちが痛い目を見るだけじゃ
+その辺りを注意して うまく使えば
+高台から敵を奇襲する時なんぞに
+かなり役に立つじゃろう","You can cause a shock wave on the
+ground just by swinging your sword
+while you're jumping.
+The higher up you are, the more damage
+you'll do. However...
+
+If you're TOO high up, you'll be the one
+who takes damage.
+
+Once you get the hang of this, it's quite
+useful for surprise attacks on groups of
+enemies down below you."
+57,Talk06,"なんじゃ その眼は！
+ふいうちも立派な作戦の内じゃわい！
+…敵の背後に忍び寄り…
+
+…気づかれないうちに…
+
+たたっきる！
+
+しゃがんで近づくと より気づかれにくい！
+油断しておるだけに ダメージもでかいんじゃ！","What's with that judgmental look?!
+Sneakstrikes are a legitimate strategy!
+
+You just sneak up behind your foe...
+
+
+and before they realize you're there...
+
+
+HYAH! They're met with the taste
+of steel! Or wood, depending on your
+weapon of choice.
+Got it? They'll be no match if you sneak
+up on 'em! Since they aren't expecting
+the attack, you'll deal more damage too!"
+58,Talk07,"本当は この村の祠にあるという『試練』をうけ
+攻撃の極意を学びたいところなんじゃが
+我々では中に入る術もわからんからのぅ
+こうやって日々己で鍛錬するしかないんじゃ","To tell ya the truth, I'd like to take that
+trial thing at the village shrine and learn
+the secret art of offense. It's just...
+Well, no one knows the technique you
+need to enter the shrine. That's why
+I train like this every day."
+59,Talk08,"しゃがんでゆっくり歩くと普通に歩くよりも
+気配を消すことができるんじゃ
+魔物達だけじゃなく動物を狩る時なんかも
+ワシはしゃがんどるよ","If you move while crouched down instead
+of walking normally, you'll be a lot harder
+to detect.
+That's not just for monsters either.
+That's what I do when I'm trying to
+sneak up on wild animals too."
+60,Talk09,"若い頃は寝ずに鍛錬したもんじゃが
+老いには勝てんのう…
+剣を学びたければ
+また明日の夜に来るんじゃな","When I was younger, I worked out
+morning, noon, and night. But lately,
+my old age has caught up with me...
+If you'd like more sword lessons,
+come back again tomorrow night."
+61,Talk10,"ゴーゴーニンジンは滋養強壮に効くと評判でのう
+料理することで さらに効能が増すんじゃよ
+料理を作る時にゴーゴーニンジンを多めに使うと
+素早さがあがるゴーゴー料理ができるんじゃ
+男子たる者素早く動ける
+体力を身につけねばの！","Swift carrots fortify and nourish your
+body. Add them to your cooking,
+and their effects will increase!
+Go on! Throw some swift carrots into
+any dish you're cookin' up to make it a
+hasty dish. Eat it to up your speed!
+You wanna be the man, don't you?
+Of course you do! That means you'll
+need strength to move fast!"
+62,Talk12,"おおっ もうこんな時間になってしもうた！
+もう仕事に戻っていいかの？","It's already this late?! I should finish up
+for today."
+63,Talk13,"カボチャが名産だとほざく
+頑固ジジイもおるがの
+まったく… カボチャばかり食べとるから
+あんなに頑固になるんじゃ！","Now, you might run into a hardheaded
+old codger rambling on about Kakariko
+being known for pumpkins. HA!
+I tell ya what. I'm pretty sure eating all
+those pathetic pumpkins is what made
+his head so hard in the first place!"
+64,Talk18,"まずは己で色々試すのが一番じゃ
+他にも何か聞きたいことはあるかのう？","It's best to just try out lots of different
+things to see what works for you.
+Got any other questions?"
+65,Talk24,"なんじゃ ワシは急いどるんじゃ
+ばあさんが待っとるからな","Sorry, I'm in a hurry.
+My old lady is waitin' for me."
+66,Talk26,"攻撃こそ最大の防御なんじゃ…
+ヨロイカボチャがなんじゃ…
+あんなマズイもん
+たたききってやるわ…い…","The best defense is a good offense...
+Who do those fortified pumpkins think
+they're kidding.
+I'll smash those nasty things up good.
+Show 'em who's boss around here..."
+67,Talk27,"立派なニンジンだ
+丹精込めて育てているのだろう","What splendid carrots! It looks like
+someone's gone to great lengths
+to grow them..."
+68,Talk30,"これから鍛錬に出かけるところじゃ
+攻撃こそ最大の防御なり！
+お前さんも戦いのコツを学びたいなら
+ついてくるがよい","So begins our training! Lesson one...
+The best defense is a good offense!
+
+Now, come with me if you want to learn
+the secret art of combat."
+69,Talk31,"本当はこの村の祠にあるという『試練』をうけ
+攻撃の極意を学びたいところなんじゃが
+我々では中に入る術もわからんからのぅ
+こうやって雨にも負けず己で鍛錬しとるんじゃ","To tell ya the truth, I'd like to take that
+trial thing at the village shrine and learn
+the secret art of offense. It's just...
+Well, no one knows the technique you
+need to enter the shrine. That's why I
+train like this every day, even in the rain."
+70,Talk33,"おっ！攻撃に興味を持つとは
+さすが かの剣士様に憧れとるだけはあるのぅ
+シーカー族は知力にも武力にも長けた民族
+秘伝の技もすくなくない…
+すべてを伝授するわけにはいかんが
+このぐらいなら教えてやっても良いぞ","Wow! Interested in combat too...
+Just what I'd expect from such a big fan
+of the legendary swordsman.
+The Sheikah tribe has long excelled in
+knowledge and combat. We have quite
+a few secret techniques.
+I can't teach you ALL of them,
+but I think showing you just
+these few should be OK."
+71,Talk41,"お前さんか…
+今日も良い天気じゃの～
+最近 ニンジンの出来がよくてな～
+
+誰かが耕してくれとるんじゃないかと思うぐらい
+毎朝土の状態がいいんじゃ","Oh. It's you... Nice weather today, eh?
+My carrots are doing mighty fine lately.
+
+The soil looks so nice every morning—
+it's almost like someone's been tilling it."
+72,Talk42,"攻撃こそ最大の防御なり！！
+お前さんも剣技を身につけたいのか？","The best defense is a good offense!
+Would you like to master the art
+of combat?"
+73,Talk43,"お前さんか…
+今日は あいにくの天気じゃの～
+まぁ どんな天気でも
+ワシのニンジンは変わらず良い出来じゃが
+最近特に出来がよくてな～
+
+誰かが夜の間に耕してくれとるんじゃないかと
+思うぐらい毎朝土の状態がいいんじゃ","Oh. It's you... Nasty weather today.
+
+
+Welp, no matter what the weather has
+in store, these carrots have been
+growing as beautifully as ever.
+The soil is so nice every morning...
+it's almost like someone's been tilling
+the soil through the night."
+74,TerrorArrow,な！ イーガ団か？！,Huh? The Yiga?!
+75,TerrorBomb,何じゃその青いのは！,What's that blue thing?
+76,TerrorSword,や… やる気か！,Y-you want some of this?!

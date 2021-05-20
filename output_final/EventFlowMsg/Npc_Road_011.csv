@@ -1,0 +1,344 @@
+#,Title,JPja,USen
+1,"""0000""",運命を感じました！,You're my dream girl!
+2,"""0001""",ごめんなさい,Just a guy takin' a walk.
+3,Atacked00,"ひぃぃ…
+お願いだから あっち行ってよ…",Hey! Personal space!
+4,Atacked01,"これだから街の外にはあんまり
+出たくないのよ…",This is why I hate leaving town...
+5,Failed00,"いったた…""運命のヴォーイって
+こういう時に助けに来てくれるもんじゃないの？","Urgh... I think my hourglass is running
+out. I had so much left to do..."
+6,Failed01,"ううっ…運命のヴォーイ探しも
+簡単じゃないわね",Urgh... Looks like this is the end...
+7,MSG_Gerud_00,"やっぱり街が一番落ち着くわ～
+
+ヴォーイがいる外の世界は
+どうしても緊張しちゃうのよね","I hate wandering the wastelands.
+Give me the bustling streets of
+Gerudo Town any day.
+But the outside world is where the
+adventure is, so this is where I have
+to be, too."
+8,MSG_Gerud_00_1,"いずれは ヴォーイと緊張せず
+触れ合えるものなのかな…","I hope to someday be able to talk to voe
+without a stomach full of butterflies."
+9,MSG_Gerud_01,"ドロップやムエリータの顔が見えると
+ゲルドの街に帰ってきたんだなって思うんだ
+2人とも ヴォーイに厳しいし
+見た目もああだから恐そうに思われがちだけど
+すっごく いい子達なのよね","Dorrah and Merina are always a sight for
+sore eyes. When I catch a glimpse of
+them, I know I've made it back home.
+They're pretty tough on voe, and you
+wouldn't want to get on their bad side,
+but they're nice vai deep down."
+10,MSG_Gerud_01_1,"ちょっと街を離れてただけなのに
+ドロップやムエリータ達の顔が見えると
+すごくホッとするのよね","I haven't been out in these sands long,
+but it's still such a relief to see the face
+of my fellow vai whenever I come home."
+11,MSG_Gerud_02,"砂漠は歩きにくいし
+本当はスナザラシを使いたいところなんだけど
+私乗れないのよね…
+
+スナザラシに乗った運命のヴォーイでも
+通りかかってくれないかなぁ","The desert sands are hard on my feet.
+I'd love to use a sand seal, but...I never actually learned the trick to
+sand-seal surfing.Maybe one day I'll meet someone who
+really knows how to do it. Then I can
+catch a ride and travel with ease!"
+12,MSG_Gerud_02_1,"砂漠は歩きにくいし
+スナザラシに乗った王子様でも来てくれないかな","The desert sands are hard on my feet.
+Maybe one day someone who can
+sand-seal surf will carry me about..."
+13,MSG_Gerud_03,"カラカラバザールって
+ゲルド人にとっては
+ちょっとしたリゾート地なのよね
+
+私ね ハネムーンは カラカラバザールって
+決めてるんだ
+そのためにも早く運命のヴォーイを
+見つけないとね","Kara Kara Bazaar is a sort of resort for
+we Gerudo. I love to come here and
+relax... It's perfect for a vacation, really."
+14,MSG_Gerud_03_1,"ハネムーンは カラカラバザールって
+決めてるんだけど
+そのためにも早く運命のヴォーイを
+見つけないとね","Kara Kara Bazaar is the best vacation
+spot in all of the desert. I could stay
+here and relax for days..."
+15,MSG_Gerud_04,"お肉も ヒンヤリメロンも
+カラカラバザールで食べると
+いつもより美味しく感じるのよね
+
+とりあえず今はヴォーイハントは休憩して
+腹ごしらえするんだ
+メロンとお肉…どっちにしようかな？
+
+どっちも食べちゃえばいいのか","Meat and hydromelons just taste
+better when you're lounging at the
+Kara Kara Bazaar. Everyone knows that.
+Which should I go for? Melon or meat?What am I saying? Both, obviously!"
+16,MSG_Gerud_04_1,"とりあえず今はヴォーイハントは休憩して
+腹ごしらえかな","I'm on a snack break right now.
+Food just tastes better when you're
+lounging at the Kara Kara Bazaar."
+17,MSG_Gerud_05,"アンタ…
+まさかだと思うけど
+私に紛れて
+ゲルドの街に入って来ようとしてない？
+でもそんなことしても無駄だし
+下手なことしてたら
+門番のドロップとムエリータに
+酷い目にあわされるわよ","You're...not trying to sneak into
+Gerudo Town in my shadow, are you?It won't work. And if Dorrah and Merina
+at the gates catch you, you'll wish you
+hadn't even thought of trying."
+18,MSG_Gerud_05_1,"アンタ…
+
+私に紛れて
+ゲルドの街に入って来ようとしてない？","You're...not actually trying to sneak into
+Gerudo Town in my shadow, are you?"
+19,MSG_Gerud_06,"アナタ こんな所に
+1人でいて大丈夫？
+ナボリスも暴れてるし
+今この辺りは かなり危ないわよ
+お互い早く守ってくれる
+ヴォーイを見つけないとね","Are you sure you want to be here? It's
+not safe with Naboris roaming around.I'd rather be anywhere else, personally.
+I do love the desert, but Naboris makes
+it tough..."
+20,MSG_Gerud_06_1,"ナボリスも暴れてるし
+今この辺りは かなり危ないわよ
+お互い早く守ってくれる
+ヴォーイを見つけないとね","I wish I was anywhere else but out here
+with Naboris roaming around. I feel like
+I could be zapped at any moment."
+21,Near00,ちょっと眠いなぁ…,I'm bushed...
+22,Near01,日焼けしちゃうなぁ…,I'm baking in this sun...
+23,Near02,運命のヴォーイかぁ…,"Oh, to live my dreams..."
+24,Rest_00,"ふぅ…運命のヴォーイ探しって
+思ったより大変だわ…","Phew... Traveling the world outside of
+home is harder than I expected."
+25,RetMSG_Gerud_00,"時々思うんだぁ
+
+この街の掟がなくなって ヴォーイがこの街に
+自由に出入りできるようになったら
+ヴォーイハントで旅に出なくても
+良くなるのにな… って
+でも外の世界を知るきっかけにもなるから
+この掟を喜んでいる子も少なくないけどね","It occurs to me sometimes...If we got rid of the law keeping voe out
+of Gerudo Town, they could come to
+town with tales of their adventures...
+Then again, the younger vai like the
+law. It gives them an excuse to get out
+and see the world, you know?"
+26,RetMSG_Gerud_00_1,"ヴォーイがこの街に自由に出入り
+できるようになったらって一瞬思ったけど
+つらいばかりじゃないし外の世界は新鮮だし
+ヴォーイハントも悪くないって思えて来たわ","Sometimes I wish voe were allowed in
+town, but banning them does have
+some advantages...
+The outside world can be an interesting
+place, and I'd probably never have
+left town if I could just hear about it."
+27,RetMSG_Gerud_01,"これからカラカラバザールに
+行こうと思ってるんだけど
+私 スナザラシに乗れないから
+自力で歩くしかないのよねぇ…
+子供の頃に
+ちゃんと練習しておけばよかった…","Kara Kara Bazaar is sounding real nice
+right about now, but...I can't sand-seal surf, so I'd have
+to walk, and I'm not feeling up to that
+right now.
+Why didn't I ever learn how to stay
+upright while one of those things pulls
+me around the desert? *sigh*"
+28,RetMSG_Gerud_01_1,"はぁ…スナザラシに乗る練習
+子供の頃 もっとしておけばよかった…","*sigh* \""Stop playing in the fountain and
+go practice your sand-seal riding!\"" vaba
+always said. Why didn't I listen?"
+29,RetMSG_Gerud_02,"いくら神獣が大人しくなったといっても
+砂漠の危険が去ったわけじゃないし
+あいかわらず魔物も多いから
+急いで移動した方がいいわよ
+スナザラシを利用すれば楽勝なんだけど
+私乗れないのよね…","Even with the Divine Beast appeased,
+these sands are dangerous. Move fast,
+or the monsters will catch you.
+It's easiest to give them the slip when
+you're sand-seal surfing, but I never
+really learned how."
+30,RetMSG_Gerud_02_1,"神獣が大人しくなっても
+砂漠が危険な事には変わりないわ
+アナタも急いで移動した方がいいわよ","Even with the Divine Beast appeased,
+these sands are dangerous. Move fast,
+or the monsters will catch you."
+31,RetMSG_Gerud_03,"カラカラバザールって
+水もあって緑もあって
+いい感じだと思わない？
+
+私ね ハネムーンは カラカラバザールって
+決めてるんだ
+そのためにも早く運命のヴォーイを
+見つけないとね","There's no better place to relax than
+Kara Kara Bazaar. Cool water, green
+plants—this place has it all.
+I come here whenever possible.
+I just can't get enough of it!"
+32,RetMSG_Gerud_03_1,"妄想ばっかり膨らんじゃうけど
+まずは早く運命のヴォーイを見つけないとね","My daydreams keep getting more
+elaborate. I'd better get down to it and
+start living them!"
+33,RetMSG_Gerud_04,"ここのヒンヤリメロン もう食べた？
+
+ゲルドの街のメロンと同じはずなんだけど
+ここで食べると すごくおいしく感じるのよね～
+それに暑い時に食べると
+体がひんや～りして気持ちいいんだよね
+だから子供の頃は よく砂漠で
+ヒンヤリメロンの食べ歩きしてたなぁ
+「はしたないっ！」て
+ヴァーバに怒られたけど…
+ふふっ…私に もし子供ができたら
+ヴァーバと同じこと言ったりして","Have you tried the hydromelon here?
+It's the same fruit you can buy in
+Gerudo Town—it just tastes better here.
+In this desert heat, it's just the thing to
+cool you down inside and out.I used to walk around these sands eating
+them when I was a young vai. Oh, how
+my vaba fussed at me for it!
+Hah... But I'm sure when I have vai
+of my own, I'll be the one fussing
+at them."
+34,RetMSG_Gerud_04_1,"ヒンヤリメロンを暑い時に食べると
+体がひんや～りして気持ちいいのよね～
+幼い頃は お昼間に砂漠を渡る時の
+必需品だったんだ","In the worst of the desert heat, have
+some hydromelon. There's nothing
+better for cooling off.
+I would never go outside the town walls
+without some when I was a young vai."
+35,SavedLv1_00,"あ…あぶなかったわ
+もう魔物は… いないよね…？","Hmm... That was trouble, no mistake.
+It's over now, right?"
+36,SavedLv1_01,"サ…サークサーク
+もう魔物はいないみたいね…","Sa...Sarqso. That looked like the last of
+the monsters."
+37,SavedLv2_00,"アナタ…
+すごく強いのね… ビックリしちゃった…","Sa'oten! You're stronger than I gave you
+credit for."
+38,SavedLv2_01,"サークサーク
+
+私もアナタみたいに強かったら
+一人でも生きていけるのに…","Sarqso, traveler. I really should be able
+to handle myself... Need to work on that."
+39,SavedLv3_00,"この辺り昔から魔物は多かったけど…
+最近以前よりも凶暴になった気がするわ…","There've been monsters swarming these
+sands ever since I can remember.I swear they've gotten more
+aggressive lately, though."
+40,SavedLv3_01,"サークサーク
+
+でも またいつ魔物が襲ってくるかわからないわ
+早く逃げないと！","Sarqso, traveler. But that thing's friends
+could show up any second. Let's run
+while we still can!"
+41,Thanks00,"そうだ忘れないうちにこれ…
+少ないけど助けてくれたお礼よ","Oh, right... You should have this.
+You fought well."
+42,first,"ど…どうしよぅ…
+ヴォーイに話しかけられちゃった…
+落ち着けポドマ…
+えっと… まずは挨拶だよね…","OK... It's a voe. You can handle this.
+Deep breaths, Kyra. Remember your training.First... You greet the voe like anyone else."
+43,first_00,"は…初めまして…
+私はポドマって言います
+えっと… ゲルド族です…
+
+私達の民族は年頃になったら
+運命のヴォーイを探す旅にでるんですが…
+一目会った時から決めてました！
+
+よかったら私をアナタの
+運命のヴァーイにしてもらえませんか？","N...nice to meet you! I'm Kyra.
+From the...the... From the Gerudo!I'm wandering the world, learning what
+I can and seeking my dreams...
+
+And I can tell, just from looking at you...
+You have a place in my dreams, don't
+you? Did we meet for a reason?"
+44,first_01,"あっ そうなの？
+じゃあ用はないわね
+私 こうみえて暇じゃないの
+じゃあねサヴォーク","Oh, is that how it's going to be?
+Then I can stop wasting my time
+with you.
+Sav'orq, traveler."
+45,first_01_1,"…悪いけど
+用がないなら話しかけないでくれる？","I hate to be rude, but... What's the point
+in talking to you anymore?"
+46,first_02,"…ダメね
+
+簡単に「運命」とか言うヴォーイには
+気をつけなさいってヴァーバ言ってたもの
+悪いけど さっきのは忘れてくれる？
+じゃあねサヴォーク","Hmm... No. I know this one.My vaba warned me about voe who throw
+words like \""dream girl\"" around.
+Let's just forget we ever spoke.
+Sav'orq, traveler."
+47,first_03,"また アナタなの？
+
+私は運命のヴォーイを見つけるために
+街を出てきたんだから邪魔しないでくれる？
+それとも…
+
+アンタが私の
+運命のヴォーイになってくれるっての？","You again?I'm on my personal journey of learning
+and discovery, so it would be great if you
+could not disrupt it...
+Unless... Do you think you're part of my
+destiny? My dream life?"
+48,first_04,"簡単に「運命」とか言うヴォーイほど
+胡散臭いものはないっていう ヴァーバの言葉…
+本当みたいね
+
+私 こうみえて暇じゃないの
+じゃあねサヴォーク","My vaba always said nothing's so shady
+as a voe who talks about dream this
+and dream that. I guess she was right.
+Run along, voe. I'm busy."
+49,first_04_1,"ほんと…
+ヴァーバの言ったとおりね…
+私暇じゃないんだから
+あっち行ってくれない？","Hmm... My vaba was right about you voe.\""Dream girl...\"" Nah, I don't have time to
+waste on you. Get out of here."
+50,first_05,"へぇ～
+その服 いい感じじゃない？
+ゲルド人が着るのとは
+また雰囲気が違って新鮮だね
+それなら ステキヴォーイが
+たくさん寄ってくるんじゃない？
+私もいい年齢になったから
+運命のヴォーイを探す決心をしたんだけどさ…
+なかなか慣れ親しんだ土地から
+出られなくてね…
+ここに来るヴォーイを狙うってのも
+ひとつの手かなと思ってるんだ
+アンタも一人でウロウロしてないで
+早く守ってくれる ヴォーイを見つけなよ
+じゃあねサヴォーク！","Pretty clothes. You don't see my
+kinswomen wearing that style often.
+I bet it drives voe out in the world wild.
+I'm at the perfect age to travel and see
+what the world holds, myself, but I've
+barely explored this desert...
+Adventures won't come and find me, I
+know. I have to put myself out there...
+I like staying around the familiar, I guess.
+You, though... You should see the
+world. Meet new people. Maybe you'll
+meet a nice voe!
+Sav'orq, traveler!"
+51,hello,サヴォッタ！,Sav'otta!
+52,hello_00,サヴァーク！,Sav'aaq.
+53,hello_01,サヴァサーバ！,Sav'saaba!

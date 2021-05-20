@@ -1,0 +1,125 @@
+#,Title,JPja,USen
+1,"""0000""",ですね,It has.
+2,"""0001""",そう？,You think so?
+3,"""0002""",知ってる,"Yes, I do."
+4,"""0003""",知らない,"No, I don't."
+5,"""0004""",教えて,Tell me.
+6,"""0005""",結構です,No need.
+7,LookPicture,"…
+
+ほほう
+
+なるほど
+
+なんとも面妖な…","Heheheh.
+
+
+I see...
+
+
+How strange."
+8,near00,異常無しッ！,No issues to report!
+9,talk00,はっ！,Sir!
+10,talk01,おはようございますっ！,Good morning!
+11,talk02,こんにちはっ！,Hello!
+12,talk03,こんばんはっ！,Good evening!
+13,talk04,しかし最近物騒でございますな！,"Geez, it's gotten dangerous around
+here lately!"
+14,talk05,"拙者は この辺りの警護を務めております
+ホスタと申します！","I've been on patrol duty lately.
+The name's Hoz!"
+15,talk06,キルトン…ご存じありませんか？！,Do you know...Kilton?
+16,talk07,なっ！ご存知か！,Whaaa? You've heard something?!
+17,talk08,左様ですか…,I see...
+18,talk09,"それでは そのような輩を見かけましたら
+詳細な姿を拙者にお伝えください！
+見かけたらで構いません
+キルトンの詳細な姿を…頼みましたぞ！","Well, if you see any suspicious people,
+please tell me what they look like
+in detail!
+Really! If you see this Kilton character,
+please tell me all the juicy details.
+I'm counting on you!"
+19,talk10,キルトンの情報が必要ですかな？,Need info about Kilton?
+20,talk11,"んっ？キルトンの詳細な姿を
+手に入れられたと申すか！
+しからば拝見…","Hm? You've got information
+about Kilton?
+
+Allow me to take a look..."
+21,talk12,"それでは拙者は任務を再開しますゆえ
+これにて！","Well, I must return to my mission now.
+Farewell!"
+22,talk13,"それにしてもキルトンのマモノショップでは
+一体何を売ってるんでしょうな
+魔物用の薬？ペット用の魔物？
+考えれば考えるほど気味の悪い…","I wonder what kind of stuff Kilton's
+Fang and Bone shop sells...
+
+Fangs? Bones? EVIL THINGS FOR EVIL?!
+The more I think about it, the more it
+gives me the creeps!"
+23,talk14,"キルトン…
+しかとこの目に焼き付けましたぞ！",Kilton... I've finally seen you!
+24,talk15,それでは彼奴の詳細な姿を頼みましたぞ！,"I'll be waiting to see a close-up picture
+of him!"
+25,talk16,"あいや かたじけなし！
+これで彼奴の追跡も捗るというもの！
+ご苦労であった謝礼をせねばな","Seriously, I can't thank you enough!
+This will surely help me hunt him down.
+Really, I must thank you somehow!"
+26,talk17,朝から降りますなぁ,"Raining already, eh..."
+27,talk18,降りますなぁ,It sure is raining a lot.
+28,talk19,今宵も降りますなぁ,"Raining into the night, it seems..."
+29,talk20,"キルトンならドクロ池で見た
+という情報が何件かございますな","There are a few reports of people
+spotting Kilton at Skull Lake."
+30,talk21,"それにしても夜にだけ出没するとは
+如何用あっての事なのか…","But I wonder why he only appears
+at night."
+31,talk22,"生憎拙者 ここの警護も仕っておりますゆえ
+この場所を離れる事ができないのです…","Unfortunately, I can't leave this spot...
+I'm on guard duty, after all."
+32,talk23,"彼奴ならハテノ村やウオトリー村の
+周辺で見たという証言がございますな","There are some reports of people
+spotting him around Hateno Village
+and Lurelin Village."
+33,talk24,"彼奴ならリトの村やゲルドの街の周辺で見た
+と言う証言が ございますな","There are some reports of people
+spotting him around Rito Village
+and Gerudo Town."
+34,talk25,"彼奴ならゾーラの里やカカリコ村の周辺で見た
+と言う証言が ございますな","There are some reports of people
+spotting him around Zora's Domain
+and Kakariko Village."
+35,talk26,"彼奴ならアッカレ湖の周辺で見た
+と言う証言が ございますな","There are some reports of people
+spotting him around Lake Akkala."
+36,talk27,"ええ！
+
+なんでも最近はキルトンと名乗る
+薄気味悪い輩が出没するそうで…
+彼奴はマモノショップを経営し
+夜な夜なリヤカーを引き辺りを徘徊…
+その浮世離れした姿に近隣の住民が
+不安がっている次第でございます","Yes!
+
+
+Recently I've been hearing about a
+suspicious guy named Kilton...
+
+He runs a shop called Fang and Bone.
+They say he goes around pushing some
+kind of cart night after night.
+He's been making people around here
+uncomfortable with his suspicious and
+otherworldly activity..."
+37,talk28,お主も気を付けなされよ！,You should watch out for him too!
+38,talk29,"今の所異常無しでございます！
+
+しかしキルトンとやら…
+馬宿周辺には出没しないようでございますな","Nothing out of the ordinary to report
+at the moment!
+
+This Kilton guy... He doesn't seem to
+show his face around the stables."

@@ -1,0 +1,37 @@
+#,Title,JPja,USen
+1,QL_TreasureHunt_touzoku01_Desc,"ハイラル王家秘蔵の歴史的価値の高い衣装が
+ラムダという盗賊に奪われていた
+そのうちの１つは太古の仮面 と呼ばれている
+
+その隠し場所を記した手記が
+ハイラル宿場町跡地のどこかにあるらしい","The royal family of Hyrule collected historically
+significant outfits, but they were stolen by a
+bandit named Misko. One of the items stolen
+was an ancient mask.
+
+There's a journal that places the location of this
+treasure somewhere in theOutpost Ruins..."
+2,QL_TreasureHunt_touzoku01_Finish,"『太古の昔より伝わりし仮面は
+コモロ池水面が見えし兵の集う地の跡に…』
+
+コモロ駐屯地跡に埋められた宝箱の中から
+ムジュラの仮面を手に入れた！","\""The ancient mask lies at the ruins where
+soldiers gathered. From there, the waters
+of Lake Kolomo are visible.\""
+
+You found the treasure that was hidden
+at Kolomo Garrison Ruins and obtained
+Majora's Mask!"
+3,QL_TreasureHunt_touzoku01_Name,Ｅｘ ラムダの秘宝 太古の仮面,EX Treasure: Ancient Mask
+4,QL_TreasureHunt_touzoku01_Step01,"『太古の昔より伝わりし仮面は
+コモロ池水面が見えし兵の集う地の跡に…』
+
+ラムダの手記Exに太古の仮面を
+隠した場所が記されていた
+水面が見えし 兵の集う地の跡 とは…？","\""The ancient mask liesat the ruins where
+soldiers gathered. From there,the waters
+of Lake Kolomo are visible.\""
+
+Misko's EX Journal gives the location of
+the ancient mask...but where could it be
+talking about?"

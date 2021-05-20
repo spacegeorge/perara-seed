@@ -1,0 +1,26 @@
+#,Title,JPja,USen
+1,"""0000""",OK,OK
+2,"""0001""",キャンセル,Cancel
+3,"""0002""",amiiboを使用する,Use amiibo
+4,"""0003""",amiiboを使用しない,Do not use amiibo
+5,"""0004""","このゲームは物語を進めることで
+amiiboを使用できるようになります
+それまで しばらくの間 お待ちください","You cannot use amiibo until you've reached
+a certain point in the game. Try again after
+you've made some progress."
+6,"""0005""","このゲームは amiiboに対応しています
+ゲーム中で amiiboを使用しますか？","This game is compatible with amiibo.
+Would you like to enable amiibo functionality?"
+7,"""0006""","ゲーム中でamiiboアイテムが使用できる
+設定になっています
+使用できないようにしますか？","Your current settings allow the use of the amiibo rune.
+Would you like to disable the use of the amiibo rune?"
+8,"""0007""","シーカーストーンで
+amiiboアイテムが使用できるようになりました
+設定はオプション画面からいつでも変更できます","You can now use the amiibo rune with the
+Sheikah Slate. You can change this setting
+on the Options screen at any time."
+9,"""0008""","amiiboアイテムが使用できなくなりました
+設定はオプション画面からいつでも変更できます","You can no longer use the amiibo rune.
+You can change this setting on the Options
+screen at any time."

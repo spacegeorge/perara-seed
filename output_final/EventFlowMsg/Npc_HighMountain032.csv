@@ -1,0 +1,100 @@
+#,Title,JPja,USen
+1,"""0000""",へっちゃら,Not scared at all.
+2,"""0001""",ちょっと怖い,I'm a little scared.
+3,"""0002""",聞いてない,Bird monster?
+4,"""0003""",いたよ,"Yeah, tons."
+5,"""0004""",いなかったよ,Fishless.
+6,"""0005""",まだ入ってない,Haven't gone in yet.
+7,Talk_000,"鳥のオバケ怖いよー…
+コッツ食べられちゃうのかなぁ…
+お兄ちゃんもゾクチョーさまから聞いた？
+こわくない？ こわくない？","I...I'm scared of the bird monster.
+I hope it doesn't eat me...
+
+Did the village elder tell you about it?
+Are you scared of it too?"
+8,Talk_001,"すごーい！
+じゃあ お兄ちゃんがエーケツサマだね！","Whoa! Really? Are you a Champion or
+something?"
+9,Talk_002,"お兄ちゃん コッツよりおっきいのに…
+こわいなんて… どうしよ……
+そうだ！鳥のオバケに
+おサカナいっぱいあげたら食べられないかな？
+あ！ でもおサカナあげるときに
+コッツ食べられちゃうかも…ピヨョ…","But you're much bigger than me!
+If you're scared, I'm doomed!
+What should I do?
+OH! I've got it! I'll feed it lots of fish until
+it's too stuffed to eat me!
+
+AHHH! But what if when I try to give it
+the fish, it eats me instead! *gulp*"
+10,Talk_003,"聞いてないの？
+じゃあ早くお話聞いてね
+怖くなっても だいじょーぶだよ
+コッツが一緒に聞いてあげるからね","You haven't heard? Then you should go
+talk to the elder.
+
+You can always ask me to hold your hand
+if the story gets too scary."
+11,Talk_004,"お兄ちゃん鳥のオバケ
+こわくない？ こわくない？","Aren't you scared of the bird monster?
+You don't look very scared."
+12,Talk_010,"ゾクチョーさまのところへ行くよ～
+お兄ちゃんも一緒に行く～？","I'm gonna go visit the elder. Want to
+come along?"
+13,Talk_020,"早く帰らなきゃ鳥のオバケに
+食べられちゃうんだよ～ピヨョ～","Got to get home quick or the bird
+monster might eat me!
+♪La dee DAAAAAH!♪"
+14,Talk_030,ううん…,Hrmm...
+15,Talk_100,"おサカナ おサカナ おサカナ～♪
+
+あ お兄ちゃん ホコラの中 どうだった？
+おサカナいっぱいいた？","♪Fishy fish fish!♪
+
+
+So how was the inside of that shrine?
+Were there lots of fish there?"
+16,Talk_102,"ヤッター！じゃあ コッツが
+おっきくなって強くなったら行ってみるね～","Wow! When I grow up, I'm going to go
+in there and pig out!"
+17,Talk_103,"そうだよね… ずーっと土の中で
+寝てたホコラだもんね…
+おサカナいても ホネになっちゃってるよね…","That's too bad. Maybe all the fish got
+bored of waiting in there and left."
+18,Talk_104,"え～？ まだ行ってないの？！
+
+早く早く～！ おサカナいたら
+コッツがつかまえに行くんだから～！","What, you haven't gone yet?
+
+
+Well what are you waiting for? Go and
+bring me back some ancient fish!"
+19,Talk_105,ルララ～♪ おサカナ おサカナ おサカナ～♪,♪Loo la la! Fishy fish fish!♪
+20,Talk_110,"あ～ん おサカナつかまえに行きたいけど
+練習しなきゃ キールに怒られちゃう～","I want to go catch some fish, but Kheel 
+will get mad at me if I don't practice my
+singing."
+21,Talk_120,"明日は おサカナ
+つかまえに行けるかなぁ…","Maybe I'll have time to catch some fish
+tomorrow..."
+22,Talk_200,"パパに おサカナのつかまえかた
+教えてもらったよ～
+素早く近づいたら とりやすいんだって！
+お兄ちゃんも やってみて～","Dad taught me how to catch fish.
+You just dive-bomb them while they're
+swimming!
+But the hard part is getting back out of
+the water. I don't know how to swim..."
+23,Talk_201,"おサカナみつけたら
+素早く近づいて つかまえる！
+コッツおぼえた！","When you spot a fish, swim right up to it
+and nab it!"
+24,Talk_210,"あ～ん おサカナつかまえに行きたいけど
+練習しなきゃ キールに怒られちゃう～","I want to go catch some fish, but Kheel
+will get mad at me if I don't practice my
+singing."
+25,Talk_220,"明日は おサカナ
+つかまえに行けるかなぁ…","Maybe I'll have time to catch some fish
+tomorrow."

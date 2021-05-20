@@ -1,0 +1,74 @@
+#,Title,JPja,USen
+1,"""5500""",はい,OK.
+2,"""5501""",いいえ,Never mind.
+3,"""5502""",買う,I'll buy.
+4,"""5503""",やっぱりやめる,Never mind.
+5,"""5507""",ぜんぶ買う,I'll take 'em all!
+6,"""5508""",ぜんぶ売る,All of them.
+7,Com_Talk_00,どれを売ってくれるのかね？,What do you want to sell me?
+8,Com_Talk_01,"を売るのか？
+ルピーになるが よいか？","I'll give you  rupees...
+That OK?"
+9,Com_Talk_02,"かたじけない！
+他にも何かあるかね？",Thank you much! Anything else?
+10,Com_Talk_02b,"ありがたい！
+他にはどうだ？",Thanks a lot! Anything else?
+11,Com_Talk_02c,"かたじけない！
+まだ何かあるか？",Thanks a bunch! Anything else?
+12,Com_Talk_02d,"助かる！
+他にも なにかないか？",Thanks for that! Anything else?
+13,Com_Talk_04,"むむ・・・""残念だ",Hrmm. Too bad.
+14,Com_Talk_05,何でも買い取るゆえ,I'll buy anything!
+15,Com_Talk_05b,他にも買い取るゆえ,I'll still buy stuff—just let me!
+16,Com_Talk_05c,まだまだ買い取ることはできるぞ,I'm still game to buy stuff!
+17,Com_Talk_05d,いろいろと買い取りはできるゆえ,I'll buy all kinds of things if ya let me!
+18,Com_Talk_06,どれが必要か？,What do you need?
+19,Com_Talk_07,"すまぬ！""今そいつは切らしておるのだ・・・",Sorry! I'm all out right now.
+20,Com_Talk_08,"ルピーが足りないようだ
+懐具合をよく確認してから よろしく頼む！","You don't have enough rupees.
+Figure out your funds, and come
+back again later!"
+21,Com_Talk_09,"ポーチが いっぱいのようだ！
+売るなり捨てるなりして空きを作ってきたまえ","Your pouch is full! Discard or sell some
+stuff to make room."
+22,Com_Talk_10,を買うのだね？,"You want that, then?"
+23,Com_Talk_11,ありがたい！,Thanks a million!
+24,Com_Talk_11b,かたじけない！,Thanks a ton!
+25,Com_Talk_11c,まいど かたじけない！,Thanks so much!
+26,Com_Talk_11d,助かる！,That's a huge help! Thanks!
+27,Com_Talk_12,"自慢の品ぞろえだ！
+ゆっくり選ぶがよい！","I have an impressive collection here!
+Take your time!"
+28,Com_Talk_13,"を売るのだな？
+いくつ売るかね？",How many do you want to sell?
+29,Com_Talk_14,"を個で・・・
+合計ルピーで買い取るが よいか？",I'll give you  rupees. OK?
+30,Com_Talk_15,それは こちらでは買い取れぬ,I can't buy that from you...
+31,Com_Talk_16,今着ている服は脱いでからにしてくれるか！,I'll need you to take that off first...
+32,Com_Talk_20,"悪天候の時は特別サービスだ！
+取っておきの品を売ろうではないか！","I've got a special rainy-day deal for you!
+I'll sell you the best item I've got!"
+33,Com_Talk_30,"が個で
+合計ルピーになるがよいか？",That'd be  rupees. Sound OK?
+34,Com_Talk_31,"を買うのか？
+いくつ必要だ？",How many were you thinking?
+35,Com_Talk_33,"をひとつだけか？
+であればルピーだ！",Only one? I'll give you  rupees!
+36,Com_Talk_34,"をあるだけ全部だな？
+個でルピーだが よいか？","All of them? That will be  rupees.
+That OK?"
+37,Com_Talk_35,"を個全部だな？
+合計ルピーで買い取るがよいか？","So all of them, yeah? I can pay you
+ rupees. That OK?"
+38,Com_Talk_36,"これで最後だ
+たくさん買っていただき かたじけない！","That's all of it. Thanks for buying
+so much!"
+39,Com_Talk_37,"今日はもう手持ちの矢がないのだ
+すまない！
+仕入れる予定の品物リストだけでも
+見ていくかね？","Sorry, I'm all out of arrows for today.
+Do you want to look at the list of stuff
+I plan to stock up on?"
+40,Com_Talk_56,"をひとつだけか？
+であればルピーだが よいか？","Only one? That'll be  rupees.
+That OK?"

@@ -1,0 +1,641 @@
+#,Title,JPja,USen
+1,"""0002""",はいどうぞ,Enjoy!
+2,"""0003""",あげません,"No, it's all mine!"
+3,"""0004""",聞きたい,I'm all ears.
+4,"""0005""",大丈夫,Not right now.
+5,"""0006""",聞く,Why not?
+6,"""0007""",聞かない,Not right now.
+7,"""0008""",兄弟岩の歌,Warbler's Nest song.
+8,"""0009""",お腹の歌,Tummy song.
+9,Demo305_0_01,わぁ！お姉ちゃん達 あれ見て！！,"Wow! Hey look, guys!"
+10,Demo305_0_02,"あれれ～？
+あんな所に お家あったっけ～？","Huh? Was that weird-looking house
+always there?"
+11,Demo305_0_03,"違うよ！
+あれはゾクチョーさまが言ってた ホコラだよ！","No, that's that \""shrine\"" thing that the
+elder was talking about!"
+12,Demo305_0_04,"すごいすごい！
+兄弟岩に こんなヒミツがあったなんてー！","So cool! Who knew Warbler's Nest was
+keeping a secret like that!"
+13,Demo305_0_05,ねぇ ママにも教えてあげようよ！,Let's tell Mom!
+14,Demo305_0_06,うん そうしよう！,"Yeah, let's!"
+15,Demo305_0_07,お兄ちゃん またね！！,See ya later!
+16,Demo305_0_08,"そうだ！
+ママの所まで競争しよう！！",Last one to mom is an unhatched egg!
+17,Demo305_0_09,"いいねー
+じゃあ よーいスタート！！！","Ready, set...GO!"
+18,Npc_HighMountain031_R_001,"ルルル～♪ ルルルル～♪
+ル～ル ララ ルルル～ラララ～ッ♪
+は～い ただ今お聴きいただいた曲は
+『怪鳥を鎮めし勇者の帰還 ～プレリュード』！
+ご清聴ありがとうございました～！","♪Loo loo loo!♪
+♪Loo loo loo loo!♪
+♪Loo loo lala loo loo loo...lalala!♪
+Do you like that? I call that little ditty
+\""Return of the Bird-Wrangling Hero...
+Prelude in E-sharp Minor.\""
+Thank you for listening!"
+19,Npc_HighMountain031_R_002,"私達が歌うのは ふるーい歌なんだよ～
+
+兄弟岩で練習するから聴きにきてね～！","I like to sing REALLY OLD songs.
+The older, the better!
+
+And they sound even better when I sing
+them at Warbler's Nest! That's where I
+usually practice. You should stop by!"
+20,Npc_HighMountain031_S01_001,"ランラ～ン♪ルララ～♪
+ラララ～ ルル ランラン～ ララ～ッ♪
+は～い ただ今お聴きいただいた曲は
+『怪鳥を鎮めし勇者の帰還 ～第一楽章』でした
+ご清聴 ありがとうございました～！
+
+…えっ兄弟岩の歌の練習？
+モチロン忘れてないよ
+三女のゲンコが どうしてもサーモンムニエルを
+食べたいっていうから
+仕方なく姉妹で手分けして
+食材を買い集めてたの
+私は あっと言う間に終わったから
+暇つぶしがてら ここで練習してたんだけどね
+でも キールに悪いことしちゃったかな…急いで練習に行ってあげなくちゃね！","♪La la loo loo la la!♪
+♪La la la, loo loo!♪
+♪La la laaaaaaa la la!♪
+I call that song...
+\""Return of the Bird-Wrangling Hero... 
+First Movement.\""
+Thank you for listening!
+
+
+What? Singing rehearsal at
+Warbler's Nest? I didn't forget!
+
+It's just that Genli really wanted some
+salmon meunière, so my sisters and I
+have been looking for ingredients.
+I finished early, so I was practicing here
+to kill time.
+
+I feel bad we left Kheel waiting, though.
+I really should head over to rehearsal."
+21,Npc_HighMountain031_S01_002,"それじゃ はい
+このタバンタ小麦は お兄ちゃんにあげま～す！
+これで とっておきのサーモンムニエルを
+ゲンコに作ってあげてほしいな！
+あれを食べないと
+歌の練習したくないんだってさ
+ま～本当は別の理由だと思うけどねそれじゃ後のことはヨロシク～♪","Well then...I guess I'll give the
+Tabantha wheat to you! Please make
+the best salmon meunière for Genli!
+She says she can't sing on an empty
+stomach, but I'm pretty sure that's just
+an excuse.
+Well, good luck!"
+22,Npc_HighMountain031_S01_003,"みんなが集まったら
+私も兄弟岩のところへ行くね！
+ルルル～♪四女のグリグリはちゅん天堂～♪
+次女のコッツは おサカナとりに入口へ～♪","I'll head over to Warbler's Nest once
+everyone's there! 
+
+I think my fourth sister, Cree, is at the
+Slippery Falcon. The second oldest,
+Kotts, should be at the village entrance."
+23,Npc_HighMountain031_S01_102,"それじゃ はい
+このタバンタ小麦は お兄ちゃんにあげます…
+…って ポーチの中身が いっぱいだよ！
+空きを作ってきてちょ～だい！","Well then...I guess I'll give the
+Tabantha wheat to you...
+
+...Hey, your inventory is full!
+Go make some space!"
+24,Npc_HighMountain031_S01_201,"あれっ もしかして もうゲンコに
+サーモンムニエルを ご馳走してくれたの？
+さっすがー！お兄ちゃん仕事早い！
+
+あれを食べないと
+歌の練習したくないんだってさ
+ま～本当は別の理由だと思うけどね
+
+それじゃ みんなが集まるころに行くね～♪","What? You already treated Genli
+to some salmon meunière?
+
+Wow! You're amazing!
+
+
+Genli said she doesn't want to sing on an
+empty stomach, but I think she's hiding a
+different reason.
+Well, I'm gonna meet up with everyone.
+See you around!"
+25,Npc_HighMountain031_S02_001,"ラー ルルルー ラー♪
+
+うん ちゃんと練習してたからバッチリ！","♪La loo loo loo la!♪
+
+
+Yeah! I'm sounding great thanks to all of
+the rehearsing."
+26,Npc_HighMountain031_S02_002,お兄ちゃん！練習したお歌聞いてくれる？,"Hey! Would you like to hear the song I've
+been practicing?"
+27,Npc_HighMountain031_S02_003,"はーい！
+練習続けるね！","OK! I'll keep practicing, then!"
+28,Npc_HighMountain032_R_001,"おサカナ…おサカナ…
+
+おサカナ売ってなーい！
+
+おサカナ買えないと
+おつかい終わらないよー！
+…もう そいやーって
+つかまえに いっちゃおうかな？","Fishy... Fishy...
+
+
+No one's selling fishies!
+
+
+If I can't buy any fishies...
+I can't finish my task!
+
+Maybe I'll just be like...\""hiyah!\""
+and catch one myself."
+29,Npc_HighMountain032_R_002,"ちゅん天堂に おサカナ売ってないよ～！
+
+自分でつかまえに いっちゃおうかな？","They don't sell fishies at the
+Slippery Falcon!
+
+Maybe I'll catch some on my own..."
+30,Npc_HighMountain032_S01_001,"そいや～！そいや～！
+マックスサーモン捕ったど～！
+…って お兄ちゃんどうしたの？
+えっ お歌の練習？
+ひゃ～～おサカナ捕まえるのに必死で
+すっかり忘れてた…
+ううっ急いでキールのところに行かなくちゃ！
+また怒られちゃうよ～！！","Hiyah! HIYAH!
+I'm fishing for hearty salmon!
+
+...Huh? What are you doing here?
+What? Rehearsal?
+
+AHHH! I totally forgot!
+I was too focused on catching these fish.
+
+Kheel's going to kill me!"
+31,Npc_HighMountain032_S01_002,"お兄ちゃん このマックスサーモンあげるから
+ゲンコにサーモンムニエル作ってあげて！
+これで機嫌直してくれれば いいんだけど…
+
+それじゃ～漢の料理を頼んだよ～！
+わっしょ～い！！ わっしょ～い！！","Please take this hearty salmon and go
+make some salmon meunière for Genli.
+
+Hopefully she'll feel like singing after she
+has some."
+32,Npc_HighMountain032_S01_003,"もうちょっとだけ おサカナ捕まえてるね！
+
+えっ？みんなどこにいるのかって？
+
+一番上のお姉ちゃんは高いとこが好きで～
+グリグリはちゅん天堂に いるんじゃない？","I'm going to try to catch some more fish
+before I head out. 
+
+Why don't you go find my other siblings
+in the meantime?
+
+My oldest sister loves high places, and
+Cree is probably at the Slippery Falcon."
+33,Npc_HighMountain032_S01_004,"材料が集まったら炊事場にあるおナベで
+お料理♪お料理♪","Once you get all the ingredients, you can
+cook the meal in the pot in the kitchen! 
+♪Cookie cook cook!♪"
+34,Npc_HighMountain032_S01_201,"あれっお兄ちゃん もうサーモンムニエルを
+ゲンコに作ってくれてたの？！
+うゎ～い どうもありがとう！
+これで機嫌直してくれれば いいんだけど…","You already made salmon meunière
+for Genli?
+
+Yaaay! Thank you so much!
+Hopefully she stops whining now..."
+35,Npc_HighMountain032_S02_001,"そいや～ そいや～！
+
+いっけない間違えちゃった！","Hiyah! HIYAW!
+
+
+Oh, no... I messed up!"
+36,Npc_HighMountain032_S02_002,"間違えないように ちゃんと歌うね！
+お兄ちゃん聞いてくれる？","I'll try not to mess up my song.
+Do you want to hear it?"
+37,Npc_HighMountain032_S02_003,"今度は間違えないぞ！そいや～！
+…あれれ？","I won't make a mistake next time! Yeah!
+Huh?"
+38,Npc_HighMountain032_S02_101,"お兄ちゃんこのマックスサーモンあげるから
+ゲンコにサーモンムニエルを…
+…ってポーチの中身がぐちゃぐちゃだよ～
+キレイにしてきてね～！","Please take this hearty salmon and make
+some salmon meunière for—
+
+...Hey! Your inventory is full!
+Clean out your bag and come back."
+39,Npc_HighMountain033_R_001,"ふんっ お歌の練習なんて大っキライ！
+上手に歌えなくたって い～んだもんね～！
+あ～そんなことよりお腹空いちゃった…
+
+サーモンムニエルが食べた～い！","Hmph! I hate practicing singing!
+Who cares if I'm not a good singer!
+
+*sigh*
+All of this pressure is making me
+hungry.
+I want some salmon meunière!"
+40,Npc_HighMountain033_R_002,"サーモンムニエルが
+食べたいったら食べたいの！！","I want to eat some salmon meunière!
+I want it. I want it. I WANT IT!"
+41,Npc_HighMountain033_S01_001,"はやく～！はやく～～！！
+
+サーモンムニエルが食べた～い！
+
+…えっキールが
+お歌の練習に来てほしいって？
+だめ～！サーモンムニエルを食べるまでは
+行ってあげないもんね～！
+お姉ちゃん達だってサーモンムニエルの材料を
+買いに行ったから ここにはいないよ？
+ご馳走してくれたら お歌の練習してもいいよ
+って言ったら本当に買いに行っちゃったけどさ
+う～ん…お歌の練習したくない…
+けど…ほくほくのサーモンムニエルは食べたい…
+…えっ どこへ買いに行ったかって？
+そりゃ安くて便利なちゅん天堂でしょ～！","Hurry! Hurry!
+
+
+I NEED salmon meunière in my
+belly!
+
+I know Kheel wants me to practice
+singing with her, but I just can't.
+
+Not until I get my salmon meunière!
+
+
+My sisters already left to get
+salmon meunière ingredients.
+
+I told them I wouldn't sing until I get it.
+I didn't expect them to actually make it
+for me, though!
+I don't want to practice singing...
+but I really do want some yummy salmon meunière.
+
+What is taking my sisters so long?
+I thought they were just going to the
+Slippery Falcon."
+42,Npc_HighMountain033_S01_101,"はやく～！ はやく～～！！
+
+サーモンムニエルが食べた～い！
+
+くんくん…
+くんくんくんくんくん……
+わお！この香しい匂いは まさかっ！
+
+さ…サーモンムニエル？！
+
+これ あたしにくれるんだよね？
+そうだよねっ？！","Hurry! Hurry!
+
+
+I NEED salmon meunière in my
+belly!
+
+*sniff sniff...*
+*sniff sniff sniff*
+
+That amazing smell...
+Could it be?
+
+Sa...
+Sa...
+Salmon meunière?!
+You're going to let me have some, right?
+RIGHT?!"
+43,Npc_HighMountain033_S01_102,やった～ いただきます♪,"YAAAAAAAAAAAAY!
+♪Time to dig in!♪"
+44,Npc_HighMountain033_S01_104,けち～～～～！！,WOW! YOU'RE MEAN!
+45,Npc_HighMountain033_S01_105,"お兄ちゃん もうおつかいは終わりって
+みんなに教えてきてくれる～？
+…えっ みんなどこへ買いに行ったかって？
+
+そりゃ安くて便利な
+ちゅん天堂っきゃないでしょ～！","Can you go tell everyone that
+we're all set?
+
+You do know where they went for the
+groceries, I assume.
+
+Nowhere but the one-stop shop of
+the Slippery Falcon, of course!
+It's cheap AND convenient!"
+46,Npc_HighMountain033_S01_106,"もぐもぐ……んぐんぐ……
+はふっ！ ほくっ…！","*munch munch*...
+Hngh mngh...
+Hnff! Hurk!"
+47,Npc_HighMountain033_S01_107,"ふぅ！おなかいっぱい！…えっ？お姉ちゃん達や妹達との約束？
+う～ん破ったらダメだよねぇ…
+あたしね本当はお歌好きなんだよ
+でもね みんなの前で歌うのが恥ずかしくて
+お歌の おひろめ会に出るのが
+ユーウツだったの…
+お姉ちゃん達や妹達と一緒に練習すれば
+だんだん慣れてくるかなぁ…
+…お兄ちゃん！サーモンムニエルありがと！
+ほくほくで美味しかったよ！
+あたし お歌の練習がんばるから
+後で聴きに来てよね♪","Mmmmmm... I'm stuffed!...Huh? My promise to my sisters?
+I suppose I shouldn't break my promise...
+
+I really DO like singing!
+...But I am too nervous to sing in front of
+other people.
+I have SERIOUS stage fright...but maybe
+practicing with my sisters will help me
+feel more comfortable.
+Anyway, thank you for the amazing
+salmon meunière! It was so soft and
+flaky and delicious!
+I'll give this rehearsal my all.
+♪Come listen later!♪"
+48,Npc_HighMountain033_S01_201,"はやく～！ はやく～～！！
+
+サーモンムニエルが食べた～い！
+
+…えっ みんなどこへ買いに行ったかって？
+
+そりゃ安くて便利な
+ちゅん天堂っきゃないでしょ～！","Hurry!
+
+
+I NEED salmon meunière in my
+mouth!
+
+What is taking my sisters so long?
+
+
+I thought they were just going to the
+Slippery Falcon!"
+49,Npc_HighMountain033_S02_002,"ラー ルルルー ラー♪
+
+はう…がんばって歌ってたら
+お腹が空いてきた…","♪La loo loo loo laaaaaaa!♪
+
+
+Phew...
+All this singing is making me hungry."
+50,Npc_HighMountain033_S02_003,"あたしのお腹のお歌と兄弟岩のお歌
+どっち聞く？","Which would you rather hear? My
+tummy's song or a song about 
+Warbler's Nest?"
+51,Npc_HighMountain033_S02_004,"ぐーぐーぐーぐー♪
+ぐぎゅるるる～♪","♪Rumble rumble rumble.♪
+♪Grrrrrrr.♪"
+52,Npc_HighMountain034_R_001,"グリグリはちゅん天堂に来たお客さんを
+数えるのが得意なんだよ～♪
+え～っと お兄ちゃんで何人目だったかな？
+あれれ忘れちゃった～♪","Cree is good at counting!
+She always counts customers that come
+to the Slippery Falcon every day!
+Let's see. You were the...
+Huh, I forgot."
+53,Npc_HighMountain034_S01_001,"わ～い わ～い♪
+ほら見てヤギのバターを買えたよ～♪
+…ん～？お歌の練習？
+
+ああ～ そうだ～！忘れてた～！","♪Yah yah!♪
+♪I bought some goat butter!♪
+
+...Huh? Rehearsal?
+
+
+Oh, yeah! I forgot!"
+54,Npc_HighMountain034_S01_002,"お兄ちゃん このヤギのバターをあげるから
+これでサーモンムニエルを作ってほしいな～
+そしたらね炊事場にいる ゲンコちゃんに
+食べさせてあげてほしいの～！
+おなかいっぱいになったら
+きっと お歌の練習にも来てくれると思うんだ～
+長女のナンちゃんは
+おつかい終わらせて どっか行っちゃったよ～
+たぶん高いところで
+お歌の練習してるんじゃないかな～？
+次女のコッツちゃんはマックスサーモンを
+捕まえに行くって言ってたよ～！
+村の入口にある小さな池で
+お魚と戦ってるんじゃないかな～？","If I give you this goat butter, will you
+make some salmon meunière for Genli?
+She should be in the kitchen.
+She said she won't sing until she's
+eaten.
+
+Our older sister Notts is probably
+practicing her songs somewhere up high.
+
+Kotts left to catch some hearty salmon.
+
+
+She's probably fishing at the pond near
+the entrance to the village. "
+55,Npc_HighMountain034_S01_003,"長女のナンちゃんは高いところで
+お歌の練習 してるんじゃないかな～？
+次女のコッツちゃんは おサカナとりに
+村の入口の小さな池に行ったよ～","My oldest sister Notts is probably
+somewhere up high practicing her songs.
+
+Kotts, the second oldest, said she was
+going fishing at the pond near the village
+entrance."
+56,Npc_HighMountain034_S02_003,"ルールルー♪ラー♪
+
+みんなで歌うと楽しいね～！
+
+…あれ？今どこまで歌ったかな…？あれれ？","♪Loo loo loo laa!♪
+
+
+It's fun singing together!
+
+
+Even if I don't know the lyrics..."
+57,Npc_HighMountain034_S02_004,"お兄ちゃん！ ちょっと歌いなおすから
+聞いてくれる？",Hey! Want me to sing the song again?
+58,Npc_HighMountain034_S02_005,んーと…んーと……,Um... Ummmm...
+59,Npc_HighMountain034_S02_103,"お兄ちゃん このヤギのバターをあげるから
+これでサーモンムニエルを…
+…って ポーチの中身がいっぱいだから
+渡せないよ～","If I give you this goat butter, will you
+make some salmon meunière?
+
+...Wait, your inventory is full, so I can't
+give it to you."
+60,Npc_HighMountain035_F_001,"ルールルー♪ラー♪
+
+『おとめの うたごえと ともに
+そのいわ かぜを うけて うたうとき
+ゆーしゃに みちを しめさん』
+
+これって どういう意味なのかな～？","♪Loo loo loo laaaaa!♪
+
+
+\""When wind convinces the rocks to sing,
+open the monk's door will swing.\""
+
+What do you think that means?"
+61,Npc_HighMountain035_R_001,"もう～～っ！！
+
+お姉ちゃん達の おバカばか～～！！
+
+お歌の練習しようって約束したのに
+だ～れも来てくれないじゃない～！
+ゾクチョーさまに兄弟岩のお歌を
+おひろめしなきゃ いけないのに…
+このままじゃ ぶっつけ本番になって
+へたっぴ～って言われちゃう～！","Grrrrrr!
+
+
+My sisters are dumb DUMMIES!
+
+
+They promised we'd rehearse together,
+but NO ONE showed up!
+
+We have to perform our song 
+for the elder at Warbler's Nest!
+
+We're going to be laughed off
+the stage..."
+62,Npc_HighMountain035_R_002,"ねぇ便利そう…じゃなくて
+優しそうな お兄ちゃん！
+リトの村にいる お姉ちゃん達に
+練習サボるな～って伝えてきてよ～！
+私が言っても全然来てくれないけど…
+カッコイイお兄ちゃんの言うことなら…？
+でも心配なのが ワガママな三女のゲンコで
+きっと今ごろ炊事場で…
+サーモンムニエルが食べた～い！
+
+…な～んて騒いでると思うんだ～
+
+お歌のおひろめ会も出たくないって言うし
+困ったお姉ちゃんなの！ムギギ…","Hey, you... You look like I can use you...
+
+
+Thaaaat is to say...you look like a nice
+guy who likes to help people in need.
+
+Can you go tell my sisters in Rito Village
+to stop ditching rehearsal?
+
+They won't listen to me, but they might
+listen to a scary-looking Hylian like you.
+
+Although Genli might be a tough sell.
+She's probably in the kitchen yelling,
+
+\""I want some salmon meunière!\""
+
+
+...or something like that.
+
+
+She doesn't want to sing either... 
+She's such a pain!"
+63,Npc_HighMountain035_R_Near,ピキーーッ！！,Pikyeeeehh!!!
+64,Npc_HighMountain035_S01_001,"三女のゲンコの居場所ならわかるよ
+ど～せ炊事場で…
+サーモンムニエルが食べた～い！
+
+…な～んて騒いでるんじゃないかな？
+
+…えっ？炊事場が どこかって？
+それなら私達のおうちの隣だよ～","I know where Genli is!
+I think she's probably in the kitchen...
+
+\""I NEED salmon meunière in my
+life!\""
+
+...is probably what she's yelling.
+
+
+The kitchen? It's right next to my house!"
+65,Npc_HighMountain035_S01_201,"あれ～ もうゲンコちゃんに
+サーモンムニエルを作ってくれたの～？
+お兄ちゃん ありがとう～♪
+
+ゲンコちゃん お歌の練習に
+来てくれてるといいな～
+みんなが集まるころになったら
+グリグリも兄弟岩に行くね～♪","Huh? You already made salmon meunière
+for Genli?
+
+♪Thaaaank you SO much!♪
+
+
+I hope Genli will come to rehearsal now.
+I'll head over to Warbler's Nest in a bit."
+66,Npc_HighMountain035_S02_004,"あっ お兄ちゃん どうもありがと～！
+お姉ちゃん達来てくれたよ！
+さぁ兄弟岩のお歌の練習始めなくちゃ
+どんなお歌か知りたい？知りたい？
+ゾクチョーさまが教えてくれたんだけど…
+
+ず～～っと昔から リトの村に伝わる
+兄弟岩を お祀りするための歌なんだって！
+兄弟岩っていうのは私たちの後ろにある
+5つの岩のことだよ
+ムズかしくて よくわからないけど
+ちょっと気になる歌詞もあるんだ
+『おとめの うたごえと ともに
+そのいわ かぜを うけて うたうとき
+ゆーしゃに みちを しめさん』
+これってどういう意味なのかな～？
+…そうだ お兄ちゃん！お姉ちゃん達を捜してくれたお礼に
+宝物をあげるよ！","Oh, thank you so much!
+All of my sisters are here!
+
+Now we can rehearse here at
+Warbler's Nest! Want to know what
+song we're singing?
+Well...the elder told me...
+
+
+It's a song passed down in the Rito 
+Village that was once sung at
+Warbler's Nest in ancient times.
+If you didn't know, Warbler's Nest is
+the big stone platform with the pillars
+behind us.
+The lyrics don't make a lot of sense, but
+there's one line in particular that always
+catches my ear...
+\""When wind convinces the rocks to sing,
+open the monk's door will swing.\""
+
+What do you think that means?
+What's a monk?
+
+Oh! And I almost forgot!I got you a little something. Just a small
+thanks for bringing all of my sisters here."
+67,Npc_HighMountain035_S02_005,"ジャ～ン！コログのうちわ～！
+
+お兄ちゃんも兄弟岩に風を送ってごらん！
+音がして楽しいよ～♪","Ta-da! A Korok leaf!
+
+
+Why don't you swing it in the direction of
+Warbler's Nest? It makes a fun noise!"
+68,Npc_HighMountain035_S02_006,"ジャ～ン！コログのうちわ～！
+…ってポーチの中身がバクハツ寸前だよ！
+そのままじゃ宝物あげられないよ～！
+いらない物は ポイしてきてね！","Ta-da! A Korok leaf!
+
+
+...Hey, your inventory is overflowing!
+You should toss any melee items you 
+don't need."
+69,Npc_HighMountain035_S02_100,"お兄ちゃん
+私達のお歌 ちゃんと聞きたい？",Did you want to hear our song?
+70,Npc_HighMountain035_S02_101,"わかった！
+練習続けるね～♪",OK. I'll keep practicing.

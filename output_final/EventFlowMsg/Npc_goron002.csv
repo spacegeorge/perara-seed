@@ -1,0 +1,105 @@
+#,Title,JPja,USen
+1,"""0001""",売りに来た,I'm here to sell.
+2,"""0002""",ここって？,What is this place?
+3,"""0003""",さようなら,Good-bye.
+4,"""0004""",買います,I want to buy.
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5502""",買う,I'll buy.
+8,"""5503""",やっぱりやめる,Never mind.
+9,"""5507""",ぜんぶ買う,I'll take 'em all!
+10,"""5508""",ぜんぶ売る,All of them.
+11,Com_Talk_00,とりあえず見せるゴロ,Lemme take a gander here...
+12,Com_Talk_01,"ゴロね
+ルピーになるけどいいゴロか？","Ah, so you want to sell that?
+That'll net ya... rupees."
+13,Com_Talk_02,"ありがとゴロ！
+他にも売ってくれるゴロ？","Thanks, brother! Is there anything else
+you wanna sell?"
+14,Com_Talk_02b,"取引成立…ゴロ！
+他にも売るゴロ？","That wraps up our little transaction!
+Anything else you wanna sell?"
+15,Com_Talk_02c,まいどーゴロ！ もっと売るゴロ？,"Thanks, brother! Did ya wanna sell
+anything else?"
+16,Com_Talk_02d,"オッケーゴロ！
+他のはどうするゴロ？","OK, OK! Anything else?"
+17,Com_Talk_04,あら残念ゴロ,"Ah, I see. That's too bad."
+18,Com_Talk_05,何でも買い取るゴロ！,"We'll take just about anything
+off your hands."
+19,Com_Talk_05b,じゃ売りたい物を見せてみるゴロ,"Go ahead and show me what
+you're offerin'."
+20,Com_Talk_05c,さぁさぁ選ぶゴロ！,"All right, go ahead and pick somethin'!"
+21,Com_Talk_05d,買い取り頑張らせていただくゴロ！,"All right! I'm ready to buy, buy, buy!"
+22,Com_Talk_09,"ポーチがいっぱいゴロよ？
+空きを作ってから また来るゴロ","Your pouch is full! Come back after
+you've freed up some space."
+23,Com_Talk_11,まいどゴロ！,"Thanks, brother!"
+24,Com_Talk_11b,ありがとーゴロ！,"Thank you, brother!"
+25,Com_Talk_11c,まいどご贔屓にー ゴロ！,"Thanks for your patronage, brother!"
+26,Com_Talk_11d,サンキュー ゴロー！,"Thanks, little man!"
+27,Com_Talk_13,"を売るゴロ？
+いくつゴロ？","So you wanna sell that?
+How many are ya lookin' to sell?"
+28,Com_Talk_14,"なら個で
+合計ルピーゴロ！ いいゴロ？","I'll pay  rupees.
+Do we have a deal?"
+29,Com_Talk_15,それはうちでは引き取れないゴロ…,"Oh... Sorry, we don't buy those here."
+30,Com_Talk_16,服は脱いでから売って欲しいゴロ,"Ya know, it'd help a lot if you weren't
+wearin' the clothes you wanna sell..."
+31,Com_Talk_33,"を 1つゴロね？
+それならルピーゴロ！","Just one? That'll net ya  rupees!
+Deal?"
+32,Com_Talk_34,"を全部ゴロ？
+だったら個でルピーになるゴロ","All of 'em? That'll be  rupees.
+Deal?"
+33,Com_Talk_35,"を個全部ゴロ？
+だったら合計ルピーで買い取るゴロ！","All of 'em? I can offer ya  rupees!
+Deal?"
+34,Com_Talk_50,"なら
+ルピーゴロ！ いいゴロ？","For that, how about  rupees?
+Good deal, yeah?"
+35,Com_Talk_51,"ゴロね？
+いくつゴロ？",How many?
+36,Com_Talk_52,"なら個で
+合計ルピーゴロ！ いいゴロ？","If ya want  of 'em, that'll cost ya
+ rupees. Sound good?"
+37,Com_Talk_53,あら残念ゴロ,"Oh. Well, that's too bad."
+38,Com_Talk_54,"ルピーが足りないゴロ
+もっと稼いでから また来るゴロ","You don't have enough rupees!
+Go earn some and come back!"
+39,Com_Talk_55,"ポーチがいっぱいゴロよ？
+空きを作ってから また来るゴロ","Your pouch is full! You should make
+some room and come back."
+40,Com_Talk_56,"を 1つゴロね？
+それならルピーゴロ！","Just one, eh? How about  rupees?"
+41,near00,なんでもあるゴロ～,We have it all here!
+42,talk00,"おはよゴロ～！
+よろず屋モリモリ屋は朝から開店してるゴロ～","Mornin'! The Goron Gusto Shop always
+opens early."
+43,talk01,"こんにちはゴロ～！
+こちらはよろず屋通称モリモリ屋ゴロ～","How's it goin'? This is the general
+store. Everyone here calls it the
+Goron Gusto Shop."
+44,talk02,"こんな夜分まで お疲れゴロ～！
+こちらはよろず屋通称モリモリ屋ゴロ～","Geez, you're up late, aren't ya?
+Welcome to the Goron Gusto Shop."
+45,talk04,"はいはいゴロ～
+どれを売ってくれるゴロ？",Sure thing! What do ya wanna sell?
+46,talk05,"日々の食事から護身用の道具まで
+忙しい毎日に潤いを！
+…が モットーの よろず屋ゴロ～！","Our motto is, \""From the kitchen to the
+battlefield, we've got the right tool for
+you to wield!\"""
+47,talk07,またね～！,Take care!
+48,talk08,"お？売り切れたゴロ？
+また入荷しとくゴロ！","Hm? We're all out?
+Well, I'll be sure to stock up!"
+49,talk09,"サンキューゴロ！
+おかげで在庫一掃できたゴロ！","Thanks, brother! Looks like you bought
+our last one!"
+50,talk10,"ありがとゴロ！ それ展示品限りだったから
+そのうち安くしようと思ってたとこゴロ！","Thanks, brother! Hope it serves you well!"
+51,talk11,"お買い上げ ありがとーゴロ！
+また仕入れとくゴロ！","Thanks for your purchase, brother!
+I'll be sure to stock up!"
+52,talk13,御用なら承るゴロ～！,Lemme know if ya need anything!

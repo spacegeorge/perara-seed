@@ -1,0 +1,91 @@
+#,Title,JPja,USen
+1,"""0000""",はい,Yes.
+2,"""0001""",いいえ,No.
+3,"""0003""",いいよ,"OK, sure."
+4,"""0004""",ダメです,No way.
+5,near00,うう…,Urgh...
+6,near01,ハァ…,*sigh*
+7,talk00,やあ おはよう…,Hey there. Mornin'...
+8,talk01,やあ こんにちは…,Hey there. Good day...
+9,talk02,やあ こんばんは…,Hey there. Good evenin'...
+10,talk03,"やぁ""雨だね…",Great... And now it's raining...
+11,talk06,ひょっとして キミも旅行かい？,So are you staying in Rito Village too?
+12,talk07,"そうなんだね！
+キミは リトの村のどこが好き？",I see. Nice to meet a fellow admirer.
+13,talk08,"え…""違うのかい？
+ま いいや","Oh... You're not?
+Well, never mind."
+14,talk09,"ボカぁこの村の素朴さが昔から好きなんだ
+
+でもハネムーンに ここを選んだのは
+失敗だったかも…
+ここって寒いし特に何も無いから
+妻が文句ばっかり言っててさ…","I always liked the simple nature of this
+village.
+
+Although, I'm starting to regret choosing
+it as my honeymoon destination...
+
+It's really cold here and there's not much
+to do, so my wife is complaining nonstop.
+She won't even talk to me right now."
+15,talk10,はい またね,"Sure, see you around."
+16,talk11,"やぁ""寒いのに元気だね～","Hey. You sure look energetic.
+Aren't you cold?"
+17,talk13,ふわぁぁ…やぁ…,"*yawn*
+Howdy."
+18,talk15,"折角のハネムーンなのに
+妻は文句タラタラなんだよ…","I'm here on my honeymoon. My wife is
+giving me the silent treatment. She hates
+it here."
+19,talk16,"あぁ～…
+このままだと離婚だよ…","Oh, man. If this doesn't work, she's
+going to divorce me for sure!"
+20,talk17,"この焦げた臭いは…
+キミ…火打ち石持ってるでしょ？","That unmistakable, slightly acrid scent...
+You have some flint on you, don't you?"
+21,talk18,"あ…ありがとう！
+じゃ これはお礼だよ","Th-thanks! As promised, here's your
+payment."
+22,talk19,"火打ち石売ってくれて ありがとう
+
+まだまだ焼きリンゴを作るから
+火打ち石 じゃんじゃん持って来てくれよ
+カノジョ…ボクが作る
+焼きリンゴが大好きなんだよね…
+だからなんとしてでも
+離婚だけは避けたいんだよ","Thanks for selling me some flint.
+
+
+I'll bake some more apples, so keep
+bringing me flint.
+
+She...has a weird obsession with
+baked apples.
+
+I fear that's the only thing keeping her
+from filing for divorce."
+23,talk20,それ1つボクに売ってくれないか？,Can you sell me a piece?
+24,talk21,それ5つボクに売ってくれないか？,Can you sell me five of those?
+25,talk22,それ10個ボクに売ってくれないか？,Can you sell me 10 of those?
+26,talk23,それ30個ボクに売ってくれないか？,Can you sell me 30 of those?
+27,talk24,それ50個ボクに売ってくれないか？,Can you sell me 50 of those?
+28,talk25,それ100個ボクに売ってくれないか？,Can you sell me 100 of those?
+29,talk26,"焼きリンゴまだまだ いっぱい作るから
+火打ち石を手に入れたら いつでも持って来て！","I still need to make more baked apples to
+keep my wife happy, so please bring me
+more flint!"
+30,talk27,"だから彼女の好きな焼きリンゴ作って
+汚名返上したいんだけど…
+火をおこすための火打ち石なんて
+持って来てないしなぁ…","I need to make some baked apples to
+keep my wife happy...
+
+But I don't have any flint to start a fire..."
+31,talk28,"よ…よし！
+これで焼きリンゴを作れるぞ","A-all right! Now I can make some
+baked apples."
+32,talk29,"まとめて持って来てくれたら
+お礼もはずむから…""頼んだよ","Bring me a few, and I'll reimburse you.
+Thanks, friend."
+33,talk30,うっ… うっ…,U-urgh...

@@ -1,0 +1,81 @@
+#,Title,JPja,USen
+1,After00,"女性しかいない ゲルドの街って
+どんなところだろうな？
+そこに行けば きっとオレも モテモテだぜ","Only women are allowed in Gerudo Town.
+What do you think they do all day
+in there?
+I betcha if I could get in somehow, I'd be
+a big hit. The only man in a whole city
+of ladies..."
+2,Atacked00,"うわぁ魔物だよ！
+なんとかしてくれぇ","Aaaaaah! Monsters! Somebody do
+something!"
+3,Atacked01,"くそっ ここまできて
+やられてたまるか…","I refuse to let those monsters kill me
+after coming all the way out here!"
+4,Failed00,"こんな広い砂漠の真ん中で 
+魔物に遭遇するって どんだけ運が悪いんだよ","Nothing but sand for miles in every
+direction, and I STILL manage to run
+into monsters? I have the worst luck."
+5,Failed01,"うぇええ…ぺっ！ ぺっ！
+口の中が砂でいっぱいだよ","Ptoo! Ptui! Ugh... I got sand in my
+mouth."
+6,GoodBye00,"オレたちは砂漠に浮かぶオアシス
+ゲルドの街を探しているんだぜ
+そこは女性ばかりの街で
+かわいらしい女が たくさんいるらしい
+そんなところに男気あふれる俺たちが行けば
+モテモテ間違いなしだぜ！
+…あ
+今 うらやましいと思ったな？
+キミみたいな きゃしゃな男は たぶんモテないぜ
+あきらめるんだな！","We're headed for Gerudo Town, a 
+shimmering oasis in the desert.Someone told us it's a whole city of
+foxy ladies. I bet they'll treat us two
+fine studs like kings!
+Say... You're not jealous of our plan,
+are you? Well, too bad! No copying our
+idea! We had it first!
+Besides, what woman would be
+interested in a skinny twig like you?"
+7,Guardian00,"早く逃げろ！
+ガーディアンが来るぞ！",Run! Quickly! There's a Guardian coming!
+8,Meeting00,"よし相棒！気を取り直して
+ゲルドの街に向かおうぜ！
+さあ街まで案内してくれ！","You OK, buddy? C'mon, there's no use
+crying over spilled milk. We're headed
+to Gerudo Town!
+I'll even let you lead the way!"
+9,Meeting02,ウソだろ…,You've gotta be kidding me...
+10,Near00,なんか迷ってない？,Are we lost?
+11,PairAtacked00,相棒が… まだ…,"I want to run, but I can't! Not while
+Jora still has a chance!"
+12,PairAtacked01,相棒を助けてやってくれ！,You gotta save my friend!
+13,PairFailed00,"相棒よ…
+おまえの分も オレが幸せになってやる","No! Not Jora! This is horrible... I guess
+I'll have to live enough for the both of
+us from now on."
+14,PairFailed01,オレだけでも逃げ延びてやる…,Maybe I can at least still save myself...
+15,SavedLv1_00,"いやー キミ強いんだねえ
+ほんの気持ちだけど受け取ってくれ","Yikes. That was close! Good thing you
+showed up. Um, is this enough to return
+the favor?"
+16,SavedLv1_01,"やるねえ キミ
+助かったよ
+ほんの気持ちだけど受け取ってくれ",Way to show those monsters who's boss!
+17,SavedLv2_00,"いやー キミ強いんだねえ
+ほんとに助かった
+お礼をさせてもらうよ","Wow. I wish I had moves like yours!
+Then maybe I wouldn't get in such
+trouble with monsters all the time..."
+18,SavedLv2_01,"キミのおかげで助かったよ
+ほんとに ありがとう
+お礼をさせてもらうよ","I'd be a goner right now without you
+stepping in. Thanks! I mean that!"
+19,SavedLv3_00,"キミは命の恩人だ！
+ぜひ お礼をさせてくれ！","I owe you my life! I can't thank you
+enough! This'll have to do..."
+20,SavedLv3_01,"いったいキミって何者なんだい？
+ぜひ これを受け取ってくれ！","How do you MOVE like that?! It was
+almost worth getting attacked to see it!
+Here, take this! You deserve it!"

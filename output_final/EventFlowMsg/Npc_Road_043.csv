@@ -1,0 +1,252 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ…""危なかった…","OK, that was enough mortal peril for
+one day."
+2,Atacked01,緊張感で おなか痛くなってきた…,"Close calls like this get my stomach all
+tied up in knots."
+3,Failed00,"あやうく魔物の餌食になるところだったよ！
+助けてくれてありがとう！","Those monsters were out for blood, and
+if not for you, it would have been mine.
+Thanks for the rescue!"
+4,Failed01,"あいたた…ゲルド族としてだらしなかったね…
+私は魔物は苦手なんだよ","Owww... A Gerudo ought to have known
+better than that. But I've never been
+my best around monsters."
+5,Guardian00,"早く逃げな！""ガーディアンが来るよ！","Don't think—just run! There's a Guardian
+on its way!"
+6,MSG_Akka_00,"ハーイ ぼうや！
+地図は持っているかい？
+旅をするなら目的地をしっかり決めて
+地図を頼りに移動することを ススメるよ
+私は素敵なパートナー探しの旅に出る！
+だからぼうやも がんばりな！","Hey, kid! Are you trying to get
+someplace? Do you have a map?If you do, then it's good to set a goal to
+reach and then check your map every
+so often to get your bearings.
+Take me, for instance—my goal is to find
+a fine, strapping voe! Best of luck with
+whatever your goal is, kid!"
+7,MSG_Akka_00_1,"旅をするなら目的地をしっかり決めて
+地図を頼りに移動することを ススメるよ","It's good to set a goal to reach and then
+check your map every so often to get
+your bearings."
+8,MSG_Akka_01,"私は南西のゲルド砂漠からアッカレ地方まで
+パートナー探しの旅をしている
+他の種族に出会えるのは とても刺激的で
+新しい考え方に触れることも多いよ
+ぼうやも世界を回って
+刺激的な出会いをたくさん経験しような！","I've traveled from the Gerudo Desert in 
+the southwest all the way here to Akkala
+on my journey to find a partner.
+The best parts of it have been getting to
+meet all the peoples of the world and
+hearing their thoughts and perspectives.
+That's my advice to you: don't be shy
+with the people you meet, no matter
+what they look like!"
+9,MSG_Akka_01_1,"私は南西のゲルド砂漠からアッカレ地方まで
+パートナー探しの旅を楽しんでる
+他の種族に出会えるのは とても刺激的で
+新しい考え方に触れることも多いよ","I've traveled from the Gerudo Desert in 
+the southwest all the way here to Akkala
+on my journey to find a partner.
+The best parts of it have been getting to
+meet all the peoples of the world and
+hearing their thoughts and perspectives."
+10,MSG_Akka_02,"旅の途中で聞いた話だが…
+ハイラル城の奥には珍しい矢があるらしい
+ぼうやが腕を磨いて もし城に向かう日が来たら
+珍しい矢のことを思い出しておくれ","Someone I met a while ago told me
+about a rare set of arrows deep inside
+Hyrule Castle.
+It might be something to remember
+if you ever find yourself exploring
+the place."
+11,MSG_Akka_02_1,"ぼうやが腕を磨いて もし城に向かう日が来たら
+城に珍しい矢が眠ることを思い出しておくれ","Remember to look for a rare set
+of arrows if you ever find yourself
+exploring the castle."
+12,MSG_Akka_03,"ぼうやは弓の腕はどうなんだい？
+
+弓矢で魔物を倒す時は基本は頭を狙うこと
+ガーディアンの場合は目を狙うといいぞ
+ふだんから練習をこなすことで…
+素敵な異性のハートを…
+いやいや魔物を射止めることができるぞ","You any good with a bow, kid?If you can hit a mark, then try aiming for
+heads with monsters and eyes with
+Guardians.
+Keep practicing your aim, and someday
+you might even pierce the heart of—
+monsters. I obviously meant monsters."
+13,MSG_Akka_03_1,"弓矢で魔物を倒す時は基本は頭を狙うこと
+ガーディアンの場合は目を狙うといいぞ","When using a bow, you want to aim for
+the head with monsters and the eyes
+with Guardians."
+14,MSG_Akka_04,"ハーイ ぼうや！
+ぼうやは巨大な敵に遭遇したことはあるかい？
+戦うのか！逃げるのか！
+判断に迷ったら武器の状態で決めるといい
+戦闘中に矢が尽きたり武器が壊れたりしたら…
+それはもう悲惨なことになるからな","Hey, kid! I'm sure you've fought your
+share of the riffraff, but have you ever
+run up against the really big ones?
+Stand and fight? Cut and run? It all
+depends on what condition your
+weapons are in, really.
+If your quiver runs dry and all your
+weapons break in the middle of a fight...
+Well, I hope you have a backup plan."
+15,MSG_Akka_04_1,"戦うのか！逃げるのか！
+判断に迷ったら武器の状態で決めるといい
+戦闘中に矢が尽きたり武器が壊れたりしたら…
+それはもう悲惨なことになるからな","Stand and fight? Cut and run? It all
+depends on what condition your
+weapons are in, really.
+If your quiver runs dry and all your
+weapons break in the middle of a fight...
+Well, I hope you have a backup plan."
+16,Near00,ハイリア人はいいね…,Hylians are good folk...
+17,Near01,ゴロン族はいいね…,Gorons are hardy folk...
+18,Near02,旅人はいいね…,Travelers are so curious.
+19,Near03,料理人はいいね…,Cooks are the best folk.
+20,Near04,雨かぁ…,I'll never get used to rain.
+21,Rest_00,"私は はるか南西のゲルド砂漠から
+ヴォーイハントの旅でやってきたんだ
+どうせなら よりどりみどりがいいと思って
+このアッカレ地方を選んだのさ","I came all the way out from the
+Gerudo Desert, far to the southwest,
+on my voe hunt.
+I figured the other vai will tire out and
+stick close to home. Out here in Akkala,
+the field should be wide open."
+22,Rest_01,"心は晴れてるから この雨のこと
+素敵な演出として受け入れられるよ","Everything is so different in the outside
+world. I hear your folk complain about
+the rain often, but I never get tired of it."
+23,Rest_02,"雨は熱くなりすぎた想いを冷ましてくれる
+私にはありがたい","The rain helps cool me off when I get
+too flushed from staring at voe."
+24,RetMSG_Akka_00,"ハーイ ぼうや！
+マモノ屋を知ってるかい？
+地図があるなら見てみたらいい
+ドクロに見える池が北の方にあるだろう？
+夜に その池に行けば
+マモノ屋と呼ばれる何者かに会えるらしい","Hey, kid! Ever hear of a thing called
+Fang and Bone?Check your map for a pond in the north
+that looks like a skull. If it's not on there
+yet, you'll know it when you see it.
+That pond at night is where you'll run
+into Fang and Bone, if you've got the
+stomach for it."
+25,RetMSG_Akka_00_1,"地図があるなら見てみたらいい
+ドクロに見える池が北の方にあるだろう？
+夜に その池に行けば
+マモノ屋と呼ばれる何者かに会えるらしい","Check your map for a pond in the north
+that looks like a skull. If it's not on there
+yet, you'll know it when you see it.
+That pond at night is where you'll run
+into Fang and Bone, if you've got the
+stomach for it."
+26,RetMSG_Akka_01,"ハーイ！ハイリア人のぼうや！
+
+他にも ゾーラ ゴロン ゲルド リト…
+アッカレには さまざまな種族との出会いがある
+ぼうやが大地の冒険家なら
+私は恋の冒険家と名乗ってみたい
+もちろん ぼうやは私には若すぎる
+そこについては安心なさいな","You there! Hylian kid! It's nice to meet
+you. Out here in Akkala, we have all
+sorts: Zora, Goron, Rito, you name it.
+Time was, we didn't mix much, but
+things change. And I'm glad they have!Some people travel the world for glory,
+for money, for thrills... But me, I do it
+for love.Easy there, though, kid. You're way too
+young for me."
+27,RetMSG_Akka_01_1,"ハイリア ゾーラ ゴロン ゲルド リト…
+アッカレには さまざまな種族との出会いがある
+ぼうやが大地の冒険家なら
+私は恋の冒険家と名乗ってみたい…","Out here in Akkala, we have all sorts:
+Zora, Goron, Rito, you name it.
+
+Some people travel the world for glory,
+for money, for thrills... But me, I do it
+for love."
+28,RetMSG_Akka_02,"ハーイ ぼうや！
+
+矢の種類と数ばかりじゃなくて
+弓の方も ときどきチェックしているかい？
+いざって時に バキッなんてことがないように
+なるべく丈夫な弓を蓄えておくように
+私の場合は恋の矢を撃つ弓が折れないように
+つまり心が折れないようにしてる…","Hey, kid! I'm sure you know by now that
+your quiver runs dry quick, but do you
+remember to keep an eye on your bow?
+It's best to keep a sturdy backup or two,
+just in case the one you're using snaps
+at the worst possible moment.
+I keep my most important weapon well-
+oiled and tightly strung. Otherwise, how
+will I ever pierce anyone's heart?"
+29,RetMSG_Akka_02_1,"いざって時に バキッなんてことがないように
+なるべく丈夫な弓を蓄えておくようにな","It's best to keep a sturdy backup bow or
+two, just in case the one you're using
+snaps at the worst possible moment."
+30,RetMSG_Akka_03,"ハーイ ぼうや！
+
+弓ばかり良いものを持っていても
+実際に敵に飛んでいくのは矢の方だからな？
+恋のチャンスと戦いのピンチは
+いつだって突然やってくるもの…
+いざというとき矢が無いなんてことのないよう
+本数は多めにあったほうがいいな","Hey, kid! Even the best bow is useless
+if your quiver runs dry, right? I mean,
+what else are you going to do with it?
+Life has a funny way of throwing you
+for a loop, and it's not always as nice
+as bumping into a cutie out of nowhere.
+Make sure you stock up on arrows before
+something bumps into you. Get me?"
+31,RetMSG_Akka_03_1,"恋のチャンスと戦いのピンチは
+いつだって突然やってくるもの…
+いざというとき矢が無いなんてことのないよう
+本数は多めにあったほうがいいな","Life has a funny way of throwing you
+for a loop, and it's not always as nice
+as bumping into a cutie out of nowhere.
+Make sure you stock up on arrows before
+something bumps into you. Get me?"
+32,RetMSG_Akka_04,"やあ ヴォーイ！
+
+ヴォーイというか
+私にとってはまだ ぼうやね
+この街道を行き来する ヴォーイたちは
+すべてが私の恋の的なのさ
+種族も年齢もさまざまで
+目移りがすごくて挙動不審な私ではあるが…","Hey, kid. Yeah, I know you're a voe, but you're
+still a kid to me.I size up every voe coming and going
+down the road for eligibility.They're different ages, sizes, sometimes
+even races, so it's hard to make a call.
+I probably look like a creep to them..."
+33,RetMSG_Akka_04_1,"この街道を行き来する ヴォーイたちは
+すべてが私の恋の的なのさ
+種族も年齢もさまざまで
+目移りがすごくて挙動不審な私ではあるが…","I size up every voe coming and going
+down the road for eligibility.They're different ages, sizes, sometimes
+even races, so it's hard to make a call.
+I probably look like a creep to them..."
+34,SavedLv1_00,"ぼうやのおかげで助かったよ！
+ありがとう！","Thanks for stepping in, kid. I owe you!"
+35,SavedLv1_01,"ぼうや意外と強いんだね！
+おかげで助かったよ！","I didn't think you had it in you, kid,
+but you surprised me. Thanks!"
+36,SavedLv2_00,"ぼうやに助けてもらっちゃったね！
+ほんとに！""助かったよ！","Good going, kid! I mean that!"
+37,SavedLv2_01,ぼうや！助けてくれてありがとう！,"Hey, kid! I like your style!"
+38,SavedLv3_00,ぼうやは命の恩人だよ！,"Whew. Kid, if I ever make it back to
+Gerudo Town, the first glass of
+Noble Pursuit is on me."
+39,SavedLv3_01,ぼうやには頭が上がらないよ！,"Next to you, kid, I might as well be a
+sand-seal pup!"
+40,Talk04,サヴォッタ！,Sav'otta!
+41,Talk05,サヴァーク！,Sav'aaq!
+42,Talk06,サヴァサーバ！,Sav'saaba!
+43,Thanks00,これは感謝の気持ちだよ！,"I owe you big-time, and I always repay
+my debts!"

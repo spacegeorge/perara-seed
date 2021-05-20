@@ -1,0 +1,110 @@
+#,Title,JPja,USen
+1,"""0000""",この像は？,What's this statue?
+2,"""0001""",またね,See ya.
+3,"""0002""",そうです,That's right.
+4,"""0003""",違います,No.
+5,"""0004""",気になる,"Yes, I'm curious."
+6,LookPicture,"ふゃっ？！
+
+ああっ…変な声が…
+
+し失礼しました…大丈夫です…
+これがライネル…なんとも恐ろしい…
+これを見たら雷獣山に行こうだなんて
+無謀な考えは起きませんね","WAAAH?!
+
+
+*ahem* My apologies... That sound was
+not very dignified, was it?
+
+P-pardon me... I'm all better now.
+That Lynel... How terrifying!
+
+One look at this, and I doubt anyone
+would get any reckless ideas about
+visiting Ploymus Mountain!"
+7,near00,さて…,Now then...
+8,near01,次は っと…,What's next...
+9,near02,損傷具合は…,The damage is minimal...
+10,talk00,あなたは…ハイリア人ですか？,Are you...a Hylian?
+11,talk01,"ライネルの恐ろしさは
+私から伝えていきましょう
+これで無謀なゾーラの若者が
+減ればいいのですが…","Ah! Then allow me to illuminate you...
+on the fearsome beast called Lynel.
+
+It would be nice if seeing it discouraged
+reckless young Zora from venturing near.
+But I suppose that's wishful thinking..."
+12,talk02,"リンクさん！
+ルッタを鎮めたんですって？
+これでゾーラの里は救われました
+ミファー様の魂も浮かばれましょう…","Link! I hear you appeased Ruta?
+
+
+Zora's Domain is saved! Now Lady Mipha
+can rest in peace."
+13,talk03,私達は ミファー様の魂と共に…,"All of us, as well as Lady Mipha..."
+14,talk04,感謝していますリンクさん,"We're all so grateful to you, Link."
+15,talk05,"あなたがシド王子が連れてきたという
+ハイリア人ですか？","Are you the Hylian that Prince Sidon
+brought here?"
+16,talk06,…おはようございます,Good morning...
+17,talk09,"リンクさん雨が止みましたね…
+
+という事は…ルッタの動きが
+止まったという事でしょうか？","Link! The rain has stopped...
+
+
+Does this mean...that Ruta has stopped
+as well?"
+18,talk10,…こんにちは,Hello...
+19,talk11,…こんばんは,Good evening...
+20,talk12,…はい,Yes?
+21,talk13,また分かりやすい嘘を…,An obvious lie...
+22,talk14,"申し遅れました私はフララット
+王室直属の書記官をしております
+…","Oh, where are my manners? I am Laflat.
+I am the chief secretary for the
+royal family.
+..."
+23,talk15,このミファー様の像が気になりますか？,"Are you curious about this statue of
+Lady Mipha?"
+24,talk16,それでは…,Well then...
+25,talk17,どうかしましたか？,Is something amiss?
+26,talk18,"それでは僭越ながら…
+説明させていただきますね
+この像は かつてのゾーラの英傑
+ミファー様の像に ございます
+とても お美しく お優しい方だったとか…
+
+その お手で里の戦士達の傷を癒やした
+と聞きます","If you do not mind...please allow me
+to explain.
+
+This is a statue of the former
+Zora Champion. Her name was
+Lady Mipha.
+She was as kind as she was beautiful...
+
+
+They say her ability to heal wounded
+soldiers was beyond compare."
+27,talk19,"そんな戦士達も
+今や腰の曲がった お爺様達ばかり
+なので この里のお年寄りは
+皆 ミファー様を慕っています
+詳しい事は その者達に聞くとよいでしょう","Those soldiers she healed...they are old
+and decrepit now. But they remember.
+
+For this reason, the elders of the domain
+all love Lady Mipha dearly.
+
+If you would like to know more, I suggest
+you try talking to one of them."
+28,talk23,"…ごめんなさい
+今 ちょっと考え事をしていて…
+雷獣山の…ぶつぶつ…","Sorry... I'm in the middle of thinking
+about something.
+
+It's on Ploymus Mountain... *mumble mumble*"

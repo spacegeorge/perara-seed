@@ -1,0 +1,181 @@
+#,Title,JPja,USen
+1,"""0000""",する！,I'll do it!
+2,"""0001""",コログしれんって？,Korok Trials?
+3,"""0002""",今はちょっと…,Maybe later...
+4,Npc_Kokiri008_F_Near000,すごいじゃも～,Amazing!
+5,Npc_Kokiri008_F_Talk000,"なんと！すべてのしれん
+終わらせたじゃも？
+ひゅーひゅー！すごいじゃも～！
+かっこいいじゃも～！","What?! You've finished all of the trials?
+
+
+*whistle*
+That's amazing! You're so cool!"
+6,Npc_Kokiri008_F_Talk010,"オヌシがマスターソードを抜くのも
+時間の問題じゃも
+抜く姿を はよ見せろじゃも！","Now it's only a matter of time before
+you're able to pull out the Master Sword.
+
+Hurry up and show us what you've got!"
+7,Npc_Kokiri008_F_Talk020,"あっ！
+ちょっとその顔！
+全部めぐってきたから
+なんかくれってことじゃも？","Ah! I know that look.
+
+
+You want me to give you something since
+you visited all the places, don't you?"
+8,Npc_Kokiri008_F_Talk030,"…しょーがないじゃも～
+とっておきをやるじゃも！","...I guess I have no choice.
+I'll give you my treasured item."
+9,Npc_Kokiri008_F_Talk040,"…ムム オヌシ
+大マックストリュフ""持ちすぎじゃも！
+ご褒美に大マックストリュフを
+あげようと思っていたんじゃが…
+ぎゅうぎゅうづめに ポーチへ入れるのは
+大マックストリュフに失礼じゃも大マックストリュフが減ったら
+声をかけてくれじゃも","...Hnngh!
+You have too many big hearty truffles!
+
+I wanted to give you a few
+big hearty truffles as a reward, but...
+
+It would be rude to the big hearty truffle
+to jam it into your pouch so
+unceremoniously...Come back and see me when your
+big hearty truffle supply runs out!"
+10,Npc_Kokiri008_F_Talk060,"その大マックストリュフを
+加えた料理を食べれば…
+滋養強壮効果テキメン！
+いつも以上に体力をつけられるじゃも！
+これはウソじゃないじゃも！
+ウソだと思ったら試してみるじゃも！","Try eating a dish cooked with that
+big hearty truffle...
+
+It'll soothe all of your aches and pains
+and then some!
+
+I'm not pulling your branch here!
+Just try it for yourself!"
+11,Npc_Kokiri008_R_Near000,しれんをやれじゃも～,Complete the trials!
+12,Npc_Kokiri008_R_Talk000,"ハイラルのゆうしゃサマである オヌシに
+みんなでしれんを用意したじゃも！
+マスターソードを抜いたオヌシには
+いらんかもしれんが…
+今より もっともっと強くなれる
+しれんを みんなで用意したじゃも！
+そんな中でも このコログの森の長老である
+わしのとっておき…
+コログしれんに挑戦するじゃも？","Us Koroks all got together and prepared
+some trials just for you, Mr. Hero!
+
+Although you may not need them, since
+you already pulled the Master Sword out
+and all...
+But these trials will help you grow even
+stronger than you are now!
+
+Among them is an extra-tough one
+designed by me, the elder of
+Korok Forest.
+So will you test your mettle in the 
+Korok Trials?"
+13,Npc_Kokiri008_R_Talk010,"ハイラルのゆうしゃサマである オヌシに
+みんなでしれんを用意したじゃも！
+わしらが用意した きびし～～～～い
+しれんを乗り越えれば…
+マスターソードなんて ちょちょいのちょいで
+引き抜けるようになる …かもしれんじゃも！
+そして このコログの森の長老である
+わしからは とっておきのしれんを出すじゃも！
+その名もコログしれん！
+どうじゃも？挑戦するじゃも？","Us Koroks all got together and prepared
+some trials just for you, Mr. Hero!
+
+If you pass the veeeery tough trials
+we've prepared...pulling out the
+Master Sword will be a piece of cake!
+...Probably!
+
+
+Among the trials is an extra-tough one
+designed by me, the elder of
+Korok Forest.
+So will you test your mettle in the
+Korok Trials?"
+14,Npc_Kokiri008_R_Talk020,"どんなものかも聞かずにやるとは
+オヌシ いつかダマされるじゃも…
+気を取り直して…
+コログしれんとは！
+コログの森に眠る祠をめぐれば
+イチニンマエになるという修行じゃも！","Ya know, if you keep doing everything
+everyone asks of you without question,
+you're gonna get conned eventually...
+Anyway, where was I?
+Oh, yeah! The Korok Trials!
+
+Long story short—you need to visit all
+the shrines in the Korok Forest so that
+you can be considered a real grown-up!"
+15,Npc_Kokiri008_R_Talk030,"やすうけあいしないオヌシ…
+用心深いじゃも！
+コログしれんとは！コログの森に眠る祠をめぐれば
+イチニンマエになるという修行じゃも！
+デンセツのゆうしゃサマに ならって
+コログのみんなもやる儀式じゃも
+ワシもボックリンも アイツも コイツも
+デクの樹サマも やったんじゃも！
+…後半ウソじゃも","Ah, you need to think about it first...
+Wise boy...
+
+The Korok Trials!Long story short—you need to visit all
+the shrines in the Korok Forest so that
+you can be considered a real grown-up!
+It's a ceremony that every Korok must
+undertake, and it's based on the trials of
+the legendary hero himself!
+I've done it...and so has Hestu...and him
+over there, and her too, and even the
+Great Deku Tree himself has done it!
+OK...that last part was a lie.
+He's pretty rooted."
+16,Npc_Kokiri008_R_Talk040,"しないのじゃも？！なんでじゃも？
+もったいないじゃも！
+今なら ボックリンの踊り練習失敗エピソードを
+こっそり教えてやるじゃも！
+興味なしな顔じゃも…
+諦めるじゃも…","You don't want to do it?! Well, why not?!
+Don't let this opportunity go to waste!
+
+If you do it, I'll tell you all about the time
+Hestu fell flat on his face while dancing!
+Even though I promised I wouldn't!
+You don't seem interested...
+*sigh* I give up..."
+17,Npc_Kokiri008_R_Talk500,ひとーーーーつ！,Trial one!
+18,Npc_Kokiri008_R_Talk510,南西にある『操りの力のしれん』！,"In the southwest forest:
+Trial of Second Sight!"
+19,Npc_Kokiri008_R_Talk520,ふたーーーーーつ！,Trial two!
+20,Npc_Kokiri008_R_Talk530,北西にある『はじめてのしれん』！,"In the northwest forest:
+The Lost Pilgrimage!"
+21,Npc_Kokiri008_R_Talk540,みーーーーーーっつ！,Trial three!
+22,Npc_Kokiri008_R_Talk550,東にある『燃えずのしれん』！,"In the eastern forest:
+The Test of Wood!"
+23,Npc_Kokiri008_R_Talk560,"全ての しれんを制覇し
+立派な勇者を目指すじゃも！
+ついでに豪華賞品も用意してるじゃも！欲にまみれてもよし！
+使命に燃えてもよしじゃも！","If you can overcome the Korok Trials,
+you can overcome anything!
+
+We've also prepared some wonderful
+prizes for you!Now show us what you're made of!"
+24,Npc_Kokiri008_R_Talk570,"よし がんばれじゃ…も……？もう すべてのしれんを
+終えているじゃも？！
+ひゅーひゅー！すごいじゃも～！
+かっこいいじゃも～！","All right, do your be—st...You've already completed all of the
+trials?!
+
+*whistle* 
+That's amazing! You're so cool!"
+25,Npc_Kokiri008_R_Talk580,で するじゃも？,Well? Will you do it?
+26,Npc_Kokiri008_R_Talk590,よし がんばれじゃも！,All right! Do your best!

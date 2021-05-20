@@ -1,0 +1,598 @@
+#,Title,JPja,USen
+1,Item_Cook_A_01_BaseName,串焼きキノコ,Mushroom Skewer
+2,Item_Cook_A_01_Desc,"キノコの風味が香るシンプルな串焼き
+カラフルな見た目が食欲をそそる","This simple mushroom-packed skewer has its
+colorful presentation to thank for its appeal."
+3,Item_Cook_A_01_Name,串焼きキノコ,Mushroom Skewer
+4,Item_Cook_A_02_BaseName,包み焼きキノコ,Steamed Mushrooms
+5,Item_Cook_A_02_Desc,"香りの良い山菜でキノコを包んで焼き上げた
+ヘルシーな野菜料理","A healthy vegetable dish achieved by
+steaming mushrooms in plant leaves."
+6,Item_Cook_A_02_Name,包み焼きキノコ,Steamed Mushrooms
+7,Item_Cook_A_03_BaseName,蒸し焼き果実,Steamed Fruit
+8,Item_Cook_A_03_Desc,"完全に熟す前のフルーツを
+香りの高い山菜で包んで蒸し焼きにした郷土料理","A regional dish made by steaming near-
+ripened fruits in the leaves of fragrant plants."
+9,Item_Cook_A_03_Name,蒸し焼き果実,Steamed Fruit
+10,Item_Cook_A_04_BaseName,包み焼き魚,Steamed Fish
+11,Item_Cook_A_04_Desc,"新鮮な魚を香りの強い野草で包み
+じっくり焼き上げた手の込んだ料理","A refined dish made by wrapping a fresh fish
+in fragrant wild greens and cooking it."
+12,Item_Cook_A_04_Name,包み焼き魚,Steamed Fish
+13,Item_Cook_A_05_BaseName,包み焼き肉,Steamed Meat
+14,Item_Cook_A_05_Desc,"肉のうまみを逃がさないよう
+香りの良い山菜で包んで焼き上げた蒸し焼き","This meat dish has been wrapped in fragrant
+leaves and steamed to preserve its moisture."
+15,Item_Cook_A_05_Name,包み焼き肉,Steamed Meat
+16,Item_Cook_A_07_BaseName,果実のキノコあえ,Fruit and Mushroom Mix
+17,Item_Cook_A_07_Desc,"焼くことで果実の甘みが凝縮され
+独特の食感まで生まれたアイデア料理","This dish contrasts the sweetness of fruit with
+the savoriness of mushrooms."
+18,Item_Cook_A_07_Name,果実のキノコあえ,Fruit and Mushroom Mix
+19,Item_Cook_A_08_BaseName,串焼き魚キノコ添え,Fish and Mushroom Skewer
+20,Item_Cook_A_08_Desc,"新鮮な魚の串焼きに香りの高いキノコを添えた
+シンプルながら味わい深い料理","A simple dish made by cooking skewered,
+fresh fish alongside fragrant mushrooms."
+21,Item_Cook_A_08_Name,串焼き魚キノコ添え,Fish and Mushroom Skewer
+22,Item_Cook_A_09_BaseName,串焼き肉キノコ添え,Meat and Mushroom Skewer
+23,Item_Cook_A_09_Desc,"新鮮な肉をメインに山の恵みをふんだんに使った
+ボリューム満点の串焼き料理","A filling dish made by grilling various
+mountain ingredients with meat."
+24,Item_Cook_A_09_Name,串焼き肉キノコ添え,Meat and Mushroom Skewer
+25,Item_Cook_A_10_BaseName,たまご焼き,Omelet
+26,Item_Cook_A_10_Desc,"新鮮なたまごをふっくらと焼き上げた
+朝食にぴったりな定番たまご料理","This simple dish is common all over Hyrule.
+Simply fry egg until it's nice and plump."
+27,Item_Cook_A_10_Name,たまご焼き,Omelet
+28,Item_Cook_A_11_BaseName,甘露煮キノコ,Glazed Mushrooms
+29,Item_Cook_A_11_Desc,"ハチミツを加えて甘辛く煮込んだキノコ料理
+濃厚で奥深い味わい","The honey in this mushroom dish gives it a
+sweet, complex taste and a savory finish."
+30,Item_Cook_A_11_Name,甘露煮キノコ,Glazed Mushrooms
+31,Item_Cook_A_12_BaseName,甘露煮肉,Glazed Meat
+32,Item_Cook_A_12_Desc,"ハチミツの甘さが肉にしみこんで
+ただ焼くだけでは味わえない深い味わい","The sweetness of the honey permeates the
+meat, giving it a complex taste profile."
+33,Item_Cook_A_12_Name,甘露煮肉,Glazed Meat
+34,Item_Cook_A_13_BaseName,甘露煮魚,Glazed Seafood
+35,Item_Cook_A_13_Desc,"ハチミツで煮込んだ甘辛い魚料理
+柔らかくなった骨まで食べられる","A seafood dish that you can actually
+wolf down whole!"
+36,Item_Cook_A_13_Name,甘露煮魚,Glazed Seafood
+37,Item_Cook_A_14_BaseName,甘露煮野菜,Glazed Veggies
+38,Item_Cook_A_14_Desc,"ハチミツを使って野菜を甘辛く煮込んだ料理
+生では食べにくい野菜もおいしくいただける","Don't like the taste of vegetables? Simply
+sauté them in honey for a salty-sweet flavor!"
+39,Item_Cook_A_14_Name,甘露煮野菜,Glazed Veggies
+40,Item_Cook_B_01_BaseName,焼き山菜,Fried Wild Greens
+41,Item_Cook_B_01_Desc,"一番簡単な野菜料理
+フレッシュな野草を さっと炒めた一品","A basic vegetable dish made by sautéing
+fresh wild plants."
+42,Item_Cook_B_01_Name,焼き山菜,Fried Wild Greens
+43,Item_Cook_B_02_BaseName,煮込み果実,Simmered Fruit
+44,Item_Cook_B_02_Desc,"そのまま食べてもおいしいフルーツを
+山盛り入れて煮込んだ甘酸っぱい料理","This sweet dish is made by heaping tasty
+fruits into a pan and simmering until tender."
+45,Item_Cook_B_02_Name,煮込み果実,Simmered Fruit
+46,Item_Cook_B_05_BaseName,串焼き魚,Fish Skewer
+47,Item_Cook_B_05_Desc,"採れたての魚を串に刺して焼き上げた
+シンプルながらもっとも魚の味を楽しめる料理","A simple dish made by cooking chunks of
+fresh fish on a skewer."
+48,Item_Cook_B_05_Name,串焼き魚,Fish Skewer
+49,Item_Cook_B_06_BaseName,串焼き肉,Meat Skewer
+50,Item_Cook_B_06_Desc,"大自然の恵み ケモノ肉を
+豪快に焼き上げたジューシーな串焼き","A juicy, filling snack made by grilling small
+chunks of meat on a skewer."
+51,Item_Cook_B_06_Name,串焼き肉,Meat Skewer
+52,Item_Cook_B_11_BaseName,山盛焼き山菜,Copious Fried Wild Greens
+53,Item_Cook_B_11_Desc,"体に良い山菜をたくさん使い
+強火で焼き上げた体にとても良い料理","A healthy dish made by cooking mixed 
+greens over a strong flame."
+54,Item_Cook_B_11_Name,山盛焼き山菜,Copious Fried Wild Greens
+55,Item_Cook_B_12_BaseName,山盛煮込み果実,Copious Simmered Fruit
+56,Item_Cook_B_12_Desc,"様々な味のフルーツをコトコト煮込んで
+甘みが凝縮された贅沢な料理","The flavors of the various fruits in this
+simmered dish exist in perfect harmony."
+57,Item_Cook_B_12_Name,山盛煮込み果実,Copious Simmered Fruit
+58,Item_Cook_B_13_BaseName,山盛焼きキノコ,Copious Mushroom Skewers
+59,Item_Cook_B_13_Desc,"キノコ好きが最後に行き着くという
+シンプルな串焼きキノコ けっこうお腹がふくれる","Fans of fungal cuisine can't resist this simple
+mushroom-skewer dish. Very filling."
+60,Item_Cook_B_13_Name,山盛焼きキノコ,Copious Mushroom Skewers
+61,Item_Cook_B_15_BaseName,山盛串焼き魚,Copious Seafood Skewers
+62,Item_Cook_B_15_Desc,"色々な種類の魚を ふんだんに使った串焼き
+焼魚好きには たまらない逸品","It's just a whole heap of stuff shoved on to a
+skewer, but it's still a pretty tasty dish."
+63,Item_Cook_B_15_Name,山盛串焼き魚,Copious Seafood Skewers
+64,Item_Cook_B_16_BaseName,山盛串焼き肉,Copious Meat Skewers
+65,Item_Cook_B_16_Desc,"異なる種類の肉を使った贅沢な串焼き
+焼き肉好きならば一度は食べてみたい料理","Just shove a bunch of meat on to a skewer
+and you're good to go."
+66,Item_Cook_B_16_Name,山盛串焼き肉,Copious Meat Skewers
+67,Item_Cook_B_17_BaseName,山海焼き,Meat and Seafood Fry
+68,Item_Cook_B_17_Desc,"新鮮な肉や魚をこんがりと焼き上げた
+ボリューム満点の料理","A filling dish made by cooking fresh seafood
+and meat together."
+69,Item_Cook_B_17_Name,山海焼き,Meat and Seafood Fry
+70,Item_Cook_B_18_BaseName,上山海焼き,Prime Meat and Seafood Fry
+71,Item_Cook_B_18_Desc,"上質な肉と魚を組み合わせた焼きもの
+ただの山海焼きより上品で深い味わい","This comfort dish is made with choice cuts
+of meat and seafood."
+72,Item_Cook_B_18_Name,上山海焼き,Prime Meat and Seafood Fry
+73,Item_Cook_B_19_BaseName,極上山海焼き,Gourmet Meat and Seafood Fry
+74,Item_Cook_B_19_Desc,"最上級の肉と新鮮な魚を一緒に焼き上げた料理
+味も食べごたえも まさに極上なひと品","A marriage of the choicest cuts of meat and
+seafood. As delicious as it is filling!"
+75,Item_Cook_B_19_Name,極上山海焼き,Gourmet Meat and Seafood Fry
+76,Item_Cook_B_20_BaseName,肉詰めカボチャ,Meat-Stuffed Pumpkin
+77,Item_Cook_B_20_Desc,"ヨロイカボチャをくり抜いて肉を詰めた料理
+カカリコ村の代表的な郷土料理のひとつ","This hollow, meat-filled fortified pumpkin is a
+local specialty of Kakariko Village."
+78,Item_Cook_B_20_Name,肉詰めカボチャ,Meat-Stuffed Pumpkin
+79,Item_Cook_B_21_BaseName,炒めポカポカ,Sautéed Peppers
+80,Item_Cook_B_21_Desc,"ポカポカ草の実だけで作った珍しい炒め物
+辛さの中に かすかなうまみを感じる","The spiciness of these sautéed peppers has
+been broken by the heat for a sweeter taste."
+81,Item_Cook_B_21_Name,炒めポカポカ,Sautéed Peppers
+82,Item_Cook_B_22_BaseName,ナッツ炒め,Sautéed Nuts
+83,Item_Cook_B_22_Desc,"森の木の実を香ばしく炒めた かんたん料理
+栄養満点で小腹が空いた時にぴったりのおやつ","These sautéed tree seeds are the perfect
+snack for the busy adventurer on the go!"
+84,Item_Cook_B_22_Name,ナッツ炒め,Sautéed Nuts
+85,Item_Cook_B_23_BaseName,魚貝串焼き,Seafood Skewer
+86,Item_Cook_B_23_Desc,"魚や貝などの素材を組み合わせた串焼き
+魚介の旨味が堪能できる料理","The natural water in this medley of seafaring
+creatures makes for a delicious broth."
+87,Item_Cook_B_23_Name,魚貝串焼き,Seafood Skewer
+88,Item_Cook_C_16_BaseName,妖精の力水,Fairy Tonic
+89,Item_Cook_C_16_Desc,"妖精の不思議な力が詰まった強力な回復薬
+ふんわりと甘い香りがする","This powerful recovery elixir harnesses the
+power of fairies. It has a sweet fragrance."
+90,Item_Cook_C_16_Name,妖精の力水,Fairy Tonic
+91,Item_Cook_C_17_00_BaseName,薬 x,Elixir x
+92,Item_Cook_C_17_00_Desc,,
+93,Item_Cook_C_17_00_Name,薬 x,Elixir x
+94,Item_Cook_C_17_BaseName,薬,Elixir
+95,Item_Cook_C_17_Desc,,
+96,Item_Cook_C_17_Name,薬,Elixir
+97,Item_Cook_D_01_BaseName,塩焼きキノコ,Salt-Grilled Mushrooms
+98,Item_Cook_D_01_Desc,"キノコに軽く岩塩をまぶして焼いた
+もっともシンプルな料理","A basic mushroom dish made by lightly
+salting mushrooms and grilling them."
+99,Item_Cook_D_01_Name,塩焼きキノコ,Salt-Grilled Mushrooms
+100,Item_Cook_D_02_BaseName,塩焼き山菜,Salt-Grilled Greens
+101,Item_Cook_D_02_Desc,"植物や野菜だけで作った
+とっても体によい料理","A health-boosting dish made with leafy
+greens and a touch of salt."
+102,Item_Cook_D_02_Name,塩焼き山菜,Salt-Grilled Greens
+103,Item_Cook_D_03_BaseName,塩焼き魚,Salt-Grilled Fish
+104,Item_Cook_D_03_Desc,"天然の岩塩をまぶして焼き上げた
+シンプルな魚料理 ただ焼いただけで十分おいしい","A simple dish made by rolling a whole fish in
+natural rock salt before grilling it."
+105,Item_Cook_D_03_Name,塩焼き魚,Salt-Grilled Fish
+106,Item_Cook_D_04_BaseName,岩塩焼き肉,Salt-Grilled Meat
+107,Item_Cook_D_04_Desc,"分厚い肉に天然の岩塩をまぶして焼き上げた
+シンプルだからこそ際立つ素材のおいしさ","Short on ingredients? Just rub some meat in
+salt and cook it for a simple, tasty dish."
+108,Item_Cook_D_04_Name,岩塩焼き肉,Salt-Grilled Meat
+109,Item_Cook_D_05_BaseName,上岩塩焼き肉,Salt-Grilled Prime Meat
+110,Item_Cook_D_05_Desc,"上質な肉を岩塩の上で焼き上げた
+シンプルながら贅沢な焼き肉","A simple yet exquisite dish made by grilling
+high-quality meat on top of rock salt."
+111,Item_Cook_D_05_Name,上岩塩焼き肉,Salt-Grilled Prime Meat
+112,Item_Cook_D_06_BaseName,極上岩塩焼き肉,Salt-Grilled Gourmet Meat
+113,Item_Cook_D_06_Desc,"貴重な極上肉を使った最高級焼き肉
+素材の味を活かすために岩塩だけで味付している","This lavish grilled dish makes liberal use of
+high-quality cuts of meat."
+114,Item_Cook_D_06_Name,極上岩塩焼き肉,Salt-Grilled Gourmet Meat
+115,Item_Cook_D_07_BaseName,スパイシー焼き肉,Pepper Steak
+116,Item_Cook_D_07_Desc,"ポカポカ草の実をすり込んで焼くことで
+肉の臭みを消してうま味を引き出した肉料理","The meat has been cooked in crushed
+peppers to accent its natural taste."
+117,Item_Cook_D_07_Name,スパイシー焼き肉,Pepper Steak
+118,Item_Cook_D_08_BaseName,スパイシー焼き魚,Pepper Seafood
+119,Item_Cook_D_08_Desc,"ポカポカ草の実を使って魚の臭みを消しつつ
+香ばしさを際立たせた焼き料理","The pepper seeds grilled with this seafood
+draw out its taste and pleasant aroma."
+120,Item_Cook_D_08_Name,スパイシー焼き魚,Pepper Seafood
+121,Item_Cook_D_09_BaseName,岩塩焼きガニ,Salt-Grilled Crab
+122,Item_Cook_D_09_Desc,"カニを食べ慣れた漁師が一番おいしいと言うのが
+このシンプルな食べ方 ホクホクの身がたまらない","Nine out of ten fishermen agree: crab is best
+enjoyed grilled and with just a bit of salt."
+123,Item_Cook_D_09_Name,岩塩焼きガニ,Salt-Grilled Crab
+124,Item_Cook_D_10_BaseName,炒めガニ,Crab Stir-Fry
+125,Item_Cook_D_10_Desc,"ゴロンの香辛粉を効かせたカニの炒め物
+スパイシーな味付けは カニの身と相性抜群","The Goron spice used in preparing this crab
+pairs perfectly with the flavor of its meat."
+126,Item_Cook_D_10_Name,炒めガニ,Crab Stir-Fry
+127,Item_Cook_E_01_BaseName,チキンピラフ,Poultry Pilaf
+128,Item_Cook_E_01_Desc,"炒めたハイラル米を トリ肉のダシ汁で炊いた料理
+弱火でじっくり火が通され ふっくらした仕上がり","Sautéed Hylian rice steamed in poultry
+broth. Cook on low heat until the rice is fluffy."
+129,Item_Cook_E_01_Name,チキンピラフ,Poultry Pilaf
+130,Item_Cook_E_02_BaseName,上チキンピラフ,Prime Poultry Pilaf
+131,Item_Cook_E_02_Desc,"ゲルド地方で好んで作られる米料理
+上質なトリ肉の旨味が米によく染みている","The rice permeates the savory taste of the
+poultry in this Gerudo-region favorite."
+132,Item_Cook_E_02_Name,上チキンピラフ,Prime Poultry Pilaf
+133,Item_Cook_E_03_BaseName,極上チキンピラフ,Gourmet Poultry Pilaf
+134,Item_Cook_E_03_Desc,"極上のトリ肉を贅沢に盛り付けたピラフ
+噛むごとに深い味わいが口の中に広がる逸品","Made with the highest-quality poultry, every
+bite of this pilaf floods your mouth with flavor."
+135,Item_Cook_E_03_Name,極上チキンピラフ,Gourmet Poultry Pilaf
+136,Item_Cook_E_04_BaseName,目玉焼きライス,Fried Egg and Rice
+137,Item_Cook_E_04_Desc,"目玉焼きのとろりとした黄身が炊き立てのご飯に
+とても良く合う シンプルだが奥の深い料理","The soft egg yolk pairs well with the fresh
+rice in this simple dish."
+138,Item_Cook_E_04_Name,目玉焼きライス,Fried Egg and Rice
+139,Item_Cook_F_01_BaseName,肉入りミルクスープ,Creamy Meat Soup
+140,Item_Cook_F_01_Desc,"軽く炙った肉を豪快に入れたミルクスープ
+野菜もたっぷりで栄養満点のひと品","This nutritious soup contains serious portions
+of lightly-braised meat and many vegetables."
+141,Item_Cook_F_01_Name,肉入りミルクスープ,Creamy Meat Soup
+142,Item_Cook_F_02_BaseName,魚入りミルクスープ,Creamy Seafood Soup
+143,Item_Cook_F_02_Desc,"ぶつ切りにした魚の身を入れたミルクスープ
+ダシが効いて旨味が深くなっている","Thick-cut chunks of seafood and stock
+provides a satisfying savoriness."
+144,Item_Cook_F_02_Name,魚入りミルクスープ,Creamy Seafood Soup
+145,Item_Cook_F_03_BaseName,野菜クリームスープ,Veggie Cream Soup
+146,Item_Cook_F_03_Desc,"野菜の甘みを味わえるクリーミーなスープ
+じっくり煮込んであり味わいのあるひと皿","This creamy soup showcases the sweetness
+of vegetables in a veritable taste explosion."
+147,Item_Cook_F_03_Name,野菜クリームスープ,Veggie Cream Soup
+148,Item_Cook_F_04_BaseName,ハートミルクスープ,Creamy Heart Soup
+149,Item_Cook_F_04_Desc,"フルーツの甘さたっぷりのスープ二人で一緒に
+食べると仲が良くなるというジンクスがある","Enjoying this sweet soup with another person
+will bring you both closer together."
+150,Item_Cook_F_04_Name,ハートミルクスープ,Creamy Heart Soup
+151,Item_Cook_G_02_BaseName,海鮮おにぎり,Seafood Rice Balls
+152,Item_Cook_G_02_Desc,"香ばしく焼いた魚を詰めた おにぎり
+中に入れる魚によって違った味が楽しめる","Stuffed with aromatic seafood, the flavor can
+vary by ingredients but never disappoints."
+153,Item_Cook_G_02_Name,海鮮おにぎり,Seafood Rice Balls
+154,Item_Cook_G_03_BaseName,山菜おにぎり,Veggie Rice Balls
+155,Item_Cook_G_03_Desc,"山の恵みの山菜を たっぷり詰め込んだおにぎり
+カカリコ村の代表的な家庭料理のひとつ","This home-style dish of Kakariko Village is
+stuffed with the bounty of the mountains."
+156,Item_Cook_G_03_Name,山菜おにぎり,Veggie Rice Balls
+157,Item_Cook_G_04_BaseName,キノコおにぎり,Mushroom Rice Balls
+158,Item_Cook_G_04_Desc,"キノコの混ぜ込みごはんで作ったおにぎり
+包みを開くと キノコの香りがふわっと広がる","The aroma of the mushrooms tickles your
+nose as you peel back the leafy wrapping."
+159,Item_Cook_G_04_Name,キノコおにぎり,Mushroom Rice Balls
+160,Item_Cook_G_05_BaseName,ケモノ肉丼,Meat and Rice Bowl
+161,Item_Cook_G_05_Desc,"さっとあぶったケモノ肉を
+ご飯の上に敷き詰めた定番どんぶり料理","This dish of rice and lightly seared meat is a
+mainstay all throughout Hyrule."
+162,Item_Cook_G_05_Name,ケモノ肉丼,Meat and Rice Bowl
+163,Item_Cook_G_06_BaseName,上ケモノ肉丼,Prime Meat and Rice Bowl
+164,Item_Cook_G_06_Desc,"上質なケモノ肉を豪快に盛り付けた どんぶり
+ガッツリ食べたい時にぴったり","This bowl is loaded with high-quality meat.
+Your hunt for a serious meal ends here."
+165,Item_Cook_G_06_Name,上ケモノ肉丼,Prime Meat and Rice Bowl
+166,Item_Cook_G_09_BaseName,極上ケモノ肉丼,Gourmet Meat and Rice Bowl
+167,Item_Cook_G_09_Desc,"極上のケモノ肉を選りすぐって使った究極の肉丼
+肉の旨味をシンプルかつ大胆に味わえる逸品","Only the most carefully selected cuts of high-
+quality meats go into this dish."
+168,Item_Cook_G_09_Name,極上ケモノ肉丼,Gourmet Meat and Rice Bowl
+169,Item_Cook_G_10_BaseName,海鮮チャーハン,Seafood Fried Rice
+170,Item_Cook_G_10_Desc,"高級な海の食材を米と一緒に炒めた一品
+強火で炒めるとパラッと美味しく仕上がる","Various seafood has been sautéed with rice.
+The stronger the flame, the tastier the dish!"
+171,Item_Cook_G_10_Name,海鮮チャーハン,Seafood Fried Rice
+172,Item_Cook_G_11_BaseName,カレーピラフ,Curry Pilaf
+173,Item_Cook_G_11_Desc,"ゴロンの香辛粉の香りが豊かなピラフ
+マイルドな辛さで食べやすく仕上げられている","The Goron spice used in this pilaf has given
+it a rich, spicy aroma."
+174,Item_Cook_G_11_Name,カレーピラフ,Curry Pilaf
+175,Item_Cook_G_12_BaseName,キノコリゾット,Mushroom Risotto
+176,Item_Cook_G_12_Desc,"ハイラル米をじっくりと煮立てた料理
+キノコとバターの香りが食欲をそそる","The tantalizing aroma of mushrooms and
+butter beckons you to the table."
+177,Item_Cook_G_12_Name,キノコリゾット,Mushroom Risotto
+178,Item_Cook_G_13_BaseName,野菜リゾット,Vegetable Risotto
+179,Item_Cook_G_13_Desc,"野菜の甘みが堪能できるリゾット
+優しい味わいで子供にも人気なひと皿","The sweetness of the ingredients
+gives this risotto a mild flavor."
+180,Item_Cook_G_13_Name,野菜リゾット,Vegetable Risotto
+181,Item_Cook_G_14_BaseName,サーモンリゾット,Salmon Risotto
+182,Item_Cook_G_14_Desc,"マックスサーモンの旨味がハイラル米に
+しっかりと染み込んだ濃厚なリゾット
+","The rice used in this rich risotto permeates
+the light flavor of the salmon."
+183,Item_Cook_G_14_Name,サーモンリゾット,Salmon Risotto
+184,Item_Cook_G_15_BaseName,肉おにぎり,Meaty Rice Balls
+185,Item_Cook_G_15_Desc,"甘辛く味を付けた肉がたっぷり詰まった おにぎり
+ボリューム満点でお腹にしっかり溜まる","The sweet and spicy meat stuffed into these
+rice balls will keep you full for some time."
+186,Item_Cook_G_15_Name,肉おにぎり,Meaty Rice Balls
+187,Item_Cook_G_16_BaseName,カニ玉チャーハン,Crab Omelet with Rice
+188,Item_Cook_G_16_Desc,"新鮮なカニの身たっぷりの豪華なチャーハン
+ふんわりタマゴとの組み合わせが絶妙な味わい","The fluffy crab legs pair perfectly with the
+rice for a truly scrumptious dish."
+189,Item_Cook_G_16_Name,カニ玉チャーハン,Crab Omelet with Rice
+190,Item_Cook_G_17_BaseName,カニリゾット,Crab Risotto
+191,Item_Cook_G_17_Desc,"海沿いの村で家庭料理として作られるリゾット
+カニのミソも味付けに使うのが おいしさの秘密","An everyday staple of seaside villages, the
+secret to its delicious flavor lies in crab fat."
+192,Item_Cook_G_17_Name,カニリゾット,Crab Risotto
+193,Item_Cook_H_01_BaseName,魚ムニエル,Seafood Meunière
+194,Item_Cook_H_01_Desc,"新鮮な魚をバターで両面焼き上げた料理
+外側をカリッとさせるのが おいしく作るコツ","Rich butter flanks fresh seafood. The secret
+ingredient is lots and lots of love."
+195,Item_Cook_H_01_Name,魚ムニエル,Seafood Meunière
+196,Item_Cook_H_02_BaseName,鯛ムニエル,Porgy Meunière
+197,Item_Cook_H_02_Desc,"海沿いの地域で好んで食べられる魚料理
+新鮮なタイのフワフワした身が美味","Popular among residents of coastal regions,
+this juicy porgy is a delish dish."
+198,Item_Cook_H_02_Name,鯛ムニエル,Porgy Meunière
+199,Item_Cook_H_03_BaseName,サーモンムニエル,Salmon Meunière
+200,Item_Cook_H_03_Desc,"マックスサーモンに小麦粉をまぶし バターで
+焼いた料理皮のパリパリした食感も格別","The crispy skin of this fried hearty salmon
+puts its texture in a class all its own."
+201,Item_Cook_H_03_Name,サーモンムニエル,Salmon Meunière
+202,Item_Cook_I_01_BaseName,フルーツパイ,Fruit Pie
+203,Item_Cook_I_01_Desc,"パイ生地に果物をたっぷり乗せたデザート
+ハイラルではお祝いの際によく作られる","A celebration isn't a celebration until this
+fruit-filled crust hits the table!"
+204,Item_Cook_I_01_Name,フルーツパイ,Fruit Pie
+205,Item_Cook_I_02_BaseName,アップルパイ,Apple Pie
+206,Item_Cook_I_02_Desc,"新鮮なリンゴをたっぷり使った定番のデザート
+サクサクのパイ生地とリンゴの甘さが相性抜群","The crispy, flaky pie crust and sweet apples
+are a match made in heaven."
+207,Item_Cook_I_02_Name,アップルパイ,Apple Pie
+208,Item_Cook_I_03_BaseName,エッグタルト,Egg Tart
+209,Item_Cook_I_03_Desc,"濃厚な卵黄のクリームをパイ生地に詰めて
+香ばしく焼き上げたデザート","You'll know this simple dessert is done
+baking when it smells just delightful."
+210,Item_Cook_I_03_Name,エッグタルト,Egg Tart
+211,Item_Cook_I_04_BaseName,ミートパイ,Meat Pie
+212,Item_Cook_I_04_Desc,"細かくした肉を パイ生地に包んで焼きあげた料理
+ジューシーな肉汁がたっぷり詰まっている","You'll need an extra napkin to deal with this
+juicy pie of perfectly baked minced meat."
+213,Item_Cook_I_04_Name,ミートパイ,Meat Pie
+214,Item_Cook_I_05_BaseName,ニンジンケーキ,Carrot Cake
+215,Item_Cook_I_05_Desc,"優しい甘さが特徴のケーキ
+ニンジンが苦手な人でも食べられると言われる","Even those who don't like carrots tend to
+enjoy the mild sweetness of this cake."
+216,Item_Cook_I_05_Name,ニンジンケーキ,Carrot Cake
+217,Item_Cook_I_06_BaseName,カボチャケーキ,Pumpkin Pie
+218,Item_Cook_I_06_Desc,"ヨロイカボチャをたっぷり使った黄金色のケーキ
+濃厚な甘さが子供にも大人気","The intense sweetness of fortified pumpkins
+makes this dessert popular among children."
+219,Item_Cook_I_06_Name,カボチャケーキ,Pumpkin Pie
+220,Item_Cook_I_07_BaseName,リンゴバター,Hot Buttered Apple
+221,Item_Cook_I_07_Desc,"火を通して甘味が増したリンゴに
+アツアツのヤギのバターを絡めた濃厚スイーツ","The apple's sweetness has been enhanced
+by smothering it with butter and baking it."
+222,Item_Cook_I_07_Name,リンゴバター,Hot Buttered Apple
+223,Item_Cook_I_08_BaseName,ハチミツリンゴ,Honeyed Apple
+224,Item_Cook_I_08_Desc,"完熟リンゴとハチミツが絡み合う
+甘酸っぱくジューシーなスイーツ","A juicy sweet-and-sour dish combining
+newly ripened apples with honey."
+225,Item_Cook_I_08_Name,ハチミツリンゴ,Honeyed Apple
+226,Item_Cook_I_09_BaseName,ハチミツ果実,Honeyed Fruits
+227,Item_Cook_I_09_Desc,"ハチミツの濃厚な甘みと
+フルーツの酸味が口いっぱいに広がるスイーツ","A dish that combines the thick sweetness of
+honey with the acidity of sour fruits."
+228,Item_Cook_I_09_Name,ハチミツ果実,Honeyed Fruits
+229,Item_Cook_I_10_BaseName,プレーンクレープ,Plain Crepe
+230,Item_Cook_I_10_Desc,"薄く伸ばした砂糖入りの生地を焼いたデザート
+素材の味が活きるシンプルなひと品","The simplicity of this dish lets the flavor of its
+ingredients shine."
+231,Item_Cook_I_10_Name,プレーンクレープ,Plain Crepe
+232,Item_Cook_I_11_BaseName,イチゴクレープ,Wildberry Crepe
+233,Item_Cook_I_11_Desc,"しっとりモチモチに焼き上げた生地に 
+甘酸っぱいイチゴをたっぷり包んだクレープ","Sweet, tart wildberries are folded into thin,
+springy dough to make this dessert."
+234,Item_Cook_I_11_Name,イチゴクレープ,Wildberry Crepe
+235,Item_Cook_I_12_BaseName,ナッツケーキ,Nutcake
+236,Item_Cook_I_12_Desc,"森で手に入る木の実を使ったケーキ
+素朴な甘さと木の実の食感が楽しめる","Forest nuts give this cake a pleasant texture
+and a simple, understated sweetness."
+237,Item_Cook_I_12_Name,ナッツケーキ,Nutcake
+238,Item_Cook_I_13_BaseName,あげバナナ,Fried Bananas
+239,Item_Cook_I_13_Desc,"ツルギバナナを揚げた子供に人気のおやつ
+高温でサッと揚げるのがおいしく作るコツ","Children love fried mighty bananas. The trick
+is frying them over very high heat."
+240,Item_Cook_I_13_Name,あげバナナ,Fried Bananas
+241,Item_Cook_I_14_BaseName,たまごプリン,Egg Pudding
+242,Item_Cook_I_14_Desc,"タマゴとミルクを型に入れて焼いたデザート
+なめらかで舌の上でとろける食感が楽しめる","Made by cooking eggs and milk in a special
+mold, its soft texture melts in your mouth."
+243,Item_Cook_I_14_Name,たまごプリン,Egg Pudding
+244,Item_Cook_I_15_BaseName,フィッシュパイ,Fish Pie
+245,Item_Cook_I_15_Desc,"パイで魚を包んで焼く漁師の奥さんの定番料理
+魚の旨味とサクサクした食感を楽しめる ひと皿","A mainstay in any fisherman's home, the
+crisp crust pairs well with the fishy flavor."
+246,Item_Cook_I_15_Name,フィッシュパイ,Fish Pie
+247,Item_Cook_I_16_BaseName,ハチミツアメ,Honey Candy
+248,Item_Cook_I_16_Desc,"巣から集めたハチミツを煮詰めて固めた
+ほんのり甘い栄養満点の天然キャンディー","A natural sweet, brimming with nutrition and
+made by stewing fresh honey."
+249,Item_Cook_I_16_Name,ハチミツアメ,Honey Candy
+250,Item_Cook_I_17_BaseName,ハチミツクレープ,Honey Crepe
+251,Item_Cook_I_17_Desc,"薄く焼いた生地にハチミツを掛けたデザート
+自然な甘さと豊かな風味が特徴","Honey has been drizzled over thin crepes to
+bring out their natural sweetness and flavor."
+252,Item_Cook_I_17_Name,ハチミツクレープ,Honey Crepe
+253,Item_Cook_J_01_BaseName,カレーライス,Curry Rice
+254,Item_Cook_J_01_Desc,"子供から大人まで みんなが大好きな定番料理
+シンプルで飽きのこない味が楽しめるひと皿","A favorite all over Hyrule, this simple dish has
+a flavor you just won't get tired of."
+255,Item_Cook_J_01_Name,カレーライス,Curry Rice
+256,Item_Cook_J_02_BaseName,野菜カレー,Vegetable Curry
+257,Item_Cook_J_02_Desc,"野菜をメインにしたヘルシーなカレー
+辛さ控えめの優しい味で人気が高い","This healthy curry is popular for its mild flavor
+and moderate spiciness."
+258,Item_Cook_J_02_Name,野菜カレー,Vegetable Curry
+259,Item_Cook_J_03_BaseName,海の幸カレー,Seafood Curry
+260,Item_Cook_J_03_Desc,"海の幸をたっぷり味わえる贅沢なカレー
+辛口な仕上がりが ちょっぴり大人な味わい","This dish brims with treasures from the sea.
+Its spice packs a kick, so it's not for kids."
+261,Item_Cook_J_03_Name,海の幸カレー,Seafood Curry
+262,Item_Cook_J_04_BaseName,チキンカレー,Poultry Curry
+263,Item_Cook_J_04_Desc,"トリ肉をメインにした スタンダードなカレー
+トリ肉の旨味がスパイスの香りに良く合う","The savory meat pairs well with the aroma
+of spice in this common curry."
+264,Item_Cook_J_04_Name,チキンカレー,Poultry Curry
+265,Item_Cook_J_05_BaseName,上チキンカレー,Prime Poultry Curry
+266,Item_Cook_J_05_Desc,"上質なトリ肉を使ったカレー いったん火を
+止めてから香辛粉を入れるのが深い味わいの秘密","The secret to this curry's flavor is taking it off
+the heat while you add the spices."
+267,Item_Cook_J_05_Name,上チキンカレー,Prime Poultry Curry
+268,Item_Cook_J_06_BaseName,ケモノ肉カレー,Meat Curry
+269,Item_Cook_J_06_Desc,"大きなケモノ肉が入ったワイルドなカレーライス
+スパイスの辛さが肉の旨味を引き立たせている","The heat from the spice allows you to enjoy
+the large portion of the meat's savoriness."
+270,Item_Cook_J_06_Name,ケモノ肉カレー,Meat Curry
+271,Item_Cook_J_07_BaseName,上肉カレー,Prime Meat Curry
+272,Item_Cook_J_07_Desc,"メインに上質なケモノ肉を使う事で
+食べごたえと味の深みが増したカレー","The high-quality meat in this curry has given
+it a deeper taste than most other curries."
+273,Item_Cook_J_07_Name,上肉カレー,Prime Meat Curry
+274,Item_Cook_J_08_BaseName,極上チキンカレー,Gourmet Poultry Curry
+275,Item_Cook_J_08_Desc,"最高級のトリ肉が惜しげなく使われたカレー
+かつてのハイラル城でも作られたと言われている","Once served in Hyrule Castle, the poultry
+used in this dish is of immensely high quality."
+276,Item_Cook_J_08_Name,極上チキンカレー,Gourmet Poultry Curry
+277,Item_Cook_J_09_BaseName,極上肉カレー,Gourmet Meat Curry
+278,Item_Cook_J_09_Desc,"最上級のケモノ肉を豪勢に盛り付けたカレー
+カレー好きも肉好きも大満足の逸品","The high-quality meat used in this prized
+dish satisfies meat and curry lovers alike."
+279,Item_Cook_J_09_Name,極上肉カレー,Gourmet Meat Curry
+280,Item_Cook_K_01_BaseName,肉シチュー,Meat Stew
+281,Item_Cook_K_01_Desc,"新鮮な肉をメインにした ハイラルの定番シチュー
+食べごたえたっぷりで お腹も満足なひと皿","The hearty meat in this mainstay dish leaves
+bellies satisfied all throughout Hyrule."
+282,Item_Cook_K_01_Name,肉シチュー,Meat Stew
+283,Item_Cook_K_02_BaseName,上肉シチュー,Prime Meat Stew
+284,Item_Cook_K_02_Desc,"大き目な上質肉を贅沢に使用したシチュー
+煮込まれて肉の旨味がさらに凝縮したひと品","Letting the large portions of choice cuts of
+meat simmer brought out their savoriness."
+285,Item_Cook_K_02_Name,上肉シチュー,Prime Meat Stew
+286,Item_Cook_K_03_BaseName,カボチャシチュー,Pumpkin Stew
+287,Item_Cook_K_03_Desc,"ヨロイカボチャを長時間煮込んだシチュー
+カカリコ村では夕食としてよく作られる","Simply simmer a fortified pumpkin to make
+this dish. A favorite in Kakariko Village."
+288,Item_Cook_K_03_Name,カボチャシチュー,Pumpkin Stew
+289,Item_Cook_K_04_BaseName,貝のチャウダー,Clam Chowder
+290,Item_Cook_K_04_Desc,"マックスサザエの栄養をバターとミルクの
+濃厚なスープにしっかりと閉じ込めた逸品","The nutritional value of hearty blueshell snail
+combines with butter and milk in a rich soup."
+291,Item_Cook_K_04_Name,貝のチャウダー,Clam Chowder
+292,Item_Cook_K_05_BaseName,極上肉シチュー,Gourmet Meat Stew
+293,Item_Cook_K_05_Desc,"煮込まれて最高に柔らかくなった極上の肉が
+口の中でとろける一度は食べたい絶品シチュー","The meat has simmered for so long it melts in
+your mouth. A true bucket-list meal!"
+294,Item_Cook_K_05_Name,極上肉シチュー,Gourmet Meat Stew
+295,Item_Cook_K_06_BaseName,キノコミルクスープ,Cream of Mushroom Soup
+296,Item_Cook_K_06_Desc,"野菜やキノコを使ったミルクスープ
+具だくさんで食べごたえも十分","This creamy mushroom and vegetable soup
+is so chunky it eats like a meal!"
+297,Item_Cook_K_06_Name,キノコミルクスープ,Cream of Mushroom Soup
+298,Item_Cook_K_07_BaseName,野菜ミルクスープ,Cream of Vegetable Soup
+299,Item_Cook_K_07_Desc,"新鮮な野菜をミルクで煮込んだスープ
+シンプルな味付で ヘルシーな仕上がり","Made by simmering vegetables in milk, this
+healthy dish is as simple as its ingredients."
+300,Item_Cook_K_07_Name,野菜ミルクスープ,Cream of Vegetable Soup
+301,Item_Cook_K_08_BaseName,ニンジンシチュー,Carrot Stew
+302,Item_Cook_K_08_Desc,"ニンジンをたっぷり使ったシチュー
+じっくり煮込まれて独特の甘みが引き立っている","This simple stew sat simmering for a long time
+to bring out the sweetness of the carrots."
+303,Item_Cook_K_08_Name,ニンジンシチュー,Carrot Stew
+304,Item_Cook_K_09_BaseName,ホットミルク,Warm Milk
+305,Item_Cook_K_09_Desc,"フレッシュミルクをじっくりと温めた飲み物
+寝る前に飲むとリラックスできる","Make this by heating up some milk. Drink it
+before bed to ensure a good night's sleep."
+306,Item_Cook_K_09_Name,ホットミルク,Milk
+307,Item_Cook_L_01_BaseName,マモノ煮込み,Monster Stew
+308,Item_Cook_L_01_Desc,"肉や魚をマモノエキスで煮込んだキワモノ料理
+他の食材には出せない旨味があるらしいが…","Meat and seafood simmered in monster
+extract. A savory dish despite its ingredients."
+309,Item_Cook_L_01_Name,マモノ煮込み,Monster Stew
+310,Item_Cook_L_02_BaseName,マモノスープ,Monster Soup
+311,Item_Cook_L_02_Desc,"マモノエキスをベースに作ったスープ
+癖がとても強く好みが分かれる独特な味わい","Using monster extract as a base, this soup's
+distinct gaminess is either loved or hated."
+312,Item_Cook_L_02_Name,マモノスープ,Monster Soup
+313,Item_Cook_L_03_BaseName,マモノケーキ,Monster Cake
+314,Item_Cook_L_03_Desc,"マモノエキスを使った独創的なケーキ
+一度食べると忘れられない甘味があるという噂","It's said that once you have a taste of this
+cake, you'll never forget its sweetness."
+315,Item_Cook_L_03_Name,マモノケーキ,Monster Cake
+316,Item_Cook_L_04_BaseName,マモノにぎり,Monster Rice Balls
+317,Item_Cook_L_04_Desc,"マモノエキスで味付けされた斬新なおにぎり
+独特の香りがして食べる人を選ぶ味付け","Rice balls flavored with monster extract.
+Their unique aroma is not for everyone."
+318,Item_Cook_L_04_Name,マモノにぎり,Monster Rice Balls
+319,Item_Cook_L_05_BaseName,マモノカレー,Monster Curry
+320,Item_Cook_L_05_Desc,"マモノエキスがたっぷり使われた変り種カレー
+辛さだけではない刺激が味わえるらしい","This unusual take on curry uses monster
+extract and doesn't rely only on spices."
+321,Item_Cook_L_05_Name,マモノカレー,Monster Curry
+322,Item_Cook_M_01_BaseName,小麦パン,Wheat Bread
+323,Item_Cook_M_01_Desc,"タバンタ地方で取れる小麦を使ったパン
+モチモチした食感と小麦の豊かな香りが楽しめる","Made with wheat from the Tabantha region,
+this soft, springy bread smells just heavenly."
+324,Item_Cook_M_01_Name,小麦パン,Wheat Bread
+325,Item_Cook_N_01_BaseName,海鮮パエリア,Seafood Paella
+326,Item_Cook_N_01_Desc,"贅沢な海鮮食材をたくさん使った特別な料理
+漁師たちの祝い事には欠かせないひと品","No fisherman's birthday bash would be
+complete without this top-shelf seafood dish."
+327,Item_Cook_N_01_Name,海鮮パエリア,Seafood Paella
+328,Item_Cook_N_02_BaseName,フルーツケーキ,Fruitcake
+329,Item_Cook_N_02_Desc,"ハイラル中の新鮮なフルーツをふんだんに使った
+豪華なケーキ お祝い事には欠かせないひと品","Making ample use of fruits found all over
+Hyrule, this cake is a must for celebrations."
+330,Item_Cook_N_02_Name,フルーツケーキ,Fruitcake
+331,Item_Cook_N_03_BaseName,野菜オムレツ,Vegetable Omelet
+332,Item_Cook_N_03_Desc,"新鮮なタマゴをフワッと焼きあげた家庭料理
+刻んだ野菜が混ぜられていて栄養バランスも満点","This home-style dish mixes fluffy eggs with
+chopped vegetables for nutritional balance."
+333,Item_Cook_N_03_Name,野菜オムレツ,Vegetable Omelet
+334,Item_Cook_N_04_BaseName,キノコオムレツ,Mushroom Omelet
+335,Item_Cook_N_04_Desc,"香りの強いキノコを混ぜ込んだオムレツ
+ふわふわの食感が楽しめるひと皿","The fluffy texture of this omelet is one of the
+great joys of this dish, as well as life."
+336,Item_Cook_N_04_Name,キノコオムレツ,Mushroom Omelet
+337,Item_Cook_O_01_BaseName,微妙な料理,Dubious Food
+338,Item_Cook_O_01_Desc,"微妙なにおいがする…
+食べられなくはないが
+とても人には見せられない！","It's too gross to even look at. A bizarre smell
+issues forth from this heap. Eating it won't
+hurt you, though...probably."
+339,Item_Cook_O_01_Name,微妙な料理,Dubious Food
+340,Item_Cook_O_02_BaseName,硬すぎ料理,Rock-Hard Food
+341,Item_Cook_O_02_Desc,"何か入れてはいけないものを混ぜてしまった
+ちょっと人には出せない料理
+背に腹は代えられない時には かじるしかない","A dish gone awry after adding the wrong
+ingredient. Chewing your way through this
+won't be fun, but it will fill you up when
+you're between a rock and a hard place."
+342,Item_Cook_O_02_Name,硬すぎ料理,Rock-Hard Food
+343,Item_Cook_P_01_BaseName,香りキノコ炒め,Fragrant Mushroom Sauté
+344,Item_Cook_P_01_Desc,"キノコをスパイスで炒めたひと皿
+刺激的な香りが食欲をそそる","The fragrant aroma of this sautéed spice and
+mushroom dish makes your mouth water."
+345,Item_Cook_P_01_Name,香りキノコ炒め,Fragrant Mushroom Sauté
+346,Item_Cook_P_02_BaseName,香草炒め,Herb Sauté
+347,Item_Cook_P_02_Desc,"香りの強い素材を スパイスと一緒に炒めて作った
+野菜炒め独特の香りがクセになる一品","A fragrant mixture of herbs and spices.
+It's easily recognized by its unique aroma."
+348,Item_Cook_P_02_Name,香草炒め,Herb Sauté
+349,Item_Cook_P_03_BaseName,ケモノステーキ,Spiced Meat Skewer
+350,Item_Cook_P_03_Desc,"ゴロン族特製のスパイスが肉の臭み消しになり
+素材の旨味が引き立ったステーキ","A special Goron spice covers up the scent
+of the meat, allowing its flavor to shine."
+351,Item_Cook_P_03_Name,ケモノステーキ,Spiced Meat Skewer
+352,Item_Cook_P_04_BaseName,上ケモノステーキ,Prime Spiced Meat Skewer
+353,Item_Cook_P_04_Desc,"上質な肉に特製スパイスを効かせたステーキ
+シンプルながら奥の深い味を楽しめる","The simple preparation of this steak dish
+belies its complex taste profile."
+354,Item_Cook_P_04_Name,上ケモノステーキ,Prime Spiced Meat Skewer
+355,Item_Cook_P_05_BaseName,極上ケモノステーキ,Gourmet Spiced Meat Skewer
+356,Item_Cook_P_05_Desc,"最高の肉を香辛粉のみで味付けしたステーキ
+豊かな香りと濃厚な肉汁は格別な味わい","The rich aroma and juicy texture of this high-
+quality meat puts it in a league of its own."
+357,Item_Cook_P_05_Name,極上ケモノステーキ,Gourmet Spiced Meat Skewer

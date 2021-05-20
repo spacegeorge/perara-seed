@@ -1,0 +1,22 @@
+#,Title,JPja,USen
+1,QL_GodTree_Desc,"アズキから コログしれんを
+受けることになった
+
+『鉄を喰らう樹が道を示す
+ それを見極めるは操りの力』
+
+この言葉の示す意味とは？","You've accepted Zooki's Korok Trial.
+The only hint:
+
+\""The hungry trees will show you the way.
+Spy their iron to win the day.\"""
+2,QL_GodTree_Finish,"『鉄を喰らう樹が道を示す
+ それを見極めるは操りの力』
+
+鉄の塊をくわえた樹をたどった先に
+古代の祠を発見した","\""The hungry trees will show you the way.
+Spy their iron to win the day.\""
+
+You discovered an ancient shrine just beyond
+the trees with iron orbs in their mouths."
+3,QL_GodTree_Name,操りの力のしれん,Trial of Second Sight

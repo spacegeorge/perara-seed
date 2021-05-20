@@ -1,0 +1,67 @@
+#,Title,JPja,USen
+1,"""0000""",ゾーラの里？,Zora's Domain?
+2,"""0001""",北の塔？,North tower?
+3,"""0002""",ルテラー川？,Rutala River?
+4,"""0003""",さようなら,Good-bye.
+5,near00,自由な放浪人よ～♪,♪A wanderer...♪
+6,talk00,"おお…
+鼻歌を聞かれてしまったか…
+オレは ゲーラック
+自分探しで全国を旅してるんだ
+今はゾーラの里を目指してるんだが…
+迷子になっちまって諦めたところさ
+なんか北の塔の方から
+声がしてたけどよ
+ルテラー川を超えるのは至難の業だぜ…","Oh... So you heard me humming, eh?
+
+
+I'm Eryck. I'm traveling the world
+on a journey of self-discovery.
+
+I'm heading for Zora's Domain now...
+but I'm lost. I was just about to give up.
+
+But then, like, I heard a voice...
+coming from the north tower...
+
+Crossing the Rutala River would be next
+to impossible, though..."
+7,talk01,やぁ君か…,Hey! It's you...
+8,talk02,またな！,See ya!
+9,talk03,"ゾーラの里は ゾーラ族で構成された
+ラネール地方の町さ
+しかしルテラー川を越えるのは無理だぜ
+
+なかなか辿りつけないから行くのは諦めたよ","Zora's Domain is home of the Zora.
+It's a town in Lanayru.
+
+But crossing the Rutala River
+is impossible.
+
+It's a hard place to get to, so I just
+gave up altogether."
+10,talk04,"ここから北に進めばルテラー川を挟んで
+向こう岸に でっかい塔が見えるぜ
+あのてっぺんから声がしたような気がするけど
+誰か居んのかな？","If you continue north from here, on the
+other side of the Rutala River, you can
+see a huge tower on the opposite bank.
+I thought I heard a voice coming from
+the top of that tower. I wonder if
+someone's up there."
+11,talk05,"ルテラー川はラネール地方でも
+一番太い川だな
+あれを泳いで渡るのは命懸けだぜ…
+
+あれより北に行きたいなら西のドゥエス島まで
+根気よく歩いて迂回するしかねぇかな","Rutala River is the widest river
+in Lanayru.
+
+You'd be risking your life if you tried to
+swim across it...
+
+If you want to go north of it, you'll have
+to walk patiently to Linebeck Island in
+the east so you can circumvent it."
+12,talk06,他に聞きたい事は あるか？,"Is there something else you'd like
+to ask me?"

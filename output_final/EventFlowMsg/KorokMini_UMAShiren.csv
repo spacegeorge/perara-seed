@@ -1,0 +1,109 @@
+#,Title,JPja,USen
+1,"""0000""",見せてあげる,I'll help you out.
+2,"""0001""",今はちょっと…,I can't right now...
+3,Npc_Kokiri007_F_Talk000,"どこにいるかは知らないけれド～
+ぴっかり光る すばしっこい生きもノ～
+それがルミー～
+どんだけ光ってるんだロ～気になる気になル～
+絵でも なんでもいいから
+見せてくれるの待ってるネ～","I don't know where they live, but there
+are little blue glowing critters around
+Hyrule that are quick and hoppy...
+Apparently they're called Blupees!
+I wonder how glowy they are!
+Aren't you curious?
+I REALLY want to see one.
+Even a picture is enough.
+Thank you!"
+4,Npc_Kokiri007_F_Talk010,"あ！ ゆうしゃサマ
+ひょっとして持ってきてくれたノ？！",Oh! Mr. Hero! Did you bring it for me?
+5,Npc_Kokiri007_F_Talk030,"ピーカンが思ってた以上に
+ぴっかり光ってたネ～！
+ゆうしゃサマ ありがと～
+これでもう思い残すことはないヨ～
+すてきなもの見せてくれた ゆうしゃサマに
+ピーカンから ステキなものあげるネ～","Wow! It's even more beautiful than Peeks
+imagined!
+
+Thanks so much, Mr. Hero!
+Now I'm content!
+
+...Oh! And here's a little thank-you gift!
+Peeks didn't forget!"
+6,Npc_Kokiri007_F_Talk040,"そうそう！ ゆうしゃサマって
+いろんなときに ルピーが必要だよネ？
+もし どーしても ルピーに困ったラ……
+ルミーに矢を当てるといいヨ！
+そしたら アラふしぎ！
+ルピーをポロポロ落としてくれんだっテ～
+あ～いいもの見れた～
+ピーカンしあわせ！","Oh, yeah! Mr. Hero needs rupees 
+sometimes, right?
+
+If you desperately need rupees...you
+should shoot an arrow at a blupee!
+
+I hear they drop lots of rupees if you hit
+them.
+
+Oh, man! I'm so glad I got to see
+something so cool! Peeks is so happy
+right now!"
+7,Npc_Kokiri007_R_Near000,ぴかぴかのアレ…,Glowy hoppy!
+8,Npc_Kokiri007_R_Talk000,"ゆうしゃサマ強くなるためのしれん
+ピーカン考えてみたヨ～
+戦わないし""怖くもなイ！
+だけどちょっと慎重さが必要なこト！
+あのね…
+ルミー""見てみたいナ～！
+くらーいところで ぴかぴか光る
+ピーカンくらいの青い生きもノ…
+絵でも なんでもいいから
+ルミーを見せてほしいナ～","Peeks thought of a trial that will 
+make Mr. Hero stronger! You won't have
+to fight, and it's not scary!
+BUT you'll need to be extra careful!
+So...
+I wanna see a Blupee!
+It's a blue, glowy, hoppy thing that
+glows in the dark! Just about Peeks's
+size!
+I just really want to see a Blupee!
+Even if it's just a picture of one."
+9,Npc_Kokiri007_R_Talk010,"ねえねえ ゆうしゃサマ～
+ルミー""見てみたいナ～
+くらーいところで ぴかぴか光る
+ピーカンくらいの青い生きもノ…
+絵でも なんでもいいから
+ルミーを見せてほしいナ～","Hey, Mr. Hero!
+I wanna see a Blupee!
+
+It's that blue hoppy thing that glows
+in the dark! Just about Peeks's size!
+
+I just really want to see a Blupee!
+Even if it's just a picture or whatever."
+10,Npc_Kokiri007_R_Talk020,"さっすが ゆうしゃサマ～
+ピーカンのお願い聞いてくれるの うれしいナ～
+あのねあのね どこにいるかは知らないけれど
+ぴっかり光る すばしっこい生きもノ…
+それがルミーなんだっテ～
+どんだけ光ってるんだロ～気になるよネ～
+ルミーを見せてくれたら
+お礼をあげるネ～がんばっテ～","I knew you were a nice guy, Mr. Hero!
+Thanks for listening to Peeks's request!
+
+So...I don't know where they live, but 
+I heard there are little blue glowing
+critters hopping around Hyrule.
+Apparently they're called Blupees!
+I wonder how glowy they are!
+Aren't you curious?
+If you show me a Blupee, I'll be sure to
+thank you with a gift! Good luck!"
+11,Npc_Kokiri007_R_Talk030,"ゆうしゃサマ興味なシ～…
+ざんねん ざんねン…","Mr. Hero doesn't care about Peeks?
+Oh... OK."
+12,Npc_Kokiri007_R_Talk040,"アレ？！ちょっと ちょっト！
+もしかして もう持ってる？！","HUH?!Wait, wait!
+You have it already?!"

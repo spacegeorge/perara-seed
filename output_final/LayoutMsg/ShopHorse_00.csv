@@ -1,0 +1,25 @@
+#,Title,JPja,USen
+1,"""0000""",あたらしいうま,New horse
+2,Pa_GuideA_00-T_Guide_00,えらぶ,Select
+3,Pa_GuideB_00-T_Guide_00,戻る,Back
+4,Pa_Info_00-Pa_Param_00-T_ParamName_00,じょうぶさ,Strength
+5,Pa_Info_00-Pa_Param_01-T_ParamName_00,スピード,Speed
+6,Pa_Info_00-Pa_Param_02-T_ParamName_00,がんばり,Stamina
+7,Pa_Info_00-Pa_Param_03-T_ParamMax_00,MAX,MAX
+8,Pa_Info_00-Pa_Param_03-T_ParamName_00,なつきぐあい,Bond
+9,Pa_Info_00-T_Character_00,おとなしい,Gentle
+10,Pa_Info_00-T_Character_01,気性あらい,Wild
+11,Pa_Info_00-T_ParamName_00,性格,Temperament
+12,Pa_ShopBtn_00-T_Sub_00,預け中,Boarded
+13,Pa_ShopBtn_00-T_Sub_01,連れ出し中,Taken out
+14,Pa_ShopBtn_01-T_Sub_00,預け中,Boarded
+15,Pa_ShopBtn_01-T_Sub_01,連れ出し中,Taken out
+16,Pa_ShopBtn_02-T_Sub_00,預け中,Boarded
+17,Pa_ShopBtn_02-T_Sub_01,連れ出し中,Taken out
+18,Pa_ShopBtn_03-T_Sub_00,預け中,Boarded
+19,Pa_ShopBtn_03-T_Sub_01,連れ出し中,Taken out
+20,Pa_ShopBtn_04-T_Sub_00,預け中,Boarded
+21,Pa_ShopBtn_04-T_Sub_01,連れ出し中,Taken out
+22,T_ListName_00,所有馬リスト,Your Horses
+23,T_ListName_01,死亡した馬リスト,Fallen Horses
+24,T_State_00,状態,Status

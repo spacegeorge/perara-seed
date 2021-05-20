@@ -1,0 +1,90 @@
+#,Title,JPja,USen
+1,"""0002""",ヘンな所,A strange place.
+2,"""0003""",すごくヘンな所,A very strange place.
+3,"""0004""",休める所,A place to rest.
+4,"""0005""",べつに…,Never mind...
+5,near00,グー… グー…,Zzzmph... Zzzrrk...
+6,near01,寝るか…,I should sleep...
+7,near02,さてと…,So...
+8,near03,♪～～,♪♪♪
+9,talk00,"おいその青い炎…
+研究所のやつじゃねえか？","Hey, that blue flame... Isn't that from the
+research lab?"
+10,talk02,"おう旅の人…どうした？
+さては迷子ちゃんか？","Oh, hey, traveler... What's going on?
+Are you lost?"
+11,talk04,べ…べつにって おまえ…,"You're good, then? All right, whatever."
+12,talk05,どこへ行くつもりだったんだ？,Where are you looking to go?
+13,talk06,ん？お困りのようだな,Hrm? You look troubled.
+14,talk08,"さて俺はそろそろ寝る
+また明日だ","Well, I'm going to go crash.
+See you tomorrow."
+15,talk09,"今日も疲れたが…
+疲れた分だけ収穫が楽しみってもんさ","I worked myself to the bone today, but...
+I'm sure the effort will all add up to a 
+great harvest."
+16,talk10,グゥ…,Zzzrph...
+17,talk11,グゥグゥ…,Zzzrrrmmmzzz...
+18,talk12,"ヘンな所といえば…
+でっしぇの事かな？
+いやでっしぇという店名じゃないんだけど
+橋の近くの染物屋さんは たしかにヘンだよな
+主人のセージさんは服を染める達人だけど
+独特すぎる変わり者だしな…","A strange place, huh... That could mean
+a lot of... Oh, wait! Are you talking about
+our resident Mr. Toothy?
+I mean, his shop's not called that.
+I think only I call him that. He runs the 
+dye shop near the bridge. He is WEIRD.
+Yeah, his real name is Sayge, and he's
+definitely a master of dyeing clothes, but
+he's also a master of weirding me out."
+19,talk13,"すごくヘンな所といったら
+やっぱり あそこだろ？
+村のいちばん東…丘のてっぺんにある
+ハテノ古代研究所のことだろ？
+あそこの所長さんは俺達の平和のために
+毎日 ケンキューに勤しんでるって話さ
+子供嫌いの所長さんを村の子達が面白がって
+よく覗きに行ってるぜ","Oh, a very strange place, huh? 
+Only one place you could mean.
+
+The easternmost structure in this village,
+at the top of the hill... Yup, you mean the
+Hateno Ancient Tech Lab, right?
+Its director does \""research\"" there every
+day, supposedly to help keep us all safe,
+but who knows what THAT means!
+That director doesn't like kids all that
+much, so I hear the village tykes get
+curious and snoop around a lot..."
+20,talk14,"休める所といえば普通は宿屋だけど…
+そうじゃない所に行こうとしてるんだろ？
+まさか…
+よろず屋さんの裏にある モデルハウスとか？
+サクラダ工務店が展示している あの家は
+ベッドや家具も なかなかのものだったし…
+木の匂いのする新築の家で ゆっくり休むのも
+たしかに気持ちいいかもしれないな…","If you want somewhere to rest, the inn
+is the usual choice for travelers...
+
+But maybe you mean...the model houses
+behind the general store?
+
+Bolson Construction—yeah, they put 
+those up. Nice beds, OK furniture...
+
+They've got that brand-new house smell.
+Wouldn't mind sleeping in that smell
+just once."
+21,talk15,他に聞きたい事はあるか？,You looking for anything else?
+22,talk16,俺は あのプルア婆さん嫌いじゃねえぜ,"I don't mind that old woman, Purah."
+23,talk17,"俺は あそこの所長さん""嫌いじゃねえぜ",I don't mind the director there.
+24,talk18,"きっと世のため人のために
+ケンキューってのをしてくれてるんだ","Whatever that \""research\"" is that they're
+doing, I'm sure its ultimate goal is to
+help the people of the world."
+25,talk19,"その青い炎""早く持ってってやんなよ
+たぶん ケンキューってのに使うんだろ","Hurry and go deliver that blue flame.
+It's gonna be used for whatever that
+\""research\"" is, I'm sure."

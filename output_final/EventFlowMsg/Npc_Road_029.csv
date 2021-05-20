@@ -1,0 +1,197 @@
+#,Title,JPja,USen
+1,Atacked00,油断はするな…,Don't get careless.
+2,Atacked01,魔物のやつめ…,Those monsters...
+3,Failed00,"こんなことじゃ…
+あたい ゲルド族失格だ…","I shame the Gerudo with a performance
+like that."
+4,Failed01,うう…魔物のやつめ…,Urgh... That monster...
+5,Guardian00,"ガーディアンに用はない！
+さっさと逃げるよ！","Oh, no. I'm not tangling with a Guardian!
+Time to move!"
+6,MSG_Orud_00,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+はるか南西にあるゲルド砂漠から…
+ヴォーイハントに オルディン地方に来たのさ
+ここには なかなかのヴォーイが…
+フフ…いるじゃないのさ","I'm Karsh of the Gerudo. Remember
+that name! I came to Eldin from the
+Gerudo Desert, far to the southwest.
+I'm traveling in search of voe, but I
+haven't found any good ones so far.
+Until just now, heh heh."
+7,MSG_Orud_00_1,"はるか南西にあるゲルド砂漠から…
+要するに ヴォーイハントに来たのさ","I came from Gerudo Desert, far to the
+southwest, on a journey to hunt for voe."
+8,MSG_Orud_01,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+この街道には いろんな種族の男がいるねえ
+歩いているだけで ゾクゾクしてくるよ
+ゴロン族のゴツゴツした肌も悪くないね！","I'm Karsh of the Gerudo. Remember
+that name!I run into voe from all sorts of races
+on the road. I like the Gorons a lot. I
+wish my hide was as tough as theirs!"
+9,MSG_Orud_01_1,"この街道には いろんな種族の男がいるねえ
+歩いているだけで ゾクゾクしてくるよ","I run into voe from all sorts of races on
+the road. It's so thrilling to see how the
+rest of the world lives."
+10,MSG_Orud_02,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+ゲルドの街には厳しい掟があって
+ヴァーイしか入れない…
+もし素敵なヴォーイと出会いたいなら？
+こうして旅するしかないのさ！","I'm Karsh of the Gerudo. Remember
+that name!Only vai are allowed in Gerudo Town.
+Our laws are very strict about that.So the only way for us to meet strong
+voe is to go on a journey outside the
+town walls, like I'm doing now!"
+11,MSG_Orud_02_1,"ゲルドの街にはヴァーイしか入れないからね
+ヴォーイと出会うために旅をしてるのさ","Only vai are allowed in Gerudo Town, so
+I'm on a journey outside the town walls
+to meet a strong voe."
+12,MSG_Orud_03,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+ここから北に行くとあるゴロンシティには
+お肌にいいという ゴロン温泉がある
+ただし たどり着くまでが お肌に悪い…
+魔物に襲われて傷だらけってわけさ！","I'm Karsh of the Gerudo. Remember
+that name!If you go north of here to Goron City,
+there's a place called Goron Hot Springs 
+that's supposed to be good for your skin.
+And you'll need to take good care of
+your skin, too, after the monsters on
+the way tear it to ribbons!"
+13,MSG_Orud_03_1,"北のゴロンシティにある ゴロン温泉は
+お肌にいいらしいが その道中が危険すぎる…","Goron Hot Springs in Goron City to the
+north is supposed to be good for your
+skin, but it's a dangerous trip to make."
+14,MSG_Orud_04,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+この山麓の馬宿からゴロンシティまでの道は
+火山弾が飛んできて危険極まりない
+もしもその危険に立ち向かう
+勇敢なヴォーイがいるとしたら？
+あたいはきっと惚れてしまうね！","I'm Karsh of the Gerudo. Remember
+that name!The molten rocks raining down from the
+volcano make the road from this stable
+to Goron City a dangerous trek.
+I'm thinking of challenging prospective
+voe I meet to walk that road. It's one way
+to weed out the cowards!"
+15,MSG_Orud_04_1,"この山麓の馬宿からゴロンシティまでの道は
+火山弾が飛んできて危険極まりないのさ","The molten rocks raining down from the
+volcano make the road from this stable
+to Goron City a dangerous trek."
+16,Near00,ヴォーイはいずこ？,Where are the good voe?
+17,Near01,今日もよく歩いた…,Making good time...
+18,Near02,ヴォーイはいずこ？,Where are the good voe?
+19,Near03,今日もよく歩いた…,Making good time...
+20,Near04,ちっ…,I hate this sky water...
+21,Rest_00,"あたいの故郷は南西方面にあるゲルド砂漠さ
+ヴォーイが見つかるまで帰るつもりはない","My home is in the Gerudo Desert to the
+southwest of here. And I'm not going
+back until I've found myself a voe."
+22,Rest_01,"この土地の暑さには正直まいるが
+服が濡れても すぐに乾くのはありがたいな","The heat in this place is awful—even
+worse than the desert's—but at least
+it's a dry heat."
+23,Rest_02,"急な雨は好きじゃないが
+出会いのきっかけとしては悪くない…","Water should never fall from the sky!
+But I admit, it's a nice excuse to strike
+up a conversation with people."
+24,RetMSG_Orud_00,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+森の馬宿と山麓の馬宿を難なく行き来できる
+頼もしいヴォーイは いないものかな
+まだ見ぬその彼と二人で
+いつか旅をしてみたいものだ…","I'm Karsh of the Gerudo. Remember
+that name!I'd love to meet a voe brave-hearted
+enough to walk the road between the
+Woodland Stable and Foothill Stable.
+I don't know if a voe like that exists,
+but if he does, I'd be proud to walk at
+his side. Just the two of us..."
+25,RetMSG_Orud_00_1,"森の馬宿と山麓の馬宿を難なく行き来できる
+頼もしいヴォーイは いないものかな","I'd love to meet a voe brave-hearted
+enough to walk the road between the
+Woodland Stable and Foothill Stable."
+26,RetMSG_Orud_01,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+ゲルドの街を旅立って ずいぶん経つが
+あたいの情熱は高まるばかりさ…
+熱さに強いゴロン族ならば
+あたいの恋の炎を受け止めてくれるかもな！","I'm Karsh of the Gerudo. Remember
+that name!It's been quite a while since I left home
+to go on this journey, but my passion
+hasn't gone down one bit.
+You know who else has endurance like
+that? The Gorons. Maybe one of them
+would be a match for me..."
+27,RetMSG_Orud_01_1,"熱さに強いゴロン族ならば
+あたいの恋の炎を受け止めてくれるかもな！","You know who has a lot of endurance?
+The Gorons. Maybe one of them could
+be a match for me..."
+28,RetMSG_Orud_02,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+種族を問わず運命のパートナーを見つけて
+幸せに暮らすのが あたいの夢…
+種族の違いなんて恋の前には無意味ね
+カタツムリとデンデンムシほどの違いもない","I'm Karsh of the Gerudo. Remember
+that name!All I want is to find the voe I was born
+to be with. It doesn't matter to me which
+race he is.
+I wouldn't turn down a voe because his
+skin was orange or his neck had gills.
+This is true love we're talking about!"
+29,RetMSG_Orud_02_1,"運命のパートナーを見つけて
+幸せに暮らすのが あたいの夢よ","Once I've found the voe I was born to be
+with, I can get on with the rest of my life."
+30,RetMSG_Orud_03,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+こう見えても…
+あたいは警備兵を務めたこともある弓の名手
+魔物の頭を射抜く「ヘッドショット」で
+ゲルドの街の住民を何度も救ってきたのさ！","I'm Karsh of the Gerudo. Remember
+that name!I'm just a traveler now, but there was a
+time when I was a master archer in the
+Gerudo Town guard.
+I can't count how many times I stopped
+monsters from invading the town with
+a single, well-placed arrow."
+31,RetMSG_Orud_03_1,"魔物の頭を射抜く「ヘッドショット」で
+ゲルドの街の住民を何度も救ってきたのさ！","I can't count how many times I stopped
+monsters from invading Gerudo Town
+with a single, well-placed arrow."
+32,RetMSG_Orud_04,"あたいは ゲルド族のカーシャ！
+覚えておきな！
+ひとつ後悔してるのは
+耐火効果のある服を持ってこなかったこと…
+ここから北の火山道は ひどい熱さらしいんだ
+砂漠の暑さと火山の熱さは別ものだからな！","I'm Karsh of the Gerudo. Remember
+that name!The only thing I wish I'd brought on my
+journey are some clothes that can
+withstand the burning heat.
+I hear it's unbearable on the roads
+around the volcano. Even worse than
+the desert air, if that's possible!"
+33,RetMSG_Orud_04_1,"ここから北の火山道は ひどい熱さらしいのに
+耐火効果のある服を忘れるなんてな…","I hear the heat on the roads around the
+volcano is unbearable. I wish I'd thought
+to bring some cooler clothes..."
+34,SavedLv1_00,魔物はもう…去ったな？,All clear?
+35,SavedLv1_01,やっかいな魔物だよ まったく…,"I'm so tired of dealing with these
+monsters every day."
+36,SavedLv2_00,油断も隙も ありゃしないね…,That's the way! Never give an inch!
+37,SavedLv2_01,あたいにとっては何てことなかったが…,"They have to come at me harder than
+that to impress me."
+38,SavedLv3_00,"はぁサヴォーテン…
+あっ いや…なんでもない","Sa'oten... That was... *ahem* That was
+nothing. I'm fine."
+39,SavedLv3_01,"今度ばかりは ダメかと思った…
+サークサーク…","I really thought the sands of my life had
+run out... Sarqso!"
+40,Talk04,サヴォッタ！,Sav'otta!
+41,Talk05,サヴァーク！,Sav'aaq.
+42,Talk06,サヴァサーバ！,Sav'saaba!
+43,Thanks00,"でも…まぁ…助かったよ
+そうだな…礼ぐらいはしておかないとな","Hey... It would be rude of me not to
+thank you for your help. So thanks."

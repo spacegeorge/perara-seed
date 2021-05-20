@@ -1,0 +1,238 @@
+#,Title,JPja,USen
+1,"""0000""",買います,I'll buy.
+2,"""0001""",いりません,Nope.
+3,"""0002""",何それ？,What's that?
+4,"""0003""",違います,Nope.
+5,Talk001,やぁ！ キミ盾サーフィンしに来たのかい？,"Heeey, man. You here for some
+shield surfing?"
+6,Talk002,"木の盾だね？""盾サーフィンするには
+手ごろな盾だよ それなら30ルピーでどうだい？","The wooden shield? A decent choice
+for shield surfing, sure. How's about
+30 rupees?"
+7,Talk003,"兵士の盾かい？""盾サーフィンでも戦いでも
+頼りになる盾だね！""100ルピーでどうだい？","The soldier’s shield? A reliable choice
+for combat or the slopes, sure.
+How's about 100 rupees?"
+8,Talk004,"騎士の盾だね？""頑丈だから盾サーフィンには
+もってこいだよ！""300ルピーでどうだい？","The knight's shield? A sturdy choice,
+sure. Perfect for shredding, my man!
+How's about 300 rupees?"
+9,Talk005,"やぁ！ また滑りに来てくれたのかな？
+どんどん滑ってってね！
+ていうか盾は全部売れちゃったから
+もうキミに用はないんだけどね…
+ボクの盾も売っちゃったし どうしようかな…？
+また廃墟にでも落ちてないかなぁ…
+それか ちょっと怖いけど夜
+魔物が寝てるところを こっそり かすめ取るか…","Heeey, man. You back to tear it up
+some more? Couldn't stay away,
+could ya? Yeaaah, go nuts out there.
+I'm all sold outta shields anyway, so I've got
+nothin' for ya, my man.
+
+I shouldn't have sold my own shield... Yeaaah.
+Well, maybe I'll find another just lyin' around
+the ruins.
+Or maybe I can try sneaking up on a monster
+when it's sleeping and stealing theirs...
+Nah, too scary."
+10,Talk006,"おっ！""盾が欲しいのかい？！","Heeey, man! You lookin' for a shield?!"
+11,Talk007,また今度 よろしくね！ていうか買ってもらわなきゃ サークル解散だよ…,"Aww. Maybe next time.If I don't sell somethin' soon, my gang is doomed..."
+12,Talk008,"ありがとう！盾サーフィンの気持ちよさ
+ぜひ試してみてね！
+ふぅ… これで少しは しのげるかな…","Rock solid, man! You just gotta shred it
+up and you'll be sold for life!
+
+Phew! With this sell, maybe we can keep going
+just a little longer..."
+13,Talk009,"うーん…""ルピーが足りないみたいだね","Oh, awkward... Looks like you're a little
+light on rupees, my man."
+14,Talk010,"おや…""ポーチがいっぱいじゃないか","Whoa there... Looks like your inventory
+is full, my man."
+15,Talk011,"ちょっ？！
+何してんの？！",Heeey! Quit messin' around!
+16,Talk012,"ふぅ…
+あぶない あぶない…
+売れる盾が無くなったら サークル解散だよ…","Phew! That was dangerous!
+
+
+Ugh, if I don't have shields to sell,
+my gang is doomed..."
+17,Talk013,"ありがとう！
+これでキミも立派な盾サーファーだよ！
+そういえば キミは知ってるかい？
+盾サーフィン界の伝説スレミーねえさん！
+スレミーねえさんが盾に乗れば
+何人たりとも その前を進むことができず…
+その滑りは見る者すべてを魅了したんだ！そして若くして引退し
+生ける伝説となった女性なんだよ
+今は北西にあるヘブラ山脈のどこかで
+静かにゆっくり暮らしてるんだって
+キミも盾サーファーなら 
+会いに行ってみたらどうだい？
+実際に行って そのまま遭難した人も
+たくさん いるらしいけど…","Thanks, my man! Now you're a bona fide
+shield surfer! By the way, have ya heard
+about the legend? Pretty epic.
+The legend of the shield-surfing world is
+Selmie! When Selmie boarded a shield,
+nothin' could stand in her way.
+Everybody who saw her tear it up
+was practically hypnotized!
+That's raw skill, man.
+She retired young and became a living
+legend. They say she settled down in
+the Hebra Mountains to the northwest.
+If you're serious about shield surfing,
+maybe you should try to track her down.
+
+Actually, lots of folks have tried to meet her...
+and they all ran into trouble along the way."
+18,Talk014,"ありがとう！ そいつは盾サーフィンでも
+なかなか壊れないからね！
+そうそう壊れないといえばハイリアの盾！
+業界人なら誰でも知ってる盾なんだ！
+何といっても王室御用達！ その頑丈さは
+盾サーフィンにも ピッタリだったっていうよ
+今は ほとんど出回ってないけど…
+ハイラル城には あるかもしれないって噂だよ
+あそこに行って無事に済んだ人 いないらしいけどね…","Rock solid, man! That shield right there
+won't easily break, that's for sure.
+
+Oh! Speaking of not breaking, have ya
+heard about the Hylian shield? Everyone
+in the surfing scene covets that bad boy.
+It's clearly commissioned by the royal
+family or somethin'! Its sturdiness makes
+it perfect for shield surfing too.
+You don't really see 'em around these
+days...but rumor has it there's one in
+Hyrule Castle.
+Though no one has ever gone there
+and returned in one piece..."
+19,Talk015,"ここからなら まっすぐ北西の方に滑り降りたら
+初心者でも気持ちよく滑れると思うよ
+さぁ！ しっかり盾サーフィンを
+堪能していってよ！
+盾 どうしようかな…？
+また廃墟にでも落ちてないかなぁ…
+それか ちょっと怖いけど夜
+魔物が寝てるところを こっそり かすめ取るか…","If ya slide down to the west of here,
+it's a smooth ride even for beginners.
+
+All right, let's go! Shield surf 'til ya
+can't move!
+
+Speaking of shields, I need one myself...
+Maybe I'll try searching the ruins again
+to see if there are any just lying around.
+Or maybe I can try sneaking up on a monster
+when it's sleeping and stealing theirs...
+Nah, too scary."
+20,Talk016,"やぁ！ また盾サーフィンしに
+来てくれたんだね！
+もし盾が無くても ここに少しはあるから
+よかったら買っていってね！
+ていうか買ってもらわないと
+つぶれるんだよね このサークル…","Heeey, man. Back for some more shield
+surfing? Couldn't stay away, could ya?
+Heh. I feel ya.
+Oh, and if ya don't have your own shield,
+we've got some lying around here you
+can buy, if you wanna.
+If people don't start buying them soon...
+this gang will go out of business."
+21,Talk017,"ここからなら まっすぐ北西の方に滑り降りたら
+初心者でも気持ちよく滑れると思うよ
+さぁ！""遠慮せず どんどん滑ってみてよ！そしてどんどん盾を買ってよ…！","If you slide down to the west of here,
+it's a smooth ride even for beginners.
+
+All right, let's go! Don't be shy—just
+shred it up.
+
+And keep buying more shields, man!"
+22,Talk018,"大丈夫大丈夫！
+何も心配することなんかないよ！
+ボクらは盾サーフィンサークル
+「盾壊し屋」のメンバーなんだ！
+ボクと下にいるフィンと メンバーは2人だけだけど…盾サーフィンで さっそうと滑り降りる快感…
+それを広めたくて活動しているんだ！
+この丘は盾サーフィンには絶好のスポット！
+さっそく体験してみてよ！
+もし盾が無くても ここに少しはあるから
+よかったら買っていってね！
+ていうか買ってもらわないと
+つぶれるんだよね このサークル…","That's all right, that's all right!
+Nothing to worry about, my man!
+
+Ya see, I'm a member of the shield-
+surfing gang, the Shield Breakers!
+
+Fin and me are the only two members, though...
+
+
+I make it my business to sell folks on
+the experience. The lifestyle. Yeaaah.
+Shields were made to be surfed on!
+Lucky for you, this hill here is the most
+savage spot for shield surfing. You just
+gotta crush it for yourself, my man.
+Oh, and if ya don't have your own shield,
+we've got some lying around here you
+can buy, if you wanna.
+If people don't start buying them soon...
+this gang will go out of business."
+23,Talk_20,"やぁ よく来てくれたね！""フィンの奴
+強引に誘ったみたいでゴメンな
+ボクらは盾サーフィンサークル
+「盾壊し屋」のメンバーなんだ！
+ボクとフィンと メンバーは2人だけだけど…盾サーフィンで坂をさっそうと
+滑り降りる快感… さっそく試してみてよ！
+盾が無くても ここに少しはあるから
+よかったら買っていってね！
+ていうか今月も赤字なんだよね このサークル…","Heeey, man. Nice of you to stop by!
+Sorry about Fin strong-armin' ya
+into comin' up here, heh.
+It's cuz we're members of the shield-
+surfing gang, the Shield Breakers!
+
+Fin and me are the only two members, though...
+
+
+You just gotta live the experience.
+The lifestyle, if you will. Yeaaah.
+Shields were made to be surfed on!
+Oh, and if ya don't have your own shield,
+we've got some lying around here you
+can buy, if you wanna.
+If people don't start buying them soon...
+this gang will go out of business."
+24,Talk_21,"やぁ また来てくれたんだね！
+
+盾サーフィンで坂をさっそうと
+滑り降りる快感… さっそく試してみてよ！
+盾が無くても ここに少しはあるから
+よかったら買っていってね！
+じゃないと つぶれるんだよね このサークル…","Heeey, man! You came back!
+
+
+You just gotta try the experience.
+The lifestyle, if you will. Yeaaah.
+Shields were made to be surfed on!
+Oh, and if ya don't have your own shield,
+we've got some lying around here you
+can buy, if you wanna.
+If you don't...this gang is doomed."
+25,Talk_22,"やぁ また来てくれたんだね！
+
+盾サーフィンで坂をさっそうと
+滑り降りる快感… さっそく試してみてよ！
+盾は全部売れちゃったし もうキミに用はないんだけどね…","Heeey, man! You came back!
+
+
+You just gotta try the experience.
+The lifestyle, if you will. Yeaaah.
+Shields were made to be surfed on!
+Let up, man. I'm all sold outta shields,
+so I've got nothin' for ya..."
+26,near_00,買ってくれないかな…,I hope I can make a sale...

@@ -1,0 +1,211 @@
+#,Title,JPja,USen
+1,"""0000""",始めます,Let's start.
+2,"""0001""",ルール聞かせて,Let me hear the rules.
+3,"""0002""",もう少し待って,Hang on a sec.
+4,"""0003""",もう一度挑戦する,Again!
+5,"""0004""",今はいいです,I'm gonna take a break.
+6,Npc_oasis038_R_001,……,...
+7,Npc_oasis038_R_002,感動した！,I was so moved!
+8,Npc_oasis038_R_003,"…これからは
+私がお前の背中を…追いかける
+覚悟しておくんだな","From now on, I'll be driving to beat you.
+You'd better be prepared!"
+9,Npc_oasis038_R_004,"ふふ…
+こんなパフュー久々だねぇ
+まだ駆け出しのレーサーで
+無我夢中で練習していた頃を思い出すねぇ
+また一から頑張ろうな パフュー","Hehe... I haven't seen Tali energized like
+this in quite some time.
+
+It reminds me of when she was a new
+rider, practicing intensely and with
+everything to prove..."
+10,Npc_oasis038_R_005,"ちょいちょいちょいちょい！！！
+
+なに澄ました顔して
+話しかけてるんだよ！
+祠だろ？
+あれ？？","Hey, hey, hey, hey!!
+
+
+Don't give me that look like nothing out
+of the ordinary has happened!
+Is that a shrine?!"
+11,Npc_oasis038_R_006,"まさかとは思ったが…
+
+ふふ…選ばれし者に負けたのであれば
+むしろ光栄といったところだな","I didn't think it'd actually happen, but...
+
+
+Well, if it takes someone like you—
+destined for greatness—to beat me,
+then it really is kind of an honor."
+12,Npc_oasis038_R_007,"ちょっとパフュー
+アンタまで何澄ました顔してるんだい？
+…アタシゃ驚いて
+腰が抜けそうだったよ
+寿命が3年は縮んだよ！","Hang on now, Tali! Don't act like this
+isn't a big deal!
+
+Just watching knocked the breath right
+out of me! I'm sure I lost three years off
+my life from the stress too!"
+13,Npc_oasis038_R_008,…たった3年か,...Just three years?
+14,Npc_oasis038_R_009,"…ん？
+あんだって？",Huh? What are you trying to say?!
+15,Npc_oasis039_AfterGoal_040,"最高記録の
+分秒には届かなかったようだが…
+アンタの走りは
+見ていて気持ちがいいねぇ
+ふふ…もらったルピーは返してやるよ
+次のラリーに使っとくれ！","Your best time is :.. Seems like 
+you didn't beat it this go around... But
+your riding skills are a treat to watch.
+You know what? I'll give you back the
+rupees you gave me. Use them on your
+next try!"
+16,Npc_oasis039_Miss01,チャンピオンの名が泣いちまうよ…,"You're not showin' true respect to the
+title of champion..."
+17,Npc_oasis039_Miss02,アンタの本気楽しみにしてるからね,"I'm looking forward to seeing you
+put out your absolute best effort."
+18,Npc_oasis039_Miss03,"まだやるかい？
+もちろん100ルピーはいただくけどね","Wanna keep trying?
+Of course, it'll be 100 rupees from ya."
+19,Npc_oasis039_R_001,"まぁパフューがそういうなら
+アタシゃいいけどさ","Well, I suppose if you're OK with it, then
+I can be OK with it too."
+20,Npc_oasis039_R_002,"相変わらず いい返事だね
+じゃあ100ルピーいただこうかね",Excellent! That'll be 100 rupees.
+21,Npc_oasis039_R_003,"ちょいちょいちょい！
+
+盾を持ってないじゃないか！
+
+チャンピオンのくせにスナザラシに乗るには
+盾がいるってこと忘れちまったのかい？
+盾を装備してから
+出直してくるんだね","Hey, hey, hey! Hang on one second!
+
+
+You don't have a shield! Did you really
+forget you need a shield in order to
+sand-seal surf? Come on now, champ!
+Come back and see me once you've got
+a shield equipped!"
+22,Npc_oasis039_R_004,"スナザラシに乗り決められたアーチを通って
+目的地に向かい時間を競い合う
+途中でスナザラシから下りたり…
+コースエリアから外れすぎたら失格だよ
+現在の最高記録""分秒を
+更新できれば賞金300ルピー！
+さっ もういいだろ？
+長い話は嫌いなんだ
+1回100ルピーだが
+やってくかい？","Guide your sand seal and head toward
+the goal, all while going through the
+arches. Aim to set a new record!
+Remember, if you leave the course or
+get off your shield, you'll be disqualified!
+
+The best time so far is :..
+If you can beat it, you'll be awarded
+300 rupees!
+That's enough chitchat! It's 100 rupees
+to give it a try. What do you say?"
+23,Npc_oasis039_R_005,"チャンピオンのくせに
+ビビッてんのかい？
+でも またあの走りを見せてくれるなら
+いくらでも待ってやるさ","What, are you scared? Well, let me know
+when you're willing to show off that
+great riding. I can wait."
+24,Npc_oasis039_R_006,"ふふっ 
+そうこなくっちゃね","Haha, now that's the spirit!"
+25,Npc_oasis039_R_007,"ちょいちょいちょい！
+
+100ルピーも持ってないのかい？
+
+チャンピオンの名を汚すんじゃないよ！
+
+持ちモンでも何でも売って
+金を作ってくるんだね","Hey, hey, hey! Hang on one second!
+
+
+You don't have 100 rupees? Don't bring
+shame on the title of race champ by not
+being able to pay your dues!
+Go and sell something, or find some
+other way to get a few rupees, then
+come back here!"
+26,Npc_oasis039_R_008,"でもまぁ そうだねぇ…
+
+3年は縮んだが
+新チャンピオン打倒という目標が出来たからね
+パフューがまた
+チャンピオンに返り咲く その日まで
+くたばるわけには いかなくなったよ","Well... That may have taken three years
+off my life, but now I've got a new goal—
+training Tali to defeat the new champ!
+I won't rest until Tali has pulled off her
+big comeback and reclaimed the title
+of racing champ!"
+27,Npc_oasis039_R_009,"なんだい？
+
+新チャンピオンになったからって
+パフューを笑いに来たんじゃないだろうね！","What? What do you need? You better not
+have come here to mock Tali now that
+you're the new champion racer!"
+28,Npc_oasis039_R_010,"……
+
+待って師匠…
+こいつはそんなスカした奴じゃないよ…
+あんな走り…
+悪いヤツにはできないよ","...Hang on a moment. This racer isn't all
+that bad, I don't think. No one who rides
+like that could be a bad person..."
+29,Npc_oasis039_R_011,"それで乗ってくのかい？
+
+チャンピオンといえども
+1回100ルピーは払ってもらうよ？","So do you wanna take a ride? Even as
+the champion, you'll need to pay
+100 rupees each time."
+30,Npc_oasis039_R_012,"それもそうだねぇ
+
+でも チャンピオンといえども
+料金はキッチリもらうよ
+1ラリー100ルピーだよ
+走ってくかい？","I suppose you're right...
+
+
+Well, even if you are a racing champ,
+you'll need to pay the 100-rupee fee.
+Still want to do it?"
+31,Npc_oasis039_R_013,"また来たのかい？
+何度でも挑戦していいが
+こう何度も来られちゃ
+こっちが練習できないじゃないか","You're back again?
+
+
+When are we supposed to use the track
+if you're hogging it all the time?!"
+32,Npc_oasis039_R_014,"…師匠
+
+チャンピオンの走りを見ることも
+勉強だと思うが…","Teacher... I think studying the
+champion's riding skill is important too..."
+33,Npc_oasis039_R_015,"さあ長話はここまでだ
+
+せっかくだ
+一乗りどうだい？
+チャンピオンといえども
+100ルピーはいただくがね","Now then, enough chitchat. If you want
+to ride, you'll have to pay the 100
+rupees. No discounts, even for a champ!"
+34,Npc_oasis039_S1_001,"ちょいちょいちょい！
+スナザラシから降りたらダメだって言っただろ！
+残念だが ここで終了だよ","Hey, hey, hey! I told you not to get off
+your shield! I'm sorry, but we have
+to halt the race."
+35,Npc_oasis039_S1_003,"ちょいちょいちょい！
+コースを外れたらダメだって言っただろ！
+今回はここまでだよ！","Hey, hey, hey! I told you that you
+couldn't leave the course! I'm sorry,
+but we have to halt the race."

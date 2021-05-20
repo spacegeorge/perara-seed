@@ -1,0 +1,252 @@
+#,Title,JPja,USen
+1,SupriseHouse,わわっ！誰？？,Argh! Who's there?!
+2,SupriseHouse_00,"なんだ…剣士様か…
+
+ビックリした…","Oh! It's Mr. Hero...
+
+
+You scared me half to death..."
+3,Talk_01,"呉服屋忍杏亭は
+年中無休で営業中…
+…って やだ！
+お兄さんって私の好みのタイプかも～！","Enchanted is open for business every
+day of the year!
+
+...Oh, my. Look at that face!
+You are TOTALLY my type.
+Hi."
+4,Talk_02,シーカーストーン？！,A Sheikah Slate?!
+5,Talk_03,"それって すごい人しか持てない
+すごいモンなんでしょ？","Isn't that, like...an incredible thing that
+only incredible people can have?"
+6,Talk_04,"雨の日も気分は晴れ晴れ営業中！
+呉服屋忍杏亭はこちらです！","We're open rain or shine!
+Enchanted, right this way!"
+7,Talk_05,"年中無休で営業中！
+呉服屋忍杏亭はこちらです！","We're open every day!
+Enchanted, right this way!"
+8,Talk_06,"朝早いのに元気だね！
+
+これから クラリんとこ行くんだけど
+服が欲しいなら一緒に行ってみない？","Good morniiing! You sure look chipper,
+even though the day's just begun!
+
+I'm about to go into Claree's place.
+If you're after some new threads,
+you're welcome to come along."
+9,Talk_09,"……
+
+ちょっ… ちょっと アンタ誰よ！
+こんな時間に レディーの部屋に来るなんて…
+……あれ？
+
+それってシーカーストーンじゃない？
+
+まさかアナタが おばあちゃんが言ってた
+大厄災の… あの剣士様ってこと？
+へぇ～
+もっとおじいちゃんかと思ってた…
+まぁ私達みたいな若者にとっては
+大厄災って言われても ピンとこないんだけど…
+…って そのぽかんとした顔
+もしかして アナタもピンときてないの？","...
+
+
+HEY! How could you BE so rude!
+Bothering a lady in her room!
+And AT NIGHT of all times!
+...
+...
+...Huh?
+Isn't that...a Sheikah Slate?
+
+
+Are you the hero Grandmother told me
+about? The legendary swordsman...
+of the Great Calamity?
+WOW! I figured you'd be all old and
+wrinkly by now. But you SO are not...
+
+Young people like me have a hard time
+wrapping our heads around something
+like the Great Calamity.
+Huh... Judging by the look on your face,
+I dare say you're having a hard time
+with it too."
+10,Talk_10,"ああ お兄さん
+遊びにきてくれたの？
+私ね夜のこの時間が大好きだったんだ…
+
+夜はね色んなものが光っていて
+キラキラして きれいなの
+ホタルなんかも あちこちにいたんだけど
+そっと近づいて捕まえるのが意外と難しくてね
+気が付いたら朝 なんてこともあって
+おばあちゃんに よく叱られたっけな…
+でも最近は村の近くにまで魔物が出てきたり
+イーガ団が出るって噂まであって…
+で…仕方なくお家で ゴロゴロしてるってわけ
+あ～ なんか面白いことないかなぁ…","Oh! You're paying me a visit?
+That's sweet of you.
+
+Ya know, I used to really love the night.
+At night the world sparkles and shines
+in an almost magical way. It's beautiful.
+Oh, and fireflies are everywhere!
+Though trying to sneak up on and
+catch them is quite a challenge.
+There were times when I'd stay out so
+late, I didn't realize morning had come.
+Grandmother always scolded me for that.
+But that's all in the past. Now there are
+monsters around the village and rumors
+that the Yiga Clan is nearby and active...
+That's why I'm forced to lounge around
+at home instead of chasing the night.
+*sigh* I wish I could do something..."
+11,Talk_11,"ホタル きれいだったなぁ…
+また見られるなんて思ってなかったよ…
+ありがとね剣士様","The fireflies were so pretty...
+I didn't think I'd ever see them again.
+Thank you, Mr. Hero."
+12,Talk_12,"なんだろう…ホタルがいるってだけで
+すっごく やさしい気持ちになるよね","I don't know why, but seeing fireflies
+always warms my heart..."
+13,Talk_13,"やだ もうこんなに暗くなっちゃった！
+早く帰らないと おばあちゃんに叱られちゃう！","Oh, my! It's already so dark!
+I've gotta get back home right away,
+or Grandmother will scold me!"
+14,Talk_14,"ああ…今日もホタル きれいだったなぁ…
+
+この村では ホタルは一年中見られるんだけど
+捕まえるのが なかなか難しくてね…
+子供のころは簡単だったのになぁ…","Wow, the fireflies were gorgeous today.
+I love that you can see them all year
+long in this village.
+But...they're really hard to catch.
+I was pretty good at it when I was
+a kid, though."
+15,Talk_15,"昔はよく夜に
+ホタルをとりに行ったんだ
+あの子達って すぐ逃げちゃうから
+そっと近づかないといけないんだけど
+それが楽しくって…
+
+でも最近は村の近くにまで魔物が出てきたり
+イーガ団が出るって噂まであって…
+夜は外に出るなって言われてるんだ
+あ～ なんか面白いことないかなぁ…","I used to go out at night to catch
+fireflies. They fly away quickly, so you 
+have to sneak up on them slowly.
+It's more than fun...it's magical.
+
+
+But that's all in the past. Now there are
+monsters around the village and rumors
+that the Yiga Clan is nearby and active...
+That's why I'm forced to stay inside
+when it's dark instead of chasing the
+night. *sigh* I wish I could do something."
+16,Talk_16,"ホタルを見てから朝も元気いっぱいだよ！
+
+今日も お店の呼び込み がんばるんだ！
+剣士様も また来てね！","I saw some fireflies fireflying around,
+so now I'm in a good mood and ready
+to face the day!
+I'm gonna do my best to get lots of
+customers today! Promise to come
+back again soon, Mr. Hero!"
+17,Talk_20,"売り物は なくなっちゃったけど…
+
+美人のクラリちゃんが
+いつでもアナタを お出迎え！
+よかったら寄ってってね！！","We've sold through all of our stock... 
+
+
+But don't worry! The lovely Claree
+is always happy to greet you.
+See for yourself!"
+18,Talk_21,おはよー！,Good morniiing!
+19,Talk_23,"お家で ホタルが見られるなんて！
+剣士様には本当に感謝だよ！
+クラリに見せてあげたいな～","I can't believe it! I can see fireflies right
+outside my house! Life doesn't get any
+better than this.
+I really owe you one... Oh! Oh!
+I bet Claree would like a picture
+of this!"
+20,Talk_25,"雨宿りだけでも いいですよ！
+呉服屋忍杏亭はこちら…
+…って やだっ！
+お兄さんって私の好みのタイプ～！","We're open rain or shine!
+Enchanted, right this...
+right this way...
+Oh, my... What's this? Look at that face!
+You are TOTALLY my type. Hi."
+21,Talk_26,"…ウ ウソでしょ…？
+
+でも まぁ…私は よくわかんないけど
+剣士様には使命ってのあるんでしょ？
+ウチは呉服屋やってんだけど
+身支度が必要なら いつでも寄ってってよ","You must be kidding me...
+
+
+I don't...know about that kind of stuff.
+But I'm pretty sure the hero of legend
+is on...like, a quest or something?
+I'm, uh, running a clothing shop here...
+so stop by if you're looking for
+something cute to wear."
+22,Talk_27,"…ウ ウソでしょ…？
+
+じゃあインパ様の所にでも行ってきたら？
+アナタの知りたいこと教えてくれると思うよ","...Are you kidding me?
+
+
+Um, you should go see Lady Impa.
+She seems like she would know about
+that kind of thing."
+23,Talk_28,けっこう降ってきちゃったね～,"Wow, it's really coming down!"
+24,Talk_29,"今日は あいにくのお天気だね！
+
+これから クラリんとこ行くんだけど
+服が欲しいなら一緒に行ってみない？","Good morniiing! The weather's kinda
+yuck today, isn't it?
+
+I'm going into Claree's place now,
+but feel free to tag along if you're
+looking to buy some new clothes."
+25,Talk_30,"しかも腰に
+シーカーストーンなんか つけちゃって！
+……
+
+えっ？","Ooh, and you even have a Sheikah Slate
+on your hip!
+
+...
+
+
+Wait...huh?"
+26,Talk_32,"雨降りって うっとうしいですよね…
+
+…って やだ！
+お兄さんって私の好みのタイプかも～！","You sure look chipper even though
+it's such a rainy day.
+
+...Oh, my. Look at that face!
+You are TOTALLY my type.
+Hi."
+27,Talk_33,"え？誰なの？
+
+…って やだ！
+お兄さんって私の好みのタイプかも～！","Hm? Who is it?
+
+
+Oh, my... What's this? Look at that face!
+You are TOTALLY my type!"
+28,Talk_34,"よくわかんないけど お兄さん…
+きっと すごい人なんだね","I'm not sure what this all means, mister...
+But it seems you're a great deal more
+important than you appear."
+29,near00,んっ？,Hm?
+30,near01,呉服屋で～す,New clothes! Cute outfits!

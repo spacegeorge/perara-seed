@@ -1,0 +1,219 @@
+#,Title,JPja,USen
+1,"""0000""",何かあったの？,What happened?
+2,"""0001""",さよなら,Good-bye.
+3,Raimei_CK_001,"……
+珍しいモン被ってるじゃないかい？
+次は アンタが盗人にでも
+なったのかい？
+ふっふ…
+冗談さ…
+アタシがまだ宮殿にいた頃 
+先代様がそれを被ってねぇ
+まだ小さな ルージュ様に
+一生懸命何かの言葉を伝えてらっしゃったよ
+懐かしいねぇ…
+
+それはゲルド族の宝でもあり
+族長様の想い出の品でもあるんだ
+どういった経緯で手に入れたかは知らんが
+大切に扱うんだよ","...That's quite an unusual thing you're
+wearing on your head, isn't it?
+
+Well, I can't say I expected to see you
+wearing that...
+
+Are you exploring what it's like to be a
+thief, now?
+
+Eheheh, I'm only kidding, of course.
+
+
+Seeing that reminds me of when I still
+worked in the royal palace.
+
+That item was worn by the previous
+chief, you know. It brings back such
+memories...
+*ahem* Anyway, that helm is a real
+treasure to the Gerudo people and to
+the chief.
+I don't know how you got it, exactly, but
+you must treat it with care."
+4,Talk_01,"なんだい？
+一応挨拶はしたが
+アタシにはハイリア人の知り合いなんて
+いた覚えはないがね…
+アタシはずっと宮殿に仕えていたもんで
+この街から一歩も外に出た事がないからねえ
+ビューラが一人前になって
+やっとゆっくりできると思った矢先
+こんなことになっちまって…
+
+しかし今アタシはもう引退した身
+どうしてやることもできんがな…","What is it? I feel like I've met you before,
+but I don't recall having any Hylian
+acquaintances...
+Especially since I've only ever served
+in the palace. I've never even set foot
+beyond the town's walls.
+I thought I could relax at last, now that
+Buliara has come of age. But then
+something like this happens...
+I'm retired now, though, so there isn't
+anything I can do about it."
+5,Talk_02,"あろうことか国の宝を盗られちまうなんて
+警備兵は何をしてたんだか…
+私が兵士長だった頃には
+考えられん失態だよ… まったく情けない…
+兵士長のビューラが前線に出ておれば
+こんなことには ならんかっただろうに…","What were the guards doing while
+thieves were sneaking into town and
+making off with the chief's heirloom?
+When I was captain of the guard, such a
+failure would have been absolutely
+unthinkable. It's just pathetic.
+If Buliara was out on the front lines, this
+would never have happened."
+6,Talk_03,"でも まぁ…""誰もケガもせず
+無事だったのは不幸中の幸いってもんだよ
+まったく… 
+こんな騒動二度とごめんだねぇ","I hope that I never have to witness
+such turmoil ever again."
+7,Talk_04,"アタシが現役ならば
+兵士共全員鍛えなおしてやるんだけどねぇ","If I were still on active duty, I'd whip all
+of those guards back into shape."
+8,Talk_05,"少し前にな…
+
+族長様の乗られたスナザラシが
+魔物に驚いて暴走しちまって
+ナボリスに近づいてしまったんだ…
+
+ナボリスは近づく者を雷で退ける…
+
+族長様もあわや雷の餌食に
+なりかけちまってねぇ…
+それ以来ビューラは
+族長様のお側につきっきりなんだ","A little while ago...
+
+
+The sand seal that the chief was
+with got spooked by a monster and
+ran off...
+She quickly realized that it had pulled
+her very close to Naboris...
+
+Anyone who approaches Naboris risks
+being struck by lightning from that
+Divine Beast.
+The chief was lucky to get away... And
+ever since then, Buliara has refused to
+leave her side."
+9,Talk_06,"朝から晩まで
+ペチャクチャと…
+うるさくて ちっとも眠れないよ！
+
+あんなにうるさいんじゃ
+隣の家の住人も たまったもんじゃないだろうね","It's impossible to get a wink of sleep with
+how noisy everyone is! All those young
+ones at the canteen...
+I'd like to whip their attitudes into
+shape."
+10,Talk_07,サヴォッタ…,Sav'otta...
+11,Talk_08,サヴァーク…,Sav'aaq...
+12,Talk_09,サヴァサーバ…,Sav'saaba...
+13,Talk_10,"少し前にな賊が宮殿に忍びこみ
+この国の宝雷鳴の兜を盗んでいったんだ
+賊に入られるだけでも情けないのに
+あろうことか国の宝を盗られてしまうとは…
+アタシが現役なら
+兵士全員ゲルド砂漠100周の刑にして
+一から鍛え直してやるんだがねぇ","A little while ago, a gang of thieves
+slipped into the palace and stole the
+chief's heirloom, the Thunder Helm.
+It's bad enough to be robbed in general,
+but for the object stolen to be a valued
+heirloom belonging to our own chief...
+If I was still in charge, any guard who
+failed to catch those thieves would be
+doing some serious manual labor.
+And then they'd be thrown back into
+training, all the way from the beginning.
+No exceptions!"
+14,Talk_11,"雷鳴の兜が戻ってきたらしいねぇ…
+
+良かった良かった…
+
+と言いたいところだが
+なんでも取り返したのは
+ゲルドの兵士ではなく
+外から来た者だっていうじゃないか
+まったく…兵士達は何をしてたんだか…
+
+アタシが兵士長だった頃には
+考えられん失態だよ… まったく情けない…
+ビューラが前線に出ておれば
+他人の手など借りずに済んだだろうに…","Apparently the Thunder Helm has been
+returned to us. Thank goodness for
+that...
+But don't break out the glasses of Noble
+Pursuit just yet. It wasn't even a Gerudo
+soldier who did it...
+It was some outsider, I hear. What were
+the soldiers doing while this outsider was
+demonstrating such skill?
+When I was on active duty, this
+avalanche of failures would be
+unthinkable!
+Buliara needs to get back out on the
+front lines where she belongs."
+15,Talk_12,"なんだい？
+一応挨拶はしたが
+アタシにはハイリア人の知り合いなんて
+いた覚えはないがね…
+アタシはずっと宮殿に仕えていたもんで
+この街から一歩も外に出た事がないからねえ
+ビューラが一人前になって
+やっとゆっくりできると思った矢先
+神獣は暴れだすわ
+賊に入られるわ…
+しかし今アタシはもう引退した身
+どうしてやることもできんがねぇ…","What is it? I feel like I've met you before,
+but I don't recall having any Hylian
+acquaintances...
+Especially since I've only ever served
+here in the palace. I've never even set
+foot beyond the town's walls.
+I thought I could relax at last, now that
+Buliara has come of age. But of course
+things can't be easy.
+With the Divine Beast raging around
+and thieves breaking into town...
+
+I'm retired now, though, so there isn't a
+lot I can do, unfortunately..."
+16,Talk_13,"神獣が鎮まったようだねぇ…
+
+なんでもルージュ様がご活躍されたとか…
+
+幼くともルージュ様は
+立派な族長様だよ
+今回の事でビューラも
+ルージュ様を見る目が変わっただろうからねぇ
+これからは今までのような
+失態はなくなるはずだよ
+やれやれ これでやっとアタシも
+安心して休めるってもんだよ","It seems like the Divine Beast has finally
+stopped stomping all over the desert...
+
+I hear Lady Riju played an active part in
+calming the creature, too.
+
+She may be young and may seem out of
+her depth, but she's certainly proven to
+be a splendid chief.
+With everything that's happened lately,
+I'd bet Buliara is starting to see Lady Riju
+differently, too.
+I think the mishaps are behind us now.
+Maybe now I can finally get some rest
+and really relax."

@@ -1,0 +1,202 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ…はぁ…
+はぁ…はぁ…",*huff* *gasp* *wheeze*
+2,Atacked01,魔物がいて身動きがとれないよ…,M-m-m-monster...
+3,Failed00,"足をくじいたかも…
+でも大したことはなさそう","I may have sprained my ankle... Hope it's
+not too bad."
+4,Failed01,"お気に入りのこの服を汚されたかも…
+でも大したことはなさそう","And now my favorite outfit is dirty! Ah
+well, it's also my only outfit, so...what
+is one to do?"
+5,Guardian00,"早く逃げたほうがいい！
+ガーディアンが こっちに来る！",Run! Guardian coming this way!
+6,MSG_Kyu_00,"君の旅は何を探す旅なんだい？
+
+僕の旅は ハイラルのどこかにいるという
+ある伝説の生き物を探す旅なんだ
+その生き物…信じられないほど長くって
+ぜんぶで三種類いるのだという
+もし目撃しても教えてくれなくていいよ
+自分で探すことに この旅の意義があるからね！","So what are you searching for on your
+journey? Mine is about finding a certain
+creature said to exist in Hyrule.
+There are actually three of these long,
+legendary creatures...
+
+I must find them on my own!
+"
+7,MSG_Kyu_00_1,"僕の旅は ハイラルのどこかにいるという
+ある伝説の生き物を探す旅さ
+ぜんぶで三種類いるという噂だけど
+もし目撃しても教えてくれなくていいよ","So what are you searching for on your
+journey? Mine is about finding a certain
+creature said to exist in Hyrule.
+There are actually three of these long,
+legendary creatures...I need to find them
+on my own!
+"
+8,MSG_Kyu_01,"君の これまでの旅の中で
+忘れられない出会いはあったかい？
+僕がまだ会えない伝説の生き物…
+ある人たちは それを龍と呼んでいるらしいけど
+その憧れの生き物と会える日は
+確実に近づいている気がするんだ
+なぜなら聖なる泉と呼ばれる場所に
+龍の伝承が残っていることを突き止めたから！","Had any memorable experiences during
+your travels? 
+
+I'm looking for a legendary creature,
+some have called it a dragon.
+
+There's a legend about a dragon that
+remains near a sacred spring..."
+9,MSG_Kyu_01_1,"憧れの生き物龍と会える日は
+確実に近づいている気がするんだ
+なぜなら聖なる泉と呼ばれる場所に
+龍の伝承が残っていることを突き止めたから！","I have a feeling that I will soon find this
+dragon I am searching for...
+
+The legend says that one remains near a
+sacred spring!"
+10,MSG_Kyu_02,"僕が探しているもの？
+それは ある人たちが龍と呼ぶ伝説の生き物さ
+ひとたび舞い上がると空を覆いつくすほどの
+長大な姿をしているというんだ","I'm looking for a legendary dragon... One
+said to be so large that its body blocks
+out the sun when it rises into the sky."
+11,MSG_Kyu_02_1,"僕が探している伝説の生き物は龍と呼ばれ
+それはそれは長大な姿をしているらしいんだ","I'm looking for a legendary dragon...one
+thought to be of immense size."
+12,MSG_Kyu_03,"おそらく答はノーだろうけど質問するよ
+
+君は龍とも呼ばれる伝説の生き物を
+目撃したことが あるかい？
+ハハハ…あるわけないよね","Have you ever seen a dragon of legend
+flying through the sky?
+
+Why do I still ask people this...
+I seriously doubt you have."
+13,MSG_Kyu_03_1,"龍とも呼ばれる伝説の生き物を
+実際に目撃した人など いるのだろうか？","I wonder if anyone in Hyrule has actually
+ever seen a dragon..."
+14,MSG_Kyu_04,"君は旅の途中のようだけど
+聖なる泉について何か知っているかい？
+そこには龍と呼ばれる生き物の伝承が
+残されているらしいんだけど…
+そういう噂が全て この僕をだますための
+作り話のように思えてきているんだ…","Hey there, fellow traveler! You happen
+to know anything about a sacred spring?
+
+Supposedly there's a legend about a
+dragon and a spring, but...I don't know.
+People just like to talk."
+15,MSG_Kyu_04_1,"聖なる泉には龍と呼ばれる生き物の伝承が
+残されているという不確かな噂があるんだ","There's an unfounded rumor that there's
+a dragon who likes to hang out near a
+sacred spring...
+Unfounded as of right now, anyway."
+16,Near00,ネルフロオルドラ～,DINAYROSH!
+17,Near01,空のどこかに？,Somewhere in the sky?
+18,Near02,必ずや…,I swear to...
+19,Near03,いつかこの目で…,With my own eyes...
+20,Near04,目が冴えちゃって…,I can see clearly...
+21,Rest_00,"天を舞うのか あるいは地を駆けるのか
+伝説の生き物に会えるのは いつの日か…",I need to see a dragon. I NEED to!
+22,Rest_01,"馬に負担をかけたくないので
+雨がやむまでは休むことにしたんだ","I'm gonna rest until the rain stops. You
+can only ride a horse so hard."
+23,Rest_02,"この雨もしや何かの前触れ…
+
+いや普通の雨か","This rain... It feels like a harbinger of...
+
+
+Eh. It's probably just regular old, non-
+harbinger rain."
+24,RetMSG_Kyu_00,"君は信じられるか？
+我々人間の200倍あるというんだ！
+何がって…ある人たちが龍と呼んでいる
+伝説の生き物の長さのことだよ！","Can you believe it? It's supposed to be
+the length of 200 people! Like, lying
+down, not standing up...
+Don't tell me you've never heard of this
+creature?! It's the stuff of legend! A
+real dragon!"
+25,RetMSG_Kyu_00_1,"龍とも呼ばれる その生き物の長さは
+我々人間の200倍あるというんだ！","Legend speaks of a dragon the length
+of 200 people lying head to toe!"
+26,RetMSG_Kyu_01,"…ああ首が痛い
+
+なぜかというと伝説の生き物が現れないかと
+空ばかり見上げていたからさ
+ある人たちが龍と呼ぶ その伝説の生き物は
+そもそも天に棲むのか地に棲むのか…","My neck hurts from staring up at the sky
+all the time.
+
+But I can't risk missing a dragon flying
+across the sky. I can't!"
+27,RetMSG_Kyu_01_1,"ある人たちが龍と呼ぶ その伝説の生き物は
+そもそも天に棲むのか地に棲むのか…","These dragons of legend that I keep
+hearing about... Do they live in the sky
+or down here with us?"
+28,RetMSG_Kyu_02,"その話が本当だとしたら
+僕は一体 どうすればいいんだ？
+…というのも僕が追い求めている
+龍と呼ばれる伝説の生き物に会うには…
+女神ハイリアの許しが必要だというんだ
+
+全てが まるでおとぎ話さ…","According to legend, I need the blessing
+of the Goddess Hylia before I can see
+this legendary dragon.
+It all sounds like a fairy tale..."
+29,RetMSG_Kyu_02_1,"龍と呼ばれる伝説の生き物に会うには
+女神ハイリアの許しが必要だというんだ","It's said that in order for me to come
+face to face with a real, live dragon, I
+need the blessing of the Goddess Hylia."
+30,RetMSG_Kyu_03,"もし このことを話したら
+きっと君は僕を変人扱いするだろうね
+このことっていうのは僕が毎朝つぶやいている
+お祈りの言葉のことさ
+伝説の生き物に会えますようにという意味の
+僕が作った呪文なんだ","You might think I'm a real weirdo
+if I tell you about this, but I say a little
+prayer I made up every morning.
+It's an incantation to pray that I'll
+be able to meet the legendary creature."
+31,RetMSG_Kyu_03_1,"僕が毎朝つぶやいている短い言葉は
+龍に会えますようにという祈りさ","I recite a prayer every morning in the
+hope that I might be able to actually see
+this legendary dragon!"
+32,RetMSG_Kyu_04,"北へ南へ僕はこれまで
+いったい何往復しただろう…
+そして これから僕は
+またしても南に向かおうとしている
+龍とも呼ばれる伝説の生き物について
+聞き洩らした情報がないか確かめるために…
+いざマリッタ馬宿方面へ！","To the north and to the south, I've made
+the journey countless times...
+And now, I shall head south again.
+All the while, keeping my ear to the
+ground for any rumblings on any
+dragon sightings!
+Now to Serenne Stable!"
+33,RetMSG_Kyu_04_1,"龍とも呼ばれる伝説の生き物について
+聞き洩らした情報がないか確かめるために…
+ぼくはまた南にあるマリッタ馬宿方面へ
+向かおうと思う","I'm heading south once again to
+Serenne Stable. Hopefully I can get some
+dragon information on the way there."
+34,SavedLv1_00,"もう魔物は去ったかい？
+助けてくれてありがとう！","Thank you so much for driving off that
+vile monster!"
+35,SavedLv1_01,"君が戦ってくれたのかい？
+僕は逃げ惑うのに必死だった…","Did you actually fight it? Sorry, I had my
+back turned...y'know, running away as
+I was."
+36,SavedLv2_00,僕が会いたいのは魔物なんかじゃない…,"I thought I had a good method of
+avoiding monsters, but alas..."
+37,SavedLv2_01,君のおかげで僕も無事だった…,I owe my life to you.
+38,SavedLv3_00,ふぅ…この辺りも魔物が増えたね…,"You notice that there seem to be a lot
+more monsters around these parts..."
+39,SavedLv3_01,君のおかげで命拾いした…,I narrowly escaped. Thank you!
+40,Thanks00,これはお礼だよ！取っておいて,I can't thank you enough! Take this.

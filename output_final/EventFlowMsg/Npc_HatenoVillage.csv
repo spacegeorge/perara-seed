@@ -1,0 +1,125 @@
+#,Title,JPja,USen
+1,"""0000""",そうですね,Indeed.
+2,"""0001""",そうでもない,Not really...
+3,"""0002""",ハテノ古代研究所って？,...Ancient Tech Lab?
+4,"""0003""",大厄災って？,The Great Calamity?
+5,"""0004""",ハテノ村って？,Hateno Village?
+6,"""0005""",さようなら,Good-bye.
+7,near00,Zzz…,Zzz...
+8,near01,ほっ ほっ…,"Ho, ho..."
+9,near02,♪～,♪～～♪
+10,near03,ふぅ～,Whew!
+11,near04,おっと…,Whoa...
+12,talk00,"おぉ青い炎！""久しぶりに見たなぁ
+
+プルアさんは元気でしたか？
+最近見ないので みんな心配してたんですよ","The blue flame! I haven't seen that
+in quite a while! How is Purah?
+
+We haven't seen her lately, so we've all
+been a little worried about her."
+13,talk01,"青い炎ですか…
+そういえばプルアさんしばらく見てないなぁ","It's been a while since I saw Purah
+carrying around that blue flame..."
+14,talk02,"おや旅の人ですかな？
+
+私が このハテノ村の村長 クサヨシです
+のどかな村でしょう？","Oh, are you an adventurer? I am the
+head of Hateno Village. Call me Reede.
+
+Isn't this a peaceful place we have here,
+don't you think?"
+15,talk03,"ええ…""大厄災の傷も癒え
+これから という感じですね","Yes... We're finally feeling a bit of 
+recovery from the Great Calamity."
+16,talk04,"ハハハ…
+あなたにはこの村が都会に見えますかな？
+確かにハテノ村は ずいぶん人が増えました…
+大厄災直後には想像もできなかったでしょう","Haha! This village looks like an urban
+center to you, eh?
+
+Well, Hateno Village has definitely grown
+in size recently now that we're
+recovering from the Great Calamity."
+17,talk05,"まぁ ここは食べ物も豊富ですし
+心ゆくまで くつろいでってください","Our village is pleasant, peaceful, and has
+plenty of food to go around! Please stay
+as long as you'd like."
+18,talk06,はいはい,"Yes, yes..."
+19,talk07,おはようございます,Mornin'!
+20,talk08,こんにちは,Hullo!
+21,talk09,こんばんは,Evenin'!
+22,talk10,グオォ～…グオォ～…,Zzz... Zzz...
+23,talk12,どうなさいましたか？,Can I help you with anything?
+24,talk13,はいはい さようなら,"Yes, yes. Good-bye."
+25,talk14,"大厄災とは口にするのもおぞましい
+100年前に起こった惨事の呼び名です
+世界の村は焼かれ それは水も焦げるほど…
+多くの人々が命を奪われました
+とは言っても私の産まれる前の話なので
+年輩の方が お詳しいでしょうね","It's hard to even talk about the
+Great Calamity. It was a disastrous event
+that took place 100 years ago.
+Villages everywhere were burned. Many
+lives were lost...
+
+That was all before I was born, of course.
+The elders here would know more."
+26,talk15,"大厄災の戦火をくぐり抜け
+ハイリア人の手で復興を遂げたのがハテノ村です
+今では人や店も増え
+あなたのような旅人も多くなってきました
+そういう意味では ここは平和と言えましょう","Hateno Village barely survived the
+Great Calamity. The village was later
+rebuilt by Hylian hands.
+Now many people live here in peace
+amongst the shops. It's nice to see
+travelers stop by now and then as well."
+27,talk16,"ハテノ古代研究所…？
+
+あぁ…小高い丘にある建物の事ですね","Hateno Ancient Tech Lab? Oh, sure!
+That's the building up on the top
+of that hill.
+A person from the Sheikah tribe lives up
+there. You never know what they're
+diving into.
+They rarely come out lately, now that I
+think about it. They must be really
+busy lately..."
+28,talk17,"おぉ青い炎！""久しぶりに見たなぁ
+
+所長さんは元気でしたか？
+最近見ないので みんな心配してたんですよ","Oh, the blue flame! I haven't seen that
+in quite a while.
+
+How was the director? We haven't
+seen the lab folks in a bit, so some
+of us were getting a little worried..."
+29,talk18,"青い炎ですか…
+そういえば所長さんしばらく見てないなぁ","It's been a while since I saw the
+director carrying around that
+blue flame..."
+30,talk19,雨ですな,Yup. Rainin'.
+31,talk20,雨は止みそうにありませんね,"Don't think the rain's gonna let up
+anytime soon."
+32,talk21,落ち着いたところで お話しましょうか…,Why don't we chat somewhere nicer?
+33,talk22,他に聞きたい事は ありますかな？,Anything else you wanna ask?
+34,talk23,"あそこには大厄災の当時から
+シーカー族の方が住んでおられましてね
+研究と称して""何かをされているみたいですよ
+
+しかし最近 お二人とも
+めっきり外出されてないご様子…
+ちょっと心配では ありますね…","Seems at least one member of the
+Sheikah tribe has lived up there since
+the time of the Great Calamity.
+They call what goes on up there
+research, but I don't know what kind.
+
+Those folks up there should get out
+more, y'know? It's not healthy to stay
+cooped up all day!"
+35,talk24,"ハテノ古代研究所なら
+東の小高い丘の上にあります","If you're looking for the
+Hateno Ancient Tech Lab,
+it's atop the small hill to the east."

@@ -1,0 +1,161 @@
+#,Title,JPja,USen
+1,"""0000""",してください,"Yes, please!"
+2,"""0001""",けっこうです,"No, thanks."
+3,"""0002""",タテガミ変更,Change the mane.
+4,"""0003""",手綱変更,Change the bridle.
+5,"""0004""",くら変更,Change the saddle.
+6,"""0005""",やめる,Never mind.
+7,"""0006""",はい,Yes.
+8,"""0007""",いいえ,No.
+9,"""0008""",終わる,I'm done.
+10,Talk00,"旅のかたね ようこそ馬宿へ
+ゆっくりしていってね？
+もし馬をお持ちでしたら馬の装備や
+タテガミの変更をしてあげますわ
+どうぞ ここに愛馬を連れてきてくださいな","Hello there, traveler. Welcome to
+our stable. You will stay awhile,
+won't you?
+If you have a horse, we can help you
+change its gear or mane style.
+
+We're always happy to meet new horses,
+so stop on by!"
+11,Talk00_01,"ふぅ馬たちといっしょにいると時間がたつのも
+忘れてしまうわね…","Ahhh... Just being around horses
+makes you forget all about the
+passing of time, doesn't it?"
+12,Talk01,"旅のかたね ようこそ馬宿へ！
+ゆっくりしていってね？
+あら…？","Hello there, traveler. Welcome to
+our stable. You will stay awhile,
+won't you?
+Oh?"
+13,Talk01_00,"へぇ…
+いい馬をお持ちですわね","Oooh... That's a mighty fine horse
+you have there."
+14,Talk01_01,"もしよかったら その馬の装備やタテガミの
+変更をしてあげますわ？","If you're interested, may I help you
+change your horse's gear or mane?"
+15,Talk01_02,"また この子のタテガミや馬の装備を
+変更してほしいのね？","So you'd like me to change the gear or
+mane on this little one again, correct?"
+16,Talk01_1,"あら？全然 なついてないわね…
+
+もしかして捕まえてきたばかりかしら？
+もっと愛情をそそいであげてね","Oh? Your horse doesn't seem to
+be tamed. At all.
+
+Did you just catch it, by any chance?
+Please spend some time showing this
+sweetie you care, and then come back."
+17,Talk01_2,"うーん？ この子 まだ あなたを
+信頼してないみたい…
+もっと愛情をそそいであげたら
+きっと なついてくれるわよ","Hm? This little one doesn't seem to trust
+you just yet...
+
+Spend some time showing this little love
+how much you care, and you'll tame it in
+no time."
+18,Talk01_3,"へぇ この子 かなりいい目してるわね
+でも まだ完全に信頼してるわけじゃないわ
+もっと愛情をそそいであげて！
+そしたら この子喜んで馬の装備をつけてくれる","Nice! This little one has calm eyes,
+but it doesn't fully trust you yet.
+
+You need to show it some more love!
+Do that and I'll be happy to help you
+out with some gear."
+19,Talk01_4,"わぁ！ すごい キラキラした目！
+
+この子 あなたに首ったけって感じね
+いいわ この子なら馬の装備変更してあげる！","Wow! This one's eyes are positively
+sparkling with affection!
+
+I can tell this little one is just head over
+heels for you. That settles it! I'll gladly
+help you out with some gear!"
+20,Talk02,"だけど私…愛情いっぱいに育てられた馬しか
+興味がないのよねぇ…
+あなたの馬はどうかしら?","Oh, but you should know I'm only
+interested in horses that are raised
+with lots of love!
+How's your horse faring on that front?"
+21,Talk04,"そう残念ね…馬の装備を変更したくなったら
+また きてちょうだいね","Aw, that's too bad... Please come back
+again when you're ready to change your
+horse's gear."
+22,Talk07,"こんにちは
+あら いい馬をお持ちですわね
+その馬の装備や…
+
+まぁ！ ずいぶん大きな
+お馬さんを所有してるのね？
+申し訳ないけど そんな大きな馬にあう装備は
+ないしタテガミを変えるのも嫌がると思うわ
+ごめんなさいね","Hello there! That's a mighty fine horse
+you have.
+
+If you like, I can change out its gear
+or maybe...
+
+Oh? My goodness, that's no pony, is it?
+It's so big!
+
+I'm sorry, but I don't think I have any
+gear that'd fit such a large horse, and I
+bet it wouldn't like its mane handled...
+I'm so sorry about that."
+23,Talk08,どお？ お気に召したかしら？,So what do you think?
+24,Talk09,フムフム…,Hmm...
+25,Talk10,どの箇所を変更するのかしら？,What would you like to change?
+26,Talk11,"あなた手綱 を持っていないのね
+手に入れてたら変更してあげる","It looks like you don't have any other
+bridles yet, but I can help you put it on if
+you get one."
+27,Talk12,"あなたくら を持っていないのね
+手に入れてたら変更してあげる","It looks like you don't have any other
+saddles yet, but I can help you put it on
+if you get one."
+28,Talk13,どのタテガミが似合うかしら？,Which mane would you like?
+29,Talk14,に変更するのね？,Change to ?
+30,Talk15,どの手綱が似合うかしら？,Which bridle would you like?
+31,Talk16,どのくら が似合うかしら？,Which saddle would you like?
+32,Talk17,他に変更するところはあるかしら？,"Is there anything else you'd like
+to change?"
+33,Talk18,"とってもお似合いよ！""馬の装備を変更
+したくなったら また きてちょうだいね","That looks great! Please come back
+anytime you feel like changing your
+horse's gear!"
+34,Talk19,他のタテガミにするのね,So you want a different mane? Got it!
+35,Talk20,他の手綱にするのね,"So you want a different bridle, eh?"
+36,Talk21,他のくら にするのね,"OK, let's try a different saddle."
+37,Talk23,"こんにちは
+あらいい馬をお持ちですわね
+その馬の装備や…
+
+うーん… あなたのその馬普通の馬とは
+毛並や気品が違うわね…
+申し訳ないけど その馬は きっと違うタテガミに
+したり装備をつけかえるのは嫌がると思うわ
+ごめんなさいね","Hello there! That's a mighty fine horse
+you have.
+
+If you like, I can change out her gear
+or maybe...
+
+Oh? Actually, this horse is different
+from any I've ever seen before.
+My, she's so lovely and graceful...
+I'm sorry, but I'm pretty sure this little
+lady would absolutely hate it if you
+changed her mane or gear.
+I'm so sorry about that."
+38,Talk26,は今のタテガミよ？,"Isn't  the mane
+your horse companion already has?"
+39,Talk28,は今つけてる手綱ね," seems to be 
+the bridle your horse companion
+already has."
+40,Talk29,は今つけてるくらね," seems to be
+the saddle your horse companion 
+already has."

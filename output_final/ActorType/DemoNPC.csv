@@ -1,0 +1,45 @@
+#,Title,JPja,USen
+1,Dm_Enemy_Assassin_Junior_Name,イーガ団 構成員(デモ),Yiga Footsoldier
+2,FldObj_GerudoTownBook2_Name,ラ・タームの料理手帳①,"Chef Aurie Taamu, Vol. 1"
+3,FldObj_GerudoTownBook_Name,ラ・タームの料理手帳②,"Chef Aurie Taamu, Vol. 2"
+4,FldObj_HatenoGateBook_Name,とある古文書,An Ancient Text
+5,NPC_GodVoice_Name,不思議な声,???
+6,Npc_DungeonPriest001_Name,導師,Monk
+7,Obj_DiaryGerudo_A_01_Name,雪山の日誌,Mountain Peak Log
+8,Obj_DiaryHateno003_A_01_Name,アイビーの日記,Ivee's Diary
+9,Obj_DiaryHateno029_A_01_Name,女の子手帳,Girl's Notebook
+10,Obj_DiaryIceVillage011_A_01_Name,スレミーの書き置き,Selmie's Notes
+11,Obj_DiaryKing_A_01_Name,老人の日記,The Old Man's Diary
+12,Obj_DiaryMusician_A_01_Name,カッシーワの日誌,Kass's Journal
+13,Obj_DiaryRito001_A_01_Name,ミササのレシピ帳,Misa's Recipe Book
+14,Obj_DiaryTamul_A_01_Name,プルアの日記,Purah's Diary
+15,Obj_DiaryTamul_A_02_Name,シーカーストーン説明書,Sheikah Slate Manual
+16,Obj_DiaryTamul_A_03_Name,シーカーセンサーまとめ,Sheikah Sensor Notes
+17,Obj_DiaryTamul_A_04_Name,ロベリー回顧録,Robbie's Memoirs
+18,Obj_DiaryTamul_A_05_Name,ウツシエ説明書,Camera Manual
+19,Obj_Diary_touzoku_01_Name,ラムダの手記Ex,Misko's EX Journal
+20,Obj_Diary_touzoku_02_Name,ラムダの手記Ex2,Misko's EX Journal 2
+21,Obj_LetterSetFirst_A_01_Name,手紙,Letter
+22,TwnObj_GerudoTown_RougeDiary_A_01_Name,族長日記,Chief's Diary
+23,TwnObj_HyruleCastleBook_A_01_Name,ハイラル王の手記,King Rhoam's Journal
+24,TwnObj_HyruleCastleBook_A_02_Name,ゼルダの日録,Zelda's Diary
+25,TwnObj_HyruleCastleBook_A_03_Name,ハイラル城図書館の本,Castle Library Book
+26,TwnObj_HyruleCastleBook_A_04_Name,ゼルダの研究録,Zelda's Research Notes
+27,TwnObj_KarakaraBook_A_01_Name,ウワサのミツバちゃん7,Rumor Mill: Volume 7
+28,TwnObj_UmayadoBook_01_Name,ウワサのミツバちゃん2,Rumor Mill: Volume 2
+29,TwnObj_UmayadoBook_02_Name,ウワサのミツバちゃん3,Rumor Mill: Volume 3
+30,TwnObj_UmayadoBook_03_Name,ウワサのミツバちゃん5,Rumor Mill: Volume 5
+31,TwnObj_UmayadoBook_04_Name,ウワサのミツバちゃん4,Rumor Mill: Volume 4
+32,TwnObj_UmayadoBook_05_Name,ウワサのミツバちゃん6,Rumor Mill: Volume 6
+33,TwnObj_UmayadoBook_06_Name,ミツバちゃん増刊号1,Super Rumor Mill V1
+34,TwnObj_UmayadoBook_07_Name,ミツバちゃん増刊号2,Super Rumor Mill V2
+35,TwnObj_UmayadoBook_08_Name,ミツバちゃん増刊号4,Super Rumor Mill V4
+36,TwnObj_UmayadoBook_09_Name,ミツバちゃん増刊号3,Super Rumor Mill V3
+37,TwnObj_UmayadoHeroBook_01_Name,ミファーの日記,Mipha's Diary
+38,TwnObj_UmayadoHeroBook_02_Name,ダルケルの日記,Daruk's Training Journal
+39,TwnObj_UmayadoHeroBook_03_Name,リーバルの日記,The Diary of Revali
+40,TwnObj_UmayadoHeroBook_04_Name,ウルボザの日記,Urbosa's Diary
+41,TwnObj_Village_Korok_DekuTree_A_02_Name,デクの樹サマ,The Great Deku Tree
+42,TwnObj_Village_SheikerBook_A_01_Name,ウワサのミツバちゃん1,Rumor Mill: Volume 1
+43,TwnObj_Village_SheikerHeirDiary_A_01_Name,パーヤの日記,Paya's Diary
+44,TwnObj_Village_SheikerHeirDiary_A_02_Name,よろずお悩み帖,Journal of Various Worries

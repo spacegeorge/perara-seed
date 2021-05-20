@@ -1,0 +1,182 @@
+#,Title,JPja,USen
+1,"""0000""",コゲてますよ,It's burning. Badly.
+2,"""0001""",がんばってね！,Good luck!
+3,"""0006""",レシピを教えて,Teach me a recipe.
+4,"""0007""",ゴージャスな肉料理,Lavish meat dish
+5,"""0008""",古の肉料理,Ancient meat dish
+6,"""0009""",究極のサバイバル料理,Ultimate survival dish
+7,"""0010""",…マズそう,That sounds gross.
+8,"""0011""",やっぱいいです,Never mind.
+9,"""0012""",あなたこそ何者？,Who are YOU?
+10,"""0013""",この のろしは？,Your smoke signal?
+11,Talk006,岩塩を大さじ一杯！,A tablespoon of rock salt!
+12,Talk007,むにゃ…男子の胃袋… わしづかみ…,"Zzz... Needs more salt... Nooo, too much salt..."
+13,Talk008,ここでライネルの肝！,Now add some Lynel guts!
+14,Talk009,アクセントに夜光石！,Luminous stone to taste!
+15,Talk010,今だっ！古代の歯車！,Now add an ancient gear!
+16,Talk_000,"のろし？ この煙が？これは のろしではない！
+見ての通り料理をしている最中だ！！","Smoke signal? Oh, you mean this smoke?This is NOT a smoke signal! As you can
+plainly see, I'm in the middle of cooking!"
+17,Talk_001,"キミも コゲていると…
+失敗していると いうのだな","I'm burning it?! So then...you're saying
+I've messed it up. I see."
+18,Talk_002,"私が料理を作ると
+なぜか マズいものしか できないのだ…
+自分で考えた究極のレシピなのに
+なぜだ？","*sigh* For some reason, no matter how
+hard I try to cook something wonderful,
+it always turns out badly.
+I thought up this ultimate recipe myself,
+too. Why is this happening?!"
+19,Talk_003,"おお構わないぞ
+きっとうまい料理ができる… はずだ
+ゴージャスな肉料理と古の肉料理と
+究極のサバイバル料理… どれにする？","Oh, I would love to! I don't mind at all.
+I'm sure you'll be able to cook something
+really tasty. I mean...probably.
+I have recipes for a lavish meat dish,
+an ancient meat dish, and an ultimate
+survival dish. Which will you learn?"
+20,Talk_004,"よろしい
+ゴージャスな肉料理のレシピを教えよう
+まずは メインとなる肉を用意せよ！
+トリでもケモノでも何でもいい
+そして採れたて新鮮な…
+
+鉱石とともに炒める！！","Sure thing! I'll happily teach you the
+recipe for my lavish meat dish.
+
+First, prepare the meat you want to use.
+I recommend either bird meat or steak.
+Then you toss in some niiiice freeesh...
+ORE!!"
+21,Talk_005,"ぐっ…！うまい肉と美しく輝く鉱石を
+炒めるのだぞ？
+ゴージャスな料理ができるに違いない！！","Hey! That's not nice! Cooking delicious
+meat with shiny ore is the only way!
+
+How else would one create a truly lavish
+meat dish, silly?!"
+22,Talk_006,"よろしい
+古の肉料理のレシピを教えよう
+まずは メインとなる肉を用意せよ！
+トリでもケモノでも何でもいい
+そして朽ち果てたガーディアンから
+掘り出した…
+古い部品とともに炒める！！","Sure thing! I'll happily teach you the
+recipe for my ancient meat dish.
+
+First, prepare the meat you want to use.
+I recommend either bird meat or steak.
+
+And then you'll cook it with something
+from a broken Guardian...
+
+AN ANCIENT PART!!"
+23,Talk_007,"ぐっ…！うまい肉と歴史ある部品を
+炒めるのだぞ？
+誰も見たことのない
+古の料理ができるに違いない！！","Hey! That's not nice! Cooking delicious
+meat with something that smacks of
+history is the only way!
+How else would one create an ancient
+meat dish the likes of which no one
+has ever seen before?!"
+24,Talk_008,"よろしい
+究極のサバイバル料理のレシピを教えよう
+まずは魔物を倒せ！！
+そして手に入れた…
+魔物の素材を全て炒める！！","Sure thing! I'll happily teach you the
+recipe for my ultimate survival dish.
+
+First, you'll have to defeat a monster!!
+After that, just find yourself a cooking
+pot and toss in...
+tons of monster parts!!"
+25,Talk_009,"生きるためには何でも食べる！
+
+それが究極のサバイバル料理！！","In order to survive out in the
+wild, you've got to be willing
+to eat anything!
+That's the idea behind my
+ultimate survival dish!!"
+26,Talk_010,"私か？""私の名はミモザ
+究極の料理を求め人里を離れて修行中だ","Me? My name is Moza. I'm trying to
+perfect my ultimate dish, so I'm training
+in isolation right now."
+27,Talk_011,"むっ？""何奴？！",Huh? Who are you?!
+28,Talk_050,"ありがとう！
+料理の修行を続けるよ！
+次は！アレンジの隠し味！！","Oh, thank you! Now I'm going to keep up
+my cooking practice!
+
+Next up...adding a subtle splash
+of seasoning!!"
+29,Talk_051,"そうか残念だ
+とっておきのレシピなのだが…","Oh, that's too bad. It was a pretty
+special recipe, too..."
+30,Talk_052,"やあ キミか
+私の考えたレシピを また聞きたいんだな
+ゴージャスな肉料理と古の肉料理と
+究極のサバイバル料理… どれにする？","Hey, it's you! You don't have to say a
+word. You're back to hear the recipes
+I came up with again, aren't you?
+I have recipes for a lavish meat dish,
+an ancient meat dish, and an ultimate
+survival dish. Which will you learn?"
+31,Talk_053,他のレシピも聞くか？,Do you want to hear another recipe?
+32,Talk_054,"今日の料理も そこの残骸に
+加わってしまった…
+明日こそ…
+明日こそ成功させるぞ！","My endeavors today have only added to
+the wreckage that is my culinary career...
+
+But tomorrow... Tomorrow is definitely
+the day I turn it all around!"
+33,Talk_055,"ん？
+なんだか キミ…
+何かを成し遂げたような
+すがすがしい顔だな
+私もそんな顔をしてみたい…
+
+よし修行の成果を試すために
+料理レシピを キミに披露しよう
+ゴージャスな肉料理と古の肉料理と
+究極のサバイバル料理… どれにする？","Hm? Oh, it's you...
+
+
+You have a satisfied look on your face,
+like you've accomplished something
+and are all proud of it and stuff.
+Wish I knew what it was like to have
+that look...
+
+Well, anyway. To show off the fruits of my
+training, I'm going to tell you all about
+the recipes I've created!
+I have recipes for a lavish meat dish,
+an ancient meat dish, and an ultimate
+survival dish. Which will you learn?"
+34,Talk_056,"なぜ私が料理をすると
+失敗ばかりするのだろう…","*sigh* Why do I mess it up every time
+I try to cook?"
+35,Talk_100,"だが実際にできるのは いつも微妙な料理…
+いったい何が微妙なのだ…？","To be honest, what I always end up
+making is dubious food... Though I
+don't see what's so dubious about it!"
+36,Talk_101,"だが実際にできるのは いつも硬すぎ料理…
+いったい何が硬すぎなのだ…？","To be honest, what I always end up
+making is rock-hard food... How did
+it even get that rocky anyway?"
+37,Talk_102,"たとえ できた料理が微妙な料理でも
+背に腹は変えられないのだ！
+……しかし魔物の素材の
+どこが微妙なのだろうか…？","I may end up with nothing to eat but
+dubious food...but I won't achieve my
+goal unless I make some sacrifices!
+I don't see what's so dubious about
+using monster parts, though..."
+38,Talk_103,"これだ！ と思う材料で作っても
+失敗することもあるし…""料理は奥深いな…","Even when I use ingredients I'm certain
+will be perfect, there are lots of times I
+still mess it up. Cooking is complicated."

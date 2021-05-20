@@ -1,0 +1,136 @@
+#,Title,JPja,USen
+1,"""0000""",東のこと,About the east.
+2,"""0001""",南のこと,About the south.
+3,"""0002""",西のこと,About the west.
+4,"""0003""",大丈夫,I'm fine.
+5,"""0004""",北は？,About the north...
+6,"""0005""",さようなら,Good-bye.
+7,talk000,"おはようさん！タバンタ大橋馬宿へようこそ
+どうだい？ ウチのシロヤギ かわいいだろう？","Good morning! Welcome to
+Tabantha Bridge Stable, home of the
+cutest white goats in all of Hyrule."
+8,talk001,"こんにちは！タバンタ大橋馬宿へようこそ
+大事な荷物を確認中さ","Hello! And welcome to
+Tabantha Bridge Stable, where I'm busy
+cataloging some very important cargo."
+9,talk002,"はいはいタバンタ大橋馬宿へようこそ
+馬の世話が一番大切な仕事さ","Yes, welcome to Tabantha Bridge Stable,
+where caring for the horses is the most
+pressing matter on my plate."
+10,talk003,"タバンタ大橋馬宿へ ようこそ…
+子供の寝顔を見てると幸せだねぇ…","Welcome to Tabantha Bridge Stable,
+where looking at a child's sleeping face
+makes me happy!"
+11,talk004,"タバンタ大橋馬宿へようこそ
+雨がやまないねぇ…","Welcome to Tabantha Bridge Stable,
+where it's raining nonstop."
+12,talk005,タバンタ大橋馬宿へようこそ！,Welcome to Tabantha Bridge Stable!
+13,talk100,"道案内なら任せんしゃい
+どこのことを聞きたいんだい？","If you need directions, just ask me.
+Any direction you want to know about?"
+14,talk101,"東かい？東はね… うーん…おばさん若いころは うんと苦労したほうが
+いいと思ってはいるんだけど…
+あのチナガレ湿地帯だけは
+行っちゃいけない場所だと思うのさ…
+おばさんが生まれたころより もっと昔から
+真っ黒な雷雲が立ち込めているんだよ
+ハイラルの女神様が
+来ちゃいけないって怒っているのかもねぇ…","The east, huh?
+The east...
+Yeah...
+My aunt always tells me I should travel
+all over while I'm still young...
+
+But that Ludfo's Bog isn't a place
+anyone should travel to in my opinion.
+
+It's had a constant cover of black storm
+clouds since long before my aunt was
+born.
+If you ask me, it's a sign from Hylia
+herself telling us not to go there.
+And I don't want to make Hylia angry..."
+15,talk102,"東といえば…チナガレ湿地帯があるんだけど…
+びっくりすることがあってねぇ
+おばさんが生まれたころより もっと昔から
+あそこには決して晴れない雷雲が あったのさ
+けどね！ なんと！ まあ！
+すっかり雲が晴れちまってるんだよ！
+ハイラルの女神様の お力かねぇ…
+今度馬を連れて行ってみようと思ってるのさ","Well, to the east there's...Ludfo's Bog.
+Funny story, actually.
+
+There used to be a constant cover of 
+dark storm clouds that had been there
+long before even my aunt was born.
+But then they suddenly all vanished!
+Praise Hylia!
+
+I'm even thinking of taking the horses
+there on a field trip soon."
+16,talk111,"南かぁ…
+おばあちゃんの昔話を思い出すねぇ…
+タイアモン川を越えた先のサトリ山に
+全ての生物をつかさどるヌシ様がおわす…
+今も子供たちが寝る前に話してあげる
+古い伝説さ
+馬宿の守り神だなんて言う人もいる…
+一体 どんな姿なんだろうねぇ","South, huh? My aunt used to tell us
+some crazy stories about that area.
+
+About how past Tamio River, on
+Satori Mountain, there lived a lord
+with dominion over all living things...
+It's an old legend that she tells the
+children before bedtime, even today.
+
+She also tells them about \""the god who
+watches over the stables.\""
+Pfft..."
+17,talk121,"はいはい西のことだね西に向かうと この馬宿の由来でもある
+タバンタ大橋があるよ
+橋を越えて道なりに…
+まぁ なかなかの距離だけど がんばって進むと
+リト族の住むリトの村へ
+行くことができるのさ","Ah, the west...
+
+
+If you head west, you'll spot the
+namesake of our stable, the
+Tabantha Great Bridge.
+If you cross the bridge and follow the
+road, you'll eventually get to Rito Village,
+where the Rito people live.
+It's a REALLY long walk to Rito Village,
+though, so you'll definitely want to bring
+some snacks."
+18,talk122,"ただ…見たかい？
+あの空の不気味なでっかい鳥！
+少し前に突然現れて
+リトの村の上を ずーっと飛んでるのさ…
+行くなら気を付けなよ
+何があるか わからないからね","But...have you seen that THING?
+That...that creepy bird in the sky?
+
+It suddenly appeared above Rito Village
+and won't go away. 
+
+If you're going there, you should be
+careful. Who knows what's going on
+there."
+19,talk131,そうかい？気を付けてな,"Really? Well, be careful."
+20,talk132,"北？ おっといけない
+忘れるところだったねぇ…
+北にある ローム山の向こうには
+クロカンバっていう変わった人がいるよ
+何でも かけっこ勝負を挑んでくるんだって
+他にすること ないのかねぇ？
+まぁ暇だったら行ってみたらどうだい？","The north? Oh, right...
+
+
+On the other side of Mount Rhoam,
+there's an odd lad named Konba who
+loves challenging strangers to a race.
+He must be REALLY bored. It might be
+nice of you to pay him a visit."
+21,talk141,他に聞きたいことはあるかい？,Anything else you want to know about?

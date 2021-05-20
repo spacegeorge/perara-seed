@@ -1,0 +1,517 @@
+#,Title,JPja,USen
+1,"""0000""",武器ポーチがいっぱいです,You can't carry any more melee weapons.
+2,"""0001""",が壊れそうだ,Your is badly damaged.
+3,"""0002""",に聞こえなかったようだ…,It seems couldn't hear your call...
+4,"""0003""",が来られないようだ…,It seems isn't able to come...
+5,"""0004""",が壊れた,Your broke!
+6,"""0005""",マスターソードの力が弱まってきた,The Master Sword is running low on energy.
+7,"""0006""",マスターソードは傷つき眠りについた,The Master Sword has run out of energy.
+8,"""0007""",これ以上 先には進めません,You can't go any farther.
+9,"""0008""",ポーチがいっぱいです,You can't carry any more materials.
+10,"""0009""",これ以上ピンはうてません,You can't place any more pins.
+11,"""0010""",飾れる武器を持っていません,You don't have any melee weapons to display.
+12,"""0011""",飾れる盾を持っていません,You don't have any shields to display.
+13,"""0012""",飾れる弓を持っていません,You don't have any bows to display.
+14,"""0013""",敵が近くにいるので暇をつぶせない,You can't pass time while enemies are near.
+15,"""0014""",今はそれどころじゃない！,Not a good time!
+16,"""0015""",敵が近くにいるので料理できない,You can't cook while enemies are near.
+17,"""0025""",に持ちかえた,Equipped the.
+18,"""0027""",ルピーが足りません,You don't have enough rupees.
+19,"""0028""",マスターソードは森へ帰った,The Master Sword has returned to the forest.
+20,"""0029""",サーチ対象を再設定,Finding New Objective
+21,"""0030""",試練の祠を感知,Shrine Nearby
+22,"""0031""",いまは持つことができない,You can't do that now.
+23,"""0032""",盾ポーチがいっぱいです,You can't carry any more shields.
+24,"""0033""",弓ポーチがいっぱいです,You can't carry any more of those.
+25,"""0034""",料理ポーチがいっぱいです,You can't carry any more meals.
+26,"""0035""",素材が足りません,You don't have enough materials.
+27,"""0036""",望遠鏡,Scope
+28,"""0037""",ピンをうつ,Place pin
+29,"""0038""",やめる,Quit
+30,"""0039""",今日はもうこのamiiboは使えない,This amiibo can't be used again today.
+31,"""0040""",ここでは使う事ができない,You can't use that here.
+32,"""0041""",これ以上ハートを増やすことができない,You have the maximum number of hearts.
+33,"""0042""",武器を装備していないので飾ることができない,You don't have a melee weapon equipped.
+34,"""0043""",弓を装備していないので飾ることができない,You don't have a bow equipped.
+35,"""0044""",盾を装備していないので飾ることができない,You don't have a shield equipped.
+36,"""0045""",防具ポーチがいっぱいです,You can't carry any more armor.
+37,"""0046""",これ以上拾えません,You can't pick up any more of this.
+38,"""0047""",これ以上買えません,You can't buy any more of this.
+39,"""0048""",ピンを編集,Edit pins
+40,"""0049""",ここではピンはうてません,You can't place a pin here.
+41,"""0050""",を落としてしまった,You dropped the.
+42,"""0051""",マスターソードの力が回復した,The Master Sword's power has been restored.
+43,"""0052""",マスターソードは飾ることができない,You cannot display the Master Sword.
+44,"""0053""", を感知, Nearby
+45,"""0056""",ユン坊 に聞こえなかったようだ…,Yunobo couldn't hear you.
+46,"""0057""",ユン坊 が来られないようだ…,Yunobo can't reach your location.
+47,"""0058""",ここでは持つことができない,You can't hold that here.
+48,"""0059""",障害物が近すぎて うまく自分が写せません,There's not enough room here to take a picture.
+49,"""0060""",ウルフリンクは元の世界に戻ったようだ…,Wolf Link must have returned to his own world...
+50,"""0061""",これは試遊版の為 この先には進めません,"In this demo version, you can't advance any farther."
+51,"""0062""",これ以上 エネルギーの補充はできない,The fuel tank is full.
+52,"""0063""",マスターバイク零式 のエネルギーがなくなった…,Master Cycle Zero is out of fuel...
+53,"""0064""",ここでは使う事ができない,You can't use that here.
+54,GiantBone_Endurance_00,試練の,Trial of the
+55,GiantBone_Endurance_01,スタルヒノックス,Stalnox
+56,"""GiantBone_[A-1]FC8EAD42_00""",氷結の山麓の,Icefall Foothills
+57,"""GiantBone_[A-1]FC8EAD42_01""",スタルヒノックス,Stalnox
+58,"""GiantBone_[C-5]669E62A5_00""",サトリ山の,Satori Mountain
+59,"""GiantBone_[C-5]669E62A5_01""",スタルヒノックス,Stalnox
+60,"""GiantBone_[D-2]BED73911_00""",ラーミン平原の,Rowan Plain
+61,"""GiantBone_[D-2]BED73911_01""",スタルヒノックス,Stalnox
+62,"""GiantBone_[D-8]A7D6898C_00""",モルダバ山東の,Eastern Daval Peak
+63,"""GiantBone_[D-8]A7D6898C_01""",スタルヒノックス,Stalnox
+64,"""GiantBone_[E-4]69993733_CAFA97E6_00""",ハイラル城地下の,Hyrule Castle Underground
+65,"""GiantBone_[E-4]69993733_CAFA97E6_01""",スタルヒノックス,Stalnox
+66,"""GiantBone_[F-4]4CBE97B9_00""",ハイラル城東の,East Hyrule Castle
+67,"""GiantBone_[F-4]4CBE97B9_01""",スタルヒノックス,Stalnox
+68,"""GiantBone_[F-8]B144DDD3_00""",マクミノ谷の,Harfin Valley
+69,"""GiantBone_[F-8]B144DDD3_01""",スタルヒノックス,Stalnox
+70,"""GiantBone_[G-7]65429CAF_00""",ヒッコリ森林の,Hickaly Woods
+71,"""GiantBone_[G-7]65429CAF_01""",スタルヒノックス,Stalnox
+72,"""GiantBone_[H-8]DC8D9024_00""",アライソ海岸北の,North Aris Beach
+73,"""GiantBone_[H-8]DC8D9024_01""",スタルヒノックス,Stalnox
+74,"""GiantBone_[J-2]962D3E0D_00""",ヒガッカレ平原の,East Akkala Plains
+75,"""GiantBone_[J-2]962D3E0D_01""",スタルヒノックス,Stalnox
+76,Giant_Endurance_00,試練の,Trial of the
+77,Giant_Endurance_01,ヒノックス,Hinox
+78,"""Giant_[A-2]77CB9A7E_00""",ヘブラ山西岳の,Hebra West Summit
+79,"""Giant_[A-2]77CB9A7E_01""",ヒノックス,Hinox
+80,"""Giant_[B-3]AA1A9FB8_00""",リリトト湖南の,Lake Totori South
+81,"""Giant_[B-3]AA1A9FB8_01""",ヒノックス,Hinox
+82,"""Giant_[C-4]D83D636F_00""",セレス平原の,Seres Scablands
+83,"""Giant_[C-4]D83D636F_01""",ヒノックス,Hinox
+84,"""Giant_[D-4]935DF7F5_00""",西ハイラル平原の,West Hyrule Plains
+85,"""Giant_[D-4]935DF7F5_01""",ヒノックス,Hinox
+86,"""Giant_[D-5]32BBD5B2_00""",巨人の森の,Giant's Forest
+87,"""Giant_[D-5]32BBD5B2_01""",ヒノックス,Hinox
+88,"""Giant_[D-6]74360820_00""",デグドの吊り橋の,Digdogg Suspension Bridge
+89,"""Giant_[D-6]74360820_01""",ヒノックス,Hinox
+90,"""Giant_[E-2]D8CB2BB1_00""",アルダー台地の,Aldor Foothills
+91,"""Giant_[E-2]D8CB2BB1_01""",ヒノックス,Hinox
+92,"""Giant_[E-3]F338510E_00""",ハイラル城北の,North Hyrule Castle
+93,"""Giant_[E-3]F338510E_01""",ヒノックス,Hinox
+94,"""Giant_[F-1]1D113602_00""",ドイブラン遺跡の,Thyphlo Ruins
+95,"""Giant_[F-1]1D113602_01""",ヒノックス,Hinox
+96,"""Giant_[F-4]4B79EE4C_00""",りんごの森の,Applean Forest
+97,"""Giant_[F-4]4B79EE4C_01""",ヒノックス,Hinox
+98,"""Giant_[F-5]DF2B9A50_00""",平原の牧場跡東の,East Ranch Ruins
+99,"""Giant_[F-5]DF2B9A50_01""",ヒノックス,Hinox
+100,"""Giant_[G-5]5F8470E2_00""",ミオウ島の,Kincean Island
+101,"""Giant_[G-5]5F8470E2_01""",ヒノックス,Hinox
+102,"""Giant_[G-7]71771F89_00""",ビトゥオ谷の,Tobio's Hollow
+103,"""Giant_[G-7]71771F89_01""",ヒノックス,Hinox
+104,"""Giant_[G-8]C30ECEC8_00""",キビナ湖の,Herin Lake
+105,"""Giant_[G-8]C30ECEC8_01""",ヒノックス,Hinox
+106,"""Giant_[G-8]F45E39F4_00""",カーマス台地の,Kamah Plateau
+107,"""Giant_[G-8]F45E39F4_01""",ヒノックス,Hinox
+108,"""Giant_[H-1]CB464CAD_00""",ド根性ガケ東の,East Gut Check Rock
+109,"""Giant_[H-1]CB464CAD_01""",ヒノックス,Hinox
+110,"""Giant_[H-4]7C2A231D_00""",ラルス池の,Ralis Pond
+111,"""Giant_[H-4]7C2A231D_01""",ヒノックス,Hinox
+112,"""Giant_[H-4]DF02B9D2_00""",タバール森林の,Tabahl Woods
+113,"""Giant_[H-4]DF02B9D2_01""",ヒノックス,Hinox
+114,"""Giant_[H-5]D4EBD996_00""",ロッタート台地の,Trotter's Downfall
+115,"""Giant_[H-5]D4EBD996_01""",ヒノックス,Hinox
+116,"""Giant_[H-6]6D4936B2_00""",ファーレン台地の,Phalian Highlands
+117,"""Giant_[H-6]6D4936B2_01""",ヒノックス,Hinox
+118,"""Giant_[H-7]37CF400F_00""",テルメ山の,Mount Taran
+119,"""Giant_[H-7]37CF400F_01""",ヒノックス兄弟（次男）,Hinox (Middle Kin)
+120,"""Giant_[H-7]C6F41AEA_00""",テルメ山の,Mount Taran
+121,"""Giant_[H-7]C6F41AEA_01""",ヒノックス兄弟（三男）,Hinox (Youngest Kin)
+122,"""Giant_[H-7]E1A44550_00""",テルメ山の,Mount Taran
+123,"""Giant_[H-7]E1A44550_01""",ヒノックス兄弟（長男）,Hinox (Oldest Kin)
+124,"""Giant_[I-1]3D4A11F8_00""",カザーナ裂谷の,Tempest Gulch
+125,"""Giant_[I-1]3D4A11F8_01""",ヒノックス,Hinox
+126,"""Giant_[I-3]52897F12_00""",ミナッカレ平原の,South Akkala Plains
+127,"""Giant_[I-3]52897F12_01""",ヒノックス,Hinox
+128,"""Giant_[I-5]E465A74D_00""",ジャーブ台地の,Ja'Abu Ridge
+129,"""Giant_[I-5]E465A74D_01""",ヒノックス,Hinox
+130,"""Giant_[I-6]C7AD24C5_00""",清めの池の,Purifier Lake
+131,"""Giant_[I-6]C7AD24C5_01""",ヒノックス,Hinox
+132,"""Giant_[I-7]1640D6A7_00""",ミナミノ湾西の,West Loshlo Harbor
+133,"""Giant_[I-7]1640D6A7_01""",ヒノックス,Hinox
+134,"""Giant_[J-5]DCE95AC8_00""",トロイワ高原の,Talus Plateau
+135,"""Giant_[J-5]DCE95AC8_01""",ヒノックス,Hinox
+136,"""Giant_[J-8]72C75295_00""",サイハテノ島の,Eventide Island
+137,"""Giant_[J-8]72C75295_01""",ヒノックス,Hinox
+138,GolemFire_Endurance_00,試練の,Trial of the
+139,GolemFire_Endurance_01,マグロック,Igneo Talus
+140,GolemFire_R_00,神獣繰りの試練,Divine Beast Tamer's Trial
+141,GolemFire_R_01,メガマグロック,Igneo Talus Titan
+142,GolemIce_Endurance_00,試練の,Trial of the
+143,GolemIce_Endurance_01,ガチロック,Frost Talus
+144,Golem_Endurance_00,試練の,Trial of the
+145,Golem_Endurance_01,イワロック,Stone Talus
+146,"""Golem_[A-6]E87B1CA3_00""",ルチマー高地の,Rutimala Hill
+147,"""Golem_[A-6]E87B1CA3_01""",イワロック,Stone Talus
+148,"""Golem_[B-2]0B518664_00""",カルーガ峠西の,West Rospro Pass
+149,"""Golem_[B-2]0B518664_01""",ガチロック,Frost Talus
+150,"""Golem_[B-2]646AA878_00""",ブリザー谷の,Coldsnap Hollow
+151,"""Golem_[B-2]646AA878_01""",ガチロック,Frost Talus
+152,"""Golem_[B-3]1BACE734_00""",ギサのクレーターの,Gisa Crater
+153,"""Golem_[B-3]1BACE734_01""",イワロック,Stone Talus
+154,"""Golem_[B-3]96DAF8CA_00""",モーリ橋南の,Kolami Bridge South
+155,"""Golem_[B-3]96DAF8CA_01""",イワロック,Stone Talus
+156,"""Golem_[B-5]A4B34A2A_00""",イルメナ台地の,Illumeni Plateau
+157,"""Golem_[B-5]A4B34A2A_01""",イワロック,Stone Talus
+158,"""Golem_[B-6]925DE039_00""",ツァボ雪原西の,West Vatorsa Snowfield
+159,"""Golem_[B-6]925DE039_01""",イワロック,Stone Talus
+160,"""Golem_[B-6]EEE07F28_00""",サフィアス台地西の,West Sapphia's Table
+161,"""Golem_[B-6]EEE07F28_01""",ガチロック,Frost Talus
+162,"""Golem_[C-1]F3A5F88A_00""",ツツキキ雪原の,Pikida Stonegrove
+163,"""Golem_[C-1]F3A5F88A_01""",ガチロック,Frost Talus
+164,"""Golem_[C-3]132FEC6F_00""",タバンタヒルの,Tabantha Hills
+165,"""Golem_[C-3]132FEC6F_01""",イワロック,Stone Talus
+166,"""Golem_[C-3]D6EB66AD_00""",ラブラー丘の,Upland Lindor
+167,"""Golem_[C-3]D6EB66AD_01""",イワロック,Stone Talus
+168,"""Golem_[C-6]26A1198A_00""",オルパー台地の,Laparoh Mesa
+169,"""Golem_[C-6]26A1198A_01""",ガチロック,Frost Talus
+170,"""Golem_[C-6]A88D44BF_00""",ウメタケ台地南の,South Koukot Plateau
+171,"""Golem_[C-6]A88D44BF_01""",イワロック,Stone Talus
+172,"""Golem_[C-7]162EE739_00""",ターフェア高地南の,South Taafei Hill
+173,"""Golem_[C-7]162EE739_01""",イワロック,Stone Talus
+174,"""Golem_[C-8]3A1F23A4_00""",ペリド関所北の,Champion's Gate North
+175,"""Golem_[C-8]3A1F23A4_01""",イワロック,Stone Talus
+176,"""Golem_[D-6]D72F6746_00""",はじまりの,Great Plateau
+177,"""Golem_[D-6]D72F6746_01""",イワロック,Stone Talus
+178,"""Golem_[D-7]C32368A8_00""",ナボール山の,Mount Nabooru
+179,"""Golem_[D-7]C32368A8_01""",イワロック,Stone Talus
+180,"""Golem_[D-8]1D4D9298_00""",モルガナ山東の,East Mount Granajh
+181,"""Golem_[D-8]1D4D9298_01""",イワロック,Stone Talus
+182,"""Golem_[E-4]87C5D46C_CAFA97E6_00""",ハイラル城地下の,Hyrule Castle Underground
+183,"""Golem_[E-4]87C5D46C_CAFA97E6_01""",イワロック,Stone Talus
+184,"""Golem_[E-4]E6A728ED_00""",ハイラル城西の,Hyrule Castle West
+185,"""Golem_[E-4]E6A728ED_01""",イワロック,Stone Talus
+186,"""Golem_[E-6]8D20D02D_00""",ハイリア湖北の,Lake Hylia North
+187,"""Golem_[E-6]8D20D02D_01""",イワロック,Stone Talus
+188,"""Golem_[E-6]E33CD1FA_00""",コモロ池の,Lake Kolomo
+189,"""Golem_[E-6]E33CD1FA_01""",イワロック,Stone Talus
+190,"""Golem_[F-3]32DB1102_00""",ゴングルの丘の,Crenel Hills
+191,"""Golem_[F-3]32DB1102_01""",イワロック,Stone Talus
+192,"""Golem_[F-6]1CB621C9_00""",アデヤ湖の,Deya Lake
+193,"""Golem_[F-6]1CB621C9_01""",イワロック,Stone Talus
+194,"""Golem_[F-6]FC63C8D7_00""",ナビ湖西の,West Nabi Lake
+195,"""Golem_[F-6]FC63C8D7_01""",イワロック,Stone Talus
+196,"""Golem_[G-1]7C0089B5_00""",ダルニア湖の,Darunia Lake
+197,"""Golem_[G-1]7C0089B5_01""",マグロック,Igneo Talus
+198,"""Golem_[G-3]7DEA06F5_00""",ゴダイ湖北の,Goronbi Lake North
+199,"""Golem_[G-3]7DEA06F5_01""",マグロック,Igneo Talus
+200,"""Golem_[G-6]5679D6F9_00""",双子山北の,North Dueling Peaks
+201,"""Golem_[G-6]5679D6F9_01""",イワロック（兄）,Stone Talus (Senior)
+202,"""Golem_[G-6]77C3F9C4_00""",メーブル高原東の,North Mable Ridge
+203,"""Golem_[G-6]77C3F9C4_01""",イワロック,Stone Talus
+204,"""Golem_[G-6]E6DCAAB1_00""",双子山南の,Dueling Peaks South
+205,"""Golem_[G-6]E6DCAAB1_01""",イワロック（弟）,Stone Talus (Junior)
+206,"""Golem_[G-8]E39027D1_00""",マーサの入り江の,Martha's Landing
+207,"""Golem_[G-8]E39027D1_01""",イワロック,Stone Talus
+208,"""Golem_[G-8]F43666AA_00""",フロリア湖の,Lake Floria
+209,"""Golem_[G-8]F43666AA_01""",イワロック,Stone Talus
+210,"""Golem_[H-1]F6F2E033_00""",ダルマー湖の,Lake Darman
+211,"""Golem_[H-1]F6F2E033_01""",マグロック,Igneo Talus
+212,"""Golem_[H-2]BD926025_00""",マルゴ池の,Gorko Lake
+213,"""Golem_[H-2]BD926025_01""",マグロック,Igneo Talus
+214,"""Golem_[H-3]51CC8032_00""",ダルボ池の,Darb Pond
+215,"""Golem_[H-3]51CC8032_01""",マグロック,Igneo Talus
+216,"""Golem_[H-6]DBDA3E11_00""",カリン高原の,Cliffs of Quince
+217,"""Golem_[H-6]DBDA3E11_01""",イワロック,Stone Talus
+218,"""Golem_[I-4]3F6AA056_00""",タルタル台地南の,Southern Tal Tal Peak
+219,"""Golem_[I-4]3F6AA056_01""",イワロック,Stone Talus
+220,"""Golem_[I-6]085196DD_00""",オブリー平原の,Ovli Plain
+221,"""Golem_[I-6]085196DD_01""",イワロック,Stone Talus
+222,"""Golem_[I-8]DCFED0B2_00""",ゴアナ峡谷の,Gama Cove
+223,"""Golem_[I-8]DCFED0B2_01""",イワロック,Stone Talus
+224,"""Golem_[J-7]D264C25F_00""",カエデ半島の,Mapla Point
+225,"""Golem_[J-7]D264C25F_01""",イワロック,Stone Talus
+226,Pa_AssassinBoss_00,イーガ団総長,Leader of the Yiga Clan
+227,Pa_AssassinBoss_01,コーガ様,Master Kohga
+228,Pa_BossGaugeSandworm_A_7_0_00,ルマリン砂丘の,Toruma Dunes
+229,Pa_BossGaugeSandworm_A_7_0_01,モルドラジーク,Molduga
+230,Pa_BossGaugeSandworm_A_8_0_00,処刑場跡の,Arbiter's Grounds
+231,Pa_BossGaugeSandworm_A_8_0_01,モルドラジーク,Molduga
+232,Pa_BossGaugeSandworm_A_8_1_00,龍の流刑地北の,North Dragon's Exile
+233,Pa_BossGaugeSandworm_A_8_1_01,モルドラジーク,Molduga
+234,Pa_BossGaugeSandworm_B_8_0_00,南のオアシスの,Southern Oasis
+235,Pa_BossGaugeSandworm_B_8_0_01,モルドラジーク,Molduga
+236,Pa_BossGauge_00-T_KO_00,討伐済み,Defeated
+237,Pa_BossGauge_FantomGanonElectric_00,神獣ヴァ・ナボリスに巣食う,Scourge of Divine Beast Vah Naboris
+238,Pa_BossGauge_FantomGanonElectric_00_R,夢幻異空の,Illusory Realm
+239,Pa_BossGauge_FantomGanonElectric_01,雷のカースガノン,Thunderblight Ganon
+240,Pa_BossGauge_FantomGanonFire_00,神獣ヴァ・ルーダニアに巣食う,Scourge of Divine Beast Vah Rudania
+241,Pa_BossGauge_FantomGanonFire_00_R,夢幻異空の,Illusory Realm
+242,Pa_BossGauge_FantomGanonFire_01,炎のカースガノン,Fireblight Ganon
+243,Pa_BossGauge_FantomGanonWater_00,神獣ヴァ・ルッタに巣食う,Scourge of Divine Beast Vah Ruta
+244,Pa_BossGauge_FantomGanonWater_00_R,夢幻異空の,Illusory Realm
+245,Pa_BossGauge_FantomGanonWater_01,水のカースガノン,Waterblight Ganon
+246,Pa_BossGauge_FantomGanonWind_00,神獣ヴァ・メドーに巣食う,Scourge of Divine Beast Vah Medoh
+247,Pa_BossGauge_FantomGanonWind_00_R,夢幻異空の,Illusory Realm
+248,Pa_BossGauge_FantomGanonWind_01,風のカースガノン,Windblight Ganon
+249,Pa_BossGauge_GanonBeast_00,憎悪と怨念の権化,Hatred and Malice Incarnate
+250,Pa_BossGauge_GanonBeast_01,魔獣 ガノン,Dark Beast Ganon
+251,Pa_BossGauge_Ganon_00,ハイラル城に巣食う,Scourge of Hyrule Castle
+252,Pa_BossGauge_Ganon_01,厄災 ガノン,Calamity Ganon
+253,Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_00,"a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+","a
+
+b
+
+c de
+
+f
+
+ghi j klmn
+
+opq rstuvw xy
+
+z
+
+ab cd efg
+
+ hi jklmn
+
+opq
+
+rstu vw
+
+xy
+
+
+
+
+
+zab
+
+"
+254,Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_01,"
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+","
+z
+
+yxw vu
+
+ 
+
+ 
+
+t sr
+
+ q pon
+
+ml k
+
+jih gfedcb azyx
+
+w
+
+vu ts
+
+r
+
+
+
+
+
+q
+
+po n
+"
+255,Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_00,"
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+","
+
+
+
+
+
+
+
+
+
+
+
+ab cdefg
+
+
+
+hijk lmnopqr
+
+stuv wxyz
+
+abc
+
+de
+
+fgh
+
+
+
+
+
+ijk lm nopq
+
+
+
+"
+256,Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_01,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+","
+
+
+
+
+
+
+
+
+
+
+
+
+
+zyxw vuts
+
+rqpon mlk jihgfe
+
+dcbaz
+
+yxwv utsr
+
+q
+
+po
+
+
+
+
+
+nm lkji
+
+"
+257,Pa_CameraPointer_00-Pa_ScanningLine_00-T_DecoD_00,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH,SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+258,Pa_CameraPointer_00-Pa_ScanningLine_00-T_DecoU_00,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE,TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+259,Pa_PriestBoss_00,大試練の,The Divine Trial
+260,Pa_PriestBoss_01,導師 ミィズ・キョシア,Monk Maz Koshia
+261,Pa_QuestName_00-T_Complete_00,Complete,Complete
+262,Pa_QuestName_00-T_MapPoint_00,新しい目的地を設定,New Objective
+263,Sandworm_R_00,神獣繰りの試練,Divine Beast Tamer's Trial
+264,Sandworm_R_01,キングラジーク,Molduking

@@ -1,0 +1,147 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",ちがいます,No.
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",平和？,Peaceful?
+5,"""0004""",大厄災って？,The Calamity?
+6,"""0005""",ハイラル城って？,Hyrule Castle?
+7,"""0006""",城下町って？,Castle Town?
+8,"""0007""",えっと…,Er...
+9,talk00,"おや珍しい
+
+その青い炎はてっきり プルアさんのものだと…","Oh, my, how unusual...
+
+
+I thought that blue flame was only ever
+wielded by Purah..."
+10,talk01,"…そういえば最近プルアさんの姿を
+見かけませんねぇ
+お元気ならば いいのですが…","...Which reminds me, I haven't seen
+Purah around here lately.
+
+I hope she's all right..."
+11,talk02,はい おはよう,"Yes, good mornin' indeed."
+12,talk03,はい こんにちは,"Yes, good day, indeed."
+13,talk04,はい こんばんは,"Yes, good evenin', indeed."
+14,talk05,"さて…
+そろそろ寝る準備でもしましょうかね","Now then... I suppose I should start
+getting ready for bed."
+15,talk06,さぁ みんな帰る時間ですよ,It's time for everyone to head home.
+16,talk07,明日も早いので もう寝ますね…,"I've got an early mornin' again tomorrow,
+so I'm gonna just head home now..."
+17,talk08,ンムム…,*mumble*...
+18,talk09,スゥ… スゥ…,Zzz... Zzz...
+19,talk11,あら旅のお方？,Are you some sorta traveler?
+20,talk12,はい さようなら,"Yes, good-bye."
+21,talk13,"そうですか…
+だったら新しく引っ越して来られたのかしら","Oh... You must have moved here pretty
+recently then, hm?"
+22,talk14,あら それはそれは…,"Well, I'll be..."
+23,talk15,"最近は平和になってきたのか
+この村も活気づいてきましてね","The village has grown to be quite a lively
+place. I suppose that's on account of
+things bein' so peaceful in general. "
+24,talk16,あらあら せわしない…,"Oh, dear. You must be in a hurry..."
+25,talk17,"ええ ええ…そりゃあ もう…
+
+私が子供の頃なんかは この辺一帯
+畑ができる状態じゃなくってね…
+遠くではハイラル城が城下町ごと全部壊れて
+そこにいた人はみな犠牲になったとか…
+あの日の出来事は大厄災と呼ばれてますが
+あの悲惨さは言葉では伝わらないでしょうねぇ","Oh, yes... When I was a child, this
+whole region wasn't in a state fit to be
+sown, much less harvested.
+Hyrule Castle and Castle Town had
+been destroyed, and all the lovely folks
+there fell victim to...
+Well...back in bygone days, we called it
+the Calamity.
+
+But words often fall meaningless when
+we try to describe tragic events of
+a certain magnitude..."
+26,talk18,はいはい旅のお方ですよね？,"Yes, yes, you are a traveler, are you not?"
+27,talk19,はいはい,"Yes, yes..."
+28,talk20,このばあさんに何か御用ですか？,"And now how could an old lady like me
+help you out there?"
+29,talk21,"大厄災…
+
+私が生まれた時は全てが終わった後…
+焼野原の時代でした
+ハテノ村の被害は
+まだマシだったと言われとりますが
+私が物心付く頃にやっと
+自給自足を始められるようになりましたねぇ
+被害の中心だったハイラル城とその城下町は
+未だに大厄災の禍根を残しておるとか…
+私より年上の人なら もっと詳しい事を
+知っておられるやも知れませんねぇ…","The Calamity, yes...
+
+
+I didn't come along until everything was
+already over... I was born during the
+Age of Burning Fields.
+By the time I was old enough to be aware
+of it, the plants around Hateno Village
+were budding... We were self-sufficient.
+Even so, Hyrule Castle and the Castle
+Town remain a home ground for the
+forces of the Calamity to this very day...
+Those who are older than I might know
+more about it..."
+30,talk22,"ハイラル城とは摩天の孤城にして
+このハイラル全土を束ねる中心
+盟主ハイラル王と
+見目麗しき姫が おったそうです
+村々の勇敢なる者は皆そこを目指し
+手柄を立て故郷に錦を飾った という事です
+その最強を誇るハイラル城が大厄災で潰え
+今でも当時の痛ましい姿を留めているとは…","Hyrule Castle was the governing center
+of Hyrule, home to the king and the
+beautiful princess.
+Brave souls from nearby villages would
+all set their sights there, do great deeds,
+and return home draped in glory.
+Hyrule Castle, once strong and proud,
+was corrupted by the Calamity...and it's
+still in that state today."
+31,talk23,"ハイラル城の城下町は
+商業にも学術にも秀でた町だったそうな
+そうそう…あなた
+地図は お持ちですか？
+今でも地図の真ん中に描かれる大きな更地…
+そこが城下町の跡地といいますからねぇ
+当時の城下町の規模たるや
+如何ばかりか…","They say that Castle Town was once a
+center both for commerce and
+knowledge. That reminds me...
+Do you have a map?
+
+
+You should be able to see the ruins of
+Castle Town in the center of your map.
+
+Just looking at those ruins now...it really
+gives you an idea of the destruction
+that went on there."
+32,talk24,"おや珍しい
+
+その青い炎はてっきり""所長さんのものだと…","Oh, how unusual.
+
+
+That blue flame undoubtedly belongs to
+the Director..."
+33,talk25,"…そういえば最近所長さんの姿を
+見かけませんねぇ
+お元気ならば いいのですが…","...Which reminds me, I haven't seen the
+director around here lately. I hope
+everything's all right..."
+34,talk26,今日は生憎のお天気ですねぇ,"Unfortunate weather we're having today,
+isn't it?"
+35,talk27,おや？ それが必要かい？,Huh? You need that?
+36,talk28,"持って行きなさい
+村の者には私から説明しておくから
+いっぱい食べるんですよ","Take it. I'll explain to the villagers.
+You eat your fill."
+37,talk29,他に聞きたい事は ありますか？,Did you wanna hear about anything else?

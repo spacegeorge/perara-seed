@@ -1,0 +1,212 @@
+#,Title,JPja,USen
+1,"""0003""",もちろん,Uhh... OK.
+2,"""0004""",やめときます,Sorry. I have to go.
+3,"""0005""",勝負します！,It's on!
+4,"""0006""",野生の馬の事教えて,Wild horses?
+5,"""0007""",近くの村の事教えて,Nearby villages?
+6,"""0008""",やめときます,Never mind.
+7,"""0009""",カカリコ村？,Kakariko Village?
+8,"""0010""",ハテノ村？,Hateno Village?
+9,Npc_SouthHateru006_AreaOut_01,おや どちらへ？,"Hey, where are you going?"
+10,Npc_SouthHateru006_AreaOut_02,"あまり遠くへ行かれてしまいますと
+正確な時間が わからなくなってしまいますので
+この馬宿から あまり離れない範囲で
+お願いできますか？","If you go too far, then I can't record
+an accurate time.
+
+Could you try to stay at least somewhat
+near the stable?"
+11,Npc_SouthHateru006_H_Near000,いつでも待ってますよ,I'll be waiting till whenever.
+12,Talk_01,"野生ですので手なずけるまでは大変ですが
+自分の馬を持つと きっと世界が変わりますよ！
+なんたって「野生馬手なずけ選手権」2位の
+この私が言うんですから間違いなしです！","They're wild, so 'til you calm 'em, it's
+gonna be one crazy ride. But there's no
+feeling quite like taming a wild stallion!
+Trust me—I took second place in the
+Hyrule Horse-Taming Competition!"
+13,Talk_03,"この辺りは野生馬の宝庫！
+どんな馬でもかまいません","This area is chock full of wild horses.
+Any one of them will do!"
+14,Talk_04,"私の記録は「2分」
+2分以内にここに野生馬を連れてきてください
+それでは行きますよ！","My record is two minutes flat, so you
+need to bring back a wild horse within
+that time.
+PREPARE FOR EXTREME TAMING!"
+15,Talk_05,"野生馬は臆病ですから
+そぉ～っと近づいてくださいね","Wild horses are a bit skittish, so you
+need to sidle up to them nice and
+quiet-like."
+16,Talk_06,"お見事！
+
+しかし… まさかこんなにも簡単に
+2分の壁が破られてしまうとは…
+まぁ 「野生馬手なずけ選手権」2位と言っても
+参加選手は兄と私の2人だけ…
+これは「第二回野生馬手なずけ選手権」の
+優勝賞金！ どうぞお受け取りを！","Amazing!
+
+
+But...I can't believe you beat my
+two-minute record so easily...
+
+I mean, I won second place in the Hyrule
+Horse-Taming Competition! To be fair, it
+was just my brother and I competing...
+Anyway, here's the purse for winning the
+second official Hyrule Horse-Taming
+Competition! You earned it."
+17,Talk_07,"はっはっは
+2分の壁は思ったよりも高いでしょう？ 
+「野生馬手なずけ選手権」2位のこの私ですら 
+超えるために数年かかった高き壁…
+気を落とすことはありませんよ","Hahaha! Breaking the two-minute mark is
+pretty tough, right?
+
+But don't be discouraged. I mean, it took
+me years of practice to place second in
+the Hyrule Horse-Taming Competition."
+18,Talk_08,"2分の壁 また挑戦しますか？
+それとも他のご用事でしょうか？","You want to try again to beat two
+minutes? Or did you need something
+else?"
+19,Talk_09,"はい時間切れ～
+いや～ もうちょっとでしたね～","Aaaaaand time's up!
+Aww, better luck next time..."
+20,Talk_10,"おや？ なんですか？
+その引いた感じは！
+……
+
+いいでしょう！
+
+疑うのであれば
+
+この「野生馬手なずけ選手権」2位の
+フッサレンの記録に挑戦してみますか？","HEY!
+I saw that look you gave me!
+...
+Fine!
+
+
+You don't believe me? Let's go, pal!
+You and me. Right here. Right now.
+
+You want to challenge the second-place
+Hyrule Horse-Taming Competition winner
+to a tame-off?! YOU GOT IT, MISTER!"
+21,Talk_11,"な…
+
+なんと！
+
+このフッサレンからの勝負を断るとは…
+
+しかし… まぁ…
+仕方ないことかもしれませんね
+なんせ私は「野生馬手なずけ選手権」2位！
+怖気づいても仕方ないこと
+このフッサレン逃げも隠れも致しません！
+自信がついたら勝負いたしましょう！","Wh—
+
+
+WHAT?!
+
+
+You would dare turn down a challenge
+from me, the second greatest horse 
+tamer in the world, Rensa?
+WELL! Uh... I guess there's not much I
+can do about that.
+
+It's only natural that the title of \""Hyrule
+Horse-Taming Competition Runner-Up\""
+would strike fear in your heart.
+But I, Rensa, would never run or hide!
+Come back when you have the 
+confidence to challenge my taming skills!"
+22,Talk_12,"そうこなくては！
+
+ルールは時間内に
+ここに野生馬を連れてくるだけです！","That's the spirit!
+
+
+The only rule is that you must bring a
+wild horse back to this spot within the
+time limit!"
+23,Talk_13,"おや お客さん心は決まりましたかな？
+それとも他のご用事でしょうか？","So then. Are you ready to start?
+Or did you...need something else
+entirely?"
+24,Talk_14,"このフッサレン逃げも隠れも致しません！
+自信がついたら勝負いたしましょう！","The great Rensa will never run nor hide!
+When you have the confidence to face
+me, we'll see who is the best!"
+25,Talk_16,"ここから近い村だと
+カカリコ村かハテノ村ですね","The closest villages are Kakariko Village
+and Hateno Village."
+26,Talk_18,"ハテノ村は ハイラルの端っこにある村でしてね
+
+大厄災の被害も少なかったので
+今でもノンビリしたもんですよ 
+なんでも変な学者が
+住んでいるとか いないとか…
+ここから北へ進むと分かれ道がありますので
+そこを東にまがって後は道沿いに行くだけです
+歩くとなると ちょっと遠いですが
+馬があれば一日程度で着くと思いますよ","Hateno Village is on the east end of
+Hyrule.
+
+It hasn't been affected much by the
+Calamity, so it's a relatively quiet little
+place.
+...Give or take the occasional uppity
+scholar...
+
+Just follow the road north until it forks,
+then take the road east the rest of
+the way.
+It's pretty far on foot, but it takes only a
+day or so on horseback."
+27,Talk_19,"どうです？ 
+そろそろ勝負する気になりました？","So how about it? You ready for that
+competition now?"
+28,Talk_20,"そうこなくては！
+
+ルールは時間内に
+ここに野生馬を連れてくるだけです！
+それでは始めますよ！","That's the spirit!
+
+
+The only rule is that you have to bring a
+wild horse back to this spot within the
+time limit!
+LET'S GET IT ON!"
+29,Talk_22,やはり世界は広いですな！,"I guess there's more competition out
+there than I knew about. Maybe Hyrule
+isn't all bad after all!"
+30,Talk_TimerCK_001,"なっ なんと！
+
+こんなタイム…聞いたことありません
+
+ 「野生馬手なずけ選手権」2位の私の記録が
+こんなにも やすやすと破られるとは…
+とは言え
+参加選手は兄と私の2人だけですが…
+ともかく感服いたしました！
+私も まだまだ修行しなければなりませんな！
+これは「第二回野生馬手なずけ選手権」の
+優勝賞金！ どうぞお受け取りを！","Wh-what?!
+
+
+To think that my second-place record
+in the official Hyrule Horse-Taming
+Competition was broken so easily...
+Although to be fair, the only participating
+athletes were me and my brother...
+
+But by the Goddess, I admire your drive!
+I really need to get serious about taming
+horses.
+Anyway, here's the purse for winning the
+second official Hyrule Horse-Taming
+Competition! You earned it."

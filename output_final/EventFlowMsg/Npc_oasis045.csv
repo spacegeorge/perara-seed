@@ -1,0 +1,188 @@
+#,Title,JPja,USen
+1,"""0001""",買い取って！,Can I sell to you?
+2,"""0002""",さようなら,Good-bye.
+3,"""5500""",はい,Yes.
+4,"""5501""",いいえ,Never mind.
+5,"""5502""",買う,I wanna buy.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5507""",ぜんぶ買う,I'll take 'em all!
+8,"""5508""",ぜんぶ売る,All of them.
+9,Com_Talk_00,売りたい品は どれだい？,What do you want to sell?
+10,Com_Talk_01,"なら
+ルピーで買い取るよ","All right... I'll buy it from
+you for  rupees."
+11,Com_Talk_02,"サークサーク
+確かにルピーは渡したよ",Sarqso. Those rupees are mine now.
+12,Com_Talk_02b,サークサーク！,Sarqso!
+13,Com_Talk_02c,"サークサーク
+これウチの子が好きなんだ助かるよ～",Sarqso. My kid will love this. Thanks!
+14,Com_Talk_02d,"サークサーク
+こんなの買い取れるなんて今日はツイてるねぇ","Sarqso. Today must be my lucky day
+for me to get my hands on something
+like this!"
+15,Com_Talk_04,まぁ急ぐことはないさ,"Well, there's no hurry."
+16,Com_Talk_05,他にはもうないのかい？,Are you done?
+17,Com_Talk_05b,"他にも色々頼むよ
+遠慮はいらないからさ～","Go ahead and show me what else you
+have! There's no harm in me taking a
+look, at least."
+18,Com_Talk_05c,"うちの子が好きそうなのを
+まだまだ色々持ってそうだねぇ","You seem to have more things that my
+kid will like."
+19,Com_Talk_05d,"外の世界のもんはいくらあっても足りないからね
+いくらでも買い取るよ","I can never get enough items from the
+outside world. I'll buy whatever you've
+got."
+20,Com_Talk_08,"この街では値切りはご法度だよ
+金がないなら鉱石でも売って金を作るんだね","Haggling is not permitted in this town.
+If you need money, maybe try selling
+ore or something?"
+21,Com_Talk_09,"おや入れる場所が ないじゃないか
+ポーチを空けてから また来ておくれ","Oh, but you don't have anywhere to put
+this! Make space in your inventory, and
+come back."
+22,Com_Talk_13,"だね?
+いくつ売りたいんだい？",All right. How many do you want to sell?
+23,Com_Talk_14,"が個… っと
+あわせてルピーだね","So  of them would be  rupees.
+How's that sound?"
+24,Com_Talk_15,"これはウチでは買い取れないね…
+ヨソに持ってってくれるかい？","I can't buy that from you...
+Maybe try some other place."
+25,Com_Talk_16,"ハイリア人は着てる服を売る習慣があるのかい？
+生憎だが この街では通用しないだろうよ","Is it a Hylian custom to sell the clothes
+that you're wearing? Unfortunately, that
+isn't really a thing here..."
+26,Com_Talk_31,"だね？
+いくつにするんだい？",Sounds good. How many do you want?
+27,Com_Talk_33,"を1つだね？
+それならルピーでいいかい？","Just one? In that case, it'll
+be  rupees, OK?"
+28,Com_Talk_34,"を全部だね？
+個でルピーになるけど いいかい？","Oh? All of them?
+There's , so it'll be  rupees.
+That OK?"
+29,Com_Talk_35,"を個全部だね？
+それなら合計ルピーで買い取るよ？","Oh, all  of them?
+I'll buy them for  rupees."
+30,Com_Talk_50,"だね？
+ルピーになるけどいいかい？",That'll be  rupees. Is that OK?
+31,Com_Talk_51,"だね？
+いくつにするんだい？",And how many?
+32,Com_Talk_52,"が個だね
+あわせてルピーになるけど いいかい？","So,  of them? Altogether,
+it'll come to  rupees, OK?"
+33,Com_Talk_53,"おや やめちゃうのかい？
+残念だね","Oh, did you change your mind?
+That's too bad."
+34,Com_Talk_54,"この街では値切りはご法度だよ
+金がないなら鉱石でも売って金を作るんだね","Haggling is not permitted in this town.
+If you need money, maybe try selling
+ore or something?"
+35,Com_Talk_55,"おや荷物がいっぱいじゃないか
+売るか捨てるか してくるんだね","Oh, you're carrying too much stuff. Sell
+or throw some of it away, and come back."
+36,Com_Talk_56,"""を1つだね？
+それならルピーだよ","Just one, right? That will
+be  rupees."
+37,Near001,食べごろだよ…,They're ready for eating...
+38,Near002,なくなっちまったよ…,I'm all sold out...
+39,Talk_01,"ヴァーサーク…
+
+お客さんと同じように
+フレッシュ & ジューシーなフルーツだよ","Vasaaq.
+Our fruit here is fresh and juicy, just how
+everyone likes it!"
+40,Talk_02,"ヴァーサーク…
+
+砂漠は体力を消耗しやすいからね
+そんな時は ウチのフルーツが一番だよ","Vasaaq.
+The desert heat can drain your health so
+easily. Our fruit really helps fight that!"
+41,Talk_03,"ウチの子供はフルーツパイが大好きでね
+たまに作ってやるんだ
+フルーツは いくらでもあるけど
+タバンタ小麦ときび砂糖とヤギのバターが
+この辺では なかなか手に入らないから
+滅多に作れないけどね
+お客さんも材料があれば
+作ってみるといいよ","My kid really loves fruitcake, so I make it
+every once in a while.
+
+I have all the fruit I'd ever need, but it's
+a bit difficult to find Tabantha wheat,
+cane sugar, and goat butter...
+Anyway, if you have the ingredients, you
+should try making it yourself sometime."
+42,Talk_05,お安いご用だよ,No problem.
+43,Talk_06,サークサーク…,Sarqso...
+44,Talk_07,"サークサーク
+また仕入れとくよ！",Sarqso. I'll make sure to restock for you!
+45,Talk_09,"外国のお客さんの持ち物は
+見てるだけでも楽しいもんだね
+また楽しませておくれよ","It's fun just seeing the kinds of things
+that foreigners carry with them when
+they get here.
+Feel free to come back and show me
+more sometime."
+46,Talk_11,"ヴァーサーク…
+
+ウチの子供と同じぐらい
+フレッシュ & スイートなフルーツだよ","Vasaaq.
+Our fruit here is sweet as can be, just
+like my wonderful daughter."
+47,Talk_12,"いい香りだろ～？
+今が食べごろだよ","Smells nice, right?
+They're perfect for eating now."
+48,Talk_13,"まだまだいい香りがするだろ？
+
+ウチのは
+完熟食べごろのモンばっかりだったからね
+フルーツがなくなっても
+香りが残ってるんだ","It still smells pretty nice around the
+stall, doesn't it? The fruit I had was ripe
+and ready to be eaten!
+Even with the fruit gone now, the
+wonderful smell still lingers."
+49,Talk_14,"今が一番食べごろだからね
+きっとうまいよ～","They're perfect for eating now, you
+know. I'm sure they're pretty tasty."
+50,Talk_15,"サークサーク
+いい買い物したねぇ～","Sarqso. That was a great purchase,
+don't you think?"
+51,Talk_16,"サークサーク
+また頼むよ！",Sarqso. Come again!
+52,Talk_17,"おや なくなっちまったかい？
+また仕入れとかないとねぇ","Oh, am I all out? I'll have to restock
+for you."
+53,Talk_18,"お客さん！
+聞いたかい？ナボリス鎮圧の話！
+なんでもウチの族長様と
+パトリシアちゃん様が大活躍だったそうだよ！
+実は パトリシアちゃん様のお食事は
+ウチのフルーツを使ってるんだよ
+これを機に ウチのフルーツをブランド化
+できないかなって思ってるところなんだよ
+「パトリシアちゃん様印の
+ベローアのフルーツ屋」
+ふふっ どうだい？
+なんだかおいしそうに感じないかい？
+私もブランド化のために
+頑張らないとねぇ","Oh, have you heard the good news?
+Naboris has finally been calmed!
+
+It sounds like our chief and Patricia
+played a big part in the whole adventure,
+too!
+You know, I've actually been feeding
+Patricia my own fruit whenever I can.
+
+Now seems like the perfect time to kick
+off my new brand!
+
+\""Lorn's Fruit Stand. Patricia loves it!\"" 
+Hehe. What do you think?
+
+Sounds pretty delicious, right? I gotta
+work hard to get this brand off the
+ground."

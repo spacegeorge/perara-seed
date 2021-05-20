@@ -1,0 +1,105 @@
+#,Title,JPja,USen
+1,"""0000""",ふつうのベッド,Normal bed.
+2,"""0001""",至福のウォーターベッド,Blissful water bed.
+3,"""0002""",やめる,Good-bye.
+4,"""0003""",朝まで,Until morning.
+5,"""0004""",昼まで,Until noon.
+6,"""0005""",夜まで,Until night.
+7,"""0006""",やっぱりやめる,Never mind.
+8,"""0009""",ウォーターベッドって？,Water bed?
+9,talk00,"いつでも深い眠りを旅人に
+ゾーラの宿サカナのねやへ ようこそ","We're always happy to provide some
+sound sleep to weary travelers.
+Welcome to the Seabed Inn!"
+10,talk03,こんにちは,Hello!
+11,talk04,夜更けまで お疲れ様でございますです,You've been working late.
+12,talk05,"え…あれっ…？
+あなたは100年前の リンク様…
+おっと…仕事仕事…","Wait... It can't be... Y-you're Master Link!
+From 100 years ago!
+
+*ahem* Sorry. Back to work I go."
+13,talk06,"ようやく晴れ間が見えてきましたですね
+さて…","Ah, I can finally see a break in the
+weather. Now then..."
+14,talk07,"やはりあなたは…
+100年前の…リンク様だったんですね？！
+お客様に こんな質問するのもアレですが…
+この100年 いったい何してたんですか？
+ちなみに僕は この100年で…
+幼馴染のコダーと…
+…
+
+おっと…僕は仕事に戻りますです！
+リンク様の事は後でコダーに聞くとします","I knew it was you...from 100 years ago...
+You're Master Link!
+
+Not to be rude by assaulting a customer
+with questions, but... Where have you
+been all this time?!
+You should know that in the last
+100 years...my childhood friend,
+Kodah, and I...
+...
+
+
+*ahem* I am sorry. I should get back to
+work now. I will simply have to speak
+with Kodah about you later."
+15,talk08,"普通のベッドなら20ルピー
+至福のウォーターベッドなら80ルピーですが","Our normal bed will cost you 20 rupees.
+Our blissful water bed is 80 rupees."
+16,talk09,"かしこまりました
+また いつでもお越しください",Of course. Come back again anytime.
+17,talk10,"すいませんが ルピーが足りません
+今日のところは お引き取りください","I'm sorry, but you don't seem to have
+enough rupees. Please leave for now."
+18,talk11,いつまでお眠りになりますか？,How long would you like to sleep?
+19,talk12,"至福のウォーターベッドで
+いつまで お眠りになりますですか？","How long would you like to sleep on the
+blissful water bed?"
+20,talk13,"それでは朝まで
+ごゆっくり…","OK then. Please sleep well
+until morning..."
+21,talk14,"それでは お昼まで
+ごゆっくり…","OK then. Please sleep well
+until noon..."
+22,talk15,"それでは夜まで
+ごゆっくり…","OK then. Please sleep well
+until nightfall..."
+23,talk16,"おはようございますです
+よく お休みになれましたでしょうか","Good morning. You look like you
+slept well."
+24,talk17,"こんにちは
+よく お休みになれましたですか","Good afternoon. You look like you
+slept well."
+25,talk18,"よく お休みになれましたでしょうか
+すっかり夜ですね","You seem to have slept well.
+It's nighttime now."
+26,talk19,"おはようございますです
+至福のウォーターベッドは いかがでした？","Good morning. I hope you enjoyed the
+blissful water bed."
+27,talk20,"よく お眠りになれましたか？
+至福のウォーターベッドは いかがでした？","You appear to have slept well. I hope you
+enjoyed the blissful water bed."
+28,talk21,"よく お休みになれましたか？
+至福のウォーターベッドは いかがでした？","I see you slept soundly. I hope you
+enjoyed the blissful water bed."
+29,talk22,"ウォーターベッドとは
+その名の通り中が水で満たされたベッドです
+体に合わせて変形するので全身を包み込み
+更に火照った体を鎮める効果があるんです
+馬宿のベッドとは比べ物にならない
+至福の寝心地を ご提供できますですよ
+いかがいたしますか？","You wish to know about our water bed?
+Well, as the name implies...it is a bed
+filled with water.
+It conforms to the shape of your body,
+so it's like being wrapped up in a
+cocoon as you sleep. Very calming.
+Oh, and its incredible cooling effect
+promises a level of sleeping comfort
+you simply can't find elsewhere.
+Perhaps you would like to try it?"
+30,talk23,お泊りですね？,Would you like to rest here?
+31,talk24,はい こちらはサカナのねや…,Hello! Welcome to the Seabed Inn.

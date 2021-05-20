@@ -1,0 +1,259 @@
+#,Title,JPja,USen
+1,Atacked00,"はぁ… はぁ…
+正直 もうだめかと…","*pant pant* 
+Frankly, I thought I was done for..."
+2,Atacked01,しーっ…まだ魔物がいるみたい…,"Shh! Looks like there are still some
+monsters about..."
+3,Failed00,"あぁ このスリ傷… 
+治るかしら…","Ouch, this scratch... I hope it'll heal..."
+4,Failed01,イタタタ…ひどい目に遭いました,"Ow! Owowowow... What a terrible thing
+to have happen to me..."
+5,Guardian00,"早く逃げましょう！
+ガーディアンが こっちに来ます！","We've got to run! There's a Guardian
+coming this way!"
+6,MSG_Futa_00,"う～ん…あなたは男の人だし
+ご興味あるかどうか…
+要するに宝石の話なんですけれど
+あまり ご興味ない？
+では宝石はバカ高く売れると知ったら
+どうかしら？","Hmm... I don't know how interested
+you'd be to hear about this, really...
+
+Oh, what the heck! I wanted to talk about
+gems! Still interested? Maybe not, but...
+
+What would you say if I told you that you
+can sell gems at ridiculously high prices!
+Interested now?"
+7,MSG_Futa_00_1,"男の人でも宝石はバカ高く売れると知ったら…
+そりゃ興味が湧くわよね","Even if the sight of gems doesn't spur
+you to action, I'm sure the sight of what
+they sell for will!"
+8,MSG_Futa_01,"…あなた
+双子山に行った事はおあり？
+あの山は鉱石がたくさん採れますのよ！
+ハンマーとか使って掘り当ててみたいわ！
+そして…誰でもいいから
+できるだけバカ高く売りつけたい！！
+…ごめんなさい
+
+宝石の美しさを思ったら
+ついつい興奮しちゃいまして…","...Have you ever been to the
+Dueling Peaks?
+
+Those mountains are really rich in ore!
+I want to get out there with a trusty
+hammer and really mine up a fortune!
+I can see it now... Big piles of gems
+stacked neatly as far as the eye can see.
+A buyer giving me tons of rupees...
+Oh! Sorry... When I think about gems,
+I just get so excited..."
+9,MSG_Futa_01_1,"双子山では鉱石がたくさん採れますのよ！
+鉱石は高く売れますし
+私もハンマー持って掘り当に行こうかしら！","You can dig up a bunch of ore on 
+Dueling Peaks! Now that I think about it,
+I should use a hammer to mine that ore!"
+10,MSG_Futa_02,"…もしかして あなた
+カカリコ村に行きたいの？
+それなら道なりに北に進みなさい
+
+私も あの村にあるお店に
+よく鉱石を売りつけに行くのよ","You wouldn't happen to be heading to
+Kakariko Village, would you?
+
+If you are, just follow the roads north.
+
+
+That village is one of the places I
+sell ore at, so I know the way
+really well!"
+11,MSG_Futa_02_1,カカリコ村は道なりに北に進むとあるわよ,"To get to Kakariko Village, follow the
+roads north."
+12,MSG_Futa_03,"う～ん…
+
+あら ごめんなさい 
+美しい妄想をしてたら ボーっとしちゃって…
+妄想っていうのはね
+ルビーとかサファイアのこと…
+あの二種類は特に高く売れますのよ！
+売っぱらって換金してこその宝石なのよッ！！
+…ごめんなさい
+
+宝石の美しさを思ったら
+ついつい取り乱しちゃって…","...
+
+
+Oh, yikes! I'm sorry! I was having such a
+beautiful daydream, I was completely
+zoned out...
+Thinking about rubies and sapphires...
+
+
+Those two gems can be sold at really
+high prices! They're some of the best
+gems to sell for serious money!!
+...Sorry. I just get so carried away when
+it comes to gems..."
+13,MSG_Futa_03_1,"やっぱり宝石は換金してこそ！
+ですわよね！！
+特に高く売れるルビーとかサファイアは
+持っていてるよりも断然お得ですものね！","The best way to realize a gem's true
+value is by selling it! Rubies and
+sapphires sell for a high price!
+Better to sell than to hold on to them
+until you're old and gray!"
+14,MSG_Futa_04,"鉱石の価値は美しさと存在感にこそある…
+いま私 そんなことを考えてたの
+お金に換えればウッハウハっていうのは
+本来の価値とは違うと思うのよね
+鉱石をお金に換えてきて
+ウッハウハの私が言うのも なんだけど…","A gem's value lies in its beauty... I was
+just thinking about all the wonderful
+gems I've seen!
+And I was thinking about the glee I've
+felt when I consider all the money one
+can sell a beautiful gem for!
+Not to brag, but I just made a few sales
+and am feeling full of glee at
+the moment..."
+15,MSG_Futa_04_1,"美しさと存在感も大切だけど
+それだけじゃあね…
+やっぱり宝石はお金に換えてナンボよね…","Physically owning something as
+beautiful as a gem is important, but...
+money is nice, too."
+16,Near00,♪朝はダイヤモンド～,♪Morn'n diamonds.♪
+17,Near01,♪トパーズの日差し～,♪Sun rays of topaz.♪
+18,Near02,♪ルビーよりルピー,♪Rupees over rubies.♪
+19,Near03,♪星はサファイア～,♪Stars are sapphires.♪
+20,Near04,♪オパールの雨～,♪It's raining opals.♪
+21,Rest_00,"…あなたのポーチ素敵だけど
+鉱石を入れっぱなしにしたりしてない？
+もしそうだとしたら
+高く売れるのに宝の持ちぐされだなって","You've got a nice pouch for carrying
+things, but are you carrying a lot of ore?
+
+If you're just carrying it around, you're
+missing out on a chance to make a
+killing! Ore is valuable!"
+22,Rest_01,"雨だと バクダン矢の火が消えちゃうから
+使えなくなるんですってね
+…なあに その顔
+私って宝石以外の話しちゃいけないの？","When it's pouring rain, the fuses on
+bomb arrows will go out, so they
+won't explode.
+What's with that look? Am I not allowed
+to talk about something besides ore?"
+23,Rest_02,"う～ん…
+
+雨は私を無口にするのよね","...
+
+
+Honestly, I don't feel much like talking
+when it's all rainy out..."
+24,RetMSG_Futa_00,"私ってね キラキラしたものが好き…
+夜空の星…湖面の輝き…美しい宝石…
+でも どれかひとつだけ選ぶとしたら
+だんぜん宝石ね！
+だって もし高値で売れば
+キラキラしたお金が ガッポガポだもの！
+私ってね キラキラしたものが好き…","I love pretty much everything that
+sparkles... Stars in the night sky... The
+shimmer off a lake... Gems...
+Oh, gems, I'd pick you over everything
+else!
+
+...Because I can sell you at a high price
+and be rolling in money!
+
+*sigh* I love things that sparkle so much."
+25,RetMSG_Futa_00_1,"宝石のキラキラも大好きだけど
+宝石を売って手に入るお金は
+もっとキラキラしているの…
+私って本当にキラキラしたものが好きみたい","I love the way a gem sparkles in the right
+light, but the profits selling a gem can
+bring also sparkle something wonderful.
+I guess I just really love things
+that sparkle."
+26,RetMSG_Futa_01,"…突然だけど ハンマーはお持ち？
+鉱石集めに便利だって事 お伝えしておくわね
+危険を承知で爆弾を使う人もいるけれど…
+私の近くでドカンは やめてちょうだいね","I know this may seem a little random, but
+have you got a hammer? It'll be helpful
+to have one if you're gonna collect ore.
+Some people use explosives instead,
+though... It's really dangerous, but they
+still do it.
+Just... Please don't use explosives near
+me, OK?"
+27,RetMSG_Futa_01_1,"爆弾を使う人もいるみたいだけど…
+鉱石集めには やっぱりハンマーよね","Some people use bombs... 
+But hammers are the best for mining."
+28,RetMSG_Futa_02,"…道に迷ったんでしょ？
+いいのいいの迷いは誰にでもあることよ
+南に行けば双子馬宿""東に行けばハテノ村…
+地図があるなら それ見て進めばいいだけ
+でもね…
+人生の地図って ないのよねぇ…","You're lost, aren't you? Oh, no, it's OK!
+Everyone gets lost from time to time.
+
+The Dueling Peaks Stable is to the south,
+and Hateno Village is to the east. If you
+have a map, look at it as you travel.
+It's too bad there isn't a map to life,
+you know?"
+29,RetMSG_Futa_02_1,"南に行けば双子馬宿""東に行けばハテノ村…
+地図があるなら それ見て進めばいいだけよ","The Dueling Peaks Stable is to the south,
+and Hateno Village is to the east. Make
+use of your map while you're traveling."
+30,RetMSG_Futa_03,"…あなた危険物の扱いは慣れてるほう？
+
+この辺りには質の高い鉱石が多いし
+豪快にドカーンと爆弾を使ってみたら？
+ただし私の近くでやらないでちょうだいね","Have you got some experience handling
+dangerous items? Like...bombs?
+
+There's a ton of high-quality ore around
+here, and bombs can be used to mine it
+quickly. Plus, there'll be a cool explosion!
+Just... Don't set the bombs off near
+me, OK?"
+31,RetMSG_Futa_03_1,"この辺りには質の高い鉱石が多いし
+豪快にドカーンと爆弾を使ってみたら？","There's a lot of high-quality ore around
+here... How about using a bomb to make
+an exciting explosion?"
+32,RetMSG_Futa_04,"私の頭の中って
+鉱石や宝石や換金の事ばかり…
+たまには他愛のない事でも考えてみようかしら
+例えば…
+温泉にトリのタマゴを入れると
+「ゆでタマゴ」になる事とか…","I can't think about anything else... 
+It's just ore and gems and making money
+all the time...
+Maybe I should try thinking about things
+that can help others and not just my
+wallet...
+For example... Did you know you can put
+a bird egg into a hot spring and you'll
+make a hard-boiled egg? That's helpful!"
+33,RetMSG_Futa_04_1,"なんだかお腹すいちゃったわ
+
+温泉にトリのタマゴを入れて
+「ゆでタマゴ」でも作ろうかな","My stomach is rumbling...
+Maybe I'll put a bird egg into a 
+hot spring to make a hard-boiled egg..."
+34,SavedLv1_00,もう魔物はいませんよね？ね？,"The monsters are gone, right? Right?"
+35,SavedLv1_01,"ふぅ…
+なんとか逃げ切ることができました…","Phew... I managed to get away
+somehow..."
+36,SavedLv2_00,"もうおしまいかと思ったけど
+命拾いしましたわ！","I thought for sure I was done for, but I
+somehow managed to narrowly
+escape death!"
+37,SavedLv2_01,"なんて お強いんでしょう！
+助けていただいたご恩は決して忘れません","Wow, you're really powerful! I'll never
+forget that I owe you my life!"
+38,SavedLv3_00,あなたは私の命の恩人です！,I owe you my life!
+39,SavedLv3_01,あなたがいなかったら私は今ごろ…,"If you hadn't shown up when you did,
+right now I'd probably be... Well..."
+40,Thanks00,これは感謝の気持ちです！,This is to show my thanks!

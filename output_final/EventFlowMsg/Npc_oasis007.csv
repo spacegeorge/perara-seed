@@ -1,0 +1,404 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします！,"Yes, please!"
+2,"""0001""",結構です,"No, thank you."
+3,"""0002""",七宝のナイフを作る,A Scimitar of the Seven.
+4,"""0003""",七宝の盾を作る,A Daybreaker.
+5,"""0004""",両方作る！,Make both!
+6,"""0005""",やっぱり結構です,"Actually, never mind."
+7,"""0006""",その事ですが…,About that...
+8,"""0007""",また来ます！,I'll be back!
+9,"""0008""",作ってください,"Yes, please."
+10,"""0009""",やめておきます,Maybe later.
+11,Raimei_CK_001,"その雷鳴の兜は私ですら
+まだ手を触れたことのないこの国の宝…
+正直 羨ましさや嫉妬の気持ちが
+ないわけではない…
+しかし お前は民の笑顔だけでなく
+族長様の笑顔まで取り戻してくれた
+私では到底できなかったことだ…
+
+お前だからこそ族長様は
+それをお預けになられたのだ
+兜に何かあったら許さぬからな！
+それだけは肝に銘じておけ！","That Thunder Helm is a treasure of the
+Gerudo that even I have never laid
+hands on... 
+If I'm being honest, I do feel a twinge of
+envy toward you...
+
+But you've not only restored happiness
+to our people...you've brought that
+same happiness to the chief, as well.
+This was a task beyond my abilities...
+It only makes sense that the chief would
+entrust you with such a treasured item.
+Having said that, should anything happen
+to that helm, I will never forgive you!
+Bear that in mind!"
+12,Talk_01,"色々あったが…
+お前には本当に世話になったな
+英傑の武具は雷鳴の兜に続く ゲルド族の宝
+なかなか手に入らない逸品だ！
+武具に何かあれば すぐに申し出るんだぞ","A lot happened, but... We are truly
+indebted to you.
+
+The Champion's arms are treasures of
+the Gerudo, much like the Thunder Helm.
+
+If anything happens to them, you must
+let me know immediately."
+13,Talk_02,"言い訳はいい… ともかく七宝の盾を失った
+…とそういうことだな","Don't bother with excuses—I can see it
+in your eyes. You've lost the Daybreaker.
+That's what's going on, right?"
+14,Talk_03,"私はいつでも ここにいて
+族長様をお守りしている
+武器に関して何かあれば
+いつでも来るといい","I am always here, protecting the chief.
+Come see me anytime you have a
+question about the weapons."
+15,Talk_04,"…それでダイヤモンドはどうした？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","Well? Show me the diamonds!
+
+
+No amount of wishful thinking will allow
+me to craft something without enough of
+the proper materials."
+16,Talk_05,"なんだと…
+
+七宝の盾だけでなく七宝のナイフまでも
+失った… だと","Wh-what? Did you say...
+You've lost not only the Daybreaker but
+the Scimitar of the Seven as well?"
+17,Talk_06,"そうなるとダイヤモンド2個""火打ち石10個に
+ゲルドのナイフとゲルドの盾が必要になるが…","In that case, I'll need two diamonds, ten
+pieces of flint, a Gerudo scimitar, and a
+Gerudo shield."
+18,Talk_07,"言い訳はいい… ともかく七宝のナイフを失った
+…とそういうことだな","Don't bother with excuses—I can see it
+in your face. You've lost the
+Scimitar of the Seven."
+19,Talk_08,"よし それでは素材を預からせてもらう
+そこで少し待っていてくれ","OK, I'll take those materials now. Wait
+here for a little bit."
+20,Talk_09,"…待たせたな
+
+これが新しい七宝のナイフだ
+持っていくがいい","Thanks for waiting.
+This is your new Scimitar of the Seven.
+Take care of it."
+21,Talk_10,"…待たせたな
+
+これが新しい七宝の盾だ
+持っていくがいい","Thanks for waiting.
+This is your new Daybreaker.
+Take care of it."
+22,Talk_11,"…待たせたな
+
+これが新しい七宝のナイフと七宝の盾だ
+持っていくがいい","Thanks for waiting.
+Here are your new Scimitar of the Seven
+and Daybreaker. Take care of them."
+23,Talk_12,"お前の働きは見事だった！
+兵を代表し私からも礼を言わせてくれ
+さあ宝箱から武具をとるといい
+
+いくらこの国の恩人でも
+族長様を お待たせしてはならぬぞ","You did amazing work!
+I believe I speak for everyone when I
+say thank you!
+Now, go ahead and take what awaits you
+in those treasure chests there.
+
+Move quickly. We are indebted to you,
+but that doesn't mean you can make the
+chief wait forever."
+24,Talk_13,"七宝のナイフか…作るにはダイヤモンドが1個
+火打ち石が5個とゲルドのナイフが必要だぞ","The Scimitar of the Seven, huh?
+To make it, I'll need one diamond, five
+pieces of flint, and a Gerudo scimitar."
+25,Talk_14,"七宝の盾か…作るにはダイヤモンドが1個
+火打ち石が5個とゲルドの盾が必要だぞ","The Daybreaker, huh? To make it, I'll
+need one diamond, five pieces of flint,
+and a Gerudo shield."
+26,Talk_15,"なんだ？ 
+貴重なものだと知って怖気づいたか？
+しかし安心するがいい
+貴重ではあるが新たに作ることはできる
+ただし作るにはダイヤモンドが必要となる
+
+必要なのはたった1個だが…
+ダイヤモンドは この世界の最高級鉱石…
+七宝の盾と七宝のナイフに
+負けず劣らず貴重な品だ
+まぁ ともかく壊さんことだな","What? Are you getting cold feet after
+discovering how precious these items
+are?
+You can relax. Though they may be
+precious, it is within my power to remake
+them, if needed.
+I must have a diamond in order to make
+one, however. Only one diamond, but
+they are the highest quality of gems...
+They're just as precious as the
+Daybreaker or the Scimitar of the Seven!
+It's best if you just try not to break them."
+27,Talk_22,"まぁ いい
+それでお前はどうしたいんだ？
+七宝のナイフを作るにはダイヤモンドが1個 
+火打ち石が5個それにゲルドのナイフが必要だ","...I suppose nothing is accomplished by
+discussing it further. So what do you
+want to do?
+To make a Scimitar of the Seven, I'll
+need one diamond, five flint, and a
+Gerudo scimitar."
+28,Talk_23,"…まったく族長様から授かりし品を
+なくすとは…
+お前というやつは…","I can't believe you'd lose such a
+precious item. Entrusted to you by
+the chief, no less!
+I shouldn't be surprised."
+29,Talk_26,"まぁ いい
+それでお前はどうしたいんだ？
+七宝の盾を作るにはダイヤモンドが1個 
+火打ち石が5個それにゲルドの盾が必要だ","...I suppose nothing is accomplished by
+discussing it further. So what do you
+want to do?
+To make another Daybreaker, I'll need
+one diamond, five flint, and
+a Gerudo shield."
+30,Talk_28,"…まぁ いい
+あの武具は きっと主を守ったのであろう
+それで新しいのを作りたいのか？","...I suppose nothing is accomplished by
+discussing it further. I'm sure they
+protected their master.
+Well, do you want me to make new ones
+for you?"
+31,Talk_29,"…それで火打ち石はどうした？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","Well? Where's the flint?
+
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+32,Talk_30,"…それでゲルドの盾はどうした？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","Well? Where's the Gerudo shield?
+
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+33,Talk_31,"…それでゲルドのナイフはどうした？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","Well? Where's the Gerudo scimitar?
+
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+34,Talk_32,"…ダイヤモンドと火打ち石が足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds
+or enough flint.
+
+No amount of wishful thinking will
+allow me to craft something without
+enough of the proper materials."
+35,Talk_33,"…ダイヤモンドとゲルドの盾が足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds or a
+Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without enough of
+the proper materials."
+36,Talk_34,"…ダイヤモンドとゲルドのナイフが足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds
+or a Gerudo scimitar.
+
+No amount of wishful thinking will allow
+me to craft something without enough
+of the proper materials."
+37,Talk_35,"…火打ち石とゲルドの盾が足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough flint or a
+Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+38,Talk_36,"…火打ち石とゲルドのナイフが足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough flint or a
+Gerudo scimitar.
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+39,Talk_37,"どの素材も足りていないな…
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough of any of the
+materials I need...
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+40,Talk_38,"…ゲルドのナイフとゲルドの盾が足りないぞ？
+
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have a Gerudo scimitar or a
+Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+41,Talk_39,"…ダイヤモンドと火打ち石と
+ゲルドの盾が足りないぞ？
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds,
+enough flint, or a Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without enough
+of the proper materials."
+42,Talk_40,"…ダイヤモンドと火打ち石と
+ゲルドのナイフが足りないぞ？
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds,
+enough flint, or a Gerudo scimitar.
+
+No amount of wishful thinking will allow
+me to craft something without enough
+of the proper materials."
+43,Talk_41,"…ダイヤモンドとゲルドのナイフと
+ゲルドの盾が足りないぞ？
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough diamonds,
+a Gerudo scimitar, or a Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without enough
+of the proper materials."
+44,Talk_42,"…火打ち石とゲルドのナイフと
+ゲルドの盾が足りないぞ？
+武器を作りたいのはわかるが
+材料がないことには どうにもしてやれんな","You don't have enough flint, a
+Gerudo scimitar, or a Gerudo shield.
+
+No amount of wishful thinking will allow
+me to craft something without the
+proper materials."
+45,Talk_43,"困ったことがあれば
+いつでもこの街に来るといい
+この街の者は皆お前の味方だからな
+
+ただし ヴォーイだということは
+決して悟られぬようにな","If you ever find yourself in trouble, you
+are always welcome to come here.
+Everyone in this town is your ally now.
+However, you still mustn't let anyone
+discover that you are actually a voe."
+46,Talk_44,"英傑の武具は雷鳴の兜に続く ゲルド族の宝
+それを手にできるハイリア人はお前ぐらいだろう
+武具に何かあれば すぐに申し出るんだぞ","The Champion's arms are treasures of
+the Gerudo, much like the Thunder Helm.
+
+You are perhaps the only Hylian ever
+to wield them.
+
+If anything happens to them, you must
+let me know immediately."
+47,Talk_45,"七宝の盾を失った…
+お前はそう言いたいのか？
+私をたばかるつもりか！
+
+本当に この世から消えてしまった時に
+また来るんだな","You've lost the Daybreaker?
+Is that what you're trying to say?
+
+Ha! Did you think you could deceive
+me so easily?!
+
+Take your falsehoods and go! Return to
+me if it really has been lost."
+48,Talk_46,"七宝のナイフを失った…
+お前はそう言いたいのか？
+私をたばかるつもりか！
+
+本当に この世から消えてしまった時に
+また来るんだな","You've lost the Scimitar of the Seven?
+Is that what you're trying to say?
+
+Ha! Did you think you could deceive
+me so easily?!
+
+Take your falsehoods and go! Return to
+me if it really has been lost."
+49,Talk_47,"英傑の武具を失った…
+お前はそう言いたいのか？
+私をたばかるつもりか！
+
+本当に この世から消えてしまった時に
+また来るんだな","You've lost the Champion's arms?
+Is that what you're trying to say?
+
+Ha! Did you think you could deceive
+me so easily?!
+
+Take your falsehoods and go! Return to
+me if it really has been lost."
+50,Talk_49,"英傑の武具を失った…
+お前はそう言いたいのか？
+私をたばかるつもりか！
+
+七宝のナイフは
+まだこの世から消えておらんだろう！
+しかし七宝の盾は
+本当に失ってしまったようだな…","You've lost the Champion's arms?
+Is that what you're trying to say?
+
+Ha! Did you think you could deceive
+me so easily?!
+
+The Scimitar of the Seven has in fact
+not been lost!
+
+Although... It does appear that you've
+lost the Daybreaker..."
+51,Talk_50,"英傑の武具を失った…
+お前はそう言いたいのか？
+私をたばかるつもりか！
+
+七宝の盾は
+まだこの世から消えておらんだろう！
+しかし七宝のナイフは
+本当に失ってしまったようだな…","You've lost the Champion's arms?
+Is that what you're trying to say?
+
+Ha! Did you think you could deceive
+me so easily?!
+
+The Daybreaker has in fact not been lost!
+
+
+Although... It does appear that you've
+lost the Scimitar of the Seven..."
+52,TerrorArrow,やる気か？,Think you can take me?
+53,TerrorBomb,無礼だぞ！,Rude!
+54,TerrorExplosion,賊の奇襲か？！,A surprise attack?!
+55,TerrorFire,火を消せ！,Put the fire out!
+56,TerrorSword,剣を納めよ！,Put away your weapon!

@@ -1,0 +1,556 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,Please.
+2,"""0001""",待って,Wait.
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",装備品スタンド,Gear displays.
+5,"""0004""",家具,Installations.
+6,"""0005""",外構,House exterior.
+7,"""0006""",やっぱやめる,Never mind.
+8,"""0007""",武器スタンド,Weapon mount.
+9,"""0008""",弓スタンド,Bow mount.
+10,"""0009""",盾スタンド,Shield mount.
+11,"""0010""",ベッド,Bed.
+12,"""0011""",そうですね！,That's right!
+13,"""0012""",照明,Lighting.
+14,"""0013""",お花畑が欲しい,Plant some flowers!
+15,"""0014""",木を植えたい,Plant trees!
+16,"""0015""",ドア,Door.
+17,"""0016""",出せます,I'm ready to pay up!
+18,"""0017""",作って欲しい,Build me something.
+19,"""0018""",何を？,What?
+20,"""0019""",エノキダは？,Hudson?
+21,"""0020""",見えました,Yes.
+22,"""0021""",表札が欲しい,A sign with my name!
+23,"""0022""",払います！,I'll pay your price!
+24,"""0023""",払えません…,I can't pay...
+25,"""0024""",えっ？！,Huh?!
+26,"""0025""",いいですね！,That's good!
+27,"""0026""",何してるの？,What're you doing?
+28,"""0027""",あなたは誰？,Who are you?
+29,"""0028""",ココ買います！,I can buy it!
+30,"""0029""",へぇ～,Sounds...dull.
+31,"""0030""",用意できた！,I'm ready!
+32,"""0031""",開拓？,Clearing land?
+33,"""0032""",出します！,I'll pay!
+34,"""0033""",無理です…,Impossible...
+35,"""0034""",やっぱやめる,Never mind.
+36,"""0035""",…出します！,I'll shell out!
+37,"""0036""",元気？,You OK?
+38,"""0037""",首の御守りって…,That neck charm...
+39,"""0038""",えーっと…,Errr...
+40,TerrorArrow,危ないわ！,That's dangerous!
+41,TerrorBomb,何なの？！,What's that?!
+42,TerrorSword,片付けなさい！,Put that away!
+43,near00,こことォ…,And here...
+44,near01,え～っとォ…,Hrm...
+45,near04,スヤ… スヤ…,Zzz...zzz...
+46,talk00,"…さて やっと一段落したワね
+
+ところで アナタ…
+まだまだイケるって顔 してるわね","So the both of us sort of hit a personal
+milestone, huh? Time to kick back and
+get LEISURELY, baby!
+...Though you look a bit judgmental for
+such a fine moment. You're looking at me
+like we should both keep working at it."
+47,talk02,"フフッ…言わなくても分かるワ
+家買っただけで中身はカラッポだものね
+いいワ…そのガッツいた目…
+ほんと アタシの若い頃 そっくり…
+というワケで アタシが家具でも外構でも
+何でも5000ルピーで
+…と言いたい所だけど アナタなら
+100ルピーで作ってあげるワ
+お金が用意できたら また話しかけてよ","Heh! You don't even have to say it.
+\""Oh, wah, I just bought a house and it's
+totally empty and depressing!\""
+Oh, sure, that's you to a T. 
+I see it in your eyes. Yup, I was just like
+you, about a lifetime ago.
+So tell you what, lemme help by taking
+care of furniture, or the exterior, or 
+anything really, for 5,000 rupees.
+Actually, no, scratch that. For you?
+Let's start at 100 rupees.
+
+Just cruise on by whenever you have
+the spending cash and we'll talk."
+48,talk03,ハ～イ♪,♪Hi!♪
+49,talk04,"ワォ♪""刺激的ね
+さて…","Whoa my! ♪Aren't you perky?♪
+Well then..."
+50,talk05,おっは～～～♪,♪Mornin'!♪
+51,talk06,ちゃお～～～♪,♪Hey!♪
+52,talk07,ばんわ～～～♪,♪Evenin'!♪
+53,talk08,アデュ～♪,♪Farewell!♪
+54,talk10,何が欲しいの？,Whatcha want?
+55,talk100,"あなたも…急ぐのよ
+
+…若さそれは泡沫
+
+さぁ分かったらお行きなさい 
+
+あなたは自分がやるべき事を
+分かってるはずよ","You... I'd advise you not to waste any
+time, either.
+
+...Youth. It's just foam on a wave.
+Gone before you know it.
+
+So if you get my meaning, you'd better
+get moving. I think you know what you 
+still need to do."
+56,talk101,他に聞きたい事は あるのかしら？,Anything else you want to ask me?
+57,talk102,他にご用は？,Need anything else?
+58,talk103,"わかったワ
+イチカラ村とやらに行けばいいのネ？","OK. So I just need to head over to
+Tarrey Town?"
+59,talk104,"もう…どっちなの
+
+アタシも出席した方がいいなら
+また話しかけて","So...which is it, then? You're addling me.
+If you think I should attend, then come
+talk to me again, will you?"
+60,talk105,"その青い炎…
+ハテノ古代研究所の所長さんのじゃない？","The blue flame... Doesn't that belong
+to the director of the Hateno Ancient
+Tech Lab?"
+61,talk106,"その青い炎…
+ハテノ古代研究所の プルアお婆様のじゃない？","That blue flame... Doesn't that belong to
+Lady Purah from the Hateno Ancient
+Tech Lab?"
+62,talk107,お困りでしょうから早く持ってったげなさい,"You should probably take it up there
+before you cause anyone any trouble."
+63,talk108,"その青い炎はハテノ古代研究所の
+所長さんが運んでたヤツに間違いないワ","I've definitely seen the director from the
+Hateno Ancient Tech Lab carrying that
+blue flame."
+64,talk109,"その青い炎はハテノ古代研究所の
+プルアお婆様が運んでたヤツに間違いないワ","I've definitely seen Lady Purah from
+the Hateno Ancient Tech Lab carrying
+that blue flame."
+65,talk11,どのスタンドかしら？,What kind of mount?
+66,talk111,じゃ…,Okey-doo...
+67,talk112,じゃ雨だけど…,Okey-doo... Looks like rain...
+68,talk113,"ヒマならこのダンス広めてくれない？
+
+じゃ いくワよ？","If you aren't doing anything useful,
+why don't you see if you can get this 
+dance to catch on? You ready for this?"
+69,talk114,"サクラダ工務店社訓！
+お顔は クールに…","Bolson Construction! What's our credo?
+Any nail could fail..."
+70,talk115,心は ホットに！,So don't let your hammer stammer!
+71,talk116,"サクラダ工務店社訓！
+かなづち トンカン♪","Bolson Construction! What's our credo?!
+♪THUNK! ZWIP! Hammer! Saw!♪"
+72,talk117,陽気なリズムで！,Good rhythm! Good jaw...b!
+73,talk118,"サクラダ工務店社訓！
+ノコギリは引いてダメなら…","Bolson Construction! What's our credo?!
+If you can't pull the saw..."
+74,talk119,押してもダメよ！,Then don't push it!
+75,talk12,どれが欲しいのかしら？,What were you thinking?
+76,talk120,"サクラダ工務店社訓！
+ペンキは七色…","Bolson Construction! What's our credo?!
+With seven colors of paint..."
+77,talk121,気分は春色！,Buildings bloom like the spring!
+78,talk122,"我ながら なかなかの力作よ
+見てらっしゃいな","Pretty flawless, if I do say so myself.
+You should take a look."
+79,talk123,"我ながら完璧…
+アタシが欲しいくらいだワ","Practically perfect, if I do say so myself...
+I'm a little jealous."
+80,talk124,"いい感じよ♪
+よかったら見て来て","♪Well, it's really coming along.♪ 
+Take a look, if you get a chance."
+81,talk125,"新築減築解体外構～
+家の事ならなんでもございっ♪","New construction, house reduction,
+wall destruction, remodel-uction...
+♪Aaaaaaanything a house could need!♪"
+82,talk126,"愛と勇気と希望に満ちた～
+家の事ならなんでもございっ♪","♪With love, courage, and hopeful hearts,
+we give every house a new staaart!♪"
+83,talk127,"その名も サクラダ
+DADADA サクラダ工務店～♪","♪That name again is Bolson! Yeah, yeah!
+Buh-buh-buh-Bolson Construction.♪"
+84,talk128,カツラダ！お願い！,Karson! Look lively!
+85,talk13,外構はどうしようかしら？,Which exterior feature?
+86,talk14,"それなら100ルピーよ？
+出せる？","That'll be 100 rupees, OK?
+You can shell that out?"
+87,talk15,じゃ料金は前払いで いただくワね♪,"♪Okey-doo, payment's due up front.♪"
+88,talk16,"…と思ったけど アナタ
+その100ルピーすら持ってないじゃないの
+ガッツリ稼いでから また来てちょうだい","...But hold up. Hold it right there.
+You know what you DON'T have?
+A hundred rupees. Go make some money."
+89,talk17,よしオッケー♪,♪Okey-doo.♪
+90,talk18,アタシに用かしら？,Need something from me?
+91,talk19,"キャッ！！まさか…アナタ…
+
+全部手に入れちゃったっていうの？！
+
+これが若さ…危うくも純粋…
+
+全部手に入れた記念に アタシから
+調度品をプレゼントさせてもらうワ","AHH! YOU HOUSING MONSTER!
+
+
+You got EVERYTHING?!
+
+
+Ah, such is the way of youth...
+Driven! Even reckless, some might say.
+
+Well, since you bought everything,
+I threw in some free furniture! Yeah!
+Least I could do!"
+92,talk20,"さてと…アタシは持てる力
+全て出し尽くしたワ…
+疲れたから しばらく休憩に入らせてもらうワね","Well, I am TUCKERED. I couldn't swing a
+ball-peen hammer right now, let alone an
+axe... Break time, baby!"
+93,talk21,"それはそうと エノキダから
+何も連絡が無いワね","Come to think of it, we've had no word
+from Hudson, have we?"
+94,talk22,"まさかアッカレ湖に着くまでに
+迷子になったんじゃ…","Hard to believe someone could get
+lost on a simple trip to Lake Akkala..."
+95,talk23,"アッカレ湖で上手くやってくれてれば
+いいけど…","Yeah, he's probably living it up at
+Lake Akkala. I'm sure it's all good.
+Pretty sure..."
+96,talk24,アタシに用？,Need something from me?
+97,talk25,"元気よ？でもね アタシ…
+
+棟梁兼社長兼 デザイナーを引退して
+嫁探しの旅に出るワ
+アナタも…やる事があるでしょう？
+
+急ぎなさい
+時は待ってくれないワ","Oh, can't complain, you know? 
+Though there is one thing...
+
+I just decided to retire as the luminary,
+president, architect, and design lead of
+Bolson Construction.
+Gonna travel and find me a spouse to
+settle down with. How about you? 
+Things to do, places to see, right?
+Better get on it. Time waits for no one."
+98,talk26,"気になる？
+
+これは代々サクラダ家に伝わる
+幸せを運ぶ御守りよ
+エノキダの結婚式の最後…
+アナタには花吹雪が見えた？
+ふふ よかったワ…
+あれは おバカさんには見えない花吹雪…
+無限に降る花は無限に溢れる愛を表すの
+素敵でしょう？","Oh, you like this? 
+
+
+It's an heirloom passed down through
+several generations of the Bolson fam.
+It's a necklace that brings happiness.
+At the end of Hudson's wedding...did
+you see the showers of flower petals?
+
+Heh, I'm glad... Proves your quality.
+Those flower-petal showers can't be 
+seen by the vapid or disenchanted.
+The infinite falling petals represent 
+endless love. Gorgeous, right?"
+99,talk27,"今度ね エノキダにアッカレ地方を
+開拓してもらう事にしたの","I asked Hudson to clear some land in the
+Akkala region."
+100,talk28,アタシの本気…見せてあげる,Time...for some construction instruction.
+101,talk29,ちょっと待ってね準備するから,Hang on a sec. Gotta get my mind right.
+102,talk30,さてと…腕が鳴るワ～,"Okey-doo... House, I'm coming for you."
+103,talk31,じゃ早速作業に取り掛かるワ,This work ain't doing itself.
+104,talk32,"エノキダ…
+アッカレ地方で元気してるかしら？
+あそこ いい場所なんだけど
+彼といえども荷が重過ぎたかも…","Good old Hudson... Wonder if everything
+is OK with him up Akkala way.
+
+It's a nice enough region. But maybe all
+that cargo was a bit too heavy to travel
+with, even for him..."
+105,talk33,"ええ…そろそろアッカレ地方に
+発ってもらおうと思ってるワ
+事業拡大でね
+
+詳しくは本人に聞いてみて","Yep... About time to head for Akkala. 
+Time to expand the business.
+
+If you want details, you should ask the
+guy in charge."
+106,talk34,分かってるワエノキダの結婚式でしょう？,"Yeah, I got it. Hudson's wedding
+ceremony, right?"
+107,talk35,"ええ…事業拡大でね
+
+そろそろ出発してもらおうと思ってるから
+あなたからも エノキダに何か言ったげて","Yup... Business expansion, y'know.
+I'll probably have him head out soon.
+
+If you want to say anything to Hudson,
+better catch him before he leaves."
+108,talk36,悪いけど アタシ達今から寝るから…,"Sorry, but it's sleep time, baby!"
+109,talk37,スゥ…スゥ…ダダダ…,Snrrk... Hnnk... Buh-buh-buh...
+110,talk38,スゥ…スゥ…フワフワ…,Snrrk... Hnnk... Hoo-wah... Hoo-wah...
+111,talk39,"完璧なお家ね…
+アタシがしてあげられることは もう何も無いワ","House is absolutely perfect...
+Nothing else I can do to improve it."
+112,talk40,"ご購入ありがとうございました
+
+あんな大金をこの若さで出しちゃうなんて
+ほんっと…""漢臭いワ！
+オマケで売れ残りの武器スタンドを
+置いといたから使うといいワ
+さて次の仕事は…
+
+エノキダにアッカレ地方を開拓してもらう
+アレが あったか","Thanks for the sweet investment.
+Spending so much money on ANYTHING
+at your age... It's just so...studly!
+There's a weapon mount in there that 
+never sold... Consider it a housewarming
+gift. Hope you get some use out of it.
+So...next-job time, baby! What'd I have
+lined up again?
+
+Oh, yeah, that's what's next. I was going
+to send Hudson up Akkala way to clear
+some land!"
+113,talk41,エノキダ！カツラダ！手を止めて！,Hudson! Karson! Stop what you're doing!
+114,talk42,合点！,You got it!
+115,talk43,"お話なら ちょっと待って
+腰を下ろしてから…ね？","Whoa, whoa, easy there, chatty.
+A little space? Lemme get where I'm
+going before you talk to me."
+116,talk44,待ってましたッス！,Been waiting!
+117,talk45,喜んで！,Right on!
+118,talk46,カツラダ！客を魅せる前に アタシを魅せて？,"Karson! Recall that time you dazzled me?
+Well, it's dazzling time again, baby!"
+119,talk47,カツラダ獣よ！仕事の獣になって！,"Karson, awaken your inner animal!
+We are BEASTS OF CONSTRUCTION!"
+120,talk48,カツラダ！アナタの中の漢を見せて！,"Karson! Are we studs of studwork?
+YOU'RE DARN TOOTING WE ARE!"
+121,talk49,"見ての通り""使われてない家壊してるトコよ？
+
+このご時世 なかなか買い手がつかなくってネ
+村の人達の意見で壊そうって決まったのよ","In case it's not obvious, I'm demolishing
+a vacant house. Times are rough.
+Not a lot of buyers, y'know?
+So the villagers decided it was best to
+just tear it down."
+122,talk50,"アタシ？
+
+アタシは このサクラダ工務店の
+棟梁兼社長兼 デザイナーのサクラダよ♪","Me? 
+
+
+I'm the luminary, president, architect, 
+and design lead of Bolson Construction. 
+♪My name is Bolson.♪"
+123,talk51,"何なのこの子…
+いきなり 「買う」って…","Whoa, get a load of young moneybags...
+Just wants to \""buy\"" it, huh?"
+124,talk52,"まぁいいワ…""説明してあげる
+
+この家ね""長年使われてないから
+村の会議で取り壊すことになったのよ
+だから家の解体費土地代 その他コミコミで
+村から50000ルピーで請け負ってんだけど
+アナタが「買う」ってんだったら
+アナタが50000ルピー…""出せる？","Okey-doo... Let me lay it out for you.
+See this house? Been vacant for years.
+
+So the villagers had a meeting, argued,
+voted, and decided to tear it down.
+
+The demolition costs, with associated
+fees, permits, and other such details...
+come in at 50,000 rupees.
+So when you say you want to \""buy\"" it,
+you're talking about 50,000 rupees...
+You got that much on you?"
+125,talk53,アタシに何か用？,Need something from me?
+126,talk54,"そこ どいてくれるかしら…
+アタシが落ち着いたら お話ししましょう？","Would you mind getting out of my way?
+I need a little time to unwind.
+It's break time, baby!"
+127,talk55,"あれ…？ このダンス知らない？
+子供達の間で流行ってるハズなんだけど
+…とにかく""大した用が無いんなら
+邪魔しないでくれるかしら","Huh? You don't know this dance?
+I thought it was all the rage with the kids
+these days. You must be out of the loop.
+Anyway, if you don't need anything
+urgent, wanna gimme some space?"
+128,talk56,"3000ルピー""用意できたのかしら？","Did you get 3,000 rupees together?"
+129,talk57,"本気？！
+
+じゃ本当に3000ルピーもらうワよ？
+漢に二言は無いワね？","Seriously?! You're really gonna give me
+3,000 rupees? Like, with three zeroes?
+You aren't just posturing?"
+130,talk58,"いヤァン♪""漢気感じるゥ！",♪No way!♪ Talk about studly!
+131,talk60,カツラダ！いくワよっ！,Karson! We are ON!
+132,talk61,"オッケィ…
+気が変わったら また来るといいワ","Okey-doo... Come back if you change
+your mind."
+133,talk62,じゃ いただくもん いただいちゃいますネ♪,♪I'll just take that off your hands.♪
+134,talk63,"と思ったらお金足りてないしィ～～
+
+ガッツリ稼いでから
+またアタシの所まで来てちょうだい","Ah, but you know what? You DON'T have
+that much money. What a shocker.
+Go make a ton of money, then we'll talk."
+135,talk64,"まぁ…
+アナタの様な若造には関係の無い話ね","Well... I guess a young buck like you
+wouldn't know anything about that."
+136,talk65,"まぁ！""無理しちゃって…！
+
+…いいワ その前のめりな姿勢
+
+フフッ…まるで昔のアタシを見てるみたい","Well! Who would have thought?!
+
+
+...Little go-getter, aren't you?
+
+
+Heh. Reminds me of me back in the day."
+137,talk66,"フフ… そうよね
+
+アタシも あなたと同じくらいの頃
+すごくお金に苦労したもの
+その気持ち痛いほど分かる…","Heh... Figured. When I was your age,
+I had serious money problems too,
+so I know how it feels all too well..."
+138,talk67,"…
+
+……
+
+……いいワ いいワよ アナタ
+
+…よし！ じゃ ココ
+特別に3000ルピーで譲ってあげる
+その代わり！
+
+薪の束 30個""持って来てちょうだい
+こちらもいろいろと物入りでね…
+分かったら行って
+そして アナタの本気見せてちょうだい
+…おっと そうだ","...
+
+
+...All right. All right, look.
+
+
+Here's the deal! Just for you! I'll cut you
+a special price of 3,000 rupees.
+
+BUT IN RETURN! 
+
+
+I'm going to need you to bring me 30
+wood bundles. Building materials...
+You know how it is.
+Anyway, you understand the terms?
+Then get to it. And show me what you're
+built out of.
+...That's a construction joke."
+139,talk68,"ちょっとォ…？
+薪の束 30個持って無いみたいだけど？
+こっちだって大盤振舞してるんだから
+耳そろえて持って来ることね","Whoa, wait... That doesn't look like 
+30 wood bundles to me.
+
+Look, I'm cutting you a serious deal,
+so try to put a little effort in, huh?
+It's WOOD. It's EVERYWHERE."
+140,talk70,早く覚えてちょうだいね,"Better commit that to memory, and soon."
+141,talk71,"いい仕事が出来たワ
+見てらっしゃいな",Perfectly installed. Give it a look.
+142,talk72,"薪の束 30個
+払っていただけるのかしら？",You ready to deliver 30 wood bundles?
+143,talk73,"なんてアマチャン！
+
+若いんだから
+それくらいの苦労は して来なさい","Don't be a spoiled brat! You're young!
+Life is full of hardship and toil!
+You gotta suffer for your rewards!"
+144,talk74,"オッケー♪
+じゃ いただくもんいただいちゃうワね",♪Okey-doo.♪ I'll grab them from you.
+145,talk75,"アナタの本気…見せてもらったワ
+
+じゃ約束通り この古民家
+3000ルピーで売ったげる
+お金が用意できたら
+また声かけてね","All I needed to see... Good-faith wood.
+You're obviously serious about this, 
+and now I know it.
+So, as promised, I'll sell you this old
+house for the low price of 3,000 rupees.
+
+Once you've got the money together,
+come grab me."
+146,talk76,さくらだっ DADADA さくらだっ♪,♪Bolson! Da-da-da-Bollllllson!♪
+147,talk77,フワフワ,♪Hoo-WAH hoo-WAH!♪
+148,talk78,シャキーン！,♪SHA-DING!♪
+149,talk79,"あら？
+誘ってきたのは あなたの方よ？
+待ってほしいなら待つけど…","Huh-what? This was your idea!
+I mean, if you want me to wait, I'll wait..."
+150,talk80,何々…？,Wait. What?
+151,talk81,"エノキダならイチカラ村で式を挙げるって
+あなたが教えてくれたじゃない
+それに出席すれば いいのかしら？","Hudson's wedding ceremony will be in
+Tarrey Town, right? Yeah, yeah.
+Didn't I hear that from you?
+Think I ought to go?"
+152,talk82,ごめんなさい もう寝るの…またね,"Sorry, sleep time, baby! See you later."
+153,talk83,"じゃ荷物まとめて
+エノキダの所に行くとするワ","Well, I guess I'll get packed and head
+toward Hudson's place."
+154,talk84,"エノキダが結婚？！
+
+式に参列してくれ ですって？！
+
+…やるワね","Hudson's getting married?!
+And he wants me to attend the wedding?
+...Wow, good on him."
+155,talk85,ふふっ…楽しみね,Heh... This'll be fun.
+156,talk86,カツラダ行くワよ！,"Karson, we're headed out!"
+157,talk87,待ってましたッス！,Finally! We've been waiting for this day!
+158,talk88,うぃッス！,Yo!
+159,talk89,了解ッス！,I'm with you!
+160,talk90,"…いいワ""参列してあげる
+ここに居ても何もする事は無いし…","Okey-doo, I'm in. Wedding time, baby!
+Not like there's anything to do here,
+anyway..."
+161,talk91,いい式だったワね,That was a nice ceremony.
+162,talk92,"エノキダとは長い付き合いだけど
+あんな嬉しそうなエノキダ見るの初めて…","I've known Hudson for a long time,
+and honestly? That was the happiest I've
+ever seen the guy. Warms the heart."
+163,talk93,"さて…仕事を続けようかしら
+
+そろえたい物があるなら
+またアタシに声かけてね","Well... Guess I should get back to work.
+If you need anything, come talk to me."
+164,talk94,"エノキダならイチカラ村でパウダさんと
+仲良くやってるはずよ
+愛…それはまぶしく
+そして誰にも侵す事のできない二人の聖域…","If you're looking for Hudson, I'm pretty
+sure he's still in Tarrey Town, getting
+along nicely with Rhondson.
+Love... So bright, it blinds!
+A sanctuary for two that none can visit
+or violate!"
+165,talk96,決めた…,I've decided...
+166,talk97,アタシ…引退するワ,I'm...going to retire.
+167,talk98,引退して嫁探しの旅をするの,"Yeah, I'm going to retire and set off on a
+journey to find me a spouse."

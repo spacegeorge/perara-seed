@@ -1,0 +1,347 @@
+#,Title,JPja,USen
+1,Atacked00,"魔物に出会ったら
+逃げるか隠れるしかない…","I'm not much good in a fight, so if I run
+into a monster, my only options are to
+run away or to hide."
+2,Atacked01,うぅ～魔物がまだいる…,"Sources say there are still monsters
+around. These sources are my own
+eyes, so they're fairly reliable."
+3,Failed00,"魔物と戦えるくらい
+強くなりたい…","I've never been strong enough to take on
+monsters on my own, but maybe I'll start
+training to protect myself."
+4,Failed01,ウワサ通り魔物が増えてる…,"Just as the rumors say, the number of
+monsters around here is on the rise.
+Finally, I was able to verify some info."
+5,Guardian00,"わちゃー！""逃げろー！
+ガーディアンきたー！","I've heard all about Guardians. And
+everything I've heard indicates we
+should run for our lives!"
+6,MSG_Kyu_00,"うーん… どうしようかな
+
+まあ せっかく声かけてくれたんだから
+教えちゃおう！
+ウワサによると魔物を倒すには
+遠くから弓矢で頭を狙うと効果的らしいよ
+もし知ってたのなら ごめん","Now this is a juicy tidbit of info... What's
+that? You wanna know the info too?
+Well, OK, but you didn't hear it from me.
+I heard that if you're trying to take down
+a monster, a head shot with a bow from
+a distance is pretty effective.
+You already knew that? Well, I never said
+it was a little-known rumor, now did I?"
+7,MSG_Kyu_00_1,"ウワサによると魔物を倒すには
+遠くから弓矢で頭を狙うと効果的らしいよ","You didn't hear it from me, but they say
+that one of the best ways to take down a
+monster is with a head shot from afar."
+8,MSG_Kyu_01,"ボクから情報仕入れようとしてる？
+だとしたら…
+光栄です！
+
+では ゴロン族に関するウワサをいくつか…
+
+ゴロン族は硬い鉱石をバリバリ食べるらしい
+
+ゴロン族は溶岩に肩まで浸かって温まるらしい
+
+ゴロン族は ルピーに価値を感じないらしい
+
+あちこち旅してそうなキミには
+目新しい情報じゃなかったかな？","If you're only speaking with me because
+you wanna stockpile information for
+your own personal hoarding...
+You're speaking to the right guy, but I'll
+deny I ever told you that. Now let me
+give you a few juicy tidbits about Gorons.
+Those guys eat rock like it's going out of
+style. They just gulp 'em down in one
+swallow! Craziest thing I've ever seen.
+They warm themselves up by taking dips
+in bubbling lava. But where do they get
+the lava? That's the real mystery.
+And most unbelievable of all...
+Gorons don't see any value in gems!
+I had to fan myself awake at hearing that.
+Maybe a well-traveled adventurer such
+as yourself knew these things already,
+but I guess now you know them twice."
+9,MSG_Kyu_01_1,"ゴロン族って硬い鉱石をバリバリ食べて
+溶岩に肩まで浸かって温まって…
+そして ルピーに価値を感じない種族らしいよ","Gorons gulp down rock by the mouthful,
+relax in bubbling lava, and don't see any
+value in gems.
+You didn't hear this from me, but...
+that's just plain crazy."
+10,MSG_Kyu_02,"ボクには魔物退治なんて無理だけど
+魔物については ちょっと詳しくてね
+例えばライネルっていう髪をはやした魔物は
+すごく凶暴なのに背中に乗れるらしい…とか
+リザルフォスの骨を投げると
+ブーメランみたいに戻ってくる…とか
+まあ自分で試したわけじゃなくて
+あくまでも ウワサを聞いただけだけどね","I don't have much of a temperament for
+fighting, but I keep my ears open for all
+sorts of rumors about monsters.
+Not to brag, but I've gotten pretty good
+at eavesdropping.
+
+I hear Lynels are very violent, but under
+the right circumstances you can mount
+them like regular horses.
+Disclaimer: attempting to ride a Lynel
+is extremely dangerous and is not
+advised under any circumstances.
+And about those Lizalfos things, if you
+throw one of their bones, apparently it'll
+come back like a boomerang.
+But like I said, I just picked this info up
+through some top-notch eavesdropping.
+I haven't verified any of it myself."
+11,MSG_Kyu_02_1,"ライネルは凶暴なのに背中に乗れるとか
+リザルフォスの骨はブーメランのようだとか
+魔物のウワサも いろいろ入ってくるよ","Lynels are extremely violent, but I heard
+you can mount them like horses. But I
+wouldn't recommend trying, pal.
+And if you throw a Lizalfos bone, it'll
+come back just like a boomerang.
+
+I'm something of a rumor monger, ya
+see. I've got rumors for days. 
+And they're probably credible."
+12,MSG_Kyu_03,"なんだか情報に飢えてそうな顔してるね
+オッケーこんなのはどうかな…
+アイスロッドとかいう武器を振ると消火できる
+
+ゴロン族の組長に斬りかかると張り倒される
+
+イヌはなつくと お宝まで案内してくれる
+
+…まぁ どれも自分で確かめたわけじゃなくて
+ボクのウワサコレクションの一部なんだけどね","Psst. Psssst!
+Hey, buddy. You look like you wanna
+know stuff. How about this?
+There's this weapon called the ice rod,
+ya see? And they say you can use it to
+put out fires.
+Whaddaya mean that's obvious?!
+OK, how about this?
+
+If you take a swing at the boss of the
+Gorons, you'll be knocked flat on your
+back! Whaddaya mean \""of course\""?!
+*harrumph* Well, if you can make friends
+with a dog, it'll lead you to treasure!
+Was that one obvious?! Huh?!
+Anyway, it's not like I've verified any of
+these rumors firsthand... I just keep my
+ears open, is all."
+13,MSG_Kyu_03_1,"ボクが集めたウワサによると
+アイスロッドって武器を振ると消火できて
+ゴロン族の組長に斬りかかると張り倒されて
+イヌはなつくと お宝まで案内してくれるとか…
+まぁ どれも自分では確かめてないけどね！","Don't worry about how I heard about
+these things, but...
+
+You can use an ice rod to put out fires,
+and taking a swing at the Goron boss will
+end with you on the floor.
+I also heard that if you befriend a dog,
+it'll lead you to treasure. But you'll need
+to verify these things for yourself."
+14,MSG_Kyu_04,"ボクがウワサのコレクターだっていう
+ウワサを聞いてやってきたの？
+あ…そういうわけじゃないのね
+まあいいやウワサをひとつ持って帰ってよ
+池や川に浮かべると
+魚が寄ってくる素材があるらしいんだ
+ガンバリダケを浮かべれば ガンバリバスが
+マックストリュフなら マックスバスが…
+どうやら名前にヒントがありそうだよね","Hey, pal. You're lookin' for info, right?
+I got the hottest info around. Rumors,
+fresh off the mill!
+You didn't hear it from me, but they say
+you can float certain ingredients down
+rivers and the fish will come right to you.
+Try a stamella shroom, and staminoka bass will
+come chompin'. And if you float a 
+hearty truffle, a hearty bass will show up.
+Huh? Why am I whispering some things
+and then saying the pertinent information
+at a normal speaking volume?
+Listen, pal, just pay attention to the
+name of the ingredient. That seems to be
+an indication of the fish that'll show up."
+15,MSG_Kyu_04_1,"池や川に浮かべると
+魚が寄ってくる素材があるらしいんだ
+ガンバリダケを浮かべれば ガンバリバスが
+マックストリュフなら マックスバスが…
+どうやら名前にヒントがありそうだよね","Floating certain ingredients down rivers
+will get fish to come right to you.
+
+Send along a stamella shroom to lure a
+staminoka bass or a hearty truffle for a
+hearty bass.
+Apparently the name of the ingredient
+is a hint as to what sort of fish will show
+up. But you didn't hear it from me."
+16,Near00,ウワサによれば…,The rumor mill churns.
+17,Near01,耳よりなウワサ…,Now that's a nice morsel.
+18,Near02,風のウワサでは…,A little bird told me...
+19,Near03,ウワサ大好き,"Ahhh, I just love rumors."
+20,Near04,わちゃ～,I'll start my own rumor.
+21,Rest_00,"夜空の流れ星が落ちることがあるってウワサは
+ボクは信じたいな…","When I was a child, I heard a rumor that
+shooting stars sometimes fall to Hyrule.
+I like to believe that one's true..."
+22,Rest_01,"雨の日は耳寄りな情報がなかなか入らないよ
+出歩く人が少ないからね","I don't get many new scoops when it's
+raining like this. People stay indoors, so
+the rumor mill stops churning."
+23,Rest_02,"雷は金属に落ちやすいってウワサは
+少なくともこの世界では本当みたいだね","There's that rumor that lightning will
+strike metal objects. Don't ask how I
+know, but that one is verified as true!"
+24,RetMSG_Kyu_00,"はい ボクがウワサのウワサ屋だよ！
+とっておきのネタを 1つ10ルピーでどうだい？
+…な～んて冗談だよ
+ボクは単なる ウワサのコレクター！
+ひとつ教えてあげる
+
+ククジャ谷のタバンタ大橋を渡る時
+下の方からガンガンという音が聞こえるらしい
+…このウワサ ちょっと気にならない？","Rumormonger?
+Never heard of him, buddy.
+
+...
+OK, you're cool.
+Yeah, I'm him.
+I have a shop where I sell specialized
+rumors for 10 rupees a pop.
+And according to rumors...
+That was a joke.
+My rumors are free of charge.
+I'll give you a taste of what I've got.
+They say that while you're crossing the
+Tabantha Great Bridge, the one that
+spans Tanagar Canyon...
+You can hear a strange banging sound
+from below. No rumors on what it could
+possibly be, though."
+25,RetMSG_Kyu_00_1,"ククジャ谷のタバンタ大橋を渡る時
+下の方からガンガンという音が聞こえるらしい","They say that while you're crossing the
+Tabantha Great Bridge, the one that
+spans Tanagar Canyon...
+You can hear a strange banging sound
+from below. No rumors on what it could
+possibly be, though."
+26,RetMSG_Kyu_01,"…ボクのこと話したがりやだと思ってない？
+それで正解！じゃあいくよ…
+砂漠のクジラは目は見えず音に反応するらしい
+
+ハテノ村の草を刈ると ハイラル米が採れるって
+
+ヒノックスは大きな目が弱点なんだとか
+
+…まぁ どれも自分で確かめたわけじゃなくて
+僕のウワサコレクションの一部なんだけどね","Hey, pal. Buddy. Psst... Over here.
+I'm in a talkin' mood, ya see. I've got
+rumors burnin' a hole in my pocket.
+These enemies called \""whales of the
+desert\""—you heard'a them? They're
+blind, but they react to sound.
+If anyone asks, I'll deny giving you this
+info, but if you cut the grass in Hateno
+Village, you'll get Hylian rice.
+I've got rumors for days, buddy. They
+say that a Hinox's weak point is its eye.
+
+I haven't verified any of this, mind you.
+I'm just a humble rumormonger. I hear a
+thing, say a thing—that's how this works."
+27,RetMSG_Kyu_01_1,"ボクが集めたウワサによると…
+砂漠のクジラは目は見えず音に反応するらしく
+ハテノ村の草を刈ると ハイラル米が採れて
+ヒノックスは大きな目が弱点なんだとか
+まぁ信じるか信じないかはキミの自由だよ","According to the latest rumors, these
+\""whales of the desert\"" are blind, but
+they'll react to sound.
+I also heard that if you cut the grass in
+Hateno Village, you'll get Hylian rice.
+But you didn't hear that one from me.
+And then there's the one about the
+Hinox's weak point. You know, how it's
+that big ol' eye it loves looking through.
+Anyway, whether or not you trust this
+info is up to you. Like I said, I haven't
+verified any of it, so it's your call."
+28,RetMSG_Kyu_02,"何か情報がほしいんでしょ？
+顔を見ればわかるし顔を見なくたってわかる
+チナガレ湿地帯にある雷の台地で
+鉱石がよく採れるってウワサを聞いたけど…
+雷の台地って地名が もうすでに危険な感じ","You want the latest scoop, don't ya?
+I can tell just by lookin' at you, it's all
+over your face. It's in the way you walk!
+Well, the latest talk on the wire is that
+there's a lot of ore to be found in
+Ludfo's Bog, over in Thundra Plateau.
+But just from the name Thundra Plateau,
+you can tell that's a dangerous place.
+Don't need a rumor to know that much."
+29,RetMSG_Kyu_02_1,"チナガレ湿地帯にある雷の台地で
+鉱石がよく採れるってウワサを聞いたよ","The latest talk is that there's a lot of ore
+to be found in Ludfo's Bog, over in
+Thundra Plateau."
+30,RetMSG_Kyu_03,"キミはたぶん情報ほしがりやでしょ
+オッケーじゃあこんなのはどう？
+でっかい岩の魔物の腹には
+いい鉱石が埋まっている
+ほんとかどうかは自分で確かめてね","You have the look of a discerning
+individual who loves some juicy info.
+What do you think of this little morsel?
+I heard that giant rock monsters often
+have some good ore just sitting in their
+stomachs. I haven't verified this myself.
+But if you try to verify it and wind up
+swallowed whole by one of those things,
+don't come crying to me."
+31,RetMSG_Kyu_03_1,"でっかい岩の魔物の腹には
+いい鉱石が埋まっているって聞いたことがある","I heard that giant rock monsters often
+have some good ore just sitting in their
+stomachs. I haven't verified this myself."
+32,RetMSG_Kyu_04,"キミの冒険心を刺激するような情報を
+教えてあげようかな
+ククジャ谷の谷底の方には
+神殿らしきものがあるとか ないとか…
+ないのかもしれないね
+あるのかもしれないけど…","Hey, pal. I've got some hot info—a scoop
+that'll really spark up that spirit of
+adventure in you.
+Apparently there's some temple-like
+structure at the bottom of Tanagar
+Canyon. Could just be a rumor...
+Or it could be something more.
+So how's your spirit of adventure?
+Appropriately sparked?"
+33,RetMSG_Kyu_04_1,"ククジャ谷の谷底の方には
+神殿らしきものがあるとか ないとか…","Apparently there's some temple-like
+structure at the bottom of Tanagar
+Canyon. Might just be a rumor... Or not."
+34,SavedLv1_00,ふぃ～おかげで助かった～,"Phew. Thanks for the assist there, buddy.
+I'll spread rumors of your helpfulness."
+35,SavedLv1_01,もう大丈夫みたいだね～,"Guess I'm OK now. Not that I've verified
+that info for myself..."
+36,SavedLv2_00,ふぇ～もうダメかと思った～,"Thanks, pal. For a moment there I was
+sure I was done for. Maybe this will
+start rumors that I've died."
+37,SavedLv2_01,冷や汗かいた～,Giving me the cold sweats...
+38,SavedLv3_00,"馬の扱いが苦手で逃げ遅れたけど
+おかげで助かった～！","I'm not so great on a horse, so I was
+having trouble getting away. Thanks for
+coming to help."
+39,SavedLv3_01,"やっぱり魔物は恐ろしい～
+でも助かった～！","Some of these monsters are pretty scary,
+but I guess you're a bit scarier to be able
+to take 'em out like you did."
+40,Thanks00,これお礼ということで…,"Hey, buddy. Psst.
+Take this. With my thanks."

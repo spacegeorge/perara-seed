@@ -1,0 +1,159 @@
+#,Title,JPja,USen
+1,"""0000""",勇者様って？,Legendary hero?
+2,"""0001""",伝説の剣って？,Legendary sword?
+3,"""0002""",さようなら,Bye.
+4,"""0003""",わたしが勇者です,I am he.
+5,"""1000""",人違いです…,Uh... What?
+6,"""1001""",勇者です…,"Yes, I am the hero."
+7,"""1002""",さようなら,Bye.
+8,FirstGoodBye00,待って！,Wait!
+9,FirstGoodBye01,"旅の途中で
+伝説の剣を持つという勇者様に出会ったら…
+わたしは ここで待ってる って伝えてね","If you happen to meet the hero who
+wields the legendary sword during your
+travels...
+Tell him I'm waiting for him here."
+10,FirstTalk00,やっと来たのね…,You're finally here...
+11,FirstTalk01,"この樹の下で勇者様に会えるってウワサ
+本当だったんだわ！","So it was true! I met the hero of Hyrule
+under this sacred tree!"
+12,GoodBye00,早く わたしの勇者様を見つけて来てね,"Please search for the hero of Hyrule!
+Tell him I'm waiting for him!"
+13,MasterSword00,"うそっ…！
+
+その剣が何よりの証拠…
+あなたが わたしの勇者様なんでしょ！","Don't try to hide it!
+
+
+That sword there is proof enough...
+You are the hero I've been waiting for!"
+14,MasterSword01,"やっぱり あなたなのね！
+
+その剣が何よりの証拠…
+会えて うれしいわ！","I knew it was you!
+
+
+That sword leaves no room for doubt.
+I'm so happy to finally meet you!"
+15,MasterTalk00,"あら？
+わたしの勇者様には会えたかしら？",So did you meet the hero of Hyrule?
+16,MasterTalk01,"うそっ…！
+
+あなた… だったのね！
+
+その剣が何よりの証拠…
+会えて うれしいわ！","WHAT?!
+
+
+So...it WAS you!
+
+
+That sword is proof enough...
+I'M SO HAPPY RIGHT NOW!"
+17,MasterTalk02,"これ… わたしの気持ちです
+受け取ってください！","This...is a little something I've been
+saving for you. Please take it!"
+18,MasterTalk02_PorchFull,"何か わたしの気持ちの品を あげたいけど…
+さすがは勇者様 ポーチがいっぱいなのね！
+また空きができたら会いに来てね
+わたし待ってるから！","I want to give you something, but your
+pouch is totally full...as I would expect of
+a hero!
+Please come see me again once you have
+a little room in there. I'll be waiting!"
+19,MasterTalk03,"あー すっきりしたー！
+
+何か…会えたら会えたで
+どうでもよくなってきたわね…
+よく見たら全然タイプじゃないし…","Oh, man. It feels SO good to check that
+off the bucket list!
+
+But...now that I've met you, some of the
+excitement's gone. I mean, you're not
+even my type..."
+20,MasterTalk04,"ごめんなさい！
+
+じゃ そういうことでー！","Sorry, buddy.
+
+
+Well, toodle-oo!"
+21,MasterTalk05,"勇者様は お忙しいのでしょう？
+
+こんなところで油を売ってないで
+世界を お救いくださいませ","You must be really busy, you know,
+saving the world and all.
+
+So instead of spending your time
+chatting with random strangers, maybe
+think about doing your job, yeah?"
+22,Near00,うふふ…,Heh hah hoh...
+23,Near01,いやーん,Aaah!
+24,NoSword00,"うそっ…！
+
+…って言われてみれば剣も持ってないし
+みすぼらしい男ね…","So...uh...you're not the hero of Hyrule?
+I was so sure...
+
+...But now you mention it, you're way too
+scrawny to be a hero. You don't even
+have a sword!"
+25,NoSword01,"やっぱり あなたなのね！
+
+…って よく見たら剣を持ってないじゃない！
+
+勇者様は伝説の剣を持ってるって話知ってる？
+あなた偽物ね","I knew it! At long last I—
+
+
+Wait a minute! You don't even have a
+sword. You can't be the hero of legend!
+
+Nice try, buddy. The hero of Hyrule
+always carries the legendary sword with
+him. Plus he's way tougher looking..."
+26,NomalSword00,"うそっ…！
+
+…って言われてみれば
+
+勇者様は伝説の剣を持ってるって聞いてたし…
+やっぱり人違いね","So, uh, you're not the hero of legend?
+I was so sure...
+
+...But now that you mention it, you're
+way too scrawny to be the hero. And you
+don't have the legendary sword."
+27,NomalSword01,"やっぱり あなたなのね！
+
+…って騙されないわよ！
+
+勇者様は伝説の剣を持ってるって話知ってる？
+あなた持ってないじゃない！","I knew it! At long last I—
+
+
+...Wait a minute!
+You can't fool me!
+
+Everyone knows the hero of Hyrule
+wields the legendary sword!
+You don't have it!"
+28,Run_Rain00,ここじゃ雨にぬれちゃうわ…,Eek! Rain!
+29,Talk00,"あら？
+わたしの勇者様には会えたかしら？","Oh, did you meet the hero of Hyrule that
+wielded the legendary sword?"
+30,Talk01,うふふ…,Hee hee...
+31,Talk02,"このハイラルに厄災が降りかかった時に
+世界を救ってくれるヒーローよ
+その背には伝説の剣が携えられていて
+そりゃもう かっこいいに決まってるわ","Oh, come on...
+You know—the hero who saves Hyrule
+whenever the Calamity takes hold?
+He carries the legendary sword on his
+back like it's no big thing.
+How cool is that?"
+32,Talk03,"どこかの森に眠っていて
+勇者様にしか引き抜けないそうよ
+あー
+早く会いたいなぁ…","The stories say that the sword sleeps
+somewhere in the forest...waiting for the
+hero to awaken it.
+Oh, I wish I could meet him..."

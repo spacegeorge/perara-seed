@@ -1,0 +1,297 @@
+#,Title,JPja,USen
+1,"""0000""",雨は大丈夫？,You OK in the rain?
+2,"""0001""",わかった,Got it.
+3,"""0002""",イーガ団？,Yiga Clan?
+4,"""0003""",さよなら,Good-bye.
+5,"""0004""",飛ぶ？,Fly? Really?
+6,"""0005""",…さようなら,Um...good-bye.
+7,"""0006""",コッコちゃん捕まえたよ,"Yep, I found 'em!"
+8,"""0007""",気のせいでは？,Your imagination?
+9,NakedPlayer,そのお姿はどうかと…,Your style...is bothersome.
+10,Near00,カワイイ…,So cute...
+11,Near02,さあ仕事だ！,Time to work!
+12,Near03,そろそろ寝るか,I should sleep soon...
+13,Near04,クシュン,Achoo!
+14,Near05,コッコちゃ～ん,My little Cucco!
+15,Suprise09,"セローラ！
+帰ってきてくれたのか！！
+……
+
+ああ…貴方様でしたか…
+
+妻が帰ってきてくれたのかと思いましたよ…
+
+…はぁ","Rola! You came back!!
+
+
+...Oh. It's just you.
+
+
+For a moment, I thought my wife
+had returned...
+
+*SIGH*"
+16,Talk00,"最近イーガ団が不審な動きをしております
+インパ様をお守りするのが我らの役目なのです","Recently, the Yiga Clan has been acting
+suspiciously... It is our duty to protect
+Lady Impa."
+17,Talk01,"ご心配には及びません
+これはシーカー族に伝わる民族衣装
+いつ何時でも任務をこなせるよう
+どんな状況にも耐えうるよう作られた物ゆえ
+これしきの雨は何ともありませんよ","It is of no concern. These are traditional
+clothes that have been used by the
+Sheikah for generations.
+They are ideal for any situation
+and allow us to accomplish any
+kind of work at any time.
+Rain like this is no problem at all."
+18,Talk02,"…コッコちゃんは
+ずっとそばにいてね…","Don't leave me...
+Little Cucco...
+*sniffle*
+Zzzz... *mumble*"
+19,Talk03,"コッコ達を見てたら
+こんな時間になってしまいました…
+今日も夜中に仕事がありますので
+お先に休ませていただきます","I was watching those Cuccos, and before
+I knew it, the day was gone...
+
+I have some work to do later tonight,
+so I think I'd better rest now."
+20,Talk04,あの子達とは しばしのお別れです,"I'll have to be away from them
+for a little while..."
+21,Talk05,"我々シーカー族は
+英知の民として知られていました
+その技術は 1万年前に起った厄災の際
+ガノンを封じる要となり
+一時は神の力とさえ言われ称えられましたが
+次第にそれは国にとって脅威とされ
+シーカー族は疎まれる存在となり
+国を去らざるを得なくなりました…
+その時に我らのように
+技術を捨て普通に生活する者もいれば
+王国に恨みを持ち
+ガノンに忠誠を誓う者もあらわれました
+それがイーガ団と呼ばれる者達なのです
+
+奴らの使命はガノンに仇なす者を排除すること…
+貴方様も どうかお気を付けください","We of the Sheikah tribe have long been
+heralded as a people of great wisdom.
+
+Our technology became the key to
+sealing Ganon away during the Great
+Calamity, some ten thousand years ago.
+At one point, our technology was praised
+as the power of the gods...but eventually
+the people turned on it. Turned on us.
+Our creations came to be viewed as a
+threat to the kingdom. The Sheikah
+became outcasts, forced into exile.
+Some, like us, chose to cast off our
+technological advances and strove
+to live normal lives.
+Others fostered a hatred toward the
+kingdom that shunned them. These sad
+souls swore their allegiance to Ganon.
+They now call themselves the Yiga Clan.
+
+
+Their sole mission is to eliminate all who
+stand against Ganon. Please, dear hero...
+be careful out there."
+22,Talk06,"イーガ団にとってガノンに仇なす者はすべて敵
+貴方様もお気を付け下さい","To the Yiga Clan, anyone who so much as
+feels bitterness toward Ganon is an
+enemy. Do not underestimate them."
+23,Talk07,"今日はそろそろ失礼させていただきます
+あの子達も待っておりますので…","I must be going soon. They'll be waiting
+for me, my little ones..."
+24,Talk08,"これはこれは リンク殿
+このコッコちゃん…
+失礼…
+このコッコは私が育てているのです
+どうです？どこを飛んでも恥ずかしくない
+天使のようなコッコばかりでしょう？","Link! This Cucco...
+
+
+Oh, I'm sorry. I suppose I never told you
+that I look after Cuccos.
+
+Aren't they amazing? They're beautiful
+creatures who can fly you anywhere!"
+25,Talk09,"当たり前じゃないですか
+飛ばぬコッコは ただのチキン…
+コッコを持ち上げ高台から飛び降りる時の…
+あの下腹部がモワッっとなる瞬間…
+もうコッコなしでは生きていけません","Of course! Didn't you know that?
+A Cucco that can't fly would be...
+just a glorified chicken! How boring!
+Ah, that moment when you take hold of
+a precious Cucco and leap off an edge...
+Oh, how your stomach flutters!
+It's truly my greatest joy in life."
+26,Talk10,や…やはり！,I...I knew it!!
+27,Talk11,"妻にはこの子達の良さが
+わからなかったみたいですけどね… ハハハ…","My wife never understood the appeal
+of these sweet little beauties...
+Well...her loss."
+28,Talk13,"最近イーガ団が不審な動きをしております
+インパ様をお守りするのが我らの役目なのです
+……
+
+そ… それよりもリンク殿…
+ここからでも聞こえる コッコ達の羽の音…
+もしかして…","Recently, the Yiga Clan has been acting
+suspiciously... It is our duty to protect
+Lady Impa.
+...
+
+
+But...more importantly... Link! I can hear the
+sound of a Cucco flapping its little wings.
+Could it be?"
+29,Talk16,"最近イーガ団が不審な動きをしております
+インパ様をお守りするのが我らの役目なのです","Recently, the Yiga Clan has been acting
+suspiciously... It is our duty to protect
+Lady Impa."
+30,Talk17,"かすかに聞こえるこの愛らしい羽音…
+心地よいさえずりの声…
+ああ…
+早く帰りたい…
+ともかくみんなが無事で何よりです
+ありがとうございます！ リンク殿！！
+少なくて申し訳ありませんが
+これを受け取っていただけますでしょうか","That faint yet lovely flapping of wings...
+That musical clucking... Ah, truly the
+epitome of joy!!
+I'm so eager to get back home.
+
+
+Oh, Link! I'm so happy everyone is safe.
+Thank you so much! I'm afraid this isn't
+much, but please take it, with my thanks."
+31,Talk18,"今日からまた頑張れます！
+
+…コッコちゃんみたいに
+アイツも戻ってきてくれないかなぁ…","I'm ready to get out there again!
+
+
+Though I do wish my wife would come back to me,
+just like my Cuccos did..."
+32,Talk19,"そうですか…
+勘違いですか…
+妻に続いて
+コッコちゃんまでいなくなったらと思うと…
+いや… いかんいかん
+余計なことは考えないようにしませんとな！
+ハハハ！
+
+はぁ…","I see... Just a cruel misunderstanding...
+
+
+First my wife, and now my Cuccos...
+
+
+NO! I can't go there. I have work to do.
+I can't let myself be distracted by
+other thoughts!
+I'm just fine! Hahaha!
+
+
+*siiiigh*"
+33,Talk22,"リンク殿！！
+
+コッコが…
+
+コッコちゃんが…","Link!!
+
+
+My Cuccos...
+
+
+My sweet little baby Cuccos..."
+34,Talk23,全員そろっているじゃないですか！！！！,They're all back!!
+35,Talk24,"ありがとうございます！
+ありがとうございます！！
+僅かですがこれはお礼です
+どうぞお受け取りください！！","Thank you so much! Really, I could never
+thank you enough! This isn't much,
+but I insist you take it!"
+36,Talk27,"コッコ達を見てたら
+こんな時間になってしまいました…
+例の事件があって以来
+離れるのが怖くて…
+でも今日も夜中に仕事がありますので
+お先に休ませていただきます","As I was watching my Cuccos...
+the day just passed me by.
+Now it's late!
+Ever since what happened,
+I'm afraid to leave them.
+
+But I have some work to do tonight,
+so I'd better go get some rest."
+37,Talk28,"これはこれは リンク殿
+
+おかげさまで
+今日もコッコちゃん達は元気に遊んでいますよ
+どうです？どこを飛んでも恥ずかしくない
+天使のようなコッコばかりでしょう？","Ah! Link!
+
+
+Because of you, my Cuccos are out there
+playing happily. So, what do you think?
+Aren't they special?
+And to think, you can fly them anywhere!"
+38,Talk29,"…以前妻に
+
+「コッコと私どっちが大事なの」
+と聞かれた時…
+私は答えられませんでした…
+そして妻は…
+その上 コッコちゃんまでいなくなったら…
+
+いや… いかんですな
+今は仕事に集中しなければ…
+…でもコッコちゃん達の幻聴まで
+聞こえるようになってしまいまして…","When my wife asked me, \""What's more
+important to you: me or your Cuccos?\""
+...I couldn't answer her.
+That's when she left me.
+And now, on top of all that,
+my precious Cuccos...
+NO! I can't go there now...
+I need to concentrate on my work.
+
+But it's hard...when I keep imagining...
+I can hear my Cuccos nearby... *sigh*"
+39,Talk30,"ハイラルの雷は金属に落ちやすいんです
+雨の日はご注意ください","The lightning is beautiful but dangerous.
+It is drawn to metal. Mind what you have
+equipped on rainy days..."
+40,Talk31,"貴方様の目覚めによりイーガ団の動きも
+日々活発になっておりますが
+インパ様は我々が命にかえても
+お守りいたしますので ご安心ください","Recently the Yiga Clan has become active
+again. It is because of your awakening,
+I'm afraid.
+However, rest assured that we have
+strict orders from Lady Impa to
+protect you with our lives."
+41,Talk_07,"インパ様は お休みになられています
+明日を待たれるのがよいかと…
+たき火の前に座れば
+時間など あっという間にたちますよ","Lady Impa is sleeping.
+I suggest you wait until tomorrow
+to seek counsel with her.
+Simply sit in front of the tranquil fire,
+and time will pass by quickly..."
+42,Talk_08,"インパ様は お休みになられています
+明日を待たれるのがよいかと…
+たき火の前に座れば
+時間などあっという間にたちますよ","Lady Impa is sleeping.
+I suggest you wait until tomorrow
+to seek counsel with her.
+Simply sit in front of the tranquil fire,
+and time will pass by quickly..."
+43,TerrorSword,殺気…,So terrifying...

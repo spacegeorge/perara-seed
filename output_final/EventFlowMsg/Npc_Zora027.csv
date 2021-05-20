@@ -1,0 +1,280 @@
+#,Title,JPja,USen
+1,"""0002""",どうしたの？,What's wrong?
+2,"""0003""",待って！,Wait!
+3,"""0004""",止めてあげる！,I'll stop it!
+4,"""0005""",祭事の槍？,Ceremonial trident?
+5,"""0006""",さようなら,Good-bye.
+6,"""0010""",ルッタって？,Ruta?
+7,"""0011""",槍って？,Trident?
+8,near00,んむ… むむむ…,*grumble*
+9,near01,ふむ…,Hmph...
+10,talk00,むぅ…その槍は…,Hmm... That trident...
+11,talk01,ぬ？！ハイリア人！,HUH?! A Hylian!
+12,talk02,"リリリ…リンク？！
+
+き…貴様！
+100年前は よくもミファー様を！","And not just any Hylian!
+Isn't that you, Link?!
+
+How dare you show your face here!
+After what you did to Lady Mipha!"
+13,talk04,"なぁにを言うとるか！
+
+ミファー様に代わって
+このモルデンが貴様を成敗致す！
+…と言いたいところゾラが
+
+今ゾーラの里の元老院はルッタを止める事で
+手が一杯ゾラ！","What did you say?!
+
+
+I, Trello, shall punish you on behalf of
+our beloved Lady Mipha!
+
+*ahem* That's what I'd like to do,
+anyhow.
+
+But I'm afraid those of us in the Zora
+council have our hands full trying to
+figure out what to do next about Ruta."
+14,talk05,"何を いけしゃあしゃあと！
+
+とにかくっ！
+貴様の助けなんぞ借りんゾラ！
+…ゼィゼィ
+
+貴様の姿など見とうない！
+早う去れゾラ！","How can you be so shameless?!
+
+
+The nerve! I can assure you that we do
+not now, nor have we ever, needed help
+from the likes of you!
+*couuuugh*
+
+
+I do not want to see your face around
+here again! Go on, get lost!"
+15,talk09,フンッ…,Hmph...
+16,talk10,フンッ…忌々しきハイリア人めが…,Hmph... Unbearable Hylian brat...
+17,talk11,"…
+
+…おっと
+
+貴様のせいで
+落とした槍の事を忘れかけてたゾラ
+あれはあれで どうしたもんゾラ…","...
+
+
+Uh-oh...
+
+
+Thanks to your meddling, you've gone
+and made me forget about the trident
+I dropped.
+That's that, I guess...
+But what do I do now?"
+18,talk12,貴様には関係の無い事ゾラ,That is not your business!
+19,talk13,"雨が上がったゾラ…
+
+シド王子がルッタに何かしよったか","The rain stopped...
+
+
+I wonder if Prince Sidon was able to
+stop Ruta..."
+20,talk14,それにしても困ったことになったゾラ…,"Even so, this is very troubling..."
+21,talk16,"さて…ワシは
+祭事の槍を拾う手筈を整えるとするかの","Now then... I must devise a plan to find
+the ceremonial trident..."
+22,talk17,"祭事の槍とは英傑ミファー様を称えた祭…
+いわゆる英傑祭で使う光鱗の槍
+…の贋作 ゾラ
+
+その祭事の槍を ロスーリに診てもらおうと思い
+運んどったところ橋の下に落としてしもうての
+まぁええわい所詮は贋作…
+またロスーリに作ってもらうとするかの
+誰かに拾われたら
+くれてやったらええゾラ","The ceremonial trident is used in a 
+festival to honor Champion Mipha...
+
+The Champion Festival's
+Lightscale Trident...
+Well, it's a fake.
+I planned to have that ceremonial trident
+examined by Dento, but on the way
+there, I dropped it off the bridge.
+It doesn't really matter. It's a fake,
+after all... I'll have to ask Dento to
+make a new one.
+If someone happens to pick it up,
+they can just keep it."
+23,talk18,貴様か…,It's you...
+24,talk19,"しかし祭事の槍…
+落としたのは どの辺だったか…","Still... I wonder... Where I dropped that
+ceremonial trident..."
+25,talk20,"貴様の持っている その槍は
+まさしく祭事の槍…
+よいよい くれてやる","What is that you are holding? It...it is
+most certainly the ceremonial trident!
+
+Oh, well. Go ahead and keep it."
+26,talk21,して…ワシに用ゾラ？,Well? What do you want?
+27,talk22,"祭事の槍とは英傑祭で使う
+光鱗の槍のレプリカ ゾラ
+しかし見た目も使われておる金属も
+光鱗の槍の それと同じゾラ
+その祭事の槍じゃが
+橋の下に落としてしもうての…
+まぁ所詮贋作
+誰かに拾われたら くれてやるゾラ","The ceremonial trident is a replica of the
+Lightscale Trident. It is used in the
+Champion Festival.
+At first glance, the metal used looks the
+same as that of the Lightscale Trident.
+
+And that ceremonial trident...
+was dropped under the bridge...
+
+Well, it's a fake, so it doesn't matter.
+If someone finds it, they can keep it."
+28,talk23,ふむ…,Hm...
+29,talk24,"貴様の持つその祭事の槍は
+殺傷能力以外は光鱗の槍と同じ能力を持つゾラ
+そもそも光鱗の槍は
+勇者を試練へと導く という言い伝えがあるゾラ
+確か英傑祭の歌の歌詞に なっていたような…
+里の子が よく歌っとるやつじゃ
+興味があるなら聞いてみるがよい","That ceremonial trident you're holding...
+In addition to its combat use, it has the
+same power as the Lightscale Trident.
+Originally, the Lightscale Trident was
+meant to lead the hero to a trial...
+At least, according to the legend.
+I believe the Champion Festival Song's
+lyrics mention this...
+
+If you find a child who loves songs,
+he or she might know it."
+30,talk25,"セラの滝辺りが
+なにやら光っとるような気がするが…
+貴様祭事の槍で何かしたゾラ？","It looks like something is shining
+around Veiled Falls...
+
+Did you do something with the
+ceremonial trident?"
+31,talk26,"まあいいゾラ…
+
+貴様が去った後で
+言い伝えを思い出したゾラ
+天から降りし光鱗が
+セラの足元断ち割れば
+光煌めき試練現る
+
+…
+
+セラの滝にある
+ミファー様の像と同じ形の台座…
+あそこに ミファー様の像よろしく
+光鱗の槍を突き立てろ という事ゾラ
+昔 ワシらがやっても何も起きんかったゾラが
+英傑の資質を持つ者なら何か起きるんかの？","Oh, well...
+
+
+After you left, I remembered the legend.
+
+
+A gift from the sky...a scale of light...
+Splits the feet...of a Veiled Falls sight...
+Your trial awaits...it's glowing bright...
+...
+
+
+At Veiled Falls, there is a pedestal
+just like the one Lady Mipha's statue
+rests upon.
+The legend indicates that you must
+thrust the Lightscale Trident into the
+same place as the statue of Lady Mipha.
+We tried to do just that long ago, but
+nothing happened.
+
+Perhaps someone with the Champion's
+talents might have better luck..."
+32,talk27,"祭事の槍の調子は どうゾラ？
+
+祭事の槍が壊れたり無くしたりしたら
+工房の ロスーリに言うといいゾラ","How is that ceremonial trident faring?
+
+
+If the ceremonial trident breaks or
+is lost, please let Dento at the
+workshop know."
+33,talk28,"しかも リンク？！
+
+よりによって シド王子が連れてきた
+ハイリア人が まさかリンクとは…
+ミファー様の恨み…
+今ここで晴らしてやるゾラ！","And not just any Hylian!
+You are Link!!
+
+Of all the Hylians Prince Sidon could
+have brought back... What are the odds
+it would turn out to be Link?
+Lady Mipha's revenge... I shall enact it
+here and now!"
+34,talk29,"貴様… 100年前に生きた者なら
+ルッタの事くらいは覚えておろう？
+神獣 ヴァ・ルッタ…""厄災ガノン討伐のため
+ゾーラの英傑 ミファー様の操りし神獣…","You! You were alive 100 years ago,
+so you should know all about Ruta!
+Surely you cannot have forgotten...
+Lady Mipha, our Zora Champion...
+in order to help defeat Calamity Ganon,
+she piloted the Divine Beast Vah Ruta."
+35,talk30,"しかし その神獣がなぜ！今こうして
+雨を降らし里を苦しめるのか…
+ワシは…この雨は志半ばで倒れられた
+ミファー様の涙だと思っとるゾラ","But I do not understand... Why is the
+Divine Beast sending a plague of rain
+to us and making the domain suffer?!
+I think that the rain is the tears of
+Lady Mipha, who was defeated without
+fulfilling her duty!"
+36,talk31,"ルッタはワシら…
+元老院の力で止めてみせる","We of the Zora council have always been
+intent on stopping Ruta ourselves..."
+37,talk32,フンッ…リンクか…,Hmph... Link...
+38,talk33,"でミファー様を奪いしリンクが
+何の用ゾラ？","Well? What could the man who stole our
+Lady Mipha away possibly have to say?"
+39,talk34,…さてルッタの奴めどうしてくれよう…,"Now then... What shall we do about that
+awful Ruta..."
+40,talk35,"アレは所詮贋作…
+後でロスーリに言って作り直してもらうゾラ…","That one's a fake, anyway... I'll just ask Dento
+to make me a new one later... "
+41,talk36,はて どうしたものか…,Well? What is the matter?
+42,talk37,"やはり貴様は 100年前のリンク…
+今回の働き見事であったゾラ
+ミファー様の魂は我らの意志と共に…
+
+…","I knew you were the same Link from 100
+years ago... You did a fine job this time.
+
+May Lady Mipha's spirit live on within
+all of us...
+
+"
+43,talk38,"ところでリンク…
+貴様の持っておるそれは祭事の槍では？","Say, Link...is that the ceremonial trident
+you have there?"
+44,talk39,"その槍は…フム…貴様なら できるかもしれん
+里の子の歌に耳を傾けてみるがよい","That trident...Hmm... Perhaps you stand a chance.
+I advise you to listen to that song the
+domain's children sometimes sing."
+45,talk40,"フム…わしは英傑祭の準備があるんでな
+長話をしているヒマは無いゾラ
+どこに落としてしまったゾラ…んむむむ…","Hmm... I must prepare for the
+Champion Festival. I do not
+have time to talk.
+Where did I drop it... Hmmm..."

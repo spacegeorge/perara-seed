@@ -1,0 +1,156 @@
+#,Title,JPja,USen
+1,"""0000""",どうしてそれを？,How did you know?
+2,"""0001""",さようなら,Gotta go.
+3,"""0002""",神獣を調べに,A Divine Beast.
+4,"""0003""",観光で,Pleasure!
+5,"""0004""",商売で,Business.
+6,near00,むむむむむ…,Hrmmm...
+7,talk00,"ウォッホン！
+
+よくぞ参られた リンク殿！ 
+","Well, lookee here...
+
+
+Welcome, Master Link!"
+8,talk01,大義である！,Justice at long last!
+9,talk02,"あの火山弾のせいで お客さんが減っちゃって
+英傑様ごっこでもしてないと ヒマでヒマで…","To be honest, we haven't had too many
+visitors here since those magma bombs
+started fallin' from the sky.
+I'd be bored to tears if I didn't pass the
+time pretendin' to greet the long lost
+Hylian Champion, heh."
+10,talk03,"こんなとこまで
+何しに来たゴロ",What brings ya all the way out here?
+11,talk04,"ちなみにリンクというのは 100年前町の英傑
+ダルケル様と共に戦ったハイリア人ゴロ
+詳しい事は奥の組長にでも聞くといいゴロ","Oh, in case ya didn't know, Link is the
+little Hylian who fought alongside the
+Goron Champion, Daruk.
+If ya wanna hear more, talk to the Boss.
+He lives further in town."
+12,talk06,やぁ気持ちのいい朝ゴロね,"Hey there. Nice day, isn't it?"
+13,talk07,やぁ今日も熱いゴロね,Hey there. It's hot out here. Again.
+14,talk08,やぁ今日は夜でも熱いゴロね,Hey there. Even the evening is hot...
+15,talk12,やぁ,Hey there!
+16,talk13,またね～,See ya!
+17,talk14,"それはそれは いらっしゃいませ！
+
+この熱さのせいで
+ハイリア人は滅多に来ないってのに…
+ま ゆっくりしてくといいゴロ","Well, whatever brought ya here doesn't
+really matter. Welcome, brother!
+
+Because of this extreme heat, I actually
+haven't seen any Hylians around lately...
+
+Welp, their loss! Enjoy your stay,
+little guy!"
+18,talk15,"商売ゴロか…
+
+確かに昔も今もゴロンシティでは
+宝石が よく採れるゴロ
+でも宝石なんて ボク達にとっては
+ただの固くてマズい食べ物ゴロ
+そんな宝石を喜んで買ってくれる
+部族が居るゴロ
+だから組長とゴロンシティは
+結構儲かってるみたいゴロよ","Business, eh?
+
+
+In the old days, you could easily find
+jewels in Goron City. To us, they're just
+gross snacks that are hard to eat. Yuck!
+Sounds nuts, but lots of people actually
+buy those abominations at a high price.
+Crazy, I know. But it's true!
+I don't get it, but that's why the Boss
+and Goron City make lots of money
+sellin' that weird food to crazy folks."
+19,talk17,"そんなこと いきなり言われても
+よく分からんゴロよ…
+もっと知りたいなら
+ウチの組長を訪ねると いいゴロよ","Huh. Sorry, I don't really know anything
+about all that business.
+
+If you're lookin' for info, I bet the Boss
+knows a thing or two about it."
+20,talk18,"宝石ならデスマウンテンで
+いいのが採れるらしいゴロ
+最近 みんな近づかなくなったから
+勝手に掘っても バレないかもね！","I hear there are some valuable jewels on
+Death Mountain.
+
+No one goes near there these days,
+so you could probably go dig it all up
+without much competition."
+21,talk20,"観光はいいけど この熱さ大丈夫？
+
+そんなハイリア人光客のために
+それなりの物は売ってるゴロ
+防具屋ガッチムッチで
+ハイリア人用の耐火防具が売ってるし
+それが買えないなら
+誰かが燃えず薬を売ってたし…
+早く中に入ってチェックするゴロ","Well, just visiting is well and good, but...
+can you really bear this heat?
+
+There are some goods that might suit a
+Hylian tourist like you.
+
+In fact, fire-resistant armor can
+be purchased at a shop called
+Ripped and Shredded.
+If that doesn't do it for ya, I also saw
+someone sellin' fireproof elixir...
+You should go check it out."
+22,talk21,"そういえばお客さんいい時に来たゴロ！
+
+最近までデスマウンテンをうろついてた
+トカゲのバケモノが大人しくなってね
+安全になったし
+ゆっくりしてくと いいゴロよ
+熱いのは相変わらずだけどね…","By the way, mister... I think you came at
+a good time!
+
+Ever since that lizard monster lurking on
+Death Mountain was tamed, it's safe
+again. That means you can take it easy!
+Then again, it may be safe, but it's still
+pretty darn hot..."
+23,talk22,あれ？ さっき「神獣に用」って言ってたような…,"Hm? I thought you said you were here for some
+\""divine bees\"" earlier? Maybe I'm crazy..."
+24,talk23,あれ？ さっき「観光」って言ってたような…,"Huh? Didn't you say somethin' about being here 
+for pleasure before?"
+25,talk24,あれ？ さっき「商売で」って言ってたような…,"Huh? Didn't you say somethin' about being here 
+for business earlier?"
+26,talk25,"シンジューとか よく分からんゴロ…
+
+組長が毎日 アイツを大砲で追っ払ってるから
+詳しくは組長に聞いて欲しいゴロ
+ちなみに組長ってのは
+町の一番奥に住む お爺さんの事ゴロよ","I don't know anything about a
+\""diving feast\"" or whatever...
+
+I do know Boss drives a lizard monster
+away with a cannon, so you should ask
+him if you wanna know more about that.
+By the way, Boss is the old guy that lives
+in the deepest part of town."
+27,talk26,"シンジュー…
+ああ トカゲのバケモノのことゴロね
+アイツ大暴れして大変だったゴロ！
+
+でも ユン坊が頑張ってくれたおかげで
+平和になったゴロ！","The \""divine beat\""? Oh! You mean that
+lizard monster, don't you?
+
+That thing caused such a ruckus for us!
+
+
+Thanks to Yunobo, peace has finally
+been restored!"
+28,talk27,"そんな事より キミ
+さっきの火山弾""大丈夫だったゴロ？","What do ya mean? More importantly,
+I hope ya made it past all those
+magma bombs without injury!"

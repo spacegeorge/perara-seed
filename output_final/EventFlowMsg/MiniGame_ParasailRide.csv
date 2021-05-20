@@ -1,0 +1,173 @@
+#,Title,JPja,USen
+1,"""0000""",方法？崖を登って,Seeking adventure!
+2,"""0001""",理由？ お宝を探しに,I heard there's treasure.
+3,"""0002""",風になりたい,With all my heart.
+4,"""0003""",そんなことはない,Never occurred to me.
+5,"""0005""",する！,I'll do it!
+6,"""0006""",風になる訓練？,Train to what?
+7,"""0007""",それはちょっと…,I don't know...
+8,"""0008""",もちろん！,Of course!
+9,"""0009""",カゼよりカネだ,Sounds like hot air.
+10,"""0010""",飛ぶのをやめたい,I'm tired of flying.
+11,"""0011""",なんでもない,Never mind.
+12,"""0012""",それでも飛ばない,I'm pretty certain.
+13,"""0013""",やっぱり飛ぶ,Hm...I'll keep going.
+14,"""0014""",もうケッコー,"Nah, I'll pass."
+15,Again,"さて どうする？
+もう一度するかい？","Are you satisfied for the day? Or would
+you like to train again?"
+16,AskMoney_00,興味を持ってくれて嬉しいよ,"It lifts my spirits to hear of your keen
+interest."
+17,AskMoney_01,"訓練の準備に20ルピー使うけど
+それでもいいかな？","I require 20 rupees to set up a course
+for you to train. Is that acceptable?"
+18,Exit_00,"まるでコッコみたいだね
+飛べる以外も ボクらに似てきたみたいだ
+後片付けはしておくからね
+また来てくれるのを楽しみにしてるよ","Yes, you are much like a Cucco. First you
+fly, and now you cluck. Most intriguing.I look forward to seeing you again."
+19,Explain_00,"風は""時に速く時に緩やかに
+自由自在に吹きぬけていくだろう？
+風になるには その動きを真似るのが
+一番の方法だと思ってね
+空中にリングを浮かべて その中をくぐる
+っていう訓練をしているんだ
+着地するまでの間に
+できるだけ多くのリングを通過するのさ
+後悔はさせないよ
+どうだい やってみないかい？","The wind is stormy or calm by turns but
+always moves as it will. I seek to emulate
+its freedom by mimicking its movements.
+To that end, I have devised a training
+program that involves flying through
+rings suspended in the air.
+Should you choose to undertake this
+training, I promise that you will find it
+enriching."
+20,Initial,キミは どうしてここまで来たんだい？,What are you doing all the way up here?
+21,Initial_00_00,"そうか それは大変だったね
+キミは高いところが好きなのかな
+ボクも高いところは好きだよ
+風の声が よく聴こえるからね","You must be drawn to heights.You and I have that in common. It is
+only from here that I can properly hear
+the wind."
+22,Initial_01_00,"そうか それは残念だったね
+ここにあるのは この奇妙な建物だけさ
+ん ボクかい？ そうだね…
+自由を探しに ってところかな","Then you are in for disappointment.
+The only object to be found here is this
+strange building.
+What is my purpose here, you ask?
+I suppose...I am here to find my freedom.
+In a manner of speaking."
+23,Initial_02,"ボクはね何にも縛られずに生きたいんだ
+どこまでも自由気ままな風のようにね
+だから ここで風の声を聴いているんだ
+少しでも自由になれる気がしてね
+キミも
+風になりたいと思うことは無いかい？","I want to live as the wind does—free and
+unrestricted. To bide here and listen to
+its voice offers a taste of that freedom.
+Don't you long to be like the wind too?"
+24,Initial_05,"キミとはなんだか友達になれそうだよ
+ハイリア人の友達なんて初めてだ
+おや…？ キミにはどうやら
+ボクらとは違った形の翼があるみたいだね
+いつもボクがしている風になる訓練を
+キミもしてみるかい？","I think we will be fast friends. I've never
+felt such kinship with a Hylian before.Your style of wing is different than mine
+but similar enough that I think you could
+undergo my training to become the wind."
+25,Initial_06,"やあ
+風になる訓練をしに来たのかい？","Greetings, my Hylian friend. Have you
+returned to train to become the wind?"
+26,Initial_End,"そうかい… キミとは考えが違うみたいだ
+悪いけど邪魔をしないでもらえるかな","I see. There is a gulf in our thinking on
+the matter, then. Please leave me in
+peace that I may hear the wind's voice."
+27,Land,"さてと…
+それじゃあ飛べない友達を迎えに行こうか","Hmmm. Stay there and I will come
+collect you, my flightless friend."
+28,Near00,気持ちの良い風だ,Fine wind today.
+29,Near01,雨風も悪くない,The wind and rain dance...
+30,NoEnoughMoney_00,"少し足りないみたいだね…
+残念ながら ボクも余裕はないんだ
+今日は風の声を聴くだけにしようか
+また余裕のある時に声をかけてほしいな","Hmm. No. I need more than what you
+have. For you see, I can contribute no
+resources of my own.
+Fortunately for both of us, attending to
+the voice of the wind is free. We can
+train again some other day."
+31,Rain_00,"こんな雨の日は自由に飛ぶのは難しいけど
+頑張ってくれよ","Flying during a downpour is not for the
+faint of heart. I bid you good luck."
+32,ReadyStart_00,"それじゃ少し準備をするから
+キミはここで待っていてね","You should wait here while I prepare
+the course for you."
+33,ReadyStart_01,"遅くなって ゴメンね
+いつでも飛んでくれて構わないよ","That took longer than I expected. My
+apologies. But it is ready now for you
+to fly whenever you are ready."
+34,ReadyStart_02,"キミが飛ぶのをやめた時点で
+ボクが迎えに行くから""心配しないでね","I will be ready to swoop in whenever
+you tire of flying, so do not worry
+yourself on that account."
+35,Result_00_00,"あれ？個か…
+どうやらキミを過信していたみたいだね…","Hmm? How many rings did you achieve?
+? I appear to have overestimated
+your skill a bit, it seems."
+36,Result_00_01,"まだ飛ぶのに慣れていないのかな？
+ボクと訓練していくのも いいかもね","You may be unaccustomed to flying.
+But this is nothing a bit of practice on
+my course can't correct."
+37,Result_01_00,"ふーん個かぁ
+惜しかったけど風になれた とは言えないね","Hmm... rings. A fair showing, but
+you are not yet one with the wind."
+38,Result_01_01,でも残念賞をあげるよ,"Still, I suppose you deserve this
+participation award."
+39,Result_02_00,"すごいよ個だなんて！
+ボクらリト族でも なかなか出せない記録だ！","You achieved  rings?! That is 
+wonderful! Your score is unsurpassed,
+even by we Rito!"
+40,Result_02_01,"これは キミが風になれたお祝いだよ
+よければ受け取ってほしいな","You have truly become one with the
+wind, and so I must insist that you
+accept this reward."
+41,Result_03_00,"個か なかなかのもんだね！
+翼の扱いに慣れてきたんじゃないか！","You achieved  rings, hm? Very
+good. You take to your strange wings
+quite well."
+42,Result_03_01,"これ受け取ってくれよ
+","Here, this is for you."
+43,Result_04_00,"信じられないよ個だなんて！
+キミは本当にハイリア人なのかい！","?! Unbelievable... Are you certain
+that you're not a Rito in disguise?!"
+44,Result_04_01,"良いものを見せてもらったお礼だ！
+受け取ってほしいな","To see you soar was a rare treat.
+Here, you deserve to be rewarded
+in kind."
+45,Suggest_Bay,"今のおすすめは… こっち側の道かな
+ゆったりと動くのも悪くないものだよ","I recommend...the route over there.
+It can be enjoyable to waft along on
+a calm breeze."
+46,Suggest_End,"もちろん どこに行くのもキミの自由だ
+どこへ行こうと風はキミを迎えてくれるさ","But the choice is ultimately yours.
+Whatever you decide, the wind will
+welcome you."
+47,Suggest_Peninsula,"今のおすすめは… こっち側の道かな
+乱気流になった気持ちで思い切り暴れてみなよ","I recommend...the route over here.
+Today is a day to cast your fate to the
+turbulent, capricious winds!"
+48,Talk_00,ん どうしたんだい？,Hrm? What is wrong?
+49,Talk_01,"今やめたところでルピーは返せないけど…
+それでもいいのかい？","I have already used the rupees you
+provided and cannot return them to you
+now. Are you certain you want to quit?"
+50,Talk_02,"はぁ…""臆病風に吹かれたみたいだね
+キミにはガッカリだよ","*sigh* I am dismayed to see that the
+fickle wind of cowardice has shaken
+your resolve."
+51,Talk_03,"ん そうかい
+いつ飛んでも キミの自由だよ","I see. If you mean to fly, you may do so
+whenever you like."

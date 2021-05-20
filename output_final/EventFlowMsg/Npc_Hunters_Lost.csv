@@ -1,0 +1,110 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's me!
+2,"""0001""",リンリンです,That's Mr. Link to you.
+3,"""0002""",違います,Never heard of him.
+4,"""0010""",真っ暗闇の遺跡,Tell me about the ruins.
+5,"""0011""",ヘブラ山脈の最果て,"The far edge, eh?"
+6,"""0012""",やっぱりいいです,Never mind.
+7,LookPicture,"ええ？！これが骨の馬？
+スタルホース…こんな化け物なん？
+うわぁ～夢に出てきそうやわぁ～
+めっちゃ怖い…けど この絵 すごいなぁ！","Wha—? This is the bony horse?
+That Stalhorse... It's a monster!
+
+The sight of this is going to haunt my
+dreams for weeks... But the picture is
+still amazing!"
+8,Talk_000,"骨の馬なんて ホンマにおるんやろうか…自分の目で見んと信じられへんけど
+寒いとこは苦手なんよなぁ…","I wonder if bone horses are a real
+thing... I'd have to see it to believe it,
+but I really don't like cold places, so..."
+9,Talk_000_slp,"骨の馬""見つけるのに頭使たから眠いんや…
+情報屋イチヨウちゃんは閉店や…","I'm so tired... I've been thinking about
+bone horses all day.
+
+I've got the info, but I'm all done for
+today, I think..."
+10,Talk_001,"ハイラルで一番ええ情報持っとる
+イチヨウさんとは ウチのことや
+ああ アンタ… リンクくんいうんやろ？","If you're seeking the best information in
+Hyrule, I, Juannelle, know everything
+there is to know! You're...Link, right?"
+11,Talk_002,素直に答えてくれる子は好きやで,"I love when I get a straightforward,
+honest answer!"
+12,Talk_003,"えらいかわいい名前やなぁ…
+……",Cute...
+13,Talk_004,"ウソついたら アカンで！
+イチヨウさんには お見通しや！",Don't try to act coy with Juannelle!
+14,Talk_005,"ふうん…違うんかいな…
+ほな情報とか いらんのやね","Hmm... Sorry, guess I was mistaken."
+15,Talk_100,テリーって妙ちきりんなやっちゃなー…,Beedle is so very timid...
+16,Talk_200,ふわぁ… めっちゃ眠いわ,"I'm so sleepy.
+*yawn*"
+17,Talk_201,"アンタ…寝てるウチを起こすってのが
+どんだけ罪深いかわかっとるんやろね…？
+まあええわ そんだけウチの情報が
+欲しいってことなんやろ？","I hope you realize how rude it is to wake
+me up when I'm trying to sleep...
+
+I'll forgive you, though. You clearly are
+desperate for the kind of info only
+I can provide!"
+18,Talk_300,"で何の情報聞きたいん？真っ暗い遺跡の情報と
+ヘブラ山脈の最果ての情報あるけど？","Soooo, what do you wanna know?
+
+
+I have info on the pitch-black ruins
+and on what's at the far edge of the
+Hebra Mountains."
+19,Talk_301,"その遺跡は光がまったく入らん…
+昼間でも自分の手が見えへんくらいなんやって
+えらい不思議な力が関係しとるって
+カンジやろ？
+そんな遺跡の中に何があるんか…
+見つけたら名前売れると思うんやけどね～
+場所？ウォルナー山を越えて
+オルディン山脈を目指して行くとあるらしいで","Light is unable to enter these ruins for
+some reason. It's said that you can't see
+an inch ahead, even during the day!
+There must be some mysterious power
+behind this phenomenon, don't
+you think?
+I can only wonder at what's hiding within
+those ruins... But finding whatever it is
+would certainly make you famous!
+Where is it? It should be past
+Mount Drena if you're heading toward
+the Eldin Mountains."
+20,Talk_310,"ヘブラ山脈でも一番すみっこ""北西の最果てまで
+行くんや！って言う冒険家がおってな…
+で山脈の一番北側まで行って そこから
+ひたすら西に歩いたらしいんやけど…
+結局途中で崖と吹き上げる風に阻まれて
+最果てまでは進めんかったんやて
+そんで「最果てには何があるん？」って
+聞いたら…
+「それが知りとうて行ってみたんや！」やて…
+
+何があるかも知らんのに ようそんな
+寒そうな場所に行こうとしたもんやで…","There was an adventurer who pledged
+to journey to the northwesternmost
+part of Hyrule...
+To the very edge of the 
+Hebra Mountains.
+
+This adventurer went north of the
+mountain range as far as possible and
+then west...
+However, steep cliffs and raging winds
+stood in the way. The adventurer was
+forced to turn back.
+Upon returning, I posed a question to
+the adventurer. I said, \""Why go so
+far out there?\""
+\""Because I wanted to know what was
+there!\"" was the adventurer's reply.
+
+I must admit, I don't think that'd be
+enough for me. I can't believe someone
+would want to go into the cold unknown."
+21,Talk_320,ほなね,See ya.

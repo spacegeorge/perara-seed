@@ -1,0 +1,222 @@
+#,Title,JPja,USen
+1,"""0000""",何してるの？,What are you doing?
+2,"""0001""",道を教えて,I need directions.
+3,"""0002""",さようなら,Good-bye.
+4,"""0003""",カカリコ村,Kakariko Village.
+5,"""0004""",ハイラル城,Hyrule Castle.
+6,"""0005""",始まりの台地,Great Plateau.
+7,"""1000""",アレ？,What thing?
+8,"""1001""",ああ アレね,"Yeah, good idea."
+9,"""1002""",さようなら,Good-bye.
+10,"""1003""",すぐそこのアレに？,This one here?
+11,Action5_00,あー疲れた,Ahhh... I'm exhausted.
+12,Action5_01,"どうした？
+おまえも ひと休みしていくか？",Hello? Are you taking a break?
+13,Colony00,"始まりの台地？
+
+人っ子ひとりいないあの場所に何の用だ？
+だいたい高い崖をどうやって登るってんだよ","The Great Plateau? 
+
+
+Why would you possibly need to go to an
+abandoned place like that? How would
+you even begin to scale that cliff?"
+14,Colony01,"まあ あっちだけどよ
+魔物だけはそこそこいるから気をつけな","Well, in any case, it's over there.
+There are quite a few monsters about,
+though. So be careful."
+15,GoodBye00,"じゃあな
+お互い幸運を祈ろうぜ","See ya. Let's wish each other good luck,
+eh? We'll need it!"
+16,GoodBye01,なんならここで ひまをつぶしていけよ,Why not kill some time here?
+17,Hyrule00,"ハイラル城？！
+
+あんな ガーディアンがウロついてるところ
+命がいくつあっても足りないぞ","Hyrule Castle?!
+
+
+I don't know how many lives you've got,
+but in a place with that many Guardians,
+I guarantee you it's not enough!"
+18,Hyrule01,"ほら向こうの方に見えるだろ…
+眺めるだけにしといた方が いいと思うぜ","See that? You can see it in the distance.
+Honestly, I think you're better off just
+looking at it from here."
+19,Kakariko00,カカリコ村なら あっちの方向だ,"Ah, I see. Kakariko Village is that way."
+20,Kakariko01,"双子山の向こうに馬宿があるから
+そこに着いたら誰かに道を聞くといい","On the other side of the Dueling Peaks,
+there's a stable. Stop there and ask
+someone for further directions."
+21,Near00,世も末だぜ…,The end is here...
+22,Near01,♪～～,♪Hm hm hmmmm...♪
+23,RunRain00,"ちっ ツイてねえぜ！
+話は後だ！",Not now. Talk to me where it's dry!
+24,Talk00,"いやな予感には慣れっこだけど
+今度のいやな予感は いつにも増して…","I may be somewhat used to seeing bad
+omens by now, but that... Well, let's just
+say it's badder than most."
+25,Talk01_1,"…おまえ
+見かけない顔だけど何者だ？
+まあ誰だっていいか
+ひとり言にも飽き飽きしてたし ちょうどいいや
+おまえは地面から生えてきたもの…
+見たか？","We're doomed! I mean, don't panic!
+Sorry, who are you? Have we met?
+
+Well, doesn't matter who you are, really.
+I was getting tired of talking to myself,
+so you've come at a good time.
+By the by, those strange things that
+popped out of the ground...
+Did you see them?"
+26,Talk01_2,"キノコじゃないぜ塔の話だ
+
+それもどうやら この世界のあちこちで
+同じことが起きたらしい","I'm not talking about mushrooms here!
+I'm talking about those towers!
+
+They seem to have popped up all over
+the place!"
+27,Talk01_3,"おかしな話は それだけじゃない
+昔からある寂れた祠が急に光り出したんだ
+わかるか？
+いよいよ世も末ってことさ","And that's not the only strange thing
+that's happened. Those long-deserted
+shrines suddenly started glowing!
+You know what this means, don't you?
+The end is here!"
+28,Talk02,"まあ そんなこともあって
+アレの様子を見てたってわけだ
+いきなり動き出しやしないかってね","With all this craziness happening,
+I've been keeping an eye on
+that thing.
+Just to see if it suddenly starts moving,
+ya know?"
+29,Talk03,"アレっていったらガーディアンのことだろう！
+おまえ ハイラルの昔話を知らないのか？","I'm talking about that Guardian,
+of course! Haven't you heard the
+old stories about Hyrule?"
+30,Talk04,"そうだガーディアンだ
+昔話で おなじみのアレだ","Yeah, that Guardian is worth watching.
+It's just like the ones from those
+old stories."
+31,Talk05,"あそこにあるのが見えるだろ？
+壺をひっくり返したような形のアレだ","See that thing over there? The one
+shaped like an overturned urn?
+THAT is what I'm talking about."
+32,Talk06,"じつはオレ""動き出したアレに見つかって
+追いかけ回されたことがあるんだ","Did you know some of them can move?
+One of them once chased me down and
+tried to kill me!"
+33,Talk07,"いや そこにあるのとは別のアレだ
+
+ここから城の方に向かう途中にある森の
+手前だったな…
+見つかると赤い光が飛んでくるんだぜ？
+
+ああ これでオレもおしまいだって
+さすがにあの時は覚悟したね
+それでも なんとかギリギリ
+森に逃げ込むことができたんだ
+え？ オレの運動神経が？
+
+いや そうじゃなくて ツイてただけさ
+
+なんでも ハイラル城の周りには
+そんなガーディアンがウヨウヨいるらしい","No, it was a different one.
+
+
+That one was closer to the castle but
+before the forest...
+
+When they spot you, they shoot blue
+beams of light at you!
+
+Man, I was so sure that was the end
+for me. I was prepared for the worst.
+
+But I somehow managed to escape into
+the nearby woods.
+
+You think it was my lightning-fast
+reflexes that saved me?
+
+Ha, I wish. Truth is, I just got lucky.
+
+
+Anyway, I hear Guardians like that still
+wander around Hyrule Castle."
+34,Talk08,"久しぶりの話し相手に
+嫌われちまったかな…","*siiigh* Just when I find someone to
+talk to... I wonder what I did to make
+him hate me..."
+35,Talk09,おまえも気をつけなよ,Be careful.
+36,TalkLoop00,"なんでも聞いてみな
+話し相手になってやるぜ","Ask me whatever you want! I'm happy to
+chat with you awhile."
+37,Wander00,"どうした？
+おまえも話し相手がほしいのか？","Hello? Are you looking for someone to
+chat with too?"
+38,Wander01,"見回りだよ見回り
+この橋は交通の要所だからな
+魔物が橋に棲みつかないように
+追っ払ったりとか いろいろ大変なんだよ","Just patrolling. This bridge is an
+important route.
+
+I keep really busy making sure monsters
+don't nest here by chasing them off the
+bridge and stuff."
+39,Wander02,どこに行きたいんだ？,Where do you want to go?
+40,WanderRain00,どうだ止みそうか？,So... Think the rain will let up soon?
+41,Warning00,おい早まるな！,Hey! Don't be rash!
+42,Warning01,ちょっと待て！考え直せ！,"Wait a minute! Please, think about what
+you're doing!"
+43,Warning02,"オレも若いけど
+おまえは もっと若い
+オレもがんばってるけど
+おまえは もっとがんばってくれそうだ
+おまえの顔を見ると そんな気がするんだよ
+…オレにはね","I'm young, but you're even younger.
+
+
+I'm trying my best out here, but I get the
+feeling you're going to end up trying
+even harder in this world.
+That's the feeling I get when I look at
+your face... But maybe I'm nuts."
+44,Warning03,"おまえが この世からいなくなっても
+世界は変わらないかもしれない
+だが ひとつだけ確実に変わるものがある
+それは…
+オレの気分だ！
+
+目の前で そんなことをされたら
+誰だってショックだろ？","You won't change the world by jumping
+carelessly to your doom, don't ya know!
+
+That would only do one thing...
+And that's...
+
+Drive me batty!
+
+
+Seriously! Think of the shock I'd suffer,
+seeing something like that!"
+45,Warning04,"落ち着いて欄干から下りるんだ
+向こう側じゃないぞ こちら側だ","Now calm down and climb off that rail.
+And don't climb down THAT way.
+Climb down THIS way!"
+46,Warning05,"いいか早まるなよ
+楽しいことは この先に待ってるんだ","You're fine. Just don't be so careless.
+There are too many enjoyable things in
+the world to gamble with your life!"
+47,WarningClear00,"もう あんな真似するんじゃないぞ
+…冷や汗かいたぜ まったく","Man! Don't ever do something like that
+again, got it? You almost gave me a
+heart attack. Seriously!"
+48,WarningClear01,"ふぅ焦ったぜ
+大人を からかうもんじゃないぞ","Phew! You had me worried there. 
+Don't mess with people like that."
+49,WarningClear02,"…オレでよければ
+話し相手になってやるぜ","I'll stay here and chat with you for a bit,
+if you'd like."

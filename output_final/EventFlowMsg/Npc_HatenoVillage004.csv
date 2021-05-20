@@ -1,0 +1,141 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,"Yes, please."
+2,"""0001""",結構です,"No, thanks."
+3,"""0002""",雨降ってますけど…,It's raining...
+4,near01,♪～～,♪～～♪
+5,near02,ハァハァ…,*pant*
+6,near03,少し痩せないと…,I'm not so young now...
+7,near04,グオオォォ…,Graaawww...
+8,talk00,"これはこれは旅の人…
+慣れないハテノ村で お困りのご様子
+しかたないですな
+この私が案内役を買って出ましょう","You've got the look of a traveler! Is this
+your first time in Hateno Village?
+
+Well, you're in luck, because you have
+a lifelong resident to show you around!"
+9,talk01,シュン…,"Well, fine then..."
+10,talk02,"オッケーイ！ 
+まっかせっなさーい！","OK! Let's get you a good ol' fashioned
+dose of Hateno hospitality!"
+11,talk03,"ここはよろず屋「イースト・ウィンド」さん
+売ってないもの以外は何だって売ってるよ！","This is the general store, East Wind.
+They sell a lot of everyday goods...
+and even some everyday greats!"
+12,talk04,"ハァ…ハァ…
+
+こちらハテノ染めの「東風屋」さん
+着ている服を好きな色に染めてくれますよ
+でっしぇまっしぇ調のご主人は
+クセは強いが気のいい人でしてね","*pant pant...* This is the Kochi Dye Shop,
+known for their Hateno dyeing! They'll
+dye your clothes whatever color you like!"
+13,talk05,"ハァ…ハァ…
+
+ここが宿屋「トンプー亭」さん
+旅人に人気の宿泊施設ですな
+ここだけの話…
+フロントの女性が なかなかの美人さんでねぇ","*pant pant...* This here is Ton Pu Inn!
+If you need to sleep overnight, then this
+is the place!"
+14,talk06,"ハァ…ハァ…
+
+えー ここは服屋「ヴェント・エスト」さん
+私も着てるが ここの服はオススメですよ
+この店のオーナーがまた いい男でね
+名前はソテツといって村の案内が大好きで…
+ワハハ その通り！
+ここは この私の店なんですわ！
+もしも色に飽きたら
+東風屋さんで別の色に染めてくださいね！","*pant pant...* This is the clothing store,
+Ventest Clothing! They sell...well, I'm
+sure you can guess what they sell.
+To be straight with you, this is actually
+my store! So come hang out when you've
+got some time.
+Stock up here first before heading
+over to Kochi Dye Shop."
+15,talk07,"それにしても
+ああ くたびれた…
+ソテツおじさんの村案内は
+けっこう くたびれるんだ
+ダイエットも兼ねてる事は秘密にしておこう…","Whew... I'm pretty much beat! Let's call
+this the end of the tour, yah?
+
+Just don't have the pep for tour guiding like
+I used to..."
+16,talk08,"今日はもう休むとしますわ
+また今度 ぜひ案内させてくださいな","I'm probably just gonna kick back for the
+rest of the day. But if you want a guide
+again, come find me."
+17,talk09,ギリギリギリ…,*grind grind*
+18,talk10,"その青い炎…
+プルアの お婆様の炎では？",That blue flame! Is that from Purah?
+19,talk12,"その青い炎…
+早くプルアの お婆様に届けたほうが…","That blue flame... Grandma Purah might
+be interested in seein' that..."
+20,talk13,"さてさて ソテツおじさんの村案内…
+そろそろ お次にまいりましょう！","And now, on with the tour!"
+21,talk16,"ソテツおじさんの村案内は閉店です
+また必ずや！
+ああ ねむ…","That's enough touristry for the day. 
+But don't fret—this village ain't goin'
+anywhere. You can come back tomorrow!
+Maybe I'll be more awake then..."
+22,talk17,"その青い炎…
+研究所の所長さんの炎では？","That blue flame... Does that belong to
+the research lab director?"
+23,talk18,"その青い炎…
+早く研究所に届けたほうが…","That blue flame... Why don't you go 
+deliver it to the research lab?"
+24,talk19,"店は娘に任せてあるので
+私はヒマでしてな…
+生まれ育ったこの村への恩返しとして
+せめて案内役を買って出てるというわけで
+…では案内しますんで
+ちゃんと付いて来てくださいよ
+このあと私…
+予想外の行動を起こしますからね","The shop is in my daughter's capable
+hands these days, so I've got a lot of
+time on my hands.
+I thought it might be nice to do a good
+turn for the village where I was born and
+raised, so I volunteered as a tour guide.
+Stick with me, and I'll show you around
+the best parts of this place.
+
+In fact, in just a minute, I'll show you
+something really special!"
+25,talk20,"雨が降ったら濡れればよし…
+そんな考えで生きております
+そちらも同じお考えでしたら
+今から ハテノ村をご案内しましょうか？","My philosophy is, if it rains on you, then
+you were meant to be wet.
+
+If you share my outlook on life, then why
+not let me show you around the village?"
+26,talk22,"おやおや これは旅の人…
+初めてのハテノ村で お困りのご様子
+しかたないですな
+この私が案内役を買って出ましょう","You've got the look of a traveler! Is this
+your first time in Hateno Village?
+
+Well, you're in luck, because you have
+a lifelong resident to show you around!"
+27,talk24,"まだ到着してないですよっ！
+慌てない慌てない…","*pant pant* Almost there! Keep it together,
+keep it together..."
+28,talk25,"移動中は話しかけないで…
+こういうのは テンポが大切ですからね","Can't talk while I'm on the move! Gotta
+keep my heart rate up!"
+29,talk26,"ソテツおじさんの村案内
+ご利用ありがとうございました
+次回の開催は体力が回復した時にでも…","Thanks for using Seldon's Village Tours.
+Our next tour will begin...whenever I get
+my breath back..."
+30,talk27,"ソテツおじさんの村案内は閉店です
+また次の機会にでも…
+ああ疲れた…","Seldon's Village Tours is now closed.
+Please come again if you like...
+
+But let me rest for a bit first..."

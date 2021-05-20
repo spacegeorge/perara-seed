@@ -1,0 +1,95 @@
+#,Title,JPja,USen
+1,"""0000""",いいよ,Sure.
+2,"""0001""",やめときます,I'll pass.
+3,"""0005""",やめておく,I'll keep my rupees.
+4,"""0014""",渡す,Here you go.
+5,Talk00,"…者よ…
+
+若者よ…
+
+私の話を聞いておくれ…","Boy...
+
+
+Sweet boy...
+
+
+Please... Listen to my story..."
+6,Talk01,"さぁ…持ってるんだろ？
+さっさとルピーを お渡しよ","Now... You have rupees for me, right?
+Hand them over. Quickly!"
+7,Talk02,それは残念だねぇ…,That is truly tragic...
+8,Talk03,あぁ… また来てくれたんだね？,Ah... You've returned.
+9,Talk03_01,"さぁ…ルピーを持ってるなら
+さっさと私にお渡しよ","Now... If you have rupees, hand them
+over to me. Quickly!"
+10,Talk03_01B,"私が力を取り戻すには 
+ルピー必要さ","In order for me to regain my power,
+I need  rupees."
+11,Talk03_01C,"おや？新たな姉妹の力を感じるね…
+さぁ私も早く解放しておくれよ","Oh? I feel the power of a new sister...
+Quickly, free me as well!"
+12,Talk03_05B,"私が力を取り戻すには
+1000ルピー必要だ…わよ","In order for me to regain my power,
+I need 1,000 rupees."
+13,Talk03_m,"おぉ… また来たんだな…！
+いや… また来てくれたんだね？","Well... You're back!
+I mean... You've come back, have you?"
+14,Talk04,"おやおや ルピーが足りないようだよ…
+
+残念だ…ああ残念だ…","What's this? You don't have enough
+rupees?
+
+How tragic... How dreadfully tragic."
+15,Talk06,"かつてここは美しい泉だった…
+
+年々捧げられるルピーが少なくなって
+力を失ってしまったばかりに この有り様さ
+だから お願いだよ
+少しばかりのルピーを恵んでおくれ","This place was once a beautiful spring...
+
+
+But as time passed, fewer and fewer
+travelers arrived to offer me rupees. As a
+result, my power has abandoned me.
+I'm nearly powerless now, so I beg your
+help. I need rupees to become whole
+again."
+16,Talk07,"オヌシ…いや あなた…愛馬が居なくなって
+寂しい思いをしたことは無いか？
+私が力を取り戻せたら
+なんとかして あげられるんだが…
+だから お願いだよ
+少しばかりのルピーを恵んでくれないかい","Hast thou... I mean... Have you ever felt
+the pain of losing a horse companion?
+
+If my power is returned to me, I may be
+able to help you out in some way...
+
+So please... I beg of you...
+Help me regain the power I've lost..."
+17,Talk08,ありがとう助かるよ…,Thank you. You are too kind.
+18,Talk09,あぁっ…力が…,Aah... The power...
+19,Talk09_1,ヌォォォッ…ワレ…,Nwaaaaaagh... I...am...
+20,Talk10,みなぎってくるゥ～～！！！,It's overflowing!!!
+21,Talk10_1,復活せり～！！！,Revived!!
+22,Talk11,"私は大妖精 クチューラ…
+",I am the Great Fairy Cotera...
+23,Talk12,"私は大妖精 ミジャー…
+",I am the Great Fairy Mija...
+24,Talk13,"私は大妖精 シーザ…
+",I am the Great Fairy Kaysa...
+25,Talk14,"私は大妖精 テーラ…
+",I am the Great Fairy Tera...
+26,Talk15,"ワシ… いや私の名は マーロン…
+",I am Malanya...
+27,Talk16,ルピーもあれば十分…,All I need is  rupees...
+28,Talk20,"1000ルピーもあれば十分…だ…
+早く…","All I need is 1,000 rupees..."
+29,Talk26,"私が力を取り戻した あかつきには
+きっとあなたの役に立てるはずだよ","Once my power has been restored,
+I can help you do great things, boy."
+30,Talk27,"私が元の姿に戻れた時
+馬を愛するあなたの役に立てるはずだよ","When my power has been restored,
+I should be able to be of use to
+you, who loves horses so."
+31,Talk28,アッ ハァアア～～～ン！！！,Ah-HAAAAAAAAAAA!!!

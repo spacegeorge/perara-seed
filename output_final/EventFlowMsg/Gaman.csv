@@ -1,0 +1,254 @@
+#,Title,JPja,USen
+1,"""0000""",してみてもいい,"Sure, I'll give it a try."
+2,"""0001""",勘弁してください,Anything but that.
+3,"""0002""",挑戦する,Bring it.
+4,"""0003""",やっぱり無理です,"Actually, no."
+5,Event_S1_001,"この土俵から降りたり飛んでいったり
+倒れたりしたら負けゴロ！
+ではガマンくらべを始めるゴロ！ガマンくらべぇえええ！！ 
+スタートゴロォオ！！","If ya leave the ring or pass out,
+it's all over! You lose! Got it?
+
+OK... Now prepare yourself for the...CONTEST OF ENDURANCE!!
+GOOOOOO!"
+6,Event_S1_001_01_01,まだまだぁ！！,Not yeett!!
+7,Event_S1_001_01_02,余裕よゆ……！,Piece of...cake!
+8,Event_S1_001_02_01,誰か手を振ってる…,Someone's wavin'...
+9,Event_S1_001_02_02,あ… じいちゃん…？,Is that...Grandpa?
+10,Event_S1_001_03_01,ヒィー… ヒィー…,Phew! Phew!
+11,Event_S1_001_03_02,無理… ゴロォ…,I can't...go on...
+12,Event_S1_002_01_01,"オマエはすごいゴロ！
+まさかオレ達 ド根性三兄弟が負けるなんて！","You're amazing! I never woulda thought
+the three Goron Blood Brothers could
+lose to you, brother!"
+13,Event_S1_002_01_02,"後ろにある炎に囲まれた土俵が見えるゴロ？
+イヤな予感がするゴロォ？！","You see the ring behind me? The one
+surrounded in fire? Do ya feel it in your
+gut—what a bad idea it is to go there?"
+14,Event_S1_002_01_03,"この土俵の上で限界までガマンすると
+勇者の試練が現れる と伝えられているゴロ！
+準備が出来たら この土俵に乗るゴロ！
+特別なガマンくらべを始めるゴロ！","It's said that passin' this test will
+reveal a shrine...or some such!
+
+If ya think you're ready, climb into the
+ring. Do that, and our special contest
+of ultimate endurance will begin!"
+15,Event_S1_002_02_01,"オマエには最高レベルの
+ガマンくらべの挑戦権をやるゴロ！","In fact, I'm grantin' you the highest
+honor—the chance to participate in
+the contest of ULTIMATE endurance!"
+16,Event_S1_002_02_02,オマエの予感はすこぶる正しいゴロ！,"Your gut is dead on, brother!"
+17,Event_S1_002_03_01,"ボク達の先祖が修行した地…
+その中でも特別キッツい ガマンの場だゴロ…","It's where our ancestors trained...
+It's considered the toughest test known
+to Goron kind!"
+18,Event_S1_002_03_02,特別な修行の場は この土俵の上ゴロよ…,"That special training area is even harder
+than the last ring..."
+19,Event_S1_003_01_01,"おお…… なんという事ゴロ！
+土俵から降りてしまったゴロ！","What's that about, brother?
+Why'd ya leave the ring?!"
+20,Event_S1_003_01_02,"おお…… なんという事ゴロ！
+土俵から飛んでいこうとしたゴロ！","What's that about, brother? Ya tried to
+get away from the ring!"
+21,Event_S1_003_02_01,"ガマンくらべは土俵の上で行うのがルールゴロ！
+降りてしまうとルール違反ゴロ！","The rules say ya have to complete the
+contest in the ring! Leavin' is the
+exact opposite of that!"
+22,Event_S1_003_02_02,"ガマンくらべは土俵の上で行うのがルールゴロ！
+飛んでいくのは ルール違反ゴロ！","The rules say ya have to complete the
+contest in the ring! Leavin' isn't part
+of it!"
+23,Event_S1_003_03_01,"今回は残念ゴロけど
+ガマンくらべは ここまでゴロよ…","It's way too bad things turned out this
+way, brother. But I'm afraid the contest
+of endurance ends here."
+24,Event_S2_001,"その上に立つという事は… やる気だな！ガマンくらべのルールは同じゴロ！その土俵の上から降りたり飛んでいったり
+倒れたりしたらそこで終わりゴロ！
+では特別なガマンくらべぇえええ！！
+ンスタァートゴロォオオーー！！","You're standing up there, which can only
+mean one thing... You ready to push
+yourself to your limits, brother?!
+The rules for this contest of ultimate
+endurance are the same as ever.
+Leave the ring or faint, and it's over!
+OK! Time for the world famous...
+CONTEST OF ULTIMATE ENDURANCE!!
+GOOOOOO!"
+25,Event_S2_001_01_01,もっと熱くゴロ！,"More heat, brother!"
+26,Event_S2_001_01_02,熱く！熱くゴロ！,"FIRE, brother!"
+27,Event_S2_001_01_03,溶岩のごとくゴロ！,"Hot like lava, brother!"
+28,Event_S2_001_02_01,何も怖くないゴロ！,No fear!
+29,Event_S2_001_02_02,世界が味方ゴロ！,"Seize the heat, brother!"
+30,Event_S2_001_02_03,無敵のオトコゴロ！,"A real trial by fire, brother!"
+31,Event_S2_001_03_01,魂を燃やすゴロ…,My soul is on FIRE...
+32,Event_S2_001_03_02,バーニング魂ゴロ…,Burning...soul...
+33,Event_S2_001_03_03,燃え尽きるまでゴロ…,Gonna get...burned out...
+34,Event_S2_002_01_01,んぬぅおおおおおお！！マーヴェラァアアアアス！！,"RAAAAARRRGGGGHHH!!SO EPIC, BROTHER!!"
+35,Event_S2_002_01_02,ガマンくらべはオマエが一番だゴロ！最ッ高ゴロォオオオ！！,"You won the contest of ultimate
+endurance, little man!You're amazing!"
+36,Event_S2_002_02_01,"オトコだゴロ！ オトコの中のオトコだゴロ！
+素晴らしいゴロォオオ！！","What a powerful display! What fire!
+That was somethin' else, brother!"
+37,Event_S2_002_03_01,"ああ！勇者の試練が…
+ほ祠が現れたゴロ！！
+言い伝えは本当だったんだゴロ！！","Whoa! That's a shrine...or some such!
+It really appeared, just like that!
+
+So the legend is true, brother!!"
+38,Npc_Gaman01_R_001,"マッスル！ここは先祖代々伝わる修行の場ゴロ！オレ達 ド根性三兄弟は
+ここでガマンくらべをしているゴロ！","PUMP IT UP, BROTHER!This is our ancestral training ground!
+Us three Goron Blood Brothers are in the
+midst of a contest of endurance!"
+39,Npc_Gaman01_R_002,どうだ オマエも！,"Hey, I have an idea!"
+40,Npc_Gaman01_R_003,マッスル！オマエは以前にも来たオトコ！,"PUMP IT UP, BROTHER!Oh, you're the one who was here before!"
+41,Npc_Gaman01_R_004,いい返事ゴロ！,Good answer!
+42,Npc_Gaman01_R_005,"準備が出来たら この土俵に乗るゴロ！
+ガマンくらべの始まりゴロ！","When you're ready, step up onto this
+platform! Then the contest of endurance
+will commence!"
+43,Npc_Gaman01_R_006,なんとなんと弱気な発言！,What a wobbly-kneed way of thinkin'!
+44,Npc_Gaman01_R_007,気が変わったらいつでも来い！,"If ya change your mind, come right
+back here!"
+45,Npc_Gaman01_R_Near,ぬぅゴロゴー！！,Uuurrrrggggh!!
+46,Npc_Gaman01_S1_001,"そこの土俵に乗ったら
+ガマンくらべの始まりゴロ！","The contest will begin when ya climb
+into the ring, brother!"
+47,Npc_Gaman01_S2_001,"次のガマンくらべはキッツいゴロ！
+まだ誰も成功していないゴロ！","This contest is really tough!
+No one's passed it yet!"
+48,Npc_Gaman01_S2_002,"よく戻って来たゴロ！
+特別なガマンくらべに挑戦するゴロか？！","Welcome back! Do ya wanna try the
+contest of ultimate endurance?!"
+49,Npc_Gaman01_S2_003,"よし！ よく言ったゴロ！
+では土俵の上に乗るゴロ！","That's the spirit! Now then, go climb
+into the ring."
+50,Npc_Gaman01_S2_004,"土俵の上に乗ったら
+特別なガマンくらべの始まりゴロ！","The contest of ultimate endurance
+begins as soon as ya climb into
+the ring, brother!"
+51,Npc_Gaman01_S2_005,"なんだゴロ！無理なのかゴロ！
+せっかく盛り上がったのに ビックリだゴロ！","What?! Ya don't wanna challenge
+yourself? Disappointing, brother...
+I was gettin' all fired up too!"
+52,Npc_Gaman01_S2_006,"今度のガマンくらべは
+「暑さ」ではなく「熱さ」ゴロ！
+気を抜くと身体が燃えてしまうゴロ！
+万全の準備を整えるゴロ！","This contest won't just challenge you
+with heat...but also with fire!
+
+If ya lose your focus, your body will
+catch fire! Make sure you're prepared
+for this, brother!"
+53,Npc_Gaman02_R_001,"ホット！強いオトコになるためのトレーニングゴロ！
+どれだけの暑さに耐えられるか競っているゴロ！","FEEL THE BURN, BROTHER!We're trainin' to become strong and
+powerful Gorons! Right now we're
+competin' to beat the heat!"
+54,Npc_Gaman02_R_002,オレ達と一緒に！,Come join us!
+55,Npc_Gaman02_R_003,ホット！もう一度ここに来たという事は！,"FEEL THE BURN, BROTHER!If you've come back here, then that
+can only mean one thing..."
+56,Npc_Gaman02_R_004,オマエの事は！,"A guy like you has a burning passion
+in his belly!"
+57,Npc_Gaman02_R_005,熱いオトコと見込んだのに！,"And we thought you were a man who
+had his priorities straight!"
+58,Npc_Gaman02_R_006,オレ達はオマエの挑戦を！,"We'll be here, waitin' on ya to grow
+some grit."
+59,Npc_Gaman02_R_007,マッチョ！,BEYOND MACHO!
+60,Npc_Gaman02_R_Near,まだまだゴロォオ！！,Not yet! Not yet!
+61,Npc_Gaman02_S1_001,熱いゴロ！熱いゴロ！,"That fire in your eyes! I can almost see
+the passion in your tiny belly!"
+62,Npc_Gaman02_S2_001,"そこは灼熱地獄ゴロ！
+オマエは生きて帰れるかゴロ？！","That place is hotter than a freshly grilled
+rock roast! You really think you can
+handle it, brother?"
+63,Npc_Gaman03_R_001,"ス スウェット…！ボク達は ゴロン族だけど暑さに弱いゴロ…そんなんじゃゴロンシティでやっていけないから
+ここまで修行に来たんだゴロ…","So sweaty... Brother...We're Gorons...but the heat is too much
+for us these days...It's too hot to handle in Goron City...
+so we came here to train ourselves..."
+64,Npc_Gaman03_R_002,ガマンくらべをしてみないかゴロ…？,"Yeah! Come try the contest of endurance
+yourself...brother!"
+65,Npc_Gaman03_R_003,ス スウェット…！挑戦する気になったゴロ…？,"So sweaty... Brother...Are you in the mood...to test your
+endurance with us...brother?"
+66,Npc_Gaman03_R_004,熱いオトコと呼ぶゴロよ…,It's inspiring...brother!
+67,Npc_Gaman03_R_005,ボク達の勘違いだったゴロ…？,How could we have...been so wrong?
+68,Npc_Gaman03_R_006,ずっと待っているゴロ…！,"When ya do...come show us what...
+you're made of!"
+69,Npc_Gaman03_R_007,ム ムッシュ…！,I'm a manly Goron man... Brother...
+70,Npc_Gaman03_R_Near,が がんばるゴロ…,I'll do...my best...
+71,Npc_Gaman03_S1_001,キミは すごいのかゴロ…？,Are you...any good?
+72,Npc_Gaman03_S2_001,"心を熱く燃やすゴロ…
+それに比べれば炎なんて何ともないゴロ…","A Goron's heart burns with passion...
+Compared to that, fire is nothin'..."
+73,Talk_00,"マッスル！おお！ オマエはド根性ガケのトレーニングを
+達成した四人目の兄弟！
+ここは先祖代々伝わる修行の場ゴロ！
+オレ達はここでガマンくらべをしているゴロ！","PUMP IT UP, BROTHER!Oh! It's the fourth Goron Blood Brother!
+The one who somehow beat our famous
+Gut Check Challenge!
+This is our ancestral training ground,
+little man! We're smack in the middle
+of a contest of endurance!"
+74,Talk_01,"ホット！もっと強いオトコになるための
+挑戦をするゴロ？！
+ここでは どれだけの暑さに耐えられるか
+競っているゴロ！","FEEL THE BURN, BROTHER!We're trainin' to become even manlier
+Goron men, brother! Right now we're
+competin' to see who can beat the heat!"
+75,Talk_02,"ス スウェット…！さすが ド根性ガケのトレーニングを
+達成しただけあるゴロ…
+ボク達は ゴロン族だけど暑さに弱いゴロ…そんなんじゃゴロンシティでやっていけないから
+ここまで修行に来てるんだゴロ…","So sweaty... Brother...Of course, since ya beat the Gut Check
+Challenge, you'll wanna try this too.
+
+We're Gorons, but we can't really stand
+this extreme heat either...That's why we came here to train!
+After this, we'll be able to handle the
+extra heat in Goron City, no problem."
+76,Talk_03,"マッスル！オマエはド根性ガケのトレーニングを
+達成した四人目の兄弟！","PUMP IT UP, BROTHER!Oh! It's the fourth Goron Blood Brother!
+The one who beat our famous Gut Check
+Challenge!"
+77,Talk_10,"マッスル！ん？！ オマエはド根性ガケのトレーニングを
+受けている最中のオトコ！
+ここは先祖代々伝わる修行の場ゴロ！
+オレ達はここでガマンくらべをしているゴロ！","PUMP IT UP, BROTHER!Hm? Ah! You're the little man who
+attempted the Gut Check Challenge!
+
+This here is our ancestral training
+ground, brother! We're havin' a
+contest of endurance!"
+78,Talk_11,"ホット！ド根性ガケを途中で投げ出したオトコは
+ここの暑さに耐えられるかゴロ？！","FEEL THE BURN, BROTHER!But does someone who abandoned the
+Gut Check Challenge really stand a
+chance of beatin' the heat?!"
+79,Talk_12,"ス スウェット…！ここで鍛えて
+ド根性ガケに そなえるといいゴロ…
+ボク達は ゴロン族だけど暑さに弱いゴロ…そんなんじゃゴロンシティでやっていけないから
+ここまで修行に来てるんだゴロ…","So sweaty... Brother...You should train here before ya try to
+take on the Gut Check Challenge.
+
+We're Gorons, but we can't really stand
+this extreme heat either...That's why we came here to train!
+After this, we'll be able to handle the
+extreme heat in Goron City, no problem."
+80,Talk_20,"マッスル！ド根性ガケも ガマンくらべも
+途中のオトコ！","PUMP IT UP, BROTHER!Hey! You're the little man who's tryin' to
+beat the Gut Check Challenge and the
+contest of endurance!"
+81,Talk_21,"ムムッ？！
+オマエ耐火の装備を持ってるゴロ？
+オトコなら そんなものに頼ってはダメゴロ！
+己の体だけで挑めゴロ！！","HUH?! Is that heat-resistant gear ya
+have there, brother?
+
+A real Goron man shouldn't have to rely
+on wussy stuff like that! Goron up and
+take the challenge without any help!"
+82,Talk_22,"おお…なんという事ゴロ！
+いつの間にか耐火の装備を身に着けてるゴロ！","Wait... How did this happen?! When did
+ya pull the ol' switcheroo and put on
+heat-resistant gear, brother?"
+83,Talk_23,"特別なガマンくらべは オトコを試す試練ゴロ！
+耐火の装備に頼るのは失格だゴロ！！","Our sacred contest of endurance is a test
+of grit, brother! Use that heat-resistant
+nonsense, and you'll be disqualified!"

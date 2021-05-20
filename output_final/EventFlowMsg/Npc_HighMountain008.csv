@@ -1,0 +1,71 @@
+#,Title,JPja,USen
+1,"""0001""",売りに来た,Looking to sell.
+2,"""0002""",さようなら,Bye.
+3,"""5500""",はい,OK.
+4,"""5501""",いいえ,Never mind.
+5,"""5503""",やっぱりやめる,"Actually, never mind."
+6,"""5508""",ぜんぶ売る,All of them.
+7,Com_Talk_00,何を売ってくれるんだぃ？,What are you looking to sell?
+8,Com_Talk_01,"ですかい？
+ならルピーでさあ",I'll do  rupees. Is that OK? 
+9,Com_Talk_02,"ありがとう！
+他にも売ってくれますかい？","Thanks!
+Want to sell anything else?"
+10,Com_Talk_02b,まいど！他はどうですかい？,Thanks! Anything else?
+11,Com_Talk_02c,"ヘイヘイまいど！""他は どうしましょうかね？",All right! Something else?
+12,Com_Talk_02d,ありがとよ！他は無いですかい？,Thank you much! Anything else?
+13,Com_Talk_04,おや残念だね,"Oh, that's too bad."
+14,Com_Talk_05,何でも買い取りいたしやすよ！,I'll take anything off your hands!
+15,Com_Talk_05b,ゆっくり選んでくださいや,Take your time choosing.
+16,Com_Talk_05c,さぁさぁ買い取りやす買い取りやす！,"Come on. I'm ready to buy, buy, buy!"
+17,Com_Talk_05d,売りたい物選んでつかーさい！,Show me what you want to sell!
+18,Com_Talk_11,まいだーりー！,Thanks a ton!
+19,Com_Talk_11b,お買い上げ ありがとよ！,Thanks for your purchase!
+20,Com_Talk_11c,いい買いっぷりで！,"Oh, yeah! That's how you shop!"
+21,Com_Talk_11d,それ兄さんに お似合いでさあ！,That's perfect for you!
+22,Com_Talk_13,"を お売りで？
+いくつですかい？",How many will you sell me?
+23,Com_Talk_14,"を個なら
+ルピーでさあ",I can offer you  rupees. Deal?
+24,Com_Talk_15,"すいやせん
+そいつぁ買い取れないんでさぁ","Sorry, but I'm not in the market for that."
+25,Com_Talk_16,"おっと…
+着てる服は脱いでつかーさいや","Hmm... Why don't you take that off
+beforehand."
+26,Com_Talk_33,"を 1つさね？
+それならルピーでさぁ","You want to sell just one, then?
+I can give you  rupees."
+27,Com_Talk_35,"を個全部だね？
+それならルピーで買い取りまさぁ","All  of them?
+I can offer you  rupees."
+28,Com_Talk_60,"？
+それならルピーでさあ！",That one will cost you  rupees!
+29,Com_Talk_61,"残念！""他のも見てってよ！","Too bad! Let me know if you change your
+mind."
+30,near00,防具～防寒具～,Armor! Warm clothes!
+31,talk00,"防具屋紅孔雀へようこそ！
+","Welcome to Brazen Beak!
+"
+32,talk01,"遅くまで お疲れさん！
+防具屋紅孔雀は24時間営業だぜ！","Hey, thanks for coming out so late!
+Brazen Beak is open 24 hours!"
+33,talk02,また来てね！,"Come again, friend."
+34,talk03,まいど ご贔屓に！,Thanks for your business!
+35,talk05,"リトの装備全部お持ちで！
+まいったなこりゃ！","Looks like you already have the whole
+Rito getup! That's great and all, but what
+am I supposed to offer you now?"
+36,talk06,"や どうも！
+いつもお世話になっております！","Hey, friend! 
+Thanks for coming by."
+37,talk11,兄さん爆買いだね！,"Going on a shopping spree, are we?"
+38,talk12,さて御用命は何でしょう？,What can I do for you?
+39,talk13,"聞いた話だと世界のどこかに
+服を染色できる村が あるらしいな
+同じ服をいくつも買って別の色に染めて…
+気分によって違う色の服を着るんだってさ","Oh! I heard there's a village somewhere
+that can dye your clothes and armor
+different colors.
+So you could always buy another Rito
+outfit and dye it another color. Color
+coordination is serious business!"

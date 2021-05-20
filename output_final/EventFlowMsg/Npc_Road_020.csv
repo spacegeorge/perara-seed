@@ -1,0 +1,310 @@
+#,Title,JPja,USen
+1,"""0000""",興味ある,What have you got?
+2,"""0001""",売りたい,Can I sell something?
+3,"""0002""",さようなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5502""",買う,I'll buy.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5507""",ぜんぶ買う,I'll take 'em all!
+9,"""5508""",ぜんぶ売る,All of them.
+10,Atacked00,"トレジャーハンターの俺だけど
+魔物を倒す訓練はしてないからなぁ…","I'm a treasure hunter, not a monster
+hunter..."
+11,Atacked01,"魔物なんか相手にしていたら
+命がいくつあっても足りないよ！","The thing about being a treasure hunter
+is...if you're smart, then you wait until
+the monsters are gone before you start."
+12,Com_Talk_00,どれを売ってくれるのかな？,What did you want to sell?
+13,Com_Talk_01,"を売ってくれるんだね
+ルピーになるけど いいかな？","Sure. Let's do  rupees.
+Do we have a deal?"
+14,Com_Talk_02,"ありがとう！
+他にも何かあるかな！",Thanks! Anything else you needed?
+15,Com_Talk_02b,ありがとう！,Thanks!
+16,Com_Talk_02c,どうもありがとう！,I do appreciate it!
+17,Com_Talk_02d,どうもです！,"Great, thanks."
+18,Com_Talk_04,それは残念！,That's a shame.
+19,Com_Talk_05,何でも買い取るよ！,I'll buy anything!
+20,Com_Talk_05b,どんどん買い取るよ！,I'll buy anything!
+21,Com_Talk_05c,いろいろ買い取るよ！,I'm in the market for all sorts of things.
+22,Com_Talk_05d,"古代パーツに限らず
+何でも買い取るよ！",I'll buy anything—not just ancient parts!
+23,Com_Talk_06,どれを買ってくれるのかな？,What are you interested in?
+24,Com_Talk_07,"ごめんな！
+そいつは切らしちゃったんだよ！",Sorry. I'm out of that.
+25,Com_Talk_08,"ルピーが足りないみたいだな！
+もう少し稼いだら また声をかけてくれよ！","You don't have enough rupees. Come
+back and talk to me when you've got
+some money."
+26,Com_Talk_09,"ポーチが いっぱいみたいだな！
+ポーチの空きを作って来てくれ！","Your inventory is full. Make a little room
+before you try buying anything."
+27,Com_Talk_10,を買うのかな？,You're sure about that?
+28,Com_Talk_11,ありがとう！,Thank you!
+29,Com_Talk_11b,"あがりとう！
+じゃなくて ありがとう！","Thank you!
+
+
+I mean it. Thank you so much."
+30,Com_Talk_11c,どうもありがとう！,Thank you very much!
+31,Com_Talk_11d,うんうんありがとう！,"Yes, yes. Thank you!"
+32,Com_Talk_12,どれが気になる？,What catches your eye?
+33,Com_Talk_13,"を売るのかな？
+いくつだい？",How many did you want to sell?
+34,Com_Talk_14,"を個で・・・
+合計ルピーで買い取るけど いいかな？","All right. I'll give you  rupees total.
+Is that going to be all right?"
+35,Com_Talk_15,それはちょっと買い取れないな？,"Sorry, I can't buy that from you."
+36,Com_Talk_16,"今着ている服は
+脱いでから売るのが常識じゃないか？","I think it's common sense to take off
+the clothing you are wearing before
+you try selling them."
+37,Com_Talk_20,"天気が悪いから せめてものサービス！
+とっておきの古代パーツを売ってあげよう！","Bad weather always puts a damper on
+people's desire to shop, so how's about
+I put my best ancient parts on sale!"
+38,Com_Talk_30,"が個で
+合計ルピーになるけど いいかな？","That will come to  rupees
+altogether. Are you OK with that?"
+39,Com_Talk_31,"を買ってくれるんだな？
+いくつ買ってくれるんだ？","Found something you like, huh?
+How many do you want?"
+40,Com_Talk_33,"をひとつで いいかな？
+それならルピーってとこだね！",Just the one? Let's say  rupees!
+41,Com_Talk_34,"を全部買うのか？
+だったら個でルピーだぜ","You... You want all of them? That sounds
+fine. That's , for  rupees."
+42,Com_Talk_35,"を全部売るのか？
+個だから合計ルピーで買い取ろう","You wanna sell them all? I'll be happy to
+buy them. I'll give you  rupees for
+the lot of 'em."
+43,Com_Talk_36,"おお売り切れちまった！
+いっぱい買ってくれて ありがとよ！","Looks like I've got nothing left to sell!
+Thanks for being such a good customer."
+44,Com_Talk_37,"在庫が無いから ジャンク屋は閉店中だ
+トレジャーハント予定表だけでも見てくかい？","Sorry. Junk shop's all closed up until I
+get some more junk. You wanna take a
+look at what I'll be selling next?"
+45,Com_Talk_56,"をひとつで いいかな？
+それならルピーになるが いいかな？","That'll be  rupees, if you don't
+mind."
+46,Failed00,もう魔物はいないよな？ な？,"There aren't any more monsters around, 
+right? Right?"
+47,Failed01,"イタタタ…
+トレジャーハンター一生の不覚…","Oof... The life of a treasure hunter is
+fraught with danger, but I never thought
+this would happen to me."
+48,GoodBye00,ではサラバ…,"For now, farewell..."
+49,Guardian00,"ガーディアンは まだ動いてるぞ！
+逃げるが勝ちだ！","That Guardian's still moving! No way I'm
+going near one of those if it's still got
+any life left in it!"
+50,MSG_Futa_00,"…キミは気づいたか？
+この辺りにガーディアンの残骸が多いことを…
+これで敵の侵入を防げるはずだと信じた
+村人たちの夢の跡さ…","Have you noticed all the wreckage
+around here? It's the remains of
+Guardians, destroyed long ago...
+The villagers thought that they would
+protect them from any enemies...
+
+Take a look around you. Everywhere you
+look, you'll see it. The ruined dreams of
+those villagers."
+51,MSG_Futa_00_1,"ガーディアンは敵の侵入を防いてくれる兵器…
+少なくとも村の人達はそう信じてたはずだ…","Guardians were built as a weapon to fend
+off enemies... That's what the people
+who made them wanted, at any rate."
+52,MSG_Futa_01,"ここからずっと北の北""アッカレ地方の端っこに
+ガーディアンのパーツを買い取る男がいてね
+俺がトレジャーハンターやっていけるのも
+そいつのおかげさ","Go far to the north, up to Akkala, and
+you'll find a man who deals in Guardian
+parts.
+He's half my business, truth be told. As
+long as he's in the market, I can keep
+treasure hunting until I get my big break."
+53,MSG_Futa_01_1,"ここからずっと北にあるアッカレ古代研究所に
+ガーディアンのパーツを買い取る男がいるんだ","If you head far north from here up to
+Akkala, you'll find the man who deals
+in the Guardian parts I sell."
+54,MSG_Futa_02,"…油の匂いは好きか？
+調理用じゃなくて機械用の油の話さ
+ガーディアンの残骸を朝から晩まで運ぶ俺の
+もはや体臭といってもいいかもしれない","You smell that? That's the smell
+of grease—not for cooking, but
+for keeping machines running!
+I've got a lot of Guardian parts on me,
+all day, every day, so that smell of grease
+follows me everywhere I go."
+55,MSG_Futa_02_1,"俺の血液は機械用の油でできている…
+
+毎日ガーディアンの残骸を運んでると
+そんな感じに なっちゃうんだよ","I spend so much time around these
+machines that I'm starting to think
+I've got grease for blood.
+When you spend your whole life around
+Guardian wreckage and parts, your mind
+starts playing tricks on you."
+56,MSG_Futa_03,"それにしても切ない話さ…
+
+人々を守るために作られたガーディアンが
+今では その人々から忌み嫌われてる…","It's a sad story, when you think about it.
+
+
+These Guardians now hunt down the
+people they were made to protect."
+57,MSG_Futa_03_1,"人々を守るために作られたガーディアンだが
+今となっちゃ鼻つまみ者さ…","The Guardians were made to defend
+people. It must be so hard to see
+what they've become..."
+58,MSG_Futa_04,"この村にも学者さんがいるって聞いてたけど
+最近見かけなくなったらしいんだよね
+ガーディアンのパーツを
+買い取ってもらおうと思ってたんだけどな…","There's supposed to be a research nut
+around here too, but no one's seen
+her in a while.
+Maybe I should go hit up the lab, see if
+they'd be interested in Guardian parts."
+59,MSG_Futa_04_1,"この村の学者さん…
+一体 どこに行ったんだろうね","I wonder what the researchers around
+these parts do all day..."
+60,Near00,古代の素材はなぁ…,Hm. Ancient parts...
+61,Near01,古代のネジ…,An ancient screw...
+62,Near02,古代の歯車…,Hm. An ancient gear...
+63,Near03,古代のコア…,An ancient core?
+64,Near04,雨か…,"Great, rain..."
+65,Rest_00,"ハテノ砦付近にあるガーディアンの残骸から
+使えそうな古代パーツを拾い集めているが…
+こいつがまた良い値で売れるのさ！
+","I'm salvaging any ancient parts I can
+find from the Guardian remains near
+Fort Hateno...
+You know what they say—one man's
+trash is another man's treasure!"
+66,Rest_01,"雨の日は ジャンク屋はお手上げさ
+ガラクタとはいえ錆びるのも残念だしね","Business really suffers on rainy days
+like this. I'm not sure if these hunks of
+junk rust, but I wouldn't want to find out."
+67,Rest_02,"よく降るなあ…
+雨がやむまで ここで待つしかないな","It's coming down hard... I guess I'll have
+to wait here until it clears up."
+68,RetMSG_Futa_00,"俺が何してるかって？
+いい質問だ！
+俺は古代パーツの残骸を拾い集めている！
+そう！この俺は トレジャーハンター！
+この辺りはガーディアンの残骸が多いので
+少しばかり興奮してるってわけさ！","What am I doing, you ask? Good 
+question, I say! I am on a mission,
+collecting ancient parts.
+You guessed it! I'm a treasure hunter!
+And there are a LOT of ruined Guardians
+around here, so I'm a little bit excited!"
+69,RetMSG_Futa_00_1,"この辺はガーディアンの残骸が多いから
+トレジャーハントが捗るぜ！","There are lots of ruined Guardians
+around here, which is good news
+for treasure hunters."
+70,RetMSG_Futa_01,"ここから西に行けばハテノ砦だぜ！
+
+…あとは そうだな
+とくに情報はなしだ！","It's just a short hike west from here to
+Fort Hateno. Let's see... What can I
+tell you about that place...
+Um... Eh, nothing really comes to mind."
+71,RetMSG_Futa_01_1,"ここから西にあるのがハテノ砦だ！
+行くなら死角にいる魔物に気を付けるこったな","If you head west a bit farther, you'll
+hit Fort Hateno! Watch your back, if
+you do go. There be monsters about!"
+72,RetMSG_Futa_02,"ちょっと聞くけど俺の仕事…
+単なる ガラクタ集めに見えてたりする？
+時には魔物に襲われる事もあるしさ
+危険と隣合わせの タフな仕事なんだけどなぁ","I know what you're thinking. \""A treasure
+hunter? Why, that's nothing but a
+glorified junk collector!\""
+First of all, that's really harsh. And
+second, it's tougher than it looks. I get
+attacked by monsters all the time!"
+73,RetMSG_Futa_02_1,"俺の仕事… トレジャーハンターは
+こう見えて タフな仕事なんだぜ
+周囲の理解が無いのが悲しいぜ…","My job? I suppose my business cards
+would read \""treasure hunter,\"" but some
+folks might call me a junk collector...
+Look, I know it may not seem it at first
+glance, but this is a TOUGH job. And
+nobody understands... It makes me sad..."
+74,RetMSG_Futa_03,"拾い集めたガーディアンのパーツを
+どうするのかって？
+アッカレ古代研究所の学者さんが
+いい値段で買い取ってくれるのさ！
+でも ちょっと待てよ？
+
+まさかガーディアンを修復してたりして！","You wanna know what I do with all the
+Guardian parts I find?
+
+There's a gentleman who works at the
+Akkala Ancient Tech Lab. He never turns
+down the parts I bring him.
+Hey, hang on a minute...
+
+
+You don't suppose he's actually
+repairing the Guardians, do you?!"
+75,RetMSG_Futa_03_1,"ガーディアンのパーツ""アッカレ古代研究所の
+学者さんが買い取ってくれるはいいけど…
+ガーディアンを修復してたら ヤバいな…","There's a scientist of some sort over at
+the Akkala Ancient Tech Lab who loves
+it when I bring him Guardian parts.
+Wait, what if he's repairing Guardians?
+That would be bad..."
+76,RetMSG_Futa_04,"ハテノ砦付近にあるガーディアンの残骸から
+使えそうな古代パーツを拾い集めるのさ！
+…オーケー？","I'm collecting ancient parts from any
+ruined Guardian remains I find near
+Fort Hateno!
+Don't judge me."
+77,RetMSG_Futa_04_1,"ハテノ砦のガーディアンから拾える古代パーツ
+俺より先に取らないでくれよな！","I'm out collecting ancient parts from
+ruined Guardian remains near
+Fort Hateno! Don't you beat me to 'em!"
+78,SavedLv1_00,"キミのおかげで命びろいさ！
+…っていうのは ちょっと大げさかな？","If it hadn't been for you, why, I'd be
+monster grub right now! Well, maybe
+that's an exaggeration—but it feels true!"
+79,SavedLv1_01,"トレジャーハンターともあろう この俺が
+キミに助けられちゃったか！","Fancy that! A seasoned treasure hunter
+like myself, rescued by a wandering hero
+like you! It's the stuff of fairy tales!"
+80,SavedLv2_00,"あぶなかった…けっこうヤバかった…
+キミがいて ほんとよかった！","That was close... A little too close for my
+tastes. I'm lucky you were here for me."
+81,SavedLv2_01,"生きた心地が しなかったよ！
+助けてくれて ありがとな！","I was convinced my treasure-hunting
+days were over! Thanks for saving my
+skin, pal."
+82,SavedLv3_00,"何とか助かったって感じだ！
+もちろん キミのおかげだよ！","I thought for sure I was a goner. I'm
+never going to forget this, pal."
+83,SavedLv3_01,"キミのおかげで命びろいさ！
+…いや大げさでも何でもなく！","This is no exaggeration, but if you
+hadn't come along, I wouldn't be
+alive right now. I just know it."
+84,Talk01,"…ところで キミ！
+
+ガーディアンの残骸とかには
+興味あるかい？","Hey, question for you!
+
+
+Do you have any interest in Guardian
+remains?"
+85,Talk02,他に何かあるか？,Do you need anything else?
+86,Thanks00,ぜひ お礼を受け取ってくれ！,"Please take this as a sign of my
+gratitude."
+87,talk00,やあ！俺はトレジャーハンターのベリスだ！,"Hey. The name's Teli! I'm a bit of a
+treasure hunter, if you get my drift."
+88,talk01,"世界というか この辺りを股にかける
+トレジャーハンター！それが俺！ ベリスだ！","Hey. You're probably wondering, \""Is this
+the guy everyone's talking about?\""
+
+\""The dashing treasure hunter Teli, with
+his roguish good looks?\"" Yep, that's me."

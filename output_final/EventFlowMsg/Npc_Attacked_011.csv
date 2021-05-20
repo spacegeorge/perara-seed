@@ -1,0 +1,137 @@
+#,Title,JPja,USen
+1,After00,"何とか助かったが
+ここらが潮時か…","We're all right... We should count
+ourselves lucky for that."
+2,Atacked00,"くそ！ こいつら
+突然出てきやがって！ なんだってんだい！","These things came out of nowhere! Mils!
+What happened to keeping lookout?!"
+3,Atacked01,"おい ぼーっと見てないで
+この状況なんとかしろ！","Don't just stand there gawking! We got
+a real situation here!"
+4,Failed00,"ふう… まさか こんなところで
+やられちゃうとはね…
+トレジャーハンターの名がすたるな…","Gah... This is really gonna hurt my rep...
+How will I ever live this down?"
+5,Failed01,"くそ… あんなやつらに やられちまうなんて
+そろそろ焼きがまわってきたか…","Of all the shameful ways to go down...
+I must be losing my edge."
+6,GoodBye00,あいつら！次は返り討ちにしてやる！,Hmph. I'll get 'em next time for sure!
+7,Guardian00,"話しかけるんじゃないよ！
+ガーディアンが来るぞ！",Can't talk now! Guardian coming!
+8,Meeting00,"おい！ うだうだ おしゃべりしてないで
+早くお宝を見つけな！","Hey! We're not here for a chin wag!
+Hurry up and find some treasure!"
+9,Meeting02,"この辺りは大厄災が起こる前は
+宿場街として そりゃ栄えてたらしいよ
+だけど今や魔物が多くなって
+すっかり人も寄り付かなくなった…
+だからこそ こういった場所には
+お宝が眠ってるのさ！
+あたいらは そういったお宝を探しあてて
+一攫千金を狙う トレジャーハンターなんだよ
+あんたも あたいらと同じにおいがするけど
+ハイラル城の方に行くのは やめた方がいいよ
+ガーディアンどもが うようよしてて
+生きて帰って来られる保障はないからね","This was once an up-and-coming place
+with lots of folks moving here. But then
+the monsters drove everyone out.
+Which means there's plenty of treasure
+to be had! That's where we come in.We're treasure hunters, searching for a
+one-in-a-million payday. I'm guessing you are too. So as a tip
+from one pro to another, stay clear of
+Hyrule Castle.
+It's protected by things called Guardians.
+If they spot you, all bets are off on
+whether you survive."
+10,Meeting02_01,"この辺りも やられちゃったね
+一昔前までは小さいながらも栄えてたのに…
+最近魔物がどんどん狂暴化してるから
+こういった小さい集落から人がいなくなるんだ
+だけど！""逆にこういった場所には
+お宝が眠ってるのさ！
+あたいらは そういったお宝を探しあてて
+一攫千金を狙う トレジャーハンターなんだよ
+あんたも あたいらと同じにおいがするけど
+ハイラル城の方に行くのは やめた方がいいよ
+ガーディアンどもが うようよしてて
+生きて帰って来られる保障はないからね","Looks like this place is deserted too.
+It was never much to look at, but folks
+used to call it home.
+Not anymore. The monsters going
+berserk everywhere have led to lots of
+abandoned little towns like this one.
+Which is great for us since that means
+there's treasure to be had!We're treasure hunters on the hunt for
+that one-in-a-million jackpot. And so are
+you, I take it?
+A tip from one pro to another: stay far
+away from Hyrule Castle.It's protected by things called Guardians.
+If one spots you, all bets are off on
+whether you survive."
+11,Meeting03,"ガーディアンに見つかったら
+命が いくつあっても足りないっす
+本当に恐ろしい世の中っすねぇ","They say once you're in a Guardian's
+sights, you don't have long to live.
+I get nervous just thinking about 'em."
+12,Meeting04,"あんたは おしゃべりはいいから
+さっさと お宝探しな！","All right, you, go find some treasure,
+or I'll give you something to be nervous
+about!"
+13,Meeting05,"あたいらは お宝を探しあてて
+一攫千金を狙う トレジャーハンターさ
+あんたも お宝を探してるってんなら
+他をあたってくれよ
+だけど ハイラル城の方に行くのは やめときな
+ガーディアンが うようよいるからね","We're treasure hunters, looking out for
+that one-in-a-million score. If you're out
+for treasure too...look someplace else.
+Oh, but not Hyrule Castle, though.
+You don't want to mess with all the
+Guardians out that way."
+14,Near00,なんとか なったな,That was a close call.
+15,Near01,早くしな！,"Hurry it up, Mils!"
+16,PairAtacked00,"あのバカ逃げ遅れやがって
+まったく世話の焼けるやつだ！",That dummy can't even run away right!
+17,PairAtacked01,"おい ぼーっと見てないで
+あいつを助けてやってくれ！","You! Get your rear in gear and go help
+my poor sap of a brother!"
+18,PairFailed00,あのバカ やられちまったか…,That idiot's gone and done it now...
+19,PairFailed01,くそ！ ニルヴァーが…,Ugh! Mils is down AGAIN!
+20,SavedLv1_00,"フフ助太刀されるとは このトンミさまも
+見くびられたもんだな
+まあ これは礼だよ！ とっておきな","Hah! If you think I was in the slightest
+danger, you need to have your eyes
+checked. But I like your style. Here y'go."
+21,SavedLv1_01,"誰が助けてくれって言ったんだい？
+
+フフ まあ そうは言っても
+礼ぐらいは した方がいいかねぇ","Funny, I don't remember asking for your
+help. And now they'll call ME the rude
+one if I don't thank you somehow!"
+22,SavedLv2_00,"ふう… さすがに今のは手ごわかった
+
+礼を言うのは シャクだが
+まあ助かったよ","That got hairier than I expected. You did
+pretty good!Much as it galls me to thank you for
+saving us...that is what happened.
+So, sure, here's a little something."
+23,SavedLv2_01,"あんた なかなかやるじゃないか！
+ちょっと あたいでも危なかったよ
+これは礼だよ とっといておくれ","You've got a way with a sword, don't
+you? I'll admit, I was maybe in a little
+over my head there. Thanks."
+24,SavedLv3_00,"やばかった今の魔物は本当にやばかった
+
+ありがとうよ 
+これは気持ちだ とっておいてくれ！","Calling it now—that monster was the
+worst. There has never been nor ever will
+be a worse monster than that.
+Thanks for having my back before things
+got REALLY ugly."
+25,SavedLv3_01,"おい あんた今のやつをやっつけるって
+いったい何者なんだ？
+あたいの子分にしてやってもいいが…
+これは礼だ とっておいてくれ！","Just where did you learn to take down
+monsters of that caliber?I almost want to invite you to join us for
+a share of the loot... But, nah. This little
+thank-you is all you get."

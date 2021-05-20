@@ -1,0 +1,322 @@
+#,Title,JPja,USen
+1,"""0000""",お願いします,"Yes, please."
+2,"""0001""",けっこうです,"No, thank you."
+3,"""0002""",はい,Yes.
+4,"""0003""",いいえ,No.
+5,"""0004""",他のをお願い,Let me check...
+6,"""0005""",やめます,Never mind.
+7,"""0006""",あれ？,Some...thing?
+8,"""0010""",持ってます！,I have one now!
+9,"""0011""",ゲンキンですね,That's some request...
+10,"""0012""",わかりました！,That's fair. I have one.
+11,"""0013""",やめておきます,Never mind.
+12,talk_00,"ふほぉぉ…長らく狭いつぼみの中に
+入っており窮屈であったぞ…
+おぬしか…？
+ワシを外に出してくれたのは…","Ho ho ho... At last! Free of that tiny
+bud after so long! If my arms were
+corporeal, they'd have cramped for sure!
+And you're the one who set me free, are
+you not?"
+13,talk_00_01,"ほぉ またおぬしか… 
+
+馬の神であるワシに用があるとすれば
+嫌な予感しかせぬが… どれどれ…","It's you again... 
+
+
+Why have you sought me out? Surely
+no ill has befallen your beloved, faithful
+steeds... Let me see..."
+14,talk_00_1,"わが名はマーロン
+この世界に住まう馬たちの神である
+ワシを復活させてくれた
+お礼をせねばならんな…
+どうしてくれようか…","My name is Malanya. 
+I am the god who watches over the
+horses of this world. 
+I suppose you deserve a reward for
+setting me free... What shall I do..."
+15,talk_00_2,おまえを食べてしまおうか？,Shall I make you my meal?!
+16,talk_00_3,"ハッハ冗談である
+
+もし おぬしが大事にしていた馬を
+不注意にも死なせてしまったなら
+その死んだ馬を復活させてあげるとしよう…
+
+ただし…""面白がって
+殺めていた時は……","Hahaha, I only jest...
+
+
+If a horse you love passes away from
+some sort of tragic, fatal accident, it is
+within my power to revive that horse...
+However... If I detect vile intent behind
+the death of your horse..."
+17,talk_00_4,容赦せんからなぁ！,You will suffer my wrath!
+18,talk_00_5,"冗談である…
+
+どれどれ？","I only jest...
+Let me see..."
+19,talk_01,"……
+
+…ほぉ馬を大事に扱っているようだ
+どの馬も元気そうであるな
+馬はトモダチという その心構え
+見事である
+これからも馬と共に生きるのだぞ","...Hrm! I see you're good with horses.
+All seems to be well.
+
+The friendship you established with
+a horse really is extraordinary.
+
+Remember that such a friendship is
+a two-way road. Horses care for you
+as much as you do for them."
+20,talk_02,"……
+
+…ほぉおぬしは馬を一頭も
+所有していないようだな
+馬と共に生きるという選択をしないとは…
+だが それも おぬしの自由ではあるな…
+馬を所有し""愛馬を失ったとき
+また ワシの前に現れるがよい","...Whoa. Do you really not own a single
+horse?
+
+I can't imagine going through the world
+without a faithful steed to keep me
+company... To each their own, I suppose.
+In that case, I, the god of horses, can
+not do much for you who avoids horses
+for some reason.
+If you ever do bond with a horse and
+then tragedy strikes that proud friend,
+you should come see me."
+21,talk_02_00,"…
+
+ヌヌ～馬を死なせてしまっているではないか！","...Neigh! A horse, loyal and true, has
+fallen during your adventures!"
+22,talk_02_01,この場で亡き者にしてやろうか？！,"I could end you, right here
+and now!"
+23,talk_02_02,"冗談である…
+それで馬をよみがえらせたいのか？","I jest, of course...
+Shall I bring a companion back to
+travel with you once more?"
+24,talk_03_00,"そう…馬が死んでしまっても
+何もお前の心に響かないというわけか…","I see. Well, if you ever feel something
+in your soul that resembles equine
+heartbreak...you know where to find me."
+25,talk_03_01,許さんぞ！貴様！,To feel so...is unforgivable!
+26,talk_03_02,"冗談である…
+もし心変わりしたら また来るがよい","I jest... Feel free to return to me
+whenever you'd like."
+27,talk_04,"ヌヌ～馬を持ちすぎておるようである
+
+この世界では 5頭までしか所持できぬという
+決まりがあるのは知っているであろう
+他の馬を手放すのか？","Hrm... It seems like you have too many 
+horses registered.
+
+You do know you are only allowed to
+own five horses in this world, right? It is
+a rule that not even I can change...
+Would you like to set a horse free?"
+28,talk_05,"そうか別れというのは残念な事だ…
+どの馬を手放すのだ？","I see. Letting go of something you love
+is always so bittersweet...
+Which horse would you like to set free?"
+29,talk_06,ほぉ～馬を復活させなくていいのだな？,"Huh? So...you sure you don't need to
+revive a horse?"
+30,talk_07,"ふむ二度と会えなくなるかもしれないぞ？
+それでも いいのだな？","Hrm, you understand that you may never
+get to see the horse again? You're sure?"
+31,talk_08,"ではこの馬は野に放ち…
+晴れて自由の身とする事にしよう
+案ずるなあやつなら一頭でも
+ちゃんと生きていける事であろう","Then I shall free this horse.
+
+
+No need to worry... They are
+strong-willed creatures and more than
+capable of surviving on their own."
+32,talk_09,それでは あらためて聞くとしよう,Then let me ask you again...
+33,talk_09_01,"おぬしが もっとも復活させて欲しいと
+思っている馬は どれであるか？",Which horse do you wish to revive?
+34,talk_10,さあ おぬしが復活を願う馬はどれであるか？,Select a loyal friend to bring back...
+35,talk_11,"ほぉ～この馬は不慮の事故だったようだ
+こういう事は馬の世界でも よくある事
+案ずるな おぬしが悪くないという事は
+この馬が一番知っておる
+この馬を復活させるので よいのだな？","Hrm. I can tell that this horse died due to
+an unexpected accident. Worry not, this
+happens from time to time.
+The horse knows that you did not mean
+for this to happen. Would you like for me
+to revive this horse?"
+36,talk_12_00,"ほぉ この馬を復活させたいのだな？
+
+ん？なになに？
+
+おい！この馬 おぬしに殺められたと
+言っておるぞ？！ なんというやつ！
+また生き返らせて また殺めてなどと
+するつもりか？
+馬はただの走る道具か？家畜か？
+飽きたら ポイか？","So... You would like to revive this horse?
+This one, specifically?
+
+I can do that, of course!
+But... What is this...
+
+This horse says that YOU killed it! You!
+How could you?! Do you plan to revive it
+just to kill it again?
+Are horses only a tool to you? Do you
+treat their noble lives so casually that
+you'd use them and throw them away?
+If I were a horse right now..."
+37,talk_12_01,そんなやつ馬に蹴られて死んでしまえ,I'd kick you in the chest!
+38,talk_12_02,"冗談である…
+たまたま剣先が当たったのだな？
+では この馬を復活させるのでいいのだな？","I...jest.
+
+
+You accidentally struck the horse, I'm
+sure. Would you like to revive this loyal,
+temporarily betrayed friend?"
+39,talk_13_01,"ほぉこの馬を復活させるのでいいのだな？
+
+なんと！爆発に巻き込まれてしまったのだな
+かわいそうに…
+…まさかとは思うが
+おぬしが殺めたわけではないだろうな？","Hrm... Would you like to revive
+this horse?
+
+Oh, goodness! It was caught in an
+explosion? Poor soul...
+
+Not to cast suspicion where none is
+warranted, but...you didn't kill the horse,
+did you?"
+40,talk_13_02,"まさかな…
+まあ おぬしを信じるとしよう…
+それで この馬を復活させたいのだな？","It couldn't be the case.
+I'll give you the benefit of the doubt.
+Would you like to revive this horse?"
+41,talk_14_01,"ほぉ この馬を復活させたいのだな？
+
+なんと この馬 ガーディアンとの戦いで
+勇敢な最後を遂げたようだな
+主人をかばい主人の足となり
+最後の最後まで走り抜けたと言っておる
+まこと…感慨ぶかい…
+
+ただ…おまえがもっと
+上手にあやつっていたら…","Hrm... You want to revive this horse?
+
+
+It seems this brave animal spent its last
+moments in a fight with a Guardian.
+It served its master well. I'm so moved...
+Alas, if you had managed to control this
+loyal beast with more skill..."
+42,talk_14_02,この馬も死なずに すんだのかもな！,I wouldn't have to revive it!
+43,talk_14_03,"冗談である…
+
+さぞ勇敢な馬だったのであろう
+この馬を復活させるのでいいのだな？","I jest...
+
+
+This must have been one brave friend.
+Would you like to revive it and return
+it to your side?"
+44,talk_15,"あい わかった！
+では この馬を復活させてやるとしよう！","Ah, understood!
+Let me bring back this horse!"
+45,talk_16_01,"無事復活させることができた！
+
+今度は死なさないように大事にするのだ！
+馬はパートナーその事を忘れないように
+今度死なせた時は どうなるか…","I was successfully able to bring back 
+the horse!
+
+Next time, don't let the horse die!
+Horses are your partners. Don't forget 
+that.
+If you're careless with their lives, 
+you may regret it..."
+46,talk_16_02,わかってんだろうな？,UNDERSTAND?
+47,talk_16_03,"冗談である…
+さらばだ","I jest...
+For now!"
+48,talk_17_01,"ほぉ またおぬしか…
+
+まさか また馬を復活させて欲しいと
+いうのではないだろうな？
+前は狭いつぼみから出してくれたから
+その礼にと思ってやったまでだ…
+何度も何度も利用できると思うな","Oh, you again...
+You didn't come here to revive a
+horse again, did you?
+I felt I was in your debt before since you
+freed me from that bud and all...but you
+didn't think I'd always help out, right?"
+49,talk_17_02,バカモノ！,I'm very busy!
+50,talk_17_03,"冗談である
+
+まあ おぬしが…
+礼儀をわきまえた人間とみなし
+あれを持って来れば考えてやらんこともない","I jest.
+
+
+I feel that there is respect in your
+heart... If you can bring me something,
+I would consider helping you once more."
+51,talk_20,"わしも こう見えて馬の神様だ
+
+やっぱりなんだ… あれだ…
+ニンジン… わしも一度しか食べたことのない
+ガッツニンジン！
+
+あれをよこすなら考えてやってもいい","I may not look the part, but I am the god
+of horses. I need that uh...that thing...
+
+A kind of carrot... One I've only eaten
+once in all my many years...
+An endura carrot!
+That is what I ask of you. Fulfill this
+request and I will consider helping you."
+52,talk_21,"こちらも それなりに
+体力を消耗するのでな…
+いやならいいのだぞ？
+さあガッツニンジンをよこすのか？","I make it look easy, but it takes a lot of
+energy to revive horses. Sometimes I just
+need a boost before I undo DEATH!
+So are you going to hand over an
+endura carrot?"
+53,talk_22,"よかろうガッツニンジンも持っているようだ
+それでは馬を復活させてやろう","I see you have an endura carrot.
+Allow me to revive your horse."
+54,talk_23,"なんだ… ガッツニンジンを
+持っておらんではないか
+人を… いや馬をからかいおって
+
+ガッツニンジンを持って出直してくるがよい","No you don't! I can tell! You don't even
+have one endura carrot!
+Do you take me for a fool?
+Come back when you aren't a liar!"
+55,talk_24,"なんだ…おぬし復活できる馬はいないようだぞ
+まあ いい心がけではある
+今度馬を死なせたらガッツニンジンを
+持ってくるがよかろう… さらばだ","Huh. Seems like you don't have a horse
+in need of reviving. Well, that was
+well-intended all the same.
+If your horse ever dies, come back with
+an endura carrot... Farewell."
+56,talk_25,"ほぉ おぬし…
+
+馬を復活させたいのなら
+ガッツニンジンが必要だ…
+ガッツニンジンは持ってきたのだろうな？","Huh, you... If you would like to revive
+a horse, you will need an endura carrot.
+
+I assume you brought an endura carrot?"

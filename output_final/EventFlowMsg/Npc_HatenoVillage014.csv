@@ -1,0 +1,102 @@
+#,Title,JPja,USen
+1,"""0000""",普通のベッド,"Regular bed, please."
+2,"""0001""",ふかふかベッド,Yeah...a soft bed!
+3,"""0002""",やめる,Never mind.
+4,"""0003""",朝,Morning.
+5,"""0004""",昼,Noon.
+6,"""0005""",夜,Night.
+7,"""0006""",やっぱりやめる,Actually...never mind.
+8,"""0009""",おつかれさま！,This place is great!
+9,"""0010""",特に何も…,Nothing really...
+10,"""0011""",好きな物は？,What do you like?
+11,"""0012""",理想のタイプは？,Your ideal partner?
+12,near00,…,...
+13,near01,あら…,Ahhh...
+14,near02,いらっしゃいませ,Welcome!
+15,talk00,"お客様お手持ちの青い炎は
+他のお客様のご迷惑に なりかねません
+捨てるか片付けてから ご入店くださいませ","Sir, that blue flame you are carrying
+could disturb our other guests. Please
+dispose of that before coming in."
+16,talk01,"トンプー亭へ
+ようこそ おいでくださいました",Welcome to Ton Pu Inn.
+17,talk02,"かしこまりました
+またのお越しを お待ちしております",Come back again soon.
+18,talk03,"それでは前金でいただきますね
+
+…失礼ですが
+ルピーが足りないみたいですよ？
+またのご来店を お待ちしております","...I'll take your payment now... 
+
+
+Ah, I'm sorry...but it looks like you don't
+have enough rupees.
+
+Come back again anytime."
+19,talk04,"かしこまりました
+普通のベッドのお部屋一泊一名様ですね
+お目覚めは いつ頃をご希望でしょうか？","Very good. One regular bed. One guest.
+When would you like to be woken up?"
+20,talk05,"かしこまりました
+ふかふかベッドのお部屋一泊一名様ですね
+お目覚めは いつ頃をご希望でしょうか？","Very good. So that'll be one extra-soft
+downy bed for one. And when would
+you like to be woken up?"
+21,talk06,"かしこまりました
+
+お時間までごゆっくり
+お寛ぎくださいませ",Please enjoy your stay.
+22,talk07,おはようございます,Good mornin'.
+23,talk08,よく眠れましたか？,Did you sleep well?
+24,talk09,ご出発ですね？,You look very well rested.
+25,talk10,"またのお越しを
+心よりお待ちしております",Come back again soon.
+26,talk11,"お客様そのような行為は
+他のお客様のご迷惑になります
+どうか お止めくださいませ","Sir, your behavior could disturb our other
+guests. I must ask that you stop that."
+27,talk12,ホント迷惑…,What is this guy's problem...
+28,talk13,…お客様？私に何か？,Sir...did you need something from me?
+29,talk14,しつこいなー…,Do the lunatics only come in during my shift?
+30,talk15,かしこまりました,Sounds good.
+31,talk16,お気遣い ありがとうございます♪,"Oh, thank you for being so kind!"
+32,talk17,"宿を ご利用の際は
+カウンター越しに お話しくださいませ","If you would like a room, we can work
+that out...if you could just step to the
+other side of the counter."
+33,talk18,"何なの いきなり？
+こういうときは適当に答えちゃお…","Why is he asking? Whatever, I'll just say 
+something random..."
+34,talk19,"えっと…私が好きなのは
+…バッタでございます
+ガンバリバッタ100匹に囲まれて暮らすのが
+夢でございます","I'll tell you something that I really like...
+Crickets.
+
+It's my dream to have my very own
+collection of 100 restless crickets."
+35,talk20,んなワケないでしょ…,As if...
+36,talk21,しつこいお客さんだなー…,What's the deal here? Why so persistent?
+37,talk22,少なくとも マンサクはないかな…,Well definitely not Manny anyway...
+38,talk23,仕事中なんですけど…,I need to get rid of this guy...
+39,talk24,しいて言えば シモツケさんかな～…,"If I had to choose, maybe Medda..."
+40,talk25,"普通のベッドなら20ルピー
+ふかふかベッドなら40ルピーです","A regular bed is 20 rupees. Or, if you're
+looking for a more relaxing and
+restorative mind and body experience...
+You can have one of our extra-soft
+downy beds for 40 rupees."
+41,talk26,え…いきなり なんなの？,What is this all about...
+42,talk27,"えーと…包容力のある人？
+でしょうか","Maybe someone who's very...patient,
+I guess?"
+43,talk28,"えーと…優しい人？
+でしょうか","Maybe someone who's kind, perhaps?"
+44,talk29,"えーと…子供好きな人？
+でしょうか","Well...someone who likes kids, maybe?"
+45,talk30,"えーと…働き者？
+でしょうか",Someone who is a hard worker?
+46,talk31,おはようございます,Good morning.
+47,talk32,こんにちは,Hullo!
+48,talk33,こんばんは,Good evening.
+49,talk34,雨の中 お疲れ様でした,Thanks for coming here in the rain.

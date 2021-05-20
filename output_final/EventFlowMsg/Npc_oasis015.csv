@@ -1,0 +1,169 @@
+#,Title,JPja,USen
+1,"""0007""",けっこうです,"No, thank you."
+2,"""0008""",色違い？,A different color?
+3,"""0009""",買い取って,Buy from me.
+4,"""5500""",はい,Sure!
+5,"""5501""",いいえ,No.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5508""",ぜんぶ売る,All of them.
+8,Com_Talk_00,どちらのお品ですかぁ～？,Which item?
+9,Com_Talk_01,"ですね？
+ルピィ～になりますがよろしいですか？","I can do  rupees.
+Is that all right?"
+10,Com_Talk_02,"サ～クサ～ク
+他にも何かありますか～？","Sarqso.
+Did you need anything else?"
+11,Com_Talk_02b,サァ～クサァ～ク,"Please feel free to show me anything
+you'd like to sell."
+12,Com_Talk_02c,"良い物を買い取らせていただいて
+サァ～クサァ～ク","No problem at all—I'll buy as many
+as you like."
+13,Com_Talk_02d,"良い物を買い取らせていただいて
+サァ～クサァ～ク",Sarqso for the sale.
+14,Com_Talk_04,"もちろん それでも
+かまいませんよぉ～",Of course. I don't mind.
+15,Com_Talk_05,"じゃあ…
+他のを買い取りましょうか～？","Was there something else you wanted
+to sell me?"
+16,Com_Talk_05b,何でもおっしゃってくださいねぇ～,Sarqso.
+17,Com_Talk_05c,"いくらでも喜んで
+お買取りさせていただきますよぉ～",I truly appreciate your business.
+18,Com_Talk_05d,"他にもございましたら
+ぜひぃ～","I've never seen such beautiful items.
+Sarqso!"
+19,Com_Talk_13,"ですね～？
+おいくつですか～？",How many?
+20,Com_Talk_14,"が個だと
+合計ルピィ～になりまぁ～す","OK, so  of them? I can do...
+ rupees!"
+21,Com_Talk_15,"ごめんなさい
+それは うちでは買い取れないんですよぉ～","I'm sorry, but I can't buy that from you."
+22,Com_Talk_16,"ごめんなさい
+着用されているのは買い取れないんですよぉ～","I'm sorry, but I can't buy clothes that
+you're wearing. There's \""used,\"" and then
+there's buying them right off your body."
+23,Com_Talk_33,"お1つでしたら
+ルピィ～になりまぁ～す",One is worth... rupees. OK?
+24,Com_Talk_35,"を個全部なら
+合計ルピーでお買い取りしますよ～？","I'll buy all  of those for a total of
+ rupees!"
+25,Com_Talk_60,"でしたら
+ルピィ～になりまぁ～す","Ah yes, it'll be  rupees."
+26,Com_Talk_61,"それもアリだと思いますぅ～
+迷うのも ショッピングの楽しみですもんねぇ～","I completely understand. It's part of the
+fun of shopping to go back and forth
+on a purchase."
+27,Npc_oasis015_003,"今日も冷えますねぇ～
+こんな夜は酒場で一杯いきたいですよね～","It's so nice and cool this evening, isn't
+it? On nights like this, I like to relax
+and grab a drink at the canteen."
+28,Npc_oasis015_004,"毎度 ご贔屓いただき サァ～クサァ～ク
+その淑女の服 すっごいお似合いですねぇ～
+色違いで もう1着とか如何ですかぁ～？","Oooh, that Gerudo top looks really good
+on you...
+
+But you haven't really lived until you've
+got several colors to choose from!
+What do you say?"
+29,Npc_oasis015_006,"ご存知ないんですかぁ～？
+
+お洋服の色を変えるのはぁ～
+ヴァーイの間で超トレンドですよぉ～？
+ハテノ村の東風屋さんってところで
+色を染めてくれるんですよぉ～
+ここからじゃ ちょっと遠いから
+私たちは滅多に行けないんですけどねぇ～","You don't know? Really?!
+
+
+Changing the color of your clothes is a
+really trendy thing to do right now
+for young vai traveling beyond town! 
+There's a store in Hateno Village—the
+Kochi Dye Shop—where you can dye
+your clothes!
+Hateno Village is pretty far away, though.
+Not everyone gets to go there..."
+30,Npc_oasis015_007,"今日も暑いですねぇ～
+
+こんな日は酒場でキンキンのを
+キュッ といきたいですよねぇ～","It's really hot today, isn't it? Makes me
+want to get an ice-cold something from
+the canteen."
+31,Npc_oasis015_008,よろこんでぇ～！,Gladly!
+32,Npc_oasis015_009,他にも何か ご用ですかぁ～？,Anything else you need?
+33,Npc_oasis015_010,他にも何か ご用ですかぁ～？,Anything else you need?
+34,Npc_oasis015_011,サヴォッタ！,Sav'otta!
+35,Npc_oasis015_012,サヴァ～ク！,Sav'aaq!
+36,Npc_oasis015_013,サヴァサァ～バ！,"Sav'saaba!
+"
+37,Npc_oasis015_014,"それにしても ホントにお似合いですねぇ～
+色違い用にもう一着！絶対買うべきですよぉ～","Geez, it looks really good on you!
+How about one more to try in a
+different color! You've got to buy it!"
+38,Npc_oasis015_015,"色違いでお洋服を着こなすのが
+今のトレンドですよぉ～
+淑女の服をもう1着如何ですかぁ～","It's the trend now to create a stylish
+wardrobe by arranging different colors.
+Why not buy one more Gerudo top?"
+39,Npc_oasis015_016,"ただ今淑女の服は完売しておりまぁ～す
+
+お洋服をたくさんお持ちなら
+色違いで揃えておくのも良いかと思いますよぉ～","All our Gerudo clothing is sold out now.
+
+
+If you already have a lot of clothes, you
+should think about filling out your
+wardrobe with different colors instead."
+40,Npc_oasis015_017,"ナボリスちゃん
+すっかり大人しくなっちゃいましたけど
+何があったんでしょうね？
+
+でも これでお客さんも増えそうですし
+私も頑張らないと！
+お客さんも せっかくですし
+色違いで もう一着如何ですか？","Little Naboris is acting all calm and
+proper now...
+I wonder what happened.
+Anyway, it looks like I'll be getting more
+customers, so I've got to do my best,
+too!
+As long as you're here, why don't you
+see about getting another outfit in a
+different color?"
+41,Npc_oasis015_018,"ナボリスちゃん
+すっかり大人しくなっちゃいましたけど
+何があったんでしょうね？
+
+でも これでお客さんも増えそうですし
+ウチも早く新しいお洋服仕入れないと ですね～
+できれば色違いで数着仕入れられたら
+理想なんですけどね～","Little Naboris is acting all calm and
+proper now...
+I wonder what happened.
+Anyway, it looks like I'll be getting more
+customers, so I'd better hurry up and
+restock my shop!
+I think I'll try and restock it with a
+bunch of outfits in different colors."
+42,Npc_oasis015_019,ヴァ～サ～ク！,Vasaaq!
+43,Npc_oasis015_Near01,お客さんこっちこっち,Over here!
+44,Talk_01,サァ～クサァ～ク,Sarqso.
+45,Talk_02,"お洋服はシリーズでまとめて着るのが
+おススメですよぉ～","I recommend wearing all the items from
+a particular series as a set!"
+46,Talk_07,"同じシリーズで色違いのお洋服を着るのも
+オシャレヴァーイのテクニックですよ～","It's also a fashionable thing among vai
+lately to wear different colors of clothes
+that are from the same set."
+47,Talk_08,"色は色々変えられますので
+同じお洋服は何枚あっても困りませんよぉ～","You can always change the color of an
+item, so there's really no reason not to
+own several of the same thing!"
+48,Talk_09,"あ～ お客さん
+そこからは入れないんですよぉ～
+…会員さんなら裏口からお願いしますね","Ah, um, that doorway isn't for
+customers, actually...
+
+If you're a member, please head around to the
+door on the side."
+49,Talk_10,今後ともご贔屓にぃ～,I hope to do business with you again.

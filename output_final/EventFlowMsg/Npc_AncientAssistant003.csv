@@ -1,0 +1,142 @@
+#,Title,JPja,USen
+1,"""0000""",見せて,Show me the goods.
+2,"""0002""",そんな感じ,Something like that.
+3,"""0003""",違います,Not really.
+4,"""0006""",売りに来た,I'm looking to sell...
+5,"""0007""",さようなら,Good-bye.
+6,"""5500""",売る,I'll sell.
+7,"""5501""",売らない,No.
+8,"""5502""",買う,I'll buy.
+9,"""5503""",やっぱりやめる,Never mind.
+10,"""5508""",ぜんぶ売る,I'll sell them all.
+11,Com_Talk_00,オッケー！見せて！,OK! Let me see!
+12,Com_Talk_01,"を売りマス？
+ルピーに なるけどオッケー？","Hrm...how many rupees can I offer?
+I think...! Deal?"
+13,Com_Talk_02,サンキューです！,Thank you!
+14,Com_Talk_02b,イェアー！,Yeah!
+15,Com_Talk_02c,グッド！,Good!
+16,Com_Talk_02d,サイコーデス！,Great!
+17,Com_Talk_04,わかりマシた！,Understood!
+18,Com_Talk_05,何でも買い取りマス！,I'll buy anything!
+19,Com_Talk_05b,見せてくだサイ！,Please show me!
+20,Com_Talk_05c,ポーチの中は どうデス？,How about in your pouch?
+21,Com_Talk_05d,選ぶの お間違い無く！,Don't make a mistake when choosing!
+22,Com_Talk_06,さぁ どれにしマス？,So what'll it be?
+23,Com_Talk_07,ソーリー…もう無くなりマシた,"Sorry... I'm all sold out of that at the
+moment..."
+24,Com_Talk_08,"オー…
+残念ながら ルピーが底をついてマス…","Oh...
+Looks like you're out of rupees."
+25,Com_Talk_09,"ユーは ポーチが いっぱいデス…
+ポーチ からっぽにして来てネ！","Hrm. Your inventory is full...
+Make some room in your inventory, and
+then come back and see me!"
+26,Com_Talk_10,を買いマスね？,"You're interested in that, then?"
+27,Com_Talk_11,マイダーリー！,My darling!
+28,Com_Talk_11b,きっと お似合いデス！,I'm sure it will look good on you!
+29,Com_Talk_11c,気に入ってくれると嬉しいデス！,I'll be so happy if you like it!
+30,Com_Talk_11d,マイド！お目が高いデスネ！,Thank you! You have a discerning eye!
+31,Com_Talk_12,それじゃ どうぞー！,Here ya go!
+32,Com_Talk_13," ネ？
+いくつ売ってくれマス？",How many will you sell me?
+33,Com_Talk_14,"を個で
+合計ルピーだけど オッケー？","That's worth a rupee or two.
+Let's say...?"
+34,Com_Talk_15,ソーリー…それは買い取り不可能デス,I'm sorry. I can't buy that from you.
+35,Com_Talk_16,ノー！着てる服は脱いでくだサイ！,"Nooo! Take off the clothing that 
+you are wearing!"
+36,Com_Talk_33,"を お1つです？
+それならルピーで買い取るヨ！","Just one, then? In that case,
+I think  rupees is a fair price!"
+37,Com_Talk_35,"を個 オールで
+ルピーで買いマス！",I'll buy all of that for  rupees!
+38,Com_Talk_36,"ヤァ！それでフィニッシュ！
+ぜんぶ売れて ミーは歓喜デス！","Yeah! All sold out! I'm always so happy
+when I sell everything!"
+39,Com_Talk_37,"ソーリー…今日は売るものナッシングね
+今後仕入れる予定のブツ見マス？","Sorry... I've got nothing left to sell today.
+I can show you what I'll have soon, if
+you like..."
+40,near00,♪～,♪
+41,talk00,ヤァ！グッドモーニング！,Hey! Good morning!
+42,talk01,ヤァ！ハロー！,Hey!
+43,talk02,ヤァ！グッドイブニング！,Hey! Good evening!
+44,talk03,ヤァ！,Hey!
+45,talk04,"ミーの超ギガレア防具コレクション
+見て行きマス？","Do you want to take a look at my
+rare-armor collection? It's incredible!"
+46,talk07,"ホワッツ？
+ユーは初めましてだネ？
+ミーは グラネット言いますネ
+駆け出しダッシュの古代文明研究者ヨ
+修行の身だからして ダディに言われて
+世界を見て回ってるとこなんだ
+ユーも見たところ…
+全国を練り歩いてるのかい？","Huh, what?!
+Oh, nice to meet you!
+
+I'm Granté, a dashing, novice researcher
+of ancient civilizations! I've still got a lot
+to learn, though...
+That's why my father told me to go out
+and see the world!
+
+Are you also making your way
+through the world?"
+47,talk08,オゥ！一緒？！ミーは歓喜！,"Oh! You too, huh?
+I'm beside myself with glee!"
+48,talk09,オゥ！ミーは落胆！,Oh! That's heartbreaking to hear!
+49,talk10,"とにかくユーも こんな所に来ちゃうって事は
+遠路はるばる お疲れ様！
+じゃぁさミーが行く先々でゲットしてきた
+超ギガレアな防具格安で譲ってあげマスよ？
+きっと ユーの旅でも役に立つと思われマス！","Anyway, you must have come a very long
+way to get here!
+
+Hey! How about, as a reward, I let you
+buy my ultra-rare armor at a decent
+price? Sound like a good deal?
+I'm sure you'll find a good use for it on
+your journey!"
+50,talk11,他に御用で？,Something else? Maybe the armor?
+51,talk13,オッケー！今の手持ちは これオンリーだね！,OK! I only have this right now!
+52,talk14,それではまた会いましょ！シーユー！,I hope to meet you again! See ya!
+53,talk15,"グー…グー…ママ…
+ドクロ池""怖いデース","*snore...snore* Mama...
+The Skull Lake is scaaaawy."
+54,talk16,ドンちゃん…くすぐったいヨむにゃ…,Donny... That tickles! Hummm...
+55,talk17,"グー…グー…ダディ…
+青い炎は もうカンベン…","*snore...snore* Daddy...
+Give me a break with the blue flame..."
+56,talk18,"グー…グー…ダディ…
+
+木の矢で青い炎つけても…
+いーじゃない…むにゃ…","*snore...snore* Daddy...
+Can't I light the blue flame with an arrow...
+Hmmm..."
+57,talk19,"ハイ！
+
+しかし ミーはもう おねむですからして…
+また今度ネ","Hi! It's great to see you! Except...
+
+
+I'm going off to sleepy land now...
+Until next time!"
+58,talk20,"ミーはもう おやすみなさいデス
+
+ユーも カポーダさんに
+泊めてもらうといーネ","Now I sleep!
+Go and talk to Kapson.
+He'll put you up for the night."
+59,talk21,それから…,Also...
+60,talk22,"珍しいクライムなんとか っちゅー装備も
+一式 ありますヨ","I'm looking to get a set of rare armor
+in stock soon! It's called...umm...
+climb something or other..."
+61,talk23,"最近蛮族なんとか っちゅー珍しい装備も
+一式手に入れましたヨ","A complete set of rare gear, called
+barbarian...something or other."
+62,talk24,"ラバーなんとか っちゅー装備も
+一式 ゲットしましたヨ","I got a complete set of this rare gear.
+It's rubber...something-something."

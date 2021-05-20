@@ -1,0 +1,104 @@
+#,Title,JPja,USen
+1,"""0000""",買いたいです,I want to buy.
+2,"""0001""",売りたいです,I want to sell.
+3,"""0006""",さよなら,Good-bye.
+4,"""5500""",はい,Yes.
+5,"""5501""",いいえ,No.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5508""",ぜんぶ売る,All of them.
+8,Com_Talk_00,"それで…
+どの品を買い取ればいいですか？",So... What do you want to sell?
+9,Com_Talk_01,"なら
+ルピーですが よろしいですか？","Let's say... rupees. 
+Is that OK?"
+10,Com_Talk_02,サークサーク…,Sarqso...
+11,Com_Talk_02b,……サークサーク,Sarqso.
+12,Com_Talk_02c,…サークサーク,Sarqso.
+13,Com_Talk_02d,サークサーク,Sarqso.
+14,Com_Talk_04,……,"Please, let's do this quickly..."
+15,Com_Talk_05,できれば手早くお願いします,Well?
+16,Com_Talk_05b,まだございますか？,Still deciding?
+17,Com_Talk_05c,"もうそろそろ
+よろしいでしょうか？",Are you almost done now?
+18,Com_Talk_05d,できればそろそろ…,Maybe we could start to wrap this up...
+19,Com_Talk_13,"ですね？
+おいくつですか？",How many of that? 
+20,Com_Talk_14,"は個で
+ルピーですが よろしいですか？","That's  of them, then?
+That'll be  rupees, OK?"
+21,Com_Talk_15,…それは ウチでは扱っていません,We don't stock that item.
+22,Com_Talk_16,…脱いできてください,Please take it off.
+23,Com_Talk_33,"をお1つだけなら
+ルピーですが よろしいですか？",One will be  rupees.
+24,Com_Talk_35,"""個全部ですね？
+合計ルピーで如何ですか？","So..., then? 
+How about  rupees for them?"
+25,Com_Talk_50,"は
+ルピーですが よろしいですか？","That'll be  rupees.
+Will that be OK?"
+26,Com_Talk_53,…わかりました,...Well then.
+27,Near001,…,...
+28,Talk_01,"……
+
+あら…
+失礼しました
+ヴァーサーク","...Oh...
+Oops, sorry... Vasaaq."
+29,Talk_03,"…今忙しいので
+ご用がある場合のみ お声掛けいただけますか？","I'm busy right now. Please only speak to
+me if you need something."
+30,Talk_06,"商品はそこにあるだけですよ
+
+まとまった本数の矢がご入り用でしたら
+ゲルドの街でお求めください","I only sell arrows. They're on the counter
+to your left. If you're looking for
+something else, try Gerudo Town."
+31,Talk_09,"サークサーク
+またのご利用を心からお待ちしております","Sarqso. I look forward to your
+future patronage."
+32,Talk_10,"サークサーク
+お買い上げ誠に感謝いたします","Sarqso. I really appreciate your
+business."
+33,Talk_12,…まだ他にも何かご用ですか？,Did you need something else?
+34,Talk_13,"…またのご利用
+心よりお待ちしております",...Come back soon.
+35,Talk_14,"……
+
+あら…
+ヴァーサーク
+その服…
+
+良くお似合いで…","...Oh...
+Vasaaq. Those clothes...
+
+They look quite good on you..."
+36,Talk_15,"……
+
+あら…
+失礼しました
+何かご用ですか？","...Oh...
+
+
+Sorry. Did you need something?"
+37,Talk_16,"……
+
+その服…
+良くお似合いで…
+それで何かご用ですか？","...Those clothes...
+They look really good on you...
+
+Anyway, can I help?"
+38,Talk_17,サークサーク,Sarqso.
+39,Talk_18,"またのご利用
+心からお待ちしております",I look forward to our future dealings.
+40,Talk_19,"商品は そこにあるだけですから
+ないなら売り切れですね
+まとまった本数の矢が ご入り用でしたら
+ゲルドの街でお求めください","I only have what's out on the counter.
+If the counter's empty, I'm sold out.
+
+If you want to buy more than one arrow
+at a time, you should go to Gerudo Town."
+41,Talk_20,"……ヴォーイは
+ゲルドの街には入れませんけどね…","Oh, right... Voe aren't allowed in
+Gerudo Town."

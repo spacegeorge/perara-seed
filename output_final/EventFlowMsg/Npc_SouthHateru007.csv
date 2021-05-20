@@ -1,0 +1,196 @@
+#,Title,JPja,USen
+1,"""0000""",ブラッディ…？,Blood moon?
+2,"""0001""",見たことある,I've seen it.
+3,"""0002""",さようなら,Good-bye.
+4,"""1000""",ブラッディムーンとは？,Blood moon?
+5,"""1001""",今夜の月は？,Tonight's moon?
+6,"""1002""",さようなら,Good-bye.
+7,BloodyMoon00,"赤い満月の深夜0時に空が血の色に染まる
+それがブラッディムーンだ
+その度に魔物たちは何度もよみがえり
+倒しても倒しても きりがない…
+今や誰も この現象を不思議に思わないようだが
+私は研究を諦めないつもりだ","Whenever the clock strikes midnight on
+unlucky nights, the sky turns blood red.
+That's the blood moon.
+When that happens, monsters come back
+to life, no matter how many times you've
+defeated them.
+It's happened for so long now that no
+one really pays it any mind, but I have no
+plans to give up on my research."
+8,BloodyTalk00,赤い…赤いぞーー！,"It's...so...RED!
+So gloriously RED!"
+9,BloodyTalk01,血が…血が騒ぐーー！,My blood...it's boiling!
+10,BloodyTalk02,魔物よ よみがえれーー！,"Arise, monsters!"
+11,BloodyTalk03,ガ… ガ… ガ…！,Gr...gr...gr...
+12,FirstTalk00,む～ん…,Hmm...
+13,FirstTalk01,"あっ失礼…
+
+考え事をしていて気づかなかった
+許してくれたまえ","Oh, sorry...
+
+
+I didn't notice you... I was a bit lost in
+thought there."
+14,FirstTalk01_1,なんだね… キミは,What's up?
+15,FirstTalk02,"私は あのブラッディムーン現象の謎を探るため
+日夜研究に励んでいるのだ","I've been doing rigorous research day
+and night to figure out the mystery of 
+that blood moon."
+16,FirstTalk03,"なんだ知らないのか？！
+
+それは いけない
+私の話を聞いていきたまえ","You don't know it?
+
+
+That's inexcusable. Listen up and I'll tell
+you about it."
+17,FirstTalk04,"む～ん…
+今知ったかぶりしなかったか？
+まあいい
+私の話を聞いてくれたまえ","Hmmm... Are you just pretending to
+know what I was talking about?
+
+That's fine, so long as you'll listen to me
+now while I tell you about it."
+18,FirstTalk05,"む～ん…
+まあ そう言わずに話を聞いていきたまえ","Hmm...
+All the same, take a minute and listen
+while I tell you about it."
+19,FirstTalk06,"大厄災の あの日以来…
+月齢によらずに赤い満月が昇ることがあるのだ
+そして深夜0時になると
+空が血に染められたように真っ赤になり…
+その瞬間から
+倒したはずの魔物たちが よみがえる…","For 100 years now, every so often when
+the clock strikes midnight, the sky turns
+red and a full moon rises...
+At that moment, monsters that had been
+previously defeated will come back
+to life."
+20,FirstTalk07,それが血の満月なのだ！,"And that's what is known as the
+blood moon!"
+21,FirstTalk08,"なぜ魔物たちが復活するのか…
+なぜ突然赤い満月の夜になるのか…
+そんな事さえ解明されていない
+まだまだ謎が多い現象なのだ
+君もブラッディムーンについて何か分かったら
+いつでも報告しに来てくれたまえ","Why do the monsters return to life? 
+Why does it only happen when the sky
+turns red?
+No one really has the answers to those
+questions. It's a mysterious
+phenomenon...
+If you learn anything about the blood
+moon as you travel, be sure to come
+back and tell me."
+22,GoodBye00,"むーん…
+
+あっ私としたことが…
+
+月のことばかり考えているせいか
+つい言ってしまうのです","Hmm...
+
+
+Oh, I'm sorry...
+
+
+I spend so much time thinking about the
+moon that it's all I can talk about."
+23,GoodBye01,むーん…,Hmm...
+24,Moon00,"見たまえ！
+いよいよブラッディムーンだ…","Tonight is the blood moon, at last..."
+25,Moon00_After,"ブラッディムーンは終わってしまった…
+また次に起きるのは いつだろうか…","The blood moon has come and gone.
+Time to start waiting for the next one..."
+26,Moon00_Befor,"この胸騒ぎ…
+今夜は何かが起こりそうな気がする…","I'm getting that feeling again...
+Something is going to happen tonight.
+I can taste it!"
+27,Moon00_Full,"今夜は満月…
+
+今にも落ちてきそうな その豊満な丸み
+それもまた いいものだ…","Tonight is a full moon...
+
+
+Looks like it could come falling down any
+minute. I can't take my eyes off of it."
+28,Moon01,"今夜は十六夜…
+
+昨日の満月からは少し欠けてしまったが
+それもまた いいものだ…","Tonight's moon will be a little smaller
+than yesterday's full moon. It's nice in
+its own way, really..."
+29,Moon02,"今夜は下弦の月…
+
+天のまた天を狙う弓 とでもいったところか
+それもまた いいものだ…","Tonight is the third-quarter moon.
+Like a bow aiming for the heavens above."
+30,Moon03,"今夜は有明月…
+
+あの くびれたライン
+それもまた いいものだ…","Tonight is the 26th-day moon...
+Its sloping line is really wonderful."
+31,Moon04,"今夜は新月…
+
+見えないが そこにはある
+それもまた いいものだ…","Tonight is a new moon...
+Even though we can't see it, isn't it
+great just knowing it's there?"
+32,Moon05,"今夜は三日月…
+
+何とも美味しそうな形
+それもまた いいものだ…","Tonight is a crescent moon...
+That shape makes me hungry for some
+reason..."
+33,Moon06,"今夜は上弦の月…
+
+大地を狙う雄々しい弓 とでもいったところか
+それもまた いいものだ…","Tonight is a seven-day moon...
+Like a bow aiming for the land below,
+it really is quite beautiful."
+34,Moon07,"今夜は十三夜…
+
+明日の満月に向けて もう満ちる事しかない
+それもまた いいものだ…","Tonight is the 13th-day moon...
+Now it will slowly expand. So beautiful..."
+35,Near00,む～ん…,Hmm...
+36,Near01,Zzz... Zzz...,ZZZzzz...
+37,Near02,今宵は…,Tonight...
+38,Near03,雨か…,Rain...
+39,Near04,雨だ！,Rain!
+40,Near05,寝よ…,I'm sleeping...
+41,Near06,ブルゥアッディーー！,BLOOD!
+42,Near07,キタキタキターー！,Here...it...COMES!
+43,Rain00,"む～ん…
+このままでは月は見られないな",Hmm... Can't see the moon like this.
+44,Rain01,雨宿りするから話は後だ！,"I'm taking cover from the rain!
+We'll talk later!"
+45,Rain02,雨で見られないのだよ！,Can't see anything in this rain!
+46,Talk00,"ああ君か…
+私の研究に興味があるのかい？","Oh, you again...
+Are you interested in my research?"
+47,Talk01,さあ何でも聞いてくれたまえ,"Well, ask me anything."
+48,Talk02,"ああ君か…
+そろそろ月が出るぞ","Oh, you again.
+The moon is about to come out..."
+49,Talk03,"ああ君か…
+どうだい美しい月だろう？","Oh, you again.
+A beautiful moon tonight, isn't it?"
+50,Talk03_1,"あ… き…君も…
+ブラッディムーンを研究していたのかい？","Oh... You were researching the
+blood moon, as well?"
+51,Talk04,"ああ…
+今日は月が沈んでしまった…","Oh...
+It looks like the moon has already
+disappeared today..."
+52,Talk05,他に聞きたいことは？,Anything else you want to ask?
+53,Talk06,"何だい今夜の月の研究に備えて
+今から寝るところなのだが…","What is it? I was just about to get some
+sleep so I can be rested for researching
+the moon tonight..."
+54,Talk07,"何だい今夜の月の研究に備えて
+寝てたのだが…","What is it? I was just sleeping so I'd be
+well rested for researching the moon
+tonight..."

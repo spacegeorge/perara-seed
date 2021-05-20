@@ -1,0 +1,6 @@
+#,Title,JPja,USen
+1,"""0000""",直前にセーブされた状態にもどります,Continue from last save.
+2,"""0001""",ゲームをやめて タイトルにもどります,Return to title screen.
+3,Pa_Btn_00-T_Btn_00,リトライする,Continue
+4,Pa_Btn_02-T_Btn_00,ゲームをやめる,Quit
+5,T_GameOver_00,Game Over,Game Over

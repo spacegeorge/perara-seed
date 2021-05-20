@@ -1,0 +1,120 @@
+#,Title,JPja,USen
+1,"""0000""",買いに来た,I want to buy.
+2,"""0001""",売りに来た,I want to sell.
+3,"""0002""",ここって？,What is this place?
+4,"""0003""",さようなら,Good-bye.
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5508""",ぜんぶ売る,All of them.
+9,Com_Talk_00,どれを売ってくれるゴロ？,What do you wanna sell?
+10,Com_Talk_01,"ゴロね
+ルピーでいいゴロか？",Does  rupees sound OK?
+11,Com_Talk_02,ありがとゴロ！っと,"Thanks, brother!"
+12,Com_Talk_02b,買い取り完了ゴロ！っと,You done sellin'?
+13,Com_Talk_02c,りょーかいゴロ！っと,Ah. Thank you.
+14,Com_Talk_02d,まいどゴロ！っと,"Thanks, little guy."
+15,Com_Talk_04,あら残念ゴロ,"Ah, OK. That's too bad."
+16,Com_Talk_05,どれを売るゴロ？,What are ya sellin'?
+17,Com_Talk_05b,他に売るもん あるゴロ？,Anything else you wanna sell?
+18,Com_Talk_05c,もっと売るゴロ？,Wanna sell anything else?
+19,Com_Talk_05d,他はどうするゴロ？,Anything else?
+20,Com_Talk_13,"ゴロね？
+いくつゴロ？",How many?
+21,Com_Talk_14,"なら個で
+ルピーゴロ！売るゴロ？",I can offer you  rupees. 
+22,Com_Talk_15,悪いけどそれは あつかってないゴロ,"Sorry, but I'm not interested in those."
+23,Com_Talk_16,今着てない服しか買い取れないゴロ,"...I'm not gonna buy the clothes that
+you're wearin'. For obvious reasons."
+24,Com_Talk_33,"を1つゴロ？
+それならルピーゴロ！","Just the one, right? I'll give you
+ rupees for it!"
+25,Com_Talk_35,"を個全部ゴロ？
+そんなら合わせてルピーで買い取るゴロ","So all of 'em? I'll buy those off ya for
+ rupees."
+26,Com_Talk_60,"ゴロね？
+ルピーで いいゴロ？",How does  rupees sound?
+27,Com_Talk_61,あら残念ゴロ,"Aww, that's too bad."
+28,near00,らっしゃいゴロ～,Come on in.
+29,talk00,"防具屋ガッチムッチへようこそゴロ！
+俺っちに御用ゴロ？","You have the privilege of standing in
+Ripped and Shredded, my armor shop.
+How can I help ya?"
+30,talk01,"遅くまで お疲れゴロ！
+防具屋ガッチムッチは24時間営業ゴロ！","Out late, I see. Lucky for you,
+Ripped and Shredded is open
+for business 24 hours a day!"
+31,talk02,また来るゴロ！,Stop by again!
+32,talk06,見ての通り防具屋ゴロ！,"As you can see, this here is my
+armor shop."
+33,talk07,他に御用はあるゴロ？,Do ya need anything else?
+34,talk09,"とはいえ俺っち達普段は裸だから
+観光客向けに耐火用の防具を売ってるゴロ
+特にオススメは耐火の石靴！
+ここで採れる宝石を ふんだんに使ってるゴロ！
+耐火性能は まぁまぁゴロが…""履くだけで
+世界のセレブからも一目置かれる一品ゴロ！","Funny thing is, Gorons normally don't
+wear anything at all. We started sellin'
+flame-resistant armor for the tourists.
+I recommend the flamebreaker boots
+over all else. They're made using
+gems mined from this very soil.
+As you'd expect, they have great flame
+resistance. Give 'em a try! They're the
+envy of famous warriors the world over!"
+35,talk10,"やー売り切れだゴロ！
+またブロハンの爺さんから仕入れなきゃゴロ","Oh... We're actually all sold out!
+We'll have to get more stock from
+old man Rohan."
+36,talk11,まいど～ゴロ！,"Thanks for your business, brother!"
+37,talk12,ありがとゴロ！,"Thank you, brother!"
+38,talk13,"いやいや お客さん！
+そんな事を言ってる場合じゃないゴロ！","Hey! You can't be so casual about stuff
+like that!"
+39,talk14,"お客さんの格好なら…
+
+ゴロンシティより熱い場所に行くのは
+止めた方がいいゴロ
+ま そんな場所は そもそも
+ゴロン族以外立入禁止だけどね","With what you're wearin' right now...
+you should really give up on goin'
+anywhere hotter than Goron City.
+Places that hot are forbidden to anyone
+who isn't a Goron anyhow."
+40,talk15,"パッと見 お客さんの格好なら
+デスマウンテンでも大丈夫ゴロ
+ま観光客が行くような所では ないけどね","Just glancing at your gear, ya seem
+to be well equipped to go anywhere—
+even Death Mountain!
+But even so, that's no place for a tourist."
+41,talk16,"それにしても お客さんの熱さ対策は
+バッチリゴロね！
+デスマウンテンでも どこでも
+行ってくるがいいゴロ","But ya did a great job fireproofing!
+Like that, you could even make it to
+Death Mountain, or anywhere really."
+42,talk17,"お客さん！その格好はマズいゴロ！
+
+早く ウチで装備を整えないと
+焼け死ぬゴロよ！","Hey! You can't go out dressed like that!
+
+
+If ya don't hurry and change your gear,
+you're gonna pass out from the heat!"
+43,talk18,分かったから早く売るゴロ！,Got it. Let's make this quick!
+44,talk20,"まいど ご来店 ありがとうございますゴロ
+
+ウチで防具をそろえれば
+ゴロンシティより熱い場所でも ヘッチャラゴロ","Of course ya do! If ya gear up here,
+you'll be set to stay cool at places
+even hotter than Goron City."
+45,talk21,早くウチの防具買って装備するゴロ！,Hurry up and buy some gear!
+46,talk22,"さよならはいいけど その格好！
+早くなんとかするゴロよ！","You can say good-bye all ya want,
+but you'll still need to change
+your gear! Go on, make it snappy!"
+47,talk23,お話ししてる場合じゃないと思うゴロけど…,"This doesn't seem like a good time
+to talk..."
+48,talk24,分かったら お客さん…早くそれ着るゴロよ！,"Hey, you! You're gonna get burned up
+if ya go outside like that! Hurry up and
+change your clothes!"

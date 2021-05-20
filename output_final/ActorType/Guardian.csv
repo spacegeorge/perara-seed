@@ -1,0 +1,50 @@
+#,Title,JPja,USen
+1,Enemy_Guardian_A_Fixed_Moss_Name,朽ちたガーディアン,Decayed Guardian
+2,Enemy_Guardian_A_Fixed_Moss_PictureBook,"元は古代 ハイラル王国がシーカー族の技術を
+結集して作り上げた対ガノン用の兵器
+大厄災時に破壊され長い間放置され風化している
+中には近づくと停止状態から目覚め
+再び動き出す個体も存在する","The Sheikah of ancient Hyrule developed
+this as a weapon to combat Ganon, but it
+was destroyed during the Great Calamity.
+Ages of weather and neglect have left it in
+a state of disrepair. Approach with caution;
+some of these derelict models have been
+known to awaken from stasis and attack
+when approached."
+3,Enemy_Guardian_A_Name,ガーディアン（歩行型）,Guardian Stalker
+4,Enemy_Guardian_A_PictureBook,"古代 ハイラル王国がシーカー族の技術を結集して
+作り上げた対ガノン用の兵器
+6本の脚は既存のどの乗り物にもない
+破格の走破性を与え強力なレーザー攻撃は
+どの武器の追従も許さない攻撃力を持つ
+脚を切断すれば機動力を低下させることが可能","The Sheikah of ancient Hyrule developed
+this as a weapon to combat Ganon. Its six
+legs give it extraordinary mobility compared
+to most current vehicles, and its powerful
+laser provides far greater offensive capability
+than conventional weaponry. Destroying the
+legs severely reduces its mobility."
+5,Enemy_Guardian_B_Name,ガーディアン（砲台型）,Guardian Turret
+6,Enemy_Guardian_B_PictureBook,"古代 ハイラル王国がシーカー族の技術を結集して
+作り上げた対ガノン用の兵器
+主に城などの防衛用として作られた
+脚を オミットしたことにより本来の攻撃力を
+維持しつつ大幅なコストカットに成功している
+","The Sheikah of ancient Hyrule developed
+this as a weapon to combat Ganon. This
+stationary model was used for defending
+important structures. Its offensive power
+is on par with other Guardians, and omitting
+the legs kept the manufacturing costs low."
+7,Enemy_Guardian_C_Name,ガーディアン（飛行型）,Guardian Skywatcher
+8,Enemy_Guardian_C_PictureBook,"古代 ハイラル王国がシーカー族の技術を結集して
+作り上げた対ガノン用の兵器
+歩行型をさらに改良し
+空中からの偵察・攻撃を可能にした
+プロペラを破壊すれば撃ち落とすことが可能","The Sheikah of ancient Hyrule developed
+this as a weapon to combat Ganon. This
+flying model is an improvement over the
+walking type, capable of either attacking
+or surveying from the air. Destroying the
+propeller will ground it."

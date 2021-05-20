@@ -1,0 +1,88 @@
+#,Title,JPja,USen
+1,"""0004""",キャンセル,Cancel
+2,"""0019""",いまはセーブできない,You cannot save right now.
+3,"""0024""",つかう,Use
+4,"""0025""",手に持つ,Hold
+5,"""0027""",そうび,Equip
+6,"""0028""",はずす,Remove
+7,"""0029""",すてる,Drop
+8,"""0030""","タイトルへもどります
+よろしいですか？","Are you sure you want to
+return to the title screen?"
+9,"""0031""",タイトルへ,To Title Screen
+10,"""0032""",たべる,Eat
+11,"""0034""",レシピ,Recipe
+12,"""0040""",のむ,Drink
+13,"""0048""",加護を受ける,Enable
+14,"""0049""",加護を受けない,Disable
+15,"""0054""",記憶をみる,View memory
+16,"""0058""","これまでのオートセーブのデータは
+上書きされてしまいます よろしいですか？",Overwrite previous save data?
+17,"""0059""",はじめから,New Game
+18,"""0062""",オプションの設定を初期状態に戻しますか？,Restore default settings?
+19,"""0063""",初期状態に戻す,Yes
+20,"""0064""","追加コンテンツを確認するために
+ニンテンドーeショップを起動しますか？",Launch Nintendo eShop to view Downloadable Content?
+21,"""0065""",起動する,Launch
+22,"""0066""","追加コンテンツを購入された場合は
+ダウンロードが完了した後
+「ゼルダの伝説 ブレス オブ ザ ワイルド」を終了し
+もう一度ゲームを始めると適用されます","Once purchased content is downloaded, you must close
+\""The Legend of Zelda: Breath of the Wild.\""
+Restart to enjoy your DLC!"
+23,"""0067""",OK,OK
+24,"""0068""","追加コンテンツは ニンテンドーeショップで購入できます
+ニンテンドーeショップを起動しますか？",Launch Nintendo eShop to view Downloadable Content?
+25,"""0069""","音声言語は タイトル画面でのみ変更が可能です
+タイトルに もどりますか？
+
+ただし セーブされていない進行状況は失われます","You can only change the voice language from the
+title screen. Return to the title screen?
+
+Please note that any unsaved progress will be lost."
+26,"""0070""","音声言語の切り替えを行うには ニンテンドーeショップで
+追加コンテンツ(無料）のダウンロードが必要です
+ニンテンドーeショップを起動しますか？","If you would like to change the voice language,
+you will first need to download the corresponding
+free DLC. Would you like to open Nintendo eShop?"
+27,"""0071""",置く,Place
+28,"""0072""","音声言語の切り替えを行うには このソフトの更新データと
+追加コンテンツを最新の状態にする必要があります
+追加コンテンツはニンテンドーeショップで更新できます
+ニンテンドーeショップを起動しますか？","To change the voice language, you will need to download
+the latest update data and the latest version of the DLC.
+The DLC can be updated from Nintendo eShop.
+Would you like to open Nintendo eShop?"
+29,"""0073""","追加コンテンツのバージョンが最新ではないため このまま
+ゲームを始めても 追加コンテンツの内容が反映されません
+追加コンテンツはニンテンドーeショップで更新できます
+ニンテンドーeショップを起動しますか？","You do not have the latest version of the DLC, so even if
+you start the game, DLC content will not be available.
+The DLC can be updated from Nintendo eShop.
+Would you like to open Nintendo eShop?"
+30,"""0074""","追加コンテンツのバージョンが最新ではないため
+追加コンテンツの内容は ゲームに反映されません","You do not have the latest version of the DLC,
+so DLC content will not be available in the game."
+31,"""0075""","タイトルへ もどりますか？
+ただし セーブされていない進行状況は失われます","Return to the title screen? Please note that any
+unsaved progress will be lost."
+32,"""0076""","このゲームはVRゴーグルに対応しています
+VRゴーグルを使用しますか？","This game is compatible with the Toy-Con VR Goggles.
+Do you want to use them?"
+33,"""0077""","通常の状態でゲームをプレイします
+VRゴーグルを使用しません
+よろしいですか？","The game will start in standard mode.
+The VR Goggles will not be used. Is that okay?"
+34,"""0078""",使用する,Use VR Goggles
+35,"""0079""",使用しない,Don't use VR Goggles
+36,"""0081""","みまもり設定によって制限されているため
+VRゴーグルは使用できません","You can't use VR mode because of restrictions that have
+been set in Parental Controls. You can play in standard
+mode or adjust Parental Controls in System Settings or
+the Nintendo Switch Parental Controls app."
+37,T_TextAdd_00,おとなのひとにみてもらってください,The following information should be checked by an adult:
+38,T_TextAdd_01,VRゴーグルを使用するときは,When using the Toy-Con VR Goggles...
+39,T_TextAdd_02,周りの人や物にぶつからないように スペースをとってください,Only play while seated.
+40,T_TextAdd_03,座って使用してください,Be mindful of your surroundings and other people.
+41,T_TextAdd_04,適度に休憩してください,Make sure to take regular breaks.
+42,T_TextAdd_05,6歳以下のお子様には 使用させないでください,Restrict the use of VR mode for children 6 and under.

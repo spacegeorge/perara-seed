@@ -1,0 +1,87 @@
+#,Title,JPja,USen
+1,After00,"私たち ここでキノコ狩りをしてたんだけど
+いきなり魔物に襲われちゃって…
+お姉ちゃんが マックストリュフが見つかるまで
+帰らないなんて言うからいけないのよ","We were minding our own business,
+hunting for truffles, and then wham!
+Monsters out of nowhere.
+I blame my sister, really. She's the one
+who refuses to go home until we find
+some hearty truffles."
+2,Atacked00,あぁ あんなところに魔物が…,"Maybe if I don't move, the monster won't
+see me..."
+3,Atacked01,どうしよう どうしよう…,"I read about what you're supposed to do
+in these situations, but now that it's
+happening, I can't remember any of it."
+4,Failed00,"イッタアアァイ…
+
+お姉ちゃんが こんなところで
+キノコ狩りするなんて言うから いけないのよ…","Ooooh... I blame my sister entirely for
+this. \""Let's go hunt for truffles!\"" she
+says. \""It'll be fun!\"" she says."
+5,Failed01,"アイタァ…
+もう なんなの突然 あいつら…
+だから私は キノコ狩りなんか 
+いやだって言ったのよ…","I never even saw them coming! This is
+exactly why I didn't want to go truffle
+hunting. Lousy Nat..."
+6,GoodBye00,"お姉ちゃんが こんな所でキノコ狩りする
+って言うから こんな目にあっちゃうんだよ…","It was my sister's harebrained idea
+to hunt for truffles here that got us
+into this mess."
+7,Guardian00,ガーディアンが来るわよ！,"Great! A Guardian's on its way. Because
+apparently we didn't have enough to
+deal with!"
+8,Meeting00,"私は こんなところでキノコを採ってたら
+命がいくつあっても足りないって言ってたのよ
+なのに お姉ちゃんたら すっかりキノコが
+お金に見えちゃってるみたいで…","I told Nat that our luck would run out
+in about five minutes flat if we went
+truffle hunting here.
+But when those visions of rupees start
+dancing in her head, there's no getting
+through to her anymore."
+9,Meeting01,"いいから早く キノコを探しなさい！
+
+マックストリュフが見つかるまでは
+帰らないからね！ メグ！","Less talking, more hunting!Remember, Meghyn, nobody goes home
+until we find those hearty truffles!"
+10,Meeting02,ひえぇぇ…,"*sigh* She's right. The sooner we find
+those truffles, the sooner this will all be
+over with."
+11,Near00,助かった…,I can't believe we're alive.
+12,Near01,早く帰りたい…,I want to go home...
+13,PairAtacked00,お姉ちゃんがまだ…魔物に…,Why won't they leave my sister alone?!
+14,PairAtacked01,お願い… お姉ちゃんを助けて！,Please help my sister! Help Nat!
+15,PairFailed00,あぁ お姉ちゃん… なんてこと…,"Nat! Oh, this is just perfect..."
+16,PairFailed01,いやーっ！ お姉ちゃーん！,"It's not too late for my sister, right?
+Right?!"
+17,SavedLv1_00,"あぁ こわかった…
+ほんとに どうなることかと思ったわ
+これは お礼よ受け取って","That was exciting...up until it turned
+terrifying. Thanks for all your help."
+18,SavedLv1_01,"あぁ あなたが来てくれなかったら
+どうなっていたことか…
+ありがとう これを受け取って","I'd say I don't know what would have
+happened to me without you, but I'm
+pretty sure I do, and I'm glad it didn't."
+19,SavedLv2_00,"すすす… すごい！
+あなたのおかげで助かったわ！
+これは気持ちよ受け取って！","Let's see... Huh. I'm still in one piece.
+How about that?"
+20,SavedLv2_01,"なんてお礼を言ったらいいのか…
+
+ほんとに ありがとう！
+これは ほんの気持ちよ受け取って！","Just when I was sure I knew how I was
+going to die... The world is full of
+surprises. Like you!"
+21,SavedLv3_00,"ありがとう！！
+あなたは命の恩人よ！
+ぜひ お礼をさせてね！","We all have to die someday, but thanks
+for making sure it wasn't today."
+22,SavedLv3_01,"あなたって何者？
+ほんとに ありがとう！！
+こんな物じゃ感謝しきれないけど…
+受け取って！","I don't know your name, but I owe you
+my life. That's kind of awkward.
+Um...do you want this?"

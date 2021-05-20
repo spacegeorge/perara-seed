@@ -1,0 +1,157 @@
+#,Title,JPja,USen
+1,"""0000""",南へ,To the south.
+2,"""0001""",東へ,To the east.
+3,"""0002""",決めていない,I'm not sure...
+4,"""0003""",奇跡はあるよ,I'm a believer.
+5,"""0004""",あり得ないよ,That is ridiculous.
+6,"""0005""",聞いたよ,You did.
+7,"""0006""",何の話？,About what?
+8,"""0007""",立ち寄っただけ,Just passing through.
+9,"""0008""",馬を生き返らせるため,Reviving my horse...
+10,"""0009""",見つけたよ,I found it.
+11,"""0010""",そうかもね,You might be right.
+12,"""0011""",馬を捕まえに,Came to catch a horse.
+13,Near00,うとうと,*snore*
+14,Near01,いやねえ,"Oh, I hate this."
+15,Near02,今日は ねましょう,Gotta go to bed...
+16,Talk00,"あら可愛い お馬
+どちらへ行くの？","Oh, what a beautiful horse! Where are
+you two headed?"
+17,Talk01,"ねえ あなたは信じられる？
+馬が生き返るなんて","This might sound strange, but do you
+believe it's possible to bring a dead
+horse back to life?"
+18,Talk02,"あら可愛い お馬
+ここへは何をしに？","That's a beautiful horse. What brings
+you here?"
+19,Talk03,"あなた また会ったわね
+ねえ聞いたかしら？","Oh, so we meet again. I can't remember,
+did I already tell you about..."
+20,Talk04,"なかなか見つからないものね…
+
+やっぱり馬が生き返る泉なんて
+ただの噂だったのかしら…
+あら ごめんなさい
+聞こえていたかしら？","It won't be easy to find...
+
+
+Maybe it's just a tall tale. I mean,
+\""fountain nearby where you can revive
+lost horses\""? It sounds so ridiculous...
+Oh, excuse me... Were you
+eavesdropping on me?"
+21,Talk05,"なかなか見つからないものね…
+
+やっぱり馬が生き返る泉なんて
+ただの噂だったのかしら…","It won't be easy to find...
+
+
+Maybe it's just a tall tale. I mean,
+\""fountain nearby where you can revive
+lost horses\""? It sounds so ridiculous..."
+22,Talk06,"教えてくれて ありがとうね
+わたしも行ってみるわ！","So the horse fountain is real... That's
+wonderful news! I'm going to go and
+check it out right away!"
+23,Talk07,"本当に？
+詳しく聞かせてちょうだい！
+マーロンの泉？
+馬の神様？
+教えてくれて ありがとうね
+わたしも行ってみるわ！","Really? You have to tell me more!
+Where is it? What happened?
+
+Ah, it's at Malanya Spring? And you met
+a...god of horses?
+
+That's wonderful news! I'm going to
+go check it out right away!"
+24,Talk08,"あら こんなところで珍しいわね
+どちらへ？","It's unusual to see someone out here
+traveling alone. Where are you headed?"
+25,Talk09,"あら わたしと同じ
+フィローネ草原に行くのね","Oh, that's the same as me! So you're
+going to the Faron Grasslands, huh?"
+26,Talk10,"あら そうなの
+東ならフロリア湖に行くのかしら？
+あそこには大きな蛇のような生物が
+現れるって噂もあるわ","Headed east, huh? Going to Floria Falls
+by any chance?
+
+I've heard some strange stories about
+that place... Stories about a creature
+that looks like a huge snake."
+27,Talk11,あら気ままで いいわね,"Wow. You, uh... You really say what's
+on your mind, don't you?"
+28,Talk12,"聞いてもらえるかしら…
+
+わたしね
+長年連れ添った愛馬を亡くしたの…
+フィローネ草原には
+馬を生き返らせてくれる泉の噂があってね
+信じられないけど…","You want to hear my story? Sure, I'll
+tell you.
+
+It was a while back... I'd lost my
+best friend, a horse I'd been traveling
+with for years and years, and then...
+I heard this tale of a fountain in the
+Faron Grasslands... A magical fountain
+that can revive lost horses."
+29,Talk13,あなたも その子を大切にね,"You take care of that horse, now."
+30,Talk14,"わたしはね
+フィローネ草原に行くの",I'm headed toward the Faron Grasslands.
+31,Talk15,"ありがとう
+わたしも奇跡を信じてみるわ","I believe it too. I have to believe, in my
+heart, that I'll see my friend again."
+32,Talk16,"そんなこと言わないで…
+わたしは信じるわ","How could you be so cruel... I have to
+hold out hope, even if you don't."
+33,Talk17,"信じられないけど本当だったのよ！
+馬を生き返らせてくれる泉は存在するのよ！",I knew it was real! I knew it!
+34,Talk18,"馬を生き返らせてくれる泉の話よ！
+そこのソエさんから聞いたの！
+でも場所までは わからないの…","You know, the rumor... About the
+fountain with the power to revive lost
+horses.
+I heard it from Perosa over there, but she
+wasn't sure about the exact location."
+35,Talk19,"あら あなたも旅をしているのね
+ここへは何をしに？","I see you've been out on the road too.
+What brings you here?"
+36,Talk20,"そうなの ここは馬がたくさんいて
+良いところよね
+この近くにはね
+馬を生き返らせてくれる泉の噂があってね
+その噂を聞きつけて
+わたしは ここまで旅をしてきたの
+長年連れ添った愛馬に また会いたくて…","Ah, I see. Well, I love it here. There are
+so many horses around. It's just so
+delightful.
+You know, I heard a rumor that there's a
+fountain near here where you can revive
+lost horses.
+That's why I traveled all the way here. I...
+I want to be reunited with a dear friend,
+a horse I lost a long time ago..."
+37,Talk21,"あなたも？
+
+わたしも噂を聞きつけて ここまで来たのよ
+馬を生き返らせてくれる泉があるって","You too? I'm so sorry to hear that...
+
+
+I'm here for the same reason. I heard the
+rumor that there's a fountain where you
+can revive lost horses. I hope I find it..."
+38,Talk22,"この近くに あるはずなのよ
+馬を生き返らせてくれる泉が","That fountain that revives horses is
+supposed to be somewhere near here."
+39,Talk23,でも わたしは あきらめきれないわ…,"Well, I'm not going to give up..."
+40,Talk24,う～ん なにかしら？,Hmmm... I wonder...
+41,Talk25,そうよね…,I suppose you're right...
+42,Talk26,"あら可愛い お馬
+ここへは何をしに？","That's a beautiful horse.
+What brings you here?"
+43,Talk27,"あら あなたも旅をしているのね
+ここへは何をしに？","I see you're traveling too.
+What brings you here?"

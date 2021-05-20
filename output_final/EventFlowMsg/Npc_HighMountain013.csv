@@ -1,0 +1,164 @@
+#,Title,JPja,USen
+1,"""0000""",寒いところ？,Someplace cold?
+2,"""0001""",ここは？,Where am I?
+3,"""0002""",そうします,I'll do that.
+4,"""0003""",さようなら,Bye.
+5,"""0006""",リーバル様って？,Who's Revali?
+6,near00,防具～防寒具～,Warm garb here!
+7,near01,休憩休憩…,Break time!
+8,near02,さて…,Alrighty...
+9,near03,おいおい…,Hey hey!
+10,near04,…だろ？,...Right?
+11,near05,ったくよぉ…,Sheesh.
+12,talk00,ん？ニーチャン旅の人かい？,"Hey, sport. On your way to the
+mountains?"
+13,talk01,"寒いとこに行くなら
+ウチで服を揃えて行きなよ","If you plan to go someplace cold, you
+should consider buying some of our
+warm clothes."
+14,talk02,"例えば北の雪山やここより高いところは
+素人さんだと凍死しちまうくらい寒くてな
+が ウチの服を揃えれば
+素人さんでも その寒さに耐えられるってわけよ
+ささ とりあえず
+一度中に入って自慢の商品を見てみてよ！","Go up into the Hebra Mountains or
+anywhere higher than here, and even
+experienced climbers freeze to death!
+But bundle up with some of our warm
+clothes, and even an amateur can make
+it to the summit!
+So come on! Check out our wares!"
+15,talk03,まいど！ それじゃ中で選んでくれ,"Great! Come in and shop your little
+heart out!"
+16,talk04,またのお越しを！,Don't be a stranger!
+17,talk05,"ニーチャン聞いてるぜ！
+空のバケモンを やっつけてくれたんだろ？","You're the one who tamed that
+beast in the sky, right?"
+18,talk06,"よぅ ニーチャン！""旅続けるんだろ？","Out adventuring, yeah?"
+19,talk07,こんな時間まで ご苦労さん！,"Hey, sport! I'm somewhat surprised
+to see you up at this hour."
+20,talk08,"ここは防具屋紅孔雀だぜ
+
+まぁ中に入って見てくれよ
+俺達 リト族の羽毛を編み込んだ商品の数々！
+…おーっと！ ちなみに俺みたいな
+オッサンの羽毛は編み込んでないぜ？
+編み込んでるのは季節の変わり目に抜け落ちる
+柔らかくて暖かい赤ん坊の羽毛さ
+だから そんじょそこらの服とはワケが違う
+全部揃えれば どんな寒い所でもヘッチャラさ！","Welcome to Brazen Beak, 
+armor shop extraordinaire.
+
+There is no need to be shy, sport!
+We have incredible gear made from the
+very pride of the Rito—our plumage!
+But it isn't as if I just tore out some of
+my feathers and glued them on a shirt.
+
+No, we weave together only the softest,
+thickest baby feathers that are naturally
+molted with the changing of the seasons.
+You will not find clothes of this quality
+anywhere else! With my clothing, you'll
+stay comfy in the coldest of weather!"
+21,talk11,雨ン中 ご苦労さん！,Thanks for coming in this rain!
+22,talk14,"……あ！ もしかして
+テバと一緒に行った人かい！","...Oh! Could you be the one
+who aided Teba?"
+23,talk15,"俺が言うのもなんだけど その節はありがとな！
+
+あのバケモン…""正直気味悪くてさ…
+
+それはそうと ニーチャンは
+まだ旅続けるんだろ？","Hey, I just want to say thanks for doing
+that.
+
+The nerve of that beast...
+It really ruffles my feathers.
+
+Anyway, I imagine you will be off on
+another adventure soon, huh?"
+24,talk16,"ニーチャン！ ウチの商品買い揃えてくれたの？
+だとしたら ありがとよ！
+それ全部着てりゃ
+雪山だろうが上空だろうが ヘッチャラだぜ！","Hey, sport! So you got the whole set
+at our shop?
+
+Thanks for shopping with us. That outfit
+will serve you well when climbing snowy
+mountains and flying way up high!"
+25,talk17,"ニーチャン… そんな格好でよく平気だねぇ
+ウチで服""買って行きなよ…","Heya, sport... You must be miserable
+wearing just that around here.
+Why not buy some armor at my shop?"
+26,talk18,"ふぅ…しかし
+
+あんなバケモンに居座られちゃ
+観光客も減るし商売上がったりだぜ
+こんな時ゃ休憩するに限るってもんよ","Hmph... Well if you ask me...
+
+
+That beast looming over our village is
+going to scare away potential customers.
+
+I guess that means now is a good time
+to take a break."
+27,talk19,"空はあんなだけど
+ぶつくさ言ってても しゃあねぇや
+難しい事は族長に任せて
+俺は自分の仕事をするだけだぜ","The world's falling apart, but there's no
+use in me complaining about it.
+
+I have a job to do. The village elder can
+worry about all of the doom-and-gloom
+mumbo jumbo."
+28,talk20,"やぁ まいど！
+…じゃ なくって こんにちは
+今まさに空のバケモンの話をしてたとこよ","Howdy!
+...I mean, hey. We were just talking about
+that beast in the sky."
+29,talk21,"あのバケモン""実は昔村の英傑リーバル様が
+アレに乗って村を守ってくれてた ってよォ
+つまり あの空のバケモンは
+もともと あっしらの味方だった ってェ話","So that beast was actually something the
+old village Champion, Revali, rode to
+protect us back in the day.
+In other words, that beast in the sky
+used to be an ally of ours. Can you
+believe it?"
+30,talk22,"おいおい それ
+今俺が話そうと思ってたのによ！",Hey! I was just about to tell him that!
+31,talk23,"なんでィ！
+おめぇだって族長の請け売りじゃねぇか！","Whatever! You're just copying what
+the elder said anyway!"
+32,talk24,ん？ まだ何か用かい？,Hm? You need something else? 
+33,talk25,…じゃなくてまたな！,I mean...see you next time!
+34,talk26,"俺は実際に見た事は無いんだがよ…
+
+リーバル様ってのは 100年前の大厄災に
+立ち向かったうちの一人だぜ
+俺もそうだったけどよ
+リトの男なら ガキの頃必ず
+「将来はリーバル様のような立派な戦士になれ」
+って親に言われて育つもんだぜ","Not that I was there to see it, but...
+
+
+Revali was one of the warriors who
+died in battle 100 years ago during the 
+Great Calamity.
+All Rito males are urged from birth to
+become honorable warriors just like
+Revali.
+No pressure, right? I mean, he was
+basically the greatest warrior to ever live."
+35,talk27,"射る矢細を穿ち
+天翔ける事疾風の如し ってェ…
+そう伝えられる リーバル様なんだがよォ
+
+大厄災で どうなったかは
+ハイリア人のアンタなら お察しでさァ？","\""All his arrows found their mark;
+he flew like the wind itself...\""
+That is what they say about Revali.
+Though as a Hylian, I'm sure you know
+all about the events of the Great
+Calamity."

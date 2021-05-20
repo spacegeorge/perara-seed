@@ -1,0 +1,355 @@
+#,Title,JPja,USen
+1,"""0000""",何してるの？,What are you up to?
+2,"""0001""",そっとしておく,I'll...leave you to it.
+3,"""0002""",手伝いましょうか？,Do you need help?
+4,"""0006""",古文書？,Ancient texts?
+5,"""0007""",はい カリーユ先生,"Of course, Dr. Calip."
+6,"""0008""",はい カリーユさん,"Gotcha, Calip."
+7,"""0009""",どういうこと？,What do you mean?
+8,"""0010""",そうだね,You're right.
+9,"""0011""",はい,Read it.
+10,"""0012""",いいえ,Leave it alone.
+11,Book00,"『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』","\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\"""
+12,Book01,"古びた本が置かれている
+読んでみますか？","There's a worn-looking book here.
+Would you like to read it?"
+13,Talk20,"ここだけの話だが…
+
+『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+まぁ この呪われし石像ってのは…
+
+髪が伸びる
+呪いの石像だと思うわけだよ
+おっと素人には怖すぎたかな？","Don't go spreading this around, but I've
+made an interesting discovery in this
+ancient text.
+\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+After cross-checking with a few other
+manuscripts, I've realized something
+about this cursed statue...
+It can only refer to a dreadful variety of
+doll with the ability to influence one's
+behavior!
+Ah, but my apologies. I'm delving into
+matters too terrifying for laymen."
+14,Talk22,"『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+この闇の光について いろいろ調べたんだが…
+
+どうやら何らかの黒い光のことらしいと
+この私は にらんでるんだよ
+おっと…ヒントを与えすぎちゃったかな？","\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+I've been pondering the dark light
+mentioned here for some time, and I
+must admit I'm stumped.
+Light can't be dark, obviously. Unless...
+Whoops! Can't go divulging my research
+before I publish, now, can I?"
+15,near00,謎だ…,What a mystery...
+16,talk00,"『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+…おそらく
+
+あの辺だと思うんだがなぁ…","\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+I'm not wrong, am I? It must be around there..."
+17,talk01,"…なんだ君は
+
+私が考古学者のカリーユだということを
+知ってて声をかけたんだろうね？
+……まさか？古代の祠の研究に一生を捧げる
+このカリーユを知らない？
+…まあ いい機会なので
+私の名前だけでも覚えて帰ってくれ
+カリーユさんではなくて
+できれば その…カリーユ先生と呼んでくれ
+なぜか誰ひとりとして
+この私のことを先生とは呼んでくれない…
+じゃあ私は古文書の分析で忙しいので
+無駄話はこのくらいで…","HA! Let me guess...
+
+
+You caught wind of the great Dr. Calip's
+groundbreaking research and just HAD to
+meet him for yourself. Heh...
+No? Don't tell me you've never even
+HEARD of me! After I've dedicated my
+life to researching the ancient shrines?!
+*sigh* Well, you'd better remember my
+name, for it's not the last you'll hear
+of it!
+And while I'm at it, it's \""DOCTOR Calip,\""
+if you please. I didn't study my rear end
+off to be called \""Mr. Calip.\""
+Everyone forgets I'm a doctor for some reason...And since you asked, I'll inform you that
+I'm engaged in analyzing ancient texts.
+I haven't time for idle chitchat."
+18,talk03,"まーた君か…
+
+なんだって？
+私の調査についてきたい？
+遊びのつもりなんだろうが
+くれぐれも邪魔だけはしないようにな","You again? What now? You want to tag
+along on my fieldwork?Well, I suppose it might do you some
+good to see an expert at work. Just try
+to stay out of my way."
+19,talk06,"ああ君か…
+
+見ての通り私は例の古文書の謎を解くのに
+大忙しなのだよ","Oh, it's you. Can whatever it is wait?
+I'm VERY busy deciphering these ancient
+texts."
+20,talk10,"長年に及ぶ調査の成果が まもなく
+世紀の大発見として人々を驚かせるのだ
+手柄を横取りされたくないので
+研究の内容は身内にさえ教えていないんだ
+わかってくれるか？","Soon, my long years of research will be
+revealed...and all the world will hail it as
+the discovery of the century!
+To prevent any undue attention, I haven't
+even told my family about my work.
+You understand, I'm sure."
+21,talk11,"古文書というものは
+古代人からの謎に満ちた挑戦状だ
+いや歴史とロマンに魅入られた考古学者への
+恋文と言い換えてもいい
+何が言いたいか わかるか？
+つまり第三者の出る幕ではないってことだよ","...
+
+
+These ancient writings are like a gauntlet
+laid before us from long-dead
+civilizations!
+Or, if you prefer, they are love letters
+meant for the eyes of all archaeologists
+seduced by history.
+Do you see what I mean? Either way,
+it's a private matter between me and my
+relics. There's no room for laypersons."
+22,talk12,"いま先生と言ったね？
+
+カリーユさんではなくて
+カリーユ先生と…
+それも ごく自然にさりげなく
+心の底から！","Did I...just hear you call me doctor?
+As in, not merely Calip, but DOCTOR
+Calip?
+It rolled off your tongue so naturally.
+It was downright salivary!"
+23,talk13,"だから何なんだ君は…
+
+私を呼ぶときは カリーユさんではなくて
+カリーユ先生で…と話しておいたはずだが？
+私は古文書の分析で忙しい
+用があるなら後にしてくれないか？","Will you never cease pestering me?
+And call me by my proper title: Dr. Calip.
+The \""Dr.\"" is important.
+Anyway, I'm busy deciphering these
+ancient texts. Can whatever you need
+wait until later?"
+24,talk15,"聞き分けがいいじゃないか！
+さすが私を先生と慕うだけはあるな
+私は昼間は遺跡調査で
+夜は古文書の解析で寝る間もない
+私は使わないから
+疲れてるなら そのベッドを使ってもいいぞ","Unusually sensible of you. But if you
+have the wit to address me by my proper
+title, perhaps I shouldn't be so surprised.
+My work keeps me far too busy to sleep,
+so you can rest in my bed over there if
+you need."
+25,talk16,"祠や遺跡の調査は昼間だけと決めている
+
+なぜかって？
+
+夜は魔物が多いからに決まってるじゃないか
+これだから素人は…","I only do fieldwork at shrines and ruins
+during the day. Why, you ask?Hmm, could it have something to do
+with the hordes of monsters roaming at
+night? What an ignoramus..."
+26,talk17,"うむ…
+
+よし！いいだろう！
+
+ちょっとだけ教えてやるが
+誰にも話すんじゃないぞ…
+『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+これが今解読を試みている古文書だ
+
+まあ素人の君に教えたところで
+どうなるものでもないが満足だろう？
+夜は古文書の解析で忙しいので
+君の相手はできないが今の時間は魔物も多い
+私は使わないから
+よかったら そこのベッドで休んでいくといい","Hrm... This changes things...Very well then! I'm feeling charitable,
+so I'll let a few things spill. This is just
+between us, understand.
+\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+I'm still in the process of deciphering
+that one, so I don't suppose there's
+any harm in sharing it with you.
+But see here, there are far too many
+dangers lurking at this time of night for
+me to stand around discussing this.
+If you want to rest in my bed, you may.
+I tend to be far too engrossed in my
+work to sleep..."
+27,talk18,"はぁ…
+何度も何度も… 
+私は例の古文書の謎を解くのに
+大忙しだと言っとるだろ
+これだから素人は…","For goodness' sake, can you not take
+even the broadest hint? I'm busy! These
+ancient texts won't decipher themselves!
+Times like these make me long to be
+back in academia, where at least people
+understood the value of solitude..."
+28,talk20,"雨に濡れるだけならいいが
+ハイラルの雷は金属の物に落ちてくるからな
+こんな日は家に戻って
+じっとしてるのが一番なんだ
+君も雷には気を付けるんだぞ","I don't mind a little rain, but the lightning
+in Hyrule is alarmingly attracted to
+anything metallic.
+No, on days like this, it's best to shut
+oneself in and wait for the rain to clear.If you must go gallivanting across the
+countryside, take care you don't get
+struck, at least."
+29,talk21,"調査は一旦打ち切りだ
+
+この眼鏡は金属製なんだ
+急いで帰らねば！","Today's research trip is on hold.
+My glasses are unfortunately metallic,
+so I must remain indoors at all costs!"
+30,talk22,"暗くなると魔物が出てくるからな
+急いで帰らんと","Monsters roam these parts after nightfall.
+It's best to stay safely inside until dawn."
+31,talk23,"調査は一旦打ち切りだ
+
+この眼鏡は金属製だからな
+この天気では命の危険もあるからな！","Today's research trip is on hold.
+My glasses are unfortunately metallic...
+In this weather, my life could be at risk!"
+32,talk24,"祠や遺跡の調査は昼間だけと決めている
+
+なぜかって？
+
+夜は魔物が多いからに決まってるじゃないか
+これだから素人は…","I only do fieldwork at shrines and ruins
+during the day. Why, you ask?Hmm, could it have something to do
+with the hordes of monsters roaming at
+night? What an ignoramus..."
+33,talk25,"そろそろ魔物が多くなる時間帯だ
+私は小屋に戻らせてもらうよ
+剣術の心得があれば恐れることもないんだが
+私は考古学しかやってこなかったからね
+","I try not to set foot outside my hut when
+night falls and monsters begin to roam
+this area.
+Just because I'm a trained archaeologist
+doesn't mean I have any skill with
+a blade. Quite the opposite, in fact."
+34,talk27,"うむ…
+
+よし！いいだろう！
+
+気分がいいので ちょっとだけ教えてやるが
+誰にも話すんじゃないぞ…
+『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+これが今解読を試みている古文書だ
+
+まあ素人の君に教えたところで
+どうなるものでもないが満足だろう？
+昼間は祠の調査で夜は古文書の解析と
+忙しい身なので これにて失礼！","Hrm... This changes things...Very well then! I'm feeling charitable,
+so I'll let a few things spill. This is just
+between us, understand.
+\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+I'm still in the process of deciphering
+that one, so I don't suppose there's
+any harm in sharing it with you.
+That's my life in a nutshell. Days filled
+with researching shrines and nights
+spent studying ancient texts.
+That leaves no time to converse with
+passing strangers, so farewell."
+35,talk29,"早く帰らねば！
+
+この眼鏡は金属製だからな
+この天気では命の危険もあるからな！","I mustn't be outside right now!
+My glasses are unfortunately metallic,
+so I must remain indoors at all costs!"
+36,talk30,"古文書の謎を解いたわけでもないのに…
+いつの間に祠が現れたんだ…？
+…うーむ
+
+おそらくこれは
+考古学で言うところの…
+よくわかんないけど なんだかラッキー
+
+…的な事象か","A shrine? Here? But I hadn't completed my
+inquiry into the mystery of the ancient texts.Hrm... This must be what we in the archaeology
+profession refer to as \""a stroke of luck.\"" Er, not
+that I believe in any such thing..."
+37,talk31,"謎が謎を呼ぶ… 
+それこそが考古学というものなのだよ！
+考古学の世界を揺るがす祠の謎を究明するため
+私は明日もまた喜び勇んで祠に出かけよう！","Huh. The mystery deepens...My only response can be to redouble
+my efforts—now that the shrine is
+visible—to solve the mystery at last!"
+38,talk32,"『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+…う～む","\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+The answer is here somewhere...but what is it?"
+39,talk33,"なんだ君か…
+
+まるで何かを成し遂げたような
+すっきりとした顔をしてるな
+今から祠の調査なので 
+私はこれで失礼するよ","You again... You certainly look pleased
+with yourself.But no matter. It's time I headed out for
+some more shrine fieldwork. "
+40,talk34,"いいだろう
+
+素人とはいえ私を先生と呼ぶほど慕っている
+君を邪険には扱えんからな
+『呪われし石像闇の光が宿るとき その眼を貫け
+ さすれば封印されし試練は解き放たれる』
+これが今解読を試みている古文書だ
+
+昼間は祠の調査で夜は古文書の解析と
+忙しい身なので これにて失礼！","I'm feeling charitable, so I'll let a few
+things spill. This is just between us,
+understand.
+\""When a dark light resides in the cursed
+statue's eyes, pierce its gaze to purge
+the seal from the shrine.\""
+I'm still in the process of deciphering
+that one, so I don't suppose there's
+any harm in sharing it with you.
+That's my life: days spent researching
+shrines and nights filled with the study
+of ancient texts. Back to work now..."
+41,talk35,先生…,Doctor...
+42,talk38,"…おそらく
+あの辺だと思うんだがなぁ…
+明るくなってきたし
+そろそろ調査に出るとしようかな","It's close... It HAS to be...Hmm, dawn is starting to break. Time for another
+day of field research."

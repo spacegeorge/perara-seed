@@ -1,0 +1,223 @@
+#,Title,JPja,USen
+1,"""0000""",最初のページ,First page.
+2,"""0001""",最後のページ,Last page.
+3,"""0002""",読まない,Don't read.
+4,"""0003""",次のページ,Next page.
+5,"""0004""",前のページ,Previous page.
+6,"""0005""",やめる,Stop reading.
+7,DiaryFirst,"『族長日記』
+マキ・ア・ルージュ","          -Diary of Makeela Riju-
+\t Chief of the Gerudo"
+8,Talk01,"母様は天にのぼり神になった…
+
+そして わらわは今日から
+このゲルドの街の長となった
+母様が神になったのは
+喜ばしいことだとわかっているが
+神様ではなく母様として
+ずっとわらわの側に いてほしかった","Buliara told me today that Mother has
+passed on and gone to a better place...
+
+She said that my mother's death means
+I am now the chief of the Gerudo people.
+
+I wish she'd stayed here, though. I don't
+see how it can be a better place with
+us apart..."
+9,Talk02,"族長になってから
+街のみんなは前よりも優しくなった
+でも みんなの目は
+以前よりも不安そうだ
+母様…
+
+ルージュは母様のような立派な族長に
+なれるのでしょうか…","Ever since I became the chief, the people
+in town have been a lot nicer to me.
+
+But if I look carefully, I can still see the
+worry in their eyes. It seems more
+common than when Mother was chief...
+Mother... Will I ever be as great a chief
+as you were?"
+10,Talk03,"ゲルド砂漠に眠っていたはずの
+神獣 ヴァ・ナボリスが突然あらわれた
+母様から ナボリスは
+ゲルドの民の守り神様だと聞いていたが
+本当にそうなのだろうか…
+明日調べにいこう","The Divine Beast Vah Naboris, which
+supposedly has been sleeping in the
+desert, has suddenly woken up.
+Mother once told me that Naboris is the
+deity of protection for the Gerudo
+people, but it doesn't seem that way...
+I plan to investigate tomorrow. I have to
+find out more..."
+11,Talk04,"パトリシアちゃんと共に
+ナボリスに近づいてみた
+すごい砂嵐と雷だ！
+
+こんなのが街にきたら
+ひとたまりもない… 
+もどろうと思った時に
+パトリシアちゃんが魔物に驚き
+ナボリスの方に向って行ってしまった…
+
+わらわの記憶はそこで途切れた…
+
+めざめたらビューラが心配そうに
+わらわの顔を のぞきこんでいた","Having investigated Divine Beast Vah
+Naboris, I can say that if it came to
+Gerudo Town, we'd be helpless.
+When I drew close to it, using my
+wonderful sand seal Patricia, I was driven
+back by a sandstorm and lightning.
+I turned Patricia toward home, but a
+monster spooked her, and she fled
+directly toward Naboris again...
+The next thing I remember is Buliara
+standing over me, her face full of worry."
+12,Talk05,"神獣の調査以降 ビューラは
+片時も わらわから離れようとしなくなった
+そんな時 この国の宝が
+盗まれてしまった
+ビューラは自分のせいだと言って聞かないが
+
+わらわが族長として未熟だったのが
+一番の原因だ…
+皆はそんなことを
+一言もいわず宝の捜索にはげんでくれているが
+無力な族長だと思われているに違いない…","Ever since I went to investigate the
+Divine Beast, Buliara has made a point of
+never leaving my side.
+Even now, with such a valuable heirloom
+stolen by thieves, she refuses to tear
+herself away from me for even a moment.
+She takes all the blame for the theft,
+however. Nothing can change her mind
+about being responsible.
+Meanwhile, I can't help but feel that the
+theft happened because I am not yet
+ready to be chief...
+The soldiers search tirelessly, trying to
+recover the heirloom. No one says a
+word about my leadership...
+But they must be thinking about how
+powerless their chief has proven to be."
+13,Talk06,"兵たちの必死の捜索で
+宝を盗んだ賊のアジトを突き止めたようだ
+しかし賊は かなりの手練れのようで
+アジトに近づく事すら できないようだ
+雷鳴の兜は目の前だというのに…
+
+母様…
+ウルボザ様…
+どうか わらわをお導きください","Thanks to the tireless efforts of my
+soldiers, we've located the thieves'
+hideout.
+They definitely aren't common criminals,
+though. We haven't been able to get
+anywhere close to the place.
+To think that the Thunder Helm is right
+there, yet we can't take it back...
+
+Mother... Lady Urbosa... Please give me
+your guidance..."
+14,Talk07,"わらわの願いが届いたようだ
+
+英傑を名乗る者があらわれた
+名をリンクというらしい
+ビューラはひどく警戒していたが
+我が国の宝を賊から奪い返し
+ナボリスを大人しくさせた その力に
+今ではすっかり信用しているようだ
+あの者が ヴォーイだということも
+すっかり忘れているようだ
+…いや忘れたふりをしているだけか
+
+ふふっ あの堅物のビューラが
+ヴォーイに心を許すとはな…","My prayers were answered! One of the
+Champions of old has appeared!
+
+Buliara was wary, but he has proven
+himself by taking our heirloom back from
+the thieves and calming Naboris.
+She now seems to trust his abilities.
+She even seems to not mind that he
+is a voe.
+She's so focused and serious. Always by
+the book. I'm surprised she's
+OK with him."
+15,Talk08,"兵たちの必死の捜索で
+宝を盗んだ賊のアジトを突き止めたようだ
+しかし賊は かなりの手練れのようで
+アジトに近づく事すら できないようだ
+雷鳴の兜は目の前だというのに…
+
+母様…
+ウルボザ様…
+どうか わらわをお導きください","Thanks to the tireless efforts of my
+soldiers, we've located the thieves'
+hideout.
+They definitely aren't common criminals,
+though. We haven't been able to get
+anywhere close to the place.
+To think that the Thunder Helm is right
+there, yet we can't take it back...
+
+Mother... Lady Urbosa... Please give me
+your guidance..."
+16,Talk09,"わらわの願いが届いたようだ
+
+英傑を名乗る者があらわれた
+名をリンクというらしい
+ビューラはひどく警戒していたが
+我が国の宝を賊から奪い返し
+ナボリスを大人しくさせた その力に
+今ではすっかり信用しているようだ
+あの者が ヴォーイだということも
+すっかり忘れているようだ
+…いや忘れたふりをしているだけか
+
+ふふっ あの堅物のビューラが
+ヴォーイに心を許すとはな…","My prayers were answered! One of the
+Champions of old has appeared!
+
+Buliara was wary, but he has proven
+himself by taking our heirloom back from
+the thieves and calming Naboris.
+She now seems to trust his abilities.
+She even seems to not mind that he
+is a voe.
+She's so focused and serious. Always by
+the book. I'm surprised she's
+OK with him."
+17,Talk10,"あの者が またやってきた
+雷鳴の兜を貸してほしいらしい
+すんなり渡してやりたいところだが
+あれはこの国の宝
+さすがに気軽には渡すことはできなかった…
+
+街のみんなの悩みを解決するなど
+少し無理をいってしまったかもしれん…
+それにしても あの者が来る前は
+わらわは毎日悩んでいたが
+最近は毎日が楽しくて仕方がない
+
+いつか共に スナザラシラリーで
+手合わせ願いたいものだ…","He has returned to us. It seems he has
+need of my family heirloom, the
+Thunder Helm.
+I want to simply lend it to him without a
+thought, but it is incredibly valuable to
+myself and our people...
+I couldn't just hand it over, so I asked
+him to help with the minor problems
+plaguing the town...
+It's funny... I used to spend a lot of my
+time worrying about my people or
+my ability to lead...
+Now I look forward to each and every
+day... I think this hero helped with that.
+
+Maybe one day he and I can compete in
+a sand-seal race. I'd enjoy that..."

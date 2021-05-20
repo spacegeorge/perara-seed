@@ -1,0 +1,49 @@
+#,Title,JPja,USen
+1,QL_TreasureHunt_touzoku04_Desc,"ハイラル王家秘蔵の歴史的価値の高い衣装が
+ラムダという盗賊に奪われていた
+そのうちの１つは夢幻の鎧 と呼ばれている
+
+その隠し場所を記した手記が
+ハイラル宿場町跡地のどこかにあるらしい","The royal family of Hyrule collected historically
+significant outfits, but they were stolen by a
+bandit named Misko. Among the items stolen
+was some phantasmal armor.
+
+There's a journal that places the locations of
+the treasure somewhere in theOutpost Ruins..."
+2,QL_TreasureHunt_touzoku04_Finish,"『勇者ですら恐れた魔物がまといし甲冑は
+ハイラル平原の古跡に隠す
+1つは技を競いし闘いの場の跡に
+1つは近衛の騎士を讃えし式典の場の跡に
+1つは ハイラルの兵が集いし地の跡』
+「闘技場跡地」「式典場跡」
+「ハイラル軍駐屯地跡」にそれぞれ埋められた
+宝箱の中からファントム装備を手に入れた！","\""Armor worn by fierce phantoms, feared even by
+heroes, is hidden in the ruins of Hyrule Field.
+Find these pieces at a battleground where brave
+souls tested their skill...at ceremonial grounds
+where royal guards are honored...and at the
+ruins where the soldiers of Hyrule gathered.\""
+
+You found the treasure that was hidden at
+Coliseum Ruins, Sacred Ground Ruins,
+and Hyrule Garrison Ruins. You obtained
+thePhantom Equipment!"
+3,QL_TreasureHunt_touzoku04_Name,Ｅｘ ラムダの秘宝 夢幻の鎧,EX Treasure: Phantasma
+4,QL_TreasureHunt_touzoku04_Step01,"『勇者ですら恐れた魔物がまといし甲冑は
+ハイラル平原の古跡に隠す
+1つは技を競いし闘いの場の跡に
+1つは近衛の騎士を讃えし式典の場の跡に
+1つはハイラルの兵が集いし地の跡』
+ラムダの手記Exに夢幻の鎧を
+隠した場所が記されていた
+まだ見つけていない装備は残り個だ","\""Armor worn by fierce phantoms, feared even by
+heroes, is hiddenin the ruins of Hyrule Field.
+Find these piecesat a battleground where brave
+souls tested their skill...at ceremonial grounds
+where royal guards are honored...andat the
+ruins where the soldiers of Hyrule gathers.\""
+
+Misko's EX Journal gives the location
+of the phantasmal armor.
+Equipment still hidden:"

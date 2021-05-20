@@ -1,0 +1,88 @@
+#,Title,JPja,USen
+1,"""0000""",何かあったの？,What happened?
+2,"""0001""",わかった,Understood.
+3,Npc_oasis042_001,"一般人が何の用だ？
+ここは兵舎だぞ！
+今 ここは厳戒態勢中なんだ
+観光なら市場にでも行くんだな","What are you doing here, outsider?!
+This is the barracks for Gerudo soldiers!
+
+We're on high alert right now. If you
+want to do some sightseeing, go
+check out the market instead!"
+4,Npc_oasis042_003,サヴォッタ！,Sav'otta!
+5,Npc_oasis042_004,サヴァーク！,Sav'aaq!
+6,Npc_oasis042_005,サヴァサーバ！,Sav'saaba!
+7,Raimei_CK_001,"ぬぉっ！
+
+それは雷鳴の兜ではないか！
+なぜお前が被っているんだ！！
+私など触れるどころか
+近付く事さえ ままならなかったというのに…
+うう…
+こいつらさえ私の足を引っ張らなければ
+お前の代わりに私が賊を倒し
+族長様のお供をしたものを…
+とはいえ こいつらとも
+もう長い付き合いでな
+出来の悪いヤツほど
+かわいく見えてくるんだよなぁ
+でもなぁ… こいつらがいる限りは
+やっぱり出世は見込めないだろうなぁ…","Whoa! Isn't that the Thunder Helm?!
+I thought that was only for the chief...
+
+Hrmph... If it weren't for the others, I
+would have been the one to track down
+the thieves and hang out with the chief.
+Although... I've been working with
+everyone for quite a while, and I only
+just realized...
+The worse I am at my job, the more the
+others will take care of me. And I kind of
+like that.
+But that doesn't make me look all that
+good, so I can kiss any hope of a
+promotion sav'orq while they're around."
+8,TerrorArrow,や やめろ！,C-cut it out!
+9,TerrorBomb,おわっ！何だ？！,Ack! What?!
+10,TerrorExplosion,のあああ！,Nwaaaah!
+11,TerrorFire,や やめい！,S-stop it!
+12,TerrorSword,や やる気か！,Calm down!
+13,talk00,"それはな…
+
+ってお前みたいな一般人に
+いう訳ないだろ！
+国家の機密事項だぞ！
+
+チーク隊長からの
+許可でもでれば別だけどな","Well, you see...
+
+
+Wait, why would I tell an outsider like
+you about important matters involving
+the security of our people?!
+If you had permission from Captain
+Teake, that'd be a different story..."
+14,talk02,"さっきの褒美で
+街を楽しんでくるといいぞ","You should use your reward from earlier
+and enjoy what our town has to offer."
+15,talk03,"お前…
+なかなか見どころがあるな","I may have dismissed you too hastily
+before. You have many promising
+qualities..."
+16,talk04,"バレッタから聞いている
+色々と世話になったようだな
+しかし賊を倒したとはいえ
+我々は まだ油断はできない
+引き続き
+警備を怠らんようにしないとな","Barta let me know how helpful you've
+been.
+
+However... Despite the thieves having
+been defeated, we can't afford to let our
+guard down, even for a moment.
+We've got to make sure that something
+like that theft never, ever happens again!"
+17,talk05,"わかったなら
+さっさとここから離れるんだな","If you understood, then hurry on up
+and get a move on!"

@@ -1,0 +1,139 @@
+#,Title,JPja,USen
+1,"""0000""",なぁに？,What's up?
+2,"""0001""",バイバイ,Bye!
+3,"""0002""",教えて！,Tell me!
+4,"""0003""",別に…,Not really...
+5,"""0004""",トンボ？,Dragonflies?
+6,"""0005""",へぇ～,Wow...
+7,"""0006""",これあげる,These are for you.
+8,"""0007""",好きだよ,I like them.
+9,"""0008""",えっ？,Huh?
+10,near00,スゥ… スゥ…,Zzz... Zzz...
+11,near01,ラン♪ ラン♪,♪La laaa! La la laaaa!♪
+12,near02,…,...
+13,talk00,おに～いちゃん♪,"♪Heeeeey, mister!♪"
+14,talk01,ふーんだ…,Pfffffbbbbbttt!
+15,talk02,にゃむぅ…,So sleepy...
+16,talk03,"あのねぇ ツヤのねぇヒミツ
+教えてあげよっか？","Hey, guess what! I have? A SECRET!
+
+
+Wanna know what it is?!"
+17,talk04,え～～～ん！,Whaaaaaaat?!
+18,talk05,"ウフフ…♪
+それじゃあね言うよ～
+せ～の","♪Tee heeeee!♪
+OK, I'm gonna tell you!
+
+Ready? Here it cooooomes!"
+19,talk06,眠いから…起きてから…,"I'm too sleepy... Let's talk when I'm
+all woken up."
+20,talk07,もう寝るの…ゴメンネ…,Too sleepy to talk... Sorry.
+21,talk08,"ジュンお姉ちゃんがヨロイソウ好きな事
+黙っとけって言われたんだった…","I wasn't supposed to tell anyone that my
+big sister, Jana, loves armoranth."
+22,talk09,またジュンお姉ちゃんに怒られちゃう…,Jana is gonna be mad at me again!
+23,talk10,あうう…,Awww...
+24,talk11,"ジュンお姉ちゃんは
+ヨロイソウが大好きなんだよ～","My big sister, Jana, loves armoranth!"
+25,talk12,あっ お兄ちゃん♪,"♪Oh! Hi, mister!♪"
+26,talk13,"…
+
+あ… これ ツヤの秘密じゃない？！","...
+
+
+Oh... That was a secret, wasn't it?!"
+27,talk14,"ジュンお姉ちゃんは
+トンボさんが大嫌いなんだよ～","My big sister, Jana, hates dragonflies!"
+28,talk15,"うん！
+
+ポカポカヤンマとヒンヤリヤンマ
+ビリビリヤンマ… 
+ジュンお姉ちゃんと一緒に ご本で見たんだけど
+お姉ちゃんは「トンボの目がダメ」だって","Yeah!
+
+
+I once saw pictures of a warm darner,
+a cold darner, and an electric darner
+in a book...
+But when I showed them to Jana,
+she said their eyes were creepy
+and got mad."
+29,talk16,"でも たぶん ご本だからダメなんだよ！
+本物は絶対可愛いって！
+ツヤ大きくなったら世界旅行して
+本物のトンボさんに会いに行くんだ～♪","But I think that's because the pictures
+were all up close and stuff! I bet real
+ones are super cute!
+When I grow up, I wanna travel the world
+and meet some real dragonflies!"
+30,talk17,な～あ～に？,Whaaaaaaat?!
+31,talk18,"えっ なになにー？
+
+…
+
+うわっ！本物のトンボさんだっ！！
+
+コレ もらっていいの？！","Really? What is it? What is it?!
+
+
+...
+
+
+WOW! Real-life dragonflies!!
+
+
+Are these really for me?!"
+32,talk19,"お姉ちゃん見てみてー！
+本物のポカポカヤンマだよ！
+ヒンヤリヤンマとビリビリヤンマも！！
+
+持ってくから見て～！","Hey, Big Sis! Lookee, lookee!
+It's a real life warm darner!
+
+And a cold darner and an
+electric darner too!!
+
+I'll bring 'em over so you can see!"
+33,talk20,トンボさん ありがと♪,♪Thanks so much for the dragonflies!♪
+34,talk21,ややめろーーー！！,HEY! Cut it out!!
+35,talk22,"お兄ちゃんもトンボさん""好き？","Do you like dragonflies too, mister?"
+36,talk23,"ね～～～♪
+おめめが可愛い～よね～～～♪
+でも遠いとこに住んでるトンボさんは
+会った事ないし残念…
+だからツヤ大きくなったら世界旅行して
+いっぱいのトンボさんに会いに行くんだ～♪","♪Awwwwwww!♪
+Their little eyes are SO cute!
+Aren't they?!
+But dragonflies live so far away from
+here, so I've never met one before.
+
+That's why I want to travel the world
+when I grow up! So I can meet lots
+and lots of dragonflies!"
+37,talk24,あっトンボの お兄ちゃん♪,♪Yay! It's the dragonfly guy!♪
+38,talk25,じゃあ ジュンお姉ちゃんの事は？,"Well, what about Jana?"
+39,talk27,ウ～ソつきケ～ムシ～♪,"♪Liar, liar! Pants on FIRE!♪"
+40,talk28,"だってヨロイソウあげてたし
+
+いいなぁ～♪
+ツヤもトンボさん プレゼントされたいな～♪","Well, you did give her some
+armoranth, after all.
+
+♪That's so nice of you!♪
+Now if only someone would give
+me some dragonflies!"
+41,talk29,"ジュンお姉ちゃんがトンボさん嫌いな事
+黙っとけって言われたんだった…","I wasn't supposed to tell anyone that my
+big sister, Jana, hates dragonflies..."
+42,talk30,ギャーーーッ！！,EEEEEEEK!!
+43,talk31,"お姉ちゃんも ヒツジさんも
+みんな元気だよ♪","♪My big sisters and the sheep are all
+doing just great!♪"
+44,talk32,"可愛いお馬さんだね～♪
+登録なら お父さんに言ってね","What an adorable horse! Go talk to my
+dad if you want to register it."
+45,talk33,"可愛い お馬さん…
+登録するなら お父さんに言ってね","What an adorable horse! Go talk to my
+dad if you want to register it."

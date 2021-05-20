@@ -1,0 +1,232 @@
+#,Title,JPja,USen
+1,Atacked00,魔物… クソッ…,"Those monsters...
+Man, forget them."
+2,Atacked01,なんとか ならないかな…,Isn't there anything I can do?
+3,Failed00,魔物の野郎…イテテテ…,"Oh, man, those monsters were wicked."
+4,Failed01,辛うじて ケガはないみたいだけど…,I nearly ate it out there.
+5,Guardian00,逃げたほうがいい！ アレが来る！,"Oh, man, it sees us! We gotta cut out!"
+6,MSG_Taba_00,"北回りの街道を進んでマリッタ馬宿へ！
+行くぜ愛馬バンボ！ヒイィィイヤッホー！
+…あキミごめんね
+話し相手になってやれなくて","Just hit the northern passage from here,
+man, and you'll find Serenne Stable.
+Let's kick it, Bamboo! Yahoooo!
+Huh? Oh, sorry, man. I was talking to my
+horse, Bamboo. I'm not, like, all that
+great at conversations with other people."
+7,MSG_Taba_00_1,"北回りの街道を進んでマリッタ馬宿へ！
+行くぜ愛馬バンボ！","Just hit the northern passage from here,
+man, and you'll find Serenne Stable.
+Let's kick it, Bamboo!"
+8,MSG_Taba_01,"俺って盾サーフィンが
+めっちゃ得意っていうか むっちゃ得意！
+ヘブラ山に登って かっこよく滑り降りて
+ヘブラ山にまた登って かっこよく滑り降りて
+ヘブラ山にまた登って かっこよく滑り降りて
+ヘブラ山にまた登っ…
+なぁキミ…止めてくれよ","I'm pretty wicked at shield surfing, man.
+Actually I'm, like, totally wicked at it.
+
+I just climb up the Hebra Mountains, and
+then I surf back down!
+
+Then I climb up again, and I surf it again.
+And then, man, know what I do next?
+Oh-ho, man, I totally surf it again!
+The only way to stop me from shield
+surfing, man, is to take away my shield!
+Man!"
+9,MSG_Taba_01_1,"俺って盾サーフィンが
+めっちゃ得意っていうか むっちゃ得意！","I'm pretty wicked at shield surfing, man.
+Actually I'm, like, totally wicked at it.
+I just climb up Hebra Mountains and surf."
+10,MSG_Taba_02,"坂を駆けあがった馬から下りて
+盾サーフィンで滑降するのって サイコーだぜ
+また坂を登らなきゃいけないけど
+それがどうしたって話だ
+俺の滑りのお手本はヘブラ山のスレミーさん！
+あの人の滑りって惚れ惚れするんだよな","Riding a horse up a hill and then hopping
+off it to shield surf is just radical, dude.
+
+Once you're at the bottom, you've gotta
+go all the way back up, sure, but, man!
+The rush is totally worth it!
+I got this good by watching Selmie surf
+the Hebra Mountains. Her skills are even
+sicker than mine!"
+11,MSG_Taba_02_1,"坂を駆け登るのは馬で！
+山を滑り降りるのは盾サーフィンで！
+どっちも サイコーの体験だぜ！","Riding a horse up a hill and then hopping
+off it to shield surf...
+It's just radical, dude."
+12,MSG_Taba_03,"盾によって滑りやすさが違うって知ってるか？
+
+もちろん盾サーフィンの話な
+最高に滑りやすい盾があるらしいぜ
+それは確か…き…き…騎…忘れちゃったなぁ","Oh, man, check it. Did you know that
+depending on the shield, your surfing
+can be totally different?
+What am I talking about?
+I'm talking about shield surfing, man!
+Get with it, dude!
+Speaking of, I heard about a shield that's
+supposed to be wicked for surfing. It's
+called a kni— A knight's... Oh, man.
+I totally forgot. What a drag, dude."
+13,MSG_Taba_03_1,"盾サーフィンに使うと最高に滑りやすい盾…
+確か…き…き…騎…忘れちゃったなぁ","Check it—I heard about a shield that's
+supposed to be wicked for shield surfing.
+It's called a kni— A knight's... Oh, man.
+I totally forgot. What a drag, dude."
+14,MSG_Taba_04,"ふぅ…マリッタ馬宿に到着か…
+
+次にへブラ山で盾サーフィンができるのは
+いつになるかなぁ…
+ねぇキミ…へブラ山を地図で見たことは？
+
+三日月状にへこんだ地形があるんだけど
+はるか昔に強烈なビームで崩れた跡らしいぜ
+意味わかんねえよなぁ","All right, I finally made it to
+Serenne Stable.
+
+But, man, all I can think about is when
+I'll be able to get back to the Hebra
+Mountains to catch some of that powder.
+Hey, dude. Have you ever looked at the
+Hebra Mountains on a map?
+
+There's this totally gnarly crescent shape
+that was apparently made by some
+wicked beam forever ago.
+...I bet it'd be killer to surf."
+15,MSG_Taba_04_1,"へブラ山の三日月状にへこんだ所は
+はるか昔に強烈なビームで崩れた跡らしいぜ
+意味わかんねぇけど そういうことらしい","There's this totally gnarly crescent shape
+that was apparently made by some
+wicked beam forever ago.
+...I bet it'd be killer to surf."
+16,Near00,さあ今日も一日…,"Another day, another surf!"
+17,Near01,盾サーフィン…,"Shield surfing, man."
+18,Near02,もっといい盾を…,Hmm... A better shield...
+19,Near03,雪山が…,"Ahh, fresh powder..."
+20,Near04,クソ…雨か…,"This rain is bogus, dude."
+21,Rest_00,"へブラ山が恋しいなぁ
+盾サーフィンをやりに ときどき行く山だよ","Oh, man, I miss the Hebra Mountains
+something fierce.
+The shield surfing there is just radical!"
+22,Rest_01,"プロの盾サーファーは こんな日も滑るのか？
+転んだら そのまま遭難しちゃいそうだぜ","Oh, man, do professional shield surfers
+surf on days like this? If I wiped out,
+I'd break my neck! Bogus, dude..."
+23,Rest_02,"早く晴れてくれ…
+俺に盾サーフィンを やらせてくれよ","This weather is totally bogus, dude.
+I just want it to clear up so I can get
+back to shield surfing!"
+24,RetMSG_Taba_00,"よーし！雪原の馬宿に到着！
+いてもたってもいられねぇぜ！
+さっそくへブラ山で盾サーフィンだ！
+さっそくへブラ山で盾サーフィンだ！
+興奮して 2回くり返しちゃったぜ！
+
+盾サーフィンの競技にも出てみてぇ！
+盾サーフィンの競技にも出てみてぇ！","Wicked, man, I'm finally here!
+I made it to Snowfield Stable!
+Oh, man, I can't wait to get out there.
+Hebra Mountains, I'm comin' for you,
+dude! You shall taste the flat of my shield
+and my gnarly shield-surfing skills!
+Oh, man, I gotta find a shield-surfing
+competition..."
+25,RetMSG_Taba_00_1,"雪原の馬宿に到着だぜ！
+さっそくへブラ山で盾サーフィンだ！","I finally made it to Snowfield Stable!
+
+
+Hebra Mountains, I'm comin' for you,
+dude! You shall taste the flat of my shield
+and my gnarly shield-surfing skills!"
+26,RetMSG_Taba_01,"はぁ…盾サーフィン やりてぇなぁ
+雪山が恋しいなぁ
+そういえば俺…小さいころ
+雪山で遭難しかけたっけなぁ
+そのとき助けてくれたのが盾サーフィンの名人
+名前は…なんだったっけな？
+ヘマ…ヘチ…忘れちゃったなぁ","This is such a drag, dude... I just wanna
+get back to shield surfing.
+I miss that fresh powder!
+Oh, man, I just, like...had a total
+flashback! When I was just a kid, I almost
+got lost up on the snowy mountains...
+But I was saved by this totally wicked
+shield surfer! His name? It was Fa—
+Falma...
+Oh, man...
+I totally forgot."
+27,RetMSG_Taba_01_1,"小さいころ雪山で遭難しかけたとき
+助けてくれたのが盾サーフィンの名人で…
+名前は なんだったっけな？
+ヘマ…ヘチ…思い出せないなぁ","When I was just a kid, I almost got lost
+up on the snowy mountains. But I was
+saved by this totally wicked shield surfer!
+His name was Fa—
+Falma...
+Oh, man... I totally forgot."
+28,RetMSG_Taba_02,"ああ もう！
+盾サーフィンのイメトレしてたところなのに！
+伝説の盾サーファースレミーさんの
+見事なコース取りを頭に描いてたんだよ…
+そのスレミーさん…へブラ山の頂上で
+盾サーフィンの挑戦者を待ってるらしいよ","Not cool, dude. You interrupted my
+mental preparations! If I wanna be the
+best shield surfer, I need to plan ahead!
+They say the legendary shield surfer
+Selmie has all the routes memorized.
+She's intense, man!
+Dude, apparently she's just waiting up
+on the Hebra Mountains for a worthy
+shield-surfing opponent!"
+29,RetMSG_Taba_02_1,"伝説の盾サーファー""スレミーさんが
+へブラ山の頂上で挑戦者を待ってるらしいぜ","Dude, I heard the legendary shield-surfer
+Selmie is just waiting on the Hebra
+Mountains for a worthy opponent!"
+30,RetMSG_Taba_03,"ハイラル城にはハイリアの盾っていう
+壊れにくい盾が あるらしいぜ
+まあ あの城は危険だって みんな知ってるから
+取りに行くやつなんて いないと思うけどな","Check it, dude. I heard about this totally
+durable shield. It's called a Hylian shield,
+and it's somewhere in Hyrule Castle.
+Sounds totally wicked for surfing, man!
+But the castle is, like, overly dangerous,
+so it's pretty much a no-go."
+31,RetMSG_Taba_03_1,"ハイラル城にはハイリアの盾っていう
+壊れにくい盾が あるらしいな","Apparently, there's a totally durable
+shield called a Hylian shield somewhere
+in Hyrule Castle. Sounds gnarly, dude!"
+32,RetMSG_Taba_04,"盾サーフィンの雪山めざし準備は万端！
+まずは雪原の馬宿へ！
+行くぜ愛馬バンボ！ヒイィィイヤッホー！
+
+…あキミごめんね
+話し相手になってやれなくて","All right, Bamboo, my totally gnarly and
+radical horse! We're finally ready to hit
+the mountain for some shield surfing!
+First we gotta hit up Snowfield Stable.
+So let's get a move on! Heeeyaah—
+Huh? Oh, sorry, dude. No time to chat!"
+33,RetMSG_Taba_04_1,"盾サーフィンの雪山めざし準備は万端！
+まずは雪原の馬宿へ！
+行くぜ愛馬バンボ！ヒイィィイヤッホー！","All right, Bamboo, my most excellent
+horse! First to Snowfield Stable, and
+then to the mountain for shield surfing!
+Heeeeyaahh!"
+34,SavedLv1_00,魔物には気をつけてたつもりなんだけど…,"I thought I was being careful, but, man,
+those monsters were gnarly."
+35,SavedLv1_01,わるいね助かったよ,"Sorry to be a drag, dude, but thanks for
+your help."
+36,SavedLv2_00,正直 キミがいてくれてよかった,"Phew. I'm lucky you were around, man."
+37,SavedLv2_01,もう大丈夫？魔物いない？,"Is it safe now?
+Are the monsters gone?"
+38,SavedLv3_00,思ったよりやるもんだな キミは…,"You're stronger than you look, dude.
+You're straight-up gnarly!"
+39,SavedLv3_01,何とか生き延びた…キミのおかげだ,"I almost wiped out there, man.
+Thanks for helping me out."
+40,Thanks00,これ お礼ね…,"Here, man. Take this as thanks."

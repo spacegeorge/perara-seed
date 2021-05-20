@@ -1,0 +1,125 @@
+#,Title,JPja,USen
+1,"""0006""",ここは？,What is this place?
+2,"""0007""",買い取って！,Buy from me!
+3,"""0008""",とくに用ないです,I should be going.
+4,"""5500""",はい,Sure!
+5,"""5501""",いいえ,Never mind.
+6,"""5503""",やっぱりやめる,Never mind.
+7,"""5508""",ぜんぶ売る,All of them.
+8,Com_Talk_00,珍しいブツだと嬉しいけど…,"Though I'd love to pick up something
+rare, if you've got anything like that..."
+9,Com_Talk_01,"だったら
+ルピーでどう？",For that...how about  rupees?
+10,Com_Talk_02,サークサーク…,Sarqso.
+11,Com_Talk_02b,"ふふっ上等なブツを
+サークサーク","Heehee, first-class deal. Sarqso."
+12,Com_Talk_02c,"なかなかなブツじゃないか…
+ふふっ サークサーク","Pretty good deal, heehee. Sarqso."
+13,Com_Talk_02d,"このブツ… ちょうど欲しかったんだ
+サークサーク","I was just thinking about how I wanted
+one of these. Sarqso."
+14,Com_Talk_04,…そう,Oh.
+15,Com_Talk_05,もっと珍しいブツだと嬉しいけど…,"I'd be happier if it were something
+more uncommon..."
+16,Com_Talk_05b,もう終わり？,Are you finished already?
+17,Com_Talk_05c,"ふふっ お兄さんさえよければ
+もっと買い取るよ","Heehee, if it's OK with you, I'd gladly
+take something off your hands."
+18,Com_Talk_05d,"なかなか表に出られなくてね
+沢山売ってもらえたら助かるよ","I haven't traveled very much, so you'd
+really help me out by selling me a lot
+of stuff."
+19,Com_Talk_13,"ね…
+…で いくつ？",Well? How many?
+20,Com_Talk_14,"を個…
+合計ルピーってとこね","Right, , huh...
+That means it'll be  rupees."
+21,Com_Talk_15,"悪いけど…
+ウチは こんな商売してるだけに
+良くわからないブツは
+買い取らないことにしてるの",Sorry... I can't buy that from you.
+22,Com_Talk_16,"脱がせてほしいの？
+
+ふふっ… ヴォーイが もっと大人になったら
+考えてあげてもいいよ","You realize you're still wearing that,
+right? Credit for being creative, but
+you'll have to take that off yourself."
+23,Com_Talk_33,"を1つね…
+それならルピーってとこね","Just one, huh?
+In that case, it'll be  rupees."
+24,Com_Talk_35,"を個全部か…
+それなら合計ルピーってとこね","Every single one? Well then, that'll
+be... rupees."
+25,Com_Talk_60,"なら
+ルピーだよ",That'll be  rupees!
+26,Com_Talk_61,…そう,...Right.
+27,Talk_01,"サヴァサーバ…
+
+ここではいつでも
+サヴァサーバよ…","Sav'saaba.
+
+
+Elsewhere it might be sav'otta or
+sav'aaq, but here it's always sav'saaba."
+28,Talk_02,"ふふ… スネに傷を持つ者同士
+今後もご贔屓に…","We each have something to hide, I
+suppose. Let's ignore that and move on
+to business."
+29,Talk_03,"闇があってこそ光は美しくなる…
+お兄さん… いやお客さんも そう思わない？","Have you ever noticed how the darker it
+is, the more beautiful the light becomes?
+Isn't it great, young voe? Er, young vai?"
+30,Talk_04,"特に用はない…か
+
+まぁ そうだろうね
+お兄さんが みんな買い占めちゃったからね","Time to go, is it? I'm not surprised.
+You've bought everything I have."
+31,Talk_05,"いいけど買い取り額は
+表の世界と同じだよ","I suppose I could. But I won't be paying
+more than any other trader would."
+32,Talk_06,サークサーク…,Sarqso.
+33,Talk_07,"うっふふ… サークサーク
+また仕入れとかないとね…","Hahaha...sarqso.
+I'll make sure to restock for you."
+34,Talk_09,"明るいのが性に合わなくてね…
+もう何年も お天道様を拝んじゃいないかも…","The bright light of the sun doesn't agree
+with me. I haven't paid my respects to
+it for many years..."
+35,Talk_11,"ここはゲルド秘密クラブ
+通称GSC…
+この街で ヴォーイ用の服を買えるのは
+ウチの店だけ…
+まぁ この街では違法だけど…
+意外と需要があってね…
+お客さんみたいに ヴァーイになりすました人は
+さすがに初めてだけど…","This is the Gerudo Secret Club,
+or GSC for short.
+
+This is the only shop in Gerudo Town
+where someone could buy clothes meant
+for a voe to wear.
+Despite it being illegal to sell voe
+clothing in this town, there is a high
+demand for such things.
+I've never seen a voe disguise
+himself as a vai like you have,
+though..."
+36,Talk_12,"ふふ…
+
+まぁ ごゆっくり…","Haha, don't worry... Your secret is safe
+with me."
+37,Talk_13,"その服はね
+夜光石を使った特別製なの
+ソレが欲しいなら素材と交換よ
+手数料も しっかりいただくけどね","Oh ho. That's a special one, made using 
+luminous stone.
+
+If you're interested, you'll need to trade
+me the materials. Oh, and there's a
+handling fee, too."
+38,Talk_14,"サークサーク
+ここにしかない貴重な物だから大切にね…","Sarqso. It's a precious item, so be sure
+to take good care of it."
+39,Talk_15,"サークサーク
+同じシリーズの服で揃えるのがおススメよ","Sarqso. I recommend pairing it with
+other clothing items from this series."

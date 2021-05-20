@@ -1,0 +1,261 @@
+#,Title,JPja,USen
+1,AllSpeed_Desc,"速く動ける ゴーゴー効果 Lv1
+","Grants a low-level movement-speed boost.
+"
+2,AllSpeed_Desc_02,"速く動ける ゴーゴー効果 Lv2
+","Grants a mid-level movement-speed boost.
+"
+3,AllSpeed_Desc_03,"速く動ける ゴーゴー効果 Lv3
+","Grants a high-level movement-speed boost.
+"
+4,AllSpeed_MedicineDesc,"速く動ける ゴーゴー効果 Lv1
+運動神経がすごく良くなる薬
+走って登って泳いで すべての動きが速くなる","Grants a low-level haste effect, which
+boosts your movement speed while
+running, swimming, or climbing."
+5,AllSpeed_MedicineDesc_02,"速く動ける ゴーゴー効果 Lv2
+運動神経がすごく良くなる薬
+走って登って泳いで すべての動きが速くなる","Grants a mid-level haste effect, which
+boosts your movement speed while
+running, swimming, or climbing."
+6,AllSpeed_MedicineDesc_03,"速く動ける ゴーゴー効果 Lv3
+運動神経がすごく良くなる薬
+走って登って泳いで すべての動きが速くなる","Grants a high-level haste effect, which
+boosts your movement speed while
+running, swimming, or climbing."
+7,AllSpeed_Name,ゴーゴー,Hasty
+8,AllSpeed_Name_Feminine,ゴーゴー,Hasty
+9,AllSpeed_Name_Masculine,ゴーゴー,Hasty
+10,AllSpeed_Name_Neuter,ゴーゴー,Hasty
+11,AllSpeed_Name_Plural,ゴーゴー,Hasty
+12,AttackUp_Desc,"攻撃が強くなる チカラ効果 Lv1
+","Grants a low-level attack-power boost.
+"
+13,AttackUp_Desc_02,"攻撃が強くなる チカラ効果 Lv2
+","Grants a mid-level attack-power boost.
+"
+14,AttackUp_Desc_03,"攻撃が強くなる チカラ効果 Lv3
+","Grants a high-level attack-power boost.
+"
+15,AttackUp_MedicineDesc,"攻撃が強くなる チカラ効果 Lv1
+使うと全身に力がみなぎり
+武器を使った攻撃力が増加する","Grants a low-level might effect, which
+strengthens your body and mind to boost
+your attack power with all weapons."
+16,AttackUp_MedicineDesc_02,"攻撃が強くなる チカラ効果 Lv2
+使うと全身に力がみなぎり
+武器を使った攻撃力が増加する","Grants a mid-level might effect, which
+strengthens your body and mind to boost
+your attack power with all weapons."
+17,AttackUp_MedicineDesc_03,"攻撃が強くなる チカラ効果 Lv3
+使うと全身に力がみなぎり
+武器を使った攻撃力が増加する","Grants a high-level might effect, which
+strengthens your body and mind to boost
+your attack power with all weapons."
+18,AttackUp_Name,チカラ,Mighty
+19,AttackUp_Name_Feminine,チカラ,Mighty
+20,AttackUp_Name_Masculine,チカラ,Mighty
+21,AttackUp_Name_Neuter,チカラ,Mighty
+22,AttackUp_Name_Plural,チカラ,Mighty
+23,DefenseUp_Desc,"叩かれても耐えられる カチコチ効果 Lv1
+","Grants a low-level defense boost.
+"
+24,DefenseUp_Desc_02,"叩かれても耐えられる カチコチ効果 Lv2
+","Grants a mid-level defense boost.
+"
+25,DefenseUp_Desc_03,"叩かれても耐えられる カチコチ効果 Lv3
+","Grants a high-level defense boost.
+"
+26,DefenseUp_MedicineDesc,"叩かれても耐えられる カチコチ効果 Lv1
+骨や体幹が強化され防御力が増す薬
+強敵と戦う前には準備しておきたい","Grants a low-level toughness effect, which
+fortifies your bones to strengthen your
+defense. Best to use before facing off
+against hard-hitting enemies."
+27,DefenseUp_MedicineDesc_02,"叩かれても耐えられる カチコチ効果 Lv2
+骨や体幹が強化され防御力が増す薬
+強敵と戦う前には準備しておきたい","Grants a mid-level toughness effect, which
+fortifies your bones to strengthen your
+defense. Best to use before facing off
+against hard-hitting enemies."
+28,DefenseUp_MedicineDesc_03,"叩かれても耐えられる カチコチ効果 Lv3
+骨や体幹が強化され防御力が増す薬
+強敵と戦う前には準備しておきたい","Grants a high-level toughness effect, which
+fortifies your bones to strengthen your
+defense. Best to use before facing off
+against hard-hitting enemies."
+29,DefenseUp_Name,カチコチ,Tough
+30,DefenseUp_Name_Feminine,カチコチ,Tough
+31,DefenseUp_Name_Masculine,カチコチ,Tough
+32,DefenseUp_Name_Neuter,カチコチ,Tough
+33,DefenseUp_Name_Plural,カチコチ,Tough
+34,ExGutsMaxUp_Desc,"がんばりゲージの上限を増やす効果
+","Restores and overfills your Stamina Wheel.
+"
+35,ExGutsMaxUp_MedicineDesc,"がんばりゲージの上限を増やす効果
+減ったがんばりゲージを回復する効果もあるが
+増えた分は使うとなくなる","Restores stamina and temporarily extends
+your Stamina Wheel. The additional stamina
+will disappear as it's used."
+36,ExGutsMaxUp_Name,スタミナ,Enduring
+37,ExGutsMaxUp_Name_Feminine,スタミナ,Enduring
+38,ExGutsMaxUp_Name_Masculine,スタミナ,Enduring
+39,ExGutsMaxUp_Name_Neuter,スタミナ,Enduring
+40,ExGutsMaxUp_Name_Plural,スタミナ,Enduring
+41,Fireproof_Desc,"灼熱の環境でも体が燃えない耐火効果 Lv1
+","Grants a fireproof effect, protecting you from
+catching fire in hot environments.
+"
+42,Fireproof_Desc_02,"灼熱の環境でも体が燃えない耐火効果 Lv2
+","Grants a high-level fireproof effect, protecting
+you from catching fire in hot environments.
+"
+43,Fireproof_MedicineDesc,"灼熱の環境でも体が燃えない耐火効果 Lv1
+高い耐燃性を持つ素材を原料にしている
+デスマウンテンに挑む時には持参したい薬","Grants a fireproof effect, which prevents your
+body from catching fire.
+Be sure to pack this when venturing out
+to explore Death Mountain."
+44,Fireproof_MedicineDesc_02,"灼熱の環境でも体が燃えない耐火効果 Lv2
+高い耐燃性を持つ素材を原料にしている
+デスマウンテンに挑む時には持参したい薬","Grants a high-level fireproof effect, which
+prevents your body from catching fire.
+Be sure to pack this when venturing out
+to explore Death Mountain."
+45,Fireproof_Name,燃えず,Fireproof
+46,Fireproof_Name_Feminine,燃えず,Fireproof
+47,Fireproof_Name_Masculine,燃えず,Fireproof
+48,Fireproof_Name_Neuter,燃えず,Fireproof
+49,Fireproof_Name_Plural,燃えず,Fireproof
+50,GutsRecover_Desc,"がんばりゲージを回復させる効果
+","Instantly refills some of your Stamina Wheel.
+"
+51,GutsRecover_MedicineDesc,"がんばりゲージを回復させる効果
+崖登り中や泳いでいるときでも
+減ったがんばりを回復できるとても便利な薬","Restores your stamina, which is used when
+performing physical actions such as 
+climbing walls or swimming."
+52,GutsRecover_Name,がんばり,Energizing
+53,GutsRecover_Name_Feminine,がんばり,Energizing
+54,GutsRecover_Name_Masculine,がんばり,Energizing
+55,GutsRecover_Name_Neuter,がんばり,Energizing
+56,GutsRecover_Name_Plural,がんばり,Energizing
+57,LifeMaxUp_Desc,"限界を超えてハートが回復する効果
+","Restores your health and temporarily
+increases your maximum hearts.
+"
+58,LifeMaxUp_MedicineDesc,"限界を超えてハートが回復する効果
+減ったハートを回復する効果もあるが
+ダメージを受けると増えた分はなくなる","Restores you to full health and increases
+your maximum hearts. The additional hearts
+are lost as you take damage."
+59,LifeMaxUp_Name,マックス,Hearty
+60,LifeMaxUp_Name_Feminine,マックス,Hearty
+61,LifeMaxUp_Name_Masculine,マックス,Hearty
+62,LifeMaxUp_Name_Neuter,マックス,Hearty
+63,LifeMaxUp_Name_Plural,マックス,Hearty
+64,Quietness_Desc,"近づいても気づかれない しのび効果 Lv1
+","Grants a low-level stealth boost.
+"
+65,Quietness_Desc_02,"近づいても気づかれない しのび効果 Lv2
+","Grants a mid-level stealth boost.
+"
+66,Quietness_Desc_03,"近づいても気づかれない しのび効果 Lv3
+","Grants a high-level stealth boost.
+"
+67,Quietness_MedicineDesc,"近づいても気づかれない しのび効果 Lv1
+気持ちを落ち着かせる静けさ成分を含んだ薬
+飲むと動物やマモノに気づかれにくくなる","Grants a low-level stealth effect, which
+calms the nerves and silences footfalls.
+Allows you to move about undetected by
+monsters and animals."
+68,Quietness_MedicineDesc_02,"近づいても気づかれない しのび効果 Lv2
+気持ちを落ち着かせる静けさ成分を含んだ薬
+飲むと動物やマモノに気づかれにくくなる","Grants a mid-level stealth effect, which
+calms the nerves and silences footfalls.
+Allows you to move about undetected by
+monsters and animals."
+69,Quietness_MedicineDesc_03,"近づいても気づかれない しのび効果 Lv3
+気持ちを落ち着かせる静けさ成分を含んだ薬
+飲むと動物やマモノに気づかれにくくなる","Grants a high-level stealth effect, which
+calms the nerves and silences footfalls.
+Allows you to move about undetected by
+monsters and animals."
+70,Quietness_Name,しのび,Sneaky
+71,Quietness_Name_Feminine,しのび,Sneaky
+72,Quietness_Name_Masculine,しのび,Sneaky
+73,Quietness_Name_Neuter,しのび,Sneaky
+74,Quietness_Name_Plural,しのび,Sneaky
+75,ResistCold_Desc,"厳しい寒さに耐えられる耐寒効果 Lv1
+","Grants low-level cold resistance.
+"
+76,ResistCold_Desc_02,"厳しい寒さに耐えられる耐寒効果 Lv2
+","Grants mid-level cold resistance.
+"
+77,ResistCold_MedicineDesc,"厳しい寒さに耐えられる耐寒効果 Lv1
+体の芯からポカポカしてくる薬
+雪山ではとても頼りになる","Grants a low-level warming effect, increasing
+your resistance to cold environments. Very
+useful when exploring snow-covered
+mountains."
+78,ResistCold_MedicineDesc_02,"厳しい寒さに耐えられる耐寒効果 Lv2
+体の芯からポカポカしてくる薬
+雪山ではとても頼りになる","Grants a high-level warming effect,
+increasing your resistance to cold
+environments. Very useful when exploring
+snow-covered mountains."
+79,ResistCold_Name,ピリ辛,Spicy
+80,ResistCold_Name_Feminine,ピリ辛,Spicy
+81,ResistCold_Name_Masculine,ピリ辛,Spicy
+82,ResistCold_Name_Neuter,ピリ辛,Spicy
+83,ResistCold_Name_Plural,ピリ辛,Spicy
+84,ResistElectric_Desc,"電気のしびれに強くなる耐電効果 Lv1
+","Grants low-level electricity resistance.
+"
+85,ResistElectric_Desc_02,"電気のしびれに強くなる耐電効果 Lv2
+","Grants mid-level electricity resistance.
+"
+86,ResistElectric_Desc_03,"電気のしびれに強くなる耐電効果 Lv3
+","Grants high-level electricity resistance.
+"
+87,ResistElectric_MedicineDesc,"電気のしびれに強くなる耐電効果 Lv1
+絶縁効果のある成分を調合した薬
+電撃を使う敵との戦いに活躍する","Grants a low-level resistance to electricity.
+Useful against enemies with electrical
+attacks."
+88,ResistElectric_MedicineDesc_02,"電気のしびれに強くなる耐電効果 Lv2
+絶縁効果のある成分を調合した薬
+電撃を使う敵との戦いに活躍する","Grants a mid-level resistance to electricity.
+Useful against enemies with electrical
+attacks."
+89,ResistElectric_MedicineDesc_03,"電気のしびれに強くなる耐電効果 Lv3
+絶縁効果のある成分を調合した薬
+電撃を使う敵との戦いに活躍する","Grants a high-level resistance to electricity.
+Useful against enemies with electrical
+attacks."
+90,ResistElectric_Name,エレキ,Electro
+91,ResistElectric_Name_Feminine,エレキ,Electro
+92,ResistElectric_Name_Masculine,エレキ,Electro
+93,ResistElectric_Name_Neuter,エレキ,Electro
+94,ResistElectric_Name_Plural,エレキ,Electro
+95,ResistHot_Desc,"厳しい暑さに耐えられる耐暑効果 Lv1
+","Grants low-level heat resistance.
+"
+96,ResistHot_Desc_02,"厳しい暑さに耐えられる耐暑効果 Lv2
+","Grants mid-level heat resistance.
+"
+97,ResistHot_MedicineDesc,"厳しい暑さに耐えられる耐暑効果 Lv1
+身体を冷やし熱を外に逃がす事ができる薬
+砂漠の旅には欠かせない","Grants a low-level cooling effect, raising
+your body's resistance to heat. Crucial for
+long journeys through the desert."
+98,ResistHot_MedicineDesc_02,"厳しい暑さに耐えられる耐暑効果 Lv2
+身体を冷やし熱を外に逃がす事ができる薬
+砂漠の旅には欠かせない","Grants a high-level cooling effect, raising
+your body's resistance to heat. Crucial for
+long journeys through the desert."
+99,ResistHot_Name,ひんやり,Chilly
+100,ResistHot_Name_Feminine,ひんやり,Chilly
+101,ResistHot_Name_Masculine,ひんやり,Chilly
+102,ResistHot_Name_Neuter,ひんやり,Chilly
+103,ResistHot_Name_Plural,ひんやり,Chilly

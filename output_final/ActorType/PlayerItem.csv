@@ -1,0 +1,185 @@
+#,Title,JPja,USen
+1,Obj_Album_Desc,,
+2,Obj_Album_MenuDesc,,
+3,Obj_Album_Name,アルバム,Album
+4,Obj_AmiiboItem_Desc,"amiiboをかざす事で色々な物を
+呼び出す事のできる
+古代シーカー族の技術不思議なアイテム","amiiboをかざすこと事でいろいろ色々なもの物を
+よ呼びだ出すこと事のできる
+こだい古代シーカーぞく族のぎじゅつふしぎ技術不思議なRune"
+5,Obj_AmiiboItem_MenuDesc,"amiiboをかざす事で色々な物を
+呼び出す事のできる不思議なアイテム","A mysterious rune that can summon various
+things when an amiibo is tapped."
+6,Obj_AmiiboItem_Name,アミーボ,amiibo
+7,Obj_Camera_Desc,,
+8,Obj_Camera_MenuDesc,"見ている風景や人物を画像として
+シーカーストーンに残す事ができる
+古代シーカー族の技術","見ている風景や人物を画像として
+シーカーストーンに残す事ができる
+こだい古代シーカーぞく族のぎじゅつ技術"
+9,Obj_Camera_Name,ウツシエ,Camera
+10,Obj_DRStone_Get_Desc,"中央のパネルが光る不思議な板
+初めて見る物なのに何だか懐かしい","A mysterious tablet with a glowing center.
+You've never seen this device before, and
+yet...there's something familiar about it."
+11,Obj_DRStone_Get_MenuDesc,"中央が光る四角いふしぎな石を手に入れた！
+始めてみるモノなのに何だか懐かしい気持ちだ","A mysterious rectangular tablet that glows in the
+center. You've never seen this device before,
+but somehow it conjures nostalgic feelings."
+12,Obj_DRStone_Get_Name,シーカーストーン,Sheikah Slate
+13,Obj_IceMaker_Desc,"水のある場所に照射すると
+氷の柱を作る事が出来る
+古代シーカー族の技術","みず水のあるばしょ場所にしょうしゃ照射すると
+こおり氷のはしら柱をつく作ること事ができ出来る
+こだい古代シーカーぞく族のぎじゅつ技術"
+14,Obj_IceMaker_MenuDesc,"水のある場所に照射すると
+氷の柱を作る事が出来る
+古代シーカー族の技術","Activate this ancient Sheikah technology
+while aiming at a body of water
+to create an ice pillar."
+15,Obj_IceMaker_Name,アイスメーカー,Cryonis
+16,Obj_Magnetglove_Desc,"金属製の物に照射することで
+その物体を遠隔操作できるようになる
+古代シーカー族の技術","きんぞくせい金属製のもの物にしょうしゃ照射することで
+そのぶったい物体をえんかくそうさ遠隔操作できるようになる
+こだい古代シーカーぞく族のぎじゅつ技術"
+17,Obj_Magnetglove_MenuDesc,"金属製の物に照射することで
+その物体を遠隔操作できるようになる
+古代シーカー族の技術","きんぞくせい金属製のもの物にしょうしゃ照射することで
+そのぶったい物体をえんかくそうさ遠隔操作できるようになる
+こだい古代シーカーぞく族のぎじゅつ技術"
+18,Obj_Magnetglove_Name,マグネキャッチ,Magnesis
+19,Obj_Motorcycle_Desc,,
+20,Obj_Motorcycle_MenuDesc,,
+21,Obj_Motorcycle_Name,マスターバイク零式,Master Cycle Zero
+22,Obj_PictureBook_Desc,,
+23,Obj_PictureBook_MenuDesc,,
+24,Obj_PictureBook_Name,ハイラル図鑑,Hyrule Compendium
+25,Obj_Porch_Bow_Desc,"弓をコンパクトに収納できるポーチ
+たくさんあればそれだけ多くの弓を
+持ち運べる","ゆみ弓をコンパクトにしゅうのう収納できるInventory
+たくさんあればそれだけおお多くのゆみ弓を
+も持ちはこ運べる"
+26,Obj_Porch_Bow_MenuDesc,,
+27,Obj_Porch_Bow_Name,弓ポーチ,Bow Stash
+28,Obj_Porch_Shield_Desc,"盾をコンパクトに収納できるポーチ
+たくさんあればそれだけ多くの盾を
+持ち運べる","たて盾をコンパクトにしゅうのう収納できるInventory
+たくさんあればそれだけおお多くのたて盾を
+も持ちはこ運べる"
+29,Obj_Porch_Shield_MenuDesc,,
+30,Obj_Porch_Shield_Name,盾ポーチ,Shield Stash
+31,Obj_Porch_Weapon_Desc,"武器をコンパクトに収納できるポーチ
+たくさんあればそれだけ多くの武器を
+持ち運べる","ぶき武器をコンパクトにしゅうのう収納できるInventory
+たくさんあればそれだけおお多くのぶき武器を
+も持ちはこ運べる"
+32,Obj_Porch_Weapon_MenuDesc,,
+33,Obj_Porch_Weapon_Name,武器ポーチ,Weapon Stash
+34,Obj_RemainInsideMap_Desc,,
+35,Obj_RemainInsideMap_MenuDesc,,
+36,Obj_RemainInsideMap_Name,遺物内マップ,Relic Map
+37,Obj_RemoteBombBall2_Desc,,
+38,Obj_RemoteBombBall2_MenuDesc,"爆発による破壊を目的とした
+古代シーカー族の技術
+爆発の威力と装填速度が上昇した","ばくはつ爆発によるはかい破壊をもくてき目的とした
+こだい古代シーカーぞく族のぎじゅつ技術
+ばくはつ爆発のいりょく威力とそうてんそくど装填速度がじょうしょう上昇した"
+39,Obj_RemoteBombBall2_Name,リモコンバクダン＋,Remote Bomb +
+40,Obj_RemoteBombBall_Desc,,
+41,Obj_RemoteBombBall_MenuDesc,"爆発による破壊を目的とした
+古代シーカー族の技術
+設置後好きなタイミングで爆発させられる","Ancient Sheikah explosive technology.
+Can be detonated remotely to destroy
+objects and damage enemies."
+42,Obj_RemoteBombBall_Name,リモコンバクダン,Remote Bomb
+43,Obj_RemoteBombCube2_Desc,,
+44,Obj_RemoteBombCube2_MenuDesc,"爆発による破壊を目的とした
+古代シーカー族の技術
+爆発の威力と装填速度が上昇した","ばくはつ爆発によるはかい破壊をもくてき目的とした
+こだい古代シーカーぞく族のぎじゅつ技術
+ばくはつ爆発のいりょく威力とそうてんそくど装填速度がじょうしょう上昇した"
+45,Obj_RemoteBombCube2_Name,リモコンバクダン＋,Remote Bomb +
+46,Obj_RemoteBombCube_Desc,,
+47,Obj_RemoteBombCube_MenuDesc,"爆発による破壊を目的とした
+古代シーカー族の技術
+設置後好きなタイミングで爆発させられる","Ancient Sheikah explosive technology.
+Can be detonated remotely to destroy
+objects and damage enemies."
+48,Obj_RemoteBombCube_Name,リモコンバクダン,Remote Bomb
+49,Obj_RemoteBombLv2_Desc,"爆発による破壊を目的とした
+古代シーカー族の技術
+爆発の威力と装填速度が上昇した","ばくはつ爆発によるはかい破壊をもくてき目的とした
+こだい古代シーカーぞく族のぎじゅつ技術
+ばくはつ爆発のいりょく威力とそうてんそくど装填速度がじょうしょう上昇した"
+50,Obj_RemoteBombLv2_MenuDesc,,
+51,Obj_RemoteBombLv2_Name,リモコンバクダン＋,Remote Bomb +
+52,Obj_RemoteBomb_Desc,"爆発による破壊を目的とした
+古代シーカー族の技術
+設置後好きなタイミングで爆発させられる","ばくはつ爆発によるはかい破壊をもくてき目的とした
+こだい古代シーカーぞく族のぎじゅつ技術
+せっちご設置後す好きなタイミングでばくはつ爆発させられる"
+53,Obj_RemoteBomb_MenuDesc,,
+54,Obj_RemoteBomb_Name,リモコンバクダン,Remote Bomb
+55,Obj_SheikPadLv2_Desc,"修理してもらう事で
+本来の機能が復活したシーカーストーン","しゅうり修理してもらうこと事で
+ほんらい本来のきのう機能がふっかつ復活したSheikah Slate"
+56,Obj_SheikPadLv2_MenuDesc,,
+57,Obj_SheikPadLv2_Name,シーカーストーン,Sheikah Slate
+58,Obj_SheikSensorLv2_Desc,"アルバムに収められた物体を
+探知できる古代シーカー族の技術
+音と距離で対象物まで導いてくれる","Albumにおさ収められたぶったい物体を
+たんち探知できるこだい古代シーカーぞく族のぎじゅつ技術
+おと音ときょり距離でたいしょうぶつ対象物までみちび導いてくれる"
+59,Obj_SheikSensorLv2_MenuDesc,"アルバムに収められた物体を
+探知できる古代シーカー族の技術
+音と距離で対象物まで導いてくれる","Albumにおさ収められたぶったい物体を
+たんち探知できるこだい古代シーカーぞく族のぎじゅつ技術
+おと音ときょり距離でたいしょうぶつ対象物までみちび導いてくれる"
+60,Obj_SheikSensorLv2_Name,シーカーセンサー＋,Sheikah Sensor +
+61,Obj_SheikSensor_Desc,"遺跡を探知するために開発された
+古代シーカー族の技術
+音と距離で遺跡まで導いてくれる","いせき遺跡をたんち探知するためにかいはつ開発された
+こだい古代シーカーぞく族のぎじゅつ技術
+おと音ときょり距離でいせき遺跡までみちび導いてくれる"
+62,Obj_SheikSensor_MenuDesc,"遺跡を探知するために開発された
+古代シーカー族の技術
+音と距離で遺跡まで導いてくれる","いせき遺跡をたんち探知するためにかいはつ開発された
+こだい古代シーカーぞく族のぎじゅつ技術
+おと音ときょり距離でいせき遺跡までみちび導いてくれる"
+63,Obj_SheikSensor_Name,シーカーセンサー,Sheikah Sensor
+64,Obj_StopTimerLv2_Desc,"照射することで無機物と邪悪なる者の動きを
+一定時間止められる古代シーカー族の技術
+止めた物には攻撃などで衝撃を貯められる","しょうしゃ照射することでむきぶつ無機物とじゃあく邪悪なるもの者のうご動きを
+いっていじかんと一定時間止められるこだい古代シーカーぞく族のぎじゅつ技術
+と止めたもの物にはこうげき攻撃などでしょうげき衝撃をた貯められる"
+65,Obj_StopTimerLv2_MenuDesc,"狙って照射することで無機物に加え邪悪なる者の
+動きも一定時間止められる古代シーカー族の技術
+止めた物には攻撃などで衝撃を貯められる","ねら狙ってしょうしゃ照射することでむきぶつ無機物にくわ加えじゃあく邪悪なるもの者の
+うご動きもいっていじかんと一定時間止められるこだい古代シーカーぞく族のぎじゅつ技術
+と止めたもの物にはこうげき攻撃などでしょうげき衝撃をた貯められる"
+66,Obj_StopTimerLv2_Name,ビタロック＋,Stasis +
+67,Obj_StopTimer_Desc,"狙って照射することで無機物の動きを
+一定時間止められる古代シーカー族の技術
+止めた物には攻撃などで衝撃を貯められる","ねら狙ってしょうしゃ照射することでむきぶつ無機物のうご動きを
+いっていじかんと一定時間止められるこだい古代シーカーぞく族のぎじゅつ技術
+と止めたもの物にはこうげき攻撃などでしょうげき衝撃をた貯められる"
+68,Obj_StopTimer_MenuDesc,"狙って照射することで無機物の動きを
+一定時間止められる古代シーカー族の技術
+止めた物には攻撃などで衝撃を貯められる","Ancient Sheikah technology that can stop
+an object's motion for a short time. Locked
+objects can be attacked to build force that
+will be released when the object is freed."
+69,Obj_StopTimer_Name,ビタロック,Stasis
+70,PlayerStole2_Desc,"始まりの台地でハイラル王から譲り受けた
+風を受けて滑空ができるアイテム
+空中でを押して使おう","An item that you received from the king on
+the Great Plateau. It allows you to sail
+through the sky. Press while you're in
+the air to use it."
+71,PlayerStole2_MenuDesc,"ハイラル王から譲り受けた
+高い所からでも安全に着地することができる道具
+周囲を見回しながら滑空すると気持ちがいい","A glider given to you by King Rhoam. 
+It allows you to safely glide down from high
+places while enjoying the scenery of Hyrule."
+72,PlayerStole2_Name,パラセール,Paraglider

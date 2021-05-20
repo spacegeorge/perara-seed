@@ -1,0 +1,264 @@
+#,Title,JPja,USen
+1,"""0000""",どうしたの？,What's wrong?
+2,"""0001""",何の事だか…,Say what?
+3,"""0002""",ごめんなさい,I'm sorry.
+4,"""0003""",大変ですね,That sounds rough.
+5,"""0004""",分かりました,OK.
+6,"""0005""",今は忙しい,I'm busy now.
+7,"""0006""",教えて,Tell me.
+8,"""0007""",大丈夫,It's OK.
+9,"""0008""",お願いします,"Yes, please."
+10,"""0009""",結構です…,"No, thanks..."
+11,near00,ぶつぶつ…,*grumble*
+12,near01,ぬぅ…,Hmph...
+13,near02,ふむふむ…,Hmm...
+14,talk00,むむむ…むむ…むぅ…,Hmm... Hrmm... Hmph...
+15,talk01,"ふむ…旅の人か…
+
+この石碑には過去にドレファン王がしたためた
+ゾーラの歴史が書かれておるゾラ
+此度一冊の本にしようかと思うて
+読み返しておるゾラよ","Hmm... A traveler, eh?
+
+
+Upon this stone monument is the proud
+history of the Zora, as dictated by
+King Dorephan himself many years ago.
+I plan to record it all in a book, 
+so I am reading it again."
+16,talk02,"…
+
+……
+
+リンク！！
+
+よく見たら リンクではないか！
+
+我らがミファー様を奪いし ハイリア人…
+更にその英傑…
+ゆ…許すまじ！断じて！","...
+
+
+...
+
+
+Link?!
+
+
+Is that really you?
+
+
+The Hylian...who stole away our
+Lady Mipha! And what's more,
+the Champion who...
+I...I cannot forgive you! Not ever!"
+17,talk03,"それで許されると思うたかーッ？！
+
+オヌシらハイリア人は 100年前
+厄災ガノンを止められなかっただけでなく
+ワシらからミファー様を奪ったゾラ！
+
+ワシは絶対に お前らハイリア人を許さんゾラ！
+絶対に！","Do you not understand the gravity of
+what you have done?!
+
+Not only did you Hylians fail to stop 
+Calamity Ganon 100 years ago...
+
+But you went and stole our Lady Mipha
+from us!
+
+I will never forgive you awful Hylians!
+Not ever!"
+18,talk04,ぶつぶつ…,*grumble*
+19,talk05,"顔も見とうない！
+さっさと立ち去れゾラ！","Your face sickens me! I am sickened!
+Get out of my sight! NOW!"
+20,talk09,"リンク…
+ワシはオヌシを誤解しとったようゾラ
+神獣 ヴァ・ルッタのあの姿…
+
+主であるミファー様を失うても
+厄災ガノンと戦うておるというのか…
+申し遅れた ワシはジアート
+
+ゾーラの過去を研究し
+未来へと伝える歴史学者だゾラ","Link... It seems that...I was wrong
+about you.
+
+Seeing Divine Beast Vah Ruta's
+form there...
+
+Even though we lost Lady Mipha,
+it seems she can still help you fight
+against Calamity Ganon...
+Oh! I am sorry I did not introduce
+myself sooner. I am Jiahto.
+
+I am a historian who studies Zora history
+and preserves it for future generations."
+21,talk10,"それにしても ドレファン王がしたためた
+と言われる この石碑は もうボロボロ…
+おそらく里の外の10基の石碑も
+同じ状態である事は間違いないゾラ
+そこでワシは全ての石碑の内容をまとめ
+一冊の本にしようと思うとるゾラが
+この老いた足腰ヒレでは10基全ての石碑を
+見て回るには時間がかかり過ぎるゾラ","Even so, this stone monument that
+King Dorephan supposedly wrote...
+It's torn to pieces now.
+Most likely, the 10 stone monuments
+outside of the domain are in the same
+awful condition.
+I'm thinking about collecting the
+contents of all of the stone monuments
+and compiling them into a book.
+But with these old legs and fins,
+traveling to all 10 stone monuments
+will take a great deal of time."
+22,talk11,"なので リンク…お願いじゃ
+","That is why... Link... I'd like to ask a
+favor of you."
+23,talk12,"ゾーラの里の周辺にある10基全ての石碑を探し
+その内容を教えて欲しいゾラ","I'd like you to find all 10 stone
+monuments around Zora's Domain
+and tell me what they say."
+24,talk13,ふむ…仕方あるまい,"Hmm... Well, it's not like I have a say
+in the matter."
+25,talk14,"おお！助かるゾラ！
+英傑自らが探してくれるとは心強い！
+石碑の中には なにやらお宝の在処が
+書かれているものも あった気がするゾラ
+そのお宝見つけられたらオヌシのもの
+おそらく ゾーラには必要ないものじゃろうて
+いいかゾーラの里の周辺の10基の石碑ゾラ
+それでは頼んだ！","Oh! Thank you! You truly are a lifesaver!
+How reassuring that the Champion will
+search for those monuments for me!
+I have it on good authority that among
+the stone monuments, one has the
+location of some treasure written on it.
+If you happen to find said treasure,
+feel free to keep it. It will most likely be
+something that a Zora wouldn't need.
+Yes, you'll find the 10 stone monuments
+around Zora's Domain... I believe in you.
+
+In fact, I'm counting on you!"
+26,talk15,"ふむ…リンクか
+","Hmph... Link, eh?"
+27,talk16,"老い先短いワシの役目は
+ゾーラの歴史を後世に伝える事…
+ぜひ協力してほしいゾラ","In the few years I have left, my role and
+joy in this world is to preserve Zora
+history for future generations...
+In other words, I'm counting on you!"
+28,talk17,"ハイリアの英傑 リンク…
+ワシの願いを聞いてくれんゾラか？","Hylian Champion Link...
+Will you hear my request?"
+29,talk18,"どうした？石碑が見つからないゾラ？
+
+オヌシがまだ調べていない石碑の
+だいたいの場所なら教えてやれるゾラが…","What is wrong? Are you unable to find
+all of the stone monuments?
+
+I can perhaps tell you the location 
+of a stone monument you have yet
+to investigate..."
+30,talk19,"ふむ…残りの石碑は基…
+頼んだゾラ","Hmm... How many monuments are
+remaining? ? I'm counting on you!"
+31,talk20,"分かった…今思い出すゾラ
+
+サイコロ コロコロポーイ
+
+よしならば この辺り…","OK. I'll try to remember...
+
+
+Roll, roll the dice... *toss*
+
+
+Got it! It's in this area here..."
+32,talk21,"心のサイコロを振るまでもなく
+残りは ここゾラ","I won't need to roll the dice of hearts
+for this one. The remaining one is here."
+33,talk22,"「ラルス池""南の崖下付近」",Beneath the cliff south of Ralis Pond!
+34,talk23,「オーレン橋の北の崖」,The northern cliff of Oren Bridge!
+35,talk24,"「ルト湖""西岸」",The west coast of Ruto Lake!
+36,talk25,"「ラルート大橋""南の眼下」","Below and to the south of
+Luto's Crossing!"
+37,talk26,「ド・ボン山脈の東の林」,"In the eastern grove of
+Zodobon Highlands!"
+38,talk27,"「ルテラーダム""西の山道」",At a mountain trail west of Rutala Dam!
+39,talk28,"「ルト山""山頂付近」",Near the peak of Ruto Mountain!
+40,talk29,「ルト湖石橋南付近」,"Near the south end of the stone bridge
+over Ruto Lake!"
+41,talk30,"「ルル湖""付近」",Near Lulu Lake!
+42,talk31,"「ゾラ台地""南東の崖」","At the southeastern cliff of
+Upland Zorana!"
+43,talk32,もう一度 やってみるゾラ？,Would you like me to check again?
+44,talk33,"リンク…
+全ての石碑を調べ戻ってくれたゾラか
+さっそく石碑の内容を教えてほしい…","Link... It would seem you have checked
+all of the stone monuments for me!
+
+Now then, please tell me what was
+written on them!"
+45,talk34,"ふむふむ…ゾーラの歴史文明英雄譚…
+どれも鮮明に記録されておるゾラ
+うむ！オヌシのお陰で
+石碑の内容を まとめられそうゾラ！
+リンクよ ご苦労であった！
+これは気持ちゾラ！","Hmm... The history, culture, folklore,
+and various heroic acts of the proud
+Zora people... It's all here!
+Eureka! Thanks to you, I've compiled
+the precious information from those
+stone monuments!
+Link, thank you for taking on such an
+arduous task! Please, allow me to
+reward you!"
+46,talk35,"この度は助かったゾラ！
+ヒレを畳み謹んで礼を申し上げるゾラ
+ドレファン王の碑文
+このジアートが責任を持って後世に残す！
+そしてリンク…オヌシの活躍も
+記述に加えておくことにするゾラ","It was an arduous task you took on
+for me... I humbly bring my fins
+together in gratitude!
+I, Jiahto, shall take the responsibility of
+passing on King Dorephan's inscriptions
+to future generations!
+And, Link... A description of your heroic
+contribution shall be included, as well!"
+47,talk36,"と思ったがオヌシ
+ずいぶんとダイヤモンドを ため込んどるゾラ
+これ以上持てないなら
+1個減らして また来るゾラ","At least, that's what I intended to do.
+But I see you've got quite a collection
+of diamonds already...
+Since you cannot carry any more,
+I suggest you somehow rid yourself
+of one and come back."
+48,talk37,"オヌシに礼をしたいが
+ずいぶんとダイヤモンドを ため込んどるゾラ
+これ以上持てないなら
+1個減らして また来るゾラ","I would like to reward you, but it seems
+you already have quite a collection
+of diamonds.
+Since you cannot carry any more,
+I suggest you somehow rid yourself
+of one and come back."
+49,talk38,"リンク戻ったか
+では あらためて…
+オヌシのお陰で
+石碑の内容を まとめられそうゾラ！
+リンクよ ご苦労であった！
+これは気持ちゾラ！","Ah, Link! You came back!
+Now then, where was I?
+
+Ah, yes! Thanks to you, I have finally
+compiled the information from those
+stone monuments!
+It was an arduous task you took on,
+so please allow me to reward you!"

@@ -1,0 +1,24 @@
+#,Title,JPja,USen
+1,QL_TwoWheels_Desc,"カッシーワから教えてもらった古の詩
+
+『ひとすじの矢 ふたつの輪射抜く時
+勇者の試練が姿を現す』
+
+詩の通りに行動すれば
+古代の祠が見つけることができそうだ","Kass taught you an ancient song.
+
+\""When a single arrow threads two rings,
+the shrine will rise like birds on wings.\""
+
+Does the song reference something specific
+to the area?"
+2,QL_TwoWheels_Finish,"『ひとすじの矢 ふたつの輪射抜く時
+勇者の試練が姿を現す』
+
+穴の開いた二つの岩に矢を通すと 
+古代の祠が現れた","\""When a single arrow threads two rings,
+the shrine will rise like birds on wings.\""
+
+An ancient shrine appeared when you loosed
+a single arrow through two ring-shaped rocks."
+3,QL_TwoWheels_Name,ふたつの輪,The Two Rings

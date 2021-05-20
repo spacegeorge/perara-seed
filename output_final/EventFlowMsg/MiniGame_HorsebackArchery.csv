@@ -1,0 +1,242 @@
+#,Title,JPja,USen
+1,"""0000""",自信しかない,Pretty confident.
+2,0000_00,"はたして その自信は本物か？
+若さ故の過信ほど怖いものは無いからな
+どうだ？
+ここでひとつ腕試しをしていかぬか？","Yeah? You got the skills to back that
+confidence up?Nothing's more dangerous than a man
+who thinks he can handle the worst, only
+to fall apart when the time comes.
+What do you think? Are you confident
+enough to prove you got the right stuff?"
+3,0000_01,"青年よ
+鍛錬をしに来たのか？",Young man...are you looking to drill?
+4,"""0001""",あまり自信はない,"Uh, not too confident."
+5,0001_00,"ふむ… それは実に心許ない
+この先の魔物どもは手強いからな
+提案だが…
+ここで鍛錬をしていかぬか？","Hm... I don't like the sound of that.
+The monsters out this way are strong
+critters.
+You're sure you don't want to drill with
+me some?"
+6,"""0002""",急いでいるので…,I'm in a hurry...
+7,0002_00,"これは失敬""呼びとめてすまなかったな
+汝の未来に幸有らんことを…","My apologies, then. I didn't mean to
+speak out of turn. Happy trails and
+straight shooting, young man."
+8,"""0003""",しようかな,"Sure, I'm game."
+9,"""0004""",腕試し？,Prove it how?
+10,"""0005""",キョーミ無いね,I've nothing to prove.
+11,"""0006""",鍛錬？,How do you mean?
+12,"""0007""",知りたい,I do.
+13,"""0008""",もう一度説明を…,Go over it again.
+14,"""0009""",いいよ,Sure.
+15,"""0010""",やだ,Nothing doing.
+16,"""0011""",登録を済ませてくる,I'll register this one.
+17,"""0012""",所有馬を連れてくる,I'll call my own horse.
+18,"""0013""",競技をやめたい,I want to quit.
+19,"""0014""",なんでもない,It's nothing.
+20,"""0015""",それでもやめる,"Yeah, I quit anyway."
+21,"""0016""",やっぱり続ける,"Fine, I'll keep going."
+22,"""0017""",なくて大丈夫,Not really.
+23,"""0018""",必要です,That would be nice.
+24,"""0019""",買う,I'll buy.
+25,"""0020""",売る,I'll sell.
+26,"""0021""",いらない,"I'm fine, thanks."
+27,Accompany_00,"そうか
+愛馬との鍛錬が一番だと私も思うぞ","I'd agree that training with your trusty
+horse is a smart move anytime."
+28,Accompany_01,"その道に沿って進むと馬宿があったはずだ
+そこから愛馬を連れてくると いいだろう","Head down that path there, and you
+ought to come across a stable. Fetch
+your steed from them if you got one."
+29,Accompany_02,"連れて来たら
+馬上より""改めて私に話しかけてくれ","Get a horse, mount up, then come talk
+to me while you're riding high in the
+saddle."
+30,AskAgain,どうだ？ もう一度鍛錬していくか？,Well? You want to drill some more?
+31,AskAgain_00,"また20ルピーを頂戴することになるが…
+それでもいいな？","The price hasn't gone down any—
+20 rupees, same as ever. That fine
+with you?"
+32,AskAgain_01,"そうか また顔を見せてくれ
+雨の日も風の日も ここで汝を待つとしよう","Don't be a stranger, young man.
+I'll be waiting here for you, come wind
+or storm."
+33,Explanation_00,"汝はヤブサメというものを御存知か？
+遥か東方の異国の競技なのだが…
+疾走する馬上より弓を番え的を射抜くという
+なんとも流麗な競技なのだ
+これより先馬上での戦いも多くなる故
+この競技が力量を計る良い手立てかと思ってな","Ever heard of horseback archery? They
+invented it way out east somewhere.It takes a lot of coordination to shoot
+targets with a bow and arrow from the
+back of a galloping horse.
+I expect you'll run into mounted
+varmints now and again, so this'll be a
+good way to get some practice in."
+34,Explanation_01,"そうだな…""20個以上の的を壊したら
+私の持つ馬装備を譲ろうではないか","Tell you what... You break more than 20
+targets, and I'll hand over my horse gear."
+35,Explanation_02,"そうだな…""23個以上の的を壊したら
+私の持つ馬装備を譲ろうではないか","Tell you what... You break more than 23
+targets, and I'll hand over my horse gear."
+36,GameEnd,"そこまで！
+一度戻ってきてくれるか",Hold it! Head on back here.
+37,GameInit_00,"流石に若いだけあって決断が速いな
+その決断力が いつか汝を救うだろう","They say youth breeds impulsiveness,
+but it's that kind of quick certainty that'll
+save your hide. Maybe someday soon."
+38,GameInit_01,"さて…""心苦しい話だが費用の一部として
+20ルピーを頂戴しても構わんだろうか？","Now...I'm loath to ask, but would you
+mind forking over 20 rupees to cover
+some of my costs?"
+39,GameInit_02,"かたじけないな
+この対価に見合う鍛錬となることを約束しよう","Much obliged, young man. I guarantee
+my drills are worth twice what you pay."
+40,GameInit_04,"青年よ…""今一度懐具合を確認してから
+私に話しかけてはくれないだろうか…","Young man... A straight shooter checks
+his wallet before he antes up, not after.
+Sort yourself out, and come back later."
+41,GameInit_05,"善意とて無償ではないのだ…
+悪く思わんでくれ","This here's a service I'm happy to
+provide, but I can't do it for free.
+Don't judge a man for his needs."
+42,GameInit_06,"賢明な判断だな
+この判断が いつか汝を救うことになるだろう","Good thinking. Keep it up and you might
+live to be my age."
+43,GameReady_00,それでは少し私について来てくれ,"All right. Then c'mere, young man."
+44,GameReady_01,"向こうの浮いている的は見えるな？
+あれを弓矢で壊した数で腕前を計るとしよう","You see the targets floating out there?
+I'll judge your skill by how many of 'em
+you pop with your arrows."
+45,GameReady_02,"時間になったら私が声をかけるから
+それまでは存分に腕を振るってくれ
+言うまでも無いが自分の馬から降りたら中断だ
+あくまでも馬術の腕前を見るものだからな","Don't you worry about when time's up.
+I'll let you know. Until then, ride hard
+and shoot straight.
+Suppose this goes without saying,
+but you get off your horse, and we're
+done here.
+No way to practice shooting from
+horseback when you're standing around
+on foot, after all."
+46,GameReady_04,"話が長くなってしまったが私からは以上だ
+それでは始めようか""汝の健闘を祈る","Figure I've said my piece now. Time we
+got started. Best of luck, young man."
+47,GameReady_05,"さて""競技の前に少し説明をさせてくれ",I'll explain a bit before we get started.
+48,GameReady_06,さて競技の説明は必要か？,"You need a refresher on how this drill
+works?"
+49,GameReady_07,"それでは始めようか""汝の健闘を祈る","Figure it's time we got started. Best of
+luck, young man."
+50,GameResult_00_00,"ふむ…個か…
+あまり芳しい腕前とは言えぬな
+まずは常歩や速歩といった速さで
+馬に慣れるところから始めてはどうかな？","Hm... You only hit ...
+Nothing to write home about.Might want to shoot from a trot some
+more before you jump straight into
+firing at a gallop."
+51,GameResult_01_00,"ふむ…個か…
+下手ではないが この先に行くには不安が残るな
+動きながらの弓術は難しいからな
+撃つべき的をよく見ることだな
+これは私からの餞別だ
+精進せよ","Hm... Well, you hit ...
+Not bad, but I'm not rightly convinced
+you're ready to raise the stakes.
+Hitting your mark at a gallop is no small
+potatoes. Make sure to keep your eye on
+the target.
+Here's a reward for seeing it through.
+Keep drilling and you'll get it."
+52,GameResult_02_00,"ほう…個とは…
+なかなかに見込みがありそうだな青年よ
+集中すると的が止まって見えると聞くが
+汝なら その域に辿り着けるやもしれぬな
+これは旅を続ける汝への差し入れだ
+どうか役立ててほしい","Hm... targets...
+You've got some fire in you, young man.The best archers say targets seem to
+freeze when they concentrate on them.
+I think you could reach that level too.
+Here's a gift to help you on your travels.
+Hope you find a good use for it."
+53,GameResult_03_00,"むむっ個とは…
+若いのに大した腕前だな
+む？""若くない？ 100歳を超えている？
+ははは""冗談の腕も大したものじゃないか
+これは良いものを見せてもらった礼だ
+私にはもう不要なものだ遠慮せんでくれ","Hm... targets...
+It's been a dog's age since I've seen
+such talent in someone so young.
+What do you mean you're not that
+young? Over 100 years old? Go ahead,
+pull the other one.
+Anyway, this gift is my thanks for putting
+on a good show. I'm past needing it,
+and I think you should have it."
+54,Halt_00,む？ どうかしたか？,Hm? What's the matter?
+55,Halt_01,"そうか…
+頂戴した費用は返すことは出来ないがいいか？","That's fair. Course, you won't get your
+money back, if that's what you're after.
+Still planning to quit?"
+56,Halt_02,"うむ ならばよかった
+まだ時間はあるぞ最善を尽くしてくれ","Good. No one likes a quitter. There's
+still time, so ride hard and shoot straight."
+57,Halt_03,"やむを得ない事情があるのだろうな…
+汝の無事を祈っているぞ","I suppose you have your reasons.
+Hope to see you again someday."
+58,Initial,"そこの青年よ""戦いの心得がありそうだが
+馬上での戦闘にも自信はあるか？","Hello there, young man. I can tell just
+by looking that you're a trained warrior.But tell me this: How confident are you
+in your ability to fight on horseback?"
+59,MyHouse_00,"では""愛馬との人馬一体の活躍
+とくと見せていただこう","Suit yourself. We'll see how well you and
+your horse act as a team on the field."
+60,Near00,鍛錬せねば,Can't miss my drills today.
+61,Near01,うとうと,*snore...*
+62,Near02,雨が降ろうとも,"Do your worst, rain."
+63,New,"では的の準備をしてくるのでな
+このまま しばし待たれよ","I'll go fix up the targets. Shouldn't
+be long."
+64,New_00,"待たせてしまって悪かったな
+それでは鍛錬を再開しようか",All done now. Let's get drilling again.
+65,NoHouse,"さて…""見たところ馬には乗っていないようだが
+これでは鍛錬を行うことは出来ないな","Now...for a young man interested in
+horseback archery, you seem to be in
+want of a horse. That's no way to drill."
+66,Rain,"こんな雨の日の鍛錬は
+厳しいものがあるだろうが精進するがいい","Training on a rainy day like this can be
+harsh, but it'll do you a world of good
+to tough it out."
+67,Re_ask,"さて もう一度問おう
+己が力量知りたくはないか？","So I'll ask you again. Don't you want
+a chance to prove you're not all talk?"
+68,Register_00,うむ それがいいだろう,Sounds like the right call to me.
+69,Register_01,"その道に沿って進むと馬宿があったはずだ
+そこで登録をしてから""改めて私に話してくれ","Head down that path there, and you
+ought to come across a stable.They'll register your horse for you so
+you can come back and drill here."
+70,Sleep,うむ なんだ夜遅くに…,"Hm? You sure are a night owl,
+aren't you?"
+71,Talk00,"この鍛錬には弓と矢が必要だ
+十分な準備は できているだろうか？
+矢は必要であれば売ることもできるが
+どうするかね？","Can't drill without a bow and arrows.
+I'd think that's just common sense.If you need some, I can sell you a few
+of mine. Or I'm open for any sort of
+business! What do you say?"
+72,Talk03,もう必要なものはないか？,Anything else you need?
+73,WhenFallFromHorse_01,"愛馬ともども達者でな
+くれぐれも無茶はしてくれるなよ","You and your horse are something else.
+Promise me you won't get careless."
+74,WildHouse_00,"ふむ…""見たところその馬は
+馬宿での登録が まだ済んでいないな？
+残念だが登録が済んでいない馬での鍛錬は
+認めることが出来んのだよ
+このままでは鍛錬にならんが
+どうするかね？","Hm... That horse of yours doesn't look
+registered to me. Can't have you drill
+on an unregistered horse.
+Any ideas?"

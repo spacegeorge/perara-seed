@@ -1,0 +1,126 @@
+#,Title,JPja,USen
+1,"""0002""",勝負する,You're on.
+2,0002_00,"ヘーィ！""イイネ！イイヨ！サイコーだよ！
+ただしかけっこといえど勝負は勝負！
+20ルピーを賭けてもらう！
+俺とかけっこ勝負するかい？","Yahoo! Now we're talking! This is
+fantastic! But every challenge has to
+have some stakes.
+I'll bet you 20 rupees I can beat you in
+a race. You have to pay first, though!"
+3,0002_01,"ヘーィ！""イイネ！イイヨ！サイコーだよ！
+また20ルピーを賭けて俺とかけっこ勝負だ","Yahoo! Now we're talking! This is
+fantastic! Why don't you put down
+another 20 rupees and race me again?"
+4,"""0004""",勝負しない,I don't feel like it.
+5,0004_00,"オット！残念！
+
+久しぶりに見込みのある青年と
+出会えたと思ったのに…見込み違いか…ヘェーィ","Noooo! What a letdown... I thought I'd
+finally met a tough boy with some real
+potential. Guess I thought wrong."
+6,"""0005""",もちろん勝負する,Let's get started.
+7,0005_00,"ヘィ！""その意気込みこそが大事だな！
+じゃあ準備するし ちょっと待っててくれ！","Yesss! Now you're getting into the
+spirit of things! I'll go set things up.
+Don't go anywhere!"
+8,0005_01,"ヘィ！""お待たせ！足の先まで準備万端だ！
+お待ちかねのかけっこ勝負の時間だぜ！ヘィ！","OK! Thanks for waiting! I'm so ready
+I could burst, and I bet you are too!
+So let's begin...the race!"
+9,0005_03,"かけっこのゴールはあの山のてっぺんの旗の所！
+どちらかがゴールに着いた時点で勝負は終了！","The goal is the flags on top of the 
+mountain! There's only two of us, so the
+race ends once someone reaches them!"
+10,0005_04,"ヘイ！わかっているとは思うが…
+かけっこ勝負は自分の力だけでの勝負だ！
+馬を使ったり ゴールを目指さなかったり
+した場合は失格になるから気を付けてくれよ！","One more thing! You could probably
+guess this already, but this is a foot race,
+not a hoof race.
+If you ride your horse or run away from
+the goal instead of toward it, you'll
+be disqualified!"
+11,0005_07,"ヘィ！""かけっこ勝負！ ヨーイ…",And now...it's time! Get ready...
+12,0005_08,ドン！,Go!
+13,0005_NotEnoughMoney,"ヘィ！軍資金として20ルピーを用意してから
+かけっこ勝負といこうじゃないか！まってるぜ！","Oops! I don't race without those 20
+rupees on the line. Why don't you go
+get some so we can finally race?
+I'll be waiting!"
+14,"""0006""",じゃあ勝負しない,You lost me.
+15,0006_00,"ヘィ！""戦う前から諦めか？
+そんな心構えで この先旅を続けられるのか？","What?! You're giving up before we
+even start? Yikes... You'll never get
+anywhere in life with that attitude!"
+16,0009_01,"ヘィ！またかけっこで勝負をしたくなったら
+俺はいつでも挑戦を受けて立つぜ！ヘイヘーイ！","Whew! If you ever want to go again,
+I'd jump at the chance! See you around!"
+17,"""0010""",じゃあ続ける,Then I'll continue.
+18,"""0014""",勝負する,One more time!
+19,0014_00,"ヘーイ！""イイネ！イイヨ！サイコーネ！
+ルールはさっきと一緒早くゴールした方の勝ち","Woooo-hooo! I love this guy! 
+All right!
+
+Same rules as before. Whoever reaches
+the goal first wins!"
+20,0014_NotEnoughMoney,"ヘィ！""かけっこ勝負するなら
+軍資金の20ルピーを用意してくれ！","Whoops! You need 20 rupees if you
+wanna race!"
+21,"""0015""",勝負しない,I've had enough.
+22,0015_00,ヘィ！そりゃ残念だぜ… ヘーィ…,Aww. That's...not the answer I hoped for...
+23,0015_01,ヘィ！旅で素足を鍛えるんだぜ！,"Use all that traveling you do as a
+chance to build up your leg muscles!"
+24,AtGoal_00,"ヘィ！ゴォォォォール！俺の勝ちー！
+ニイチャン俺に挑むには まだ100年早いな？","Wheeee! I did it! I won! You gotta
+give those flat feet some exercise if you
+ever wanna beat me, friend!"
+25,AtGoal_00_00,"ヘーィ！""ニイチャン もうゴールしたのか？
+うーん…今回は俺の負けだ！…ヘイヘーイ…","Done! Wait... You're done too?
+You were done...first? Hrm...
+That means I lose..."
+26,AtGoal_01_03,"ニイチャンのタイムは分秒俺も本気じゃなかったとはいえ…勝負は勝負！
+これかけっこ勝負の報酬！受け取ってくれ！","Your time was ...I wasn't REALLY trying my best...but a 
+bet is a bet! Here's your reward for a
+race well run!"
+27,AtGoal_01_04,"ヘィ！俺のタイムは分秒ニイチャンも まあまあ頑張ったとは思うが
+俺に勝つつもりなら もっと鍛えないとな！","Nice! My time was ...You did OK, but if you're ever gonna beat
+me, you've gotta try harder than that!"
+28,AtGoal_02,ヘィ！もう一勝負していかないか？,Whew! So...wanna race again? 
+29,Halt_00,"ヘィヘィヘィ！
+かけっこは自分の足で走る勝負だ！ 
+馬はダメでしょ！""失格！…ヘーイ…","Whoa, whoa, whoa! This is a foot
+race, not a hoof race! No horses
+allowed! Hey... That means I win by default!"
+30,Halt_01,"ヘーィ！""俺の説明が足りなかったかな？
+かけっこ勝負は自分の足でゴールを目指す勝負！
+つまり ゴールを目指すルートを大きく外れたり
+馬に乗っての移動は失格ということでよろしく！","One more time! Maybe I wasn't clear
+enough before, but a race is all about
+reaching the goal on your own two feet!
+In other words, running the wrong way
+or getting on your horse means you're
+disqualified!"
+31,Halt_02,"ヘィヘィヘィ！""どこに行くつもりだー？
+ゴールに向かってくれないと勝負にならないぞ！
+ゴールに向かってくれないとなぁ…失格です！
+戻ってきてくれ！勝負の確認をしよう！","What the heck?! Where do you think 
+you're going? If you're not racing
+toward the goal, you're just running!
+And that doesn't do anyone any good...
+The race is off! Why don't you come back
+so I can explain the rules again?"
+32,Initial_00,"ヘィ！ニイチャン！体力に自信があるなら
+いっちょ俺とかけっこで勝負してみないか？","Hey, friend! You look like a tough boy.
+But how tough are you? Tough enough
+to challenge me to a race?"
+33,Initial_01,"ヘィ！立派なお馬さんでの旅もいいが…
+自分の足での旅！それも大事だと思わないか？","Hey, friend! Sure, horses are
+convenient and fast, but what about
+standing on your own two feet?
+Don't you think it's important to exercise
+your legs too?"
+34,Initial_02,"ヘィ！""俺は自分の足で勝負したいんだ！
+悪いが馬から降りて話しかけてくれ！","I'm itching to challenge you to
+a foot race, but you need to get off
+your high horse first! Please? For me?"

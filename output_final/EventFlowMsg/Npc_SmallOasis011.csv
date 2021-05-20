@@ -1,0 +1,362 @@
+#,Title,JPja,USen
+1,"""0000""",ゲルドの街？,Gerudo Town?
+2,"""0001""",神獣？,Divine Beast?
+3,"""0002""",さよなら,Good-bye.
+4,"""0003""",ありがとう,Thank you.
+5,"""0004""",男の商人知らない？,There's this merchant...
+6,Talk_000,"ここはカラカラバザールだ
+ゲルドの街までの休息地のようなもんだ
+旅人ならここで ゆっくりしていくがいい
+
+といっても お前はヴォーイなので
+ゲルドの街には入れんがな
+まぁ どちらにしても今は神獣が暴れてる
+街の方へ行くのは やめておくんだな","This is Kara Kara Bazaar.
+
+
+Gerudo Town is still a fair distance
+southwest of here. If you're headed
+there, you should consider resting a bit.
+Though, you ARE a voe... Even if you
+make it to town, you won't be able to
+get in...
+All the same, the Divine Beast is kicking
+up a storm right now, so I don't
+recommend going to Gerudo Town."
+7,Talk_001,"神獣 ヴァ・ナボリスのことを知らんのか？
+
+かつては ゲルド族の守り神として
+祀られたこともあったと聞くが
+しばらく前から急に現れ暴れだしてな…
+
+どうにかしようにも神獣は砂嵐と雷に
+守られていて手が付けられんのだ
+しかし いつゲルドの街やここに
+近づくかわからんのでな
+私はこうやって
+ずっと見張っているんだ","You don't know about Divine Beast Vah
+Naboris?
+
+Supposedly, it is the guardian deity for
+the Gerudo people, but it suddenly
+started acting up a while back.
+There's nothing we can do to stop it,
+either... It's protected by a fierce
+sandstorm and intense lightning.
+Though it hasn't yet, it could easily head
+toward Gerudo Town or this oasis. I do
+my best to keep an eye on it from here."
+8,Talk_002,"ゲルド人と話したいなら
+ゲルド語を少し覚えておくと いいだろう
+さよならは「サヴォーク」だ！","If you want to speak with the Gerudo,
+you should learn some of our language.
+For example, \""sav'orq\"" is \""good-bye\""!"
+9,Talk_003,"まぁ ここまで神獣は来ないだろうが…
+念のため警備しとかんとな
+お前もゲルドの街に行くなら気を付けんと
+せっかくの衣装が ボロボロになりかねんぞ","Well, the Divine Beast probably won't
+head in this direction... But we should
+be on alert, just in case.
+If you're going to Gerudo Town, you
+should definitely be careful... The harsh
+desert could tear up your nice outfit."
+10,Talk_004,"神獣が大人しくなったとはいえ
+砂漠は魔物も多く危険な場所だ
+引き続き警備は続けんとな","And while the Divine Beast has settled
+down, the desert is still full of monsters.
+You should stay on your guard."
+11,Talk_005,"ここはカラカラバザール
+ゲルドの街までの休息地のようなもんだ
+まぁ神獣も暴れているし今は街へ行くより
+ここで ゆっくりするといいだろう","This is Kara Kara Bazaar.
+
+
+Gerudo Town is still a fair distance
+from here. If you're headed there, you
+should consider resting a bit.
+Although... The Divine Beast is kicking
+up a storm right now, so it would be very
+dangerous to head that way."
+12,Talk_006,"砂漠の夜は冷えるぞ
+
+カラカラバザールの中は大丈夫だが
+外に行くときは体を冷やさんようにな","Did you know that desert nights get
+incredibly cold?
+
+You'll be fine as long as you're in
+Kara Kara Bazaar, but it can get really
+chilly the farther away you wander."
+13,Talk_007,"太陽がでてきたな…
+
+太陽がある時間は砂漠は灼熱となる
+身体を冷やすことを忘れんようにな","The sun is really starting to beat down
+on us now...
+
+The desert is incredibly hot so long as
+the sun is blazing down on it. Be sure to
+keep yourself cool as you travel."
+14,Talk_008,"ゲルドの街は ここから南西の方角にある
+この辺りで一番大きな街だ！
+交易の場としても有名で
+不夜城としても名高い活気あふれる街だ
+しかし ゲルド族の掟により
+ヴォーイ… つまり男は中に入れないのだ","Gerudo Town is to the southwest. It's the
+biggest town in the area!
+
+It's famous for trade and also for staying
+active and vibrant all night long.
+
+However, there is a law forbidding
+voe—males—from entering the city."
+15,Talk_009,"ほぅ…
+
+ゲルドの民族衣装を着た
+ハイリア人を見たのは これで二人目だが…
+もう一人のヴァーイの方が
+体つきもたくましく我らに近い印象だったな
+いや… もちろんお前も似合っているぞ
+
+ゲルド族の衣装が ハイリア人に
+そんなに人気だとは知らなかったな","Well, well...
+
+
+You're the second Hylian I've seen
+wearing Gerudo-style clothing.
+
+The other one looked much more Gerudo
+though, if I'm being honest. Not that it
+doesn't look good on you, too.
+I didn't realize that Gerudo clothing
+was so popular among Hylians..."
+16,Talk_011,"神獣が大人しくなったとはいえ
+砂漠は危険だからな まだまだ気は抜けん！
+しかし…
+
+そろそろ交代の者が来てもいいと思うんだが…
+
+早く帰って酒場で一杯
+やりたいよ…","Even though the Divine Beast has settled
+down, the desert is still full of monsters.
+We can't afford to be complacent!
+I think it's just about time for someone to
+come relieve me...
+
+I really want to get back in time to grab a drink and
+relax at the canteen..."
+17,Talk_012,サヴォッタ！,Sav'otta!
+18,Talk_013,サヴァーク！,Sav'aaq!
+19,Talk_014,サヴァサーバ！,Sav'saaba!
+20,Talk_015,"ゲルドの街は ここから南西の方角にある
+この辺りで一番大きな街だ！
+交易の場としても有名で
+不夜城としても名高い活気あふれる街だ
+ゲルド族の掟により
+ヴォーイ… つまり男は中に入れないが
+お前のようなカワイイヴァーイなら
+大歓迎だ！
+といっても神獣が暴れているんでな
+今は街に行くのは勧めんがな","Gerudo Town is to the southwest. It's the
+biggest town in the area!
+
+It's famous for trade and also for staying
+active and vibrant all night long.
+
+However, there is a law forbidding voe—
+males—from entering the city... But a
+cute vai like you would be most welcome!
+Or...this would normally be true, but that
+Divine Beast is on a rampage, so I
+can't recommend heading to town now."
+21,Talk_016,"その服 よく似合ってるな
+
+神獣が大人しくなったとはいえ
+砂漠は魔物も多く危険な場所だ
+まだ警備は続けないといけないが…
+
+仕事が終わったら
+私も一張羅に着替えて出かけるとしようかな","Those clothes look good on you.
+
+
+And while the Divine Beast has settled
+down, the desert is still full of monsters.
+You should stay on your guard.
+Once my shift ends, I'm thinking of
+putting on a nice outfit and going out."
+22,Talk_017,"まぁ ここまで神獣は来ないだろうが…
+念のため警備しとかんとな
+お前もゲルドの街の近くまで
+行こうと思ってるなら気を付けるんだぞ","Well, the Divine Beast probably won't
+head in this direction... But we should
+be on alert, just in case.
+If you're thinking of going anywhere near
+Gerudo Town, you should definitely be
+careful, too."
+23,Talk_018,"神獣 ヴァ・ナボリスのことを知らんのか？
+
+かつては ゲルド族の守り神として
+祀られたこともあったと聞くが
+しばらく前から急に現れ暴れだしてな…
+
+どうにかしようにも神獣は砂嵐と雷に
+守られていて手が付けられんのだ
+しかし いつゲルドの街やここに
+近づくかわからんのでな
+私はこうやって
+ずっと見張っているんだ","You don't know about Divine Beast Vah
+Naboris?
+
+Supposedly, it is the guardian deity for
+the Gerudo people, but it suddenly
+started acting up a while back.
+There's nothing we can do to stop it,
+either... It's protected by a fierce
+sandstorm and intense lightning.
+Though it hasn't yet, it could easily head
+toward Gerudo Town or this oasis. I do
+my best to keep an eye on it from here."
+24,Talk_019,"ゲルドの街は ここから南西の方角にある
+この辺りで一番大きな街だ！
+交易の場としても有名で
+不夜城としても名高い活気あふれる街だ
+ゲルド族の掟により
+ヴォーイ… つまり男は中に入れないが
+お前のようなカワイイヴァーイなら
+大歓迎だ！
+といっても神獣が暴れているんでな
+今は街に行くのは勧めんがな","Gerudo Town is to the southwest. It's the
+biggest town in the area!
+
+It's famous for trade and also for staying
+active and vibrant all night long.
+
+However, there is a law forbidding voe—
+males—from entering the city... But a
+cute vai like you would be most welcome!
+Or...this would normally be true, but that
+Divine Beast is on a rampage, so I
+can't recommend heading to town now."
+25,Talk_020,"ゲルドの街は ここから南西の方角にある
+この辺りで一番大きな街だ！
+交易の場としても有名で
+不夜城としても名高い活気あふれる街だ
+しかし ゲルド族の掟により
+ヴォーイ… つまり男は中に入れないのだ","Gerudo Town is to the southwest. It's the
+biggest village in the area!
+
+It's famous for trade and also for staying
+active and vibrant all night long.
+
+However, there is a law forbidding
+voe—males—from entering the city."
+26,Talk_021,"礼など不要だ
+これが私の仕事だからな
+砂漠は昼間は暑く夜は寒い
+すぐに体力を奪われるから
+ここから外に出るなら
+準備を怠らんようにな","Hah. I don't need any thanks.
+This is my job after all.
+
+You know, the desert is hot during the
+day and cold at night. It'll take the
+energy out of you in no time.
+If you plan to head out into the
+desert, make sure you're prepared."
+27,Talk_022,"ここまでは神獣はこないだろうが
+念のため警備はしとかんとな
+お前も街の方に行こうと思ってるなら
+気を付けるんだぞ","The Divine Beast probably won't wander
+this far, but we need to keep an eye on it
+just in case.
+If you're planning to head out of town,
+you'd better be sure you're prepared."
+28,Talk_023,"ここはカラカラバザールだ
+ゲルドの街までの休息地のようなもんだ
+といっても お前はヴォーイなので
+ゲルドの街には入れんがな
+まぁ どちらにしても今は神獣が暴れてる
+旅人ならここで ゆっくりしていくがいい","This is Kara Kara Bazaar.
+
+
+Gerudo Town is still a fair distance
+from here. If you're headed there, you
+should consider resting a bit.
+Though, you ARE a voe... Even if you
+make it to town, you won't be able to
+get in...
+All the same, the Divine Beast is kicking
+up a storm right now, so I don't
+recommend going to Gerudo Town."
+29,Talk_024,"そりゃあ いるさ
+
+ここにはゲルドの街と交易を望む
+ヴォーイの商人が多く訪れるからな
+ヴォーイは街には入れないと言っているのに
+皆あきらめず ごくろうな事だよ
+そういえば さっき宿屋に入る
+ハイリアヴァーイの商人を見かけたよ
+ゲルドの民族衣装を着ていたから
+なんだか目についてな
+きっと神獣が怖くて街にいけないんだろう…
+可哀想に…","Oh, yes. And many, many more than just
+one, to be sure.
+
+That's because all the voe merchants are
+gathered here, hoping to get access to
+Gerudo Town.
+They refuse to give up, even though voe
+are strictly forbidden from entering
+the town.
+Although... Now that you mention it, one
+merchant in particular did stand out
+to me.
+I saw a Hylian vai merchant at the inn
+before. She was wearing traditional
+Gerudo clothes, which caught my eye.
+She's probably still around town;
+that Divine Beast is scaring a lot of
+people out of traveling."
+30,Talk_025,"他にも何か聞きたいことがあったら
+遠慮なくきいてくれ
+毎日一人で警備していると
+話し相手が欲しくなるんだよ","If there's anything else you'd like to ask,
+feel free.
+
+I'm on watch by myself every day,
+so it's nice to have someone to talk to."
+31,Talk_026,"神獣 ヴァ・ナボリスのことを知らんのか？
+
+かつては ゲルド族の守り神として
+祀られたこともあったと聞くが
+しばらく前から急に現れ暴れだしてな…
+
+どうにかしようにも神獣は砂嵐と雷に
+守られていて手が付けられんのだ
+しかし いつゲルドの街やここに
+近づくかわからんのでな
+私はこうやって
+ずっと見張っているんだ","You don't know about Divine Beast Vah
+Naboris?
+
+Supposedly, it is the guardian deity for
+the Gerudo people, but it suddenly
+started acting up a while back.
+There's nothing we can do to stop it,
+either... It's protected by a fierce
+sandstorm and intense lightning.
+Though it hasn't yet, it could easily head
+toward Gerudo Town or this oasis. I do
+my best to keep an eye on it from here."
+32,Talk_027,"ゲルドの街は ここから南西の方角にある
+この辺りで一番大きな街だ！
+交易の場としても有名で
+不夜城としても名高い活気あふれる街だ
+しかし ゲルド族の掟により
+ヴォーイ… つまり男は中に入れないのだ","Gerudo Town is to the southwest. It's the
+biggest village in the area!
+
+It's famous for trade and also for staying
+active and vibrant all night long.
+
+However, there is a law forbidding
+voe—males—from entering the city."
+33,near00,異常なし！,Nothing unusual here...

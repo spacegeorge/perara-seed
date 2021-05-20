@@ -1,0 +1,2028 @@
+#,Title,JPja,USen
+1,Get_TwnObj_DLC_MemorialPicture_A_01_Desc,"ハイラル城での叙任式の後に写された
+ゼルダ姫と英傑たち5人の写し絵
+英傑たちの詩を完成させたカッシーワから貰った","A picture of Zelda and the five Champions,
+taken after the inauguration ceremony at
+Hyrule Castle. Kass gifted you this precious
+item after completing The Champions' Ballad."
+2,Get_TwnObj_DLC_MemorialPicture_A_01_Name,英傑たちの写し絵,Picture of the Champions
+3,Item_Boiled_01_Desc,"地面から湧き出る温水の熱で
+茹でられたトリのタマゴ
+手軽に作れる子供にも人気のひと品","A bird egg boiled using water from naturally
+occurring hot springs. It's popular among
+children and is easy to make."
+4,Item_Boiled_01_Name,ゆでタマゴ,Hard-Boiled Egg
+5,Item_ChilledFish_01_Desc,"冷気で凍りついたバス
+食べてもハートはあまり回復しないが
+少しの間耐暑効果を発揮する","That's one cold fish. Eating it won't restore
+many hearts, but it will lower your body
+temperature a bit."
+6,Item_ChilledFish_01_Name,凍結バス,Frozen Bass
+7,Item_ChilledFish_02_Desc,"冷気で凍りついたマックスサーモン
+余分な脂が抜け風味が増すと言われている
+食べると少しの間耐暑効果を発揮する","This salmon doesn't taste quite as fishy
+because the excess fat has been removed.
+It's exceptionally cold, so eating it provides
+a temporary boost to heat resistance."
+8,Item_ChilledFish_02_Name,凍結マックスサーモン,Frozen Hearty Salmon
+9,Item_ChilledFish_03_Desc,"冷気で凍りついたマス
+身が締まって旨味も凝縮されている
+食べると少しの間耐暑効果を発揮する","Being frozen has condensed the taste
+of fish inside this trout's body. Eating it
+will provide a temporary boost to your
+heat resistance."
+10,Item_ChilledFish_03_Name,凍結マス,Frozen Trout
+11,Item_ChilledFish_04_Desc,"冷気で凍りついたコイ
+シャリシャリした食感が新しい
+食べると少しの間耐暑効果を発揮する","The crunchy, icy texture of this chilled
+carp is quite the delicacy. Eating it will
+temporarily increase your heat resistance."
+12,Item_ChilledFish_04_Name,凍結ゴイ,Frozen Carp
+13,Item_ChilledFish_05_Desc,"冷気で凍りついたタイ
+ゲルド砂漠などの暑い地域で食べたい一品
+食べると少しの間耐暑効果を発揮する","This frozen porgy is the ideal snack for hiking
+through hot climates like the Gerudo Desert.
+Eating it provides a temporary boost to your
+heat resistance."
+14,Item_ChilledFish_05_Name,凍結ダイ,Frozen Porgy
+15,Item_ChilledFish_06_Desc,"冷気で凍りついたマックスバス
+かなり硬くて食べづらいが このまま食べることで
+少しの間耐暑効果を発揮する","This hearty bass has been frozen by cold air.
+Eating it will be a challenge because it's
+frozen solid, but if you persevere, it will
+temporarily increase your heat resistance."
+16,Item_ChilledFish_06_Name,凍結マックスバス,Frozen Hearty Bass
+17,Item_ChilledFish_07_Desc,"冷気で凍りついたカニ
+本来は保存のために凍らせているが このまま
+食べる事もでき少しの間耐暑効果を発揮する","Doesn't provide as much companionship as
+an unfrozen crab, but it won't spoil during
+your travels. Eat it to gain a temporary boost
+to your heat resistance."
+18,Item_ChilledFish_07_Name,凍結ガニ,Frozen Crab
+19,Item_ChilledFish_08_Desc,"冷気で凍りついたシノビタニシ
+特徴的な光も凍らせると出なくなる
+食べると少しの間耐暑効果を発揮する","The distinct glow of this sneaky river snail
+has diminished after it's been frozen, but
+eating it like this will provide a temporary
+increase to your heat resistance."
+20,Item_ChilledFish_08_Name,凍結タニシ,Frozen River Snail
+21,Item_ChilledFish_09_Desc,"冷気で凍りついたマックスサザエ
+中身を取り出すのにはコツがいる
+食べると少しの間耐暑効果を発揮する","It takes a skilled chef to get the meat out of
+this frozen hearty blueshell snail. Eating this
+will provide a temporary increase to your
+heat resistance."
+22,Item_ChilledFish_09_Name,凍結マックスサザエ,Icy Hearty Blueshell Snail
+23,Item_Chilled_01_Desc,"冷気で凍りついたケモノ肉
+かじりつくにはちょっと硬すぎる
+少しだけハート回復と耐暑効果を得られる","A frozen slab of animal meat. If you can
+manage to chew it up and swallow it, you'll
+restore some hearts and lower your body
+temperature."
+24,Item_Chilled_01_Name,凍結ケモノ肉,Icy Meat
+25,Item_Chilled_02_Desc,"冷気で凍りついた上ケモノ肉
+少しだけハート回復と耐暑効果を得られる","High-quality, frozen animal meat. Doesn't
+restore many hearts, but it can lower your
+body temperature."
+26,Item_Chilled_02_Name,凍結上ケモノ肉,Icy Prime Meat
+27,Item_Chilled_03_Desc,"冷気で凍りついた極上ケモノ肉
+上質な肉は凍らせても味が落ちにくいという
+食べると少しの間耐暑効果を発揮する","This raw gourmet meat has been frozen for
+easy traveling. It's kept its flavor through the
+freezing process. Eating it as is will provide
+a temporary boost to your heat resistance."
+28,Item_Chilled_03_Name,凍結極上ケモノ肉,Icy Gourmet Meat
+29,Item_Chilled_04_Desc,"冷気で凍りついたトリ肉
+こん棒みたいだけど一応食べられる
+少しだけハート回復と耐暑効果を得られる","It's as hard as a rock but is supposedly
+edible. It restores a small number of hearts
+and has a cooling effect."
+30,Item_Chilled_04_Name,凍結トリ肉,Frozen Bird Drumstick
+31,Item_Chilled_05_Desc,"冷気で凍りついた上トリ肉
+武器にできそうなくらい硬い
+少しだけハート回復と耐暑効果を得られる","High-quality, frozen bird meat. It's so solid it
+looks like it could be used as a weapon.
+Eating it will restore some hearts and cool
+you down, but don't break your teeth on it."
+32,Item_Chilled_05_Name,凍結上トリ肉,Frozen Bird Thigh
+33,Item_Chilled_06_Desc,"冷気で凍りついた極上トリ肉
+カチカチで硬いが味は落ちていない
+食べると少しの間耐暑効果を発揮する","This raw whole bird may have been
+frozen solid, but its flavor remains intact.
+Eating it will provide a temporary boost
+to your heat resistance."
+34,Item_Chilled_06_Name,凍結極上トリ肉,Frozen Whole Bird
+35,Item_Enemy_00_Desc,"ハイラル各地に生息するボコブリンの角
+普通の料理にはとても使えないが
+虫と一緒に煮込むと薬になる","The severed horn of a Bokoblin, a creature
+often encountered on the plains of Hyrule.
+It isn't edible, but it can be tossed into a
+stew with some critters to make an elixir."
+36,Item_Enemy_00_Name,ボコブリンの角,Bokoblin Horn
+37,Item_Enemy_01_Desc,"ボコブリンを倒して手に入れた牙
+すり減っていて鋭さはないが硬さは十分
+虫と一緒に煮込む事で薬を作る事ができる","A tooth obtained from a Bokoblin. It's worn
+down and not very sharp, but it's still pretty
+hard. Cook it alongside a critter to make
+an elixir."
+38,Item_Enemy_01_Name,ボコブリンの牙,Bokoblin Fang
+39,Item_Enemy_02_Desc,"ボコブリンを倒して手に入れたとても貴重な素材
+ちょっと動いていて気持ち悪い…
+何か使い道があるかもしれない","A rare material obtained by defeating a
+Bokoblin. It convulses on its own every now
+and then, which is really creepy, but perhaps
+it has a use."
+40,Item_Enemy_02_Name,ボコブリンの肝,Bokoblin Guts
+41,Item_Enemy_03_Desc,"リザルフォスの頭に生えている曲がりくねった角
+硬くて料理には使えないが薬の材料になるので
+お店で買い取って貰える","This winding horn once grew atop the head
+of a Lizalfos. It's too hard to use for cooking,
+but stores are willing to buy it from you. It
+can also be used to make elixirs."
+42,Item_Enemy_03_Name,リザルフォスの角,Lizalfos Horn
+43,Item_Enemy_04_Desc,"リザルフォスの肘から生えている爪
+虫と一緒に煮込めば薬になるが
+他にも何か使い道があるかもしれない","This talon once grew from the elbow of a
+Lizalfos. You can stew it with critters to
+make elixirs, but it may have some
+other uses, as well."
+44,Item_Enemy_04_Name,リザルフォスの爪,Lizalfos Talon
+45,Item_Enemy_05_Desc,"リザルフォスから切り落とされた尻尾
+本体から離れてもしばらくはウネウネと動く
+その生命力から薬の材料として珍重される","The severed tail of a Lizalfos. It continues to
+wriggle even after being separated from its
+body. That kind of vitality makes it highly
+valued as an ingredient in elixirs."
+46,Item_Enemy_05_Name,リザルフォスのしっぽ,Lizalfos Tail
+47,Item_Enemy_06_Desc,"モリブリンの頭部から生えている りっぱな角
+食べることはもちろん普通の料理にも使えないが
+薬の材料としては重宝される","This splendid horn once grew atop the head
+of a Moblin. It can't be used in normal food
+recipes, but it does have some use as an
+ingredient in making elixirs."
+48,Item_Enemy_06_Name,モリブリンの角,Moblin Horn
+49,Item_Enemy_07_Desc,"モリブリンを倒して手に入れた鋭い牙
+硬くて加工にも向かないが
+虫と一緒に煮込むことで薬を作る事ができる","A sharp fang obtained from a Moblin. It's too
+hard to be reshaped into a tool, but it can
+be tossed into a stew with some critters to
+create elixirs."
+50,Item_Enemy_07_Name,モリブリンの牙,Moblin Fang
+51,Item_Enemy_08_Desc,"モリブリンから手に入る とても貴重な素材
+料理の材料としては臭みが強すぎて使い物に
+ならないが虫と一緒に煮込めば薬になる","This prized ingredient can be obtained from
+Moblins. Its odor is too pungent for normal
+food preparation, but stew it with some
+critters to make elixirs."
+52,Item_Enemy_08_Name,モリブリンの肝,Moblin Guts
+53,Item_Enemy_12_Desc,"ライネルが生やしている たくましい角
+驚くほど硬く多少の刃物では傷つかない
+虫と一緒に煮込むと薬になる","The Lynel this horn once grew upon surely
+misses it. It's exceptionally hard—so hard
+that most blades cannot scratch it. Throw
+it into a stew with critters to make elixirs."
+54,Item_Enemy_12_Name,ライネルの角,Lynel Horn
+55,Item_Enemy_13_Desc,"ライネルの足からのみ獲る事ができる珍しい素材
+馬の物より巨大で ずっしりと重い
+薬の材料になるが他の使い道があるかもしれない","This rare ingredient can be obtained only
+from a Lynel's foot. It's larger and heavier
+than a horse's hoof. It's useful for making
+elixirs but may have uses beyond that."
+56,Item_Enemy_13_Name,ライネルのひづめ,Lynel Hoof
+57,Item_Enemy_14_Desc,"ライネルから獲る事ができる貴重な素材
+脈打つように動いており ライネルの生命力の
+強さが伺える薬の材料として価値が高い","This highly sought-after ingredient can only
+be obtained from a Lynel. It pulses with the
+vitality of a Lynel, a strength that makes it
+invaluable as an ingredient for elixirs."
+58,Item_Enemy_14_Name,ライネルの肝,Lynel Guts
+59,Item_Enemy_15_Desc,"ファイアチュチュにそっくりな
+ぷるぷるした固まり常に熱を発生していて
+叩くと破裂して炎を発生する","A jiggly substance that normally comes from
+a Fire Chuchu. It consistently gives off heat.
+If struck, it will explode in a ball of flame."
+60,Item_Enemy_15_Name,赤チュチュゼリー,Red Chuchu Jelly
+61,Item_Enemy_16_Desc,"エレキチュチュにそっくりな ぷるぷるした固まり
+しびれるほどではないが常にビリビリしている
+叩くと破裂して周りに電気を発生させる","A jiggly substance that came from an
+Electric Chuchu. Electricity pulses through
+its gelatinous mass. If struck, it will explode
+in a burst of electric current."
+62,Item_Enemy_16_Name,黄チュチュゼリー,Yellow Chuchu Jelly
+63,Item_Enemy_17_Desc,"アイスチュチュにそっくりな ぷるぷるした固まり
+持ってみると ひんやりしてちょっと気持ちいい
+叩くと破裂して冷気をまき散らす","A jiggly substance that came from an
+Ice Chuchu. It's cool to the touch, and
+squeezing it seems to relieve stress.
+If struck, it will explode in a cold mist."
+64,Item_Enemy_17_Name,白チュチュゼリー,White Chuchu Jelly
+65,Item_Enemy_18_Desc,"キースを倒して手に入れた素材
+よく見ると細かい毛がびっしり生えている
+虫と一緒に煮込むと…","The wing of a Keese. It's covered with very
+short, sharp fur. It's not much use by itself,
+but you can mix it with critters to make
+something useful."
+66,Item_Enemy_18_Name,キースの羽,Keese Wing
+67,Item_Enemy_19_Desc,"キースを倒して手に入れた とても珍しい素材
+食材としては使えそうもないが
+何か他の使い道があるかもしれない","A rare material dropped by a defeated
+Keese. It's fun to look at, but it doesn't
+seem to have much use at first glance.
+But it must be good for something..."
+68,Item_Enemy_19_Name,キースの目玉,Keese Eyeball
+69,Item_Enemy_20_Desc,"オクタ族から獲る事ができる素材
+身は酸味がとても強く食用には向かないが
+薬の材料としては重宝されている","This can only be obtained from an Octorok-
+type enemy. It's too acidic for cooking, but
+it's highly valued as an ingredient for elixirs."
+70,Item_Enemy_20_Name,オクタの足,Octorok Tentacle
+71,Item_Enemy_21_Desc,"オクタ族から獲る事ができる素材
+薬にしたり お店で買い取って貰えるが
+別の使い道があるとも噂されている","This can only be obtained from an Octorok-
+type enemy. You can sell it to a store, or you
+can make elixirs with it, but it may have other
+uses, as well."
+72,Item_Enemy_21_Name,オクタの目玉,Octorok Eyeball
+73,Item_Enemy_24_Desc,"モルドラジークから獲れる丈夫な背びれ
+薬の材料として使う事ができるが それ以外にも
+どこかで何かと交換して貰えるらしい","A sturdy fin obtained from a Molduga. It can
+be used to make elixirs, but there may be
+someone willing to trade for it."
+74,Item_Enemy_24_Name,モルドラジークの背びれ,Molduga Fin
+75,Item_Enemy_25_Desc,"モルドラジークから獲る事ができる巨大な肝
+めったに手に入らない貴重な素材で
+薬の材料にできるが他の使い道があると噂される","A giant organ obtained from a Molduga. This
+invaluable ingredient is hard to come by,
+and its use is shrouded in mystery."
+76,Item_Enemy_25_Name,モルドラジークの肝,Molduga Guts
+77,Item_Enemy_26_Desc,"古代の機械に使われていたらしい歯車
+不思議なことにまったくすり減っていない
+今の技術では作れそうにない","A gear used in ancient machinery.
+Despite being incredibly old, its build quality
+is leaps and bounds above anything built
+using current technology."
+78,Item_Enemy_26_Name,古代の歯車,Ancient Gear
+79,Item_Enemy_27_Desc,"古代の機械に使われていたらしいネジ
+何度回してもすり減ることがない
+見たことのない材質で作られている","A screw used in ancient machinery. It's made
+of an unknown material, and no matter how
+many times it's turned, its threads never
+seem to show signs of wear."
+80,Item_Enemy_27_Name,古代のネジ,Ancient Screw
+81,Item_Enemy_28_Desc,"古代の機械に使われていたらしいバネ
+何度伸び縮みさせても壊れることがない
+とても軽くてなんと水にも浮く","A spring used in ancient machinery. It is light
+and buoyant enough to float on water, and
+no matter how many times it's compressed,
+it never loses tension."
+82,Item_Enemy_28_Name,古代のバネ,Ancient Spring
+83,Item_Enemy_29_Desc,"古代の機械に使われていた部品
+とても硬く今の技術では加工するのも難しい
+何かの役に立つかもしれない","A machine part used in ancient machinery.
+It's incredibly sturdy, and it's not made of
+any recognizable material. It may come in
+handy someday."
+84,Item_Enemy_29_Name,古代のシャフト,Ancient Shaft
+85,Item_Enemy_30_Desc,"失われた古の技術で作られた エネルギーの結晶
+古代の機械の動力として使われたと言われている
+研究者にとっては貴重なひと品","This crystal was made using lost technology.
+At one time it was the power source for
+ancient machines. This item is very valuable
+to researchers."
+86,Item_Enemy_30_Name,古代のコア,Ancient Core
+87,Item_Enemy_31_Desc,"古代の技術で作られた巨大なエネルギーの結晶
+これほど大きなコアは めったに手に入らない
+研究者ならば使い道が分かるかもしれない","A giant energy crystal made using lost
+ancient technology. Cores this large are an
+extremely rare find. A researcher would
+probably know how to use this."
+88,Item_Enemy_31_Name,古代の巨大なコア,Giant Ancient Core
+89,Item_Enemy_32_Desc,"ヒノックスから獲る事が出来る爪
+鎧の装甲のように分厚い
+虫と一緒に煮込むと薬になる","A nail obtained from a Hinox. It's as thick
+as a plate of armor and can be stewed
+with critters to make elixirs."
+90,Item_Enemy_32_Name,ヒノックスの爪,Hinox Toenail
+91,Item_Enemy_33_Desc,"ヒノックスから獲る事が出来る素材
+歯とは思えないほど巨大で硬い
+薬の素材として使う事ができる","A tooth obtained from a Hinox. It's so
+large, it's hard to believe it's a real tooth.
+It can be used to make elixirs."
+92,Item_Enemy_33_Name,ヒノックスの牙,Hinox Tooth
+93,Item_Enemy_34_Desc,"ヒノックスから獲る事が出来る大きな肝
+よく見ると時々ゆっくり動いている
+薬の材料にできるが他の使い道があると噂される","A giant, smelly Hinox organ of unknown
+function. Upon close inspection, it appears to
+be quivering. It can be used to make an
+elixir, but some say it has other uses, as well."
+94,Item_Enemy_34_Name,ヒノックスの肝,Hinox Guts
+95,Item_Enemy_38_Desc,"赤き精霊オルドラからはがれ落ちた貴重な鱗
+内部には膨大な熱が蓄えられている
+料理にも使えるが食べてしまうのはもったいない","This precious scale fell from the red spirit
+Dinraal. It emanates a great heat. You
+can use it in cooking, but just eating it
+seems like a waste."
+96,Item_Enemy_38_Name,オルドラのウロコ,Dinraal's Scale
+97,Item_Enemy_39_Desc,"赤き精霊オルドラから抜け落ちた貴重な爪
+抜ける前は炎をまとっていたと言われている
+店で買い取って貰えるが別の用途があるとされる","This valuable claw was plucked from the red
+spirit Dinraal. It was extremely hot before it
+was removed. You could sell it to a store, but
+it must have some other use."
+98,Item_Enemy_39_Name,オルドラの爪,Dinraal's Claw
+99,Item_Enemy_40_Desc,"チュチュとそっくりなぷるぷるした固まり
+とても不安定な状態で
+何か刺激を与えると変化するらしい","A gelatinous substance that came from a
+Chuchu. It's unusable in this state, but
+applying a bit of elemental stimulation will
+change its form."
+100,Item_Enemy_40_Name,チュチュゼリー,Chuchu Jelly
+101,Item_Enemy_41_Desc,"火吹きリザルフォスから切り落とされた尻尾
+肉はとても食べられない味だが
+虫と一緒に煮込む事で薬を作る事ができる","The severed tail of a Fire-Breath Lizalfos.
+Its flavor makes the flesh inedible, but toss
+it into a stew with some critters, and you'll
+have yourself a nice elixir."
+102,Item_Enemy_41_Name,リザルフォスの赤しっぽ,Red Lizalfos Tail
+103,Item_Enemy_42_Desc,"雹吐きリザルフォスから切り落とされた尻尾
+硬い鱗や肉は調理には向かないが
+薬の材料としては最適","The severed tail of an Ice-Breath Lizalfos. Its
+hard scales and flesh make it unsuitable for
+cooking, but it's perfect for making elixirs."
+104,Item_Enemy_42_Name,リザルフォスの青しっぽ,Icy Lizalfos Tail
+105,Item_Enemy_43_Desc,"シビレリザルフォスから切り落とされた尻尾
+臭みが強烈で料理には向かないが
+薬の材料としては重宝されている","The severed tail of an Electric Lizalfos.
+Its powerful stench makes it unappetizing
+and unfit for cooking, but it's highly valued
+as an ingredient for elixirs."
+106,Item_Enemy_43_Name,リザルフォスの黄しっぽ,Yellow Lizalfos Tail
+107,Item_Enemy_44_Desc,"珍しいファイアキースの羽
+切り放されて燃える事はないが ほんのり暖かい
+薬の材料として扱われる","A rare Fire Keese wing. There isn't enough
+Fire Keese attached to it to burn you, but
+it does have a slight warmth to it. It can
+be used as an ingredient for elixirs."
+108,Item_Enemy_44_Name,ファイアキースの羽,Fire Keese Wing
+109,Item_Enemy_45_Desc,"珍しいエレキースの羽
+発電器官は羽にはないのか触ってもしびれない
+虫と一緒に煮込むと薬になる","A rare Electric Keese wing. The part of the
+Electric Keese that produces electricity is not
+in its wings, so it won't shock you. Toss it in
+with some critters to make elixirs."
+110,Item_Enemy_45_Name,エレキースの羽,Electric Keese Wing
+111,Item_Enemy_46_Desc,"珍しいアイスキースの羽
+表面は凍りついたように キラキラと輝いている
+どこかで何かに使えるかも知れない","A rare Ice Keese wing. Its frozen surface
+gleams attractively, but its usefulness isn't
+readily apparent."
+112,Item_Enemy_46_Name,アイスキースの羽,Ice Keese Wing
+113,Item_Enemy_47_Desc,"赤き精霊オルドラから欠け落ちた牙のかけら
+恐ろしく硬いため加工する事はできないが
+何かの素材として使えるらしい","This shard fell from the red spirit Dinraal's
+fang. It's exceptionally hard and therefore
+impossible to process, but apparently it
+can be used as a material for something."
+114,Item_Enemy_47_Name,オルドラの牙のかけら,Shard of Dinraal's Fang
+115,Item_Enemy_48_Desc,"赤き精霊オルドラから欠け落ちた角のかけら
+炎の力が結晶化して角になっていると言われる
+高く売れるが他にも使い道があると言われている","This shard chipped and fell off the red spirit
+Dinraal. Its horn is said to be the crystallized
+power of fire itself. It sells for a high price,
+but rumors say there's some other use for it."
+116,Item_Enemy_48_Name,オルドラの角のかけら,Shard of Dinraal's Horn
+117,Item_Enemy_49_Desc,"青き精霊ネルドラからはがれ落ちた貴重な鱗
+内部には超低温の冷気が蓄えられている
+料理にも使えるが食べてしまうのはもったいない","This precious scale fell from the blue spirit
+Naydra. It contains a bitter cold within.
+You can use it in cooking, but just eating
+it seems like a waste."
+118,Item_Enemy_49_Name,ネルドラのウロコ,Naydra's Scale
+119,Item_Enemy_50_Desc,"青き精霊ネルドラから抜け落ちた貴重な爪
+抜ける前は冷気をまとっていたと言われている
+店で買い取って貰えるが別の用途があるとされる","This valuable claw was plucked from the blue
+spirit Naydra. It was freezing cold before it
+was removed. You could sell it, but there
+must be some other use for it."
+120,Item_Enemy_50_Name,ネルドラの爪,Naydra's Claw
+121,Item_Enemy_51_Desc,"青き精霊ネルドラから欠け落ちた牙のかけら
+金属より数段硬く加工する事はできないが
+何かの素材として使えるらしい","This shard fell from the blue spirit Naydra's
+fang. It's much harder than any metal, so it's
+impossible to process. Yet rumors say it can
+be used as a material for something."
+122,Item_Enemy_51_Name,ネルドラの牙のかけら,Shard of Naydra's Fang
+123,Item_Enemy_52_Desc,"青き精霊ネルドラから欠け落ちた角のかけら
+氷の力が結晶化して角になっていると言われる
+高く売れるが他にも使い道があると言われている","This shard chipped and fell off the blue spirit
+Naydra. It's said the horn is the crystallized
+power of ice itself. It sells for quite a bit, but
+rumors say it has some other use."
+124,Item_Enemy_52_Name,ネルドラの角のかけら,Shard of Naydra's Horn
+125,Item_Enemy_53_Desc,"黄金の精霊フロドラからはがれ落ちた貴重な鱗
+内部には常に強力な電気が蓄えられている
+料理にも使えるが食べてしまうのはもったいない","This precious scale fell from the golden spirit
+Farosh. It contains powerful electricity within.
+You can cook with it, but just eating it seems
+like a waste."
+126,Item_Enemy_53_Name,フロドラのウロコ,Farosh's Scale
+127,Item_Enemy_54_Desc,"黄金の精霊フロドラから抜け落ちた貴重な爪
+抜ける前は周囲に雷を放っていたと言われている
+店で買い取って貰えるが別の用途があるとされる","This claw was plucked from the golden spirit
+Farosh. Its electricity was expelled before it
+was removed, so it's safe to handle. A store
+will buy it, but it must have some other use."
+128,Item_Enemy_54_Name,フロドラの爪,Farosh's Claw
+129,Item_Enemy_55_Desc,"黄金の精霊フロドラから欠け落ちた牙のかけら
+ハンマーも跳ね返すほど硬く加工する事は
+できないが何かの素材として使えるらしい","This shard fell from the golden spirit Farosh's
+fang. It's so hard, hammers bounce right off
+it, so it's impossible to process. Yet rumors
+say it does have some use as a material."
+130,Item_Enemy_55_Name,フロドラの牙のかけら,Shard of Farosh's Fang
+131,Item_Enemy_56_Desc,"黄金の精霊フロドラから欠け落ちた角のかけら
+雷の力が結晶化して角になっていると言われる
+高く売れるが他にも使い道があると言われている","This shard fell off the golden spirit Farosh.
+It's said the horn is the crystallized power
+of electricity itself. It sells for a lot, but there
+must be some other use for it."
+132,Item_Enemy_56_Name,フロドラの角のかけら,Shard of Farosh's Horn
+133,Item_Enemy_57_Desc,"オクタ族の浮き袋強い浮力を持つので 
+この風船をくっ付けられた物は宙に浮き上がる
+抱え持ってから置いて当てる事で付けられる","This inflatable Octorok organ has a lot of lift,
+so attach it to items you want to see float.
+Hold it in your hands, and then place it on
+an object to attach it."
+134,Item_Enemy_57_Name,オクタ風船,Octo Balloon
+135,Item_FishGet_A_Desc,"ハイラル全域に棲む一般的な魚
+そのままでも食べられるが調理すると
+回復効果も大きくなる","An ordinary fish that can be found all over
+Hyrule. It can be eaten raw, but cooking
+it amplifies its healing benefits."
+136,Item_FishGet_A_Name,ハイラルバス,Hyrule Bass
+137,Item_FishGet_A_PictureBook,"ハイラル全域に棲む一般的な魚
+そのままでも食べられるが調理すると
+回復効果も大きくなる","An ordinary fish that can be found all over
+Hyrule. It can be eaten raw, but cooking
+it amplifies its healing benefits."
+138,Item_FishGet_B_Desc,"水辺に棲む大型の魚
+大きな体にたくさんの栄養を蓄えている
+料理に使うとハートが限界を超えて回復する","This large fish lives near the shoreline.
+Its sizable body can store a lot of nutrients.
+When cooked into a dish, it will temporarily
+increase your maximum hearts."
+139,Item_FishGet_B_Name,マックスバス,Hearty Bass
+140,Item_FishGet_B_PictureBook,"水辺に棲む大型の魚
+大きな体にたくさんの栄養を蓄えている
+料理に使うとハートが限界を超えて回復する","This large fish lives near the shoreline.
+Its sizable body can store a lot of nutrients.
+When cooked into a dish, it will temporarily
+increase your maximum hearts."
+141,Item_FishGet_C_Desc,"冷たい水場を好む青いマス 
+その皮には身体を冷やす成分が含まれるといわれ
+調理して食べると暑さに耐性を持つことができる","This blue trout prefers cold bodies of water.
+Its skin contains enzymes that keep its body
+cool, and when cooked into a dish, it will
+temporarily boost your heat resistance."
+142,Item_FishGet_C_Name,ヒンヤリマス,Chillfin Trout
+143,Item_FishGet_C_PictureBook,"冷たい水場を好む青いマス 
+その皮には身体を冷やす成分が含まれるといわれ
+調理して食べると暑さに耐性を持つことができる","This blue trout prefers cold bodies of water.
+Its skin contains enzymes that keep its body
+cool, and when cooked into a dish, it will
+temporarily boost your heat resistance."
+144,Item_FishGet_D_Desc,"湖などの淡水に棲むマス
+絶縁成分を含む鱗は食材に使うと
+電気に耐性を得られる料理になる","This trout makes its home in the freshwater
+lakes. Its scales have an insulating
+compound that, when cooked into a dish,
+offers resistance to electricity."
+145,Item_FishGet_D_Name,ビリビリマス,Voltfin Trout
+146,Item_FishGet_D_PictureBook,"湖などの淡水に棲むマス
+絶縁成分を含む鱗は食材に使うと
+電気に耐性を得られる料理になる","This trout makes its home in the freshwater
+lakes. Its scales have an insulating
+compound that, when cooked into a dish,
+offers resistance to electricity."
+147,Item_FishGet_E_Desc,"淡水に生息するコイの仲間
+キモに含まれる成分に筋力増強効果があるとされ
+料理して食べると攻撃力が増す","This freshwater fish lives alongside its less
+mighty carp ilk. A compound in its liver
+promotes muscle growth. Dishes cooked with
+it will temporarily increase your attack power."
+148,Item_FishGet_E_Name,ツルギゴイ,Mighty Carp
+149,Item_FishGet_E_PictureBook,"淡水に生息するコイの仲間
+キモに含まれる成分に筋力増強効果があるとされ
+料理して食べると攻撃力が増す","This freshwater fish lives alongside its less
+mighty carp ilk. A compound in its liver
+promotes muscle growth. Dishes cooked with
+it will temporarily increase your attack power."
+150,Item_FishGet_F_Desc,"海にいる気性の荒い魚
+調理して食べると身に含まれる成分により
+闘争心が向上し攻撃力が増すといわれる","This ocean-dwelling fish comes with one rude
+attitude. The compounds in its flesh elevate
+your competitive spirit when it's cooked into
+a dish, thus increasing your attack power."
+151,Item_FishGet_F_Name,ツルギダイ,Mighty Porgy
+152,Item_FishGet_F_PictureBook,"海にいる気性の荒い魚
+調理して食べると身に含まれる成分により
+闘争心が向上し攻撃力が増すといわれる","This ocean-dwelling fish comes with one rude
+attitude. The compounds in its flesh elevate
+your competitive spirit when it's cooked into
+a dish, thus increasing your attack power."
+153,Item_FishGet_G_Desc,"全身が硬い鱗で覆われているタイ
+料理に使うと鱗に蓄えられた成分で
+骨が頑強になり防御力が増える","This porgy's body is covered in armor-hard
+scales. The compounds in its scales, when
+cooked into a dish, fortify your bones and
+temporarily boost your defense."
+154,Item_FishGet_G_Name,ヨロイダイ,Armored Porgy
+155,Item_FishGet_G_PictureBook,"全身が硬い鱗で覆われているタイ
+料理に使うと鱗に蓄えられた成分で
+骨が頑強になり防御力が増える","This porgy's body is covered in armor-hard
+scales. The compounds in its scales, when
+cooked into a dish, fortify your bones and
+temporarily boost your defense."
+156,Item_FishGet_H_Desc,"硬い鎧のような鱗を持った古代魚
+料理に使うと鱗に蓄えられた成分で
+骨が強くなり防御力が増す","Calcium deposits in the scales of this ancient
+fish make them as hard as armor. Cooking it
+into a dish will fortify your bones, temporarily
+increasing your defense."
+157,Item_FishGet_H_Name,ヨロイゴイ,Armored Carp
+158,Item_FishGet_H_PictureBook,"硬い鎧のような鱗を持った古代魚
+料理に使うと鱗に蓄えられた成分で
+骨が強くなり防御力が増す","Calcium deposits in the scales of this ancient
+fish make them as hard as armor. Cooking it
+into a dish will fortify your bones, temporarily
+increasing your defense."
+159,Item_FishGet_I_Desc,"寒冷地の川や湖に棲む魚調理して食べると
+寒さに耐えるため体内に蓄えられた脂身が
+ハートの最大値を増やす効果をもたらす","This fish makes its home in cold water, giving
+it extra layers of fat. It temporarily increases
+your maximum hearts when used in cooking."
+160,Item_FishGet_I_Name,マックスサーモン,Hearty Salmon
+161,Item_FishGet_I_PictureBook,"寒冷地の川や湖に棲む魚調理して食べると
+寒さに耐えるため体内に蓄えられた脂身が
+ハートの最大値を増やす効果をもたらす","This fish makes its home in cold water, giving
+it extra layers of fat. It temporarily increases
+your maximum hearts when used in cooking."
+162,Item_FishGet_J_Desc,"暖かい水場を好む赤いマス体内に熱を蓄える
+特殊な臓器を持ち食材として使うと体を芯から
+温める効能を持つ料理を作ることができる","This red trout prefers warm bodies of water.
+It has a special organ specifically for storing
+heat. When cooked into a dish, it temporarily
+boosts your resistance to the cold."
+163,Item_FishGet_J_Name,ポカポカマス,Sizzlefin Trout
+164,Item_FishGet_J_PictureBook,"暖かい水場を好む赤いマス体内に熱を蓄える
+特殊な臓器を持ち食材として使うと体を芯から
+温める効能を持つ料理を作ることができる","This red trout prefers warm bodies of water.
+It has a special organ specifically for storing
+heat. When cooked into a dish, it temporarily
+boosts your resistance to the cold."
+165,Item_FishGet_K_Desc,"海岸の砂浜に多く生息する巻き貝
+大量の滋養強壮成分をため込んでいて
+料理に使うと ハートが限界を超えて回復する","This snail lives on sandy beaches in large
+numbers. Its flesh contains a high amount of
+stimulants, so when cooked into a dish, it
+temporarily increases your maximum hearts."
+166,Item_FishGet_K_Name,マックスサザエ,Hearty Blueshell Snail
+167,Item_FishGet_K_PictureBook,"海岸の砂浜に多く生息する巻き貝
+大量の滋養強壮成分をため込んでいて
+料理に使うと ハートが限界を超えて回復する","This snail lives on sandy beaches in large
+numbers. Its flesh contains a high amount of
+stimulants, so when cooked into a dish, it
+temporarily increases your maximum hearts."
+168,Item_FishGet_L_00_Desc,"長い間生きたハイラルバスと言われている
+生命力が非常に強く調理して食べると
+がんばりゲージが一気に回復する","This Hyrule bass got to be the biggest fish
+by never getting caught (until now). Its long
+life results in a cooked dish that will restore
+a lot of stamina."
+169,Item_FishGet_L_00_Name,ガンバリバス x,Staminoka Bass x
+170,Item_FishGet_L_Desc,"長い間生きたハイラルバスと言われている
+生命力が非常に強く調理して食べると
+がんばりゲージが一気に回復する","This Hyrule bass got to be the biggest fish
+by never getting caught (until now). Its long
+life results in a cooked dish that will restore
+a lot of stamina."
+171,Item_FishGet_L_Name,ガンバリバス,Staminoka Bass
+172,Item_FishGet_L_PictureBook,"長い間生きたハイラルバスと言われている
+生命力が非常に強く調理して食べると
+がんばりゲージが一気に回復する","This Hyrule bass got to be the biggest fish
+by never getting caught (until now). Its long
+life results in a cooked dish that will restore
+a lot of stamina."
+173,Item_FishGet_M_Desc,"淡水に生息する大きな巻き貝料理に使うと
+聴覚が鋭くなり物音を立てずに行動できる
+ようになる夜になるとホタルのような光を放つ","This large, glow-in-the-dark snail lives in
+fresh water. When cooked into a dish, it
+heightens your senses so you can move
+about silently."
+174,Item_FishGet_M_Name,シノビタニシ,Sneaky River Snail
+175,Item_FishGet_M_PictureBook,"淡水に生息する大きな巻き貝料理に使うと
+聴覚が鋭くなり物音を立てずに行動できる
+ようになる夜になるとホタルのような光を放つ","This large, glow-in-the-dark snail lives in
+fresh water. When cooked into a dish, it
+heightens your senses so you can move
+about silently."
+176,Item_FishGet_X_Desc,"暗いところで光る魚鱗が持つ発光物質には
+集中力を高める成分が含まれており料理に使うと
+慎重に物音を立てずに行動できるようになる","Consuming the bioluminescent compound
+that makes this fish glow in the dark will
+increase concentration. Dishes cooked
+with it will suppress noise when consumed."
+177,Item_FishGet_X_Name,シノビマス,Stealthfin Trout
+178,Item_FishGet_X_PictureBook,"暗いところで光る魚鱗が持つ発光物質には
+集中力を高める成分が含まれており料理に使うと
+慎重に物音を立てずに行動できるようになる","Consuming the bioluminescent compound
+that makes this fish glow in the dark will
+increase concentration. Dishes cooked
+with it will suppress noise when consumed."
+179,Item_FishGet_Z_Desc,"野生のヨロイゴイを人の手で改良した観賞魚
+自然界には存在しない美しい色と模様を持つ
+料理に使っても特別な効果はない","This wild armored carp has been bred into
+a prizewinning fish. Its beautifully colored
+markings do not occur in nature. It offers
+no special effects when cooked."
+180,Item_FishGet_Z_Name,サンケゴイ,Sanke Carp
+181,Item_FishGet_Z_PictureBook,"野生のヨロイゴイを人の手で改良した観賞魚
+自然界には存在しない美しい色と模様を持つ
+料理に使っても特別な効果はない","This wild armored carp has been bred into
+a prizewinning fish. Its beautifully colored
+markings do not occur in nature. It offers
+no special effects when cooked."
+182,Item_Fruit_A_Desc,"ハイラルで スタンダードな果物 
+そのまま食べてもいいし
+料理の材料に使えば効果もアップする","A common fruit found on trees all around
+Hyrule. Eat it fresh, or cook it to increase
+its effect."
+183,Item_Fruit_A_Name,リンゴ,Apple
+184,Item_Fruit_A_PictureBook,"ハイラルで スタンダードな果物 
+そのまま食べてもいいし
+料理の材料に使えば効果もアップする","A common fruit found on trees all around
+Hyrule. Eat it fresh, or cook it to increase
+its effect."
+185,Item_Fruit_B_Desc,"雪の降る寒い地方で実るフルーツ
+甘酸っぱい味が特徴で特別な効果はないが
+料理にもよく使われる","A fruit that grows in cold, snowy regions
+known for its tangy, sweet flavor. It doesn't
+offer any special effects, but it's a popular
+cooking ingredient."
+186,Item_Fruit_B_Name,イチゴ,Wildberry
+187,Item_Fruit_B_PictureBook,"雪の降る寒い地方で実るフルーツ
+甘酸っぱい味が特徴で特別な効果はないが
+料理にもよく使われる","A fruit that grows in cold, snowy regions
+known for its tangy, sweet flavor. It doesn't
+offer any special effects, but it's a popular
+cooking ingredient."
+188,Item_Fruit_C_Desc,"ゲルド砂漠のサボテンに実るフルーツ
+甘い実には絶縁成分が豊富に含まれており
+料理に使うと電気の攻撃に強くなる効果がある","Cacti found in the Gerudo Desert bear this
+sweet fruit. It's naturally insulated, so when
+cooked into a dish, it provides resistance
+against electricity."
+189,Item_Fruit_C_Name,ビリビリフルーツ,Voltfruit
+190,Item_Fruit_C_PictureBook,"ゲルド砂漠のサボテンに実るフルーツ
+甘い実には絶縁成分が豊富に含まれており
+料理に使うと電気の攻撃に強くなる効果がある","Cacti found in the Gerudo Desert bear this
+sweet fruit. It's naturally insulated, so when
+cooked into a dish, it provides resistance
+against electricity."
+191,Item_Fruit_D_Desc,"強烈なニオイが特徴のフルーツの王様
+強力な回復力があり料理に使うと
+ハートが限界を大きく超えて回復する","This fruit's mighty odor has earned it the
+nickname \""king of fruits.\"" It offers immense
+restorative powers; dishes cooked with it will
+temporarily increase your maximum hearts."
+192,Item_Fruit_D_Name,マックスドリアン,Hearty Durian
+193,Item_Fruit_D_PictureBook,"強烈なニオイが特徴のフルーツの王様
+強力な回復力があり料理に使うと
+ハートが限界を大きく超えて回復する","This fruit's mighty odor has earned it the
+nickname \""king of fruits.\"" It offers immense
+restorative powers; dishes cooked with it will
+temporarily increase your maximum hearts."
+194,Item_Fruit_E_00_Desc,"水辺に咲いているハスの実
+水中深く張り巡らせた根から集まった栄養は
+料理に使うと移動速度が上がる効果として現れる","The plant that bears these seeds grows near
+deep water. The roots draw nutrients from the
+water, which boosts your movement speed
+when the seeds are cooked into a dish."
+195,Item_Fruit_E_00_Name,ゴーゴーハスの実 x,Fleet-Lotus Seeds x
+196,Item_Fruit_E_Desc,"水辺に咲いているハスの実
+水中深く張り巡らせた根から集まった栄養は
+料理に使うと移動速度が上がる効果として現れる","The plant that bears these seeds grows near
+deep water. The roots draw nutrients from the
+water, which boosts your movement speed
+when the seeds are cooked into a dish."
+197,Item_Fruit_E_Name,ゴーゴーハスの実,Fleet-Lotus Seeds
+198,Item_Fruit_E_PictureBook,"水辺に咲いているハスの実
+水中深く張り巡らせた根から集まった栄養は
+料理に使うと移動速度が上がる効果として現れる","The plant that bears these seeds grows near
+deep water. The roots draw nutrients from the
+water, which boosts your movement speed
+when the seeds are cooked into a dish."
+199,Item_Fruit_F_Desc,"砂漠でも育つ特殊なフルーツ
+ジューシーな果肉には体温を下げる効果があり
+料理に使うと暑さに耐える効果を発揮する","This resilient fruit can flourish even in the
+heat of the desert. The hydrating liquid
+inside provides a cooling effect that, when
+cooked, increases your heat resistance."
+200,Item_Fruit_F_Name,ヒンヤリメロン,Hydromelon
+201,Item_Fruit_F_PictureBook,"砂漠でも育つ特殊なフルーツ
+ジューシーな果肉には体温を下げる効果があり
+料理に使うと暑さに耐える効果を発揮する","This resilient fruit can flourish even in the
+heat of the desert. The hydrating liquid
+inside provides a cooling effect that, when
+cooked, increases your heat resistance."
+202,Item_Fruit_G_Desc,"海辺のヤシの木に実るフルーツ
+特別な効果はないが料理に使うと
+ハートを回復させる効果がある","Fruit from palm trees that grow near the
+ocean. It doesn't offer any special effects
+but will increase your heart recovery
+when used as an ingredient."
+203,Item_Fruit_G_Name,ヤシの実,Palm Fruit
+204,Item_Fruit_G_PictureBook,"海辺のヤシの木に実るフルーツ
+特別な効果はないが料理に使うと
+ハートを回復させる効果がある","Fruit from palm trees that grow near the
+ocean. It doesn't offer any special effects
+but will increase your heart recovery
+when used as an ingredient."
+205,Item_Fruit_H_Desc,"主にフィローネ地方の熱帯林に実るフルーツ
+皮に包まれた果肉には筋力増強効果があるとされ
+調理すると攻撃力が増す料理ができる","This fruit grows mainly in tropical forests
+of the Faron region. When it's used as an
+ingredient, the resulting dish will temporarily
+increase your attack power."
+206,Item_Fruit_H_Name,ツルギバナナ,Mighty Bananas
+207,Item_Fruit_H_PictureBook,"主にフィローネ地方の熱帯林に実るフルーツ
+皮に包まれた果肉には筋力増強効果があるとされ
+調理すると攻撃力が増す料理ができる","This fruit grows mainly in tropical forests
+of the Faron region. When it's used as an
+ingredient, the resulting dish will temporarily
+increase your attack power."
+208,Item_Fruit_I_Desc,"生で食べるとピリピリする実
+料理に使うと体が暖まり
+寒いところでも耐えられるようになる","This pepper is exploding with spice.
+Cook with it to create dishes that
+will raise your body temperature and
+help you withstand the cold."
+209,Item_Fruit_I_Name,ポカポカ草の実,Spicy Pepper
+210,Item_Fruit_I_PictureBook,"生で食べるとピリピリする実
+料理に使うと体が暖まり
+寒いところでも耐えられるようになる","This pepper is exploding with spice.
+Cook with it to create dishes that
+will raise your body temperature and
+help you withstand the cold."
+211,Item_Fruit_J_Desc,"村の畑で作られる とても硬いカボチャ
+料理に使うと カチコチ成分が効いて
+防御力を かなり上げる効果がある","An extremely tough pumpkin raised in village
+fields. When cooked, that toughness
+manifests itself by considerably
+upping defense."
+212,Item_Fruit_J_Name,ヨロイカボチャ,Fortified Pumpkin
+213,Item_Fruit_J_PictureBook,"村の畑で作られる とても硬いカボチャ
+料理に使うと カチコチ成分が効いて
+防御力を かなり上げる効果がある","An extremely tough pumpkin raised in village
+fields. When cooked, that toughness
+manifests itself by considerably
+upping defense."
+214,Item_Fruit_K_Desc,"森に落ちている木の実
+リスの大好物で こっそりため込んでいる
+料理に使うと ハートの回復量が少し増える","Often found on the ground near trees.
+Squirrels adore this nut, so you may have
+competition while foraging. Add one to a
+meal for a nutty seasoning."
+215,Item_Fruit_K_Name,どんぐり,Acorn
+216,Item_Fruit_L_Desc,"小鳥が好む小さな木の実
+そのまま食べてもほとんど効果はないが
+料理に入れるスパイスとして使われる","Small birds love this nut. You can eat it raw
+for a minor effect, but it can also be added
+as a spice to other recipes."
+217,Item_Fruit_L_Name,小鳥の木の実,Chickaloo Tree Nut
+218,Item_InsectGet_K_Desc,"水辺に生息する鋭いハサミが特徴のカニ
+ハサミの肉には筋力を上げる成分が含まれており
+調理して食べると攻撃力が増す","This crab is well known for its exceptionally
+sharp pincers. When cooked, the strength
+compound in its claws will increase your
+attack power."
+219,Item_InsectGet_K_Name,ツルギガニ,Razorclaw Crab
+220,Item_InsectGet_K_PictureBook,"水辺に生息する鋭いハサミが特徴のカニ
+ハサミの肉には筋力を上げる成分が含まれており
+調理して食べると攻撃力が増す","This crab is well known for its exceptionally
+sharp pincers. When cooked, the strength
+compound in its claws will increase your
+attack power."
+221,Item_InsectGet_O_Desc,"カニの中でも特別に硬い殻を持つ ミソや身には
+体を丈夫にする栄養素があると言われ
+調理して食べると防御力が増す効果がある","This crab's shell is particularly hard. When
+cooked into a dish, its fat and meat bolster
+the body to increase your defense."
+222,Item_InsectGet_O_Name,ヨロイガニ,Ironshell Crab
+223,Item_InsectGet_O_PictureBook,"カニの中でも特別に硬い殻を持つ ミソや身には
+体を丈夫にする栄養素があると言われ
+調理して食べると防御力が増す効果がある","This crab's shell is particularly hard. When
+cooked into a dish, its fat and meat bolster
+the body to increase your defense."
+224,Item_InsectGet_Z_Desc,"雨が降ると大量に現れることで有名
+身がしっかりしており疲れを忘れる旨味を持つ
+料理に使えば がんばりゲージを回復できる","This crab appears in large numbers when it
+rains. One bite of its delectable meat, and
+you'll forget all your exhaustion. Replenishes
+your stamina when cooked into a dish."
+225,Item_InsectGet_Z_Name,ガンバリガニ,Bright-Eyed Crab
+226,Item_InsectGet_Z_PictureBook,"雨が降ると大量に現れることで有名
+身がしっかりしており疲れを忘れる旨味を持つ
+料理に使えば がんばりゲージを回復できる","This crab appears in large numbers when it
+rains. One bite of its delectable meat, and
+you'll forget all your exhaustion. Replenishes
+your stamina when cooked into a dish."
+227,Item_Material_01_Desc,"煮込んで出てくる甘い汁は
+ケーキなどのお菓子作りには欠かせない
+町や村の素材屋で売られている","When boiled with other ingredients, the cane
+breaks down into a sweet juice necessary
+for making cakes and other sweets. It's
+commonly found in ingredients stores."
+228,Item_Material_01_Name,きび砂糖,Cane Sugar
+229,Item_Material_02_Desc,"様々な香辛料を混ぜた ゴロン秘伝のスパイス
+ガツンとした辛さが素材の旨さを引き出す 
+調合方法は代々受け継がれているらしい","Made from several types of spices, this
+secret Goron seasoning has been handed
+down for generations. An initial wave of
+spiciness paves the way for the sweetness."
+230,Item_Material_02_Name,ゴロンの香辛粉,Goron Spice
+231,Item_Material_03_Desc,"カカリコ村などで好んで食べられる穀物
+主に水が豊富な地方で作られている
+リゾットやおにぎりといった米料理の材料になる","This grain is a favorite among residents of
+Kakariko Village. It's grown in regions with a
+lot of water and is quite versatile. Used as an
+ingredient in things like risotto and rice balls."
+232,Item_Material_03_Name,ハイラル米,Hylian Rice
+233,Item_Material_04_Desc,"新鮮な鳥のタマゴ
+太い木の上などに作られる鳥の巣から手に入る
+栄養が豊富で料理の材料に最適","A fresh bird egg necessary for making dishes
+such as omelets and crepes. You can snag
+them from birds' nests if you're sneaky.
+Nutritious and delicious, perfect for cooking."
+234,Item_Material_04_Name,トリのタマゴ,Bird Egg
+235,Item_Material_05_00_Desc,"村で飼われているハテノウシやシロヤギから
+採れる新鮮なミルク そのまま飲んでも
+美味しいが スープやシチューの材料にもなる","This fresh milk comes from Hateno cows and
+white goats kept in the village. It's delicious
+on its own but can also be used as an
+ingredient in soups and stews."
+236,Item_Material_05_00_Name,フレッシュミルク x,Fresh Milk x
+237,Item_Material_05_Desc,"村で飼われているハテノウシやシロヤギから
+採れる新鮮なミルク そのまま飲んでも
+美味しいが スープやシチューの材料にもなる","This fresh milk comes from Hateno cows and
+white goats kept in the village. It's delicious
+on its own but can also be used as an
+ingredient in soups and stews."
+238,Item_Material_05_Name,フレッシュミルク,Fresh Milk
+239,Item_Material_06_Desc,"飼われているシロヤギのミルクで作られたバター
+シチューやムニエルといった料理以外にも
+ケーキなどのお菓子作りで よく使われる","Butter made from the milk of a domesticated
+white goat. In addition to being used in
+dishes like stews and meunière, it's often
+used when making cakes and other sweets."
+240,Item_Material_06_Name,ヤギのバター,Goat Butter
+241,Item_Material_07_Desc,"タバンタ地方の平原で広く作られてきた穀物
+石臼で細かい粉にして料理に使う
+シチューやパンなどの材料になる","This grain is cultivated extensively on the
+Tabantha Plains. It's ground finely with a
+millstone to be used in cooking. Use it to
+make things such as stews and breads."
+242,Item_Material_07_Name,タバンタ小麦,Tabantha Wheat
+243,Item_Material_08_Desc,"キルトンの魔物研究の成果のひとつ
+料理に混ぜて使う怪しいスパイス
+様々なマモノ料理が作れると言われているが…","A result of Kilton's research into monsters,
+this suspicious spice can be used to punch
+up dishes while cooking. Apparently it can be
+used to make a number of monstrous meals."
+244,Item_Material_08_Name,マモノエキス,Monster Extract
+245,Item_Meat_01_Desc,"平原や森にいる動物から手に入る肉
+そのままでも食べられるが調理すると
+おいしさアップでハートの回復量も増える","Meat obtained from animals in plains and
+forests. You can eat it raw, but cooking it will
+make it more delicious and nutritious."
+246,Item_Meat_01_Name,ケモノ肉,Raw Meat
+247,Item_Meat_02_Desc,"新鮮で上質な動物の肉
+なかなか手に入るものではないが
+料理に使うと高いハート回復効果がある","A fresh, high-quality piece of animal meat.
+This stuff isn't easy to come by, so savor it.
+Cook it to recover more hearts."
+248,Item_Meat_02_Name,上ケモノ肉,Raw Prime Meat
+249,Item_Meat_06_Desc,"鳥から採れた新鮮な肉
+ケモノ肉に比べると脂が少なくヘルシー
+焼いて食べた方がおいしく食べられる","This meat is tougher and chewier than a
+standard steak. Tastes better cooked."
+250,Item_Meat_06_Name,トリ肉,Raw Bird Drumstick
+251,Item_Meat_07_Desc,"鳥からたまに採ることができる上等な肉
+そのままでも食べられるが料理に使うと
+より高いハート回復効果を発揮する","A high-quality piece of meat that's hard to
+come by. You can eat it raw, but cooking it
+first will recover more hearts."
+252,Item_Meat_07_Name,上トリ肉,Raw Bird Thigh
+253,Item_Meat_11_Desc,"主に大型の動物から手に入る とても貴重な肉
+極上の名に負けない旨味と食べごたえを持つ
+料理に使えば絶品の出来上がりが期待できる","This prized cut of meat is usually from a large
+animal. Any connoisseur would rank this
+tender, juicy cut of meat \""gourmet.\"" Expect
+an exquisite meal when cooking with this."
+254,Item_Meat_11_Name,極上ケモノ肉,Raw Gourmet Meat
+255,Item_Meat_12_Desc,"一部の鳥から手に入ることがある とても貴重な肉
+味栄養 ボリューム どれを取っても満点
+焼いても料理に使っても大活躍する素材","This prized meat can be obtained from
+certain birds. It gets full points for flavor,
+nutrition, and volume. It pairs perfectly with
+other ingredients or can be enjoyed alone."
+256,Item_Meat_12_Name,極上トリ肉,Raw Whole Bird
+257,Item_MushroomGet_D_Desc,"天井や切り立った崖にむりやり生えるキノコ
+どこにでも生える生命力がすごい
+料理に使うと移動力が向上する効果がある","A mushroom that can grow almost anywhere
+but prefers ceilings and sheer cliffs. Cook it
+before eating to temporarily increase your
+movement speed."
+258,Item_MushroomGet_D_Name,ゴーゴーダケ,Rushroom
+259,Item_MushroomGet_D_PictureBook,"天井や切り立った崖にむりやり生えるキノコ
+どこにでも生える生命力がすごい
+料理に使うと移動力が向上する効果がある","A mushroom that can grow almost anywhere
+but prefers ceilings and sheer cliffs. Cook it
+before eating to temporarily increase your
+movement speed."
+260,Item_Mushroom_A_Desc,"森の木のそばに生える緑色のキノコ
+大地のエネルギーをたくさんため込んでいて
+料理に使うとがんばりが回復する効果が現れる","A green mushroom that grows near trees in
+the forest. It's chock-full of natural energy.
+Cook it to release its stamina-restoration
+properties."
+261,Item_Mushroom_A_Name,ガンバリダケ,Stamella Shroom
+262,Item_Mushroom_A_PictureBook,"森の木のそばに生える緑色のキノコ
+大地のエネルギーをたくさんため込んでいて
+料理に使うとがんばりが回復する効果が現れる","A green mushroom that grows near trees in
+the forest. It's chock-full of natural energy.
+Cook it to release its stamina-restoration
+properties."
+263,Item_Mushroom_B_Desc,"雪山の針葉樹の根元によく生える
+触るとヒンヤリしていて料理に使うと
+砂漠の暑さにも耐えることができるようになる","Often found at the base of pine trees in cold
+climates, these mushrooms are cool to the
+touch and can be used to cook dishes that
+allow you to stay cool even in arid regions."
+264,Item_Mushroom_B_Name,ヒンヤリダケ,Chillshroom
+265,Item_Mushroom_B_PictureBook,"雪山の針葉樹の根元によく生える
+触るとヒンヤリしていて料理に使うと
+砂漠の暑さにも耐えることができるようになる","Often found at the base of pine trees in cold
+climates, these mushrooms are cool to the
+touch and can be used to cook dishes that
+allow you to stay cool even in arid regions."
+266,Item_Mushroom_C_Desc,"主に気温の高い地域に生える真っ赤なキノコ
+見た目通り炎の力を宿しており料理に使うと
+寒い雪山でも耐えられる効果が発揮される","A bright red mushroom that grows in hot
+climates. Imbued with the power of heat, 
+they can be used to cook dishes that will
+allow you endure the bitter cold."
+267,Item_Mushroom_C_Name,ポカポカダケ,Sunshroom
+268,Item_Mushroom_C_PictureBook,"主に気温の高い地域に生える真っ赤なキノコ
+見た目通り炎の力を宿しており料理に使うと
+寒い雪山でも耐えられる効果が発揮される","A bright red mushroom that grows in hot
+climates. Imbued with the power of heat, 
+they can be used to cook dishes that will
+allow you endure the bitter cold."
+269,Item_Mushroom_E_Desc,"ハイラルの森を代表するキノコ
+木のそばに生えることが多く
+食べるとハート回復の効果がある","A common mushroom found near trees
+around Hyrule. Eat it to restore half a heart."
+270,Item_Mushroom_E_Name,ハイラルダケ,Hylian Shroom
+271,Item_Mushroom_E_PictureBook,"ハイラルの森を代表するキノコ
+木のそばに生えることが多く
+食べるとハート回復の効果がある","A common mushroom found near trees
+around Hyrule. Eat it to restore half a heart."
+272,Item_Mushroom_F_00_Desc,"かなり貴重なキノコの一種
+土の中で育ち強い香りがある
+料理に使うとハートが限界を超えて回復する","This rare mushroom has a rich scent.
+Cook it before eating to temporarily
+increase your maximum hearts."
+273,Item_Mushroom_F_00_Name,マックストリュフ x,Hearty Truffle x
+274,Item_Mushroom_F_Desc,"かなり貴重なキノコの一種
+土の中で育ち強い香りがある
+料理に使うとハートが限界を超えて回復する","This rare mushroom has a rich scent.
+Cook it before eating to temporarily
+increase your maximum hearts."
+275,Item_Mushroom_F_Name,マックストリュフ,Hearty Truffle
+276,Item_Mushroom_F_PictureBook,"かなり貴重なキノコの一種
+土の中で育ち強い香りがある
+料理に使うとハートが限界を超えて回復する","This rare mushroom has a rich scent.
+Cook it before eating to temporarily
+increase your maximum hearts."
+277,Item_Mushroom_H_Desc,"ゲルド地方でよく見かけられるキノコ
+傘の部分に絶縁成分が豊富に含まれている
+料理に使うと電撃に耐性を得られる","This mushroom grows wild in the Gerudo
+region. The cap is naturally insulated, so
+when used in cooking, it will offer protection
+against electricity."
+278,Item_Mushroom_H_Name,ビリビリダケ,Zapshroom
+279,Item_Mushroom_H_PictureBook,"ゲルド地方でよく見かけられるキノコ
+傘の部分に絶縁成分が豊富に含まれている
+料理に使うと電撃に耐性を得られる","This mushroom grows wild in the Gerudo
+region. The cap is naturally insulated, so
+when used in cooking, it will offer protection
+against electricity."
+280,Item_Mushroom_J_Desc,"夜になると静かに光る不思議なキノコ
+料理に使うと傘に含まれる成分で集中力が
+高まり物音を立てずに行動できるようになる","A strange mushroom that glows softly in
+the forest at night. Cooking it into a dish
+unlocks the nutrients in its cap, resulting in
+a meal that will allow you to move stealthily."
+281,Item_Mushroom_J_Name,シノビダケ,Silent Shroom
+282,Item_Mushroom_J_PictureBook,"夜になると静かに光る不思議なキノコ
+料理に使うと傘に含まれる成分で集中力が
+高まり物音を立てずに行動できるようになる","A strange mushroom that glows softly in
+the forest at night. Cooking it into a dish
+unlocks the nutrients in its cap, resulting in
+a meal that will allow you to move stealthily."
+283,Item_Mushroom_L_Desc,"剣で斬りつけたようなヒビが特徴のキノコ
+料理に使うと傘の裏のひだに含まれる成分により
+闘争心が向上し攻撃力が増すと言われる","This mushroom is known for the natural slice
+in its cap. Eating it fosters your competitive
+spirit. Use it when cooking to prepare a dish
+that will increase your strength."
+284,Item_Mushroom_L_Name,ツルギダケ,Razorshroom
+285,Item_Mushroom_L_PictureBook,"剣で斬りつけたようなヒビが特徴のキノコ
+料理に使うと傘の裏のひだに含まれる成分により
+闘争心が向上し攻撃力が増すと言われる","This mushroom is known for the natural slice
+in its cap. Eating it fosters your competitive
+spirit. Use it when cooking to prepare a dish
+that will increase your strength."
+286,Item_Mushroom_M_Desc,"傘がとても硬く発達したキノコ
+その傘に含まれる成分は調理して食べると 
+体幹を強化する効能があり防御力が増す","The cap of this mushroom is very hard.
+Use it when cooking to prepare a dish
+that increases your defense."
+287,Item_Mushroom_M_Name,ヨロイダケ,Ironshroom
+288,Item_Mushroom_M_PictureBook,"傘がとても硬く発達したキノコ
+その傘に含まれる成分は調理して食べると 
+体幹を強化する効能があり防御力が増す","The cap of this mushroom is very hard.
+Use it when cooking to prepare a dish
+that increases your defense."
+289,Item_Mushroom_N_00_Desc,"誰にも発見されず大きく育ったマックストリュフ
+蓄えられた栄養も豊富で料理に使うと
+ハートが限界をはるかに超えて回復する","Years of going unpicked have allowed this
+hearty truffle to grow quite large. It's chock-
+full of nutrients. When cooked into a dish, it
+temporarily increases your maximum hearts."
+290,Item_Mushroom_N_00_Name,大マックストリュフ x,Big Hearty Truffle x
+291,Item_Mushroom_N_Desc,"誰にも発見されず大きく育ったマックストリュフ
+蓄えられた栄養も豊富で料理に使うと
+ハートが限界をはるかに超えて回復する","Years of going unpicked have allowed this
+hearty truffle to grow quite large. It's chock-
+full of nutrients. When cooked into a dish, it
+temporarily increases your maximum hearts."
+292,Item_Mushroom_N_Name,大マックストリュフ,Big Hearty Truffle
+293,Item_Mushroom_N_PictureBook,"誰にも発見されず大きく育ったマックストリュフ
+蓄えられた栄養も豊富で料理に使うと
+ハートが限界をはるかに超えて回復する","Years of going unpicked have allowed this
+hearty truffle to grow quite large. It's chock-
+full of nutrients. When cooked into a dish, it
+temporarily increases your maximum hearts."
+294,Item_Mushroom_O_Desc,"めったに取れない黄色いキノコ
+料理するとがんばりゲージの最大値が増える
+というとても貴重な効果を発揮する","A rare yellowish-orange mushroom. Cook it
+before eating to temporarily increase your
+stamina limit."
+295,Item_Mushroom_O_Name,ガッツダケ,Endura Shroom
+296,Item_Mushroom_O_PictureBook,"めったに取れない黄色いキノコ
+料理するとがんばりゲージの最大値が増える
+というとても貴重な効果を発揮する","A rare yellowish-orange mushroom. Cook it
+before eating to temporarily increase your
+stamina limit."
+297,Item_Ore_A_00_Desc,"ハイラルで採れる中ではもっとも貴重な鉱石
+美しい輝きは古来より人々の心を捉え
+大変な高値で取引されてきた","The most precious gem one can find in
+Hyrule, its signature sparkle has charmed
+Hyruleans for generations. As such, it has
+sold for a very high price since ancient times."
+298,Item_Ore_A_00_Name,ダイヤモンド x,Diamond x
+299,Item_Ore_A_Desc,"ハイラルで採れる中ではもっとも貴重な鉱石
+美しい輝きは古来より人々の心を捉え
+大変な高値で取引されてきた","The most precious gem one can find in
+Hyrule, its signature sparkle has charmed
+Hyruleans for generations. As such, it has
+sold for a very high price since ancient times."
+300,Item_Ore_A_Name,ダイヤモンド,Diamond
+301,Item_Ore_B_Desc,"ハイラルで採れる貴重な鉱石
+紅玉とも呼ばれ炎の力を秘めると言われる
+古来よりかなり高値で取引されてきた","A precious red gem mined from large ore
+deposits found throughout Hyrule. Rubies
+contain the power of fire and have fetched
+a high price since ancient times."
+302,Item_Ore_B_Name,ルビー,Ruby
+303,Item_Ore_C_Desc,"ハイラルで採れる貴重な鉱石
+青玉とも呼ばれ氷の力を秘めると言われる
+古来よりかなり高値で取引されてきた","A precious blue gem mined from natural rock
+formations. Sapphires contain the very
+essence of ice. They've been known to
+fetch a high price since ancient times."
+304,Item_Ore_C_Name,サファイア,Sapphire
+305,Item_Ore_D_Desc,"ハイラルで採れる貴重な鉱石
+黄玉とも呼ばれ電気の力を秘めると言われる
+古来より高値で取引されてきた","This precious yellow gem contains the power
+of electricity. It's been known to fetch a
+high price since ancient times."
+306,Item_Ore_D_Name,トパーズ,Topaz
+307,Item_Ore_E_Desc,"ハイラルで採れる鉱石の一つ
+貝殻のように複雑で美しい光を放つ石で
+水の力を宿すと言われる","A valuable ore that gives off a mesmerizing
+iridescence similar to the inside of a seashell.
+It contains the power of water."
+308,Item_Ore_E_Name,オパール,Opal
+309,Item_Ore_F_Desc,"ハイラルで採れる樹脂の化石
+美しいあめ色に輝き古くから
+装飾品や工芸品にも使われてきた","A fossilized resin with a caramelesque sheen
+to it. It's been valued as a component in
+decorations and crafting since ancient times."
+310,Item_Ore_F_Name,コハク,Amber
+311,Item_Ore_G_Desc,"夜になると青白く光り出す不思議な鉱石
+死者の魂の灯火とも言われる
+この石を原料にした特殊な服もあるという","This mysterious mineral gives off a pale blue
+glow in the dark, which some believe to be
+souls of the dead. Apparently, this stone can
+be used as a base to make special clothing."
+312,Item_Ore_G_Name,夜光石,Luminous Stone
+313,Item_Ore_H_Desc,"大昔の海の塩が結晶化した
+おいしい料理には欠かせない調味料の元
+そのままでは食べられない","Crystallized salt from the ancient sea
+commonly used to season meals. 
+Cannot be eaten in this form."
+314,Item_Ore_H_Name,岩塩,Rock Salt
+315,Item_Ore_I_Desc,"金属の武器で叩くと火花が出る携帯型の火だね
+薪の束を近くに置いておくと焚き火を起こせる
+一回で壊れてしまうが冒険にはとても役立つ","Strike it with a metallic weapon to generate
+a spark. This portable fire starter breaks after
+one use, but it can create a long-lasting
+flame if you use it near firewood."
+316,Item_Ore_I_Name,火打ち石,Flint
+317,Item_Ore_J_Desc,"空の彼方から落ちてきた不思議な石のかけら
+貴重な物で価値が高そうだが実は料理の材料
+としても使えるのは あまり知られていない","A mysterious stone fragment that fell from
+the sky. It looks like it would fetch a good
+price, but you may be able to use it in
+certain recipes as well."
+318,Item_Ore_J_Name,星のかけら,Star Fragment
+319,Item_PlantGet_A_Desc,"生命力に満ちあふれたハーブ
+ハイラルの草原に多く自生し料理に使うと
+ハートを回復させる効果がある","This healthy herb grows abundantly in the
+plains of Hyrule. Cook it before eating to
+increase the number of hearts it restores."
+320,Item_PlantGet_A_Name,ハイラル草,Hyrule Herb
+321,Item_PlantGet_A_PictureBook,"生命力に満ちあふれたハーブ
+ハイラルの草原に多く自生し料理に使うと
+ハートを回復させる効果がある","This healthy herb grows abundantly in the
+plains of Hyrule. Cook it before eating to
+increase the number of hearts it restores."
+322,Item_PlantGet_B_Desc,"日当たりの良い草原に自生する珍しいカブ
+料理に使うとハートが限界を超えて回復する","A rare radish that grows best in sunny plains.
+Cook it before eating to temporarily increase
+your maximum hearts."
+323,Item_PlantGet_B_Name,マックスラディッシュ,Hearty Radish
+324,Item_PlantGet_B_PictureBook,"日当たりの良い草原に自生する珍しいカブ
+料理に使うとハートが限界を超えて回復する","A rare radish that grows best in sunny plains.
+Cook it before eating to temporarily increase
+your maximum hearts."
+325,Item_PlantGet_C_Desc,"限界を超えて大きく育ったマックスラディッシュ
+滋養強壮成分がとても豊富で料理に使うと
+ハートが限界をはるかに超えて回復する","This hearty radish has grown much larger
+than the average radish. It's rich in analeptic
+compounds that, when cooked into a dish,
+temporarily increase your maximum hearts."
+326,Item_PlantGet_C_Name,大マックスラディッシュ,Big Hearty Radish
+327,Item_PlantGet_C_PictureBook,"限界を超えて大きく育ったマックスラディッシュ
+滋養強壮成分がとても豊富で料理に使うと
+ハートが限界をはるかに超えて回復する","This hearty radish has grown much larger
+than the average radish. It's rich in analeptic
+compounds that, when cooked into a dish,
+temporarily increase your maximum hearts."
+328,Item_PlantGet_E_Desc,"ヘブラやゲルドの標高の高い山地で見かけられる
+薬草の一種葉に身体を冷やす成分を持っており
+料理に使うと耐暑効果を得る事ができる","This medicinal plant grows in high elevations,
+such as mountains in the Hebra or Gerudo
+regions. When cooked into a dish, it will
+temporarily increase your heat resistance."
+329,Item_PlantGet_E_Name,ヒンヤリハーブ,Cool Safflina
+330,Item_PlantGet_E_PictureBook,"ヘブラやゲルドの標高の高い山地で見かけられる
+薬草の一種葉に身体を冷やす成分を持っており
+料理に使うと耐暑効果を得る事ができる","This medicinal plant grows in high elevations,
+such as mountains in the Hebra or Gerudo
+regions. When cooked into a dish, it will
+temporarily increase your heat resistance."
+331,Item_PlantGet_F_Desc,"ゲルド地方など気温の高い場所で育つ薬草の一種
+実や葉は辛味成分が強く料理に使うと
+寒さに強くなる効果を得る事ができる","This medicinal plant grows in hot regions,
+such as the Gerudo Desert. It's warm to the
+touch and increases your cold resistance
+when cooked into a dish."
+332,Item_PlantGet_F_Name,ポカポカハーブ,Warm Safflina
+333,Item_PlantGet_F_PictureBook,"ゲルド地方など気温の高い場所で育つ薬草の一種
+実や葉は辛味成分が強く料理に使うと
+寒さに強くなる効果を得る事ができる","This medicinal plant grows in hot regions,
+such as the Gerudo Desert. It's warm to the
+touch and increases your cold resistance
+when cooked into a dish."
+334,Item_PlantGet_G_Desc,"葉や実にある鋭いトゲが特徴の薬草
+一時的に筋力を増やす特殊な成分が含まれていて
+料理に使うと攻撃力が増える効果が発揮される","This medicinal plant is known for its sharp
+thorns and for the fruit it bears. The fruit
+contains a compound that increases attack
+power when cooked into a dish."
+335,Item_PlantGet_G_Name,ツルギソウ,Mighty Thistle
+336,Item_PlantGet_G_PictureBook,"葉や実にある鋭いトゲが特徴の薬草
+一時的に筋力を増やす特殊な成分が含まれていて
+料理に使うと攻撃力が増える効果が発揮される","This medicinal plant is known for its sharp
+thorns and for the fruit it bears. The fruit
+contains a compound that increases attack
+power when cooked into a dish."
+337,Item_PlantGet_H_Desc,"たとえ踏まれても折れない タフな薬草
+その丈夫でしなやかな繊維質は料理して食べると
+体幹を強化する効能があり防御力が増す","This tough medicinal plant cannot be
+broken, but it can be cooked. Its
+durable yet flexible fibers raise your
+defense when cooked into a dish."
+338,Item_PlantGet_H_Name,ヨロイソウ,Armoranth
+339,Item_PlantGet_H_PictureBook,"たとえ踏まれても折れない タフな薬草
+その丈夫でしなやかな繊維質は料理して食べると
+体幹を強化する効能があり防御力が増す","This tough medicinal plant cannot be
+broken, but it can be cooked. Its
+durable yet flexible fibers raise your
+defense when cooked into a dish."
+340,Item_PlantGet_I_Desc,"主に森や草地に咲く花
+夜になるとほのかに光を放つ
+料理に使うと静かさを増やす効果が発揮される","A plant that grows in quieter areas of Hyrule.
+At night, it gives off a soft glow.
+Cook with it to increase your stealth."
+341,Item_PlantGet_I_Name,しのび草,Blue Nightshade
+342,Item_PlantGet_I_PictureBook,"主に森や草地に咲く花
+夜になるとほのかに光を放つ
+料理に使うと静かさを増やす効果が発揮される","A plant that grows in quieter areas of Hyrule.
+At night, it gives off a soft glow.
+Cook with it to increase your stealth."
+343,Item_PlantGet_J_Desc,"ハイラル王国の姫が愛したと言われる可憐な花
+以前より絶滅が危惧される種だが
+近年 まれに自生しているのを見かける事ができる","This lovely flower was said to have been a
+favorite of the princess of Hyrule. Once
+feared to have gone extinct, it's recently
+been spotted growing in the wild."
+344,Item_PlantGet_J_Name,姫しずか,Silent Princess
+345,Item_PlantGet_J_PictureBook,"ハイラル王国の姫が愛したと言われる可憐な花
+以前より絶滅が危惧される種だが
+近年 まれに自生しているのを見かける事ができる","This lovely flower was said to have been a
+favorite of the princess of Hyrule. Once
+feared to have gone extinct, it's recently
+been spotted growing in the wild."
+346,Item_PlantGet_L_Desc,"ゲルド砂漠に多く自生している薬草の一種
+電流を外へと逃がす特殊な繊維質を持ち
+料理に使うと電気への耐性を得る事ができる","This medicinal plant grows abundantly in the
+Gerudo Desert. Its peculiar fibers conduct
+electricity, which will increase your electricity
+resistance when cooked into a dish."
+347,Item_PlantGet_L_Name,ビリビリハーブ,Electric Safflina
+348,Item_PlantGet_L_PictureBook,"ゲルド砂漠に多く自生している薬草の一種
+電流を外へと逃がす特殊な繊維質を持ち
+料理に使うと電気への耐性を得る事ができる","This medicinal plant grows abundantly in the
+Gerudo Desert. Its peculiar fibers conduct
+electricity, which will increase your electricity
+resistance when cooked into a dish."
+349,Item_PlantGet_M_Desc,"カカリコ村でよく作られているニンジン
+足腰を強くする効能があると言われており 
+調理して食べると移動速度が上がる","This carrot is cultivated extensively in
+Kakariko Village. It strengthens the legs
+and hips when cooked into a dish, which
+helps increase your movement speed."
+350,Item_PlantGet_M_Name,ゴーゴーニンジン,Swift Carrot
+351,Item_PlantGet_M_PictureBook,"カカリコ村でよく作られているニンジン
+足腰を強くする効能があると言われており 
+調理して食べると移動速度が上がる","This carrot is cultivated extensively in
+Kakariko Village. It strengthens the legs
+and hips when cooked into a dish, which
+helps increase your movement speed."
+352,Item_PlantGet_O_Desc,"切り立った崖にも咲く生命力豊かな花
+料理に使うと蓄えられた滋養成分によって
+移動速度が上がる効果を得られる","This vitality-rich flower blooms mainly on
+cliffsides. When cooked into a dish, the
+nourishing compounds increase your
+movement speed."
+353,Item_PlantGet_O_Name,ゴーゴースミレ,Swift Violet
+354,Item_PlantGet_O_PictureBook,"切り立った崖にも咲く生命力豊かな花
+料理に使うと蓄えられた滋養成分によって
+移動速度が上がる効果を得られる","This vitality-rich flower blooms mainly on
+cliffsides. When cooked into a dish, the
+nourishing compounds increase your
+movement speed."
+355,Item_PlantGet_Q_Desc,"薬草としても珍重されてきた貴重なニンジン
+活力の源となる成分を大量に含んでおり
+調理すると がんばりゲージが限界を超えて増える","Highly valued as a medicinal plant, this
+carrot contains large amounts of nourishing
+energy. When cooked into a dish, it boosts
+your stamina beyond its maximum limit."
+356,Item_PlantGet_Q_Name,ガッツニンジン,Endura Carrot
+357,Item_PlantGet_Q_PictureBook,"薬草としても珍重されてきた貴重なニンジン
+活力の源となる成分を大量に含んでおり
+調理すると がんばりゲージが限界を超えて増える","Highly valued as a medicinal plant, this
+carrot contains large amounts of nourishing
+energy. When cooked into a dish, it boosts
+your stamina beyond its maximum limit."
+358,Item_RoastFish_01_Desc,"バスの丸焼き生のままより
+こんがり焼くと香ばしくなりおいしく食べられる
+ハートの回復量も増えた","A bass that's been cooked whole over an
+open flame. It's flaky and savory smelling.
+Offers more hearts than the raw version."
+359,Item_RoastFish_01_Name,焼きバス,Roasted Bass
+360,Item_RoastFish_02_Desc,"貴重なマックスバスの丸焼き
+直火であぶった事で皮がパリッと焼けている
+丸々と太った身は脂が乗って おいしさ抜群","An open flame has crisped the skin of this
+hearty bass to perfection. It's a sizable
+portion and contains just the right amount
+of fat to create an exceptionally tasty dish."
+361,Item_RoastFish_02_Name,焼きマックスバス,Roasted Hearty Bass
+362,Item_RoastFish_03_Desc,"ハイラル各地で獲れるマスの姿焼き
+火を通した身はホクホクしており
+あっさりとして優しい味がする","This trout can be found all over Hyrule.
+Served river-to-table, it's simply cooked
+for a soft and flaky flesh with a mild flavor."
+363,Item_RoastFish_03_Name,焼きマス,Roasted Trout
+364,Item_RoastFish_04_Desc,"新鮮なマックスサーモンを味付けせずに
+シンプルに直火で焼き上げた ひと品
+皮も香ばしくて おいしく食べられる","A fresh hearty salmon roasted simply over
+an open flame without any additional
+flavoring. Not only is the skin edible, but
+it gives off a rather nice aroma as well."
+365,Item_RoastFish_04_Name,焼きマックスサーモン,Roasted Hearty Salmon
+366,Item_RoastFish_07_Desc,"淡水で獲れるコイを焼き上げた料理
+加熱した事で魚の臭みも減って食べやすくなった
+肉厚の身は食べごたえも十分","Roasting this freshwater carp helped to
+suppress some of its stench, making it
+easier to stomach. You can really sink
+your teeth into the thick, meaty flesh."
+367,Item_RoastFish_07_Name,焼きゴイ,Roasted Carp
+368,Item_RoastFish_09_Desc,"海で育ったタイの丸焼き
+白身魚特有の ふんわり柔らかな身と
+カリカリで香ばしい皮が味わえる","The soft and fluffy texture of this seafaring
+fish has been enhanced by roasting it over
+an open fire. The crisp, aromatic skin is
+particularly delicious."
+369,Item_RoastFish_09_Name,焼きダイ,Roasted Porgy
+370,Item_RoastFish_11_Desc,"マックスサザエをそのまま直火で焼いた料理
+身の先端には独特の苦みがあるが 
+好きな人にはたまらない壺焼きとも言われる","The shell of this hearty blueshell snail acted
+as a tiny slow cooker as it was roasted.
+Some people love the trademark bitterness
+of its tail meat."
+371,Item_RoastFish_11_Name,焼きマックスサザエ,Blueshell Escargot
+372,Item_RoastFish_13_Desc,"シノビタニシを貝殻ごと焼き上げた料理
+プリプリとした歯ごたえが特徴的
+うまく身を取り出せるとちょっと嬉しい","Sneaky river snail roasted whole in its shell.
+The meat is soft and a little chewy. Pulling all
+the meat from the shell in one go fills you
+with a sense of accomplishment."
+373,Item_RoastFish_13_Name,焼きシノビタニシ,Sneaky River Escargot
+374,Item_RoastFish_15_Desc,"身の詰まったカニを じっくりとあぶった料理
+香ばしく ホクホクした甘い身が絶品
+焦げた殻もとても良い香りがする","A whole crab slow-roasted in its shell. The
+soft, flaky flesh pairs nicely with the scent
+of the charred shell for a meal that assaults
+all five of your senses in all the best ways."
+375,Item_RoastFish_15_Name,焼きガニ,Blackened Crab
+376,Item_Roast_01_Desc,"ケモノ肉を直火で焼いたもの
+焼くことで香ばしくなり
+ハートの回復量も増えた","Raw meat cooked over an open flame.
+Cooking it has increased its flavor and the
+number of hearts it provides."
+377,Item_Roast_01_Name,焼きケモノ肉,Seared Steak
+378,Item_Roast_02_Desc,"皮ごとパリッと焼き上げたトリ肉
+余計な味付けをしない分 シンプルなおいしさ
+ハートの回復量も増えた","Raw bird drumstick that's been cooked to
+a crisp, skin and all. It's devoid of seasoning,
+but it has a simple, accessible taste.
+Restores more hearts than the raw variety."
+379,Item_Roast_02_Name,焼きトリ肉,Roasted Bird Drumstick
+380,Item_Roast_03_Desc,"リンゴを直火であぶった香ばしいおやつ
+食べるとハートが回復する","Direct heat has softened and sweetened
+this apple. Eat it to restore three quarters
+of a heart."
+381,Item_Roast_03_Name,焼きリンゴ,Baked Apple
+382,Item_Roast_04_Desc,"ガンバリダケの丸焼き
+効果はハートの回復だけだが
+生で食べるよりはかなりおいしい","This toasted stamella shroom doesn't grant
+any special effects, but it will restore
+a bit of health."
+383,Item_Roast_04_Name,焼きガンバリダケ,Toasty Stamella Shroom
+384,Item_Roast_05_Desc,"マックストリュフをこんがり焼き上げた
+とってもおいしいが料理に使った方が
+より大きな効果が期待できる","A hearty truffle with a toasted, crispy outside
+and a warm, gooey inside."
+385,Item_Roast_05_Name,焼きマックストリュフ,Toasted Hearty Truffle
+386,Item_Roast_06_Desc,"ハイラルダケの素焼き
+味も香りも格段によくなって
+ハートの回復量も増えた","A Hylian shroom toasted to perfection.
+The taste and fragrance are amplified,
+restoring more health to its consumer."
+387,Item_Roast_06_Name,焼きハイラルダケ,Toasty Hylian Shroom
+388,Item_Roast_07_Desc,"イチゴの直火焼き
+そのまま食べるのとは違った甘味がある
+少しだけハートの回復量が増えた","This wildberry was prepared over an open
+flame to alter its sweet taste. It recovers
+more health than if eaten raw."
+389,Item_Roast_07_Name,焼きイチゴ,Roasted Wildberry
+390,Item_Roast_08_Desc,"ゲルド砂漠で採れる ビリビリフルーツの直火焼き
+生で食べるより甘みや酸味が強くなった
+ちょっと焦げた位がおいしい","This voltfruit from the Gerudo Desert has
+been charred to really bring out its sweet
+and sour flavors."
+391,Item_Roast_08_Name,焼きビリビリフルーツ,Roasted Voltfruit
+392,Item_Roast_09_Desc,"マックスドリアンを硬い皮ごと焼いた ひと品
+独特の臭いは火であぶっても健在
+ハートの回復効果は高い","This hearty durian was roasted whole inside
+its hard shell. Unfortunately, roasting it did
+nothing to remove its distinct odor. Eat it to
+recover a lot of hearts."
+393,Item_Roast_09_Name,焼きマックスドリアン,Roasted Hearty Durian
+394,Item_Roast_10_Desc,"ヤシの実を直火であぶったひと品
+皮につつまれた果肉が蒸し焼きになっている
+残った果汁と一緒に食べるのがおすすめ","This palm fruit was broiled with direct heat,
+resulting in steamed flesh inside the rind.
+Best served at the moment the juices
+emerge while roasting."
+395,Item_Roast_10_Name,焼きヤシの実,Baked Palm Fruit
+396,Item_Roast_11_Desc,"ツルギバナナの丸焼き
+火が通った事で実がとろとろになって
+甘みや香りも豊かになった","These mighty bananas have been roasted
+whole. Cooking them through has turned the
+fruit inside into a sticky, rich, aromatic syrup."
+397,Item_Roast_11_Name,焼きツルギバナナ,Roasted Mighty Bananas
+398,Item_Roast_12_Desc,"ヒンヤリメロンの丸焼き
+温かくなった果肉は ほくほくした食感
+なんとも不思議な味わい","This hydromelon was roasted whole for
+a very soft and flaky inner flesh with a
+rather intriguing flavor. Now this is your
+money melon!"
+399,Item_Roast_12_Name,焼きヒンヤリメロン,Roasted Hydromelon
+400,Item_Roast_13_Desc,"ポカポカ草の実を焼いたもの
+火を通すことで辛みがなくなり
+そのまま食べても結構おいしい","A pepper that's been gently caressed by an
+open flame. It's much less spicy now."
+401,Item_Roast_13_Name,焼きポカポカ草の実,Charred Pepper
+402,Item_Roast_15_Desc,"大きなヨロイカボチャの丸焼き
+硬い皮が器の働きをしており
+中身が蒸し焼きになっている","This fortified pumpkin has been roasted
+whole. The hard rind serves as a container
+for the steamed pumpkin flesh inside."
+403,Item_Roast_15_Name,焼きヨロイカボチャ,Baked Fortified Pumpkin
+404,Item_Roast_16_Desc,"直火で焼いたゴーゴーハスの実
+皮をむいて食べれば ほくほくで
+栗のような食感が味わえる","Flame-roasted fleet-lotus seeds.
+Peel the skin back to get to the soft
+and flaky center."
+405,Item_Roast_16_Name,焼きゴーゴーハスの実,Roasted Lotus Seeds
+406,Item_Roast_18_Desc,"マックスラディッシュの丸焼き
+ホクホクして香ばしい
+特殊な効果はないが食べるとハートが回復する","A roasted hearty radish. Fragrant and
+warm, it has no special effect but will
+restore hearts."
+407,Item_Roast_18_Name,焼きラディッシュ,Roasted Radish
+408,Item_Roast_19_Desc,"大マックスラディッシュの丸焼き
+貴重な野菜を思い切って焼いてみた
+ある意味贅沢な一品","A roasted big hearty radish.
+To take such a precious vegetable
+and put it to the fire is decadent
+in a way."
+409,Item_Roast_19_Name,焼き大ラディッシュ,Roasted Big Radish
+410,Item_Roast_24_Desc,"香ばしいゴーゴーニンジンの丸焼き
+特別な効果はないが
+ハートを回復することができる","A fragrant swift carrot that's been
+lightly roasted. It doesn't have any
+special effects, but it will restore
+some health."
+411,Item_Roast_24_Name,焼きゴーゴーニンジン,Roasted Swift Carrot
+412,Item_Roast_27_Desc,"ツルギソウの素焼き
+特別な効果はないが
+とんがった花もパリッとしておいしく食べられる","Lightly toasted mighty thistle. It has no
+special effects, but now that it's been grilled,
+the pointy ends go down smooth."
+413,Item_Roast_27_Name,焼きツルギソウ,Roasted Mighty Thistle
+414,Item_Roast_28_Desc,"ヨロイソウの丸焼き
+硬くて歯ごたえのあった繊維質も 
+熱を通した事で ほぐれて食べやすくなった","Simple, roasted armoranth. The heat has
+frayed the hard, chewy fiber just enough
+to make it easy to eat."
+415,Item_Roast_28_Name,焼きヨロイソウ,Roasted Armoranth
+416,Item_Roast_31_Desc,"ヒンヤリダケの丸焼き
+こんがり焼けて生で食べるよりおいしくなった
+ハートを回復することができる","A fully roasted chillshroom. It's evenly
+toasted and tastes a lot better than
+when eaten raw. Eating it will restore
+a bit of health."
+417,Item_Roast_31_Name,焼きヒンヤリダケ,Toasty Chillshroom
+418,Item_Roast_32_Desc,"ポカポカダケの丸焼き
+いざという時のためにポーチにあると安心
+ハートを回復することができる","It's always a good idea to keep a fully
+roasted sunshroom or two on hand just
+in case. Eat it to recover a bit of health."
+419,Item_Roast_32_Name,焼きポカポカダケ,Toasty Sunshroom
+420,Item_Roast_33_Desc,"ビリビリダケの丸焼き
+ピリッとくることもなく まろやかな味になった
+ハートを回復することができる","It's not very shocking that this fully roasted
+zapshroom is delicious. Eat it to recover
+a bit of health."
+421,Item_Roast_33_Name,焼きビリビリダケ,Toasty Zapshroom
+422,Item_Roast_36_Desc,"ゴーゴーダケの丸焼き
+不思議な力は失われたが味は格段にアップした","A rushroom that's been put to the torch.
+It may have lost its speedy properties, but
+at least it tastes good now."
+423,Item_Roast_36_Name,焼きゴーゴーダケ,Toasty Rushroom
+424,Item_Roast_37_Desc,"ツルギダケの丸焼き
+生のまま食べるよりホクホクしておいしい
+ハートが回復する","A razorshroom that's been exposed to
+direct heat. Its sharp exterior has softened
+considerably. Restores a bit of health."
+425,Item_Roast_37_Name,焼きツルギダケ,Toasty Razorshroom
+426,Item_Roast_38_Desc,"ヨロイダケの丸焼き
+硬かった表面もカリッとしておいしい
+ハートを回復することができる","An ironshroom exposed to an open
+flame. Its once-tough exterior is now crunchy
+and tasty. Restores a bit of health."
+427,Item_Roast_38_Name,焼きヨロイダケ,Toasty Ironshroom
+428,Item_Roast_39_Desc,"シノビダケの丸焼き
+優しく光っていた面影はないが
+香ばしくておいしい","A whole, toasted silent shroom. High heat
+may have destroyed its soft glow, but it's
+now fragrant and tasty."
+429,Item_Roast_39_Name,焼きシノビダケ,Toasty Silent Shroom
+430,Item_Roast_40_Desc,"肉厚な上ケモノ肉の丸焼き
+外側は香ばしく中はジューシーで
+たまらなくおいしい","Raw prime meat cooked over an open flame.
+The outside is perfectly browned, while
+the inside is mouthwateringly juicy."
+431,Item_Roast_40_Name,焼き上ケモノ肉,Seared Prime Steak
+432,Item_Roast_41_Desc,"貴重な上トリ肉をこんがり焼き上げた
+外はパリッと中はジューシーな仕上がり
+食べるとハートが回復する","Prime meat that's been flame-seared to
+perfection. The outside is crispy, but the
+inside is juicy. Eat it to recover hearts."
+433,Item_Roast_41_Name,焼き上トリ肉,Roasted Bird Thigh
+434,Item_Roast_45_Desc,"最高級の肉である極上ケモノ肉を 
+あえて何も味付けせずに直火で焼き上げた料理
+素材本来の味を存分に味わう事ができる逸品","The highest quality raw gourmet meat, just
+kissed by an open flame. No additional
+seasonings have been added, which lets
+the natural flavor of the meat really shine."
+435,Item_Roast_45_Name,焼き極上ケモノ肉,Seared Gourmet Steak
+436,Item_Roast_46_Desc,"最高級食材である極上トリ肉の丸焼き
+何も味付けしない野性味あふれる調理方法で
+素材本来の味を十分に楽しむことができる逸品","This raw whole bird has been tickled by
+an open flame to bring out its flavor. Less
+is more, as the lack of additional seasoning
+allows its natural taste to shine."
+437,Item_Roast_46_Name,焼き極上トリ肉,Roasted Whole Bird
+438,Item_Roast_48_Desc,"直火で焼いたどんぐり
+香ばしく甘みも増す","An acorn cooked with direct heat.
+Its nutty aroma has been amplified."
+439,Item_Roast_48_Name,焼きどんぐり,Roasted Acorn
+440,Item_Roast_49_Desc,"貴重な食材である大マックストリュフの丸焼き
+火であぶる事で香りがより豊かになった
+食べるとハートがたくさん回復する","This big hearty truffle has been roasted
+whole. It gets full points for aroma and
+nutrition. Eat it to recover a lot of hearts."
+441,Item_Roast_49_Name,焼き大マックストリュフ,Toasted Big Hearty Truffle
+442,Item_Roast_50_Desc,"貴重なガッツニンジンを 
+贅沢にそのまま焼いたひと品
+火が通って甘味が増している","This flame-kissed endura carrot makes for a
+truly extravagant single-item dish. The fire
+really brought out its sweetness."
+443,Item_Roast_50_Name,焼きガッツニンジン,Roasted Endura Carrot
+444,Item_Roast_51_Desc,"トリのタマゴをカラごと焼き上げた料理
+余分な水分がなくなる事で
+茹でるより身がプリプリになる","Roasting a bird egg whole in its shell like this
+helps retain water, making the egg a bit
+chewier than usual."
+445,Item_Roast_51_Name,焼きタマゴ,Campfire Egg
+446,Item_Roast_52_Desc,"香ばしく焼いた木の実
+少しだけハートの回復量が増えた","A tree seed roasted to amplify its fragrance.
+Gives more hearts than the raw variety."
+447,Item_Roast_52_Name,焼き木の実,Roasted Tree Nut
+448,Item_Roast_53_Desc,"ガッツダケの丸焼き
+特別な効果はないが
+おいしさがギュッと凝縮されている","A toasted endura shroom. It doesn't grant
+any special effects, but boy is it tasty!"
+449,Item_Roast_53_Name,焼きガッツダケ,Toasty Endura Shroom
+450,KeySmall_Desc,試練の祠の中にある扉を開けることができる鍵,A key that can unlock doors inside shrines.
+451,KeySmall_Name,小さな鍵,Small Key
+452,Obj_AncientArrow_B_01_Desc,"古の技術が使われた短剣状の刃を
+矢尻に転用した武器 5本セット
+ガーディアンに対しても高い威力を発揮する","A bundle of five ancient arrows.
+Daggers created using ancient technology
+have been repurposed for use as arrows.
+Extremely effective against Guardians."
+453,Obj_AncientArrow_B_01_Name,古代兵装・矢 x5,Ancient Arrow x5
+454,Obj_AncientArrow_B_01_PictureBook,"古の技術が使われた短剣状の刃を
+矢尻に転用した武器 5本セット
+ガーディアンに対しても高い威力を発揮する","A bundle of five ancient arrows.
+Daggers created using ancient technology
+have been repurposed for use as arrows.
+Extremely effective against Guardians."
+455,Obj_AncientArrow_C_01_Desc,"古の技術が使われた短剣状の刃を
+矢尻に転用した武器 3本セット
+ガーディアンに対しても高い威力を発揮する","A bundle of three ancient arrows.
+Daggers created using ancient technology
+have been repurposed for use as arrows.
+Extremely effective against Guardians."
+456,Obj_AncientArrow_C_01_Name,古代兵装・矢 x3,Ancient Arrow x3
+457,Obj_AncientArrow_C_01_PictureBook,"古の技術が使われた短剣状の刃を
+矢尻に転用した武器 3本セット
+ガーディアンに対しても高い威力を発揮する","A bundle of three ancient arrows.
+Daggers created using ancient technology
+have been repurposed for use as arrows.
+Extremely effective against Guardians."
+458,Obj_Armor_115_Head_Desc,"イーガ団から取り戻した ゲルド族の神器
+ナボリスの雷に対抗できる力を持つという
+ルージュに返すまで大切に保管しておこう","A precious Gerudo heirloom reclaimed from
+the Yiga. It has the power to withstand
+Naboris's lightning. Guard it with your
+life until you can return it to Riju."
+459,Obj_Armor_115_Head_Name,雷鳴の兜,Thunder Helm
+460,Obj_ArrowBundle_A_01_Desc,"もっとも普通に使われている矢 5本セット
+丈夫な木を削って作られている","A bundle of five common arrows.
+The shafts of these arrows were carved from
+the wood of a sturdy tree."
+461,Obj_ArrowBundle_A_01_Name,木の矢 x5,Arrow x5
+462,Obj_ArrowBundle_A_01_PictureBook,"もっとも普通に使われている矢 5本セット
+丈夫な木を削って作られている","A bundle of five common arrows.
+The shafts of these arrows were carved from
+the wood of a sturdy tree."
+463,Obj_ArrowBundle_A_02_Desc,"もっとも普通に使われている矢 10本セット
+丈夫な木を削って作られている","A bundle of 10 common arrows.
+The shafts of these arrows were carved from
+the wood of a sturdy tree."
+464,Obj_ArrowBundle_A_02_Name,木の矢 x10,Arrow x10
+465,Obj_ArrowBundle_A_02_PictureBook,"もっとも普通に使われている矢 10本セット
+丈夫な木を削って作られている","A bundle of 10 common arrows.
+The shafts of these arrows were carved from
+the wood of a sturdy tree."
+466,Obj_ArrowBundle_A_10_Desc,"もっとも普通に使われている矢
+丈夫な木を削って作られている","A common arrow. Its shaft was carved from
+the wood of a sturdy tree."
+467,Obj_ArrowBundle_A_10_Name,木の矢 x,Arrow x
+468,Obj_ArrowBundle_A_10_PictureBook,"もっとも普通に使われている矢
+丈夫な木を削って作られている","A common arrow. Its shaft was carved from
+the wood of a sturdy tree."
+469,Obj_BombArrow_A_02_Desc,"対魔物用の強力な矢 5本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of five bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+470,Obj_BombArrow_A_02_Name,バクダン矢 x5,Bomb Arrow x5
+471,Obj_BombArrow_A_02_PictureBook,"対魔物用の強力な矢 5本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of five bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+472,Obj_BombArrow_A_03_Desc,"対魔物用の強力な矢 10本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of 10 bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+473,Obj_BombArrow_A_03_Name,バクダン矢 x10,Bomb Arrow x10
+474,Obj_BombArrow_A_03_PictureBook,"対魔物用の強力な矢 10本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of 10 bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+475,Obj_BombArrow_A_04_Desc,"対魔物用の強力な矢 20本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of 20 bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+476,Obj_BombArrow_A_04_Name,バクダン矢 x20,Bomb Arrow x20
+477,Obj_BombArrow_A_04_PictureBook,"対魔物用の強力な矢 20本セット
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A bundle of 20 bomb arrows.
+The explosive powder packed into the tips
+of these arrows ignites on impact, dealing
+big damage to anything caught in the blast."
+478,Obj_BombArrow_A_10_Desc,"魔物に対抗するために作り出された強力な矢
+先端に爆薬が仕込んであり着弾すると
+爆発して周囲にも大きなダメージを与える","A powerful arrow designed to destroy
+monsters. The explosive powder packed into
+the tip ignites on impact, dealing massive
+damage to anything caught in the blast."
+479,Obj_BombArrow_A_10_Name,バクダン矢 x,Bomb Arrow x
+480,Obj_DLC_HeroSeal_Gerudo_Desc,"神獣の繰り手を目指す者が
+雷の試練を克服した証
+3つ集まると新たな道が開かれる","The commemorative symbol of a lightning
+trial's completion by one who wishes to
+control a Divine Beast. Collecting three
+emblems will lead to a new challenge."
+481,Obj_DLC_HeroSeal_Gerudo_Name,ナボリスの証,Naboris's Emblem
+482,Obj_DLC_HeroSeal_Goron_Desc,"神獣の繰り手を目指す者が
+炎の試練を克服した証
+3つ集まると新しい道が開かれる","The commemorative symbol of a fire trial's
+completion by one who wishes to control a
+Divine Beast. Collecting three emblems
+will lead to a new challenge."
+483,Obj_DLC_HeroSeal_Goron_Name,ルーダニアの証,Rudania's Emblem
+484,Obj_DLC_HeroSeal_Rito_Desc,"神獣の繰り手を目指す者が
+風の試練を克服した証
+3つ集まると新たな道が開かれる","The commemorative symbol of a wind trial's
+completion by one who wishes to control a
+Divine Beast. Collecting three emblems
+will lead to a new challenge."
+485,Obj_DLC_HeroSeal_Rito_Name,メドーの証,Medoh's Emblem
+486,Obj_DLC_HeroSeal_Zora_Desc,"神獣の繰り手を目指す者が
+水の試練を克服した証
+3つ集まると新たな道が開かれる","The commemorative symbol of a water trial's
+completion by one who wishes to control a
+Divine Beast. Collecting three emblems
+will lead to a new challenge."
+487,Obj_DLC_HeroSeal_Zora_Name,ルッタの証,Ruta's Emblem
+488,Obj_DLC_HeroSoul_Gerudo_Desc,"英傑ウルボザの加護により周囲に強力な雷を
+落とすことができる溜め攻撃で発動
+使い切った後の回復する時間が速くなっている","Champion Urbosa's divine gift. Summons
+powerful lightning to the surrounding area.
+Trigger with a charge attack by holding.
+It now requires less time to recharge."
+489,Obj_DLC_HeroSoul_Gerudo_Name,英傑ウルボザの怒り＋,Urbosa's Fury +
+490,Obj_DLC_HeroSoul_Goron_Desc,"英傑ダルケルの加護によりを押している間に
+敵の攻撃を受けると自動で弾く事ができる
+使い切った後の回復する時間が速くなっている","Champion Daruk's divine gift. So long as
+you're holding, it will automatically
+protect you from all manner of attacks.
+It now requires less time to recharge."
+491,Obj_DLC_HeroSoul_Goron_Name,英傑ダルケルの護り＋,Daruk's Protection +
+492,Obj_DLC_HeroSoul_Rito_Desc,"英傑リーバルの加護により上昇気流で空高くまで
+飛び上がることができる溜めジャンプで発動
+使い切った後の回復する時間が速くなっている","Champion Revali's divine gift. Creates an
+upward draft that carries you into the sky.
+Activate by charging your jump with.
+It now requires less time to recharge."
+493,Obj_DLC_HeroSoul_Rito_Name,英傑リーバルの猛り＋,Revali's Gale +
+494,Obj_DLC_HeroSoul_Zora_Desc,"英傑ミファーの加護により力尽きた時 自動的に
+全快で復活し さらにハートが限界を超える
+使い切った後の回復する時間が速くなっている","Champion Mipha's divine gift. If your hearts
+run out, you'll automatically be resurrected
+with full health plus temporary bonus hearts.
+It now requires less time to recharge."
+495,Obj_DLC_HeroSoul_Zora_Name,英傑ミファーの祈り＋,Mipha's Grace +
+496,Obj_DungeonClearSeal_Desc,"試練を克服した者だけが授かることのできる
+勇者の証明","A symbol of courage given to those who
+have overcome the challenges of a shrine."
+497,Obj_DungeonClearSeal_Name,克服の証,Spirit Orb
+498,Obj_ElectricArrow_A_02_Desc,"電気の力が封じられた矢 10本セット
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","A bundle of 10 shock arrows.
+Shock arrows break apart on impact,
+channeling electricity into nearby objects.
+Very effective against metals and moisture."
+499,Obj_ElectricArrow_A_02_Name,電気の矢 x10,Shock Arrow x10
+500,Obj_ElectricArrow_A_02_PictureBook,"電気の力が封じられた矢 10本セット
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","A bundle of 10 shock arrows.
+Shock arrows break apart on impact,
+channeling electricity into nearby objects.
+Very effective against metals and moisture."
+501,Obj_ElectricArrow_A_03_Desc,"電気の力が封じられた矢 5本セット
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","A bundle of five shock arrows.
+Shock arrows break apart on impact,
+channeling electricity into nearby objects.
+Very effective against metals and moisture."
+502,Obj_ElectricArrow_A_03_Name,電気の矢 x5,Shock Arrow x5
+503,Obj_ElectricArrow_A_03_PictureBook,"電気の力が封じられた矢 5本セット
+当たると砕け散り周囲に電気が発生する
+特に金属製や水に濡れたものには効果が大きい","A bundle of five shock arrows.
+Shock arrows break apart on impact,
+channeling electricity into nearby objects.
+Very effective against metals and moisture."
+504,Obj_FireArrow_A_02_Desc,"炎の力が封じられた矢 10本セット
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","A bundle of 10 fire arrows.
+Fire arrows break apart on impact,
+igniting objects in the immediate area.
+Incredibly effective against cold things."
+505,Obj_FireArrow_A_02_Name,炎の矢 x10,Fire Arrow x10
+506,Obj_FireArrow_A_02_PictureBook,"炎の力が封じられた矢 10本セット
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","A bundle of 10 fire arrows.
+Fire arrows break apart on impact,
+igniting objects in the immediate area.
+Incredibly effective against cold things."
+507,Obj_FireArrow_A_03_Desc,"炎の力が封じられた矢 5本セット
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","A bundle of five fire arrows.
+Fire arrows break apart on impact,
+igniting objects in the immediate area.
+Incredibly effective against cold things."
+508,Obj_FireArrow_A_03_Name,炎の矢 x5,Fire Arrow x5
+509,Obj_FireArrow_A_03_PictureBook,"炎の力が封じられた矢 5本セット
+当たると砕け散り周囲を燃やすことができる
+特に冷たいものには絶大な威力がある","A bundle of five fire arrows.
+Fire arrows break apart on impact,
+igniting objects in the immediate area.
+Incredibly effective against cold things."
+510,Obj_FireWoodBundle_Desc,"どこにでも持ち運びできる薪
+火種があれば火をつけることができる","A portable bundle of wood. You can use this
+to make a campfire if you have something to
+light it."
+511,Obj_FireWoodBundle_Name,薪の束,Wood
+512,Obj_HeartUtuwa_A_01_Desc,"試練を克服した者のみが得られる
+とても貴重なもの
+ハートの最大数が1つ増える","Your life force has been strengthened,
+increasing your maximum number of hearts
+by one."
+513,Obj_HeartUtuwa_A_01_Name,ハートの器,Heart Container
+514,Obj_HeroSoul_Gerudo_Desc,"英傑ウルボザの怒りが宿った加護の力
+周囲に強力な雷を落とすことができる
+溜め攻撃で発動","A destructive power born from the unbridled
+anger of the Champion Urbosa. Summons
+powerful lightning to the surrounding area.
+Trigger with a charge attack by holding."
+515,Obj_HeroSoul_Gerudo_Name,英傑ウルボザの怒り,Urbosa's Fury
+516,Obj_HeroSoul_Goron_Desc,"英傑ダルケルの護りが宿った加護の力
+を押している間に敵の攻撃を受けると
+自動で弾く事ができる","A protective power containing the perfect
+defense of the Champion Daruk. It will
+automatically protect you from all manner of
+attacks as long as you're holding."
+517,Obj_HeroSoul_Goron_Name,英傑ダルケルの護り,Daruk's Protection
+518,Obj_HeroSoul_Rito_Desc,"英傑リーバルの猛りが宿った加護の力
+上昇気流で空高くまで飛び上がることができる
+溜めジャンプで発動","A blusterous power born from the spirit of the
+Champion Revali. Creates an upward draft
+that carries you into the sky.
+Activate by charging jump with."
+519,Obj_HeroSoul_Rito_Name,英傑リーバルの猛り,Revali's Gale
+520,Obj_HeroSoul_Zora_Desc,"英傑ミファーの祈りが宿った加護の力
+力尽きた時に自動的にハート全快で復活できる
+一時的にハートが限界を超えて増える効果もある","A restorative power born from the spirit of the
+Champion Mipha. When your hearts run out,
+you'll automatically be resurrected with full 
+health plus temporary bonus hearts."
+521,Obj_HeroSoul_Zora_Name,英傑ミファーの祈り,Mipha's Grace
+522,Obj_IceArrow_A_02_Desc,"氷の力が封じられた矢 10本セット
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","A bundle of 10 ice arrows.
+Ice arrows break apart on impact,
+freezing objects in the immediate area.
+Incredibly effective against hot things."
+523,Obj_IceArrow_A_02_Name,氷の矢 x10,Ice Arrow x10
+524,Obj_IceArrow_A_02_PictureBook,"氷の力が封じられた矢 10本セット
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","A bundle of 10 ice arrows.
+Ice arrows break apart on impact,
+freezing objects in the immediate area.
+Incredibly effective against hot things."
+525,Obj_IceArrow_A_03_Desc,"氷の力が封じられた矢 5本セット
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","A bundle of five ice arrows.
+Ice arrows break apart on impact,
+freezing objects in the immediate area.
+Incredibly effective against hot things."
+526,Obj_IceArrow_A_03_Name,氷の矢 x5,Ice Arrow x5
+527,Obj_IceArrow_A_03_PictureBook,"氷の力が封じられた矢 5本セット
+当たると砕け散り周囲を凍らせることができる
+特に熱いものには絶大な威力がある","A bundle of five ice arrows.
+Ice arrows break apart on impact,
+freezing objects in the immediate area.
+Incredibly effective against hot things."
+528,Obj_KorokNuts_Desc,"コログがくれた小さなミ
+集めたらいいことありそう
+ちょっと臭う…","This small seed was given to you by a Korok.
+It has a distinct smell. If you gather a bunch
+of them, you never know what may happen..."
+529,Obj_KorokNuts_Name,コログのミ,Korok Seed
+530,Obj_Maracas_Desc,"ボックリンが愛してやまないマラカス
+2歳のころにはすでに振り回していた","Hestu's beloved maracas. He's been shaking
+them since he was two years old."
+531,Obj_Maracas_Name,ボックリンのマラカス,Hestu's Maracas
+532,Obj_Photo_Animal_Desc,動物や鳥魚虫の姿をとらえた写し絵,"A picture of an animal, bird, fish, or insect."
+533,Obj_Photo_Animal_Name,生き物の写し絵,Fauna Picture
+534,Obj_Photo_BossEnemy_Desc,強大な力で立ちはだかった魔物の写し絵,"A picture of a powerful monster that at one
+time stood in your way."
+535,Obj_Photo_BossEnemy_Name,強敵の写し絵,Elite Enemy Picture
+536,Obj_Photo_Enemy_Desc,ハイラル各地にはびこる魔物の写し絵,"A picture of one of the various monsters that
+can be found throughout Hyrule."
+537,Obj_Photo_Enemy_Name,魔物の写し絵,Enemy Picture
+538,Obj_Photo_Material_Desc,リンゴやキノコなど料理の素材の写し絵,"A picture of a cooking ingredient, such as an
+apple or a mushroom."
+539,Obj_Photo_Material_Name,素材の写し絵,Material Picture
+540,Obj_Photo_Other_Desc,宝箱や鉱石など わくわくするお宝の写し絵,"A picture of an exciting subject, such as a 
+treasure chest or ore."
+541,Obj_Photo_Other_Name,お宝の写し絵,Other Picture
+542,Obj_Photo_Weapon_Desc,剣や槍弓など戦いで役立つ武器の写し絵,"A picture of a battle-tested weapon, such as
+a sword, spear, or bow."
+543,Obj_Photo_Weapon_Name,武器の写し絵,Weapon Picture
+544,Obj_ProofBook_Desc,"封筒の中には うら若きシーカー族の
+女性の写し絵が入っていた
+スタイル抜群だ","Inside the envelope is a picture of a
+beautiful young woman of the Sheikah tribe."
+545,Obj_ProofBook_Name,秘密の封筒,Classified Envelope
+546,Obj_ProofGiantKiller_Desc,"世界中のヒノックスをすべて倒した者に
+キルトンから記念として贈られる証
+「森の巨人 40体討伐」と書かれている","A medal presented by Kilton in somber honor
+of having defeated every Hinox. Ending a
+monster's life is never an easy task, but at
+times it is a necessary one."
+547,Obj_ProofGiantKiller_Name,ヒノックスキラーの証,Medal of Honor: Hinox
+548,Obj_ProofGolemKiller_Desc,"世界中のイワロックをすべて倒した者に
+キルトンから記念として贈られる証
+「岩の巨像 40体討伐」と書かれている","A medal presented by Kilton in somber honor
+of having defeated every Stone Talus. Taking
+the life of a monster is a solemn act, but at
+times it must be done."
+549,Obj_ProofGolemKiller_Name,イワロックキラーの証,Medal of Honor: Talus
+550,Obj_ProofKorok_Desc,"ボックリンがくれた友好のミ
+かなり臭う…","A gift of friendship given to you by Hestu.
+It smells pretty bad."
+551,Obj_ProofKorok_Name,ボックリンのミ,Hestu's Gift
+552,Obj_ProofSandwormKiller_Desc,"世界中のモルドラジークをすべて倒した者に
+キルトンから記念として贈られる証
+「砂の巨獣 4体討伐」と書かれている","A medal presented by Kilton in somber honor
+of having defeated every Molduga. Slaying a
+monster is a heavy burden to bear. You must
+steel yourself to carry that weight."
+553,Obj_ProofSandwormKiller_Name,ラジークキラーの証,Medal of Honor: Molduga
+554,Obj_StaminaUtuwa_A_01_Desc,"試練を克服することで
+身につけた新たな力
+がんばりゲージの上限が増える","The size of your Stamina Wheel has been
+increased, allowing you to perform more
+actions before getting tired."
+555,Obj_StaminaUtuwa_A_01_Name,がんばりの器,Stamina Vessel
+556,Obj_WarpDLC_Desc,"失われた古の技術で作られた不思議な道具
+ポーチを開いて「置く」と 今いる場所を
+ワープ地点として マップに登録できる","This mysterious tool was made using
+forgotten ancient technology. Place it
+by opening your pouch and registering
+your current location as a travel gate."
+557,Obj_WarpDLC_Name,ワープマーカー,Travel Medallion
+558,PutRupee_Blue_Desc,"5ルピー
+青く輝くルピー
+そこそこうれしい","Five rupees. Its shiny blue facets make you
+weak in the knees."
+559,PutRupee_Blue_Name,青ルピー,Blue Rupee
+560,PutRupee_Desc,"1ルピー
+緑色に輝くルピー
+ちょっとだけうれしい","A single rupee. Its soft green glow puts a
+smile on your face."
+561,PutRupee_Gold_Desc,"300ルピー
+金色にまばゆく輝くルピー
+これ以上ない幸せ","300 rupees! Its radiant golden shine
+illuminates your soul."
+562,PutRupee_Gold_Name,金ルピー,Gold Rupee
+563,PutRupee_Name,緑ルピー,Green Rupee
+564,PutRupee_Purple_Desc,"50ルピー
+紫色に輝くルピー
+これはかなりうれしい","50 rupees. Its violet glow fills your heart with
+generosity."
+565,PutRupee_Purple_Name,紫ルピー,Purple Rupee
+566,PutRupee_Red_Desc,"20ルピー
+赤く輝くルピー
+けっこううれしい","20 rupees. Its red luster tickles your
+heartstrings."
+567,PutRupee_Red_Name,赤ルピー,Red Rupee
+568,PutRupee_Silver_Desc,"100ルピー
+銀色にキラキラと輝くルピー
+とってもうれしい","100 rupees. Its dazzling silver light reflects
+your beaming smile."
+569,PutRupee_Silver_Name,銀ルピー,Silver Rupee
+570,dyecolor_01_Desc,,
+571,dyecolor_01_Name,青,Blue
+572,dyecolor_02_Desc,,
+573,dyecolor_02_Name,赤,Red
+574,dyecolor_03_Desc,,
+575,dyecolor_03_Name,黄,Yellow
+576,dyecolor_04_Desc,,
+577,dyecolor_04_Name,白,White
+578,dyecolor_05_Desc,,
+579,dyecolor_05_Name,黒,Black
+580,dyecolor_06_Desc,,
+581,dyecolor_06_Name,紫,Purple
+582,dyecolor_07_Desc,,
+583,dyecolor_07_Name,緑,Green
+584,dyecolor_08_Desc,,
+585,dyecolor_08_Name,薄青,Light Blue
+586,dyecolor_09_Desc,,
+587,dyecolor_09_Name,紺,Navy
+588,dyecolor_10_Desc,,
+589,dyecolor_10_Name,オレンジ,Orange
+590,dyecolor_11_Desc,,
+591,dyecolor_11_Name,桃,Peach
+592,dyecolor_12_Desc,,
+593,dyecolor_12_Name,深紅,Crimson
+594,dyecolor_13_Desc,,
+595,dyecolor_13_Name,薄黄,Light Yellow
+596,dyecolor_14_Desc,,
+597,dyecolor_14_Name,茶,Brown
+598,dyecolor_15_Desc,,
+599,dyecolor_15_Name,灰,Gray

@@ -1,0 +1,19 @@
+#,Title,JPja,USen
+1,"""0000""",90度まわす,Rotate 90 degrees
+2,"""0001""",90度傾ける,Tilt 90 degrees
+3,"""0002""",傾ける,Tilt
+4,"""0003""",鼻を動かす,Move Trunk
+5,"""0004""",実行,Execute
+6,"""0005""",戻る,Back
+7,"""0006""",回転方向を変える,Change Rotation Direction
+8,Pa_SensorBox_00-T_SensorTitle_00,探す物を選ぶ,Select search target.
+9,Pa_SensorIcon_00-T_Ancient_00,SheikahSensor,SheikahSensor
+10,Pa_SensorIcon_00-T_Off_00,OFF,Off
+11,Pa_SensorIcon_00-T_SensorOn_00,試練の祠,Shrine
+12,T_IbutsuControl_00,神獣操作,Divine Beast Controls
+13,T_IconInfoDevice_00,制御端末,Terminal
+14,T_IconInfoDevice_01,メイン制御装置,Main Control Unit
+15,T_IconInfoElectric_00,通電,Closed Circuit
+16,T_IconInfoElectric_01,非通電,Open Circuit
+17,T_IconInfoGanon_00,厄災ガノン,Calamity Ganon
+18,T_IconInfoPlayer_00,現在の位置,Current Position

@@ -1,0 +1,140 @@
+#,Title,JPja,USen
+1,"""0000""",そうです,That's right.
+2,"""0001""",ちがいます,"No, not really."
+3,"""0002""",はい,Yes.
+4,"""0003""",いいえ,No.
+5,"""0005""",結構です,"No, thanks."
+6,"""0006""",1個欲しい,I'll take one.
+7,"""0007""",2個欲しい,I'll take two.
+8,"""0008""",3個欲しい,I'll take three.
+9,talk00,おはよう,Morning!
+10,talk01,こんにちは！,Hello!
+11,talk02,こんばんは,Good evening!
+12,talk04,"キミも この山麓の馬宿に立ち寄ってる って事は
+これから ゴロンシティに向かうの？","If you're stopping by Foothill Stable,
+then you're probably headed to
+Goron City?"
+13,talk05,だろうと思った,I thought so.
+14,talk06,"そっか…ま
+
+キミがどこに行こうと知ったこっちゃないけど
+ゴロンシティだけは気を付けたほうがいいよ
+あそこは「暑い」と言うより 「熱い」から","Oh, OK...
+
+
+But if you do ever decide to head to
+Goron City, you'd better take care.
+It's really hot there.
+Well, \""hot\"" doesn't really do it justice.
+It's more like...it'll burn the flesh from
+your bones...and then burn those too."
+15,talk07,あぁ…,Ah...
+16,talk08,"それにしても…キミ…
+そんな格好でゴロンシティに行くつもり？","Hold on... Buddy, are you really headed
+to Goron City dressed like that?"
+17,talk09,"これだから素人は…
+
+あそこは絶壁も多いし二合目からは
+体が燃えちゃうくらい「熱い」のよ？
+…","See...this is how tourists get a bad rep.
+
+
+That place is sheer cliff after sheer cliff,
+and it gets so hot past the second
+checkpoint that your body will catch fire."
+18,talk10,"だって キミの耐火対策見りゃ分かんじゃん
+
+それならゴロンシティに たどり着けるかもね
+健闘を祈るよ","You've clearly taken precautions to deal
+with the burning air up there.
+
+You MIGHT just be able to reach
+Goron City. Best of luck."
+19,talk11,"…そうだろうなぁ
+
+そんな耐火対策じゃゴロンシティに行くまでに
+焼け死ぬだろうし","Good to hear.
+
+
+If you tried to get to Goron City dressed
+like that, you'd be burned alive faster
+than you can say \""Hylian barbecue.\"""
+20,talk12,"そうか
+
+それなら悪い事は言わない
+ゴロンシティに行くのは あきらめな","I see.
+
+
+I won't waste my breath arguing about
+it. Just trust me when I say you should
+give up on going to Goron City."
+21,talk13,"あら…？
+キミルピーが足りないようね
+その辺に転がってる素材とか売って
+金策して来なさい","Hmm... Looks like you're broke.
+Maybe sell some of the junk in your bag
+to get some rupees."
+22,talk14,オッケーじゃ これが燃えず薬,All right. Here is your fireproof elixir.
+23,talk16,"あら…？
+キミ持ち物がいっぱいじゃない？
+要らない物は売るなり捨てるなりしなさい","Huh?
+Looks like your inventory is full.
+Get rid of some of that junk first."
+24,talk17,はいじゃコレ,OK. Here you go.
+25,talk18,"ゴロンシティに行くなら
+私の燃えず薬売ってあげようか？","If you're headed to Goron City, I'll sell
+you some of my fireproof elixirs."
+26,talk19,"ん…まぁでも
+",Hmm...
+27,talk20,"燃えず薬""結構持ってるみたいだし
+ゴロンシティまでなら なんとかなるかもね","It looks like you already have a bunch of
+fireproof elixirs. You should be able to
+make it to Goron City."
+28,talk21,"ゴロンシティまでは旅慣れた人でも
+最低3個は持ってくよ","Even Goron City regulars usually take
+at least three elixirs with them."
+29,talk23,"燃えず薬
+欲しけりゃ売ってあげようか？","If you want to buy some fireproof elixir,
+just let me know."
+30,talk24,"1個60ルピー 2個だと110ルピー
+3個だと150ルピーだけど買う？","It's 60 rupees for one, 110 rupees for
+two, and 150 rupees for three. Buying
+in bulk pays off here!"
+31,talk25,"それだけ持ってたら
+ゴロンシティまでなら大丈夫かもね","If you have that many, you should be
+able to make it to Goron City no problem."
+32,talk26,もっと買ってった方が身のためだと思うな,"You know what they say though...
+\""Hope for the best.
+Prepare for the worst.\"""
+33,talk27,"キミのその耐火対策なら
+ゴロンシティに たどり着けるかもね","With fireproofing like that, you should be
+able to make it to Goron City."
+34,talk28,"キミのその耐火対策なら
+ゴロンシティに たどり着けるかもね
+健闘を祈るよ","With fireproofing like that, you should be
+able to make it to Goron City.
+
+Good luck."
+35,talk29,"ま""私の持ってる燃えず薬があれば
+話は別なんだけど","Of course, it would be a completely
+different story..."
+36,talk30,"ま キミの事なんか知ったこっちゃないけど
+死なれちゃ困るし…
+全く…しょうがないな
+
+少なくとも この燃えず薬を使えば「熱さ」は
+しのげるしよかったら売ってあげようか？","Normally I wouldn't stop a stranger from
+heading to their doom, but I kinda
+like ya.
+So I guess I have no choice but to sell
+you these fireproof elixirs. They can
+protect you from the burning air."
+37,talk31,"もっと欲しかったら
+売ってあげるから声かけてよね","I can sell you more if you need them.
+Just come and talk to me."
+38,talk32,"なんなら私の持ってる燃えず薬
+売ってあげようか？","In any case, do you want me to sell
+you some of my fireproof elixir?"
+39,talk33,"燃えず薬""欲しかったら
+売ってあげるから声かけてよね","If you have some of this fireproof elixir
+that I'm selling."

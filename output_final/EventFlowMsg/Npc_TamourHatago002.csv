@@ -1,0 +1,95 @@
+#,Title,JPja,USen
+1,"""0000""",エノキダ知ってる？,You know Hudson?
+2,"""0001""",この辺りについて,This area?
+3,"""0002""",あなたって？,Who are you?
+4,"""0003""",さようなら,Good-bye.
+5,"""0004""",ちょっと遠くについて,Farther areas?
+6,near00,聖なる神具…,A sacred article...
+7,near01,力の泉に…,To the Spring of Power...
+8,near02,姫様の…,The princess's ritual...
+9,talk00,あら…,Oh...
+10,talk01,"ん？この辺じゃ見ない顔ね
+
+こんな世界の果てに旅行なんて
+あなたも物好きね","Hm? I haven't seen you around here.
+
+
+Boy, you sure have strange tastes. 
+You look like someone who has traveled
+willy-nilly all over the world."
+11,talk02,おはよう,Good morning.
+12,talk03,こんにちは,Hello.
+13,talk04,こんばんは,Good evening.
+14,talk05,"全国を旅行したけど
+なんだかんだでアッカレ地方が一番好き","I've traveled everywhere, but at the end
+of the day, I like Akkala best of all."
+15,talk06,"目が覚めちゃったじゃない…
+まぁ いいけどサ",You woke me up... I guess that's OK.
+16,talk07,"だから この辺の事なら
+一通り知ってるつもりだけど…","That's why I'm pretty familiar with stuff
+around here."
+17,talk08,何か聞きたい事ある？,Is there something you wanna know?
+18,talk09,"そうね…ここの馬宿から西に行くと
+力の泉と呼ばれる聖なる泉があるわ
+「力の泉に聖なる神具を捧げよ」
+っていう言い伝えがあるけど…
+ハイラル城のお姫様が
+執り行ってた儀式か何かかしらね？","Let's see... If you go west of the stable,
+there's a sacred place called the
+Spring of Power!
+\""Offer the sacred article to the
+Spring of Power.\"" That's what
+the legend says.
+Maybe it was part of a ritual the princess
+of Hyrule Castle used to perform?"
+19,talk10,またね,See ya!
+20,talk11,私はノボタン,I'm Nobo.
+21,talk12,なぁに？,What is it?
+22,talk13,"エノキダ？
+誰それ…大工さんなの？",Hudson? Who's that? He's a carpenter?
+23,talk14,他に聞きたい事 ある？,Anything else you wanna know?
+24,talk16,ごめんなさいまだ名乗ってなかったね,Sorry! I haven't introduced myself.
+25,talk17,はいはい…,"Yes, yes..."
+26,talk18,"ここから北に行けば
+灯台の様なお家があったわ
+私が行った時は留守だったけど…","There's a lighthouse-lookin' home north
+of here. No one was there when I last
+stopped by, though..."
+27,talk19,"よく分からないけど…
+
+でも少し前から
+アッカレ湖の方が トンカン騒がしいわ
+アッカレ湖なら ここから南よ
+気になるなら行ってみたら？","I'm not quite sure...
+
+
+I've been hearing clanging and banging
+by Lake Akkala. That's south of here.
+Why don't you go check it out?"
+28,talk20,"この馬宿の西にある力の泉は
+歴代の姫様が禊に来てた事で有名よ
+「力の泉に聖なる神具を捧げよ」っていう
+言い伝えも あるくらいだし…
+聖なる神具って呼ばれる物を
+その禊で使ってたのかしらね？","The Spring of Power west of the stable is
+where the princess used to go to perform
+her cleansing rituals.
+There's even a legend that says,
+\""Offer the sacred article to the
+Spring of Power.\""
+Maybe the princess used this sacred
+article in her rituals..."
+29,talk21,"この馬宿の西…
+
+え？もう力の泉に行ってきたって？
+
+実は私行った事が無いの…
+近いと いつでもいいかって思っちゃうのよね","West of this stable there's—
+
+
+Huh? You already went to the
+Spring of Power?
+
+I've actually never been there...
+When you live so close to it,
+it's easy to procrastinate."

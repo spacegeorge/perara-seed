@@ -1,0 +1,13 @@
+#,Title,JPja,USen
+1,"""0014""",値段,Price
+2,"""0015""",手数料,Labor
+3,Pa_HaveNum_00-T_Guide_00,持つのをやめる,Stop holding
+4,Pa_HaveNum_00-T_Guide_01,追加する,Add
+5,Pa_HaveNum_00-T_Guide_02,ゲームに戻る,Return to Game
+6,Pa_HaveNum_00-T_Text_00,手にもてる数,Can Carry
+7,Pa_ItemName_00-Pa_ParamHeart_00-T_MaxText_00,完全回復,Full Restore
+8,Pa_Porch_00-T_Text_00,ポーチ内 所持数,In Inventory
+9,Pa_SubTextMamo_00-T_Text_00,価格,Price
+10,T_Max_00,強化できない,Cannot Enhance
+11,T_Text_00,必要素材,Necessary Materials
+12,T_Text_01,所持数/必要数,Have/Need

@@ -1,0 +1,164 @@
+#,Title,JPja,USen
+1,"""0001""",買い取って,Buy from me?
+2,"""0002""",さようなら,Good-bye.
+3,"""0005""",肉,Meat.
+4,"""0006""",野菜,Vegetables.
+5,"""5500""",はい,OK.
+6,"""5501""",いいえ,Never mind.
+7,"""5503""",やっぱりやめる,Never mind.
+8,"""5508""",ぜんぶ売る,All of them.
+9,Com_Talk_00,おっ まかしてよ！,Sure! What have you got?
+10,Com_Talk_01,"だったら
+ルピーでどお？",How's  rupees sound?
+11,Com_Talk_02,アリガトー,Tank you!
+12,Com_Talk_02b,マイド オオキニ～,Tank you for your patronage.
+13,Com_Talk_02c,アリガト ゴザマシタ,Tank you very much.
+14,Com_Talk_02d,サークサーク！,Sarqso! Oh...darn...
+15,Com_Talk_04,え～ やめちゃうの？,What? You changed your mind?
+16,Com_Talk_05,"もう終わり？
+こっちは買い取る気満々だよ","You sure there isn't anything else you'd
+like to sell?"
+17,Com_Talk_05b,じゃんじゃん売っちゃってよ！,Sell me all you got!
+18,Com_Talk_05c,どんどん買い取るよ～,I'll buy it all.
+19,Com_Talk_05d,"よく見て よく見て！
+まだいらない物あるんじゃない？","Take a good look! You sure there isn't
+anything else you'd like to sell?"
+20,Com_Talk_13,"？
+いくつ？",How many?
+21,Com_Talk_14,"が個ね
+じゃあ…ルピーでいい？","That's  of them, you said?
+OK, then... How's  rupees sound?"
+22,Com_Talk_15,"何でも買い取ってあげたいところだけど
+それは… あんまり興味ないかな…他のにしてよ","I'm prepared to buy almost anything
+from you—almost. Don't you have
+anything else?"
+23,Com_Talk_16,"ちょっとちょっと それ売ったら
+お客さん裸になっちゃうじゃん？","Wait, wait, wait. It wouldn't be sanitary
+for me to take the clothes right off your
+body!"
+24,Com_Talk_33,"を1つだね？
+それならルピーだよ？","Just one, right? Let's say  rupees."
+25,Com_Talk_35,"""個全部？
+じゃあ…全部でルピーでどう？","Oh, all  of them?
+I'll buy them for  rupees."
+26,Com_Talk_50,"なら
+ルピーだよ",Wanna buy that for  rupees?
+27,Com_Talk_53,"それ！
+
+ジラしのテクニックってヤツでしょ？","Hey! Is this some kind of haggling
+technique? Are you pretending not to
+be interested so I'll lower the price?"
+28,Near001,イラシャ～イ,Willcome!
+29,Talk_01,"オハヨウサ～ン
+
+朝ごはんと言えば？","Good mauning!
+
+
+What do you eat for breakfast?"
+30,Talk_03,"アリガト～
+サヨナラ～",Tank you! Good-bye!
+31,Talk_06,"サークサーク… じゃなかった
+アリガトー","Sarqso... Wait, I mean tank you!"
+32,Talk_07,また焼いておくよー,"Enjoy! I'll grill some more and restock
+later."
+33,Talk_10,"オコンバンハ～
+
+晩ごはんと言えば？","Good ebbning!
+
+
+What do you eat for dinner?"
+34,Talk_12,"コニチハ～
+
+昼ごはんと言えば？","Good effernoon!
+
+
+What do you eat for lunch?"
+35,Talk_13,"そこにいる リト族のオネーサン
+ずっと こっちを睨んでるんだけど…
+リト族は
+やっぱり焼肉とかは食べないのかな…","That Rito vai keeps shooting me the
+stink eye... Does she have something
+against meat?
+No, that's impossible..."
+36,Talk_14,"だよね～
+
+お客さん わかってるね～",Good choice! You've got great taste!
+37,Talk_15,"肉！！！
+
+だよね やっぱり
+お客さん わかってるね～","You must mean... Meat!!!
+
+
+That's what you meant, right?
+Because it's so good!"
+38,Talk_16,"シャッチョ サ～ン
+アリガト～ ケ～キイ～ネ～
+やっぱり ゼンブ売れると清々しいネ～
+アリガトネ～","Hey there, customer!
+Feeling so good now that the beast
+is calm. Sarq—I mean tanks again!"
+39,Talk_17,"イラッシャイマシ～
+
+最高のお肉とヴォーイを求めて
+ハイラルを旅してたことがあったからさ
+外国語もけっこうしゃべれるんだ
+すごいっしょ？","I once traveled across all of Hyrule,
+searching for the best meats ever.
+
+I learned some of the correct ways to say
+common Hylian words. Just the basics,
+like \""tank you\"" and \""good mauning.\""
+Pretty amazing, huh?"
+40,Talk_18,いい買いっぷりだね！,"Good purchases, one and all!"
+41,Talk_19,アリガト ゴザマシター,Tank you very much.
+42,Talk_20,オハヨウサ～ン,Good mauning!
+43,Talk_21,コニチハ～,Hi-low!
+44,Talk_22,オコンバンハ～,Good ebbning!
+45,Talk_23,"オネーサン知ってる？
+
+うちの族長様が とうとうあのナボリスを
+鎮めたらしいんだ
+あの小さなお身体で
+大したもんだよね
+きっと ウチの肉を食べて
+身体を鍛えてるに違いないよ
+オネーサンも肉をたくさん食べて
+
+族長様のように
+美しく かつ強いヴァーイになっておくれよ","Hey there, have you heard?
+
+
+It looks like our chief was able to calm
+Naboris down! She may be small, but
+she's still really something else.
+I bet the secret to her training is eating
+a lot of meat.
+
+If you ate a lot of meat, I think you'd
+have the same secret strength as
+the chief!
+I'm pretty sure that's true, anyway!"
+46,Talk_24,"オネーサン知ってる？
+
+うちの族長様が とうとうあのナボリスを
+鎮めたらしいんだ
+あの小さなお身体で
+大したもんだよね
+きっと ウチの肉を食べて
+身体を鍛えてるに違いないよ
+今は売るもんがなくなっちまったけど
+オネーサンも肉をたくさん食べて
+族長様のように
+美しく かつ強いヴァーイになっておくれよ","Hey there, have you heard?
+
+
+It looks like our chief was able to calm
+Naboris down! She may be small, but
+she's still really something else.
+I bet the secret to her training is eating
+a lot of meat.
+
+We're always getting new stock in. If you
+ate a lot of meat, I think you'd have the
+same secret strength as the chief!
+I'm pretty sure that's true, anyway!"

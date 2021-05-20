@@ -1,0 +1,83 @@
+#,Title,JPja,USen
+1,After00,"ほんとに ついてない…
+私は ただ川を見ていたいだけなのに…
+もう馬宿に帰ります","Typical. Just typical. I try to have a day
+out, just watching the river go by, and
+now... Ugh. I'm going back to the stable."
+2,After01,"また助けられてしまいましたね…
+どうしても川を見たくなってしまって…
+こんなところで散歩すらできないなんて
+本当に やっかいな世の中ですよね
+もう馬宿に帰ります","Saved again... Am I so wrong for just
+wanting to sit by the river? It's getting
+so I can't even take a walk anymore.
+That's life these days, I guess. Whatever.
+I'm going back to the stable."
+3,After02,"ここまで来たら もう安心です
+どうも ありがとうございました
+100年前は魔物も少なくて
+女性1人で歩いていても大丈夫だったそうです
+私には想像もつきませんが","I feel less anxious with you around.
+Thanks.I hear 100 years ago, there weren't so
+many monsters. A lady could actually go
+for a walk alone if she wanted.
+I can't even picture it now."
+4,Atacked00,"あぁ あんなところに魔物が…
+どうしよう どうしよう…",Stupid monsters... Now what do I do?
+5,Atacked01,"あぁ あんなところに魔物が…
+私は ただ川を見ていたいだけなのに…","Figures there'd be monsters hanging
+around the exact day I come out to look
+at the river."
+6,Failed00,"あぁ まだ頭痛がする…
+こんなところに来るんじゃなかった…","Ughhh, my aching head... Why did I think
+it was a good idea to take this road?"
+7,Failed01,"見ていたのなら助けてくれても
+よかったんじゃなくって？！","Oh, look who's here! The guy who stood
+around and watched me get beat up!
+A little help next time maybe?!"
+8,GoodBye00,"私は川を見るのが好きなんです
+
+絶え間なく流れ続ける川を見ていると
+とても昔に大厄災があったとは思えない…
+でも見とれている間に
+魔物に見つかってしまったようです…
+もう馬宿に帰ります","I like watching the river flow by.
+Is that such a crime?Seeing the water stream so peacefully
+makes it hard to believe the Great
+Calamity really happened.
+Then monsters attack out of nowhere,
+and I think—oh, right. Time to head back
+to the stables!
+Ugh... Whatever."
+9,Guardian00,ガーディアンよ！,It's a Guardian!
+10,Near00,ついてないわ…,I have the worst luck...
+11,SavedLv1_00,"あの… その…
+
+ありがとうございます！助かりました！
+これはお礼です受け取ってください","Gosh... Thanks for the save. I ought to
+reward you, huh? Will this do?"
+12,SavedLv1_01,"あぁ一時はどうなる事かと…
+
+ありがとうございます！
+これ受け取ってください！","Whew. I was nervous for a minute there!
+Thanks for the help!"
+13,SavedLv2_00,"お強いんですね…
+危ないところを ありがとうございました
+これを お受け取りください","Thanks for saving my hide! You deserve
+this more than the guy I was taking it to."
+14,SavedLv2_01,"お強いんですね…
+助かりました
+ほんのお礼です受け取っていただけます？","Wow, thanks. I might've been that thing's
+stew without you. Hmm, what do I have
+to give you in return? How's this?"
+15,SavedLv3_00,"あぁ よかった！！
+あなたは命の恩人です！
+ぜひ お礼をさせてください！ 
+こちらを受け取ってください！","I don't know where you came from, but
+thank goodness you did! This seems like
+such a paltry gift, but it's what I've got."
+16,SavedLv3_01,"あなたは命の恩人です！
+助けていただいて ありがとうございました！
+これはお礼です！","I don't even want to think about where
+I'd be if you hadn't shown up! This is
+the least I can do in return."

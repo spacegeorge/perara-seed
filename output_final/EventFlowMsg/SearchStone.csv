@@ -1,0 +1,233 @@
+#,Title,JPja,USen
+1,"""0000""",何してるの？,What are you doing?
+2,"""0001""",用は無いです,I don't need anything.
+3,"""0002""",手伝わせて,Can I help?
+4,"""0003""",さようなら,Good-bye.
+5,"""0004""",見つけた,I sure did.
+6,"""0005""",どこにあるのやら,Still looking.
+7,Npc_SouthernVillage014_F_001,"う～ん…ふたつの命ひざまずき心ひとつとなる時
+試練の扉開かれん…
+……
+だめだ""全く見当もつかないさ…","Hmm...\""When the two find their place and kneel
+in reverence, the shrine will reveal
+itself.\""
+...Ah!
+I...haven't the foggiest what that's
+supposed to mean."
+8,Npc_SouthernVillage014_R_001,う～ん………,Hmmm...
+9,Npc_SouthernVillage014_R_002,"うわっすまねさ～
+ちょっと集中してたもんでさ
+何か用かいさ？","Ahhh!Sorry about that. I was in the zone.
+Did you need something?"
+10,Npc_SouthernVillage014_R_003,あぁ ちょっとこの石碑を調べてたさ,"I was just examining this stone
+monument."
+11,Npc_SouthernVillage014_R_004,冷たいさ～…,Typical...
+12,Npc_SouthernVillage014_R_005,おぉ あんたも物好きかいさ,"Ah, so you're the curious type, too."
+13,Npc_SouthernVillage014_R_006,"この石碑前はもっと大きかったけど
+この間の地震で崩れてしまってさ～","This stone monument was once much
+larger, but it broke apart during an
+earthquake a while back."
+14,Npc_SouthernVillage014_R_007,"あんたが協力してくれるって言うなら
+散らばったかけらを探してくれないかいさ？
+かけらにも同じような文字が
+彫ってあるだろうから…
+もし かけらを見つけたら それの絵を描いて
+オレの所に持ってきてほしいさ～
+オレは その間に この石碑を
+調べ尽くしておくからさ～！……そうさね石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","If you really want to help, help me find
+the missing fragments, will you? They'll
+be scattered all around.
+I think the fragments had the same kind
+of script carved into them...
+
+If you find a fragment, please draw a
+picture of it and bring it to me.
+
+I'll be here finishing my examination of
+this stone monument!...Oh, right.And the words on the stone monument
+glow with an eerie light at night...
+
+That should make them easier to find."
+15,Npc_SouthernVillage014_R_008,"おぉ あんたか
+何か用かいさ？","Ah, it's you. Did you need something?"
+16,Npc_SouthernVillage014_R_009,"ここ神秘的で
+中々いい感じの場所さね？
+オレは この場所が好きで
+ちょくちょく来てるんだがさ","This place has a very...spiritual aura to it.
+Do you feel it?"
+17,Npc_SouthernVillage014_R_010,"この石碑に文字が彫ってある事に
+最近気が付いて…
+何て彫ってあるのかいな～ と
+調べてたとこさ","I recently realized that there is writing
+engraved on this stone monument...
+
+So now I'm trying to figure out what
+exactly is written here."
+18,Npc_SouthernVillage014_R_011,"1つはこの辺りにあるはずさ～
+まずはそれを見つけて欲しいさ！","One of them should be right around
+here. Please find that first!"
+19,Npc_SouthernVillage014_R_Near_001,う～ん…,Hmm...
+20,Npc_SouthernVillage014_S1_001,石碑のかけら見つかったかいさ？,"Did you find any fragments of the
+stone monument?"
+21,Npc_SouthernVillage014_S1_002,"そう簡単に見つからないかいさ…石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～
+もし かけらを見つけたら絵を描いて
+オレの所に持ってきてくれさ～","Yeah, they're kind of hard to spot...But the letters on the stone glow with an
+eerie light at night...
+
+You might want to try searching for them
+after the sun's gone down.
+
+If you find a fragment, please draw a
+picture of it and show it to me."
+22,Npc_SouthernVillage014_S1_003,"……あんたが全部見つけてくれたおかげで
+何て書いてあるか分かりそうさ～
+考えてみるから もう少し
+待っててほしいわいさ～！",".........Excellent. Thanks to you, I've got a good
+shot at deciphering the entire monument.
+
+Give me a second to see if I can put this
+all together..."
+23,Npc_SouthernVillage014_S1_004,"う～ん…まだ他にも かけらはありそうさね…引き続き この調子で頼むさ～ひょっとすると波にさらわれて
+水の中とか行っちゃってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...Some of the fragments must still be missing.Well, keep looking.I suppose the waves may have washed some away
+or pulled them underwater...
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+24,Npc_SouthernVillage014_S1_005,"う～ん…まだ他にも かけらはありそうさね…引き続き この調子で頼むさ～ひょっとすると このビーチの
+近くに転がってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...Some of the fragments must still be missing...Well, keep looking.I imagine a fragment may have rolled down to the
+beach nearby.
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+25,Npc_SouthernVillage014_S1_006,"う～ん…こんな所まで流されちまってたのかいさ…
+しかし まだ他にも かけらはありそうさね…
+引き続き この調子で頼むさ～ひょっとすると このビーチの
+近くに転がってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...I didn't expect any of the fragments to be washed
+THAT far away. But some of the fragments must still
+be missing...Well, keep looking.I imagine a fragment may have rolled down to the
+beach nearby.
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+26,Npc_SouthernVillage014_S1_007,"う～ん…まだ他にも かけらはありそうさね…引き続き この調子で頼むさ～ひょっとすると クレシア半島やイサキ岬の方に
+流されちまったかけらが あるかもしれないわいさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...Some of the fragments must still be missing...Well, keep looking.I wonder if the currents are strong enough to have
+carried a fragment all the way to Cape Cresia
+or Soka Point...
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+27,Npc_SouthernVillage014_S1_008,"う～ん…まだ他にも かけらはありそうさね…引き続き この調子で頼むさ～ひょっとすると このビーチの
+近くに転がってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...Some of the fragments must still be missing...Well, keep looking.I imagine a fragment may have rolled down to the
+beach nearby.
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+28,Npc_SouthernVillage014_S1_009,"う～ん…まだ他にも かけらはありそうさね…引き続き この調子で頼むさ～ひょっとすると波にさらわれて
+水の中とか行っちゃってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから…
+夜に探した方が
+見つかりやすい気がするわいさ～","Hmm...Some of the fragments must still be missing.Well, keep looking.I suppose the waves may have washed some of
+them away or pulled them underwater...
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+29,Npc_SouthernVillage014_S1_011,"わいさ！あんたのおかげで
+書かれている文章が わかったさ！！","Wow!Thanks to you, I've deciphered the
+entire passage!"
+30,Npc_SouthernVillage014_S1_012,"…えーっとさ『ふたつの命ひざまずき心ひとつとなる時
+試練の扉開かれん』
+……うーん""意味はさっぱり分からないさ…","\""When the two find their place and kneel
+in reverence, the shrine will reveal
+itself.\""
+...Ah!I...haven't the foggiest what that's
+supposed to mean."
+31,Npc_SouthernVillage014_S1_013,？！,Huh?!
+32,Npc_SouthernVillage014_S1_014,…そういうことさ？！,...Is that it?!
+33,Npc_SouthernVillage014_S1_015,"そうか見つけたのかいさ！……すまねぇが かけらに何が彫ってあるか
+分かるように絵を描いてきてくれないさね？","So you found some fragments!.........Sorry, but could you draw a picture so I
+can see what was engraved on the
+fragments?"
+34,Npc_SouthernVillage014_S1_016,"あんた絵上手わいさ！
+次のも見せてほしいわいさ！",Amazing! Show me the next one!
+35,Npc_SouthernVillage014_S1_017,"すごい！ すごいわいさ！
+えっ まだあるわいさ？！",Perfect! You have more?!
+36,Npc_SouthernVillage014_S1_018,"…新しい発見は ないさ わいさ？
+
+ひょっとすると このビーチの
+近くに転がってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから
+夜探した方が
+見つかりやすい気がするわいさ～","No new findings?
+
+
+I suppose one may have rolled away to the nearby
+beach...
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+37,Npc_SouthernVillage014_S1_019,"…新しい発見は ないさ わいさ？
+
+ひょっとすると波にさらわれて
+水の中とか行っちゃってたりしてさ…
+石碑の文字は
+夜に神秘的な光を放つから
+夜探した方が
+見つかりやすい気がするわいさ～","...No luck?
+
+
+I suppose the waves could have carried some away
+or pulled them underwater...
+
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."
+38,Npc_SouthernVillage014_S1_020,"…新しい発見は ないさ わいさ？
+
+ひょっとすると クレシア半島やイサキ岬の方に
+流されちまったかけらが あるかもしれないわいさ…
+石碑の文字は
+夜に神秘的な光を放つから
+夜探した方が
+見つかりやすい気がするわいさ～","...No luck?
+
+
+It may be possible that the ocean carried
+a fragment all the way to Cape Cresia or
+Soka Point.
+The letters on the stone glow with an
+eerie light at night, so you might want
+to try looking then."

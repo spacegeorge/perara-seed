@@ -1,0 +1,103 @@
+#,Title,JPja,USen
+1,QL_Gaman_Desc,"暑苦しいゴロンの兄弟から
+ガマンくらべの挑戦状を叩きつけられた
+
+内容はいたってシンプル
+3人よりも長く熱い土俵に乗り続けること 
+
+ただ それだけだと言うが…","The Goron Blood Brothers have challenged
+you to a test of will.
+
+The rules are simple... The challenger who can
+handle the intense heat within the ring for the
+longest without leaving the ring is the winner.
+
+They say that's all there is to it, but..."
+2,QL_Gaman_Finish,"灼熱の試練に耐えたおかげで
+古代の祠が姿を現した
+
+……
+
+…あ カベータのオトコの句の枠はないゴロ？
+ちょっとざんねんゴロ…","After you endured the heated test,
+a shrine suddenly appeared.
+
+\""So sweaty... Brother...\""
+-Kabetta
+
+Oh, that's all from Kabetta?
+That's too bad, brother..."
+3,QL_Gaman_Gaman_Step2_2,,
+4,QL_Gaman_Gaman_Step2_Failed,,
+5,QL_Gaman_Name,ガマンくらべ,Test of Will
+6,QL_Gaman_Step1,"『オトコとは
+厚き胸板
+ フルハート』
+
+装備をしっかり整えて
+ハートも満タンで挑むのが筋ゴロ
+バケット","\""A true Goron has a barrel for a chest and a
+heart the size of his biceps.
+
+Gearing up accordingly and having your hearts
+filled up before competing is key, brother!\""
+-Bayge"
+7,QL_Gaman_Step1_2,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+8,QL_Gaman_Step1_2_1,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+9,QL_Gaman_Step1_2_10,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+10,QL_Gaman_Step1_2_11,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+11,QL_Gaman_Step1_2_12,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+12,QL_Gaman_Step1_2_13,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+13,QL_Gaman_Step1_2_2,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+14,QL_Gaman_Step1_2_3,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+15,QL_Gaman_Step1_2_4,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+16,QL_Gaman_Step1_2_5,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+17,QL_Gaman_Step1_2_6,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+18,QL_Gaman_Step1_2_7,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+19,QL_Gaman_Step1_2_8,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+20,QL_Gaman_Step1_2_9,一回目のガマンくらべに成功した,いっかいめ一回目のガマンくらべにせいこう成功した
+21,QL_Gaman_Step1_2_Failed,一回目のガマンくらべを失敗した,いっかいめ一回目のガマンくらべをしっぱい失敗した
+22,QL_Gaman_Step1_2_Successed,"さらにキツい
+ガマンくらべに挑戦することに
+
+音をあげてしまった三兄弟の意志を継ぎ
+しっかりと熱さ対策をしてから
+灼熱の土俵に乗る必要がありそうだ","You've been challenged to an even hotter
+test of will.
+
+The three brothers admitted defeat before, but
+this time you'll have to make sure you've got
+some serious heat resistance if you want
+to match their will in the scorching ring."
+23,QL_Gaman_Step2,"『オトコとは
+気力体力
+不屈の精神』
+
+誰も到達したことのない領域ゴロ
+熱さ対策もばっちりゴロね？！
+ヒール","\""A true Goron needs mental fortitude,
+physical fortitude, and spiritual fortitude.
+
+This next test is beyond anything anyone
+has ever attempted. You've worked out how
+to protect against heat...right, brother?\""
+-Heehl"
+24,QL_Gaman_Step2_10,,
+25,QL_Gaman_Step2_11,,
+26,QL_Gaman_Step2_12,,
+27,QL_Gaman_Step2_13,,
+28,QL_Gaman_Step2_14,,
+29,QL_Gaman_Step2_15,,
+30,QL_Gaman_Step2_16,,
+31,QL_Gaman_Step2_17,,
+32,QL_Gaman_Step2_18,,
+33,QL_Gaman_Step2_19,,
+34,QL_Gaman_Step2_20,,
+35,QL_Gaman_Step2_21,,
+36,QL_Gaman_Step2_3,,
+37,QL_Gaman_Step2_4,,
+38,QL_Gaman_Step2_5,,
+39,QL_Gaman_Step2_6,,
+40,QL_Gaman_Step2_7,,
+41,QL_Gaman_Step2_8,,
+42,QL_Gaman_Step2_9,,

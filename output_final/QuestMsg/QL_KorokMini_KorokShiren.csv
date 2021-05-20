@@ -1,0 +1,39 @@
+#,Title,JPja,USen
+1,QL_KorokMini_KorokShiren_Desc,"スダジイから コログの試練について
+教えてもらった
+
+南西にある『操りの力のしれん』
+北西にある『はじめてのしれん』
+東にある『燃えずのしれん』
+
+祠と深いつながりがあるというが…","Chio told you about the Korok Trials.
+
+In the southwest: Trial of Second Sight
+In the northwest: The Lost Pilgrimage
+In the east: The Test of Wood
+
+Apparently the Korok Trials are somehow
+connected to the ancient shrines."
+2,QL_KorokMini_KorokShiren_Finish,"南西にある『操りの力のしれん』
+北西にある『はじめてのしれん』
+東にある『燃えずのしれん』
+
+3つの試練を達成したことをスダジイに報告し
+豪華賞品をもらった！","In the southwest: Trial of Second Sight
+In the northwest: The Lost Pilgrimage
+In the east: The Test of Wood
+
+You completed these three trials, reported your
+success to Chio, and received a reward."
+3,QL_KorokMini_KorokShiren_Name,コログ しれん,The Korok Trials
+4,QL_KorokMini_KorokShiren_Step010,"南西にある『操りの力のしれん』
+北西にある『はじめてのしれん』
+東にある『燃えずのしれん』
+
+3つの試練を達成した
+スダジイに報告しよう","In the southwest: Trial of Second Sight
+In the northwest: The Lost Pilgrimage
+In the east: The Test of Wood
+
+You've completed these three trials.
+Report back to Chio!"

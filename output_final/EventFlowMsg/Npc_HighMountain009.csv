@@ -1,0 +1,269 @@
+#,Title,JPja,USen
+1,"""0000""",どうしたの？,What's the matter?
+2,"""0001""",お大事に,Take care of yourself.
+3,"""0002""",教えて！,Please do.
+4,"""0003""",別にいい,"No, I'm fine."
+5,"""0004""",はい,Yes.
+6,"""0005""",いいえ,No.
+7,"""0006""",テバって？,Who's Teba?
+8,"""0007""",あなたって？,You are?
+9,"""0008""",メドーって？,Who's Medoh?
+10,"""0009""",お願いします,Please.
+11,"""0010""",結構です,I'm fine.
+12,"""0011""",大丈夫？,Are you all right?
+13,"""0012""",ごめんなさい！,I'm sorry!
+14,near00,…っつつつ,Owwwwwwwww...
+15,near01,……,...
+16,talk00,"っててて… いらっしゃい…
+…ちきしょう！","Arrgh... Welcome.
+Owwww..."
+17,talk01,"旅の人には関係無い話だぜ…
+
+チクショウ…あのバケモンめ…","No offense, but this is not your concern.
+
+
+That cursed monster..."
+18,talk02,"ああ… 
+
+こんな事になるんだったら
+族長の言う事を聞いとくべきだったぜ…","Not really...
+
+
+If this is what we are up against, we
+should have put more stock in the
+elder's words."
+19,talk03,"アンタ…
+空のバケモンの事嗅ぎ回ってんだろ…？
+だったら あの日の事を教えてやるよ","Hey, buddy... I'm guessing you caught
+wind of that monster circling around
+our village.
+I suppose I should get you up to speed
+on what went down."
+20,talk04,"よし いいぜ…
+
+この傷は今空を飛んでるバケモン…
+神獣 ヴァ・メドーに撃たれて できたヤツさ
+神獣 ヴァ・メドー…
+かつては村の守り神だったらしいな
+しかし アイツ…俺とテバが近付いた途端
+いきなり撃ってきやがった
+必死で応戦する中
+俺は不覚にも ヤツの攻撃を喰らっちまった
+墜落する俺を テバが拾ってくれたんだが
+そうなりゃもう退散しかねぇ
+テバが居なかったらと思うと…
+今考えても ゾッとするぜ
+…で そのテバを探すんだろ？
+知ってる範囲で教えてやるよ","Here goes...
+
+
+You see this wound here on my wing?
+I got shot by that thing in the sky,
+Divine Beast Vah Medoh.
+Legend has it, that monster was once
+the protector of this village.
+
+But those days are long gone—as soon
+as Teba and I approached the thing, it
+just shot at us out of nowhere.
+We tried to fight back, but I was too slow
+and got hit.
+
+Thankfully, Teba caught me while I was
+falling from the sky. We had no choice
+but to retreat.
+When I think about what would have
+happened had Teba not been there...
+Still gives me the bumps.
+So you planning to go find Teba?
+I will tell you everything I know."
+21,talk05,"アンタ…""聞いてるぜ
+やったんだろ？ あの神獣 ヴァ・メドーを…
+テバも戻って来た事だし
+いいとこ全部 アンタに持っていかれたな
+ま とりあえず礼を言わせてくれ
+ありがとよ","Hey, bud! I heard the whole story.
+That was you, yeah? You conquered
+Divine Beast Vah Medoh?
+And Teba is safe at home too? Looks like
+you went and did everything while I was
+out of the game.
+I guess I owe you one.
+Thanks, pal."
+22,talk06,"アンタ…テバと会ったんだろ…？
+
+何を言われたのかは知らんが
+アイツは言い出したら引っ込まねぇ
+ヤツを…テバを頼むぜ","Hey, bud. You meet with Teba?
+
+
+I imagine he is planning something crazy.
+I would ask you to talk him out of it, but
+I know better than that."
+23,talk07,"…テバの所に行くんだろ？
+神獣 ヴァ・メドーの事…教えてやるよ","Are you going to see Teba? I will tell you
+everything I know about
+Divine Beast Vah Medoh."
+24,talk08,…ありがとよ,...Thanks.
+25,talk09,"…行くんだろ？""聞かなくていいのかよ","...Are you leaving? But I have more to
+say!"
+26,talk10,"テバ… アイツは昔っからのダチで
+飛ぶ事に関しては右に出る者は居ねぇ
+無鉄砲ですぐに頭に血が上るのが玉にキズだが
+仲間想いの いいヤツだぜ
+しかし アイツ…「メドーをぶっ潰す」っつって 
+また行っちまったが1人とは無謀過ぎる…
+奥さんも子供も居るってのに バカなヤツだぜ…","Teba. Him and I go way back.
+As far as flying goes, he is undoubtedly
+the best in the village. 
+His only downside is that he's reckless...
+and has a bit of a temper...and he can be
+rude. But we look out for each other.
+But the way he was talking...saying that
+he was going to \""blow Medoh out of
+the sky.\""
+He wants to go back up there...alone.
+Which is absolutely insane. What kind of
+moron with a wife and a kid does that?"
+27,talk11,"俺は弓職人のハーツ
+
+俺も昔は戦士を目指してたんだが
+家業を継ぐんで辞めちまった
+娘のモモが
+テバんとこのチューリと歳が近くてな
+なので テバとは家族ぐるみの
+付き合いをさせてもらっている
+…ってか こんな話役に立つのか？","I am Harth. Bow craft is my trade. 
+
+
+My boyhood dream was to be a warrior,
+but I gave that up once it came time to
+inherit the family business.
+My daughter, Molli, is around the same
+age as Teba's kid, Tulin, so our families
+spend a lot of time together.
+Hold on... Is any of this helpful at all?"
+28,talk12,"神獣 ヴァ・メドー…
+
+古い人の話じゃ
+100年前に姿を消した村の守り神だけどな
+そう思って テバと偵察に行ったら
+ガンガン撃ってきやがって このザマよ
+今度行くときゃ大量にバクダン矢持ってって
+砲台全部ぶっ壊してやらぁ","Divine Beast Vah Medoh...
+
+
+I don't believe it myself, but some say
+it used to protect our village before 
+disappearing 100 years ago.
+Teba and I got to wondering about it,
+and when we went to investigate, it just
+opened fire on us...hence the injury.
+But as soon as I recover, I plan to fly up
+there with a whole mess of bomb arrows
+and blow its cannons to bits!"
+29,talk13,…テバを頼んだぜ,...Help Teba for me.
+30,talk14,…痛てて,Owww...
+31,talk15,…俺？,...Me?
+32,talk16,…で他に聞きたい事は？,Anything else you wanted to ask about?
+33,talk17,"…テバから聞いてるぜ
+
+神獣 ヴァ・メドーを仕留めたハイリア人って
+アンタの事だろ？","I heard about it from Teba.
+
+
+So you are the Hylian who conquered
+Divine Beast Vah Medoh?"
+34,talk18,"テバが村に戻ってきた事
+そしてメドーを鎮め この村を救ってくれた事
+俺からも まとめて礼を言わせてくれ
+ありがとよ","You brought Teba back safely, and you
+saved the village by dealing with
+Medoh.
+I wanted you to hear it from me too:
+thanks, pal. We are in your debt."
+35,talk20,いらっしゃい…っつつ…,"Ugh... 
+Welcome...
+Oww..."
+36,talk21,いらっしゃい…何の用だい？,"Welcome...
+What do you want?"
+37,talk22,"俺は弓職人のハーツ…
+
+だがよ…今は片腕が上がんねぇから
+開店休業よ","I am Harth, the bow craftsman.
+
+
+But... I cannot raise my arm right now, so
+business is not exactly booming."
+38,talk23,おい…,Hey...
+39,talk24,"フン…持ってけよ…
+どうせ今の俺には使えねぇからな","Heh... Take it.
+Not like I can use it in my condition."
+40,talk25,"いいぜ持ってけよ
+メドーを鎮めてくれた礼だ","Sure, go ahead and take it.
+Consider it thanks for conquering
+Medoh."
+41,talk26,"さて今の俺にできるのは
+おしゃべりくらいだが…","I have nothing but time, so ask away."
+42,talk51,"もしオオワシの弓を壊したり無くしたりしたら 
+俺が作り直してやっから
+ツバメの弓と薪の束が5つ
+それとダイヤモンドを俺ンとこに持って来な","If you break or lose the Great Eagle Bow,
+I can make a new one for you.
+
+But you will need to bring me a
+swallow bow, five bundles of wood,
+and a diamond."
+43,talk52,"で そのオオワシの弓
+持ってねぇようだけど…無くしたのか？
+作り直すンならツバメの弓とダイヤモンド
+それと薪の束が5つ必要なんだが…","I cannot help but notice that your
+Great Eagle Bow is missing.
+
+If you want me to make another one,
+I will need a swallow bow, a diamond,
+and five bundles of wood."
+44,talk53,"ダイヤモンドは なかなか手に入らねぇブツだが
+本当にいいんだな？","Diamonds are pretty tough to come by.
+Are you sure?"
+45,talk54,"よし… それじゃ早速作業に取り掛かる
+ちぃとそこで待っててくれや",All right... Just wait over there for a bit.
+46,talk55,"そうか…
+作り直したくなったら また来いよな","Got it...
+Stop by whenever you want me to make
+you another one."
+47,talk56,"よし…""最高のが出来たぜ
+大切に使ってくれ","Here ya go... I made a beauty for you.
+Take good care of it."
+48,talk57,"オオワシの弓を持ってねぇようだけど
+…落としたのか？
+作り直してやってもいいが
+まずは近くに無ぇか よく探してみな","Where is your Great Eagle Bow? Did you
+drop it somewhere?
+
+I can make you another one, but they are
+expensive to make. Maybe you should try
+to find your old one first."
+49,talk58,"アンタ全部持っているようだな
+なんだったら作り直してやろうか？","Looks like you got everything ready.
+Should I make you a new one?"
+50,talk59,"作り直すなら素材を揃えて
+俺ンとこまで持って来いよ","If you want me to make one, get the
+materials together and come back."
+51,talk60,アンタ全く何も持ってねぇな…,"Ah... You did not bring me anything I
+need to make it."
+52,talk61,アンタツバメの弓を持ってねぇぜ,You did not bring a swallow bow.
+53,talk62,アンタダイヤモンドを持ってねぇぜ,You do not have a diamond.
+54,talk63,薪の束が足りてねぇぜ,I am going to need more wood than that.
+55,talk64,"アンタ… まずツバメの弓を持ってねぇし
+薪の束も足りてねぇ","Listen, bud... You did not bring me a 
+swallow bow, and you do not have
+enough wood."
+56,talk65,"アンタ…""ツバメの弓とダイヤモンドを
+持ってねぇよな","Hey, bud... You did not bring me a
+swallow bow or a diamond."
+57,talk66,"アンタ…""ダイヤモンドを持ってねぇ
+薪の束も足りてねぇよ","Bud... You do not have a diamond, and
+I need more wood than that."
+58,talk67,"アンタ…""族長からオオワシの弓""預かったろ？","You...got the Great Eagle Bow from the
+elder, right?"

@@ -1,0 +1,191 @@
+#,Title,JPja,USen
+1,"""0008""",なんかわかった？,Did you learn anything?
+2,"""0009""",さよなら,Good-bye.
+3,"""0010""",ネタ？,Information?
+4,"""0011""",知ってる,I've heard of it.
+5,"""0012""",知らない,Never heard of it.
+6,Near_001,ほほうほうほう,Ho hoh hoh hoh.
+7,Talk_000,ゲルド族は意外と真面目っと…,The Gerudo are surprisin'ly serious...
+8,Talk_001,"ゴロン族は ゲルド人にとっては
+女子扱いっと…","Male Gorons seem to have no trouble
+getting into Gerudo Town..."
+9,Talk_002,ラブポンドはもろ刃の剣っと…,"The Lover's Pond is a double-edged
+sword..."
+10,Talk_003,"せっかくここまで来たし
+
+ゲルド族の本でも書こか思て
+今色々調べてんねん
+そや！
+とっておきのネタ教えたるわ！！
+ゲルドの平均身長は
+ビリビリフルーツの木と同じぐらい
+どや！ ええネタやろ？","I made it all the way here, so...
+
+
+I thought I'd write a book about the
+Gerudo people. I'm in the process of
+investigatin' them now.
+Oh, I know! I'll share some of the
+material I have set aside with you!
+
+The average height of a Gerudo is about the height
+of a voltfruit tree!
+
+That's good stuff, am I right?!"
+11,Talk_004,"せっかくここまで来たし
+
+ゲルド族の本でも書こか思て
+今色々調べてんねん
+そや！ ここで会たのも何かの縁や！
+とっておきのネタ教えたるわ！！
+ゲルドの平均体重は
+ヒンヤリメロン10個分やねんて
+どや！ ええネタやろ？","I made it all the way here, so...
+
+
+I thought I'd write a book about the
+Gerudo people. I'm in the process of
+investigatin' them now.
+I'll share some of the material I've got so
+far with you!
+
+The average Gerudo weighs as much as ten
+hydromelons!
+
+That's good stuff, am I right?!"
+12,Talk_01,"なるほど… アソコがこうなって…
+そんでもって ああなってて…","I see... So that happened over there...
+And even that...happened there!"
+13,Talk_02,"なんや見てわからんか？
+ウチは噂の調査で忙しいねん
+今この街は神獣の噂で持ちきりやからな
+あの神獣を徹底的に調べたら
+ええ金になる思てんねん","What? You can't tell just by lookin'?
+We're busy confirmin' a rumor.
+
+Right now the rumor of the Divine Beast
+is the talk o' the town. If I thoroughly
+investigate the Divine Beast...
+Well, a scoop like this could make me
+some serious money. S'all I'm saying."
+14,Talk_03,"あの2つのコブが
+電流を発生させとるみたいやわ
+なんや尻尾の方に入口みたいなんがあるから
+中に入れそうやねんけど…
+えらい高い場所にあるし
+雷もバンバン落ちとるし
+まぁ普通に入るのは無理やろうな…
+
+足でも絡ませて
+コケてくれたらええねんけどなぁ
+って あかんあかん！
+これはウチのネタや！
+情報は自分の足で稼ぐもんやで！","It looks like the electric current is
+generated in the two humps on that
+thing's back.
+There seems to be an entrance or
+somethin' under the tail, so you could
+maybe get in that way, but...
+It's super high up, and it shoots lightnin'
+at you, so...
+
+It definitely wouldn't be easy to just go
+inside—that's for sure.
+
+But if someone entangled its legs and
+tripped it, that'd work out really well...
+
+Wait, I shouldn't be tellin' you this! It's
+my info! You should earn information
+usin' your own two feet!"
+15,Talk_04,"神獣のことは まだ誰も記事にしてへんし
+このミツバちゃんが スクープとったんねん！","No one has reported anything about the
+Divine Beasts, so it's my chance to get
+the scoop!"
+16,Talk_05,ん？,Hrm?
+17,Talk_200,"記者たるもの
+まずは聞き込みや！
+それやのに何や！
+
+この兵士さん全然取り合ってくれへんねん！
+このミツバちゃんのどこが不審者やねん！！","Reporters must first gather information,
+but...
+
+This soldier won't even give me the time
+of day! Just what about me is so
+suspicious, anyway?!"
+18,Talk_201,"この街で なんや物騒な事件があった言うから
+あのでっかいのから命からがら潜り抜けて
+この街に辿り着いたっていうのに…
+
+何回頼んでも
+この兵士さん全然取り合ってくれへんねん！
+このミツバちゃんのどこが不審者やねん！！","I'd heard this town was goin' through
+some tough times. I barely got away from
+that big thing in the desert...
+But after all the danger to get here, this
+soldier won't even give me the time
+of day, much less let me in!"
+19,Talk_203,"なんや姉ちゃん…
+見ての通り ウチはネタ集めで忙しいんや！","What is it, ma'am? As you can see, I'm
+busy gathering information!"
+20,Talk_204,"姉ちゃん…
+
+まさかウチの事知らんのか？","Ma'am...
+Don't tell me you don't know who I am?"
+21,Talk_205,"まさか…
+『ウワサのミツバちゃん』も知らんとか…？","No way... You've never heard of
+Rumor Mill, either?"
+22,Talk_206,"よかった～
+
+まさかあの超人気情報誌の
+『ウワサのミツバちゃん』まで知らん言われたら
+どないしよかと思たけど…
+
+実は ウチがその ミツバちゃんやねん！","Phew, thank goodness!
+
+
+If you'd told me you'd never heard of
+Hyrule's most popular news publication,
+Rumor Mill...
+Well, I don't even know how I'd have
+taken that news! It woulda hurt,
+that's for sure!
+I'm Traysi herself, you know!"
+23,Talk_207,"ちょっと！
+アンタ冗談きついわ！
+あの超人気情報誌の
+『ウワサのミツバちゃん』を知らんなんて…
+あんた…
+もぐりやな
+まぁ アンタのことなんて
+どうでもええわ
+実はな何を隠そう
+ウチがそのミツバちゃんやねん！","ARE YOU KIDDING ME?!
+
+
+For you to say you've never heard of
+Rumor Mill, Hyrule's most popular news
+publication...
+You... You must be lying.
+Actually, I know you are!
+
+I AM an award-winning
+investigative journalist, after all!
+
+Truth is, you can't hide anything from
+Traysi!"
+24,Talk_208,"ちょっとちょっと！ ウソやろ？
+なんや そのうっすいリアクション！
+もう一度やり直しや！","Hey now! Get that wishy-washy garbage
+out of here! Once more, with conviction!"
+25,Talk_209,"実は ウチ… あの『ウワサのミツバちゃん』の
+ミツバちゃんやねん！","Truth is...I'm Traysi herself! From
+Rumor Mill!"
+26,Talk_210,"…ちゅうことで
+
+今後も『ウワサのミツバちゃん』
+よろしく頼むで～","I suppose that works... Anyway, I hope
+you enjoy reading Rumor Mill! I take
+pride in my work!"
+27,Talk_211,でもウチは諦めへんで～,But I'm not giving up!

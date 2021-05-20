@@ -1,0 +1,222 @@
+#,Title,JPja,USen
+1,"""0008""",材料？,Materials?
+2,"""0009""",夜光石どうぞ,Here are the stones.
+3,"""0010""",夜光石って？,Luminous stones?
+4,"""0011""",フーキュって？,Fronk?
+5,"""0012""",さようなら,Good-bye.
+6,"""0013""",お願いします,"Yes, please."
+7,"""0014""",やめときます,I'll pass.
+8,near00,フンッ… フンッ…,Hmph... Hmph...
+9,near01,ふぁああ…,*yawn*
+10,near02,ぶつぶつ…,*grumble*
+11,talk00,ぐー…ぶくぶくぶく…,*snore* *gurgle*
+12,talk01,ぶくぶくぶく…ぐー,*gurgle* *snore*
+13,talk02,"あっあなた様は！
+私ゾーラ川で会った… レトーガンであります！
+わざわざ お越しいただき
+ありがとうございます！","Oh! It's you! We met at Zora River...
+It's me, Ledo!
+
+Thank you for coming so quickly!"
+14,talk03,あっ ハイリア人！,Oy! Hylian!
+15,talk04,"私の事は さて置き…
+
+今はドレファン王に
+お会いになっていただけますか？","But enough about me...
+
+
+Could I possibly ask you...to go and
+meet with King Dorephan?"
+16,talk05,"はい！ あなたのようなハイリア人を
+お待ちしておりました！","Yes! I've been waiting for a Hylian
+like you!"
+17,talk06,"はい…私の口から
+全てを申し上げても よいのですが…","Right... I really shouldn't be the one to
+tell you..."
+18,talk07,"なので今はドレファン王と
+お会いになっていただけませんか？","So that's why I'd like to ask you to
+please meet with King Dorephan.
+You will, won't you?"
+19,talk08,"ドレファン王の話を
+聞いてくれたでありますね！
+そんな訳で我らがゾーラの里はルッタのせいで
+他にも被害が出ておるのです","You listened to what King Dorephan had
+to say!
+
+Yes, so that is the cause of our suffering
+in Zora's Domain. It is all because of
+that beast, Ruta."
+20,talk09,"ええ…修繕には大量の
+夜光石が必要なのであります
+この辺りだと
+ゾラ台地で よく採れるのですが…
+あなた ひょっとして旅先で既に
+夜光石を手に入れては ないですか？
+とりあえず10個あれば助かるのですが…","Yes... Repairs require a large number
+of luminous stones.
+
+You can find plenty of them around
+Upland Zorana.
+
+Have you, by chance, already stumbled
+across some luminous stones during
+your travels?
+For instance, if you have 10 of them,
+that would be a big help..."
+21,talk10,"ルッタを鎮めてくださり
+感謝の念に堪えません…！
+ですが我らがゾーラの里はルッタの被害が
+まだ残っておりまして…","You have appeased Ruta! I cannot
+express how grateful I am!
+
+However, those of us in Zora's Domain
+are still feeling the ramifications of the
+chaos that Ruta wrought..."
+22,talk11,これはこれは ハイリアの！,"Oh, if it isn't the Hylian!"
+23,talk12,"なので兄弟子フーキュと共に""里を修繕して
+おるのですが材料が底を尽きそうでして…","That's why my senior apprentice, Fronk,
+and I are repairing the domain. However,
+our materials are a bit depleted..."
+24,talk13,はい！お疲れ様です！,Yes! Hello!
+25,talk14,私に御用でしょうか？！,Did you need something from me?
+26,talk15,"夜光石とは このゾーラの里を形成する
+資材の1つであります
+昔ゾラ台地で夜光石がよく取れた事から
+この地にゾーラの里ができた
+という話であります","Luminous stones were part of the raw
+materials used to build Zora's Domain.
+
+In the past, luminous stones were often
+mined from Upland Zorana...which is why
+Zora's Domain was built here.
+That's the story, anyway."
+27,talk16,"フーキュと私レトーガンは
+ロスーリ師匠の弟子であります
+私とフーキュは いつも
+工房で修行に励んでおるのですが
+「里の修繕も修行のうち」と師匠に言われ
+現在に至っておるのであります","Fronk and I are Master Dento's
+faithful apprentices.
+
+Fronk and I are always striving to better
+ourselves in the workshop.
+
+Master always tells us, \""Repairing the
+domain is part of your training.\""
+So that's what we're doing now."
+28,talk17,他にも質問は ございますか？,Do you have any more questions?
+29,talk18,"ありがとうございます！
+夜光石を10個いただけるのですね？
+それでは失礼して
+数を確認させていただきます！","Thank you! You're really giving me
+10 luminous stones?!
+
+In that case, please excuse me while
+I count them!"
+30,talk19,はい それでは！,OK then! Back to work I go!
+31,talk20,ひとぉ～つ！,And a oooone!
+32,talk21,ふたぁ～つ！,And a twooooo!
+33,talk22,みぃ～っつ！,And a threeeeee!
+34,talk23,よぉ～っつ！,Foooooour!
+35,talk24,いつ～つ！,Fiiiiiive!
+36,talk25,むぅ～っつ！,Siiiiiiix!
+37,talk26,ななぁ～つ！,Seveeeeeeen!
+38,talk27,やぁ～っつ！,Eeeeeeeeeeight!
+39,talk28,ここのぉ～つ！,Niiiiiiiiine!
+40,talk29,とおぉっ！,Aaaand...TEN!
+41,talk30,"…
+
+……","...
+
+
+..."
+42,talk31,"誠に申し訳ないのですが
+夜光石を全くお持ちではない様子","I'm terribly sorry to have to say this,
+but it seems you don't currently have
+any luminous stones."
+43,talk32,"私""数を数えるのは得意でありまして…
+
+申し訳ないのですが お持ちの夜光石は
+10個に満たないであります","You see, I specialize in counting things...
+
+
+And I'm sorry, but the luminous stones
+in your possession number less than 10."
+44,talk33,"先ほど数えて足りなかったように思いますが
+それでも数えるでありますか？","I believe I counted them already and
+there weren't enough. Do you...
+want me to count them again?"
+45,talk34,"夜光石が10個集まりましたら
+私の所まで お持ちいただきたいであります！","When you have collected
+10 luminous stones,
+please bring them to me!"
+46,talk35,かしこまりました！,Very well!
+47,talk36,"それでは改めまして
+数えさせていただくであります！","All right, then... Allow me to count
+them again!"
+48,talk37,"おお！本当に持って来てくれて
+ありがとうございます！
+それでは夜光石をいただくであります！","Oh, my! You really brought all 10!
+Thank you! Yes, I will happily take
+those luminous stones from you!"
+49,talk38,そうだ…お礼を渡すであります！,"Oh, that's right... I must reward you!"
+50,talk39,"なんと今ならおまけに もう１つ
+ついてくるであります！","And what's more, I'll give you one extra
+as a bonus!"
+51,talk40,"…と思ったのですが
+あなたダイヤモンドを2個持てないご様子","Or...I'd like to, but you currently don't
+have room for two more diamonds."
+52,talk41,"お待ちしておりました
+夜光石のお礼を お受け取りください！","I've been waiting for you. Please accept
+these as a token of gratitude for bringing
+me those luminous stones!"
+53,talk42,"助かったであります！
+
+これ以降も夜光石が10個集まったら
+持って来て欲しいであります","You're a lifesaver! Truly!
+
+
+If you ever find yourself in possession
+of 10 luminous stones in the future,
+I hope you will bring them to me."
+54,talk43,"どこかで売るなりして
+空きを作って欲しいであります","If you don't mind, please sell those
+somewhere to make some space
+for these."
+55,talk44,"…と思ったのですが
+あなたダイヤモンドを1個持てないご様子","Well... I'd like to, anyway, but you don't
+currently have room for one more
+diamond."
+56,talk45,"でもその時はダイヤモンドは
+1個しか渡せないですが…
+よろしく頼むであります！","But if that happens, know that I'll only be
+able to give you one diamond for them.
+
+I would be honored if you would
+accept it when the time comes!"
+57,talk46,"もう寝るであります…
+また別の機会に…","I'm going to bed soon...
+Perhaps we can talk another time."
+58,talk47,"…こう掘ってから ああ掘るであります
+
+あすいません！今日の仕事の事で
+頭が一杯だったであります…","First, I should try chiseling like this...then I might
+try chiseling like that...
+
+Oh! My apologies! I'm just a little
+preoccupied with today's work..."
+59,talk51,"…あっ！聞いております！
+
+あなたがシド王子がお誘いになった
+ハイリア人ですね！","Oh! I've heard the news!
+
+
+You're the Hylian...who was invited here
+by Prince Sidon!"
+60,talk52,"遠路はるばる お疲れ様です！
+私 レトーガンと申します！","You must be exhausted after your long
+journey! Oh, and as for me, I am
+called Ledo."
+61,talk53,王の間におられますので是非！,"He's in the throne room.
+Please, go ahead!"
+62,talk54,眠いであります…お話ならまた今度…,I'm sleepy... Can we talk another time?

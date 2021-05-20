@@ -1,0 +1,133 @@
+#,Title,JPja,USen
+1,"""0000""",もちろん！,Of course!
+2,"""0001""",それほどでも,I'm all right.
+3,"""0002""",いいよ！,Sure!
+4,"""0003""",ルールは？,Is that all the rules?
+5,"""0004""",また今度ね,Maybe next time.
+6,"""0007""",はい,Yes.
+7,"""0009""",いいえ,No.
+8,"""0010""",どうして名前を？,"Hey, Tulin!"
+9,near00,わ～い,Yaaay!
+10,near01,がんばれ～,Good luck!
+11,talk00,"オッス！リンク！
+
+父ちゃんから聞いた！
+おまえ リンクって言うんだろ？
+どこかで聞いたような名前だな！
+
+でな？
+リンクは弓が上手なんだって？","Hey! Hey, Link!You're Link, right? My dad told me
+about you! Also, he said you're REAL
+good with a bow! Is that true?"
+12,talk02,"すごい自信だね！
+
+じゃあ ちょっとボクに お手本見せてよ",Wow! That's so neat!You gotta show me!
+13,talk03,"ウソだ！父ちゃんが言ってたから
+間違い無いぞ！
+ねぇ だから ボクにお手本見せてよ！","Nuh-uh! Dad said you were great, and
+Dad never lies, so it must be true!Come on, show me!"
+14,talk05,"ボクが時間を数えてる間に 
+的を片っ端から壊して！
+いっぱい壊せたら いいものあげるからさ！ 
+
+じゃあ いくよ！","I'll count down, and you'll break all the
+targets before time's up!When you break a bunch, I'll give you
+a prize!Are you ready yet?!"
+15,talk06,"よーし…
+じゃ位置についてーー！",Ooh! On your mark...
+16,talk07,フン…臆したか…,Aww... You don't wanna?
+17,talk09,"リンク！
+弓のお手本見せてくれるんだろ？","Link! Will you show me what you can do
+with a bow?"
+18,talk10,もう一度言うぞ リンク！,"Yeah, it's just like I said!"
+19,talk100,"おまえか… しばらくだな
+
+メドーが落ち着いた今
+チューリの訓練を再開したんだ
+なんだったら チューリに
+おまえの弓捌きを見せてやってくれないか？
+多少言葉遣いが俺に似てしまったが…
+悪気は無いはずだ","It's you... Haven't seen you in a while.
+Now that Medoh's calmed down, I've
+started training Tulin again.
+If you have the time, would you mind
+showing Tulin how you handle a bow?He gets his bluntness from me, but he
+doesn't mean anything by it. Don't let
+whatever he says get to you."
+20,talk101,"チューリに おまえの弓捌きを
+見せてやってくれないか？
+上級者の動きを見て盗む…
+そういう訓練も あるはずだからな","Would you mind showing Tulin how you
+handle a bow?Watching a master at work and trying to
+copy their techniques is a good start
+when it comes to training, after all."
+21,talk102,"チューリに おまえの弓捌きを見せてやってくれ
+何かの参考になるかも知れん","Show Tulin how you handle a bow. It
+could set a good example for him."
+22,talk103,"どうした？
+中止したいなら チューリに話してくれ","Is something wrong? If you want to stop,
+then take it up with Tulin."
+23,talk12,なんだ その程度か…,Is that really all you got?
+24,talk13,"…ちょっと待って
+リンクは弓を持ってないんじゃないの？
+どっかで弓を手に入れてから
+また来てくれよな！","Huh? You don't have a bow, Link?You should go find a bow somewhere!
+Then you can come back and show me
+your neat bow tricks!"
+25,talk14,"弓が無いじゃないか！
+一旦戻ってこーい！","Your bow is gone?! Wait, come back
+real quick!"
+26,talk15,"矢が無いんじゃないのか？！
+一旦戻ってこーい！","You're out of arrows?! Wait, come back
+real quick!"
+27,talk16,時間切れだ！戻ってこーい！,Time's up! Come back!
+28,talk17,"そこは場外だ！""一旦戻ってこーい！","Uh-oh, you went too far! Come back
+real quick!"
+29,talk18,"あれっ？そうは言うものの
+矢1本も持ってないじゃんか
+どっかで矢を手に入れたら また来てよね！","Huh? But...you're not carrying any
+arrows at all!Go get some arrows somewhere so you
+can show me your neat bow tricks!"
+30,talk19,どうした？ もう やめるのか？,What's wrong? Are you quitting?!
+31,talk20,オッケー！ガンガン的を壊してね！,OK! Go break those targets!
+32,talk22,"リンク！凄い！
+パーフェクトだよ！！
+矢を撃つ瞬間""時間が止まってるみたいだった！
+また その腕前見せて欲しいな！
+…あっ父ちゃんがコレ お礼に渡しとけって！","You're amazing, Link! When you fired
+your bow, it was like time stopped!Oh, Dad told me to give you this to 
+thank you."
+33,talk23,"おおー流石リンク！
+参考になるよ！
+あっ父ちゃんがコレ お礼に渡しとけって！
+またいつでも腕前を見せに来てね！","Yaaay! I knew you could do it, Link!
+I'll remember the way you shoot when
+I practice!
+Oh, Dad told me to give you this to
+thank you. Come back to show me
+your neat tricks again anytime!"
+34,talk24,"格好良かったよ リンク！
+
+あっ父ちゃんがコレ""渡しとけって！
+またいつでも挑戦しに来てよ！","That was nifty, Link!Oh, Dad told me to give you this to
+thank you. Come back and try again
+anytime!"
+35,talk25,"手こずってたみたいだけど
+なかなかの腕だ！
+あっ父ちゃんがコレ""一応渡しとけって！
+次はもっと格好良いトコを見せてね！","You had some trouble, but that's OK.
+I have trouble too sometimes. I still
+learned a lot watching you!
+Oh, Dad told me to give you this to
+thank you. Come back and show me
+more anytime!"
+36,talk26,"あれ？ リンク… 
+あんまり大した事無いね…
+これじゃあ何もあげられないや
+次こそは ばっちり格好良いトコを見せてよ！","Huh? Um...what was such a big deal
+about that?Next time, make sure you show me
+something a lot cooler, OK?"
+37,talk27,うわーーっ！すげぇー！,Whooooooa! Awesome!
+38,talk28,おおーーっ！やるぅー！,Oooooh! Look at that!
+39,talk29,おーーっ！流石！,Oooooh! That's really cool!
+40,talk30,わーー！すごいすごい！,Wooooow! You're amazing!

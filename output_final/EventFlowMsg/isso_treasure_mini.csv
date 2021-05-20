@@ -1,0 +1,108 @@
+#,Title,JPja,USen
+1,"""0000""",考え事？,Lost in thought?
+2,"""0001""",さようなら,Good-bye.
+3,"""0004""",財宝だった,It was treasure.
+4,"""0005""",剣だった,It was a sword.
+5,NewText_00,"おー すまんすまん
+ちょっと考え事をしていてね",Oh... Sorry. I was lost in thought.
+6,NewText_01,"男に教えるのは気が乗らないが…
+
+この川底に何か見えるの分かる？
+
+俺の勘が正しければ
+形状からして宝箱で間違いないんだが
+どうやって引き上げればいいのか悩んでてな
+
+何かこう…機械か何かで
+引き上げられないもんかね","I can't believe I'm about to share this
+with you, but I'm absolutely stumped.
+
+Have you seen that strange shape down
+at the bottom of the river?
+
+It's hard to make out, but I'm pretty sure
+it's a treasure chest.
+
+But I can't figure out how to fish it out of
+there.
+
+I guess I need...some kind of machine or
+something to get it out."
+7,NewText_03,"俺の勘が正しければ
+形状からして宝箱で間違いないんだが…
+何かこう…機械か何かで
+引き上げられないもんかね
+","It's hard to make out, but I'm pretty sure
+there's a treasure chest down in the
+riverbed.
+I guess I need...some kind of machine or
+something to get it out."
+8,NewText_07,"すごい財宝だって？！
+
+ちくしょー！くやしいっ！","Amazing treasure?!
+
+
+Ahh! That's so frustrating!"
+9,NewText_08,"なに？
+かっこいい剣だって？","What? A cool sword, you say?"
+10,NewText_09,"一体どんな力なのか分からねぇが
+兄ちゃん すげぇよ！
+でだ！
+宝箱の中身は何だったんだい？","I don't know what kind of wizardry you
+used, but that's incredible!
+
+And...yeah! What was inside the
+treasure chest?"
+11,NewText_10,"一体どうすれば…""水は苦手だし…","What should I do? I'm terrified of deep
+water..."
+12,NewText_11,"中身は何なのか…
+気になって眠れねーよ ちきしょー","I'm so curious about what's inside that
+chest, I can't even sleep."
+13,NewText_12,"俺が引き上げて金持ちになりゃ
+女にモテてたかも しれねーのに…","If I had just managed to get that chest,
+I'd be rich! And the ladies would be
+tripping over each other to be with me!"
+14,NewText_13,"まぁ中身が分かってスッキリしたぜ
+ありがとな兄ちゃん","Well, I suppose you did all of the hard
+work with that chest. At least I can
+sleep now."
+15,NewText_14,"そいつぁ俺が持ってても
+宝の持ち腐れってもんだな…","Whatever. I didn't really even want that
+life-changing treasure anyway..."
+16,NewText_15,"まぁ とにかく中身が分かってスッキリしたぜ
+ありがとな兄ちゃん","Well, at least I can relax now that I know
+what was inside. Thanks."
+17,NewText_16,おー！宝箱が！,Oh! The treasure chest!
+18,NewText_17,すげぇな兄ちゃん！,That was amazing!
+19,NewText_18,た宝箱が？！,Th—the treasure chest?!
+20,NewText_19,なんだそりゃ！,What the heck?!
+21,NewText_20,……ん？,...Hmm?
+22,NewText_23,"兄ちゃん すげぇじゃねーか！
+宝箱を引き上げるとはな
+早く中身を確認しようぜー！","INCREDIBLE! I can't believe you
+managed to get that treasure chest out
+of there!
+Hurry up and open it already!"
+23,NewText_26,んー…どうやって…,Hm... How can I...
+24,NewText_27,ああ さよなら,Ah. Good-bye.
+25,NewText_28,やっぱり気になる？,"Piques your interest, doesn't it?"
+26,NewText_29,"兄ちゃん何者だ？！
+あの宝箱を動かしてたよな？！
+実は どうやって引き上げようか
+ここ数日 ずっと悩んでたんだ…","Whoa, buddy! How did you move that
+chest?!
+
+I've been racking my brain for DAYS
+trying to think of a way to get that chest
+out!"
+27,NewText_30,"兄ちゃん何者だ？一体どんな力なのか俺には全くわからねぇが…すげぇ！すげぇよ！！
+早く宝箱を開けて中身を取ってみてくれよー！","Whoa, buddy!I don't know who you are or what kind of
+power you have...but it's awesome!Like...REALLY AWESOME!
+Now hurry up and open that chest!"
+28,NewText_31,"兄ちゃん何者だ？実は この宝箱をどうやって引き上げようか
+ここ数日 ずっと悩んでたんだ…","Whoa, buddy! How did you move this
+chest?!
+
+I've been racking my brain for DAYS
+trying to think of a way to get this chest
+out!"

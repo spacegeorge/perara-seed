@@ -1,0 +1,230 @@
+#,Title,JPja,USen
+1,"""0000""",何してるの？,What are you doing?
+2,"""0001""",あなたは？,Who are you?
+3,"""0002""",さようなら,Bye.
+4,"""0003""",大変ですね,"Hard work, huh?"
+5,"""0004""",ココ買いたい！,I'd buy this place!
+6,"""0005""",よかったね！,That's great.
+7,"""0006""",買うよ！,"Yep, buyin' it!"
+8,"""0007""",買わないよ,"Nah, I'm not."
+9,"""0008""",ダ？,...Son?
+10,"""0009""",どこに？,Where?
+11,"""0010""",そうだね,That's right.
+12,near00,シャー！,Graah!
+13,near01,ファァ～…,Hraah...
+14,near02,スヤスヤ…,Zzz...
+15,talk00,おはようッス！,Mornin' there!
+16,talk01,こんにちはッス！,Hullo there!
+17,talk02,こんばんはッス！,Evenin' there!
+18,talk03,雨ッスね…,Rain...yup.
+19,talk04,"すいやせんが
+今日は休ませてもらうッスね","Sorry, but I'm done for the day."
+20,talk05,どうもッス！,Hello!
+21,talk06,眠いッス…,So sleepy...
+22,talk07,またッスね！,Next time!
+23,talk08,元気ッスね！,"Lookin' mighty free there, eh?"
+24,talk09,"自分ッスか？
+
+自分は最近 サクラダ工務店に入社した
+新人のカツラダッス！
+試用期間が終わって ようやく
+サクラダファミリーの一員に なれたッスよ！
+いやぁ～～ ホント
+名前の最後が「ダ」でよかったッス","I just started at Bolson Construction.
+Name is Karson!
+
+My trial period is done, and they finally
+hired me as an official member
+of the Bolson family!
+I'm so glad my name happens to end in
+\""son,\"" y'know?"
+25,talk10,"家を壊してるんスよ
+
+この家…""誰も住んでないし古いんで
+ハテノ村の全員一致で壊す事になったッス
+ここに住んでた人がお城に宮仕えに行ってから
+それからず～～～っと手つかずらしいッスよ","Workin', as you can see!
+
+
+This old house here has been
+abandoned. Everyone in Hateno Village
+agreed we should demolish it.
+The old owner apparently went off to 
+the castle to report for service. Never
+came back, never wrote, so away it goes!"
+26,talk11,"ええ！""大変ですけど頑張るッス！","Yep! And I wouldn't want it any other
+way, to be honest with ya."
+27,talk12,"自分に言われても困るッス！
+
+壊すのやめて欲しいなら
+奥に居る社長に直接相談するしかないッスよ","Well, I'm not into real estate, so I can't
+really help you out there.
+
+If you're really interested in this place, 
+you're gonna need to talk to the boss."
+28,talk13,"社長のストップが入ったんで
+解体作業は一旦中断ッス…","I got the order to stop from the boss,
+so demolition is on hold for now..."
+29,talk14,いやー…キツいッス！,"Another day, another rupee!"
+30,talk15,"ふぃ～…
+この家 まだまだ壊れそうにないッスね…","Phew... This house isn't looking any
+less demolished despite all this effort..."
+31,talk16,"そうそう お買い上げありがとうッス！
+
+マジ パネェッス！
+どこにそんな お金あるんスか？
+でも お陰様で臨時ボーナスが入るッス！
+これで彼女と美味いモンでも食べにいくッス！","Oh, yeah, thanks for the big purchase!
+
+
+Seriously, though. Well done! Where'd a
+kid like you get that kind of dough?
+
+Thanks to you, I'm getting a plum bonus!
+
+
+Me and my girlfriend are gonna grab a
+tasty meal!"
+32,talk17,やっと休憩が入ったッスよ…,I finally got some time off...
+33,talk18,"いやァ～～…ほんとッスよ
+解体作業とかマジ キツいッスよ…
+これを一日中ぶっ通す エノキダさんとか
+マジ パネェッス…ある意味憧れるッス
+…そうそう そう言えば兄さんと社長との話が
+聞こえちゃったッスけど
+この家…""兄さんが買うんスか？","Hoo...it sure is. Demolition is seriously
+hard work.
+
+But there are folks like Hudson who
+could bust through a house in one day...
+The guy's my hero.
+So... I overheard you talking to the boss.
+
+
+Are you really gonna buy the house?"
+34,talk19,"なんで もう寝るッス
+また明日お願いッス","Time for me to hit the hay. See ya
+tomorrow, then."
+35,talk20,ウオースゲー！！,Whoa! No way!
+36,talk21,"…ッスよねー
+
+自分より若く見えるのに
+どこにそんなお金があるんかと正直焦ったッス","...But you were considering it?
+
+
+How many houses would I have to
+demolish to get that kind of dough?!"
+37,talk22,自分も頑張って バリバリ稼がないとなー！,"Not that it matters. We all have our own
+place to build. I'll just keep workin'
+hard the best way I know how!"
+38,talk23,そうなんスよ,"Yep, you heard me right!"
+39,talk24,ホントよかったッス,So great.
+40,talk25,"サクラダ工務店に入社するには
+名前の最後が「ダ」じゃないとダメなんス
+あ そう言えば
+社長は今度「事業拡大する」って言ってたッス
+だから名前の最後が「ダ」の人は
+どんどん雇われるんじゃないかと睨んでるッス","Apparently, your name has to end in
+\""son\"" to work at Bolson Construction.
+
+The boss there was saying he's really
+looking into expanding the business.
+
+But I'm wondering—just how many folks
+are out there with names ending in
+\""son\""? Maybe lots?"
+41,talk26,"そう言えば エノキダさん
+行っちゃったッスね…",Mr. Hudson just left not too long ago.
+42,talk27,"ここからずーっと北のアッカレ地方の
+アッカレ湖って所ッス
+ウチの…サクラダ工務店が事業拡大するんで
+まずは そこの土地を開拓するッスよ
+手伝いに行きたいんスが足手まといだろうし
+行くなら もっと腕を磨いてからッスね","He went to a place north of here in the
+Akkala region called Lake Akkala.
+
+Looking for new and creative ways to
+expand the business, he said.
+
+I wanna help him out, but I'm still green.
+Part of getting better in life is realizing
+how much you have to learn!"
+43,talk28,"まだまだ教えて欲しい事山ほどあったのに…
+切ないッス…","There was tons more that I was still
+hopin' to learn from him. Hope I get to
+see him again soon..."
+44,talk29,"あ行くッスか？
+
+もしアッカレ地方でエノキダさんに
+会う事があったら
+カツラダがよろしく言ってたと
+伝えてくれると嬉しいッス","Are you going north, by any chance?
+
+
+If you happen to run into Hudson
+out in the Akkala region, let him know
+that Karson says hi!"
+45,talk30,スピーーー…,Zzz...
+46,talk31,グゥ…,Zzz...
+47,talk32,"それにしても パウダさんは
+エノキダさんの どこが良かったんスかね？","I wonder what it is that Rhondson likes
+about Hudson..."
+48,talk33,"やっぱあの
+サラサラヘアー ッスかね？",Is it his astoundingly silky hair?
+49,talk34,"やっぱあの
+ムキムキボディ ッスかね？",Is it his chiseled physique?
+50,talk35,"そう言えば今度事業拡大で
+エノキダさんが栄転するッスよ
+なんでもアッカレ地方の
+アッカレ湖の方だとか…
+兄さんからも エノキダさんに
+声かけてあげて欲しいッス","Hudson is gonna get a promotion to
+help expand the business.
+
+And he's going off to some place called
+Lake Akkala in the Akkala region.
+
+Hey, I think you should go give Hudson
+a big congratulations!"
+51,talk36,"すいやせん
+社長との話聞こえちゃったッスが…
+エノキダさん結婚するッスか？","So I overheard your conversation with
+the boss... Is Hudson really getting
+married, then?"
+52,talk37,自分より若く見えるのに すげぇッスわー！,"That's incredible. And you even look
+younger than me..."
+53,talk38,"やるなぁ エノキダさん！
+
+奥さんはどんな方なんスかね？
+早く見てみてー！","Good for you, Hudson! I hope I get to
+meet his wife someday!"
+54,talk39,"エノキダさん
+赴任先で バリバリ頑張ってるッスね！
+しかも ご結婚まで…
+自分も頑張んないとなー！","I hear that Hudson is working hard
+over at the new job site!
+
+And he even got married, too! How does
+he find the time?"
+55,talk40,"自分達
+今 ハテノ村に戻って来たとこッス
+それにしても エノキダさんの結婚式
+よかったッスね～
+奥さんのパウダさんも お綺麗だったッス！
+
+自分も早く結婚してぇ～！
+なんちって","We just got back to Hateno Village.
+
+
+Hudson's wedding was so nice! And
+his wife, Rhondson, is just lovely!
+
+Those two really make settlin' down
+look...not so bad!"
+56,talk49,"その青い炎って あれッスよね
+研究所の…
+ま よく分からねッスけど","That blue flame... That's for the 
+research lab, isn't it?"
+57,talk50,"兄さん その青い炎
+運んで どっかにつけるんスよね？","Hey there, are you taking that blue flame
+somewhere to light something special?"
