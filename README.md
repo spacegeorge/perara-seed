@@ -1,6 +1,6 @@
 # perara-seed
 
-Author: SSJR-Quartz
+Author: **SSJR-Quartz**
 
 A toolset for displaying a side-by-side comparison of Japanese and English BotW dialogue files via .csv files.
 ### Requires:
