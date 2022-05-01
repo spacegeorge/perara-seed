@@ -1,21 +1,16 @@
 # perara seed
-# v1.5.2
-# Last update: 14 May 2021
+# v1.5.6
+# Last update: 30 Apr 2022
 
 # Dumps JP and EN text from all 8 msyt directories in an easy-to-read csv format.
 # Hopefully paves the way for more accurate English translation work.
 
-# Produces Sheikah Slate-like output in the console window.
-# (This is me being all cute and ganon-compliant.)
-# Next version will have progress bars.
+# Comment clean-up.
 
 
 import os  # Need this for creating directories.
 import re  # Regex (Regular Expressions)
 import unicodecsv as csv  # Need Unicode for writing the csv files correctly
-# (maybe don't actually need it but it does work like this for now).
-# Note: If trying to let others run this program, installing unicodecsv
-# may be required...
 
 import msvcrt as m  # Required for letting the user "Press any key to continue"
 import time  # Required for "pausing" after the print statements
@@ -23,9 +18,7 @@ from tqdm import tqdm  # Required for showing progress bars
 
 
 # Generate the directories for holding the extracted text.
-def makeMTJPexDir():
-
-    # print("Hello, welcome to the function for making the output directories.")
+def makeMTJPexDir():  
 
     pathMTJPex = 'output'
     pathMTJPex_AT = 'output/ActorType'
@@ -92,12 +85,7 @@ def enMTExtract(str1, str2, str3, comSegTitle):
     # with open('output/'+str3+str2+'.csv', 'wb') as file:		# Uses unicodecsv
 
     # Define the csv writer. Need the "encoding" piece to handle the Japanese text correctly.
-    # filewriter = csv.writer(file, encoding='utf-8')
-
-    # Column headers
-    column0 = '#'		# Denotes the order of each text segment in the msyt file.
-    column1 = 'Title'  # Denotes the segment title.
-    column2 = 'Text'  # Denotes the JP text in each segment.
+    # filewriter = csv.writer(file, encoding='utf-8')   
 
     # Write the column headers into the csv file
     # filewriter.writerow((column0, column1, column2))
@@ -108,24 +96,21 @@ def enMTExtract(str1, str2, str3, comSegTitle):
     with open('msyt_EN/'+str3+str1, "r", encoding="utf-8") as x:
 
         lines = x.readlines()  # Get a list of every line of the input msyt file
-        # numLines = 0	# Value for column '#'
 
         # Parse through each input file line.
         for i in lines:
 
             if 'field_3' in i:		# should never be touched with the EN msyt files
 
-                # (still need to understand this fully) Takes the relevant
                 value_num = (re.compile(patFieldFurLen)).search(i)
-                # pattern into account... Now value_num has all the text of line i, with that pattern somehow factored in.
+                # Takes the relevant pattern into account... Now value_num has all the text of line i, with that pattern factored in.
 
-                # (still need to understand this fully) value_split is now a list
                 value_split = (value_num.group(0)).split()
-                # of all the text in value_num? With each item having been split by a ' ' (space) by default.
+                # value_split is now a list of all the text in value_num, with each item having been split by a ' ' (space) by default.
                 # For example, the original line "field_3: 6" is now stored in value_split as ['field_3', '6']
-
-                # Takes the value of field_3, converts this string into an integer, then
+                
                 furDel = int(value_split[1])
+                # Takes the value of field_3, converts this string into an integer, then
                 # gives that integer to furDel. This is the total number of bytes of furigana characters in the next "text:" line.
                 # Dividing this number by 2 gives the number of furigana characters to delete.
                 # Remember that each character is 2 bytes.
@@ -133,9 +118,6 @@ def enMTExtract(str1, str2, str3, comSegTitle):
             # if statement for detecting the segment title. The 'contents' field is always the line after the segment title.
             elif 'contents:' in i:
 
-                # if numLines > 0:	# Removes an extra blank row between the column headers and the content.
-                # Write the #, segment title, and Japanese text to the csv file
-                # filewriter.writerow([numLines, segTitle[:-1], enText])
                 if segTitle[:-1] == comSegTitle:
                     return enText
 
@@ -150,10 +132,10 @@ def enMTExtract(str1, str2, str3, comSegTitle):
 
             elif 'text:' in i:  # Capture the Japanese text in each line that starts with 'text:'
 
-                furDel = furDel//2  # This is the correct format for Integer Division lol
+                furDel = furDel//2  # This is the correct format for Integer Division
 
-                # Still don't quite understand what this does, but it looks for pattern1 in line i.
-                # If pattern1 is not there (?), value_num becomes a None object?
+                # Look for pattern1 in line i.
+                # If pattern1 is not there, value_num becomes a None object
                 value_num = (re.compile(pattern1)).search(i)
 
                 minusQuo = ''
@@ -163,13 +145,6 @@ def enMTExtract(str1, str2, str3, comSegTitle):
                     # Take all of the text in value_num.group(0) that is separated by spaces,
                     # put each chunk into one list all together.
                     value_split = (value_num.group(0)).split()
-
-                    # Store the actual game text in minusQuo. value_split[0] should be 'text:'
-                    # minusQuo = ''
-                    # minusQuo += value_split[1]
-
-                    # Variable for noting whether the text contains a double quotation mark.
-                    hasQuote = False
 
                     # Handle cases where the text itself is separated by spaces.
                     if len(value_split) > 1:
@@ -188,7 +163,6 @@ def enMTExtract(str1, str2, str3, comSegTitle):
                                 spaceNum += 1
 
                             else:
-
                                 spaceNum += 1
 
                     # Remove double quotation marks.
@@ -204,11 +178,9 @@ def enMTExtract(str1, str2, str3, comSegTitle):
 
                     # Remove double \\n's, format the text appropriately.
                     if '\\n\\n' in minusQuo:
-                        hasQuote = True
                         # Split JP text with double \n as a separator.
                         value_newL = minusQuo.split('\\n\\n')
 
-                        # minusQuo += (value_newL[0])[furDel:]
                         minusQuo = (value_newL[0])[furDel:]
                         minusQuo += '\n'
                         minusQuo += '\n'
@@ -225,14 +197,12 @@ def enMTExtract(str1, str2, str3, comSegTitle):
                                 vnlNum += 1
 
                             else:
-
                                 minusQuo += (value_newL[vnlNum])
 
                                 vnlNum += 1
 
                     # Remove single \\n's, format the text appropriately.
                     if '\\n' in minusQuo:
-                        hasQuote = True
                         value_sNewL = minusQuo.split('\\n')
 
                         minusQuo = (value_sNewL[0])
@@ -259,11 +229,10 @@ def enMTExtract(str1, str2, str3, comSegTitle):
 
                     furDel = 0  # Reset the counter for how many furigana characters to delete
 
-            # Took several tries with finding the right tab to place this in. But this extracts the correct line with the section title.
+            # Extracts the correct line with the section title.
             potTitle = i
 
     # Write the final segment of text to the csv file.
-    # filewriter.writerow([numLines, segTitle[:-1], enText])
     if segTitle[:-1] == comSegTitle:
         return enText
 
@@ -284,27 +253,12 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
     # potTitle = Potential Title. Holds the title of each segment in the msyt file.
     potTitle = ''
 
-    # Write the output csv file, in the directory output
-    # with open('output/'+str3+str2+'.csv', 'wb') as file:		# Uses unicodecsv
-
-    # Define the csv writer. Need the "encoding" piece to handle the Japanese text correctly.
-    # filewriter = csv.writer(file, encoding='utf-8')
-
-    # Column headers
-    column0 = '#'		# Denotes the order of each text segment in the msyt file.
-    column1 = 'Title'  # Denotes the segment title.
-    column2 = 'Text'  # Denotes the JP text in each segment.
-
-    # Write the column headers into the csv file
-    # filewriter.writerow((column0, column1, column2))
-
     numLines = 0  # Value for column '#'
 
     # Read from the input msyt file.
     with open('msyt_EN/'+str3+str1, "r", encoding="utf-8") as x:
 
         lines = x.readlines()  # Get a list of every line of the input msyt file
-        # numLines = 0	# Value for column '#'
 
         # Counter for proper indexing so that i and the two lines before it are stored at all times.
         store2L = 0
@@ -316,17 +270,17 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
 
             if 'field_3' in i:		# should never be touched with the EN msyt files
 
-                # (still need to understand this fully) Takes the relevant
                 value_num = (re.compile(patFieldFurLen)).search(i)
-                # pattern into account... Now value_num has all the text of line i, with that pattern somehow factored in.
-
-                # (still need to understand this fully) value_split is now a list
+                # Takes the relevant pattern into account.
+                # Now value_num has all the text of line i, with that pattern factored in.
+                
                 value_split = (value_num.group(0)).split()
-                # of all the text in value_num? With each item having been split by a ' ' (space) by default.
+                # value_split is now a list
+                # of all the text in value_num, with each item having been split by a ' ' (space) by default.
                 # For example, the original line "field_3: 6" is now stored in value_split as ['field_3', '6']
-
-                # Takes the value of field_3, converts this string into an integer, then
+                
                 furDel = int(value_split[1])
+                # Takes the value of field_3, converts this string into an integer, then
                 # gives that integer to furDel. This is the total number of bytes of furigana characters in the next "text:" line.
                 # Dividing this number by 2 gives the number of furigana characters to delete.
                 # Remember that each character is 2 bytes.
@@ -334,13 +288,8 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
             # if statement for detecting the segment title. The 'contents' field is always the line after the segment title.
             elif 'contents:' in i:
 
-                # if numLines > 0:	# Removes an extra blank row between the column headers and the content.
-                # Write the #, segment title, and Japanese text to the csv file
-                # filewriter.writerow([numLines, segTitle[:-1], enText])
                 if segTitle[:-1] == comSegTitle:
                     return enText
-
-                    # print(enText)
 
                 # Reset the 3 values to correctly dump the output from the next segment.
                 enText = ''
@@ -353,10 +302,10 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
 
             elif 'text:' in i:  # Capture the Japanese text in each line that starts with 'text:'
 
-                furDel = furDel//2  # This is the correct format for Integer Division lol
+                furDel = furDel//2  # This is the correct format for Integer Division
 
-                # Still don't quite understand what this does, but it looks for pattern1 in line i.
-                # If pattern1 is not there (?), value_num becomes a None object?
+                # Look for pattern1 in line i.
+                # If pattern1 is not there, value_num becomes a None object
                 value_num = (re.compile(pattern1)).search(i)
 
                 minusQuo = ''
@@ -364,9 +313,6 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
                 if value_num != None:
 
                     value_split = value_num.group(0)[6:]  # Remove 'text: '
-
-                    # Variable for noting whether the text contains a double quotation mark.
-                    hasQuote = False
 
                     minusQuo += value_split
 
@@ -383,7 +329,6 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
 
                     # Remove double \\n's, format the text appropriately.
                     if '\\n\\n' in minusQuo:
-                        hasQuote = True
                         # Split JP text with double \n as a separator.
                         value_newL = minusQuo.split('\\n\\n')
 
@@ -410,7 +355,6 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
 
                     # Remove single \\n's, format the text appropriately.
                     if '\\n' in minusQuo:
-                        hasQuote = True
                         value_sNewL = minusQuo.split('\\n')
 
                         minusQuo = (value_sNewL[0])
@@ -428,7 +372,6 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
                                 vsnlNum += 1
 
                             else:
-
                                 minusQuo += (value_sNewL[vsnlNum])
 
                                 vsnlNum += 1
@@ -441,7 +384,7 @@ def enMTEvExtract(str1, str2, str3, comSegTitle):
                 store2L += 1
             else:
                 str2L = potTitle
-            # Took several tries with finding the right tab to place this in. But this extracts the correct line with the section title.
+            # Extract the correct line with the section title.
             potTitle = i
 
     # Write the final segment of text to the csv file.
@@ -478,17 +421,16 @@ def jpDemoExtract(str1, str2, str3):
     # potTitle = Potential Title. Holds the title of each segment in the msyt file.
     potTitle = ''
 
-    # Write the output csv file, in the directory output
+    # Write the output csv file, in the directory called 'output'
     with open('output/'+str3+str2+'.csv', 'wb') as file:		# Uses unicodecsv
 
         # Define the csv writer. Need the "encoding" piece to handle the Japanese text correctly.
         filewriter = csv.writer(file, encoding='utf-8')
 
         # Column headers
-        # Denotes the order of each text segment in the msyt file.
-        column0 = '#'
-        column1 = 'Title'  # Denotes the segment title.
-        column2 = 'JPja'  # Denotes the JP text in each segment.
+        column0 = '#'       # Denotes the order of each text segment in the msyt file.
+        column1 = 'Title'   # Denotes the segment title.
+        column2 = 'JPja'    # Denotes the JP text in each segment.
         column3 = 'USen'
 
         # Write the column headers into the csv file
@@ -500,24 +442,23 @@ def jpDemoExtract(str1, str2, str3):
         with open('msyt_JP/'+str3+str1, "r", encoding="utf-8") as x:
 
             lines = x.readlines()  # Get a list of every line of the input msyt file
-            # numLines = 0	# Value for column '#'
 
             # Parse through each input file line.
             for i in lines:
 
                 if 'field_3' in i:		# if statement to get the integer value of field_3
 
-                    # (still need to understand this fully) Takes the relevant
                     value_num = (re.compile(patFieldFurLen)).search(i)
-                    # pattern into account... Now value_num has all the text of line i, with that pattern somehow factored in.
-
-                    # (still need to understand this fully) value_split is now a list
+                    # Takes the relevant pattern into account.
+                    # Now value_num has all the text of line i, with that pattern factored in.
+                    
                     value_split = (value_num.group(0)).split()
-                    # of all the text in value_num? With each item having been split by a ' ' (space) by default.
+                    # value_split is now a list
+                    # of all the text in value_num, with each item having been split by a ' ' (space) by default.
                     # For example, the original line "field_3: 6" is now stored in value_split as ['field_3', '6']
-
-                    # Takes the value of field_3, converts this string into an integer, then
+                    
                     furDel = int(value_split[1])
+                    # Takes the value of field_3, converts this string into an integer, then
                     # gives that integer to furDel. This is the total number of bytes of furigana characters in the next "text:" line.
                     # Dividing this number by 2 gives the number of furigana characters to delete.
                     # Remember that each character is 2 bytes.
@@ -532,9 +473,6 @@ def jpDemoExtract(str1, str2, str3):
                         filewriter.writerow(
                             [numLines, segTitle[:-1], jpText, enText])
 
-                        # print(jpText)
-                        # print(enText)
-
                     # Reset the 3 values to correctly dump the output from the next segment.
                     jpText = ''
                     segTitle = ''
@@ -547,13 +485,11 @@ def jpDemoExtract(str1, str2, str3):
 
                 elif 'text' in i:  # Capture the Japanese text in each line that starts with 'text:'
 
-                    furDel = furDel//2  # This is the correct format for Integer Division lol
+                    furDel = furDel//2  # This is the correct format for Integer Division
 
-                    # Still don't quite understand what this does, but it looks for pattern1 in line i.
-                    # If pattern1 is not there (?), value_num becomes a None object?
+                    # Look for pattern1 in line i.
+                    # If pattern1 is not there, value_num becomes a None object.
                     value_num = (re.compile(pattern1)).search(i)
-
-                    #removeFur = False
 
                     if value_num != None:
 
@@ -564,21 +500,8 @@ def jpDemoExtract(str1, str2, str3):
                         # Store the actual game text in minusQuo. value_split[0] should be 'text:'
                         minusQuo = ''
 
-                        # Variable for noting whether the text contains a double quotation mark.
-                        # May have messed this up tho
-                        hasQuote = False
-
                         # Accommodate instances where the text itself is split up by spaces.
-                        # V1.3.4 note: The counterpart for EventFExtract is newer and handles 'text: '
-                        # correctly. May not need to update the DemoExtract function to have this code
-                        # since I never ran into the 'text: ' problem with those directories. But
-                        # may want to consider updating the DemoExtract code here, since the EventFExtract
-                        # coutnerpart is more elegant and handles more cases...
 
-                        # V1.4.7 note: Running into a space parsing error in QL_Gaman.
-                        # Looks like I have to switch formats after all.
-
-                        # NEW CODE
                         if len(value_split) > 1:
 
                             minusQuo += value_split[1]
@@ -608,14 +531,13 @@ def jpDemoExtract(str1, str2, str3):
 
                                 # Remove the trailing quotation mark
                                 minusQuo = minusQuo[:-1]
-                        # Lol just use Google Sheets for viewing for fewer headaches.
+                        # Users can use Google Sheets or Visual Studio Code for viewing the final csv files.
 
                         # Remove the furigana after removing any quotation marks
                         minusQuo = minusQuo[furDel:]
 
                         # Remove double \\n's, format the text appropriately.
                         if '\\n\\n' in minusQuo:
-                            hasQuote = True
                             # Split JP text with double \n as a separator.
                             value_newL = minusQuo.split('\\n\\n')
 
@@ -642,7 +564,6 @@ def jpDemoExtract(str1, str2, str3):
 
                         # Remove single \\n's, format the text appropriately.
                         if '\\n' in minusQuo:
-                            hasQuote = True
                             value_sNewL = minusQuo.split('\\n')
 
                             minusQuo = (value_sNewL[0])
@@ -669,7 +590,7 @@ def jpDemoExtract(str1, str2, str3):
 
                         furDel = 0  # Reset the counter for how many furigana characters to delete
 
-                # Took several tries with finding the right tab to place this in. But this extracts the correct line with the section title.
+                # Extract the correct line with the section title.
                 potTitle = i
 
         # Write the final segment of text to the csv file.
@@ -677,10 +598,6 @@ def jpDemoExtract(str1, str2, str3):
 
         if numLines > 0:
             filewriter.writerow([numLines, segTitle[:-1], jpText, enText])
-
-        # print(jpText)  # V1.3.4 Printing this out for now, just for funsies.
-        # Also seeing all the JP text dumped correctly is giving me a lot of dopamine right now lol.
-        # print(enText)
 
 
 def jpEventFExtract(str1, str2, str3):
@@ -736,9 +653,6 @@ def jpEventFExtract(str1, str2, str3):
                         filewriter.writerow(
                             [numLines, segTitle[:-1], jpText, enText])
 
-                        # print(jpText)
-                        # print(enText)
-
                     jpText = ''
                     segTitle = ''
                     numLines += 1
@@ -749,7 +663,7 @@ def jpEventFExtract(str1, str2, str3):
                 # Print each line in QL_100enemy.msyt that has text: * in it. (prints the Japanese text)
                 elif 'text' in i:
 
-                    furDel = furDel//2  # This is the correct format for Integer Division lol
+                    furDel = furDel//2  # This is the correct format for Integer Division
                     value_num = (re.compile(pattern1)).search(i)
 
                     if value_num != None:
@@ -758,8 +672,6 @@ def jpEventFExtract(str1, str2, str3):
                         # Another example: The original line "text: EX ohayou" is now stored in value_split as ['text:', 'EX', 'ohayou']
 
                         minusQuo = ''
-
-                        hasQuote = False
 
                         # Handle cases where the text itself is separated by spaces.
                         if len(value_split) > 1:
@@ -793,7 +705,6 @@ def jpEventFExtract(str1, str2, str3):
                         minusQuo = minusQuo[furDel:]
 
                         if '\\n\\n' in minusQuo:
-                            hasQuote = True
 
                             # Split JP text with double \n as a separator.
                             value_newL = minusQuo.split('\\n\\n')
@@ -821,7 +732,6 @@ def jpEventFExtract(str1, str2, str3):
                                     vnlNum += 1
 
                         if '\\n' in minusQuo:
-                            hasQuote = True
 
                             value_sNewL = minusQuo.split('\\n')
 
@@ -859,8 +769,6 @@ def jpEventFExtract(str1, str2, str3):
         enText = enMTEvExtract(str1, str2, str3, segTitle[:-1])
         if numLines > 0:
             filewriter.writerow([numLines, segTitle[:-1], jpText, enText])
-        # print(jpText)
-        # print(enText)
 
 # Put all the actual extraction code into an extracting function.
 
@@ -911,8 +819,6 @@ def jpQuestExtract(str1, str2):
                             str1, str2, 'QuestMsg/', segTitle[:-1])
                         filewriter.writerow(
                             [numLines, segTitle[:-1], jpText, enText])
-                        # print(jpText)
-                        # print(enText)
 
                     # Reset jpText so that the final product is not ALL of the Japanese text in this msyt file.
                     jpText = ''
@@ -925,7 +831,7 @@ def jpQuestExtract(str1, str2):
                 # Print each line in QL_100enemy.msyt that has text: * in it. (prints the Japanese text)
                 elif 'text' in i:
 
-                    furDel = furDel//2  # This is the correct format for Integer Division lol
+                    furDel = furDel//2  # This is the correct format for Integer Division
                     value_num = (re.compile(pattern1)).search(i)
 
                     if value_num != None:
@@ -933,13 +839,9 @@ def jpQuestExtract(str1, str2):
                         value_split = (value_num.group(0)).split()
                         # Another example: The original line "text: EX ohayou" is now stored in value_split as ['text:', 'EX', 'ohayou']
 
-                        # v1.4.7 notes: Need to fix this space parsing too. Last of the JP pieces.
                         minusQuo = ''
 
-                        hasQuote = False
-
                         # Accommodate instances where the text itself is split up by spaces.
-                        # NEW CODE
                         if len(value_split) > 1:
 
                             minusQuo += value_split[1]
@@ -971,7 +873,6 @@ def jpQuestExtract(str1, str2):
                         minusQuo = minusQuo[furDel:]
 
                         if '\\n\\n' in minusQuo:
-                            hasQuote = True
 
                             # Split JP text with double \n as a separator.
                             value_newL = minusQuo.split('\\n\\n')
@@ -998,7 +899,6 @@ def jpQuestExtract(str1, str2):
                                     vnlNum += 1
 
                         if '\\n' in minusQuo:
-                            hasQuote = True
 
                             value_sNewL = minusQuo.split('\\n')
 
@@ -1030,9 +930,6 @@ def jpQuestExtract(str1, str2):
             enText = enMTExtract(
                 str1, str2, 'QuestMsg/', segTitle[:-1])
             filewriter.writerow([numLines, segTitle[:-1], jpText, enText])
-        # print(jpText)
-        # print(enText)
-
 
 def main():
     print("Perara Seed v1.0.0 authenticated.")
@@ -1061,7 +958,7 @@ def main():
     # Parse through all msyt files in the directory QuestMsg.
     pathQuest = 'msyt_JP/QuestMsg'
     questFiles = os.listdir(pathQuest)
-    qF_num = 0  # I forget why I have this. Maybe I can use it later.
+    qF_num = 0 
 
     pathShout = 'msyt_JP/ShoutMsg'
     shoutFiles = os.listdir(pathShout)
@@ -1079,7 +976,6 @@ def main():
 
     fileCounter = 0
 
-    # ('Parsing ActorType msyt files...')
     print('Distilling ActorType text...')
     time.sleep(2)
     print('Expecting 33 files...')
@@ -1098,12 +994,10 @@ def main():
 
     print('ActorType text extracted.')
     time.sleep(2)
-    # Currently inaccurate. Should make fxn return aF_num.
     print('%i out of 33 files processed.' % aF_num)
     time.sleep(2)
     print()
 
-    # ('Parsing DemoMsg msyt files...')
     fileCounter = 0
 
     print('Distilling DemoMsg text...')
@@ -1127,7 +1021,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing EventFlowMsg msyt files...')
     fileCounter = 0
     print('Distilling EventFlowMsg text...')
     time.sleep(2)
@@ -1150,7 +1043,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing LayoutMsg msyt files...')
     fileCounter = 0
     print('Distilling LayoutMsg text...')
     time.sleep(2)
@@ -1174,7 +1066,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing QuestMsg msyt files...')
     fileCounter = 0
     print('Distilling QuestMsg text...')
     time.sleep(2)
@@ -1197,7 +1088,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing ShoutMsg msyt files...')
     fileCounter = 0
     print('Distilling ShoutMsg text...')
     time.sleep(2)
@@ -1220,7 +1110,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing StaticMsg msyt files...')
     fileCounter = 0
     print('Distilling StaticMsg text...')
     time.sleep(2)
@@ -1243,7 +1132,6 @@ def main():
     time.sleep(2)
     print()
 
-    # ('Parsing Tips msyt files...')
     fileCounter = 0
     print('Distilling Tips text...')
     time.sleep(2)
